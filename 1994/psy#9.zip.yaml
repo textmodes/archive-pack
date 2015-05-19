@@ -1,0 +1,24 @@
+name: psy#9.zip
+hash: c0380958906b3dbd291f058ddf4dd922
+year: 1994
+file:
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  NEO.COM:
+    mimetype: application/x-msdos-program
+  PSY#9.EXE:
+    mimetype: application/x-msdos-program
+  PSY#9.NFO:
+    mimetype: text/plain
+  PSY0.DAT:
+    mimetype: application/x-dosexec
+  PSY1.DAT:
+    mimetype: application/octet-stream
+  PSY2.DAT:
+    mimetype: text/plain
+  PSY3.DAT:
+    mimetype: text/plain
+  PSY4.DAT:
+    mimetype: image/gif
+  README.TXT:
+    mimetype: text/plain

@@ -1,0 +1,54 @@
+name: dvsrca1a.zip
+hash: b89f88c20b30df565576100341279a18
+year: 1998
+file:
+  DP-EBON.ASC:
+    mimetype: text/plain
+  DRM-AVE.ANS:
+    mimetype: text/plain
+  DRM-COL1.ANS:
+    mimetype: text/plain
+  DRM-DVS1.ANS:
+    mimetype: text/plain
+  DRM-EMM.ANS:
+    mimetype: text/plain
+  DRM-EPOC.ANS:
+    mimetype: text/plain
+  DRM-SCHM.ANS:
+    mimetype: text/plain
+  DRM-SKL.ANS:
+    mimetype: text/plain
+  DVS-RCA.MEM:
+    mimetype: text/plain
+  DVSRCA.NFO:
+    mimetype: text/plain
+  FFH-DEEP.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  INF-CHAO.ASC:
+    mimetype: text/plain
+  INF-DST.ASC:
+    mimetype: text/plain
+  KT-FEAR.ANS:
+    mimetype: text/plain
+  LB-SPRT.RIP:
+    mimetype: image/x-rip
+  LS-ID.ANS:
+    mimetype: text/plain
+  M-FOS.ASC:
+    mimetype: text/plain
+  MC-JUCE.RIP:
+    mimetype: image/x-rip
+  MC-OUTK.RIP:
+    mimetype: image/x-rip
+  S4-EBASS.ASC:
+    mimetype: text/plain
+  UN-MELL.ANS:
+    mimetype: text/plain
+  US-DVS1.ASC:
+    mimetype: text/plain
+  US-GP.ANS:
+    mimetype: text/plain
+  ZV-PHEAR.ANS:
+    mimetype: text/plain

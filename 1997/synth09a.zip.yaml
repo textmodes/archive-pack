@@ -1,0 +1,36 @@
+name: synth09a.zip
+hash: a2f6cc06a536f62ce9e42abadbc8adf2
+year: 1997
+file:
+  0597CONT.ANS:
+    mimetype: text/plain
+  0597MEMB.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  JPG2GIF.EXE:
+    mimetype: application/x-msdos-program
+  MSYS.EXE:
+    mimetype: application/x-msdos-program
+  MSYSTEM.NFO:
+    mimetype: text/plain
+  MUR.SYS:
+    mimetype: text/plain
+  SCVIEW.DOC:
+    mimetype: text/plain
+  SCVIEW.EXE:
+    mimetype: application/x-msdos-program
+  SYD-HALL.JPG:
+    mimetype: image/jpeg
+  SYD-ILND.JPG:
+    mimetype: image/jpeg
+  SYD-PYRD.JPG:
+    mimetype: image/jpeg
+  SYD-TNNL.JPG:
+    mimetype: image/jpeg
+  TR-CHEZ!.JPG:
+    mimetype: image/jpeg
+  TR-COLLY.ANS:
+    mimetype: text/plain
+  TR-MSGS.ANS:
+    mimetype: text/plain

@@ -1,0 +1,28 @@
+name: trans05.zip
+hash: 2f61519e6fb4a029e96d6edc9ed6ab21
+year: 1997
+file:
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GP-FACES.JPG:
+    mimetype: image/jpeg
+  GP-SOUND.JPG:
+    mimetype: image/jpeg
+  GP-TP100.JPG:
+    mimetype: image/jpeg
+  PS-DB242.RA:
+    mimetype: audio/x-pn-realaudio
+  PS-FUNK.XM:
+    mimetype: audio/x-mod
+  PS-TEV.JPG:
+    mimetype: image/jpeg
+  QU-DEEPR.LIT:
+    mimetype: text/plain
+  QU-LIGHT.LIT:
+    mimetype: text/plain
+  QU-REPLA.LIT:
+    mimetype: text/plain
+  TRANSAPP.EXE:
+    mimetype: application/x-msdos-program
+  TRANSNFO.EXE:
+    mimetype: application/x-msdos-program

@@ -1,0 +1,10 @@
+name: satwar03.zip
+hash: 8b5d9f1edcd2e06f44959c93afee3edf
+year: 1998
+file:
+  INFO.WAR:
+    mimetype: text/plain
+  OS_R_3.ASC:
+    mimetype: text/plain
+  SW_OS_3.ZIP:
+    mimetype: application/zip

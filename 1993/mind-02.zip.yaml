@@ -1,0 +1,56 @@
+name: mind-02.zip
+hash: 7994510a6571a30c5ecd3093519b29a7
+year: 1993
+file:
+  '!!!!!!!!.!!!':
+    mimetype: application/octet-stream
+  '--------.---':
+    mimetype: application/octet-stream
+  39826335.TXT:
+    mimetype: text/plain
+  DJ-INSOM.ANS:
+    mimetype: text/plain
+  GM-BLIND.ANS:
+    mimetype: text/plain
+  GM-CNET.ANS:
+    mimetype: text/plain
+  GM-CNET2.ANS:
+    mimetype: text/plain
+  GM-ESHAK.ANS:
+    mimetype: text/plain
+  GM-INSOM.ANS:
+    mimetype: text/plain
+  GM-LSDII.ANS:
+    mimetype: text/plain
+  GM-MVGA1.EXE:
+    mimetype: application/x-msdos-program
+  GM-MVGA2.EXE:
+    mimetype: application/x-msdos-program
+  GM-MVGA3.EXE:
+    mimetype: application/x-msdos-program
+  GM-MVGA4.EXE:
+    mimetype: application/x-msdos-program
+  GM-SANTA.ANS:
+    mimetype: text/plain
+  GM-SOF.ANS:
+    mimetype: text/plain
+  GM-WCHLD.ANS:
+    mimetype: text/plain
+  GM-XPLCT.ANS:
+    mimetype: text/plain
+  GM-ZIPAD.ANS:
+    mimetype: text/plain
+  MIND-APP.EXE:
+    mimetype: application/x-msdos-program
+  MINDLESS.EXE:
+    mimetype: application/x-msdos-program
+  MINDLESS.NFO:
+    mimetype: text/plain
+  MM-ADBN.ANS:
+    mimetype: text/plain
+  SR-DEST.ANS:
+    mimetype: text/plain
+  SR-RSECT.ANS:
+    mimetype: text/plain
+  UD.ANS:
+    mimetype: text/plain

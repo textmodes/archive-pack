@@ -1,0 +1,50 @@
+name: xps-0997.zip
+hash: b45a4db1bf32b260eff535145e5bf75f
+year: 1997
+file:
+  '##ART##':
+    mimetype: text/plain
+  '##INFO##':
+    mimetype: text/plain
+  '##INIQ##':
+    mimetype: text/plain
+  '#ILLUS#':
+    mimetype: text/plain
+  '#MSGNET#':
+    mimetype: text/plain
+  '#OTHER#':
+    mimetype: text/plain
+  ALL-0997.TXT:
+    mimetype: text/plain
+  DE-UTIL.ZIP:
+    mimetype: application/zip
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FRCNET04.ZIP:
+    mimetype: application/zip
+  KS-BF1B.ZIP:
+    mimetype: application/zip
+  KS-XLG2.ZIP:
+    mimetype: application/zip
+  LK-ACT.ZIP:
+    mimetype: application/zip
+  LK-BAQUS.ZIP:
+    mimetype: application/zip
+  LK-BLC14.ZIP:
+    mimetype: application/zip
+  LK-PRDEL.ZIP:
+    mimetype: application/zip
+  MODLIST.TXT:
+    mimetype: text/plain
+  ORGKAOS2.NFO:
+    mimetype: text/plain
+  REQUEST.EXE:
+    mimetype: application/x-msdos-program
+  RZ-XPS09.ASC:
+    mimetype: text/plain
+  XPS-0997.ANS:
+    mimetype: text/plain
+  XPS-APP.EXE:
+    mimetype: application/x-msdos-program
+  XPS-WHQ.EXE:
+    mimetype: application/x-msdos-program

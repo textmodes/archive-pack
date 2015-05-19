@@ -1,0 +1,18 @@
+name: starp202.zip
+hash: dd8fab05e1e2a4d2a05c5dfb9f9cdb72
+year: 1995
+file:
+  BOERTIG.TXT:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  NEO.COM:
+    mimetype: application/x-msdos-program
+  STARPLAY.DOC:
+    mimetype: text/plain
+  STARPLAY.EXE:
+    mimetype: application/x-msdos-program
+  STARPLAY.REV:
+    mimetype: text/plain
+  WONDER!.WHY:
+    mimetype: text/plain

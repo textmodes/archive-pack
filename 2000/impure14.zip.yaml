@@ -1,0 +1,42 @@
+name: impure14.zip
+hash: 3f2ae01c8664eb6994ba5751578938aa
+year: 2000
+file:
+  DWF-BULL.ASC:
+    mimetype: text/plain
+  DWF-IP.ASC:
+    mimetype: text/plain
+  DWF-SC.ASC:
+    mimetype: text/plain
+  DWF-WCK.ASC:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  IMP-014.INF:
+    mimetype: text/plain
+  IMP-014.MEM:
+    mimetype: text/plain
+  PO-CONFS.ASC:
+    mimetype: text/plain
+  PO-DALIN.ASC:
+    mimetype: text/plain
+  PO-DF.ASC:
+    mimetype: text/plain
+  PO-FSEDT.ASC:
+    mimetype: text/plain
+  PO-LOGOF.ASC:
+    mimetype: text/plain
+  PO-MBBS.ASC:
+    mimetype: text/plain
+  PO-MSCAN.ASC:
+    mimetype: text/plain
+  PO-NUJCK.ASC:
+    mimetype: text/plain
+  PO-OCII.ASC:
+    mimetype: text/plain
+  XZ-MAIN.ASC:
+    mimetype: text/plain
+  XZ-THUG.ASC:
+    mimetype: text/plain
+  XZ-WOE.ASC:
+    mimetype: text/plain

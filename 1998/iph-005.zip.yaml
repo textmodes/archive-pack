@@ -1,0 +1,84 @@
+name: iph-005.zip
+hash: f11e92e46cafbdfb33a36a0d847d1c80
+year: 1998
+file:
+  '!METRO.ANS':
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  IPH!ASC.JPG:
+    mimetype: image/jpeg
+  IPH-!PH.ANS:
+    mimetype: text/plain
+  IPH-AB1.ANS:
+    mimetype: text/plain
+  IPH-ALVA.ANS:
+    mimetype: text/plain
+  IPH-AREA.ANS:
+    mimetype: text/plain
+  IPH-ATZ.ANS:
+    mimetype: text/plain
+  IPH-AZID.ANS:
+    mimetype: text/plain
+  IPH-AZQI.ANS:
+    mimetype: text/plain
+  IPH-BT.ANS:
+    mimetype: text/plain
+  IPH-DIGR.ANS:
+    mimetype: text/plain
+  IPH-DR1.ASC:
+    mimetype: text/plain
+  IPH-EAL.ASC:
+    mimetype: text/plain
+  IPH-ELT1.ANS:
+    mimetype: text/plain
+  IPH-FDR.ASC:
+    mimetype: text/plain
+  IPH-FI.ANS:
+    mimetype: text/plain
+  IPH-FK.ANS:
+    mimetype: text/plain
+  IPH-FTRE.ANS:
+    mimetype: text/plain
+  IPH-GLO.ASC:
+    mimetype: text/plain
+  IPH-GOBY.ANS:
+    mimetype: text/plain
+  IPH-JAM.ANS:
+    mimetype: text/plain
+  IPH-LGN.ANS:
+    mimetype: text/plain
+  IPH-MB.ANS:
+    mimetype: text/plain
+  IPH-MODZ.ANS:
+    mimetype: text/plain
+  IPH-OL'.ANS:
+    mimetype: text/plain
+  IPH-OLD!.ASC:
+    mimetype: text/plain
+  IPH-PAGE.ANS:
+    mimetype: text/plain
+  IPH-PG2.ANS:
+    mimetype: text/plain
+  IPH-PLSM.ANS:
+    mimetype: text/plain
+  IPH-RMRS.ASC:
+    mimetype: text/plain
+  IPH-S.ANS:
+    mimetype: text/plain
+  IPH-SEC1.ANS:
+    mimetype: text/plain
+  IPH-SEYA.ANS:
+    mimetype: text/plain
+  IPH-SOS.ANS:
+    mimetype: text/plain
+  IPH-STAT.ANS:
+    mimetype: text/plain
+  IPH-TECH.ANS:
+    mimetype: text/plain
+  IPH-TFZ.ANS:
+    mimetype: text/plain
+  IPH-UL.ANS:
+    mimetype: text/plain
+  IPH-ZAP.ANS:
+    mimetype: text/plain

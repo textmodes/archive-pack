@@ -1,0 +1,120 @@
+name: bdp-0196.zip
+hash: 1485a80e3ba0db8e4d94bbb4a15e11e2
+year: 1996
+file:
+  '%%ANSI%%':
+    mimetype: text/plain
+  '%%ASCII%':
+    mimetype: text/plain
+  '%%BIN%%%':
+    mimetype: text/plain
+  '%%EXE%%%':
+    mimetype: text/plain
+  '%%INFO%%':
+    mimetype: text/plain
+  '%%RIP%%%':
+    mimetype: text/plain
+  '%%VGA%%%':
+    mimetype: text/plain
+  !!binary +PhUSEX4+A==:
+    mimetype: application/octet-stream
+  !!binary /jL+RkFTVP4uRVhF:
+    mimetype: application/x-msdos-program
+  !!binary +EFTWUxVTfg=:
+    mimetype: application/octet-stream
+  2HIGH4.YOU:
+    mimetype: text/plain
+  BDP%0196.MEM:
+    mimetype: text/plain
+  BDP%0196.NWS:
+    mimetype: text/plain
+  BDP%COLG.1YR:
+    mimetype: text/plain
+  BDP2.WAD:
+    mimetype: text/plain
+  BDPAPP.EXE:
+    mimetype: application/x-msdos-program
+  BDPREQ.EXE:
+    mimetype: application/x-msdos-program
+  CO-1YEAR.GIF:
+    mimetype: image/gif
+  CO-BDP.ANS:
+    mimetype: text/plain
+  CO-BDP2.ANS:
+    mimetype: text/plain
+  CO-COW.ANS:
+    mimetype: text/plain
+  CO-DAIM.GIF:
+    mimetype: image/gif
+  CO-DEV.ANS:
+    mimetype: text/plain
+  CO-DEV2.ANS:
+    mimetype: text/plain
+  CO-FIRM.RIP:
+    mimetype: image/x-rip
+  CO-HOP.ANS:
+    mimetype: text/plain
+  CO-LDSS.ANS:
+    mimetype: text/plain
+  CO-MAIN.ANS:
+    mimetype: text/plain
+  CO-WU.GIF:
+    mimetype: image/gif
+  DOS4GW.EXE:
+    mimetype: application/x-msdos-program
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  G8-BDP3.ASC:
+    mimetype: text/plain
+  G8-BDP5.ASC:
+    mimetype: text/plain
+  G8-LIM.ASC:
+    mimetype: text/plain
+  G8-TERRA.ASC:
+    mimetype: text/plain
+  HACKME.EXE:
+    mimetype: application/x-msdos-program
+  HEET.WIJ:
+    mimetype: text/plain
+  N$-BDP.ASC:
+    mimetype: text/plain
+  NUTJES:
+    mimetype: application/octet-stream
+  PASSED:
+    mimetype: text/plain
+  RC%DIGI.ANS:
+    mimetype: text/plain
+  RC%DIGIT.ANS:
+    mimetype: text/plain
+  RC%EYEZ.ANS:
+    mimetype: text/plain
+  RC%HORRO.ANS:
+    mimetype: text/plain
+  RC%MENTA.ANS:
+    mimetype: text/plain
+  RC%POOR.ANS:
+    mimetype: text/plain
+  RC%SEX.ANS:
+    mimetype: text/plain
+  RC%TELEP.ASC:
+    mimetype: text/plain
+  RC%VIEW.ANS:
+    mimetype: text/plain
+  TH-BAD2.ASC:
+    mimetype: text/plain
+  TH-COJ.ASC:
+    mimetype: text/plain
+  TH-FEW.ASC:
+    mimetype: text/plain
+  TH-SACRE.ASC:
+    mimetype: text/plain
+  TH-SG.ASC:
+    mimetype: text/plain
+  TPY-BDP.ASC:
+    mimetype: text/plain
+  TPY-BDP.GIF:
+    mimetype: image/gif
+  WZ-BDP.JPG:
+    mimetype: image/jpeg
+  WZ-DEV.JPG:
+    mimetype: image/jpeg

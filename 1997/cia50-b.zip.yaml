@@ -1,0 +1,42 @@
+name: cia50-b.zip
+hash: f87d7f970fd76a90de4d1849d5a79437
+year: 1997
+file:
+  '#50-DISK.NFO':
+    mimetype: text/plain
+  '#50-INFO.CIA':
+    mimetype: text/plain
+  !!binary wMTE/yM1MC7ExNk=:
+    mimetype: text/plain
+  !!binary 2sTE/0NJQS7ExL8=:
+    mimetype: text/plain
+  !!binary xMTE/0NOVEQuxMTE:
+    mimetype: text/plain
+  !!binary xMTE/0NPREUuxMTE:
+    mimetype: application/octet-stream
+  !!binary xMTE/01PUkUuxMTE:
+    mimetype: text/plain
+  CIA.BMP:
+    mimetype: image/x-ms-bmp
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GZ-RAYS.EXE:
+    mimetype: application/x-msdos-program
+  IV3.EXE:
+    mimetype: application/x-msdos-program
+  IV3.TXT:
+    mimetype: text/plain
+  KYO-CIA.JPG:
+    mimetype: image/jpeg
+  MJ-CIAPG.JPG:
+    mimetype: image/jpeg
+  NA-ALIEN.JPG:
+    mimetype: image/jpeg
+  NA-DYNO7.JPG:
+    mimetype: image/jpeg
+  PH!CWTR.JPG:
+    mimetype: image/jpeg
+  SD-TRMTC.JPG:
+    mimetype: image/jpeg
+  SU-YTO3.JPG:
+    mimetype: image/jpeg

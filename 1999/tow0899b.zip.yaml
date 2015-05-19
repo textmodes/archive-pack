@@ -1,0 +1,84 @@
+name: tow0899b.zip
+hash: c2b3e4c265d43aac0ced4dec89db1468
+year: 1999
+file:
+  __TOW__:
+    mimetype: text/plain
+  ART/__ART__:
+    mimetype: text/plain
+  ART/A!-INV.ASC:
+    mimetype: text/plain
+  ART/A!-PARA.ASC:
+    mimetype: text/plain
+  ART/LQ!INV1.ANS:
+    mimetype: text/plain
+  ART/LQ!INV2.ANS:
+    mimetype: text/plain
+  ART/PO-DOORS.ASC:
+    mimetype: text/plain
+  ART/PO-INV2.ASC:
+    mimetype: text/plain
+  ART/ZO-ANGL.ASC:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  MBBS/__MBBS__:
+    mimetype: text/plain
+  MBBS/ZMB2H020.ZIP:
+    mimetype: application/zip
+  MBBS/ZMUTIL#1.ZIP:
+    mimetype: application/zip
+  MBBS/ZMW2H100.ZIP:
+    mimetype: application/zip
+  MBBS/ZMWHO100.ZIP:
+    mimetype: application/zip
+  MBBS/ZO-CIP.ZIP:
+    mimetype: application/zip
+  MODS/__MODS__:
+    mimetype: text/plain
+  MODS/CB-WZACS.ZIP:
+    mimetype: application/zip
+  MODS/WOEDIGIL.ZIP:
+    mimetype: application/zip
+  MODS/WOELSTAT.ZIP:
+    mimetype: application/zip
+  MODS/WOEPASSW.ZIP:
+    mimetype: application/zip
+  MODS/WOEWON10.ZIP:
+    mimetype: application/zip
+  MODS/WOEWON11.ZIP:
+    mimetype: application/zip
+  MODS/ZO-M1LN3.ZIP:
+    mimetype: application/zip
+  MODS/ZO-M5CL2.ZIP:
+    mimetype: application/zip
+  MODS/ZO-M5DL2.ZIP:
+    mimetype: application/zip
+  MODS/ZO-MANN2.ZIP:
+    mimetype: application/zip
+  MODS/ZO-MATO5.ZIP:
+    mimetype: application/zip
+  MODS/ZO-MFRQ8.ZIP:
+    mimetype: application/zip
+  MODS/ZO-MLGM1.ZIP:
+    mimetype: application/zip
+  MODS/ZO-MLGO3.ZIP:
+    mimetype: application/zip
+  MODS/ZO-MMTX3.ZIP:
+    mimetype: application/zip
+  MODS/ZO-MPZ4.ZIP:
+    mimetype: application/zip
+  TOW1999.NFO:
+    mimetype: text/plain
+  TOWAPP.EXE:
+    mimetype: application/x-msdos-program
+  UTIL/__UTIL__:
+    mimetype: text/plain
+  UTIL/DELE14.ZIP:
+    mimetype: application/zip
+  UTIL/DELOLD02.ZIP:
+    mimetype: application/zip
+  UTIL/ZMP3D018.ZIP:
+    mimetype: application/zip
+  UTIL/ZO-00IDX.ZIP:
+    mimetype: application/zip

@@ -1,0 +1,68 @@
+name: era-1095.zip
+hash: eb8a5329f0ee8fb0ac72473441f13d24
+year: 1995
+file:
+  -ANSI-:
+    mimetype: text/plain
+  -ASCII-:
+    mimetype: text/plain
+  -INFO-:
+    mimetype: text/plain
+  -VGA-:
+    mimetype: text/plain
+  AX-ERA2.ANS:
+    mimetype: text/plain
+  AX-TL2.ANS:
+    mimetype: text/plain
+  CS-ERA1.GIF:
+    mimetype: image/gif
+  ENDSVILL.ANS:
+    mimetype: text/plain
+  ENDSVL95.TXT:
+    mimetype: text/plain
+  ERA-1095.MEM:
+    mimetype: text/plain
+  ERA-1095.NFO:
+    mimetype: text/plain
+  ERAAPP.EXE:
+    mimetype: application/x-msdos-program
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GR-TL.ANS:
+    mimetype: text/plain
+  GR-TL2.ANS:
+    mimetype: text/plain
+  GR-YNOS.JPG:
+    mimetype: image/jpeg
+  KHZ-GE4.ASC:
+    mimetype: text/plain
+  KHZ-GE8.BIN:
+    mimetype: application/octet-stream
+  KR-VIVID.ANS:
+    mimetype: text/plain
+  NR-COLO.ANS:
+    mimetype: text/plain
+  NR-DUMB.ASC:
+    mimetype: text/plain
+  NR-FR.MNU:
+    mimetype: text/plain
+  NR-HYPN.ANS:
+    mimetype: text/plain
+  NR-RUST.ASC:
+    mimetype: text/plain
+  SP-BHOUS.ASC:
+    mimetype: text/plain
+  SZ-ERA.ANS:
+    mimetype: text/plain
+  ZO-ABSKA.ANS:
+    mimetype: text/plain
+  ZO-CALVI.ANS:
+    mimetype: text/plain
+  ZO-DOG.ANS:
+    mimetype: text/plain
+  ZO-ERA.ANS:
+    mimetype: text/plain
+  ZO-TLNAV.ANS:
+    mimetype: text/plain
+  ZO-TREE.ANS:
+    mimetype: text/plain

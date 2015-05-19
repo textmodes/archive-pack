@@ -1,0 +1,14 @@
+name: grmscum2.zip
+hash: 72ea2ff1d476159677a7f730cb87d7d1
+year: 1997
+file:
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GS2.EXE:
+    mimetype: application/x-msdos-program
+  GS2.GRP:
+    mimetype: application/octet-stream
+  GS2.NFO:
+    mimetype: text/plain
+  GS2SETUP.EXE:
+    mimetype: application/x-msdos-program

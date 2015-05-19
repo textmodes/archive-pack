@@ -1,0 +1,30 @@
+name: se_d1295.zip
+hash: 4dc9e99d8c72dddbee5647d4403af06b
+year: 1995
+file:
+  BIDA-EST.S3M:
+    mimetype: audio/x-mod
+  DA-SPG.S3M:
+    mimetype: audio/x-mod
+  DA-WDCT.S3M:
+    mimetype: audio/x-mod
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  LI-DSE.S3M:
+    mimetype: audio/x-mod
+  LI-WINGS.S3M:
+    mimetype: audio/x-mod
+  ONX-ATC.S3M:
+    mimetype: audio/x-mod
+  ONX-ICTR.S3M:
+    mimetype: audio/x-mod
+  ONX-MINE.S3M:
+    mimetype: audio/x-mod
+  ONX-NDW.S3M:
+    mimetype: audio/x-mod
+  SE_APP.EXE:
+    mimetype: application/x-msdos-program
+  SE_INFO.TXT:
+    mimetype: text/plain
+  se-d1295.frm:
+    mimetype: text/plain

@@ -1,0 +1,52 @@
+name: crp-0794.zip
+hash: 7d10efeac2e1d9fba8b26b375fbd5f5a
+year: 1994
+file:
+  CORPSE.NFO:
+    mimetype: text/plain
+  CRP-0794.NFO:
+    mimetype: text/plain
+  DF.GIF:
+    mimetype: image/gif
+  DFLASH.GIF:
+    mimetype: image/gif
+  DM-ROD.LIT:
+    mimetype: text/plain
+  DM-UNI.ANS:
+    mimetype: text/plain
+  DOOM.GIF:
+    mimetype: image/gif
+  ETERNAL.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  HOSTLODR.ZIP:
+    mimetype: application/zip
+  MIND.ANS:
+    mimetype: text/plain
+  NEOTOKYO.ANS:
+    mimetype: text/plain
+  RB_HILND.ANS:
+    mimetype: text/plain
+  RB_MIND1.ANS:
+    mimetype: text/plain
+  RB_MIND2.ANS:
+    mimetype: text/plain
+  RB_MIND3.ANS:
+    mimetype: text/plain
+  RB_MIND4.ANS:
+    mimetype: text/plain
+  RB_MIND5.ANS:
+    mimetype: text/plain
+  RB_ROD!.ANS:
+    mimetype: text/plain
+  RB_ROD.ASC:
+    mimetype: text/plain
+  RB_SOUND.ANS:
+    mimetype: text/plain
+  RB_ST.ANS:
+    mimetype: text/plain
+  ROD.ANS:
+    mimetype: text/plain
+  SDRAGON.ANS:
+    mimetype: text/plain

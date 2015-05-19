@@ -1,0 +1,14 @@
+name: esgusfix.zip
+hash: ca14f2ede79a9d439f9e0bce87b5efc8
+year: 1995
+file:
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FIXEARTH.EXE:
+    mimetype: application/x-msdos-program
+  NEO.COM:
+    mimetype: application/x-msdos-program
+  README:
+    mimetype: text/plain
+  README.EXE:
+    mimetype: application/x-msdos-program

@@ -1,0 +1,38 @@
+name: out-0796.zip
+hash: 68237cabeb632ed5088c2d6f075e2c54
+year: 1996
+file:
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FILELIST.TXT:
+    mimetype: text/plain
+  OA-BLADE.ANS:
+    mimetype: text/plain
+  OA-LITE1.RIP:
+    mimetype: image/x-rip
+  OA-LITE2.RIP:
+    mimetype: image/x-rip
+  OA-MAGE.RIP:
+    mimetype: image/x-rip
+  OA-PROF.ANS:
+    mimetype: text/plain
+  OA-SPWMN.ANS:
+    mimetype: text/plain
+  OA-STORM.ANS:
+    mimetype: text/plain
+  OA-SWRDZ.ANS:
+    mimetype: text/plain
+  OA-VADER.ANS:
+    mimetype: text/plain
+  OA-VICTR.RIP:
+    mimetype: image/x-rip
+  OA-WARCH.RIP:
+    mimetype: image/x-rip
+  OUT-DIST.ANS:
+    mimetype: text/plain
+  OUT-DIST.RIP:
+    mimetype: image/x-rip
+  OUT-DIST.TXT:
+    mimetype: text/plain
+  OUT.AD:
+    mimetype: text/plain

@@ -1,0 +1,86 @@
+name: avpack05.zip
+hash: eaf9d4b93992c519911a2a271ce54097
+year: 1995
+file:
+  -ANSI---.---:
+    mimetype: application/octet-stream
+  -END----.---:
+    mimetype: text/plain
+  -MUSIC--.---:
+    mimetype: text/plain
+  -NFO----.---:
+    mimetype: text/plain
+  -VGA----.---:
+    mimetype: text/plain
+  -VIEWERS.---:
+    mimetype: text/plain
+  AV-APP.EXE:
+    mimetype: application/x-msdos-program
+  AVVIEW.DOC:
+    mimetype: text/plain
+  AVVIEW.EXE:
+    mimetype: application/x-msdos-program
+  BA-ALPHA.ANS:
+    mimetype: text/plain
+  BA-NAZI.ANS:
+    mimetype: text/plain
+  BF-MASK.ANS:
+    mimetype: text/plain
+  CONTENTS.AVI:
+    mimetype: video/x-msvideo
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FK-MYS.ANS:
+    mimetype: text/plain
+  HQ-BHAND.ANS:
+    mimetype: text/plain
+  HQ-MAD.ANS:
+    mimetype: text/plain
+  HS-AV1.GIF:
+    mimetype: image/gif
+  HS-AVMEM.GIF:
+    mimetype: image/gif
+  HS-MYS.GIF:
+    mimetype: image/gif
+  HYPER.MOD:
+    mimetype: audio/x-mod
+  INFO.AVI:
+    mimetype: video/x-msvideo
+  KRL-AVIS.BIN:
+    mimetype: text/plain
+  KRL-BB2.ANS:
+    mimetype: text/plain
+  KRL-DOFF.ANS:
+    mimetype: text/plain
+  KRL-DRM.ANS:
+    mimetype: text/plain
+  KRL-GOL.ANS:
+    mimetype: text/plain
+  KRL-GOL2.ANS:
+    mimetype: text/plain
+  KRL-INTA.ANS:
+    mimetype: text/plain
+  KRL-LOGO.ANS:
+    mimetype: text/plain
+  KRL-LOGO.ASC:
+    mimetype: text/plain
+  KRL-MAD.ANS:
+    mimetype: text/plain
+  KRL-MTRX.ANS:
+    mimetype: text/plain
+  MEMBERS.AVI:
+    mimetype: video/x-msvideo
+  !!binary TUmzKUmSTi7h4VM=:
+    mimetype: text/plain
+  PSOLDIER.S3M:
+    mimetype: audio/x-mod
+  SITES.AVI:
+    mimetype: video/x-msvideo
+  TS&HF-VB.ANS:
+    mimetype: text/plain
+  US-VAPRZ.ANS:
+    mimetype: text/plain
+  VISIONS.EXE:
+    mimetype: application/x-msdos-program
+  VISIONS.NFO:
+    mimetype: text/plain

@@ -1,0 +1,90 @@
+name: plan9-02.zip
+hash: c99de384a921cf0856abb85600799118
+year: 1997
+file:
+  --ANS--.---:
+    mimetype: application/octet-stream
+  --ASC--.---:
+    mimetype: application/octet-stream
+  --MSC--.---:
+    mimetype: application/octet-stream
+  --NFO--.---:
+    mimetype: application/octet-stream
+  --VGA--.---:
+    mimetype: application/octet-stream
+  BF-ANS2.ANS:
+    mimetype: text/plain
+  BF-ASC3.ASC:
+    mimetype: text/plain
+  BF-GOO1.ASC:
+    mimetype: text/plain
+  CH-OD2.JPG:
+    mimetype: image/jpeg
+  CH-OVDS.JPG:
+    mimetype: image/jpeg
+  CH-PL91.JPG:
+    mimetype: image/jpeg
+  CK-BIGB1.ASC:
+    mimetype: text/plain
+  CT-DK1.TXT:
+    mimetype: text/plain
+  DF-DOAMM.ASC:
+    mimetype: text/plain
+  DF-WM1.ASC:
+    mimetype: text/plain
+  DV-PLAN9.JPG:
+    mimetype: image/jpeg
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GR-CALL.ASC:
+    mimetype: text/plain
+  GR-COLLE.ASC:
+    mimetype: text/plain
+  GR-WARS.ASC:
+    mimetype: text/plain
+  I!-COL1.ANS:
+    mimetype: text/plain
+  KN-P92.JPG:
+    mimetype: image/jpeg
+  LK-COLL1.ANS:
+    mimetype: text/plain
+  LK-P9FNT.ANS:
+    mimetype: text/plain
+  LK-PLAN.ANS:
+    mimetype: text/plain
+  LK-RLM.ANS:
+    mimetype: text/plain
+  MODS.ZIP:
+    mimetype: application/zip
+  OB-POD1.ANS:
+    mimetype: text/plain
+  PLAN9-02.BBS:
+    mimetype: text/plain
+  PLAN9-02.MEM:
+    mimetype: text/plain
+  PLAN9-02.NFO:
+    mimetype: text/plain
+  PLAN9-AP.EXE:
+    mimetype: application/x-msdos-program
+  RN!301.JPG:
+    mimetype: image/jpeg
+  RN-BB.JPG:
+    mimetype: image/jpeg
+  RN-IRC.JPG:
+    mimetype: image/jpeg
+  RN-P91.JPG:
+    mimetype: image/jpeg
+  RN-P92.JPG:
+    mimetype: image/jpeg
+  RN-RR.JPG:
+    mimetype: image/jpeg
+  RP1-COLL.ANS:
+    mimetype: text/plain
+  RP1-GOO.ANS:
+    mimetype: text/plain
+  RP1-MENU.ANS:
+    mimetype: text/plain
+  US-DWR1.ANS:
+    mimetype: text/plain
+  US-SS1.ASC:
+    mimetype: text/plain

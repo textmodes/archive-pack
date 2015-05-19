@@ -1,0 +1,102 @@
+name: rawoe-98.zip
+hash: 8fe6c1c7d02e7104db771185f9955088
+year: 1998
+file:
+  -ANSI-/((ANSI)):
+    mimetype: text/plain
+  -ANSI-/AVE-WOE1.ANS:
+    mimetype: text/plain
+  -ANSI-/CP-BITCH.ANS:
+    mimetype: text/plain
+  -ANSI-/CP-BLUR1.ANS:
+    mimetype: text/plain
+  -ANSI-/DRM-WOE.ANS:
+    mimetype: text/plain
+  -ANSI-/DS-GIN.ANS:
+    mimetype: text/plain
+  -ANSI-/DS-TS2.ANS:
+    mimetype: text/plain
+  -ANSI-/DS-TS3.ANS:
+    mimetype: text/plain
+  -ANSI-/DS-TSLO.ANS:
+    mimetype: text/plain
+  -ANSI-/DS-TSMAT.ANS:
+    mimetype: text/plain
+  -ANSI-/SM-WOEZ.ANS:
+    mimetype: text/plain
+  -ANSI-/SPF-FACE.ANS:
+    mimetype: text/plain
+  -ANSI-/SPF-LIQD.ANS:
+    mimetype: text/plain
+  -ANSI-/SPF-WOEZ.ANS:
+    mimetype: text/plain
+  -ANSI-/SRD-DOPE.ANS:
+    mimetype: text/plain
+  -ANSI-/SRD-FEAR.ANS:
+    mimetype: text/plain
+  -ANSI-/SRD-GOO.ANS:
+    mimetype: text/plain
+  -ANSI-/US-LIQ.ANS:
+    mimetype: text/plain
+  -ANSI-/US-WOE.ANS:
+    mimetype: text/plain
+  -ASCII-/((ASCII):
+    mimetype: text/plain
+  -ASCII-/CD-BJ.ASC:
+    mimetype: text/plain
+  -ASCII-/CD-CHAT.ASC:
+    mimetype: text/plain
+  -ASCII-/CD-DIZ1.ASC:
+    mimetype: text/plain
+  -ASCII-/CD-KUNT.ASC:
+    mimetype: text/plain
+  -ASCII-/CD-LEG.ASC:
+    mimetype: text/plain
+  -ASCII-/CD-PIG.ASC:
+    mimetype: text/plain
+  -ASCII-/CD-PWR.ASC:
+    mimetype: text/plain
+  -ASCII-/CD-SOI.ASC:
+    mimetype: text/plain
+  -ASCII-/CL-WOE.ASC:
+    mimetype: text/plain
+  -ASCII-/PPE-INF2.ASC:
+    mimetype: text/plain
+  -ASCII-/RG-RA11.ASC:
+    mimetype: text/plain
+  -ASCII-/RG-RIOT5.ASC:
+    mimetype: text/plain
+  -ASCII-/RG-SEN10.ASC:
+    mimetype: text/plain
+  -ASCII-/RG-SPIN3.ASC:
+    mimetype: text/plain
+  -ASCII-/RG-THO17.ASC:
+    mimetype: text/plain
+  -LIT-/((LIT)):
+    mimetype: text/plain
+  -LIT-/SUICIDE5.LIT:
+    mimetype: text/plain
+  -RIP-/((RIP)):
+    mimetype: text/plain
+  -RIP-/TD-AB.RIP:
+    mimetype: image/x-rip
+  -RIP-/TD-L_H.RIP:
+    mimetype: image/x-rip
+  -RIP-/TD-WOE2.RIP:
+    mimetype: image/x-rip
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  LINKWOE.ZIP:
+    mimetype: application/zip
+  RA-WOE.INF:
+    mimetype: text/plain
+  RAVIEW.EXE:
+    mimetype: application/x-msdos-program
+  REBELAPP.EXE:
+    mimetype: application/x-msdos-program
+  WOE1098.INQ:
+    mimetype: text/plain
+  WOEAPP.EXE:
+    mimetype: application/x-msdos-program
+  WOEVIEW.EXE:
+    mimetype: application/x-msdos-program

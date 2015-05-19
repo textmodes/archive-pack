@@ -1,0 +1,52 @@
+name: dynamic!.zip
+hash: 4f221cd1b4fb5f971f1386e8159621b5
+year: 1994
+file:
+  DYNA0000.L8M:
+    mimetype: application/octet-stream
+  DYNA0001.L8M:
+    mimetype: application/octet-stream
+  DYNA0002.L8M:
+    mimetype: application/octet-stream
+  DYNA0003.L8M:
+    mimetype: application/octet-stream
+  DYNA0004.L8M:
+    mimetype: application/octet-stream
+  DYNA0005.L8M:
+    mimetype: application/octet-stream
+  DYNA0006.L8M:
+    mimetype: application/octet-stream
+  DYNA0007.L8M:
+    mimetype: application/octet-stream
+  DYNA0008.L8M:
+    mimetype: application/octet-stream
+  DYNA0009.L8M:
+    mimetype: application/octet-stream
+  DYNA0010.L8M:
+    mimetype: application/octet-stream
+  DYNA0011.L8M:
+    mimetype: application/octet-stream
+  DYNA0012.L8M:
+    mimetype: application/octet-stream
+  DYNA0013.L8M:
+    mimetype: application/octet-stream
+  DYNA0014.L8M:
+    mimetype: application/octet-stream
+  DYNA0015.L8M:
+    mimetype: application/octet-stream
+  DYNAMIC.EXE:
+    mimetype: application/x-msdos-program
+  DYNATSS.EXE:
+    mimetype: application/x-msdos-program
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  !!binary SU1BR61ORS5FWEU=:
+    mimetype: application/x-msdos-program
+  NEO.COM:
+    mimetype: application/x-msdos-program
+  ORDER.ENG:
+    mimetype: text/plain
+  ORDER.SWE:
+    mimetype: text/plain
+  README.1ST:
+    mimetype: text/plain

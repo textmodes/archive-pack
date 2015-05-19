@@ -1,0 +1,40 @@
+name: prn-x006.zip
+hash: 1be1e60de9c8aead128922ceb746235c
+year: 2003
+file:
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  MESSAGES.TXT:
+    mimetype: text/plain
+  MESSGAES.ASC:
+    mimetype: text/plain
+  PRNX-OO6.NFO:
+    mimetype: text/plain
+  RUN.BAT:
+    mimetype: application/x-msdos-program
+  ST-ABS01.ASC:
+    mimetype: text/plain
+  ST-AMI02.ASC:
+    mimetype: text/plain
+  ST-D----.ASC:
+    mimetype: text/plain
+  ST-DZO01.ASC:
+    mimetype: text/plain
+  ST-F0NK-.ASC:
+    mimetype: text/plain
+  ST-HAL--.ANS:
+    mimetype: text/plain
+  ST-MEGU-.ASC:
+    mimetype: text/plain
+  ST-PH---.ASC:
+    mimetype: text/plain
+  ST-PRN02.ASC:
+    mimetype: text/plain
+  ST-SBPW-.ASC:
+    mimetype: text/plain
+  ST-TZ-01.ASC:
+    mimetype: text/plain
+  ST-VEE--.ASC:
+    mimetype: text/plain
+  THUGLIFE.ORG:
+    mimetype: text/plain

@@ -1,0 +1,36 @@
+name: geniiart.zip
+hash: 2d03f3cf1cab34f601d94a412c4b7ba7
+year: 1995
+file:
+  COMMENT.ANS:
+    mimetype: text/plain
+  DSBBS.ANS:
+    mimetype: text/plain
+  ECL1.ANS:
+    mimetype: text/plain
+  ECLIPSE.ANS:
+    mimetype: text/plain
+  ENTER.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  HEADER.ECL:
+    mimetype: text/plain
+  HEADER.SHX:
+    mimetype: text/plain
+  INFO.NFO:
+    mimetype: text/plain
+  MAINSTUF.ANS:
+    mimetype: text/plain
+  NEO.COM:
+    mimetype: application/x-msdos-program
+  READ.NOW:
+    mimetype: text/plain
+  SHOEBOX.ANS:
+    mimetype: text/plain
+  SUMMER.ANS:
+    mimetype: text/plain
+  ZIGZAG.HDR:
+    mimetype: text/plain
+  ZZCD-V10.NFO:
+    mimetype: text/plain

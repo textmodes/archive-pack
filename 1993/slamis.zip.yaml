@@ -1,0 +1,92 @@
+name: slamis.zip
+hash: 9104ecdf4fc0c2e497a2243f53fbf461
+year: 1993
+file:
+  BOARDS.SLM:
+    mimetype: text/plain
+  BR-HG1.SLM:
+    mimetype: text/plain
+  BR-HG2.SLM:
+    mimetype: text/plain
+  CAL-BYE.SLM:
+    mimetype: text/plain
+  CAL-CHLD.SLM:
+    mimetype: text/plain
+  CAL-ECR.SLM:
+    mimetype: text/plain
+  CAL-EXOD.SLM:
+    mimetype: text/plain
+  CAL-FR.SLM:
+    mimetype: text/plain
+  CAL-GWZ.SLM:
+    mimetype: text/plain
+  CAL-HM1.SLM:
+    mimetype: text/plain
+  CAL-HM2.SLM:
+    mimetype: text/plain
+  CAL-HM3.SLM:
+    mimetype: text/plain
+  CAL-HM4.SLM:
+    mimetype: text/plain
+  CAL-HM6.SLM:
+    mimetype: text/plain
+  CAL-HM7.SLM:
+    mimetype: text/plain
+  CAL-HM8.SLM:
+    mimetype: text/plain
+  CAL-HM9.SLM:
+    mimetype: text/plain
+  CAL-HM10.SLM:
+    mimetype: text/plain
+  CAL-HM11.SLM:
+    mimetype: text/plain
+  CAL-HOFH.SLM:
+    mimetype: text/plain
+  CAL-LAW.SLM:
+    mimetype: text/plain
+  CAL-ORDR.SLM:
+    mimetype: text/plain
+  CAL-SLAM.SLM:
+    mimetype: text/plain
+  CAL-SLM2.SLM:
+    mimetype: text/plain
+  CAL-SLM3.SLM:
+    mimetype: text/plain
+  CAL-SLM4.SLM:
+    mimetype: text/plain
+  CAL-TNW1.SLM:
+    mimetype: text/plain
+  CAL-TNW2.SLM:
+    mimetype: text/plain
+  CAL-TNW3.SLM:
+    mimetype: text/plain
+  FILES.BAK:
+    mimetype: text/plain
+  FILES.BBS:
+    mimetype: text/plain
+  NEWYEAR!.SLM:
+    mimetype: text/plain
+  OD-CALED.SLM:
+    mimetype: text/plain
+  OD-ECR.SLM:
+    mimetype: text/plain
+  OD-FACT.SLM:
+    mimetype: text/plain
+  OD-HM5.SLM:
+    mimetype: text/plain
+  OD-TKOM1.SLM:
+    mimetype: text/plain
+  OD-TKOM2.SLM:
+    mimetype: text/plain
+  SLAMAPP.EXE:
+    mimetype: application/x-msdos-program
+  SLAMAPP3.EXE:
+    mimetype: application/x-msdos-program
+  SLAMASC.ASC:
+    mimetype: text/plain
+  TR-CIC.SLM:
+    mimetype: text/plain
+  TR-SLAM1.SLM:
+    mimetype: text/plain
+  TR-SLAM2.SLM:
+    mimetype: text/plain

@@ -1,0 +1,36 @@
+name: roots01.zip
+hash: 3b65da1a589da93d2d7efe04ea32997e
+year: 2008
+file:
+  CW-CNTST.ANS:
+    mimetype: text/plain
+  CW-S7.ANS:
+    mimetype: text/plain
+  JP-ROOTS.ASC:
+    mimetype: text/plain
+  KF-SAT9.ANS:
+    mimetype: text/plain
+  KF-VORTX.ANS:
+    mimetype: text/plain
+  RET-RAIN.ANS:
+    mimetype: text/plain
+  ROOTS01.MEM:
+    mimetype: text/plain
+  ROOTS01.NFO:
+    mimetype: text/plain
+  TIF-ENT.ANS:
+    mimetype: text/plain
+  US-ANSI.ANS:
+    mimetype: text/plain
+  US-ROOTS.ANS:
+    mimetype: text/plain
+  US-SENSE.ANS:
+    mimetype: text/plain
+  US-SLURG.ANS:
+    mimetype: text/plain
+  US-UTC.ANS:
+    mimetype: text/plain
+  jp-eob.ans:
+    mimetype: text/plain
+  ret-rts.ans:
+    mimetype: text/plain

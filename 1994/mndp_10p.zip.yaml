@@ -1,0 +1,18 @@
+name: mndp_10p.zip
+hash: 38bdb15f3fae1503d8ba5c2fd500a0fb
+year: 1994
+file:
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  MINDPLAY.EXE:
+    mimetype: application/x-msdos-program
+  MINDPLAY.GRF:
+    mimetype: application/octet-stream
+  MINDPLAY.NOT:
+    mimetype: text/plain
+  NEOTOKYO.ANS:
+    mimetype: text/plain
+  READ-IT.TXT:
+    mimetype: text/plain
+  WONDER!.WHY:
+    mimetype: text/plain

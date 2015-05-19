@@ -1,0 +1,28 @@
+name: ansis-d.zip
+hash: 5976dcb308c8ba7848d63c1ec8c5d9a0
+year: 1993
+file:
+  -RUNME.COM:
+    mimetype: application/x-msdos-program
+  DANS.ANS:
+    mimetype: text/plain
+  DARKMAN.ANS:
+    mimetype: text/plain
+  DAWG.ANS:
+    mimetype: text/plain
+  DEEPACID.ANS:
+    mimetype: text/plain
+  DINO.ANS:
+    mimetype: text/plain
+  DPLAY02.ANS:
+    mimetype: text/plain
+  DRAGON.ANS:
+    mimetype: text/plain
+  DROP.ANS:
+    mimetype: text/plain
+  DSOCACD2.ANS:
+    mimetype: text/plain
+  DTR-LION.ANS:
+    mimetype: text/plain
+  DUSTNBON.ANS:
+    mimetype: text/plain

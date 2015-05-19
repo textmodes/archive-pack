@@ -1,0 +1,72 @@
+name: vor-1293.zip
+hash: f51fa1f434aae036ee77129b6f7a3a46
+year: 1993
+file:
+  AR-CANYO.GIF:
+    mimetype: image/gif
+  AR-LY-1.VOR:
+    mimetype: text/plain
+  AR-MT1.GIF:
+    mimetype: image/gif
+  AR-SPACE.EXE:
+    mimetype: application/x-msdos-program
+  CD-BLOW.EXE:
+    mimetype: application/x-msdos-program
+  CD-SHOT1.VOR:
+    mimetype: text/plain
+  DATA.VOR:
+    mimetype: text/plain
+  DW-P1.MOD:
+    mimetype: audio/x-mod
+  DW-URBAN.EXE:
+    mimetype: application/x-msdos-program
+  DW-VOR.MOD:
+    mimetype: audio/x-mod
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GF-VOR.EXE:
+    mimetype: application/x-msdos-program
+  H-ANARCH.MOD:
+    mimetype: audio/x-mod
+  H-BASS.MOD:
+    mimetype: audio/x-mod
+  H-DIE.MOD:
+    mimetype: audio/x-mod
+  H-VISION.MOD:
+    mimetype: audio/x-mod
+  HP-DIST.VOR:
+    mimetype: text/plain
+  HP-HOOD.VOR:
+    mimetype: text/plain
+  HP-SCORP.VOR:
+    mimetype: text/plain
+  HP-SUB!.VOR:
+    mimetype: text/plain
+  HP-VOR2.VOR:
+    mimetype: text/plain
+  HP-WALL!.VOR:
+    mimetype: text/plain
+  MH-SCARE.MOD:
+    mimetype: audio/x-mod
+  MH-TDT.EXE:
+    mimetype: application/x-msdos-program
+  MH-TRIG.MOD:
+    mimetype: audio/x-mod
+  TL-DRAGN.VOR:
+    mimetype: text/plain
+  TL-GATE.VOR:
+    mimetype: text/plain
+  VM-DUDE.GIF:
+    mimetype: image/gif
+  VM-UNDER.GIF:
+    mimetype: image/gif
+  VM-UR-1.GIF:
+    mimetype: image/gif
+  VM-VOR.EXE:
+    mimetype: application/x-msdos-program
+  VOR.NFO:
+    mimetype: text/plain
+  VORVIEW.EXE:
+    mimetype: application/x-msdos-program
+  WM-HK.EXE:
+    mimetype: application/x-msdos-program

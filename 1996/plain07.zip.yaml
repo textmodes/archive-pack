@@ -1,0 +1,124 @@
+name: plain07.zip
+hash: acb003a2d7ee15a256d6238f901dc3a7
+year: 1996
+file:
+  -ANSI---.---:
+    mimetype: text/plain
+  -ASCII--.---:
+    mimetype: text/plain
+  -COLI---.---:
+    mimetype: text/plain
+  -EXTRA--.---:
+    mimetype: text/plain
+  -INFO---.---:
+    mimetype: text/plain
+  -JOINT--.---:
+    mimetype: text/plain
+  -LOGO---.---:
+    mimetype: text/plain
+  -YOURS--.---:
+    mimetype: text/plain
+  ANSI01.JP:
+    mimetype: text/plain
+  ANSI01.SM:
+    mimetype: text/plain
+  ANSI01.TM:
+    mimetype: text/texmacs
+  ANSI02.TM:
+    mimetype: text/texmacs
+  ANSI03.TM:
+    mimetype: text/texmacs
+  ANSI04.PT:
+    mimetype: text/plain
+  ANSI04.TM:
+    mimetype: text/texmacs
+  ANSI05.SI:
+    mimetype: text/plain
+  ANSI05.TM:
+    mimetype: text/texmacs
+  ANSI06.LQ:
+    mimetype: text/plain
+  ANSI06.SI:
+    mimetype: text/plain
+  ANSI07.LQ:
+    mimetype: text/plain
+  ANSI08.LQ:
+    mimetype: text/plain
+  ANSI09.77:
+    mimetype: text/plain
+  ANSI10.77:
+    mimetype: text/plain
+  ANSI11.77:
+    mimetype: text/plain
+  ANSI14.EG:
+    mimetype: text/plain
+  ANSI15.EG:
+    mimetype: text/plain
+  ANSI16.EG:
+    mimetype: text/plain
+  ANSI17.EG:
+    mimetype: text/plain
+  ANSI18.EG:
+    mimetype: text/plain
+  ASKI03.SP:
+    mimetype: text/plain
+  ASKI04.SP:
+    mimetype: text/plain
+  ASKI05.AX:
+    mimetype: text/plain
+  ASKI05.SP:
+    mimetype: text/plain
+  ASKI16.EMP:
+    mimetype: text/plain
+  ASKI17.EMP:
+    mimetype: text/plain
+  BIN01NR.BIN:
+    mimetype: application/octet-stream
+  COLI01.NR:
+    mimetype: text/plain
+  COLI02.77:
+    mimetype: text/plain
+  COLI02.GT:
+    mimetype: text/plain
+  COLI02.PT:
+    mimetype: text/plain
+  COLI03.77:
+    mimetype: text/plain
+  COLI03.EG:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  INFO.01:
+    mimetype: text/plain
+  INFO.02:
+    mimetype: text/plain
+  JOINT05.GRP:
+    mimetype: text/plain
+  JOINT06.GRP:
+    mimetype: text/plain
+  LIQUID.ZIP:
+    mimetype: application/zip
+  LOGO01.CL:
+    mimetype: text/plain
+  LOGO01.DEV:
+    mimetype: text/plain
+  LOGO01.JP:
+    mimetype: text/plain
+  LOGO01.SI:
+    mimetype: text/plain
+  LOGO01.SM:
+    mimetype: text/plain
+  LOGO01.TM:
+    mimetype: text/texmacs
+  LOGO02.CL:
+    mimetype: text/plain
+  LOGO02.DEV:
+    mimetype: text/plain
+  LOGO03.PT:
+    mimetype: text/plain
+  LOGO07.NR:
+    mimetype: text/plain
+  PLAINAPP.EXE:
+    mimetype: application/x-msdos-program
+  PLASTIC.EXE:
+    mimetype: application/x-msdos-program

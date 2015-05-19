@@ -1,0 +1,78 @@
+name: sab-0795.zip
+hash: 0c36ce26766454bc614f99dc716cf5ed
+year: 1995
+file:
+  -MISC-:
+    mimetype: text/plain
+  !!binary xEFOU0nE:
+    mimetype: application/octet-stream
+  !!binary xEFTQ0lJLQ==:
+    mimetype: application/octet-stream
+  !!binary xElORk8t:
+    mimetype: application/octet-stream
+  !!binary xFZHQS0=:
+    mimetype: application/octet-stream
+  AN-SAB1.ANS:
+    mimetype: text/plain
+  BM-PWEI.ANS:
+    mimetype: text/plain
+  BM-SAB!.ANS:
+    mimetype: text/plain
+  BM-SABOT.ANS:
+    mimetype: text/plain
+  CS.EXE:
+    mimetype: application/x-msdos-program
+  DK-INC.ANS:
+    mimetype: text/plain
+  DK-SABO.ANS:
+    mimetype: text/plain
+  EA-SAB.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  MB-CD1.ANS:
+    mimetype: text/plain
+  MB-CIA3.ASC:
+    mimetype: text/plain
+  MB-LOGO1.ANS:
+    mimetype: text/plain
+  MB-LOGO2.ANS:
+    mimetype: text/plain
+  MB-LOGO3.ANS:
+    mimetype: text/plain
+  MC-BLDE1.ANS:
+    mimetype: text/plain
+  MC-BLDE2.ANS:
+    mimetype: text/plain
+  MC-CRK.ANS:
+    mimetype: text/plain
+  MC-CS5.ANS:
+    mimetype: text/plain
+  MC-FJ.ANS:
+    mimetype: text/plain
+  MC-HIC1.ANS:
+    mimetype: text/plain
+  MC-LR1.ANS:
+    mimetype: text/plain
+  MC-LS.ANS:
+    mimetype: text/plain
+  MC-SABO1.ANS:
+    mimetype: text/plain
+  MC-SABO2.ANS:
+    mimetype: text/plain
+  MC-SNCTY.ANS:
+    mimetype: text/plain
+  MC-VOTD.ANS:
+    mimetype: text/plain
+  MC-WHOOP.ANS:
+    mimetype: text/plain
+  NO.VGA:
+    mimetype: text/plain
+  READNOW!.TXT:
+    mimetype: text/plain
+  SABAPP.EXE:
+    mimetype: application/x-msdos-program
+  SABOTAGE.MEM:
+    mimetype: text/plain
+  SABOTAGE.NFO:
+    mimetype: text/plain

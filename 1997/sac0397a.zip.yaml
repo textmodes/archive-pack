@@ -1,0 +1,104 @@
+name: sac0397a.zip
+hash: ae3b5b11da92d81defe6b452ed0a9e48
+year: 1997
+file:
+  DAC-ZN.XM:
+    mimetype: audio/x-mod
+  DD-PARAD.LBM:
+    mimetype: application/octet-stream
+  DD-RAZOR.LBM:
+    mimetype: application/octet-stream
+  DS-CSLAU.ANS:
+    mimetype: text/plain
+  DS-DODD4.ASC:
+    mimetype: text/plain
+  DS-LIGHT.ANS:
+    mimetype: text/plain
+  DS-LIGHT.ASC:
+    mimetype: text/plain
+  DS-MTYD2.ASC:
+    mimetype: text/plain
+  DS-PDMD1.ASC:
+    mimetype: text/plain
+  DS-PDMD2.ASC:
+    mimetype: text/plain
+  DS-PDMD3.ASC:
+    mimetype: text/plain
+  DS-PDMD4.ASC:
+    mimetype: text/plain
+  DS-PDMD5.ASC:
+    mimetype: text/plain
+  DS-PDMD6.ASC:
+    mimetype: text/plain
+  DS-PDMD7.ASC:
+    mimetype: text/plain
+  DS-PDMD8.ASC:
+    mimetype: text/plain
+  DS-PDMD9.ASC:
+    mimetype: text/plain
+  DS-PDMDA.ASC:
+    mimetype: text/plain
+  DS-RAZOR.ANS:
+    mimetype: text/plain
+  DS-RAZOR.ASC:
+    mimetype: text/plain
+  DS-RLTD1.ASC:
+    mimetype: text/plain
+  DS-SDMD1.ASC:
+    mimetype: text/plain
+  DS-SDMD2.ASC:
+    mimetype: text/plain
+  DS-SHKD1.ASC:
+    mimetype: text/plain
+  DS-SPTD1.ASC:
+    mimetype: text/plain
+  DS-SPTN1.ASC:
+    mimetype: text/plain
+  DS-TGAD1.ASC:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  HT-DODD1.ASC:
+    mimetype: text/plain
+  HT-DODD2.ASC:
+    mimetype: text/plain
+  HT-DODD3.ASC:
+    mimetype: text/plain
+  HT-DODN1.ASC:
+    mimetype: text/plain
+  HT-DODN2.ASC:
+    mimetype: text/plain
+  HT-DODN3.ASC:
+    mimetype: text/plain
+  HT-DODN4.ASC:
+    mimetype: text/plain
+  HT-DODN5.ASC:
+    mimetype: text/plain
+  HT-FRSH1.ANS:
+    mimetype: text/plain
+  HT-PARAD.EXE:
+    mimetype: application/x-msdos-program
+  HT-RAZ01.EXE:
+    mimetype: application/x-msdos-program
+  HT-RAZ02.EXE:
+    mimetype: application/x-msdos-program
+  HT-RAZ03.EXE:
+    mimetype: application/x-msdos-program
+  HT-RAZ04.EXE:
+    mimetype: application/x-msdos-program
+  HT-RAZ05.EXE:
+    mimetype: application/x-msdos-program
+  HT-RAZ06.EXE:
+    mimetype: application/x-msdos-program
+  HT-RAZ07.EXE:
+    mimetype: application/x-msdos-program
+  HT-RZR1.ANS:
+    mimetype: text/plain
+  HT-RZR1.ASC:
+    mimetype: text/plain
+  HT-RZR2.ASC:
+    mimetype: text/plain
+  RN-DPIAN.S3M:
+    mimetype: audio/x-mod
+  SAC.NFO:
+    mimetype: text/plain

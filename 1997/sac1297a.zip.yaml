@@ -1,0 +1,256 @@
+name: sac1297a.zip
+hash: f0881da15d5327ae4e993c672f66e0d7
+year: 1997
+file:
+  ARL-ADDC.ASC:
+    mimetype: text/plain
+  ARL-CRC.ANS:
+    mimetype: text/plain
+  ARL-DAWG.ASC:
+    mimetype: text/plain
+  ARL-GOOM.ANS:
+    mimetype: text/plain
+  ARL-LEO.ASC:
+    mimetype: text/plain
+  ARL-LINK.ANS:
+    mimetype: text/plain
+  ARL-OPAQ.ASC:
+    mimetype: text/plain
+  ARL-PUV.ASC:
+    mimetype: text/plain
+  ARL-STS.ANS:
+    mimetype: text/plain
+  ARL-T$.ANS:
+    mimetype: text/plain
+  ARL-TBF.ASC:
+    mimetype: text/plain
+  ARL-TEM.ANS:
+    mimetype: text/plain
+  ARL-TIBU.ASC:
+    mimetype: text/plain
+  ARL-UD.ASC:
+    mimetype: text/plain
+  ARL-WEBP.ANS:
+    mimetype: text/plain
+  ARL-ZIRO.ASC:
+    mimetype: text/plain
+  CRE-DEV.JPG:
+    mimetype: image/jpeg
+  CRE-IMG3.JPG:
+    mimetype: image/jpeg
+  CRE-IMG4.JPG:
+    mimetype: image/jpeg
+  CRE-NOV1.JPG:
+    mimetype: image/jpeg
+  CRE-NOV2.JPG:
+    mimetype: image/jpeg
+  CRE-RS1.PCX:
+    mimetype: image/pcx
+  CRE-RS2.PCX:
+    mimetype: image/pcx
+  CRE-RTP.JPG:
+    mimetype: image/jpeg
+  CRE-SAC.JPG:
+    mimetype: image/jpeg
+  DD-SAC3.BMP:
+    mimetype: image/x-ms-bmp
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GTI-AR.ANS:
+    mimetype: text/plain
+  GTI-DMS.ASC:
+    mimetype: text/plain
+  GTI-EMP.ANS:
+    mimetype: text/plain
+  GTI-GEM.ASC:
+    mimetype: text/plain
+  GTI-PAR.ANS:
+    mimetype: text/plain
+  HLX-ACT8.ASC:
+    mimetype: text/plain
+  HLX-APOC.ASC:
+    mimetype: text/plain
+  HLX-DEEP.ASC:
+    mimetype: text/plain
+  HLX-SAC.ASC:
+    mimetype: text/plain
+  HLX-SAC2.ASC:
+    mimetype: text/plain
+  HLX-SAC3.ASC:
+    mimetype: text/plain
+  HT-CAMEL.COM:
+    mimetype: application/x-msdos-program
+  HT-I1911.ASC:
+    mimetype: text/plain
+  HT-PDM01.ASC:
+    mimetype: text/plain
+  HT-PDM02.ASC:
+    mimetype: text/plain
+  HT-RZR01.ASC:
+    mimetype: text/plain
+  HT-RZR2F.EXE:
+    mimetype: application/x-msdos-program
+  HT-RZR02.ASC:
+    mimetype: text/plain
+  HT-RZR3F.EXE:
+    mimetype: application/x-msdos-program
+  HT-RZR03.ASC:
+    mimetype: text/plain
+  HT-RZR4F.EXE:
+    mimetype: application/x-msdos-program
+  HT-RZR5F.EXE:
+    mimetype: application/x-msdos-program
+  HT-RZR7F.EXE:
+    mimetype: application/x-msdos-program
+  HT-RZR8F.EXE:
+    mimetype: application/x-msdos-program
+  HT-RZR11.EXE:
+    mimetype: application/x-msdos-program
+  MTD-ABY1.ASC:
+    mimetype: text/plain
+  MTD-AZR1.ASC:
+    mimetype: text/plain
+  MTD-BME1.ASC:
+    mimetype: text/plain
+  MTD-BRU1.ASC:
+    mimetype: text/plain
+  MTD-DNH.ASC:
+    mimetype: text/plain
+  MTD-HIAN.ASC:
+    mimetype: text/plain
+  MTD-INSM.NFO:
+    mimetype: text/plain
+  MTD-QTX1.ASC:
+    mimetype: text/plain
+  MTD-TMS.ASC:
+    mimetype: text/plain
+  MTD-TS01.ASC:
+    mimetype: text/plain
+  SAC.NFO:
+    mimetype: text/plain
+  SL-AF1.ASC:
+    mimetype: text/plain
+  SL-AM.ASC:
+    mimetype: text/plain
+  SL-AMB.ANS:
+    mimetype: text/plain
+  SL-AMB1.ASC:
+    mimetype: text/plain
+  SL-AMB2.ASC:
+    mimetype: text/plain
+  SL-APB.ASC:
+    mimetype: text/plain
+  SL-APC2.ASC:
+    mimetype: text/plain
+  SL-APCC.ASC:
+    mimetype: text/plain
+  SL-APOC.NFO:
+    mimetype: text/plain
+  SL-ASC.ASC:
+    mimetype: text/plain
+  SL-CO.ASC:
+    mimetype: text/plain
+  SL-DEV.NFO:
+    mimetype: text/plain
+  SL-DEVD.ASC:
+    mimetype: text/plain
+  SL-DM.ASC:
+    mimetype: text/plain
+  SL-DSC2.NFO:
+    mimetype: text/plain
+  SL-EXEC.ASC:
+    mimetype: text/plain
+  SL-EXEC2.ASC:
+    mimetype: text/plain
+  SL-FA.ANS:
+    mimetype: text/plain
+  SL-FREE.ASC:
+    mimetype: text/plain
+  SL-HIGH.ASC:
+    mimetype: text/plain
+  SL-IF.ASC:
+    mimetype: text/plain
+  SL-INN2.ASC:
+    mimetype: text/plain
+  SL-KRINF.ASC:
+    mimetype: text/plain
+  SL-KRINN.DIZ:
+    mimetype: text/plain
+  SL-KRY.ASC:
+    mimetype: text/plain
+  SL-KRY2.ASC:
+    mimetype: text/plain
+  SL-LOST.ASC:
+    mimetype: text/plain
+  SL-LS.ASC:
+    mimetype: text/plain
+  SL-LS2.ASC:
+    mimetype: text/plain
+  SL-MOL.ANS:
+    mimetype: text/plain
+  SL-MR.ASC:
+    mimetype: text/plain
+  SL-NMP.ASC:
+    mimetype: text/plain
+  SL-NS.ASC:
+    mimetype: text/plain
+  SL-NS.DIZ:
+    mimetype: text/plain
+  SL-NS2.ASC:
+    mimetype: text/plain
+  SL-NS3.ASC:
+    mimetype: text/plain
+  SL-NWW.ASC:
+    mimetype: text/plain
+  SL-PC.ASC:
+    mimetype: text/plain
+  SL-PGF.ASC:
+    mimetype: text/plain
+  SL-PRD.ASC:
+    mimetype: text/plain
+  SL-PRDD.ASC:
+    mimetype: text/plain
+  SL-PTX.ASC:
+    mimetype: text/plain
+  SL-RDM.ASC:
+    mimetype: text/plain
+  SL-RSS.ASC:
+    mimetype: text/plain
+  SL-RTS.ASC:
+    mimetype: text/plain
+  SL-SACD.ASC:
+    mimetype: text/plain
+  SL-SEC.ASC:
+    mimetype: text/plain
+  SL-SOC.ASC:
+    mimetype: text/plain
+  SL-SPC.ANS:
+    mimetype: text/plain
+  SL-SPN.ASC:
+    mimetype: text/plain
+  SL-THD.ASC:
+    mimetype: text/plain
+  SL-TMW.NFO:
+    mimetype: text/plain
+  SL-TPK.DIZ:
+    mimetype: text/plain
+  SL-URX.ASC:
+    mimetype: text/plain
+  SL-URX2.ASC:
+    mimetype: text/plain
+  SL-VEN.ASC:
+    mimetype: text/plain
+  SL-VGN.ASC:
+    mimetype: text/plain
+  TU_HUGO.XM:
+    mimetype: audio/x-mod
+  TU_ITR78.MOD:
+    mimetype: audio/x-mod
+  TU_ITR79.MOD:
+    mimetype: audio/x-mod
+  TU_ITR80.MOD:
+    mimetype: audio/x-mod
+  TU_ITR81.MOD:
+    mimetype: audio/x-mod
+  TU_LNEMO.XM:
+    mimetype: audio/x-mod

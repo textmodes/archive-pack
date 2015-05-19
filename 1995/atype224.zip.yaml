@@ -1,0 +1,16 @@
+name: atype224.zip
+hash: b49bb4cea739c6fc470900e2304cbd4d
+year: 1995
+file:
+  ATYPE.EXE:
+    mimetype: application/x-msdos-program
+  D-E.JPG:
+    mimetype: image/jpeg
+  DESC.SDI:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  NEO.COM:
+    mimetype: application/x-msdos-program
+  WHATSNEW.TXT:
+    mimetype: text/plain

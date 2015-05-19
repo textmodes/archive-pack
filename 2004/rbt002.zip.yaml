@@ -1,0 +1,38 @@
+name: rbt002.zip
+hash: 16dc524e1a0df56983beea99fa5c82bd
+year: 2004
+file:
+  Rebirth.nfo:
+    mimetype: text/plain
+  hires/pp-ntelf.jpg:
+    mimetype: image/jpeg
+  hires/snk-green.jpg:
+    mimetype: image/jpeg
+  lits/~copyright~:
+    mimetype: text/plain
+  lits/azl^rain.lit:
+    mimetype: text/plain
+  lits/fd-day.lit:
+    mimetype: text/plain
+  lits/fd-litany.lit:
+    mimetype: text/plain
+  lits/fd-wish.lit:
+    mimetype: text/plain
+  lits/vh-doitma.lit:
+    mimetype: text/plain
+  lits/vh-inthwo.lit:
+    mimetype: text/plain
+  lits/vh-juwaytosm.lit:
+    mimetype: text/plain
+  lits/vh-lieoflie.lit:
+    mimetype: text/plain
+  lits/vh-mydarl.lit:
+    mimetype: text/plain
+  lowres/slr-chikn.asc:
+    mimetype: text/plain
+  lowres/slr-fenix.asc:
+    mimetype: text/plain
+  reviews/SHARP.ANS:
+    mimetype: text/plain
+  reviews/VIBE.ANS:
+    mimetype: text/plain

@@ -1,0 +1,30 @@
+name: gen-06.zip
+hash: 2d9bf04204fa302d0882bdfcde476f5f
+year: 1999
+file:
+  ds-lost.ans:
+    mimetype: text/plain
+  file_id.diz:
+    mimetype: text/plain
+  geninfo.ans:
+    mimetype: text/plain
+  genmem.ans:
+    mimetype: text/plain
+  lm-gen4.ans:
+    mimetype: text/plain
+  lm-sdst5.ans:
+    mimetype: text/plain
+  lm-spin1.ans:
+    mimetype: text/plain
+  lm-vill2.ans:
+    mimetype: text/plain
+  us-ae.ans:
+    mimetype: text/plain
+  us-gen1.ans:
+    mimetype: text/plain
+  us-tea.ans:
+    mimetype: text/plain
+  z-4.ans:
+    mimetype: text/plain
+  z-gen.ans:
+    mimetype: text/plain

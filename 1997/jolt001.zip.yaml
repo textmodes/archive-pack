@@ -1,0 +1,30 @@
+name: jolt001.zip
+hash: 4392e6562e4dfd12cacf396a4c8cf4d7
+year: 1997
+file:
+  A5-LV.JPG:
+    mimetype: image/jpeg
+  BK-LINV.JPG:
+    mimetype: image/jpeg
+  BV-LV1.ANS:
+    mimetype: text/plain
+  EL-LV.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FV-LV1.ANS:
+    mimetype: text/plain
+  IMANI-LV.ANS:
+    mimetype: text/plain
+  JOLT.EXE:
+    mimetype: application/x-msdos-program
+  LD-LV1.ANS:
+    mimetype: text/plain
+  LETHAL.JPG:
+    mimetype: image/jpeg
+  RES-LETH.ANS:
+    mimetype: text/plain
+  RESULT.ANS:
+    mimetype: text/plain
+  TO-LV.JPG:
+    mimetype: image/jpeg

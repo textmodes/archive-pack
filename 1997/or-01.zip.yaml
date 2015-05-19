@@ -1,0 +1,82 @@
+name: or-01.zip
+hash: 6c71f602d8e1e497d4589c2bc7131b37
+year: 1997
+file:
+  -ANSI-:
+    mimetype: text/plain
+  -ASCII-:
+    mimetype: text/plain
+  -DEMO-:
+    mimetype: text/plain
+  -DIZ-:
+    mimetype: text/plain
+  -END-:
+    mimetype: text/plain
+  -INFO-:
+    mimetype: text/plain
+  0797MEM.NFO:
+    mimetype: text/plain
+  0797NEWS.NFO:
+    mimetype: text/plain
+  DS!MAXI3.ANS:
+    mimetype: text/plain
+  DS%LOGOO.ANS:
+    mimetype: text/plain
+  DS%MAXI2.ANS:
+    mimetype: text/plain
+  DS%MAXIM.ANS:
+    mimetype: text/plain
+  DS%TOONT.ANS:
+    mimetype: text/plain
+  DTE^ER1.ASC:
+    mimetype: text/plain
+  DTE^OR1.ASC:
+    mimetype: text/plain
+  ENZ^COLY.ASC:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FUSE!.EXE:
+    mimetype: application/x-msdos-program
+  ORAPP.EXE:
+    mimetype: application/x-msdos-program
+  PI!ER1.ASC:
+    mimetype: text/plain
+  PI!ER2.ASC:
+    mimetype: text/plain
+  PI!FUSE!.ANS:
+    mimetype: text/plain
+  PI!KAE1.ASC:
+    mimetype: text/plain
+  PI!KW.ASC:
+    mimetype: text/plain
+  PI!OR1.ASC:
+    mimetype: text/plain
+  PI!OR2.ANS:
+    mimetype: text/plain
+  PI!OR3.ASC:
+    mimetype: text/plain
+  PN-PC.EXE:
+    mimetype: application/x-msdos-program
+  SK-TOS.EXE:
+    mimetype: application/x-msdos-program
+  SN!CROW$.ASC:
+    mimetype: text/plain
+  SN!EVILE.ASC:
+    mimetype: text/plain
+  SN!SNIPE.ANS:
+    mimetype: text/plain
+  SN!WESTS.ASC:
+    mimetype: text/plain
+  XD!--!MS.ASC:
+    mimetype: text/plain
+  XD!BUG.ASC:
+    mimetype: text/plain
+  XD!EMAIL.ASC:
+    mimetype: text/plain
+  XD!FUSE.ASC:
+    mimetype: text/plain
+  XD!MT!M2.ASC:
+    mimetype: text/plain
+  XDPRIMAL.EXE:
+    mimetype: application/x-msdos-program

@@ -1,0 +1,70 @@
+name: drd0496.zip
+hash: a478f79a7557118336e8f25d253ca6b6
+year: 1996
+file:
+  -^ASKI^-:
+    mimetype: text/plain
+  -^MISC^-:
+    mimetype: text/plain
+  BORSTJES.EXE:
+    mimetype: application/x-msdos-program
+  BROEKJE.EXE:
+    mimetype: application/x-msdos-program
+  CC-ASPCT.EXE:
+    mimetype: application/x-msdos-program
+  DRD0496A.MEM:
+    mimetype: text/plain
+  DRD0496B.MEM:
+    mimetype: text/plain
+  DRDAPP.ZIP:
+    mimetype: application/zip
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FORM.TXT:
+    mimetype: text/plain
+  FR-ACD.ASC:
+    mimetype: text/plain
+  FR-DISDR.ASC:
+    mimetype: text/plain
+  FR-DRD.ASC:
+    mimetype: text/plain
+  FR-DREAM.BIN:
+    mimetype: application/octet-stream
+  FR-LGO.ASC:
+    mimetype: text/plain
+  FR-LHT.ASC:
+    mimetype: text/plain
+  FR-OWTER.ASC:
+    mimetype: text/plain
+  FR-PITH.ASC:
+    mimetype: text/plain
+  FR-PT.ASC:
+    mimetype: text/plain
+  FR-RG2.ASC:
+    mimetype: text/plain
+  FR-SPWN.ASC:
+    mimetype: text/plain
+  HALLU1ST.COM:
+    mimetype: application/x-msdos-program
+  HOSTESS.TXT:
+    mimetype: text/plain
+  PS-AOS1.ANS:
+    mimetype: text/plain
+  PS-CS1.ANS:
+    mimetype: text/plain
+  PS-DRD2.ASC:
+    mimetype: text/plain
+  PS-DRD3.ASC:
+    mimetype: text/plain
+  PS-FON1.ANS:
+    mimetype: text/plain
+  PS-SHRM1.ANS:
+    mimetype: text/plain
+  PS-SS1.ASC:
+    mimetype: text/plain
+  PS-SS2.ASC:
+    mimetype: text/plain
+  PS-SY1.ANS:
+    mimetype: text/plain
+  PS-TAS1.ASC:
+    mimetype: text/plain

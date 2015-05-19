@@ -1,0 +1,94 @@
+name: force-22.zip
+hash: fcc16d92875604d0c7917a8112e352f6
+year: 1998
+file:
+  -ANSI-:
+    mimetype: text/plain
+  -ASCII-:
+    mimetype: text/plain
+  -END-:
+    mimetype: text/plain
+  -INFO-:
+    mimetype: text/plain
+  CG-FLAT1.ANS:
+    mimetype: text/plain
+  CG-FSCAN.ANS:
+    mimetype: text/plain
+  CG-PIPE.ANS:
+    mimetype: text/plain
+  CG-TOONY.ANS:
+    mimetype: text/plain
+  CL!-WRD.ANS:
+    mimetype: text/plain
+  CRX-AVEN.ANS:
+    mimetype: text/plain
+  CRX-ETHE.ANS:
+    mimetype: text/plain
+  CRX-GOO.ANS:
+    mimetype: text/plain
+  CRX-GUTT.ANS:
+    mimetype: text/plain
+  CRX-OCTO.ANS:
+    mimetype: text/plain
+  CRX-POLY.BIN:
+    mimetype: text/x-binary
+  CX-IQWFC.ANS:
+    mimetype: text/plain
+  CY-FRC2.ANS:
+    mimetype: text/plain
+  DC-ACID1.ANS:
+    mimetype: text/plain
+  DC-SAS1.ANS:
+    mimetype: text/plain
+  DC-TL1.ANS:
+    mimetype: text/plain
+  DS-FRC1.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FORCE-22.MEM:
+    mimetype: text/plain
+  FORCE-22.NFO:
+    mimetype: text/plain
+  IO-CLY-2.ANS:
+    mimetype: text/plain
+  IO-HRNY.ANS:
+    mimetype: text/plain
+  ODB-GST.ANS:
+    mimetype: text/plain
+  RZ-4BBS3.TXT:
+    mimetype: text/plain
+  RZ-CORE.TXT:
+    mimetype: text/plain
+  RZ-DNLD.TXT:
+    mimetype: text/plain
+  RZ-MNGAL.ANS:
+    mimetype: text/plain
+  RZ-NAMES.TXT:
+    mimetype: text/plain
+  RZ-RUSH.TXT:
+    mimetype: text/plain
+  RZ-SCRLZ.ANS:
+    mimetype: text/plain
+  RZ-TWTCH.TXT:
+    mimetype: text/plain
+  SM-DBZ1.ANS:
+    mimetype: text/plain
+  SM-FRC1.ANS:
+    mimetype: text/plain
+  SM-SC1.ANS:
+    mimetype: text/plain
+  US-ACHER.ANS:
+    mimetype: text/plain
+  US-DSOR.ANS:
+    mimetype: text/plain
+  US-HEJS.ANS:
+    mimetype: text/plain
+  US-MIN.ANS:
+    mimetype: text/plain
+  US-OK2.ANS:
+    mimetype: text/plain
+  US-PR.ANS:
+    mimetype: text/plain
+  US-PROPH.ANS:
+    mimetype: text/plain

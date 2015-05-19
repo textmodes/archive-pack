@@ -1,0 +1,60 @@
+name: lbo-r3.zip
+hash: f6a021b3464831500909ce446ee74149
+year: 1994
+file:
+  ANSIM.EXE:
+    mimetype: application/x-msdos-program
+  BS-BRAIN.ANS:
+    mimetype: text/plain
+  BS-CBR8.ANS:
+    mimetype: text/plain
+  BS-NEO5.ANS:
+    mimetype: text/plain
+  BS-PER6.ANS:
+    mimetype: text/plain
+  BS-ZX001.ANS:
+    mimetype: text/plain
+  BS-ZX002.ANS:
+    mimetype: text/plain
+  BS-ZX003.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  LBO-0594.NFO:
+    mimetype: text/plain
+  TOP-COB.ANS:
+    mimetype: text/plain
+  TOP-DNT.ANS:
+    mimetype: text/plain
+  TOP-DRK.ANS:
+    mimetype: text/plain
+  TOP-IND.ANS:
+    mimetype: text/plain
+  TOP-KWL.ANS:
+    mimetype: text/plain
+  TOP-LBO.ANS:
+    mimetype: text/plain
+  TOP-NEHE.ANS:
+    mimetype: text/plain
+  TOP-NEOT.ANS:
+    mimetype: text/plain
+  TOP-OTL9.ANS:
+    mimetype: text/plain
+  TOP-PERP.ANS:
+    mimetype: text/plain
+  WHS-CYBR.ANS:
+    mimetype: text/plain
+  WHS-EVIL.ANS:
+    mimetype: text/plain
+  WHS-HST.ASC:
+    mimetype: text/plain
+  WHS-IMP.ANS:
+    mimetype: text/plain
+  WHS-LBOL.ANS:
+    mimetype: text/plain
+  WHS-NHM2.ANS:
+    mimetype: text/plain
+  WHS-TOS.ASC:
+    mimetype: text/plain
+  ZONE-X.EXE:
+    mimetype: application/x-msdos-program

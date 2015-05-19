@@ -1,0 +1,38 @@
+name: sf08.zip
+hash: c0f16871bb81a906e7e3b26e0c1ea8cd
+year: 2003
+file:
+  HI-REZ/typhona - snowwalker.png:
+    mimetype: image/png
+  INFO/members.txt:
+    mimetype: text/plain
+  INFO/nfo.png:
+    mimetype: image/png
+  LO-REZ/leap - kadvar.png:
+    mimetype: image/png
+  LO-REZ/leap - puppy.ans:
+    mimetype: text/plain
+  LO-REZ/leap - trumpery.ans:
+    mimetype: text/plain
+  LO-REZ/shadow lord - somnolent flower.asc:
+    mimetype: text/plain
+  LO-REZ/typhona - alyssa.ans:
+    mimetype: text/plain
+  LO-REZ/typhona - my little angel.ans:
+    mimetype: text/plain
+  LO-REZ/typhona - sleep.ans:
+    mimetype: text/plain
+  bass.dll:
+    mimetype: application/x-dosexec
+  file_id.diz:
+    mimetype: text/plain
+  sf8.exe:
+    mimetype: application/x-msdos-program
+  sf8.filelist:
+    mimetype: text/plain
+  sf8.mo3:
+    mimetype: application/octet-stream
+  sf8.png:
+    mimetype: image/png
+  'somnolent flower #08.nfo':
+    mimetype: text/plain

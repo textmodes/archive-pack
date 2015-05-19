@@ -1,0 +1,188 @@
+name: spr_07.zip
+hash: 87f509ebe65e49452f8647e4cb308b7a
+year: 2002
+file:
+  SPR_07/!SCREAM.SPR:
+    mimetype: text/plain
+  SPR_07/!WITH.SPR:
+    mimetype: text/plain
+  SPR_07/ANSI/M!-FACE.ANS:
+    mimetype: text/plain
+  SPR_07/ANSI/M!-TREE.ANS:
+    mimetype: text/plain
+  SPR_07/ANSI/MST!7.ANS:
+    mimetype: text/plain
+  SPR_07/ANSI/MST!ANSI.ANS:
+    mimetype: text/plain
+  SPR_07/ANSI/MST!ASCI.ANS:
+    mimetype: text/plain
+  SPR_07/ANSI/MST!C.ANS:
+    mimetype: text/plain
+  SPR_07/ANSI/MST!CUR.ANS:
+    mimetype: text/plain
+  SPR_07/ANSI/MST!CZAS.ANS:
+    mimetype: text/plain
+  SPR_07/ANSI/MST!CZLE.ANS:
+    mimetype: text/plain
+  SPR_07/ANSI/MST!DLON.ANS:
+    mimetype: text/plain
+  SPR_07/ANSI/MST!DUP.ANS:
+    mimetype: text/plain
+  SPR_07/ANSI/MST!FAC.ANS:
+    mimetype: text/plain
+  SPR_07/ANSI/MST!FACE.ANS:
+    mimetype: text/plain
+  SPR_07/ANSI/MST!INWO.ANS:
+    mimetype: text/plain
+  SPR_07/ANSI/MST!KAP.ANS:
+    mimetype: text/plain
+  SPR_07/ANSI/MST!KOMI.ANS:
+    mimetype: text/plain
+  SPR_07/ANSI/MST!MACH.ANS:
+    mimetype: text/plain
+  SPR_07/ANSI/MST!MIST.ANS:
+    mimetype: text/plain
+  SPR_07/ANSI/MST!N.ANS:
+    mimetype: text/plain
+  SPR_07/ANSI/MST!REKL.ANS:
+    mimetype: text/plain
+  SPR_07/ANSI/MST!SERI.ANS:
+    mimetype: text/plain
+  SPR_07/ANSI/MST!SPID.ANS:
+    mimetype: text/plain
+  SPR_07/ANSI/MST!TWAR.ANS:
+    mimetype: text/plain
+  SPR_07/ANSI/MST!XTRE.ANS:
+    mimetype: text/plain
+  SPR_07/ANSI/US!OKO.ANS:
+    mimetype: text/plain
+  SPR_07/ANSI/US!TREE.ANS:
+    mimetype: text/plain
+  SPR_07/ASCII/M!-DIZ.ASC:
+    mimetype: text/plain
+  SPR_07/ASCII/M!-EXIT.ASC:
+    mimetype: text/plain
+  SPR_07/ASCII/M!-JEJKU.ASC:
+    mimetype: text/plain
+  SPR_07/ASCII/M!-MAZE.ASC:
+    mimetype: text/plain
+  SPR_07/ASCII/M!-MIKE.ASC:
+    mimetype: text/plain
+  SPR_07/ASCII/M!-PHUCK.ASC:
+    mimetype: text/plain
+  SPR_07/ASCII/M!-SHIZ1.ASC:
+    mimetype: text/plain
+  SPR_07/ASCII/M!-SHIZ2.ASC:
+    mimetype: text/plain
+  SPR_07/ASCII/M!-SINNE.ASC:
+    mimetype: text/plain
+  SPR_07/ASCII/MST!BINA.ASC:
+    mimetype: text/plain
+  SPR_07/ASCII/MST!CHRI.ASC:
+    mimetype: text/plain
+  SPR_07/ASCII/MST!COMP.ASC:
+    mimetype: text/plain
+  SPR_07/ASCII/MST!DOJO.ASC:
+    mimetype: text/plain
+  SPR_07/ASCII/MST!DUPA.ASC:
+    mimetype: text/plain
+  SPR_07/ASCII/MST!FEAR.ASC:
+    mimetype: text/plain
+  SPR_07/ASCII/MST!FROM.ASC:
+    mimetype: text/plain
+  SPR_07/ASCII/MST!KYOK.ASC:
+    mimetype: text/plain
+  SPR_07/ASCII/MST!MIST.ASC:
+    mimetype: text/plain
+  SPR_07/ASCII/MST!NFO.ASC:
+    mimetype: text/plain
+  SPR_07/ASCII/MST!SEN.ASC:
+    mimetype: text/plain
+  SPR_07/ASCII/MST!SLON.ASC:
+    mimetype: text/plain
+  SPR_07/ASCII/MST!SUMM.ASC:
+    mimetype: text/plain
+  SPR_07/ASCII/MST!XTRE.ASC:
+    mimetype: text/plain
+  SPR_07/ASCII/NKR!SPR7.ASC:
+    mimetype: text/plain
+  SPR_07/ASCII/UIF-GANJ.ASC:
+    mimetype: text/plain
+  SPR_07/ASCII/UIF-LOVE.ASC:
+    mimetype: text/plain
+  SPR_07/ASCII/UIF-NIEN.ASC:
+    mimetype: text/plain
+  SPR_07/ASCII/US-AZ.ASC:
+    mimetype: text/plain
+  SPR_07/ASCII/WDK!MONK.ASC:
+    mimetype: text/plain
+  SPR_07/DOLARY/M!-JIHAD.ASC:
+    mimetype: text/plain
+  SPR_07/DOLARY/MST!BUDO.ANS:
+    mimetype: text/plain
+  SPR_07/DOLARY/MST!CUR.ANS:
+    mimetype: text/plain
+  SPR_07/DOLARY/MST!DOLC.ANS:
+    mimetype: text/plain
+  SPR_07/DOLARY/MST!HALF.ANS:
+    mimetype: text/plain
+  SPR_07/DOLARY/MST!NABR.ANS:
+    mimetype: text/plain
+  SPR_07/DOLARY/MST!STAN.ANS:
+    mimetype: text/plain
+  SPR_07/DOLARY/MST!TATA.ANS:
+    mimetype: text/plain
+  SPR_07/DOLARY/US!FACE.ANS:
+    mimetype: text/plain
+  SPR_07/DOLARY/US!FLD.ASC:
+    mimetype: text/plain
+  SPR_07/DOLARY/US!JIHAD.ANS:
+    mimetype: text/plain
+  SPR_07/DOLARY/US!LEG.ASC:
+    mimetype: text/plain
+  SPR_07/DOLARY/US!SPR.ASC:
+    mimetype: text/plain
+  SPR_07/FILE_ID.DIZ:
+    mimetype: text/plain
+  SPR_07/OLDSQL/M!-ANDRO.TXT:
+    mimetype: text/plain
+  SPR_07/OLDSQL/M!-AYLA.TXT:
+    mimetype: text/plain
+  SPR_07/OLDSQL/M!-BILL.TXT:
+    mimetype: text/plain
+  SPR_07/OLDSQL/UIF-S3.TXT:
+    mimetype: text/plain
+  SPR_07/SINNER/#1-KOMPO.SIN/BINAR.ASC:
+    mimetype: text/plain
+  SPR_07/SINNER/#1-KOMPO.SIN/GRAZER.ASC:
+    mimetype: text/plain
+  SPR_07/SINNER/#1-KOMPO.SIN/MIKE.ASC:
+    mimetype: text/plain
+  SPR_07/SINNER/#1-KOMPO.SIN/MIST.ASC:
+    mimetype: text/plain
+  SPR_07/SINNER/#1-KOMPO.SIN/MRKLOP.ASC:
+    mimetype: text/plain
+  SPR_07/SINNER/#1-KOMPO.SIN/NEKRO.ASC:
+    mimetype: text/plain
+  SPR_07/SINNER/#1-KOMPO.SIN/RIVEN.ASC:
+    mimetype: text/plain
+  SPR_07/SINNER/#1-KOMPO.SIN/TWIST.ASC:
+    mimetype: text/plain
+  SPR_07/SINNER/#1-KOMPO.SIN/ZITO.ASC:
+    mimetype: text/plain
+  SPR_07/SINNER/WYPELNIJ.ZZZ:
+    mimetype: text/plain
+  SPR_07/SPR_VIEW.EXE:
+    mimetype: application/x-msdos-program
+  SPR_07/VGA/M!-FACE.JPG:
+    mimetype: image/jpeg
+  SPR_07/VGA/MST!1.JPG:
+    mimetype: image/jpeg
+  SPR_07/VGA/MST!2.JPG:
+    mimetype: image/jpeg
+  SPR_07/VGA/MST!3.JPG:
+    mimetype: image/jpeg
+  SPR_07/WSTEP.ANS:
+    mimetype: text/plain
+  SPR_07/WYPELNIJ.ZZZ:
+    mimetype: text/plain

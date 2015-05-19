@@ -1,0 +1,36 @@
+name: pmp-0002.zip
+hash: a59d46319a0442b04cf0fcbef7eaabc9
+year: 1999
+file:
+  DOX-LL.JPG:
+    mimetype: image/jpeg
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GER-BR.JPG:
+    mimetype: image/jpeg
+  GER-INDY.JPG:
+    mimetype: image/jpeg
+  GER-TREE.JPG:
+    mimetype: image/jpeg
+  GER-WARN.JPG:
+    mimetype: image/jpeg
+  MJ-ACID.JPG:
+    mimetype: image/jpeg
+  MJ-GRIND.JPG:
+    mimetype: image/jpeg
+  MJ-GROUN.JPG:
+    mimetype: image/jpeg
+  MJ-PMP_G.JPG:
+    mimetype: image/jpeg
+  MJ-PMP3D.JPG:
+    mimetype: image/jpeg
+  PMP-APPL.EXE:
+    mimetype: application/x-msdos-program
+  PMP.EXE:
+    mimetype: application/x-msdos-program
+  ZOX-ENIG.JPG:
+    mimetype: image/jpeg
+  ZOX-GRLS.JPG:
+    mimetype: image/jpeg
+  ZOX-PMPG.JPG:
+    mimetype: image/jpeg

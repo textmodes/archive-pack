@@ -1,0 +1,34 @@
+name: aeron-c.zip
+hash: 45a06eed13002bb62b393ada567ae216
+year: 2000
+file:
+  hirez/aeron/hirez/MEMBERS01.NFO:
+    mimetype: text/plain
+  hirez/aeron/hirez/Members01.ans:
+    mimetype: text/plain
+  hirez/aeron/hirez/def-destructo.gif:
+    mimetype: image/gif
+  hirez/aeron/hirez/def-hand.gif:
+    mimetype: image/gif
+  hirez/aeron/hirez/def-heads.gif:
+    mimetype: image/gif
+  hirez/aeron/hirez/def-mf.gif:
+    mimetype: image/gif
+  hirez/aeron/hirez/def-oxidate.gif:
+    mimetype: image/gif
+  hirez/aeron/hirez/def-pp.gif:
+    mimetype: image/gif
+  hirez/aeron/hirez/def-shrooms.gif:
+    mimetype: image/gif
+  hirez/aeron/hirez/file_id.diz:
+    mimetype: text/plain
+  hirez/aeron/hirez/ph-aeron1.jpg:
+    mimetype: image/jpeg
+  hirez/aeron/hirez/rz-metal.jpg:
+    mimetype: image/jpeg
+  hirez/aeron/hirez/rz-spots.jpg:
+    mimetype: image/jpeg
+  hirez/aeron/hirez/rz-spots2.jpg:
+    mimetype: image/jpeg
+  hirez/aeron/hirez/rz-weird_bg.jpg:
+    mimetype: image/jpeg

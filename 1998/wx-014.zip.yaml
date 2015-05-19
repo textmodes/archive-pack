@@ -1,0 +1,16 @@
+name: wx-014.zip
+hash: 0635ed265af8554186e00be6a180add9
+year: 1998
+file:
+  DIPSCHAL.TER:
+    mimetype: text/plain
+  EXTRA.JPG:
+    mimetype: image/jpeg
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  OBK.JPG:
+    mimetype: image/jpeg
+  WX.APP:
+    mimetype: application/octet-stream
+  WX.NFO:
+    mimetype: text/plain

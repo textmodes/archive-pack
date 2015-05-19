@@ -1,0 +1,18 @@
+name: qtm-01.zip
+hash: 3ff6ea47ee2f864d6e937e2174e1384a
+year: 1998
+file:
+  File_id.diz:
+    mimetype: text/plain
+  QTM-01.Dat:
+    mimetype: application/octet-stream
+  Qtm-01.dsm:
+    mimetype: application/octet-stream
+  Qtm-01.exe:
+    mimetype: application/x-msdos-program
+  crash.wav:
+    mimetype: audio/x-wav
+  qtm-art.zip:
+    mimetype: application/zip
+  woosh.wav:
+    mimetype: audio/x-wav

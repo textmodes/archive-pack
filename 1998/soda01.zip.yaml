@@ -1,0 +1,26 @@
+name: soda01.zip
+hash: 9d581de3f5cb359425cbd4d84490da53
+year: 1998
+file:
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  IS-ABSUR.ANS:
+    mimetype: text/plain
+  IS-AMEND.ANS:
+    mimetype: text/plain
+  IS-COLLY.ANS:
+    mimetype: text/plain
+  IS-SODAP.ANS:
+    mimetype: text/plain
+  LUM-COL.ANS:
+    mimetype: text/plain
+  LUM-HOW.ANS:
+    mimetype: text/plain
+  LUM-SODA.ANS:
+    mimetype: text/plain
+  SODA01.NFO:
+    mimetype: text/plain
+  US-E2.ANS:
+    mimetype: text/plain
+  ZIP-REST.ANS:
+    mimetype: text/plain

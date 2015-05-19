@@ -1,0 +1,54 @@
+name: sclr-08.zip
+hash: 1abbd1b89094292e71ce6d3b56dd9938
+year: 2000
+file:
+  A-VIEW.COM:
+    mimetype: application/x-msdos-program
+  AMIGA.FNT:
+    mimetype: application/octet-stream
+  AS-AMBL.ASC:
+    mimetype: text/plain
+  AS-ANARC.ASC:
+    mimetype: text/plain
+  AS-MIMIC.ASC:
+    mimetype: text/plain
+  AS-PRINC.ASC:
+    mimetype: text/plain
+  AS-RMRS.ASC:
+    mimetype: text/plain
+  AS-SLG.ASC:
+    mimetype: text/plain
+  D2-GROOV.ASC:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FILES.BBS:
+    mimetype: text/plain
+  JN-WOSS.ANS:
+    mimetype: text/plain
+  MPH-DAFT.ASC:
+    mimetype: text/plain
+  PC.FNT:
+    mimetype: application/octet-stream
+  SL-CUS.ASC:
+    mimetype: text/plain
+  psh-cb.txt:
+    mimetype: text/plain
+  psh-mf1.txt:
+    mimetype: text/plain
+  psh-mf2.txt:
+    mimetype: text/plain
+  psh-prf1.txt:
+    mimetype: text/plain
+  psh-prf2.txt:
+    mimetype: text/plain
+  sclr-08.nfo:
+    mimetype: text/plain
+  zj-amiga.txt:
+    mimetype: text/plain
+  zj-flower.png:
+    mimetype: image/png
+  zj-micro.txt:
+    mimetype: text/plain
+  zj-strong.jpg:
+    mimetype: image/jpeg

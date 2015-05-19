@@ -1,0 +1,64 @@
+name: elv8-01.zip
+hash: 35d07adee95d83cb0d5f1e58fefd27e8
+year: 1999
+file:
+  B1-AW.ASC:
+    mimetype: text/plain
+  B1-BULLS.ASC:
+    mimetype: text/plain
+  B1-GROUP.ASC:
+    mimetype: text/plain
+  B1-KOW.ASC:
+    mimetype: text/plain
+  B1-MIMIC.ASC:
+    mimetype: text/plain
+  B1-PFT.ASC:
+    mimetype: text/plain
+  B1-UTILS.ASC:
+    mimetype: text/plain
+  DRD-DEG6.ANS:
+    mimetype: text/plain
+  DRD-GRIM.ANS:
+    mimetype: text/plain
+  DRD-HMD.ANS:
+    mimetype: text/plain
+  DRD-NODE.ANS:
+    mimetype: text/plain
+  DRD-PMS.ANS:
+    mimetype: text/plain
+  DRD-REAL.ANS:
+    mimetype: text/plain
+  DRD-REF.ANS:
+    mimetype: text/plain
+  ELV8-01.NFO:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  MEMBERS.MEM:
+    mimetype: text/plain
+  US-SUPER.ANS:
+    mimetype: text/plain
+  VP-DJ.ANS:
+    mimetype: text/plain
+  VP-ELE.ANS:
+    mimetype: text/plain
+  VP-ELV8.ASC:
+    mimetype: text/plain
+  VP-KCAN.ANS:
+    mimetype: text/plain
+  VP-MAXX.ANS:
+    mimetype: text/plain
+  VP-NOFRL.ANS:
+    mimetype: text/plain
+  VP-ROAD.ANS:
+    mimetype: text/plain
+  VP-SMILE.ANS:
+    mimetype: text/plain
+  VP-VATE.ANS:
+    mimetype: text/plain
+  WKZ-CRA.ASC:
+    mimetype: text/plain
+  WKZ-SCAN.ASC:
+    mimetype: text/plain
+  WKZ-SIN.ASC:
+    mimetype: text/plain

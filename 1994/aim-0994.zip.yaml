@@ -1,0 +1,98 @@
+name: aim-0994.zip
+hash: 655ab94fe3f9e56ae5e14d6f41f7d932
+year: 1994
+file:
+  AIMPAK.NFO:
+    mimetype: text/plain
+  BOARD.AD:
+    mimetype: text/plain
+  CONFIG.DAT:
+    mimetype: application/octet-stream
+  DC-ETERN.ANS:
+    mimetype: text/plain
+  DC-PARIS.ANS:
+    mimetype: text/plain
+  DESCRIPT.ION:
+    mimetype: application/octet-stream
+  DYING.ANS:
+    mimetype: text/plain
+  EXODUS.S3M:
+    mimetype: audio/x-mod
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  LC-CC.ANS:
+    mimetype: text/plain
+  LC-DIV.ANS:
+    mimetype: text/plain
+  LC-DV.ANS:
+    mimetype: text/plain
+  LC-GODS.ANS:
+    mimetype: text/plain
+  LC-MW1.ANS:
+    mimetype: text/plain
+  LC-RE1.ANS:
+    mimetype: text/plain
+  LC-RG1.ANS:
+    mimetype: text/plain
+  LC-STAT1.ANS:
+    mimetype: text/plain
+  LC-STAT2.ANS:
+    mimetype: text/plain
+  LC-TCB.ANS:
+    mimetype: text/plain
+  LC-TROW.ANS:
+    mimetype: text/plain
+  LC-UNITY.ANS:
+    mimetype: text/plain
+  LL-AIM1.ANS:
+    mimetype: text/plain
+  LL-AIM2.ANS:
+    mimetype: text/plain
+  LL-AIM3.ANS:
+    mimetype: text/plain
+  LL-AIM5.ANS:
+    mimetype: text/plain
+  LL-DB.ANS:
+    mimetype: text/plain
+  LL-SHTM.EXE:
+    mimetype: application/x-msdos-program
+  LL-SYR.ANS:
+    mimetype: text/plain
+  LL-UC.ANS:
+    mimetype: text/plain
+  MDP.EXE:
+    mimetype: application/x-msdos-program
+  MDP.MDI:
+    mimetype: text/plain
+  MEMBER.LST:
+    mimetype: text/plain
+  MONSOON.S3M:
+    mimetype: audio/x-mod
+  NC-PS.ANS:
+    mimetype: text/plain
+  OS-PLGE.LIT:
+    mimetype: text/plain
+  OS-RCISM.LIT:
+    mimetype: text/plain
+  OS-TRPD.LIT:
+    mimetype: text/plain
+  REDALERT.S3M:
+    mimetype: audio/x-mod
+  TH-BOM.ANS:
+    mimetype: text/plain
+  TH-SW.ANS:
+    mimetype: text/plain
+  TI-DB.ANS:
+    mimetype: text/plain
+  TI-SPECT.ANS:
+    mimetype: text/plain
+  TI-TBO.ANS:
+    mimetype: text/plain
+  TI-UNITY.ANS:
+    mimetype: text/plain
+  TRIBE.S3M:
+    mimetype: audio/x-mod
+  VIEWER.EXE:
+    mimetype: application/x-msdos-program
+  WELCOME.1:
+    mimetype: text/plain

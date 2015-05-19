@@ -1,0 +1,66 @@
+name: psy#6.zip
+hash: 18520e39081d1da2eb5a0b3a1b17d4f5
+year: 1994
+file:
+  !!binary +fn5+fn5+fku+fn5:
+    mimetype: text/plain
+  !!binary xMTExMTExMQuxMTE:
+    mimetype: text/plain
+  !!binary zc3Nzc3Nzc0uzc3N:
+    mimetype: text/plain
+  ADDENDUM.PSY:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  PSY#6.EXE:
+    mimetype: application/x-msdos-program
+  PSY#6.NFO:
+    mimetype: text/plain
+  PSY0.DAT:
+    mimetype: application/x-dosexec
+  PSY1.DAT:
+    mimetype: application/x-dosexec
+  PSY2.DAT:
+    mimetype: application/x-dosexec
+  PSY3.DAT:
+    mimetype: application/x-dosexec
+  PSY4.DAT:
+    mimetype: application/x-dosexec
+  PSY5.DAT:
+    mimetype: application/x-dosexec
+  PSY6.DAT:
+    mimetype: application/x-dosexec
+  PSY7.DAT:
+    mimetype: text/plain
+  PSY8.DAT:
+    mimetype: text/plain
+  PSY9.DAT:
+    mimetype: text/plain
+  PSY10.DAT:
+    mimetype: text/plain
+  PSY11.DAT:
+    mimetype: text/plain
+  PSY12.DAT:
+    mimetype: text/plain
+  PSY13.DAT:
+    mimetype: image/gif
+  PSY14.DAT:
+    mimetype: image/gif
+  PSY15.DAT:
+    mimetype: image/gif
+  PSY16.DAT:
+    mimetype: image/gif
+  PSY17.DAT:
+    mimetype: image/gif
+  PSY18.DAT:
+    mimetype: image/gif
+  PSY19.DAT:
+    mimetype: image/gif
+  PSY20.DAT:
+    mimetype: image/gif
+  PSY21.DAT:
+    mimetype: application/x-dosexec
+  PSY22.DAT:
+    mimetype: text/plain
+  PSY23.DAT:
+    mimetype: audio/x-mod

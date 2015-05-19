@@ -1,0 +1,66 @@
+name: cnc-0595.zip
+hash: 7df39312501c0da7d5665c71c1b782ae
+year: 1995
+file:
+  !!binary xMRBTlNJxMQ=:
+    mimetype: text/plain
+  !!binary xMRBU0NJScQuxA==:
+    mimetype: text/plain
+  !!binary xMRNSVNDxMQ=:
+    mimetype: text/plain
+  !!binary xMRNVVNJQ8QuxA==:
+    mimetype: text/plain
+  !!binary xMRSSVDExA==:
+    mimetype: text/plain
+  !!binary xMRWR0HExA==:
+    mimetype: text/plain
+  CNC-0595.ANS:
+    mimetype: text/plain
+  CNC-0595.NFO:
+    mimetype: text/plain
+  CNC-APP.ZIP:
+    mimetype: application/zip
+  CNCNET14.ZIP:
+    mimetype: application/zip
+  DS-GREEN.RIP:
+    mimetype: image/x-rip
+  ER-DOOM.JPG:
+    mimetype: image/jpeg
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  RBN_ED2.ASC:
+    mimetype: text/plain
+  RBN_FICT.ASC:
+    mimetype: text/plain
+  RBN_MM1.ASC:
+    mimetype: text/plain
+  RBN_XRDS.ASC:
+    mimetype: text/plain
+  RD-DIVE.GIF:
+    mimetype: image/gif
+  RD-PA3.GIF:
+    mimetype: image/gif
+  RK-AS1.RIP:
+    mimetype: image/x-rip
+  RK-FB1.RIP:
+    mimetype: image/x-rip
+  RM-IMAGE.RIP:
+    mimetype: image/x-rip
+  SD-COVEN.ANS:
+    mimetype: text/plain
+  SD-DTI.ANS:
+    mimetype: text/plain
+  SD-DTIT.ANS:
+    mimetype: text/plain
+  SD-DYS.ANS:
+    mimetype: text/plain
+  SD-SPMFX.ANS:
+    mimetype: text/plain
+  TV-LOGO2.ANS:
+    mimetype: text/plain
+  TV-LOGOS.ANS:
+    mimetype: text/plain
+  TV-VU.ANS:
+    mimetype: text/plain
+  US-GUMP.S3M:
+    mimetype: audio/x-mod

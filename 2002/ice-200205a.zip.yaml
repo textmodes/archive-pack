@@ -1,0 +1,28 @@
+name: ice-200205a.zip
+hash: 2c977418ce1d8b36c724a76b8fd8ec5d
+year: 2002
+file:
+  _ansi___.___:
+    mimetype: text/plain
+  _cont'd_.___:
+    mimetype: text/plain
+  _stat___.___:
+    mimetype: text/plain
+  e0-aphid.ice:
+    mimetype: text/plain
+  e0-lazy.ice:
+    mimetype: text/plain
+  ice-200204.nfo:
+    mimetype: text/plain
+  ice-200205.nfo:
+    mimetype: text/plain
+  iceview.cnf:
+    mimetype: text/plain
+  iceview.doc:
+    mimetype: text/plain
+  iceview.exe:
+    mimetype: application/x-msdos-program
+  tcf-pir.ice:
+    mimetype: text/plain
+  us-miyu.ice:
+    mimetype: text/plain

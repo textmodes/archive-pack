@@ -1,0 +1,38 @@
+name: nta_jim.zip
+hash: 15a3bc6f1ea37fe97e1bbcf781666599
+year: 1995
+file:
+  ASCLGO.NTA:
+    mimetype: text/plain
+  DISTRO1.NTA:
+    mimetype: text/plain
+  DISTRO2.NTA:
+    mimetype: text/plain
+  DISTRO3.NTA:
+    mimetype: text/plain
+  DISTRO3A.NTA:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  JP_ADD.EXE:
+    mimetype: application/x-msdos-program
+  JP_ADD.NTA:
+    mimetype: text/plain
+  JP_CMNT.NTA:
+    mimetype: text/plain
+  NTA.NFO:
+    mimetype: text/plain
+  PCB_MENU.NTA:
+    mimetype: text/plain
+  PROZAC.COM:
+    mimetype: application/x-msdos-program
+  PROZAC.NFO:
+    mimetype: text/plain
+  RADIO_P.NTA:
+    mimetype: text/plain
+  TBH.COM:
+    mimetype: application/x-msdos-program
+  WHQ.NTA:
+    mimetype: text/plain
+  WHQ_A.NTA:
+    mimetype: text/plain

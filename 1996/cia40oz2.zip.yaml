@@ -1,0 +1,22 @@
+name: cia40oz2.zip
+hash: f09b21e4b322e41f5a2761d4bc50609f
+year: 1996
+file:
+  !!binary xMTE/8TExMQuxMQt:
+    mimetype: text/plain
+  !!binary xMTE/0NOVEQuxMTE:
+    mimetype: text/plain
+  !!binary xMTE/0VUQ/kuxMTE:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  RS-CIA.GIF:
+    mimetype: image/gif
+  RS-ROMEO.JPG:
+    mimetype: image/jpeg
+  TE-WETHR.JPG:
+    mimetype: image/jpeg
+  US-RESKU.JPG:
+    mimetype: image/jpeg
+  WZ-BIO.JPG:
+    mimetype: image/jpeg

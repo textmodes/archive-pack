@@ -1,0 +1,46 @@
+name: rca06-95.zip
+hash: 7a928dedce4a5557a9aedc750eafb951
+year: 1995
+file:
+  ACID-THX.ANS:
+    mimetype: text/plain
+  ACIDVIEW.CFG:
+    mimetype: text/plain
+  ACIDVIEW.EXE:
+    mimetype: application/x-msdos-program
+  ACIDVIEW.NFO:
+    mimetype: text/plain
+  CONTINUM.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FRINGES.ANS:
+    mimetype: text/plain
+  GUILD.ANS:
+    mimetype: text/plain
+  LADYS.GIF:
+    mimetype: image/gif
+  RCA.ANS:
+    mimetype: text/plain
+  RCA.APP:
+    mimetype: application/octet-stream
+  RCAINFO.ANS:
+    mimetype: text/plain
+  RCANEWS.TXT:
+    mimetype: text/plain
+  S-REALM.ANS:
+    mimetype: text/plain
+  S-REALM.GIF:
+    mimetype: image/gif
+  S-ZONE.GIF:
+    mimetype: image/gif
+  SWAT.ANS:
+    mimetype: text/plain
+  SWAT.GIF:
+    mimetype: image/gif
+  SYSOP.APP:
+    mimetype: application/octet-stream
+  U_NIGHTM.ANS:
+    mimetype: text/plain
+  UMBBS.GIF:
+    mimetype: image/gif

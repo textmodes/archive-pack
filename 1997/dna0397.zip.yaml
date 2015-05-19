@@ -1,0 +1,86 @@
+name: dna0397.zip
+hash: 805e74848d008b899d89f1f3ac8e99bd
+year: 1997
+file:
+  -ANSI-:
+    mimetype: text/plain
+  -ASCII-:
+    mimetype: text/plain
+  -INFO-:
+    mimetype: application/octet-stream
+  -OTHER-:
+    mimetype: application/octet-stream
+  -VGA-:
+    mimetype: text/plain
+  BU-DNA!.ANS:
+    mimetype: text/plain
+  CL!BC.ASC:
+    mimetype: text/plain
+  CL!DF.ANS:
+    mimetype: text/plain
+  CL!DN.ASC:
+    mimetype: text/plain
+  CL!INA.ASC:
+    mimetype: text/plain
+  CL!INC.ASC:
+    mimetype: text/plain
+  CL!SPACE.ASC:
+    mimetype: text/plain
+  DH-LTA.JPG:
+    mimetype: image/jpeg
+  DI-COLL.ASC:
+    mimetype: text/plain
+  DI-DNA.ASC:
+    mimetype: text/plain
+  DI-IN.ASC:
+    mimetype: text/plain
+  DI-TR.ASC:
+    mimetype: text/plain
+  DI-WO.ANS:
+    mimetype: text/plain
+  DNA0397.MEM:
+    mimetype: text/plain
+  DNA0397.NFO:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  HP-ABUSE.ANS:
+    mimetype: text/plain
+  HP-BRETH.ANS:
+    mimetype: text/plain
+  HP-DNA.ANS:
+    mimetype: text/plain
+  HP-MAIN.ANS:
+    mimetype: text/plain
+  HP-MINE.ANS:
+    mimetype: text/plain
+  HP-SCENE.ANS:
+    mimetype: text/plain
+  HP-TOXIC.ANS:
+    mimetype: text/plain
+  NOH-DNA.ANS:
+    mimetype: text/plain
+  NOH-EYES.ANS:
+    mimetype: text/plain
+  NOH-TNG.ANS:
+    mimetype: text/plain
+  NOH-TNG2.ANS:
+    mimetype: text/plain
+  P8-DNA.ASC:
+    mimetype: text/plain
+  PP-DNA.ANS:
+    mimetype: text/plain
+  PP-DNA2.ANS:
+    mimetype: text/plain
+  PPA_AND.EXE:
+    mimetype: application/x-msdos-program
+  TSH-DNA.ANS:
+    mimetype: text/plain
+  VDR-COLL.ASC:
+    mimetype: text/plain
+  VDR-DNA.ANS:
+    mimetype: text/plain
+  VDR-SELF.ANS:
+    mimetype: text/plain
+  VDR-TOMB.ASC:
+    mimetype: text/plain

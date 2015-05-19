@@ -1,0 +1,66 @@
+name: 04zenith.zip
+hash: 3f7e7b49f181231da224282f788f631b
+year: 1998
+file:
+  !!binary LShBTlNJKS0uxMTE:
+    mimetype: application/octet-stream
+  !!binary LShIUkVaKS0uxMTE:
+    mimetype: application/octet-stream
+  !!binary LShJTkZPKS0uxMTE:
+    mimetype: application/octet-stream
+  !!binary LShSSVBTKS0uxMTE:
+    mimetype: application/octet-stream
+  04ZENITH.MEM:
+    mimetype: text/plain
+  04ZENITH.NFO:
+    mimetype: text/plain
+  CR-ELD.ZEN:
+    mimetype: text/plain
+  E0-HOOK.ZEN:
+    mimetype: text/plain
+  EQ-ORIGI.ZEN:
+    mimetype: text/plain
+  EQ-SALT.ZEN:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  MAL-JAMZ.GIF:
+    mimetype: image/gif
+  MAL-MAL.JPG:
+    mimetype: image/jpeg
+  MIN-CROP.ZEN:
+    mimetype: text/plain
+  PE-GUT.ZEN:
+    mimetype: text/plain
+  PE-ZEN.ZEN:
+    mimetype: text/plain
+  SA-BEAM.ZEN:
+    mimetype: text/plain
+  SA-GUTR.ZEN:
+    mimetype: text/plain
+  SA-ZNTH.RIP:
+    mimetype: image/x-rip
+  SOR-FICT.ZEN:
+    mimetype: text/plain
+  TNT-02.ZEN:
+    mimetype: text/plain
+  TNT-03.ZEN:
+    mimetype: text/plain
+  TNT-ELD.ZEN:
+    mimetype: text/plain
+  TNT-FE.ZEN:
+    mimetype: text/plain
+  TNT-ZAV.ZEN:
+    mimetype: text/plain
+  US-AZ1.ZEN:
+    mimetype: text/plain
+  US-ID.ZEN:
+    mimetype: text/plain
+  US-LZ.ZEN:
+    mimetype: text/plain
+  US-PHEAR.ZEN:
+    mimetype: text/plain
+  US-SCRO1.ZEN:
+    mimetype: text/plain
+  US-TWAT.ZEN:
+    mimetype: text/plain

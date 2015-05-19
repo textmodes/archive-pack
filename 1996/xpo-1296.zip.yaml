@@ -1,0 +1,98 @@
+name: xpo-1296.zip
+hash: 0c45e6659f114f9bb8ac915d9b4a81ba
+year: 1996
+file:
+  -DB!BIZ.XPO:
+    mimetype: text/plain
+  -DB!COW!.XPO:
+    mimetype: text/plain
+  -DB!CUBC.XPO:
+    mimetype: text/plain
+  -DB!D100.XPO:
+    mimetype: text/plain
+  -DB!DEEP.XPO:
+    mimetype: text/plain
+  -DB!DUHH.XPO:
+    mimetype: text/plain
+  -DB!FISH.XPO:
+    mimetype: text/plain
+  -DB!LGON.XPO:
+    mimetype: text/plain
+  -DB!LOGN.XPO:
+    mimetype: text/plain
+  -DB!MARG.ASC:
+    mimetype: text/plain
+  -DB!MSIC.XPO:
+    mimetype: text/plain
+  -DB!OUT.XPO:
+    mimetype: text/plain
+  -DB!OUT2.XPO:
+    mimetype: text/plain
+  -DB!PLTO.XPO:
+    mimetype: text/plain
+  -DB!SHEL.XPO:
+    mimetype: text/plain
+  -DB!SHRT.GIF:
+    mimetype: image/gif
+  -DB!STIK.GIF:
+    mimetype: image/gif
+  -DB!XPO.XPO:
+    mimetype: text/plain
+  -GR!2DES.XPO:
+    mimetype: text/plain
+  -GR!7ANG.XPO:
+    mimetype: text/plain
+  -GR!DEMN.XPO:
+    mimetype: text/plain
+  -GR!GRSH.XPO:
+    mimetype: text/plain
+  -GR!HYPE.JPG:
+    mimetype: image/jpeg
+  -GR!ID&T.XPO:
+    mimetype: text/plain
+  -GR!LOGA.JPG:
+    mimetype: image/jpeg
+  -GR!REAL.ASC:
+    mimetype: text/plain
+  -GR!WORM.XPO:
+    mimetype: text/plain
+  -SLC!DLG.XPO:
+    mimetype: text/plain
+  -SLC!DP.XPO:
+    mimetype: text/plain
+  -SLC!IMP.XPO:
+    mimetype: text/plain
+  -SLC!MCC.XPO:
+    mimetype: text/plain
+  -SLC!MN!.XPO:
+    mimetype: text/plain
+  -SLC!MVS.XPO:
+    mimetype: text/plain
+  -SLC!NDZ.XPO:
+    mimetype: text/plain
+  -SLC!OUT.XPO:
+    mimetype: text/plain
+  -SLC!OZE.XPO:
+    mimetype: text/plain
+  -SLC!XPO.ANS:
+    mimetype: text/plain
+  -SR!XPO1.XPO:
+    mimetype: text/plain
+  -X!FADE.XPO:
+    mimetype: text/plain
+  -X!GRTS!.XPO:
+    mimetype: text/plain
+  1296DIST.XPO:
+    mimetype: text/plain
+  1296NEWS.XPO:
+    mimetype: text/plain
+  FIJN.EXE:
+    mimetype: application/x-msdos-program
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  XPO-REQ!.EXE:
+    mimetype: application/x-msdos-program
+  XPOVIEW.DOC:
+    mimetype: text/plain
+  XPOVIEW.EXE:
+    mimetype: application/x-msdos-program

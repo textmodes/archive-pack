@@ -1,0 +1,266 @@
+name: sac0998a.zip
+hash: e87b390e4aa6a7436d447676ac750fea
+year: 1998
+file:
+  ANTI-200.ASC:
+    mimetype: text/plain
+  ANTI-AMB.NFO:
+    mimetype: text/plain
+  ANTI-CLS.NFO:
+    mimetype: text/plain
+  ANTI-CRE.ASC:
+    mimetype: text/plain
+  ANTI-DMS.ASC:
+    mimetype: text/plain
+  ANTI-DOD.ASC:
+    mimetype: text/plain
+  ANTI-DSI.DIZ:
+    mimetype: text/plain
+  ANTI-HBD.ASC:
+    mimetype: text/plain
+  ANTI-ILL.ASC:
+    mimetype: text/plain
+  ANTI-ISD.DIZ:
+    mimetype: text/plain
+  ANTI-NC.ASC:
+    mimetype: text/plain
+  ANTI-OIC.ASC:
+    mimetype: text/plain
+  ANTI-PC.ANS:
+    mimetype: text/plain
+  ANTI-PGY.ASC:
+    mimetype: text/plain
+  ANTI-PRM.DIZ:
+    mimetype: text/plain
+  ANTI-RBS.ASC:
+    mimetype: text/plain
+  ANTI-RLX.ASC:
+    mimetype: text/plain
+  ANTI-RX.ASC:
+    mimetype: text/plain
+  ANTI-SAC.ASC:
+    mimetype: text/plain
+  ANTI-TOL.ANS:
+    mimetype: text/plain
+  ANTI-UCF.ASC:
+    mimetype: text/plain
+  ARL-2.ASC:
+    mimetype: text/plain
+  ARL-ATKF.ASC:
+    mimetype: text/plain
+  ARL-BAGD.ASC:
+    mimetype: text/plain
+  ARL-FLOO.ASC:
+    mimetype: text/plain
+  ARL-IZ.ASC:
+    mimetype: text/plain
+  ARL-MD.ASC:
+    mimetype: text/plain
+  ARL-NGT.ASC:
+    mimetype: text/plain
+  ARL-PUNG.ASC:
+    mimetype: text/plain
+  ARL-PVM.ASC:
+    mimetype: text/plain
+  ARL-REIG.ASC:
+    mimetype: text/plain
+  ARL-SS.ASC:
+    mimetype: text/plain
+  ARL-TPY.ASC:
+    mimetype: text/plain
+  ARL-UV.ASC:
+    mimetype: text/plain
+  CH-ACE.ASC:
+    mimetype: text/plain
+  CH-ACE2.ASC:
+    mimetype: text/plain
+  CH-AMNES.ASC:
+    mimetype: text/plain
+  CH-CLASS.ASC:
+    mimetype: text/plain
+  CH-DE.ASC:
+    mimetype: text/plain
+  CH-DE3.ASC:
+    mimetype: text/plain
+  CH-ESTRA.ASC:
+    mimetype: text/plain
+  CH-MOTV8.ASC:
+    mimetype: text/plain
+  CH-MW.ASC:
+    mimetype: text/plain
+  CH-MW2.ASC:
+    mimetype: text/plain
+  CH-PNC.ASC:
+    mimetype: text/plain
+  CH-REUNI.ASC:
+    mimetype: text/plain
+  CH-RISE2.ASC:
+    mimetype: text/plain
+  CH-RNDIZ.ASC:
+    mimetype: text/plain
+  CH-RNET.ASC:
+    mimetype: text/plain
+  CH-RNS.ASC:
+    mimetype: text/plain
+  CH-RNS3.ASC:
+    mimetype: text/plain
+  CH-SAC.ANS:
+    mimetype: text/plain
+  CH-TRPS.DIZ:
+    mimetype: text/plain
+  CH-TRPS.NFO:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  HLX-CWS1.ASC:
+    mimetype: text/plain
+  HLX-EPT.ASC:
+    mimetype: text/plain
+  HLX-FLUK.ASC:
+    mimetype: text/plain
+  HLX-FLUX.NFO:
+    mimetype: text/plain
+  HLX-FS1.ASC:
+    mimetype: text/plain
+  HLX-FS2.ASC:
+    mimetype: text/plain
+  HLX-H2.ASC:
+    mimetype: text/plain
+  HLX-LD1.ASC:
+    mimetype: text/plain
+  HLX-LD2.ASC:
+    mimetype: text/plain
+  HLX-LR.ASC:
+    mimetype: text/plain
+  HLX-NGIT.NFO:
+    mimetype: text/plain
+  HLX-NL.ASC:
+    mimetype: text/plain
+  HLX-QS.ASC:
+    mimetype: text/plain
+  HLX-SAC.ASC:
+    mimetype: text/plain
+  HLX-SARC.ASC:
+    mimetype: text/plain
+  HLX-SB1.ASC:
+    mimetype: text/plain
+  HLX-SLR.ASC:
+    mimetype: text/plain
+  HLX-SQZ2.ASC:
+    mimetype: text/plain
+  HLX-TUR.ASC:
+    mimetype: text/plain
+  HT-RAZOR.EXE:
+    mimetype: application/x-msdos-program
+  MG-DV.NFO:
+    mimetype: text/plain
+  MG-IST.NFO:
+    mimetype: text/plain
+  MG-JRD.NFO:
+    mimetype: text/plain
+  MG-MFD.NFO:
+    mimetype: text/plain
+  MG-MNM.NFO:
+    mimetype: text/plain
+  MG-NTR.NFO:
+    mimetype: text/plain
+  MG-PRF.ASC:
+    mimetype: text/plain
+  MG-RELS.ASC:
+    mimetype: text/plain
+  MG-RNG.NFO:
+    mimetype: text/plain
+  MG-RTN.ASC:
+    mimetype: text/plain
+  MG-RTS.ASC:
+    mimetype: text/plain
+  MG-RVE.NFO:
+    mimetype: text/plain
+  MG-TPH.NFO:
+    mimetype: text/plain
+  MG-WAR.ASC:
+    mimetype: text/plain
+  MG-WTC.NFO:
+    mimetype: text/plain
+  MTD-CORP.ASC:
+    mimetype: text/plain
+  MTD-CORP.DIZ:
+    mimetype: text/plain
+  MTD-CORP.NFO:
+    mimetype: text/plain
+  MTD-DAF.ASC:
+    mimetype: text/plain
+  MTD-DCT.ASC:
+    mimetype: text/plain
+  MTD-DMD.NFO:
+    mimetype: text/plain
+  MTD-DSI.ASC:
+    mimetype: text/plain
+  MTD-GOOD.ASC:
+    mimetype: text/plain
+  MTD-INSD.ASC:
+    mimetype: text/plain
+  MTD-IVAN.ASC:
+    mimetype: text/plain
+  MTD-JD.ASC:
+    mimetype: text/plain
+  MTD-JED.ASC:
+    mimetype: text/plain
+  MTD-MRG.ASC:
+    mimetype: text/plain
+  MTD-TM.ASC:
+    mimetype: text/plain
+  MTD-TVP.ASC:
+    mimetype: text/plain
+  PD-SEGA.ANS:
+    mimetype: text/plain
+  PD-SEGA.ASC:
+    mimetype: text/plain
+  PL-AMKDZ.ASC:
+    mimetype: text/plain
+  PL-AMOK1.ASC:
+    mimetype: text/plain
+  PL-CHAHD.ASC:
+    mimetype: text/plain
+  PL-CHAIN.ASC:
+    mimetype: text/plain
+  PL-DENOF.ASC:
+    mimetype: text/plain
+  PL-DGS01.ASC:
+    mimetype: text/plain
+  PL-DOI01.ASC:
+    mimetype: text/plain
+  PL-GWA01.ASC:
+    mimetype: text/plain
+  PL-GWA02.ASC:
+    mimetype: text/plain
+  PL-MLM01.ASC:
+    mimetype: text/plain
+  PL-NITE1.ASC:
+    mimetype: text/plain
+  PL-RSTAR.ASC:
+    mimetype: text/plain
+  PL-SPA01.ASC:
+    mimetype: text/plain
+  PL-UNI01.ASC:
+    mimetype: text/plain
+  PL-UNI02.ASC:
+    mimetype: text/plain
+  PLCIRRUS.ASC:
+    mimetype: text/plain
+  RN-BEHIN.IT:
+    mimetype: audio/x-mod
+  SAC.NFO:
+    mimetype: text/plain
+  TU_JNGFR.XM:
+    mimetype: audio/x-mod
+  WOTW-127.MOD:
+    mimetype: audio/x-mod
+  WOTW-128.MOD:
+    mimetype: audio/x-mod
+  WOTW-129.MOD:
+    mimetype: audio/x-mod
+  WOTW-130.MOD:
+    mimetype: audio/x-mod
+  WOTW-FAR.MOD:
+    mimetype: audio/x-mod

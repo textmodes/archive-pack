@@ -1,0 +1,50 @@
+name: m-9804.zip
+hash: bdaba9da7f60813f461dc71f79089ab8
+year: 1998
+file:
+  ETO_G.ANS:
+    mimetype: text/plain
+  ETO_LE.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GOBBLEDE.MOD:
+    mimetype: audio/x-mod
+  GRN-MIST.ANS:
+    mimetype: text/plain
+  GRN^DOB.ANS:
+    mimetype: text/plain
+  HB-BOING.ANS:
+    mimetype: text/plain
+  HQ-BORGS.LIT:
+    mimetype: text/plain
+  KT-FIRST.IT:
+    mimetype: audio/x-mod
+  KT-GREY.JPG:
+    mimetype: image/jpeg
+  KT-SWIRL.JPG:
+    mimetype: image/jpeg
+  KT-TSF.ANS:
+    mimetype: text/plain
+  MIST0498.NFO:
+    mimetype: text/plain
+  PNKRKSNT.S3M:
+    mimetype: audio/x-mod
+  PONG.EXE:
+    mimetype: application/x-msdos-program
+  RH-FIRST.IT:
+    mimetype: audio/x-mod
+  SKR-DOXG.ANS:
+    mimetype: text/plain
+  SKR-M2.ANS:
+    mimetype: text/plain
+  TH_AMI43.GIF:
+    mimetype: image/gif
+  TUBESOCK.BMP:
+    mimetype: image/x-ms-bmp
+  WD-LIT.LIT:
+    mimetype: text/plain
+  WORD!:
+    mimetype: text/plain
+  YOMOMMA.EXE:
+    mimetype: application/x-msdos-program

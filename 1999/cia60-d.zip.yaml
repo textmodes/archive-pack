@@ -1,0 +1,30 @@
+name: cia60-d.zip
+hash: 5f611052925e11ad823ee0604b4b186f
+year: 1999
+file:
+  --C-I-A-.---:
+    mimetype: text/plain
+  42_IAEHS.GIF:
+    mimetype: image/gif
+  0199INFO.CIA:
+    mimetype: text/plain
+  0199MEMB.CIA:
+    mimetype: text/plain
+  CWSDPMI.EXE:
+    mimetype: application/x-msdos-program
+  DN_LNR.JPG:
+    mimetype: image/jpeg
+  FFH_5MEM.JPG:
+    mimetype: image/jpeg
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  IK_CRQS.JPG:
+    mimetype: image/jpeg
+  IK_DJVU.JPG:
+    mimetype: image/jpeg
+  NA_FROG1.JPG:
+    mimetype: image/jpeg
+  PK_BLUP.JPG:
+    mimetype: image/jpeg
+  WIRETAP.EXE:
+    mimetype: application/x-msdos-program

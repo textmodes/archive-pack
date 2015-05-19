@@ -1,0 +1,46 @@
+name: jihad-2.zip
+hash: 62fb060879c0e53cf799236c7f1195ec
+year: 1994
+file:
+  APPS.ZIP:
+    mimetype: application/zip
+  BARVSGOD.GIF:
+    mimetype: image/gif
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  HF-EVOL.GIF:
+    mimetype: image/gif
+  HF-HATE.GIF:
+    mimetype: image/gif
+  HF-PYMD.GIF:
+    mimetype: image/gif
+  HF-RNMA.GIF:
+    mimetype: image/gif
+  HF-TRN.GIF:
+    mimetype: image/gif
+  HF-VKTR.GIF:
+    mimetype: image/gif
+  LT-ALL.LIT:
+    mimetype: text/plain
+  LT-MORE.LIT:
+    mimetype: text/plain
+  LT-RUN.LIT:
+    mimetype: text/plain
+  LT-SOL.LIT:
+    mimetype: text/plain
+  MEMLIST.JHD:
+    mimetype: text/plain
+  NEWS.JHD:
+    mimetype: text/plain
+  POLICY.JHD:
+    mimetype: text/plain
+  QS-JIHAD.GIF:
+    mimetype: image/gif
+  QS-M1.GIF:
+    mimetype: image/gif
+  QS-TOAST.GIF:
+    mimetype: image/gif
+  TZ-JHD2.GIF:
+    mimetype: image/gif
+  US-JHD.GIF:
+    mimetype: image/gif

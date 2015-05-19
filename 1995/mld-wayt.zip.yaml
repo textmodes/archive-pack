@@ -1,0 +1,14 @@
+name: mld-wayt.zip
+hash: 9f375070fe0612bfd9bbff3de6aee78e
+year: 1995
+file:
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  MLD-INFO.TXT:
+    mimetype: text/plain
+  NEO.COM:
+    mimetype: application/x-msdos-program
+  README.TXT:
+    mimetype: text/plain
+  WAYTOA.XM:
+    mimetype: audio/x-mod

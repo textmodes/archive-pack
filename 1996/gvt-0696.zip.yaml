@@ -1,0 +1,54 @@
+name: gvt-0696.zip
+hash: d7826684e033892370eae1bfed183217
+year: 1996
+file:
+  '!ADMIN!':
+    mimetype: text/plain
+  '!ANSI!':
+    mimetype: text/plain
+  '!MUSIC!':
+    mimetype: text/plain
+  '!NET!':
+    mimetype: text/plain
+  '!VGA!':
+    mimetype: text/plain
+  '!VIEWER!':
+    mimetype: text/plain
+  CC-23COL.GVT:
+    mimetype: text/plain
+  CC-GLB5.GVT:
+    mimetype: text/plain
+  CC-GVT1.JPG:
+    mimetype: image/jpeg
+  CC-ROUTE.GVT:
+    mimetype: text/plain
+  DM!WBAKE.S3M:
+    mimetype: audio/x-mod
+  DM-ENIGA.GVT:
+    mimetype: text/plain
+  DM-ZERO.GVT:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GVT-0696.MEM:
+    mimetype: text/plain
+  GVT-0696.NFO:
+    mimetype: text/plain
+  GVT-COL1.GVT:
+    mimetype: text/plain
+  GVTVIEW.EXE:
+    mimetype: application/x-msdos-program
+  GVTVIEW.HIS:
+    mimetype: text/plain
+  HOUR.EXE:
+    mimetype: application/x-msdos-program
+  JOLT02.ZIP:
+    mimetype: application/zip
+  PT-CAFF.GVT:
+    mimetype: text/plain
+  PT-COL1.GVT:
+    mimetype: text/plain
+  PY-3.S3M:
+    mimetype: audio/x-mod
+  SH-GLSS2.GVT:
+    mimetype: text/plain

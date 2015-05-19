@@ -1,0 +1,20 @@
+name: cot_musx.zip
+hash: c25ae76d75e53d69e632f2d8288cd53f
+year: 1995
+file:
+  ANGEL.EXE:
+    mimetype: application/x-msdos-program
+  BOMB.ANS:
+    mimetype: text/plain
+  CALME.EXE:
+    mimetype: application/x-msdos-program
+  COT_MUSX.EXE:
+    mimetype: application/x-msdos-program
+  DEMO.EXE:
+    mimetype: application/x-msdos-program
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  MUSIX.NFO:
+    mimetype: text/plain
+  !!binary V+7uRC5FWEU=:
+    mimetype: application/x-msdos-program

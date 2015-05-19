@@ -1,0 +1,54 @@
+name: f_x_9807.zip
+hash: 1e5c3132124884624fbcba543a9e84ce
+year: 1998
+file:
+  '-----ART.---':
+    mimetype: application/octet-stream
+  '----INFO.---':
+    mimetype: application/octet-stream
+  '----MISC.---':
+    mimetype: application/octet-stream
+  DJR-JNGL.JPG:
+    mimetype: image/jpeg
+  F(X)9807.MEM:
+    mimetype: text/plain
+  F(X)9807.NFO:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FUNC_APP.EXE:
+    mimetype: application/x-msdos-program
+  KL-SFIEN.ANS:
+    mimetype: text/plain
+  MNC-FS.ANS:
+    mimetype: text/plain
+  MNC-LV.ANS:
+    mimetype: text/plain
+  MNC-T704.ANS:
+    mimetype: text/plain
+  NIT-GIRL.ANS:
+    mimetype: text/plain
+  NIT33-N2.BIN:
+    mimetype: text/x-binary
+  PLZ-FX03.ANS:
+    mimetype: text/plain
+  QP-CTV.ANS:
+    mimetype: text/plain
+  QP-GRAD2.ANS:
+    mimetype: text/plain
+  QP-OOZE1.ANS:
+    mimetype: text/plain
+  QP-SALT.ANS:
+    mimetype: text/plain
+  SMI-EGLO.ANS:
+    mimetype: text/plain
+  US-COLLY.ANS:
+    mimetype: text/plain
+  US-GUT1.ANS:
+    mimetype: text/plain
+  US-GUTTR.ANS:
+    mimetype: text/plain
+  WA-RAY1.ANS:
+    mimetype: text/plain
+  WA-TGC1.ANS:
+    mimetype: text/plain

@@ -1,0 +1,42 @@
+name: hrg-09.zip
+hash: 1726a7069139f8d64c6e51e965cb25a1
+year: 1997
+file:
+  '---09---.NFO':
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  HRG.NFO:
+    mimetype: text/plain
+  HRGREG.EXE:
+    mimetype: application/x-msdos-program
+  I_L^COI.ASC:
+    mimetype: text/plain
+  I_L^LEG.ASC:
+    mimetype: text/plain
+  I_L^MUSH.ASC:
+    mimetype: text/plain
+  I_L^PH.ASC:
+    mimetype: text/plain
+  I_L^RAZ.ASC:
+    mimetype: text/plain
+  I_L^ROOT.ASC:
+    mimetype: text/plain
+  I_L^STR.ASC:
+    mimetype: text/plain
+  IF-ASK~1.ASC:
+    mimetype: text/plain
+  IF-HARM.JPG:
+    mimetype: image/jpeg
+  KH_CHROM.JPG:
+    mimetype: image/jpeg
+  KH_T00L.JPG:
+    mimetype: image/jpeg
+  KH_VISIT.JPG:
+    mimetype: image/jpeg
+  KH_WINTE.JPG:
+    mimetype: image/jpeg
+  SPRO-BC.GIF:
+    mimetype: image/gif
+  SPRO-TE.GIF:
+    mimetype: image/gif

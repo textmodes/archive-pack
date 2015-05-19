@@ -1,0 +1,64 @@
+name: pst-07.zip
+hash: e8508a0af866e96958ac580e55b95f3b
+year: 1999
+file:
+  -ART-:
+    mimetype: image/jpeg
+  -MISC-:
+    mimetype: image/jpeg
+  BREIFING.ANS:
+    mimetype: text/plain
+  C&Z-HEAD.ANS:
+    mimetype: text/plain
+  FAT-PR2.RIP:
+    mimetype: image/x-rip
+  FAT-TRIB.RIP:
+    mimetype: image/x-rip
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FK-NEO.ANS:
+    mimetype: text/plain
+  FRG-OFF.ANS:
+    mimetype: text/plain
+  GJ-MIST.ANS:
+    mimetype: text/plain
+  GJ-MPN.ANS:
+    mimetype: text/plain
+  GJ-RS.ANS:
+    mimetype: text/plain
+  GJ-S7MTX.ANS:
+    mimetype: text/plain
+  GJ-S9.ANS:
+    mimetype: text/plain
+  KRL-POLY.ANS:
+    mimetype: text/plain
+  MSD-AZTK.ASC:
+    mimetype: text/plain
+  PG-DIST.RIP:
+    mimetype: image/x-rip
+  PG-POLY.RIP:
+    mimetype: image/x-rip
+  PG-SAR.RIP:
+    mimetype: image/x-rip
+  R&F-POLY.ANS:
+    mimetype: text/plain
+  R&M-ACID.ASC:
+    mimetype: text/plain
+  REVOLUTE.PSY:
+    mimetype: text/plain
+  RP-ELMNT.ASC:
+    mimetype: text/plain
+  RP-SPOOF.ASC:
+    mimetype: text/plain
+  SQUAD.ANS:
+    mimetype: text/plain
+  T&M-PST.ANS:
+    mimetype: text/plain
+  US-X1.ANS:
+    mimetype: text/plain
+  W4-CDRMX.ASC:
+    mimetype: text/plain
+  W4-MLCIS.ASC:
+    mimetype: text/plain
+  W4-OCTO.ASC:
+    mimetype: text/plain

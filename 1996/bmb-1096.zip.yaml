@@ -1,0 +1,72 @@
+name: bmb-1096.zip
+hash: 1ca5f3ff419109dfb464c9d5717c030c
+year: 1996
+file:
+  --ANS--:
+    mimetype: text/plain
+  --ASC--:
+    mimetype: text/plain
+  --DIZ--:
+    mimetype: text/plain
+  --EXE--:
+    mimetype: text/plain
+  --NFO--:
+    mimetype: text/plain
+  --VGA--:
+    mimetype: text/plain
+  BMB-1096.NFO:
+    mimetype: text/plain
+  BMB-1096.NWS:
+    mimetype: text/plain
+  BMB-APP.EXE:
+    mimetype: application/x-msdos-program
+  CLEAN.NFO:
+    mimetype: text/plain
+  D-VOICES.EXE:
+    mimetype: application/x-msdos-program
+  DKL-OC.ASC:
+    mimetype: text/plain
+  DKL-S^C2.ASC:
+    mimetype: text/plain
+  DKL-SED.ANS:
+    mimetype: text/plain
+  DKL-SED.ASC:
+    mimetype: text/plain
+  DKL-SED2.ASC:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FX-AGS.ANS:
+    mimetype: text/plain
+  FX-BMB.ANS:
+    mimetype: text/plain
+  FX-BMB2.ASC:
+    mimetype: text/plain
+  FX-BYE.ANS:
+    mimetype: text/plain
+  FX-FX.ANS:
+    mimetype: text/plain
+  FX-HSA.ANS:
+    mimetype: text/plain
+  FX-MAIN.ANS:
+    mimetype: text/plain
+  FX-PIC.ANS:
+    mimetype: text/plain
+  FX-PIC2.ANS:
+    mimetype: text/plain
+  FX-STATS.ANS:
+    mimetype: text/plain
+  FX-TOP.ANS:
+    mimetype: text/plain
+  I!B-BMB.GIF:
+    mimetype: image/gif
+  I!B-GRIM.ANS:
+    mimetype: text/plain
+  PHN-WARE.ASC:
+    mimetype: text/plain
+  S^C.ART:
+    mimetype: text/plain
+  VOICES.TXT:
+    mimetype: text/plain
+  WELCOME.3:
+    mimetype: text/plain

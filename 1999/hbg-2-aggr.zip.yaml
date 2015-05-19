@@ -1,0 +1,46 @@
+name: hbg-2-aggr.zip
+hash: 3150d4da9cd5e19d0abf0c00f903345d
+year: 1999
+file:
+  !!binary /lBBU1NFRP4uVEhS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  HBG.NFO:
+    mimetype: text/plain
+  HIR-BOXS.GIF:
+    mimetype: image/gif
+  HIR-DISR.JPG:
+    mimetype: image/jpeg
+  HIR-MDTK.JPG:
+    mimetype: image/jpeg
+  IDG-ARMA.JPG:
+    mimetype: image/jpeg
+  IDG-CRAB.JPG:
+    mimetype: image/jpeg
+  IDG-DASB.JPG:
+    mimetype: image/jpeg
+  IDG-INST.ASC:
+    mimetype: text/plain
+  IDG-KING.JPG:
+    mimetype: image/jpeg
+  IDG-MOSC.ASC:
+    mimetype: text/plain
+  IDG-PYRA.JPG:
+    mimetype: image/jpeg
+  KUZ-GRA.JPG:
+    mimetype: image/jpeg
+  SHK-ALIE.JPG:
+    mimetype: image/jpeg
+  SHK-HOLE.JPG:
+    mimetype: image/jpeg
+  SHK-PHAN.JPG:
+    mimetype: image/jpeg
+  SHK-WOLF.JPG:
+    mimetype: image/jpeg
+  SLD-EOWD.JPG:
+    mimetype: image/jpeg
+  SLD-ICED.JPG:
+    mimetype: image/jpeg
+  artpacks.txt:
+    mimetype: text/plain

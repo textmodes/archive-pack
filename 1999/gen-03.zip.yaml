@@ -1,0 +1,48 @@
+name: gen-03.zip
+hash: 19e714213a890e46536558f7f3405ac6
+year: 1999
+file:
+  file_id.diz:
+    mimetype: text/plain
+  geninfo.ans:
+    mimetype: text/plain
+  genmem.ans:
+    mimetype: text/plain
+  inc-gen.ans:
+    mimetype: text/plain
+  is-gen.ans:
+    mimetype: text/plain
+  lm-hoth.ans:
+    mimetype: text/plain
+  lm-soc.ans:
+    mimetype: text/plain
+  lm-swe.ans:
+    mimetype: text/plain
+  rl-arg.ans:
+    mimetype: text/plain
+  rl-bag.ans:
+    mimetype: text/plain
+  rl-gen.ans:
+    mimetype: text/plain
+  rl-genui.ans:
+    mimetype: text/plain
+  rl-guzen.ans:
+    mimetype: text/plain
+  rl-inmz.ans:
+    mimetype: text/plain
+  rl-raw.ans:
+    mimetype: text/plain
+  rl-res.asc:
+    mimetype: text/plain
+  rl-tens.asc:
+    mimetype: text/plain
+  rl-ttre.ans:
+    mimetype: text/plain
+  sph_poly.ans:
+    mimetype: text/plain
+  us-gen.ans:
+    mimetype: text/plain
+  vdr-ave.ans:
+    mimetype: text/plain
+  vdr-idle.ans:
+    mimetype: text/plain

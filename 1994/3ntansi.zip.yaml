@@ -1,0 +1,12 @@
+name: 3ntansi.zip
+hash: 59f75a64b30dfcc2d63a3b47256c4985
+year: 1994
+file:
+  $0H:
+    mimetype: text/plain
+  3NT.EXE:
+    mimetype: application/x-msdos-program
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  NEO.COM:
+    mimetype: application/x-msdos-program

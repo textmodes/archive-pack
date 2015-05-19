@@ -1,0 +1,62 @@
+name: bdp-0197.zip
+hash: 3fd5bc54e9052313052db67da289097e
+year: 1997
+file:
+  '--------.ANS':
+    mimetype: text/plain
+  '--------.ASC':
+    mimetype: text/plain
+  '--------.BIN':
+    mimetype: text/plain
+  '--------.EX3':
+    mimetype: text/plain
+  '--------.NFO':
+    mimetype: text/plain
+  '--------.RIP':
+    mimetype: image/x-rip
+  '--------.VGA':
+    mimetype: text/plain
+  BBSADDY.EXE:
+    mimetype: application/x-msdos-program
+  BDP-0197.LST:
+    mimetype: text/plain
+  BDP-0197.NWS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  LEKKER.NAT:
+    mimetype: text/plain
+  RC(ACI2).ANS:
+    mimetype: text/plain
+  RC(ACID).ANS:
+    mimetype: text/plain
+  RC(AST5).ANS:
+    mimetype: text/plain
+  RC(AST6).ANS:
+    mimetype: text/plain
+  RC(BDP).ANS:
+    mimetype: text/plain
+  RC(DANT).ANS:
+    mimetype: text/plain
+  RC(FILE).ASC:
+    mimetype: text/plain
+  SAUCE.CFG:
+    mimetype: text/plain
+  SAUCE.EXE:
+    mimetype: application/x-msdos-program
+  SF-KAK.EXE:
+    mimetype: application/x-msdos-program
+  WZ-DEVIO.JPG:
+    mimetype: image/jpeg
+  WZ-NFOOZ.JPG:
+    mimetype: image/jpeg
+  WZ-PENTA.JPG:
+    mimetype: image/jpeg
+  WZ-TUNEZ.JPG:
+    mimetype: image/jpeg
+  WZ-VIESV.JPG:
+    mimetype: image/jpeg
+  YMKCSCLV.EXE:
+    mimetype: application/x-msdos-program
+  YMKCSCLV.TMB:
+    mimetype: text/plain

@@ -1,0 +1,52 @@
+name: hrg-12.zip
+hash: c4933980b9247690cd66a37810d5740f
+year: 1997
+file:
+  '---12---.NFO':
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  HRG-HNY.DIZ:
+    mimetype: text/plain
+  HRG-NFO.EXE:
+    mimetype: application/x-msdos-program
+  HRGFORCE.XM:
+    mimetype: audio/x-mod
+  HZR-FWN.JPG:
+    mimetype: image/jpeg
+  I_L^BLM.ASC:
+    mimetype: text/plain
+  I_L^GOTH.ASC:
+    mimetype: text/plain
+  I_L^H.ASC:
+    mimetype: text/plain
+  I_L^HRT.JPG:
+    mimetype: image/jpeg
+  I_L^LOOK.ASC:
+    mimetype: text/plain
+  I_L^LVIS.ASC:
+    mimetype: text/plain
+  I_L^NEW.ASC:
+    mimetype: text/plain
+  I_L^NEW2.ASC:
+    mimetype: text/plain
+  I_L^STRN.ASC:
+    mimetype: text/plain
+  I_L^XMAS.ASC:
+    mimetype: text/plain
+  KI-FRWTH.JPG:
+    mimetype: image/jpeg
+  PHL-AWE.DIZ:
+    mimetype: text/plain
+  PHL-HRG4.ASC:
+    mimetype: text/plain
+  PHL-TRND.ANS:
+    mimetype: text/plain
+  SPRO-JBX.GIF:
+    mimetype: image/gif
+  SPRO-SLC.GIF:
+    mimetype: image/gif
+  SPRO-TQ1.GIF:
+    mimetype: image/gif
+  SPRO-TQ2.JPG:
+    mimetype: image/jpeg

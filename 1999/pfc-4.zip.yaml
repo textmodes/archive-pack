@@ -1,0 +1,42 @@
+name: pfc-4.zip
+hash: 078b6be831c618aeddf9e7d084bfaf7d
+year: 1999
+file:
+  0400-gd.jpg:
+    mimetype: image/jpeg
+  0401-ian.jpg:
+    mimetype: image/jpeg
+  0402-sub.jpg:
+    mimetype: image/jpeg
+  0403-sch.jpg:
+    mimetype: image/jpeg
+  0404-sub.jpg:
+    mimetype: image/jpeg
+  0405-gd.jpg:
+    mimetype: image/jpeg
+  0406-gd.jpg:
+    mimetype: image/jpeg
+  0407-gd.jpg:
+    mimetype: image/jpeg
+  0408-gd.jpg:
+    mimetype: image/jpeg
+  0409-hi.jpg:
+    mimetype: image/jpeg
+  0410-hi.jpg:
+    mimetype: image/jpeg
+  0411-hi.jpg:
+    mimetype: image/jpeg
+  0412-gd.jpg:
+    mimetype: image/jpeg
+  0413-gd.jpg:
+    mimetype: image/jpeg
+  0414gd.jpg:
+    mimetype: image/jpeg
+  0415-us.gif:
+    mimetype: image/gif
+  file_id.diz:
+    mimetype: text/plain
+  pfc-4.txt:
+    mimetype: text/plain
+  pfc.nfo:
+    mimetype: text/plain

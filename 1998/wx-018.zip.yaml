@@ -1,0 +1,24 @@
+name: wx-018.zip
+hash: dc7c72fc38c4edd944a444fd29ae52b5
+year: 1998
+file:
+  DIEMORAL.COM:
+    mimetype: application/x-msdos-program
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  MORALES.NFO:
+    mimetype: text/plain
+  NEST-01.JPG:
+    mimetype: image/jpeg
+  NEST-02.JPG:
+    mimetype: image/jpeg
+  NEST-03.JPG:
+    mimetype: image/jpeg
+  NEST-04.JPG:
+    mimetype: image/jpeg
+  NEST-05.JPG:
+    mimetype: image/jpeg
+  WX.APP:
+    mimetype: application/octet-stream
+  WX.NFO:
+    mimetype: text/plain

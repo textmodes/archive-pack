@@ -1,0 +1,84 @@
+name: grf-0793.zip
+hash: 759fd121d75dba1194433aa060df946a
+year: 1993
+file:
+  BETRAYAL.GRF:
+    mimetype: text/plain
+  BIPBOP2.GRF:
+    mimetype: text/plain
+  DG-MELTD.GRF:
+    mimetype: text/plain
+  DISC.TXT:
+    mimetype: text/plain
+  DP-LAW.GRF:
+    mimetype: text/plain
+  DYNAMO.GRF:
+    mimetype: text/plain
+  DZ-GE.GRF:
+    mimetype: text/plain
+  DZ-GRF.GRF:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FILELIST.GRF:
+    mimetype: text/plain
+  GRF-793.MOD:
+    mimetype: audio/x-mod
+  GRF-APPG.ZIP:
+    mimetype: application/zip
+  GRF-RAIL.ZIP:
+    mimetype: application/zip
+  GRF.BIN:
+    mimetype: application/octet-stream
+  GRF.NFO:
+    mimetype: text/plain
+  HELP.TXT:
+    mimetype: text/plain
+  HEXX2.GRF:
+    mimetype: text/plain
+  INTENNIS.GRF:
+    mimetype: text/plain
+  INTROMOD.EXE:
+    mimetype: application/x-msdos-program
+  LOSTVIK.GRF:
+    mimetype: text/plain
+  LUNAR.GRF:
+    mimetype: text/plain
+  MEMBERL.GRF:
+    mimetype: text/plain
+  MENU.CFG:
+    mimetype: text/plain
+  MENU.EXE:
+    mimetype: application/x-msdos-program
+  MENUS.CFG:
+    mimetype: text/plain
+  MS-MELTD.GIF:
+    mimetype: image/gif
+  MS-MGRF.GIF:
+    mimetype: image/gif
+  MS-XENO.GIF:
+    mimetype: image/gif
+  OL-GRF.MOD:
+    mimetype: audio/x-mod
+  OL-LOL.GRF:
+    mimetype: text/plain
+  OV-GRF.EXE:
+    mimetype: application/x-msdos-program
+  OV-GRF1.BAT:
+    mimetype: application/x-msdos-program
+  PGOLD.GRF:
+    mimetype: text/plain
+  QST-GRF.GRF:
+    mimetype: text/plain
+  RODEO.GRF:
+    mimetype: text/plain
+  RUNME.BAT:
+    mimetype: application/x-msdos-program
+  STRPOKER.GRF:
+    mimetype: text/plain
+  TAKEBPB.GRF:
+    mimetype: text/plain
+  TIMDELUX.GRF:
+    mimetype: text/plain
+  TOMJERRY.GRF:
+    mimetype: text/plain

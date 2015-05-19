@@ -1,0 +1,40 @@
+name: cn_cia04.zip
+hash: f273e4782a1b9c0f99a851109a1077ce
+year: 1995
+file:
+  !!binary +vr6+k5GT/ou+vr6:
+    mimetype: text/plain
+  !!binary +vr6TVVTSUMu+vr6:
+    mimetype: text/plain
+  !!binary +vpQTEFZRVIu+vo=:
+    mimetype: text/plain
+  0295INFO.CIA:
+    mimetype: text/plain
+  0295MEMB.CIA:
+    mimetype: text/plain
+  0295SITE.CIA:
+    mimetype: text/plain
+  BIGROCK2.NFO:
+    mimetype: text/plain
+  BOERTIG.TXT:
+    mimetype: text/plain
+  CN-APOLO.S3M:
+    mimetype: audio/x-mod
+  CN-ASUR.S3M:
+    mimetype: audio/x-mod
+  CN-BLEW.S3M:
+    mimetype: audio/x-mod
+  CN-DISK4.NFO:
+    mimetype: text/plain
+  CN-HEART.S3M:
+    mimetype: audio/x-mod
+  CN-RAPE.S3M:
+    mimetype: audio/x-mod
+  CN-TEEN.S3M:
+    mimetype: audio/x-mod
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  IP.EXE:
+    mimetype: application/x-msdos-program
+  NEO.COM:
+    mimetype: application/x-msdos-program

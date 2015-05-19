@@ -1,0 +1,50 @@
+name: taspak2.zip
+hash: 8659cfb3be5c02ca9f8786fe8059094f
+year: 1994
+file:
+  ARTGALM.ANS:
+    mimetype: text/plain
+  EYER0K10.TAS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FILEM.ANS:
+    mimetype: text/plain
+  GOD12.TAS:
+    mimetype: text/plain
+  GOODBYE.ANS:
+    mimetype: text/plain
+  HOHO10.TAS:
+    mimetype: text/plain
+  INFOFORM.1:
+    mimetype: text/plain
+  INFOFORM.5:
+    mimetype: text/plain
+  LIE.TAS:
+    mimetype: text/plain
+  MAINM.ANS:
+    mimetype: text/plain
+  MECON11.TAS:
+    mimetype: text/plain
+  MSGM.ANS:
+    mimetype: text/plain
+  NLOGO2.TAS:
+    mimetype: text/plain
+  README.1ST:
+    mimetype: text/plain
+  RECYCLE4.TAS:
+    mimetype: text/plain
+  SINS4.TAS:
+    mimetype: text/plain
+  SKULL4.ASC:
+    mimetype: text/plain
+  SOURCE9.TAS:
+    mimetype: text/plain
+  TAS.ASC:
+    mimetype: text/plain
+  TAS_APP.EXE:
+    mimetype: application/x-msdos-program
+  TASSHOW.BAT:
+    mimetype: application/x-msdos-program
+  WASTE9.TAS:
+    mimetype: text/plain

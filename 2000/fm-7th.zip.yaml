@@ -1,0 +1,14 @@
+name: fm-7th.zip
+hash: 4f954e5a6bc78748da344ea5bb739743
+year: 2000
+file:
+  CONTENTS.TXT:
+    mimetype: text/plain
+  FM-#07.DAT:
+    mimetype: application/octet-stream
+  FUCK_ID.DIZ:
+    mimetype: text/plain
+  fm-#07.exe:
+    mimetype: application/x-msdos-program
+  tppatch.zip:
+    mimetype: application/zip

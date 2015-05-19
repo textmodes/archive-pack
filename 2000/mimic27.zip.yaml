@@ -1,0 +1,80 @@
+name: mimic27.zip
+hash: 795fd5d874ebce20203aabb987943feb
+year: 2000
+file:
+  _contra.mid:
+    mimetype: audio/midi
+  _megaman.mid:
+    mimetype: audio/midi
+  _plumber.gif:
+    mimetype: image/gif
+  aetilp.asc:
+    mimetype: text/plain
+  armylif2.txt:
+    mimetype: text/plain
+  ave-dam.asc:
+    mimetype: text/plain
+  ave-joy.asc:
+    mimetype: text/plain
+  ave-mw.asc:
+    mimetype: text/plain
+  bjasc197.ans:
+    mimetype: text/plain
+  bjasc200.ans:
+    mimetype: text/plain
+  bjasc201.ans:
+    mimetype: text/plain
+  bjasc202.ans:
+    mimetype: text/plain
+  bjasc203.ans:
+    mimetype: text/plain
+  cd!kazam.ans:
+    mimetype: text/plain
+  dr-mmc27.ans:
+    mimetype: text/plain
+  en-ass.asc:
+    mimetype: text/plain
+  file_id.diz:
+    mimetype: text/plain
+  funny.txt:
+    mimetype: text/plain
+  jn-2bad1.ans:
+    mimetype: text/plain
+  jn-die.ans:
+    mimetype: text/plain
+  jn-surp.ans:
+    mimetype: text/plain
+  killthis.ans:
+    mimetype: text/plain
+  lmeslack.asc:
+    mimetype: text/plain
+  m-en-27.txt:
+    mimetype: text/plain
+  m-wis.txt:
+    mimetype: text/plain
+  members.ans:
+    mimetype: text/plain
+  nas-bin.asc:
+    mimetype: text/plain
+  no-mimic.txt:
+    mimetype: text/plain
+  no-sysii.txt:
+    mimetype: text/plain
+  no-utp.ans:
+    mimetype: text/plain
+  pika.txt:
+    mimetype: text/plain
+  t01-rtp.asc:
+    mimetype: text/plain
+  thrp2.zip:
+    mimetype: application/zip
+  us-die2.ans:
+    mimetype: text/plain
+  us-yay!.asc:
+    mimetype: text/plain
+  vol-nino.txt:
+    mimetype: text/plain
+  vol-pk^.txt:
+    mimetype: text/plain
+  wk-m27.txt:
+    mimetype: text/plain

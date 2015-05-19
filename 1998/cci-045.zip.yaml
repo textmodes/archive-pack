@@ -1,0 +1,72 @@
+name: cci-045.zip
+hash: 69670f4de8cc3825f719782625097918
+year: 1998
+file:
+  -README-.TXT:
+    mimetype: text/plain
+  00INDEX.TXT:
+    mimetype: text/plain
+  APPLY/00INDEX.TXT:
+    mimetype: text/plain
+  APPLY/APPLYING.TXT:
+    mimetype: text/plain
+  APPLY/CCI.APP:
+    mimetype: text/plain
+  APPLY/DESCRIPT.ION:
+    mimetype: text/plain
+  APPLY/FAQ.TXT:
+    mimetype: text/plain
+  APPLY/PRIVATE.NFO:
+    mimetype: text/plain
+  APPLY/RULES.TXT:
+    mimetype: text/plain
+  APPLY/USERS.TXT:
+    mimetype: text/plain
+  DESC.SDI:
+    mimetype: text/plain
+  DESCRIPT.ION:
+    mimetype: text/plain
+  ECHOS/00INDEX.TXT:
+    mimetype: text/plain
+  ECHOS/CCI-ECHO.045:
+    mimetype: text/plain
+  ECHOS/CCI-ECHO.NA:
+    mimetype: text/plain
+  ECHOS/CCI-ECHO.NFO:
+    mimetype: text/plain
+  ECHOS/CCI-FILE.NA:
+    mimetype: text/plain
+  ECHOS/CCI-UNET.045:
+    mimetype: text/plain
+  ECHOS/CCI-UNET.NA:
+    mimetype: text/plain
+  ECHOS/DESCRIPT.ION:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  ID.NFO:
+    mimetype: text/plain
+  NODES/00INDEX.TXT:
+    mimetype: text/plain
+  NODES/CCI-LIST.045:
+    mimetype: text/plain
+  NODES/CCI-NODE.045:
+    mimetype: text/plain
+  NODES/DESCRIPT.ION:
+    mimetype: text/plain
+  NODES/HUBS.TXT:
+    mimetype: text/plain
+  README/00INDEX.TXT:
+    mimetype: text/plain
+  README/DESCRIPT.ION:
+    mimetype: text/plain
+  README/HELP_US.TXT:
+    mimetype: text/plain
+  README/HISTORY.TXT:
+    mimetype: text/plain
+  README/INFO-AD.TXT:
+    mimetype: text/plain
+  README/MONTHLY.NFO:
+    mimetype: text/plain
+  README/WHERE.TXT:
+    mimetype: text/plain

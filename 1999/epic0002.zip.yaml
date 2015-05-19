@@ -1,0 +1,34 @@
+name: epic0002.zip
+hash: 7c5fd1d9cbea86c9a5bf16e541c169e9
+year: 1999
+file:
+  AR-NS.BIN:
+    mimetype: application/octet-stream
+  AV-ASM99.ANS:
+    mimetype: text/plain
+  AV-TEA.ANS:
+    mimetype: text/plain
+  DR-EPIC.ANS:
+    mimetype: text/plain
+  DR-R2D2.ANS:
+    mimetype: text/plain
+  EPIC0899.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  MEMB0899.ANS:
+    mimetype: text/plain
+  N4-PRCSD.ANS:
+    mimetype: text/plain
+  SC-ACID.ANS:
+    mimetype: text/plain
+  SC-RANT.ANS:
+    mimetype: text/plain
+  SC-SWEAR.ANS:
+    mimetype: text/plain
+  SCOW-ART.ANS:
+    mimetype: text/plain
+  SN-MYZ.ANS:
+    mimetype: text/plain
+  US-LUCID.ANS:
+    mimetype: text/plain

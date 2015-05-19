@@ -1,0 +1,56 @@
+name: hbg-1-rest.zip
+hash: 7137eb9d74406b788b1a96d3b0e164de
+year: 1999
+file:
+  !!binary /lBBU1NFRP4uVEhS:
+    mimetype: text/plain
+  DUC-HBG.ASC:
+    mimetype: text/plain
+  DUC-MCMI.ASC:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  HBG.NFO:
+    mimetype: text/plain
+  IDG-ALIE.JPG:
+    mimetype: image/jpeg
+  IDG-AMIG.ASC:
+    mimetype: text/plain
+  IDG-AQUI.JPG:
+    mimetype: image/jpeg
+  IDG-BATM.ASC:
+    mimetype: text/plain
+  IDG-FONT.FNT:
+    mimetype: application/octet-stream
+  IDG-FRZN.JPG:
+    mimetype: image/jpeg
+  IDG-LOVE.JPG:
+    mimetype: image/jpeg
+  IDG-MIND.ASC:
+    mimetype: text/plain
+  IDG-REAC.JPG:
+    mimetype: image/jpeg
+  IDG-SCHT.JPG:
+    mimetype: image/jpeg
+  IDG-SIAD.ASC:
+    mimetype: text/plain
+  KUZ-DED.JPG:
+    mimetype: image/jpeg
+  SHK-GEYS.JPG:
+    mimetype: image/jpeg
+  SHK-HBG.JPG:
+    mimetype: image/jpeg
+  SHK-INJE.JPG:
+    mimetype: image/jpeg
+  SHK-SMWH.JPG:
+    mimetype: image/jpeg
+  SHK-TRIP.JPG:
+    mimetype: image/jpeg
+  SLD-EVSG.JPG:
+    mimetype: image/jpeg
+  SLD-LIDE.GIF:
+    mimetype: image/gif
+  SLD-X.JPG:
+    mimetype: image/jpeg
+  artpacks.txt:
+    mimetype: text/plain

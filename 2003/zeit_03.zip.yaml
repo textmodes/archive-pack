@@ -1,0 +1,98 @@
+name: zeit_03.zip
+hash: 4ada55569e64b7e32daae0ff5986780d
+year: 2003
+file:
+  ALL2BIT.DLL:
+    mimetype: application/x-dosexec
+  ART/AS-ASLOG.ASC:
+    mimetype: text/plain
+  ART/AS-ASPBL.ANS:
+    mimetype: text/plain
+  ART/AS-VIKIN.ASC:
+    mimetype: text/plain
+  ART/CRS-4EVA.JPG:
+    mimetype: image/jpeg
+  ART/CRS-B&G.JPG:
+    mimetype: image/jpeg
+  ART/CRS-COME.ANS:
+    mimetype: text/plain
+  ART/CRS-CWUS.JPG:
+    mimetype: image/jpeg
+  ART/CRS-DRM.ANS:
+    mimetype: text/plain
+  ART/CRS-DWND.LIT:
+    mimetype: text/plain
+  ART/CRS-FRDM.JPG:
+    mimetype: image/jpeg
+  ART/CRS-RING.ANS:
+    mimetype: text/plain
+  ART/CRS-SPZN.JPG:
+    mimetype: image/jpeg
+  ART/CRS-STRY.LIT:
+    mimetype: text/plain
+  ART/CRS-WEL.ANS:
+    mimetype: text/plain
+  ART/CRS-ZEIT.ANS:
+    mimetype: text/plain
+  ART/CRS-ZN#1.JPG:
+    mimetype: image/jpeg
+  ART/FILE_ID.DIZ:
+    mimetype: text/plain
+  ART/KS-QUEDE.ASC:
+    mimetype: text/plain
+  ART/M-HUMAN.LIT:
+    mimetype: text/plain
+  ART/OD_SLNCE.JPG:
+    mimetype: image/jpeg
+  ART/OX-FC.ASC:
+    mimetype: text/plain
+  ART/OX-FIO.ANS:
+    mimetype: text/plain
+  ART/OX-GALZA.ANS:
+    mimetype: text/plain
+  ART/OX-ZERO.ASC:
+    mimetype: text/plain
+  ART/S-MASKS.ASC:
+    mimetype: text/plain
+  ART/SHD-HMES.ANS:
+    mimetype: text/plain
+  ART/SHL-FACE.ANS:
+    mimetype: text/plain
+  ART/SHL-MMC.ANS:
+    mimetype: text/plain
+  ART/SHO-BRED.LIT:
+    mimetype: text/plain
+  ART/SHO-CCTL.LIT:
+    mimetype: text/plain
+  ART/VIBE-ZN3.MO3:
+    mimetype: application/octet-stream
+  ART/XK-LIPP.ASC:
+    mimetype: text/plain
+  ART/Z-ALIEN.ANS:
+    mimetype: text/plain
+  ART/Z-FACE.ANS:
+    mimetype: text/plain
+  ART/Z-I_HATE.JPG:
+    mimetype: image/jpeg
+  ART/Z-IDEA.ANS:
+    mimetype: text/plain
+  ART/Z-SHY.ANS:
+    mimetype: text/plain
+  ART/Z-SPIDER.ANS:
+    mimetype: text/plain
+  ART/Z-ZERO.JPG:
+    mimetype: image/jpeg
+  ART/ZJ-MSHNN.GIF:
+    mimetype: image/gif
+  ART/ZJ-TRMTR.GIF:
+    mimetype: image/gif
+  ART/ZN3-NFO.ANS:
+    mimetype: text/plain
+  BASS.DLL:
+    mimetype: application/x-dosexec
+  FILES.ZN3:
+    mimetype: application/octet-stream
+  READ_ME.TXT:
+    mimetype: text/plain
+  ZEITNOT3.EXE:
+    mimetype: application/x-msdos-program

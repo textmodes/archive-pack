@@ -1,0 +1,86 @@
+name: rib-014.zip
+hash: 9a922c592a992e5636a8a5f6a06d9d36
+year: 1998
+file:
+  CPH-BZ.ASC:
+    mimetype: text/plain
+  CPH-DPLG.ANS:
+    mimetype: text/plain
+  CPH-DZ.ASC:
+    mimetype: text/plain
+  CPH-E2.JPG:
+    mimetype: image/jpeg
+  CPH-ENG.JPG:
+    mimetype: image/jpeg
+  DFR-DNFO.ANS:
+    mimetype: text/plain
+  DFR-TREZ.ASC:
+    mimetype: text/plain
+  DND-SOR.GIF:
+    mimetype: image/gif
+  DND-SR_M.GIF:
+    mimetype: image/gif
+  DND-WRS.GIF:
+    mimetype: image/gif
+  DOX-DT.JPG:
+    mimetype: image/jpeg
+  DOX-ENST.JPG:
+    mimetype: image/jpeg
+  DOX-LIFE.JPG:
+    mimetype: image/jpeg
+  DOX-ROAD.JPG:
+    mimetype: image/jpeg
+  ESR-3010.JPG:
+    mimetype: image/jpeg
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GRRK-001.PCX:
+    mimetype: image/pcx
+  GRRK-002.PCX:
+    mimetype: image/pcx
+  KO-HZNET.RIP:
+    mimetype: image/x-rip
+  KO-RIBB.ANS:
+    mimetype: text/plain
+  KO-SHAMB.RIP:
+    mimetype: image/x-rip
+  KO-SMB.RIP:
+    mimetype: image/x-rip
+  KO-TOX.RIP:
+    mimetype: image/x-rip
+  KO-TOXIC.RIP:
+    mimetype: image/x-rip
+  RIB-APP.EXE:
+    mimetype: application/x-msdos-program
+  RIB14INF.ANS:
+    mimetype: text/plain
+  RIB14NWS.ANS:
+    mimetype: text/plain
+  ULT-BLST.ANS:
+    mimetype: text/plain
+  ULT-BOOZ.ANS:
+    mimetype: text/plain
+  ULT-COR.ASC:
+    mimetype: text/plain
+  ULT-DBMM.ANS:
+    mimetype: text/plain
+  ULT-DPG.ASC:
+    mimetype: text/plain
+  ULT-ESR.RIP:
+    mimetype: image/x-rip
+  ULT-FOMA.JPG:
+    mimetype: image/jpeg
+  ULT-MIRE.ANS:
+    mimetype: text/plain
+  ULT-OBL.JPG:
+    mimetype: image/jpeg
+  ULT-PASS.ANS:
+    mimetype: text/plain
+  ULT-ULT.RIP:
+    mimetype: image/x-rip
+  ULT-VICE.ASC:
+    mimetype: text/plain
+  ULT-VN.ANS:
+    mimetype: text/plain
+  ULT-XART.ANS:
+    mimetype: text/plain

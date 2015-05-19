@@ -1,0 +1,12 @@
+name: blch-nfo.zip
+hash: 79eb622d19165939a45b6237e889ca31
+year: 1995
+file:
+  BLEACH.NFO:
+    mimetype: text/plain
+  DEFIANCE.NFO:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  WID.COM:
+    mimetype: application/x-msdos-program

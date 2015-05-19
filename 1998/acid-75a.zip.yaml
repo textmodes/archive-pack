@@ -1,0 +1,66 @@
+name: acid-75a.zip
+hash: 17fc66df06fbd1db6c7ebdcd3e730bf7
+year: 1998
+file:
+  AcidView/AVDialog.class:
+    mimetype: application/x-java-applet
+  AcidView/AcidAnsi.class:
+    mimetype: application/x-java-applet
+  AcidView/AcidText.class:
+    mimetype: application/x-java-applet
+  AcidView/AcidView:
+    mimetype: text/x-shellscript
+  AcidView/AcidView.bat:
+    mimetype: application/x-msdos-program
+  AcidView/AcidView.class:
+    mimetype: application/x-java-applet
+  AcidView/AcidView.faq:
+    mimetype: text/plain
+  AcidView/AcidView.files:
+    mimetype: text/plain
+  AcidView/AcidView.fnt:
+    mimetype: application/octet-stream
+  AcidView/AcidView.jpg:
+    mimetype: image/jpeg
+  AcidView/AcidView.nfo:
+    mimetype: text/plain
+  AcidView/AcidXBin.class:
+    mimetype: application/x-java-applet
+  AcidView/AnsiImage.class:
+    mimetype: application/x-java-applet
+  acid-75.xb:
+    mimetype: text/x-xbin
+  acidapp.exe:
+    mimetype: application/x-msdos-program
+  ass-planet-a.jpg:
+    mimetype: image/jpeg
+  ass-planet-b.jpg:
+    mimetype: image/jpeg
+  cat-drawing_down_the_moon.jpg:
+    mimetype: image/jpeg
+  cat-jenny_&_the_monarch.jpg:
+    mimetype: image/jpeg
+  cat-xmas_card_98.jpg:
+    mimetype: image/jpeg
+  f7_-acid-promo.jpg:
+    mimetype: image/jpeg
+  f7_-buggin.jpg:
+    mimetype: image/jpeg
+  f7_-sharon.jpg:
+    mimetype: image/jpeg
+  f7_-zoo_york.jpg:
+    mimetype: image/jpeg
+  file_id.diz:
+    mimetype: text/plain
+  grm-w8ing4dot.jpg:
+    mimetype: image/jpeg
+  jsn-acidbeanie.jpg:
+    mimetype: image/jpeg
+  jsn-agnak.jpg:
+    mimetype: image/jpeg
+  lk-inn.jpg:
+    mimetype: image/jpeg
+  our-copyright.txt:
+    mimetype: text/plain
+  release.nfo:
+    mimetype: text/plain

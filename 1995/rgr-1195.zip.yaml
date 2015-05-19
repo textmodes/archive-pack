@@ -1,0 +1,118 @@
+name: rgr-1195.zip
+hash: dd365943e242ca64a753cc7f5b1b26e3
+year: 1995
+file:
+  '---ANSI.---':
+    mimetype: text/plain
+  '---ASCII.---':
+    mimetype: text/plain
+  '---OTHER.---':
+    mimetype: text/plain
+  '---VGA.---':
+    mimetype: text/plain
+  --LOADER.S--:
+    mimetype: text/plain
+  CC-DT1.ANS:
+    mimetype: text/plain
+  CC-PARA1.ANS:
+    mimetype: text/plain
+  CC-RGR1.ANS:
+    mimetype: text/plain
+  CC-RGR2.ANS:
+    mimetype: text/plain
+  CC-XIL.ANS:
+    mimetype: text/plain
+  CH-BAKED.ANS:
+    mimetype: text/plain
+  CH-CONGO.ANS:
+    mimetype: text/plain
+  CH-DW.ANS:
+    mimetype: text/plain
+  CH-GOD.ANS:
+    mimetype: text/plain
+  CH-MARVN.ANS:
+    mimetype: text/plain
+  CH-PARAM.ANS:
+    mimetype: text/plain
+  DF-BLUE.PCX:
+    mimetype: image/pcx
+  DF-GOD.PCX:
+    mimetype: image/pcx
+  DF-MD.PCX:
+    mimetype: image/pcx
+  DF-PNT.PCX:
+    mimetype: image/pcx
+  DF-RF.PCX:
+    mimetype: image/pcx
+  DP-TVG.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FL-AH.ANS:
+    mimetype: text/plain
+  FL-DIV1.ANS:
+    mimetype: text/plain
+  FL-RF.ANS:
+    mimetype: text/plain
+  HM-DWR.ANS:
+    mimetype: text/plain
+  HM-EXILE.EXE:
+    mimetype: application/x-msdos-program
+  HM-FOOT.PCX:
+    mimetype: image/pcx
+  HM-INBLO.EXE:
+    mimetype: application/x-msdos-program
+  HM-MUTUA.EXE:
+    mimetype: application/x-msdos-program
+  HM-POWER.PCX:
+    mimetype: image/pcx
+  HM-RIGOR.ASC:
+    mimetype: text/plain
+  HM-TRN.ANS:
+    mimetype: text/plain
+  IB-TV.ANS:
+    mimetype: text/plain
+  NEWS1195.ANS:
+    mimetype: text/plain
+  RGR-1195.MEM:
+    mimetype: text/plain
+  RIG-VIEW.EXE:
+    mimetype: application/x-msdos-program
+  RIGORAPP.EXE:
+    mimetype: application/x-msdos-program
+  SM-EXILE.ASC:
+    mimetype: text/plain
+  SM-FR.ANS:
+    mimetype: text/plain
+  SM-RF.ANS:
+    mimetype: text/plain
+  SM-RGNT.ASC:
+    mimetype: text/plain
+  SM-SON.ANS:
+    mimetype: text/plain
+  SP-NEVA.ANS:
+    mimetype: text/plain
+  SP-STAT.ANS:
+    mimetype: text/plain
+  SPSS-37.ANS:
+    mimetype: text/plain
+  SS-BAKED.ANS:
+    mimetype: text/plain
+  SS-COLLY.ANS:
+    mimetype: text/plain
+  SS-LOGOS.ANS:
+    mimetype: text/plain
+  SS-RF.ASC:
+    mimetype: text/plain
+  SS-RIGOR.ASC:
+    mimetype: text/plain
+  SS-STAT.ASC:
+    mimetype: text/plain
+  SS-TRN.ASC:
+    mimetype: text/plain
+  TN-GOD1.EXE:
+    mimetype: application/x-msdos-program
+  TT-RAGE.COM:
+    mimetype: application/x-msdos-program
+  ZJ-RIGOR.ASC:
+    mimetype: text/plain

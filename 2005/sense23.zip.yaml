@@ -1,0 +1,28 @@
+name: sense23.zip
+hash: b38b3a043c64e4b59fff6f7032e1640c
+year: 2005
+file:
+  43-EAST.ANS:
+    mimetype: text/plain
+  AVG-LUD1.ANS:
+    mimetype: text/plain
+  AVG-SOD.ANS:
+    mimetype: text/plain
+  CL!-AL03.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  M0-ROO.ANS:
+    mimetype: text/plain
+  MEMBERS.ANS:
+    mimetype: text/plain
+  NAMISTAI.EXE:
+    mimetype: application/x-msdos-program
+  NEWS.ANS:
+    mimetype: text/plain
+  PPE-SNS.ANS:
+    mimetype: text/plain
+  US-LUD.ANS:
+    mimetype: text/plain
+  ZV-CYB.ANS:
+    mimetype: text/plain

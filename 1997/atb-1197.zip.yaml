@@ -1,0 +1,102 @@
+name: atb-1197.zip
+hash: 95efc7deab2820b64fb5f4d3e6cf460b
+year: 1997
+file:
+  --ANSI--.---:
+    mimetype: text/plain
+  --ASCII-.---:
+    mimetype: text/plain
+  --EXEC--.---:
+    mimetype: text/plain
+  --HIREZ-.---:
+    mimetype: text/plain
+  --INFO--.---:
+    mimetype: text/plain
+  --LITS--.---:
+    mimetype: text/plain
+  --RIPS--.---:
+    mimetype: text/plain
+  !!binary gC1BVEIuQVND:
+    mimetype: text/plain
+  !!binary gC1FWUUuQU5T:
+    mimetype: text/plain
+  APL-AC96.ASC:
+    mimetype: text/plain
+  APL-ATB.RIP:
+    mimetype: image/x-rip
+  APL-DIZ1.ASC:
+    mimetype: text/plain
+  APL-DUDE.LBM:
+    mimetype: application/octet-stream
+  APL-FISH.LBM:
+    mimetype: application/octet-stream
+  APL-GIGA.ANS:
+    mimetype: text/plain
+  APL-HEAD.ANS:
+    mimetype: text/plain
+  APL-ID4.ANS:
+    mimetype: text/plain
+  APL-STK1.ANS:
+    mimetype: text/plain
+  APL-SUN.LBM:
+    mimetype: application/octet-stream
+  APL-TAND.RIP:
+    mimetype: image/x-rip
+  ATB-1197.ANS:
+    mimetype: text/plain
+  ATB-GRTS.ANS:
+    mimetype: text/plain
+  ATB-VIEW.DOC:
+    mimetype: text/plain
+  ATB-VIEW.EXE:
+    mimetype: application/x-msdos-program
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  KOUD.EXE:
+    mimetype: application/x-msdos-program
+  MEM-1197.ANS:
+    mimetype: text/plain
+  NS-1197.ASC:
+    mimetype: text/plain
+  NS-AC69.LIT:
+    mimetype: text/plain
+  NS-AC96.ASC:
+    mimetype: text/plain
+  NS-AC96.LIT:
+    mimetype: text/plain
+  NS-ART.ANS:
+    mimetype: text/plain
+  NS-NRX.ASC:
+    mimetype: text/plain
+  NS-PB.ANS:
+    mimetype: text/plain
+  NS-PINT.ANS:
+    mimetype: text/plain
+  NS-POEPE.LBM:
+    mimetype: application/octet-stream
+  NS-PUB.LIT:
+    mimetype: text/plain
+  NS-TOMAT.LBM:
+    mimetype: application/octet-stream
+  NS-TUT1.ANS:
+    mimetype: text/plain
+  NS-VIEW.ANS:
+    mimetype: text/plain
+  TX-ABSTR.LBM:
+    mimetype: application/octet-stream
+  TX-AC.ASC:
+    mimetype: text/plain
+  TX-DL04.ASC:
+    mimetype: text/plain
+  TX-FATTY.LBM:
+    mimetype: application/octet-stream
+  TX-SAP.LBM:
+    mimetype: application/octet-stream
+  TX-SG004.ASC:
+    mimetype: text/plain
+  TX-TCZPA.ASC:
+    mimetype: text/plain
+  US-ARAGE.LIT:
+    mimetype: text/plain
+  US-DREFT.LBM:
+    mimetype: application/octet-stream

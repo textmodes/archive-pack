@@ -1,0 +1,38 @@
+name: hrg-18.zip
+hash: 6e2011da80007f0c4dd1d4b197edd737
+year: 1998
+file:
+  '---18---.NFO':
+    mimetype: text/plain
+  AT_FLY.JPG:
+    mimetype: image/jpeg
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  HRG-NFO.EXE:
+    mimetype: application/x-msdos-program
+  HZR_NGHT.JPG:
+    mimetype: image/jpeg
+  RM_SLAVE.JPG:
+    mimetype: image/jpeg
+  S-WARX.JPG:
+    mimetype: image/jpeg
+  SH-TRAIN.JPG:
+    mimetype: image/jpeg
+  SPRO-447.GIF:
+    mimetype: image/gif
+  SPRO-448.GIF:
+    mimetype: image/gif
+  SPRO-449.GIF:
+    mimetype: image/gif
+  SPRO-IDL.GIF:
+    mimetype: image/gif
+  SPRO-JRK.GIF:
+    mimetype: image/gif
+  SPRO-LC6.GIF:
+    mimetype: image/gif
+  SPRO-VRD.GIF:
+    mimetype: image/gif
+  US_FACES.JPG:
+    mimetype: image/jpeg
+  ZYZ.GIF:
+    mimetype: image/gif

@@ -1,0 +1,96 @@
+name: sau-0001.zip
+hash: 0abb16a8b08eaf4aaf810b1404d00719
+year: 1995
+file:
+  $H0EB0X.ANS:
+    mimetype: text/plain
+  --ANSI--:
+    mimetype: text/plain
+  --GFX--:
+    mimetype: text/plain
+  -MUSIC-:
+    mimetype: text/plain
+  !!binary +lZEIfouRVhF:
+    mimetype: application/x-msdos-program
+  ARCADE2.ANS:
+    mimetype: text/plain
+  BEAST.MOD:
+    mimetype: audio/x-mod
+  BLUEWATR.SAU:
+    mimetype: text/plain
+  CPR-APO.ANS:
+    mimetype: text/plain
+  CPR-APOC.GIF:
+    mimetype: image/gif
+  CPR-ARC.ANS:
+    mimetype: text/plain
+  CPR-CPR.GIF:
+    mimetype: image/gif
+  CPR-DE.ANS:
+    mimetype: text/plain
+  CPR-HIPP.ANS:
+    mimetype: text/plain
+  CPR-NONS.GIF:
+    mimetype: image/gif
+  CPR-PYRA.GIF:
+    mimetype: image/gif
+  CPR-SAU.ANS:
+    mimetype: text/plain
+  CPR-SO.GIF:
+    mimetype: image/gif
+  CPR-UW.ANS:
+    mimetype: text/plain
+  CPR-VD!.GIF:
+    mimetype: image/gif
+  CPR-VD2.GIF:
+    mimetype: image/gif
+  CPR-WL.GIF:
+    mimetype: image/gif
+  DD-BLUEW.GIF:
+    mimetype: image/gif
+  DD-SEVER.GIF:
+    mimetype: image/gif
+  DRAGON.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GET-DOWN.NOW:
+    mimetype: text/plain
+  IMAGINAT.ION:
+    mimetype: text/plain
+  MISSLINK.MOD:
+    mimetype: audio/x-mod
+  MTP-STRA.ANS:
+    mimetype: text/plain
+  MTP-UGLY.ANS:
+    mimetype: text/plain
+  MTP-YELL.MTM:
+    mimetype: application/octet-stream
+  NEO.COM:
+    mimetype: application/x-msdos-program
+  NOISY.XM:
+    mimetype: audio/x-mod
+  SAU-VIEW.EXE:
+    mimetype: application/x-msdos-program
+  SAU.ANS:
+    mimetype: text/plain
+  SAU.NFO:
+    mimetype: text/plain
+  SAUCOOL.DMF:
+    mimetype: application/octet-stream
+  SAUHART.DMF:
+    mimetype: application/octet-stream
+  UPS-OPS.COM:
+    mimetype: application/x-msdos-program
+  !!binary VkT6V0FSRVou+/z9:
+    mimetype: application/octet-stream
+  X-PLAY.DOC:
+    mimetype: text/plain
+  X-PLAY.EXE:
+    mimetype: application/x-msdos-program
+  X-PLAY.INI:
+    mimetype: application/octet-stream
+  X-SHELL.DOC:
+    mimetype: text/plain
+  X-SHELL.EXE:
+    mimetype: application/x-msdos-program

@@ -1,0 +1,94 @@
+name: tulart02.zip
+hash: 945b32d5f4069ff1f8fa52a355453cea
+year: 1996
+file:
+  '%ANSEE%':
+    mimetype: text/plain
+  '%ASCEE%':
+    mimetype: text/plain
+  '%CRAP%':
+    mimetype: text/plain
+  '%INFO%':
+    mimetype: text/plain
+  '%VGA%':
+    mimetype: text/plain
+  CR-AIF1.ANS:
+    mimetype: text/plain
+  CR-CODEX.ANS:
+    mimetype: text/plain
+  CR-KANGR.ANS:
+    mimetype: text/plain
+  CR-KNG02.ANS:
+    mimetype: text/plain
+  CR-LGC02.ANS:
+    mimetype: text/plain
+  CR-MN01.ANS:
+    mimetype: text/plain
+  CR-NJC1.ANS:
+    mimetype: text/plain
+  CR-NMAIN.ANS:
+    mimetype: text/plain
+  CR-OUT02.ANS:
+    mimetype: text/plain
+  CR-STALK.ANS:
+    mimetype: text/plain
+  CR-TCMAI.ANS:
+    mimetype: text/plain
+  CR-TCMN2.ANS:
+    mimetype: text/plain
+  CR-TSC01.ANS:
+    mimetype: text/plain
+  CR-TUL02.ANS:
+    mimetype: text/plain
+  CR-UNT01.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FR-CODEX.ANS:
+    mimetype: text/plain
+  FR-LGOS2.ANS:
+    mimetype: text/plain
+  FR-NAKK1.ANS:
+    mimetype: text/plain
+  FR-TUL1.ANS:
+    mimetype: text/plain
+  HALLU1ST.COM:
+    mimetype: application/x-msdos-program
+  INFO0496.ANS:
+    mimetype: text/plain
+  JAM-HAZ1.ANS:
+    mimetype: text/plain
+  JAM-KYR1.ANS:
+    mimetype: text/plain
+  RLS-LGC1.ASC:
+    mimetype: text/plain
+  RLS-MARJ.ANS:
+    mimetype: text/plain
+  RR-PTA4.ANS:
+    mimetype: text/plain
+  RR-TP.ANS:
+    mimetype: text/plain
+  RR-TUL3.ANS:
+    mimetype: text/plain
+  SB-MYLLY.JPG:
+    mimetype: image/jpeg
+  SPT-TUL2.JPG:
+    mimetype: image/jpeg
+  TEN-CIV.ANS:
+    mimetype: text/plain
+  TEN-JNNY.ANS:
+    mimetype: text/plain
+  TEN-LGC1.ASC:
+    mimetype: text/plain
+  TEN-MENU.ANS:
+    mimetype: text/plain
+  TEN-SNIC.ANS:
+    mimetype: text/plain
+  TEN-SPDR.ANS:
+    mimetype: text/plain
+  TEN-TMR1.ANS:
+    mimetype: text/plain
+  TEN-TSC1.ANS:
+    mimetype: text/plain
+  TUL0496.ANS:
+    mimetype: text/plain

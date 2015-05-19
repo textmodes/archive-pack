@@ -1,0 +1,48 @@
+name: ic3-9501.zip
+hash: 6f8e05945d269375759a5bb16eeabee2
+year: 1995
+file:
+  !!binary zc3Nzc3Nzc0uzc3N:
+    mimetype: text/plain
+  !!binary xMTExMTExMQuxMTE:
+    mimetype: text/plain
+  BZ-ICE.EXE:
+    mimetype: application/x-msdos-program
+  BZ-TFD.EXE:
+    mimetype: application/x-msdos-program
+  COLOR13.ZIP:
+    mimetype: application/zip
+  ICE-9501.MEM:
+    mimetype: text/plain
+  ICE-9501.NFO:
+    mimetype: text/plain
+  ICE-9501.SIT:
+    mimetype: text/plain
+  ICE-9501.STS:
+    mimetype: text/plain
+  ICE-9501.XVD:
+    mimetype: application/octet-stream
+  ND-TO1.GIF:
+    mimetype: image/gif
+  NT-SPAWN.GIF:
+    mimetype: image/gif
+  PR-TMPLE.GIF:
+    mimetype: image/gif
+  PX-BHLDR.GIF:
+    mimetype: image/gif
+  SB-PG2.GIF:
+    mimetype: image/gif
+  SB-RZR2.GIF:
+    mimetype: image/gif
+  SB-SMC1.GIF:
+    mimetype: image/gif
+  SQ-VR.GIF:
+    mimetype: image/gif
+  XT-PREB.GIF:
+    mimetype: image/gif
+  XT-VP.GIF:
+    mimetype: image/gif
+  XV.EXE:
+    mimetype: application/x-msdos-program
+  XV.NFO:
+    mimetype: text/plain

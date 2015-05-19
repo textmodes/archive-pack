@@ -1,0 +1,26 @@
+name: rpm.zip
+hash: 530d3c9ab78bf751966da0ae6611ec25
+year: 1992
+file:
+  ML-DRMAD.RPM:
+    mimetype: text/plain
+  ML-FBCTY.RPM:
+    mimetype: text/plain
+  ML-FINAL.RPM:
+    mimetype: text/plain
+  ML-KLLZN.RPM:
+    mimetype: text/plain
+  ML-MDDRG.RPM:
+    mimetype: text/plain
+  ML-ORION.RPM:
+    mimetype: text/plain
+  POOLRAD1.RPM:
+    mimetype: text/plain
+  TRT.RPM:
+    mimetype: text/plain
+  TSH1.RPM:
+    mimetype: text/plain
+  TW-SEFF2.RPM:
+    mimetype: text/plain
+  UNDIND-3.RPM:
+    mimetype: text/plain

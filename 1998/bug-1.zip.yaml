@@ -1,0 +1,28 @@
+name: bug-1.zip
+hash: b9a81c9651ef63f5365db86f70d4948a
+year: 1998
+file:
+  1_1.GIF:
+    mimetype: image/gif
+  1_2.JPG:
+    mimetype: image/jpeg
+  1_3.JPG:
+    mimetype: image/jpeg
+  1_4.JPG:
+    mimetype: image/jpeg
+  1_5.JPG:
+    mimetype: image/jpeg
+  1_6.JPG:
+    mimetype: image/jpeg
+  1_7.JPG:
+    mimetype: image/jpeg
+  1_8.JPG:
+    mimetype: image/jpeg
+  1_9.GIF:
+    mimetype: image/gif
+  110.JPG:
+    mimetype: image/jpeg
+  111.GIF:
+    mimetype: image/gif
+  FILE_ID.DIZ:
+    mimetype: text/plain

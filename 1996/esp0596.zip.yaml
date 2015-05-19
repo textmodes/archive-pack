@@ -1,0 +1,66 @@
+name: esp0596.zip
+hash: 8a96ad8372fb7c9bbffc1b33664ace44
+year: 1996
+file:
+  APPLY.ZIP:
+    mimetype: application/zip
+  BZ-BOSS.RIP:
+    mimetype: image/x-rip
+  BZ-ESP1.RIP:
+    mimetype: image/x-rip
+  CG-AVAL1.PCX:
+    mimetype: image/pcx
+  CG-DSRE1.PCX:
+    mimetype: image/pcx
+  CP-DIS.ASC:
+    mimetype: text/plain
+  CP-UDDIZ.ASC:
+    mimetype: text/plain
+  ESPMEM.ANS:
+    mimetype: text/plain
+  ESPMOD_1.ZIP:
+    mimetype: application/zip
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FL-ASKEE.ASC:
+    mimetype: text/plain
+  FL-FILEI.ASC:
+    mimetype: text/plain
+  FL-PLAS.ANS:
+    mimetype: text/plain
+  FL-SPAW2.ANS:
+    mimetype: text/plain
+  FL-SS.ANS:
+    mimetype: text/plain
+  FL-TANG.ANS:
+    mimetype: text/plain
+  HB-AI.ANS:
+    mimetype: text/plain
+  HB-AS.ANS:
+    mimetype: text/plain
+  HB-CI.ANS:
+    mimetype: text/plain
+  HB-COLLY.ANS:
+    mimetype: text/plain
+  HB-DL.ANS:
+    mimetype: text/plain
+  HB-ONE.ANS:
+    mimetype: text/plain
+  RD-DAM.GIF:
+    mimetype: image/gif
+  RD-HELL.GIF:
+    mimetype: image/gif
+  RD-RESS1.GIF:
+    mimetype: image/gif
+  REQUEST.ZIP:
+    mimetype: application/zip
+  WAR-CAFF.GIF:
+    mimetype: image/gif
+  WAR-DAM2.GIF:
+    mimetype: image/gif
+  WAR-HELL.GIF:
+    mimetype: image/gif
+  WAR-HIGH.GIF:
+    mimetype: image/gif
+  WAR-ILLU.GIF:
+    mimetype: image/gif

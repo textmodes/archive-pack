@@ -1,0 +1,14 @@
+name: evil-3.zip
+hash: 825c6871424f60f9224a904c13ab7c7d
+year: 1999
+file:
+  EVIL#3.EXE:
+    mimetype: application/x-msdos-program
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  MORNING.XM:
+    mimetype: audio/x-mod
+  NRGNFO.EXE:
+    mimetype: application/x-msdos-program
+  README.TXT:
+    mimetype: text/plain

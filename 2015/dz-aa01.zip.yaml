@@ -1,0 +1,628 @@
+name: dz-aa01.zip
+hash: fea92e21d93a5ee9aa1a53806714ef88
+year: 2015
+file:
+  01_COLLECTION_ART_ATTACK/dZ-aa01.txt:
+    mimetype: text/plain
+  01_COLLECTION_ART_ATTACK/readme.txt:
+    mimetype: text/plain
+  02_FONTS/readme.txt:
+    mimetype: text/plain
+  02_FONTS/t!s-af10.zip:
+    mimetype: application/zip
+  03_OTHER_FORMATS/artattack01._start.txt:
+    mimetype: text/plain
+  03_OTHER_FORMATS/artattack01_start.ans:
+    mimetype: text/plain
+  03_OTHER_FORMATS/artattack01_start.png:
+    mimetype: image/png
+  03_OTHER_FORMATS/artattack01_start.xb:
+    mimetype: text/x-xbin
+  03_OTHER_FORMATS/artattack01_title.ans:
+    mimetype: text/plain
+  03_OTHER_FORMATS/artattack01_title.png:
+    mimetype: image/png
+  03_OTHER_FORMATS/artattack01_title.txt:
+    mimetype: text/plain
+  03_OTHER_FORMATS/artattack01_title.xb:
+    mimetype: text/x-xbin
+  03_OTHER_FORMATS/ldn-asciivandalism.ans:
+    mimetype: text/plain
+  03_OTHER_FORMATS/ldn-asciivandalism.png:
+    mimetype: image/png
+  03_OTHER_FORMATS/ldn-asciivandalism.txt:
+    mimetype: text/plain
+  03_OTHER_FORMATS/ldn-asciivandalism.xb:
+    mimetype: text/x-xbin
+  03_OTHER_FORMATS/ldn-buddha_riing.txt:
+    mimetype: text/plain
+  03_OTHER_FORMATS/ldn-buddha_rising.ans:
+    mimetype: text/plain
+  03_OTHER_FORMATS/ldn-buddha_rising.png:
+    mimetype: image/png
+  03_OTHER_FORMATS/ldn-buddha_rising.xb:
+    mimetype: text/x-xbin
+  03_OTHER_FORMATS/sk!n-BBS_shroomslogo.ans:
+    mimetype: text/plain
+  03_OTHER_FORMATS/sk!n-BBS_shroomslogo.xb:
+    mimetype: text/x-xbin
+  03_OTHER_FORMATS/sk!n-abstrakt_nfo_fb.ans:
+    mimetype: text/plain
+  03_OTHER_FORMATS/sk!n-abstrakt_nfo_fb.asc:
+    mimetype: text/plain
+  03_OTHER_FORMATS/sk!n-abstrakt_nfo_fb.png:
+    mimetype: image/png
+  03_OTHER_FORMATS/sk!n-abstrakt_nfo_fb.txt:
+    mimetype: text/plain
+  03_OTHER_FORMATS/sk!n-abstrakt_nfo_fb.xb:
+    mimetype: text/x-xbin
+  03_OTHER_FORMATS/sk!n-amiga_ascii_art_revision14.ans:
+    mimetype: text/plain
+  03_OTHER_FORMATS/sk!n-amiga_ascii_art_revision14.asc:
+    mimetype: text/plain
+  03_OTHER_FORMATS/sk!n-amiga_ascii_art_revision14.png:
+    mimetype: image/png
+  03_OTHER_FORMATS/sk!n-amiga_ascii_art_revision14.txt:
+    mimetype: text/plain
+  03_OTHER_FORMATS/sk!n-amiga_ascii_art_revision14.xb:
+    mimetype: text/x-xbin
+  03_OTHER_FORMATS/sk!n-arcade.ans:
+    mimetype: text/plain
+  03_OTHER_FORMATS/sk!n-arcade.asc:
+    mimetype: text/plain
+  03_OTHER_FORMATS/sk!n-arcade.png:
+    mimetype: image/png
+  03_OTHER_FORMATS/sk!n-arcade.txt:
+    mimetype: text/plain
+  03_OTHER_FORMATS/sk!n-arcade.xb:
+    mimetype: text/x-xbin
+  03_OTHER_FORMATS/sk!n-bbs_shroomslogo.asc:
+    mimetype: text/plain
+  03_OTHER_FORMATS/sk!n-bbs_shroomslogo.png:
+    mimetype: image/png
+  03_OTHER_FORMATS/sk!n-bbs_shroomslogo.txt:
+    mimetype: text/plain
+  03_OTHER_FORMATS/sk!n-capitol_shrill.ans:
+    mimetype: text/plain
+  03_OTHER_FORMATS/sk!n-capitol_shrill.asc:
+    mimetype: text/plain
+  03_OTHER_FORMATS/sk!n-capitol_shrill.png:
+    mimetype: image/png
+  03_OTHER_FORMATS/sk!n-capitol_shrill.txt:
+    mimetype: text/plain
+  03_OTHER_FORMATS/sk!n-capitol_shrill.xb:
+    mimetype: text/x-xbin
+  03_OTHER_FORMATS/sk!n-cover_art_attack.ans:
+    mimetype: text/plain
+  03_OTHER_FORMATS/sk!n-cover_art_attack.asc:
+    mimetype: text/plain
+  03_OTHER_FORMATS/sk!n-cover_art_attack.png:
+    mimetype: image/png
+  03_OTHER_FORMATS/sk!n-cover_art_attack.txt:
+    mimetype: text/plain
+  03_OTHER_FORMATS/sk!n-cover_art_attack.xb:
+    mimetype: text/x-xbin
+  03_OTHER_FORMATS/sk!n-deadline.ans:
+    mimetype: text/plain
+  03_OTHER_FORMATS/sk!n-deadline.asc:
+    mimetype: text/plain
+  03_OTHER_FORMATS/sk!n-deadline.png:
+    mimetype: image/png
+  03_OTHER_FORMATS/sk!n-deadline.txt:
+    mimetype: text/plain
+  03_OTHER_FORMATS/sk!n-deadline.xb:
+    mimetype: text/x-xbin
+  03_OTHER_FORMATS/sk!n-dekadence_001.ans:
+    mimetype: text/plain
+  03_OTHER_FORMATS/sk!n-dekadence_001.asc:
+    mimetype: text/plain
+  03_OTHER_FORMATS/sk!n-dekadence_001.png:
+    mimetype: image/png
+  03_OTHER_FORMATS/sk!n-dekadence_001.txt:
+    mimetype: text/plain
+  03_OTHER_FORMATS/sk!n-dekadence_001.xb:
+    mimetype: text/x-xbin
+  03_OTHER_FORMATS/sk!n-desire_arsantica_3(original).ans:
+    mimetype: text/plain
+  03_OTHER_FORMATS/sk!n-desire_arsantica_3(original).asc:
+    mimetype: text/plain
+  03_OTHER_FORMATS/sk!n-desire_arsantica_3(original).png:
+    mimetype: image/png
+  03_OTHER_FORMATS/sk!n-desire_arsantica_3(original).txt:
+    mimetype: text/plain
+  03_OTHER_FORMATS/sk!n-desire_arsantica_3(original).xb:
+    mimetype: text/x-xbin
+  03_OTHER_FORMATS/sk!n-desire_arsantica2_nfo.ans:
+    mimetype: text/plain
+  03_OTHER_FORMATS/sk!n-desire_arsantica2_nfo.asc:
+    mimetype: text/plain
+  03_OTHER_FORMATS/sk!n-desire_arsantica2_nfo.png:
+    mimetype: image/png
+  03_OTHER_FORMATS/sk!n-desire_arsantica2_nfo.txt:
+    mimetype: text/plain
+  03_OTHER_FORMATS/sk!n-desire_arsantica2_nfo.xb:
+    mimetype: text/x-xbin
+  03_OTHER_FORMATS/sk!n-dezign_2015.ans:
+    mimetype: text/plain
+  03_OTHER_FORMATS/sk!n-dezign_2015.asc:
+    mimetype: text/plain
+  03_OTHER_FORMATS/sk!n-dezign_2015.png:
+    mimetype: image/png
+  03_OTHER_FORMATS/sk!n-dezign_2015.txt:
+    mimetype: text/plain
+  03_OTHER_FORMATS/sk!n-dezign_2015.xb:
+    mimetype: text/x-xbin
+  03_OTHER_FORMATS/sk!n-dragons_forever.ans:
+    mimetype: text/plain
+  03_OTHER_FORMATS/sk!n-dragons_forever.asc:
+    mimetype: text/plain
+  03_OTHER_FORMATS/sk!n-dragons_forever.png:
+    mimetype: image/png
+  03_OTHER_FORMATS/sk!n-dragons_forever.txt:
+    mimetype: text/plain
+  03_OTHER_FORMATS/sk!n-dragons_forever.xb:
+    mimetype: text/x-xbin
+  03_OTHER_FORMATS/sk!n-island_of_death_nvscene14.ans:
+    mimetype: text/plain
+  03_OTHER_FORMATS/sk!n-island_of_death_nvscene14.asc:
+    mimetype: text/plain
+  03_OTHER_FORMATS/sk!n-island_of_death_nvscene14.png:
+    mimetype: image/png
+  03_OTHER_FORMATS/sk!n-island_of_death_nvscene14.txt:
+    mimetype: text/plain
+  03_OTHER_FORMATS/sk!n-island_of_death_nvscene14.xb:
+    mimetype: text/x-xbin
+  03_OTHER_FORMATS/sk!n-maniacs_of_noise.ans:
+    mimetype: text/plain
+  03_OTHER_FORMATS/sk!n-maniacs_of_noise.asc:
+    mimetype: text/plain
+  03_OTHER_FORMATS/sk!n-maniacs_of_noise.png:
+    mimetype: image/png
+  03_OTHER_FORMATS/sk!n-maniacs_of_noise.txt:
+    mimetype: text/plain
+  03_OTHER_FORMATS/sk!n-maniacs_of_noise.xb:
+    mimetype: text/x-xbin
+  03_OTHER_FORMATS/sk!n-motiv8-nfo.asc:
+    mimetype: text/plain
+  03_OTHER_FORMATS/sk!n-motiv8-nfo.png:
+    mimetype: image/png
+  03_OTHER_FORMATS/sk!n-motiv8_logo_ansi.ans:
+    mimetype: text/plain
+  03_OTHER_FORMATS/sk!n-motiv8_nfo.ans:
+    mimetype: text/plain
+  03_OTHER_FORMATS/sk!n-motiv8_nfo.txt:
+    mimetype: text/plain
+  03_OTHER_FORMATS/sk!n-motiv8_nfo.xb:
+    mimetype: text/x-xbin
+  03_OTHER_FORMATS/sk!n-planet_earth_metal_skin_2.ans:
+    mimetype: text/plain
+  03_OTHER_FORMATS/sk!n-planet_earth_metal_skin_2.asc:
+    mimetype: text/plain
+  03_OTHER_FORMATS/sk!n-planet_earth_metal_skin_2.png:
+    mimetype: image/png
+  03_OTHER_FORMATS/sk!n-planet_earth_metal_skin_2.txt:
+    mimetype: text/plain
+  03_OTHER_FORMATS/sk!n-planet_earth_metal_skin_2.xb:
+    mimetype: text/x-xbin
+  03_OTHER_FORMATS/sk!n-prototyping.ans:
+    mimetype: text/plain
+  03_OTHER_FORMATS/sk!n-prototyping.asc:
+    mimetype: text/plain
+  03_OTHER_FORMATS/sk!n-prototyping.png:
+    mimetype: image/png
+  03_OTHER_FORMATS/sk!n-prototyping.txt:
+    mimetype: text/plain
+  03_OTHER_FORMATS/sk!n-prototyping.xb:
+    mimetype: text/x-xbin
+  03_OTHER_FORMATS/sk!n-resistance_nfo.ans:
+    mimetype: text/plain
+  03_OTHER_FORMATS/sk!n-resistance_nfo.asc:
+    mimetype: text/plain
+  03_OTHER_FORMATS/sk!n-resistance_nfo.png:
+    mimetype: image/png
+  03_OTHER_FORMATS/sk!n-resistance_nfo.txt:
+    mimetype: text/plain
+  03_OTHER_FORMATS/sk!n-resistance_nfo.xb:
+    mimetype: text/x-xbin
+  03_OTHER_FORMATS/sk!n-samurai_showdown_evoke14.ans:
+    mimetype: text/plain
+  03_OTHER_FORMATS/sk!n-samurai_showdown_evoke14.asc:
+    mimetype: text/plain
+  03_OTHER_FORMATS/sk!n-samurai_showdown_evoke14.png:
+    mimetype: image/png
+  03_OTHER_FORMATS/sk!n-samurai_showdown_evoke14.txt:
+    mimetype: text/plain
+  03_OTHER_FORMATS/sk!n-samurai_showdown_evoke14.xb:
+    mimetype: text/x-xbin
+  03_OTHER_FORMATS/sk!n-starwars_nvscene15.ans:
+    mimetype: text/plain
+  03_OTHER_FORMATS/sk!n-starwars_nvscene15.asc:
+    mimetype: text/plain
+  03_OTHER_FORMATS/sk!n-starwars_nvscene15.png:
+    mimetype: image/png
+  03_OTHER_FORMATS/sk!n-starwars_nvscene15.txt:
+    mimetype: text/plain
+  03_OTHER_FORMATS/sk!n-starwars_nvscene15.xb:
+    mimetype: text/x-xbin
+  03_OTHER_FORMATS/sk!n-the_district..asc:
+    mimetype: text/plain
+  03_OTHER_FORMATS/sk!n-the_district..png:
+    mimetype: image/png
+  03_OTHER_FORMATS/sk!n-the_district..txt:
+    mimetype: text/plain
+  03_OTHER_FORMATS/sk!n-the_district..xb:
+    mimetype: text/x-xbin
+  03_OTHER_FORMATS/sk!n-the_district.ans:
+    mimetype: text/plain
+  03_OTHER_FORMATS/sk!n-the_district_ansi.ans:
+    mimetype: text/plain
+  03_OTHER_FORMATS/sk!n-threaz.ans:
+    mimetype: text/plain
+  03_OTHER_FORMATS/sk!n-threaz.asc:
+    mimetype: text/plain
+  03_OTHER_FORMATS/sk!n-threaz.png:
+    mimetype: image/png
+  03_OTHER_FORMATS/sk!n-threaz.txt:
+    mimetype: text/plain
+  03_OTHER_FORMATS/sk!n-threaz.xb:
+    mimetype: text/x-xbin
+  03_OTHER_FORMATS/sk!n-voxelnoid.ans:
+    mimetype: text/plain
+  03_OTHER_FORMATS/sk!n-voxelnoid.asc:
+    mimetype: text/plain
+  03_OTHER_FORMATS/sk!n-voxelnoid.png:
+    mimetype: image/png
+  03_OTHER_FORMATS/sk!n-voxelnoid.txt:
+    mimetype: text/plain
+  03_OTHER_FORMATS/sk!n-voxelnoid.xb:
+    mimetype: text/x-xbin
+  03_OTHER_FORMATS/sk!n-weaponX_worker_logo.ans:
+    mimetype: text/plain
+  03_OTHER_FORMATS/sk!n-weaponX_worker_logo.asc:
+    mimetype: text/plain
+  03_OTHER_FORMATS/sk!n-weaponX_worker_logo.png:
+    mimetype: image/png
+  03_OTHER_FORMATS/sk!n-weaponX_worker_logo.txt:
+    mimetype: text/plain
+  03_OTHER_FORMATS/sk!n-weaponX_worker_logo.xb:
+    mimetype: text/x-xbin
+  03_OTHER_FORMATS/wpx-blast_from_the_past.ans:
+    mimetype: text/plain
+  03_OTHER_FORMATS/wpx-blast_from_the_past.asc:
+    mimetype: text/plain
+  03_OTHER_FORMATS/wpx-blast_from_the_past.png:
+    mimetype: image/png
+  03_OTHER_FORMATS/wpx-blast_from_the_past.txt:
+    mimetype: text/plain
+  03_OTHER_FORMATS/wpx-blast_from_the_past.xb:
+    mimetype: text/x-xbin
+  03_OTHER_FORMATS/wpx-corruption.ans:
+    mimetype: text/plain
+  03_OTHER_FORMATS/wpx-corruption.asc:
+    mimetype: text/plain
+  03_OTHER_FORMATS/wpx-corruption.png:
+    mimetype: image/png
+  03_OTHER_FORMATS/wpx-corruption.txt:
+    mimetype: text/plain
+  03_OTHER_FORMATS/wpx-corruption.xb:
+    mimetype: text/x-xbin
+  03_OTHER_FORMATS/wpx-damones.ans:
+    mimetype: text/plain
+  03_OTHER_FORMATS/wpx-damones.asc:
+    mimetype: text/plain
+  03_OTHER_FORMATS/wpx-damones.png:
+    mimetype: image/png
+  03_OTHER_FORMATS/wpx-damones.txt:
+    mimetype: text/plain
+  03_OTHER_FORMATS/wpx-damones.xb:
+    mimetype: text/x-xbin
+  03_OTHER_FORMATS/wpx-datastorm_2014.ans:
+    mimetype: text/plain
+  03_OTHER_FORMATS/wpx-datastorm_2014.asc:
+    mimetype: text/plain
+  03_OTHER_FORMATS/wpx-datastorm_2014.png:
+    mimetype: image/png
+  03_OTHER_FORMATS/wpx-datastorm_2014.txt:
+    mimetype: text/plain
+  03_OTHER_FORMATS/wpx-datastorm_2014.xb:
+    mimetype: text/x-xbin
+  03_OTHER_FORMATS/wpx-dezign.ans:
+    mimetype: text/plain
+  03_OTHER_FORMATS/wpx-dezign.asc:
+    mimetype: text/plain
+  03_OTHER_FORMATS/wpx-dezign.png:
+    mimetype: image/png
+  03_OTHER_FORMATS/wpx-dezign.txt:
+    mimetype: text/plain
+  03_OTHER_FORMATS/wpx-dezign.xb:
+    mimetype: text/x-xbin
+  03_OTHER_FORMATS/wpx-dino_back_in_biz.ans:
+    mimetype: text/plain
+  03_OTHER_FORMATS/wpx-dino_back_in_biz.asc:
+    mimetype: text/plain
+  03_OTHER_FORMATS/wpx-dino_back_in_biz.png:
+    mimetype: image/png
+  03_OTHER_FORMATS/wpx-dino_back_in_biz.txt:
+    mimetype: text/plain
+  03_OTHER_FORMATS/wpx-dino_back_in_biz.xb:
+    mimetype: text/x-xbin
+  03_OTHER_FORMATS/wpx-divine_styler.ans:
+    mimetype: text/plain
+  03_OTHER_FORMATS/wpx-divine_styler.asc:
+    mimetype: text/plain
+  03_OTHER_FORMATS/wpx-divine_styler.png:
+    mimetype: image/png
+  03_OTHER_FORMATS/wpx-divine_styler.txt:
+    mimetype: text/plain
+  03_OTHER_FORMATS/wpx-divine_styler.xb:
+    mimetype: text/x-xbin
+  03_OTHER_FORMATS/wpx-fuckatari.ans:
+    mimetype: text/plain
+  03_OTHER_FORMATS/wpx-fuckatari.asc:
+    mimetype: text/plain
+  03_OTHER_FORMATS/wpx-fuckatari.png:
+    mimetype: image/png
+  03_OTHER_FORMATS/wpx-fuckatari.txt:
+    mimetype: text/plain
+  03_OTHER_FORMATS/wpx-fuckatari.xb:
+    mimetype: text/x-xbin
+  03_OTHER_FORMATS/wpx-greets.ans:
+    mimetype: text/plain
+  03_OTHER_FORMATS/wpx-greets.asc:
+    mimetype: text/plain
+  03_OTHER_FORMATS/wpx-greets.png:
+    mimetype: image/png
+  03_OTHER_FORMATS/wpx-greets.txt:
+    mimetype: text/plain
+  03_OTHER_FORMATS/wpx-greets.xb:
+    mimetype: text/x-xbin
+  03_OTHER_FORMATS/wpx-hakri.ans:
+    mimetype: text/plain
+  03_OTHER_FORMATS/wpx-hakri.asc:
+    mimetype: text/plain
+  03_OTHER_FORMATS/wpx-hakri.png:
+    mimetype: image/png
+  03_OTHER_FORMATS/wpx-hakri.txt:
+    mimetype: text/plain
+  03_OTHER_FORMATS/wpx-hakri.xb:
+    mimetype: text/x-xbin
+  03_OTHER_FORMATS/wpx-hemoroids.ans:
+    mimetype: text/plain
+  03_OTHER_FORMATS/wpx-hemoroids.asc:
+    mimetype: text/plain
+  03_OTHER_FORMATS/wpx-hemoroids.png:
+    mimetype: image/png
+  03_OTHER_FORMATS/wpx-hemoroids.txt:
+    mimetype: text/plain
+  03_OTHER_FORMATS/wpx-hemoroids.xb:
+    mimetype: text/x-xbin
+  03_OTHER_FORMATS/wpx-jedi_arts.ans:
+    mimetype: text/plain
+  03_OTHER_FORMATS/wpx-jedi_arts.asc:
+    mimetype: text/plain
+  03_OTHER_FORMATS/wpx-jedi_arts.png:
+    mimetype: image/png
+  03_OTHER_FORMATS/wpx-jedi_arts.txt:
+    mimetype: text/plain
+  03_OTHER_FORMATS/wpx-jedi_arts.xb:
+    mimetype: text/x-xbin
+  03_OTHER_FORMATS/wpx-never_stop_the_madness.ans:
+    mimetype: text/plain
+  03_OTHER_FORMATS/wpx-never_stop_the_madness.asc:
+    mimetype: text/plain
+  03_OTHER_FORMATS/wpx-never_stop_the_madness.png:
+    mimetype: image/png
+  03_OTHER_FORMATS/wpx-never_stop_the_madness.txt:
+    mimetype: text/plain
+  03_OTHER_FORMATS/wpx-never_stop_the_madness.xb:
+    mimetype: text/x-xbin
+  03_OTHER_FORMATS/wpx-plur_01.ans:
+    mimetype: text/plain
+  03_OTHER_FORMATS/wpx-plur_01.asc:
+    mimetype: text/plain
+  03_OTHER_FORMATS/wpx-plur_01.png:
+    mimetype: image/png
+  03_OTHER_FORMATS/wpx-plur_01.txt:
+    mimetype: text/plain
+  03_OTHER_FORMATS/wpx-plur_01.xb:
+    mimetype: text/x-xbin
+  03_OTHER_FORMATS/wpx-plur_02.ans:
+    mimetype: text/plain
+  03_OTHER_FORMATS/wpx-plur_02.asc:
+    mimetype: text/plain
+  03_OTHER_FORMATS/wpx-plur_02.png:
+    mimetype: image/png
+  03_OTHER_FORMATS/wpx-plur_02.txt:
+    mimetype: text/plain
+  03_OTHER_FORMATS/wpx-plur_02.xb:
+    mimetype: text/x-xbin
+  03_OTHER_FORMATS/wpx-pnt.ans:
+    mimetype: text/plain
+  03_OTHER_FORMATS/wpx-pnt.asc:
+    mimetype: text/plain
+  03_OTHER_FORMATS/wpx-pnt.png:
+    mimetype: image/png
+  03_OTHER_FORMATS/wpx-pnt.txt:
+    mimetype: text/plain
+  03_OTHER_FORMATS/wpx-pnt.xb:
+    mimetype: text/x-xbin
+  03_OTHER_FORMATS/wpx-recall.ans:
+    mimetype: text/plain
+  03_OTHER_FORMATS/wpx-recall.asc:
+    mimetype: text/plain
+  03_OTHER_FORMATS/wpx-recall.png:
+    mimetype: image/png
+  03_OTHER_FORMATS/wpx-recall.txt:
+    mimetype: text/plain
+  03_OTHER_FORMATS/wpx-recall.xb:
+    mimetype: text/x-xbin
+  03_OTHER_FORMATS/wpx-recall_02.ans:
+    mimetype: text/plain
+  03_OTHER_FORMATS/wpx-recall_02.asc:
+    mimetype: text/plain
+  03_OTHER_FORMATS/wpx-recall_02.png:
+    mimetype: image/png
+  03_OTHER_FORMATS/wpx-recall_02.txt:
+    mimetype: text/plain
+  03_OTHER_FORMATS/wpx-recall_02.xb:
+    mimetype: text/x-xbin
+  03_OTHER_FORMATS/wpx-textmodes.ans:
+    mimetype: text/plain
+  03_OTHER_FORMATS/wpx-textmodes.asc:
+    mimetype: text/plain
+  03_OTHER_FORMATS/wpx-textmodes.png:
+    mimetype: image/png
+  03_OTHER_FORMATS/wpx-textmodes.txt:
+    mimetype: text/plain
+  03_OTHER_FORMATS/wpx-textmodes.xb:
+    mimetype: text/x-xbin
+  03_OTHER_FORMATS/wpx-threaz.ans:
+    mimetype: text/plain
+  03_OTHER_FORMATS/wpx-threaz.asc:
+    mimetype: text/plain
+  03_OTHER_FORMATS/wpx-threaz.png:
+    mimetype: image/png
+  03_OTHER_FORMATS/wpx-threaz.txt:
+    mimetype: text/plain
+  03_OTHER_FORMATS/wpx-threaz.xb:
+    mimetype: text/x-xbin
+  03_OTHER_FORMATS/wpx-twisted.ans:
+    mimetype: text/plain
+  03_OTHER_FORMATS/wpx-twisted.asc:
+    mimetype: text/plain
+  03_OTHER_FORMATS/wpx-twisted.png:
+    mimetype: image/png
+  03_OTHER_FORMATS/wpx-twisted.txt:
+    mimetype: text/plain
+  03_OTHER_FORMATS/wpx-twisted.xb:
+    mimetype: text/x-xbin
+  03_OTHER_FORMATS/wpx-uprough.ans:
+    mimetype: text/plain
+  03_OTHER_FORMATS/wpx-uprough.asc:
+    mimetype: text/plain
+  03_OTHER_FORMATS/wpx-uprough.png:
+    mimetype: image/png
+  03_OTHER_FORMATS/wpx-uprough.txt:
+    mimetype: text/plain
+  03_OTHER_FORMATS/wpx-uprough.xb:
+    mimetype: text/x-xbin
+  03_OTHER_FORMATS/wpx-xylibox.ans:
+    mimetype: text/plain
+  03_OTHER_FORMATS/wpx-xylibox.asc:
+    mimetype: text/plain
+  03_OTHER_FORMATS/wpx-xylibox.png:
+    mimetype: image/png
+  03_OTHER_FORMATS/wpx-xylibox.txt:
+    mimetype: text/plain
+  03_OTHER_FORMATS/wpx-xylibox.xb:
+    mimetype: text/x-xbin
+  artattack01_start.ans:
+    mimetype: text/plain
+  artattack01_start.png:
+    mimetype: image/png
+  artattack01_title.ans:
+    mimetype: text/plain
+  artattack01_title.png:
+    mimetype: image/png
+  file_id.diz:
+    mimetype: text/plain
+  ldn-asciivandalism.ans:
+    mimetype: text/plain
+  ldn-buddha_rising.ans:
+    mimetype: text/plain
+  sk!n-BBS_shroomslogo.ans:
+    mimetype: text/plain
+  sk!n-abstrakt_nfo_fb.ans:
+    mimetype: text/plain
+  sk!n-amiga_ascii_art_revision14.ans:
+    mimetype: text/plain
+  sk!n-arcade.ans:
+    mimetype: text/plain
+  sk!n-capitol_shrill.ans:
+    mimetype: text/plain
+  sk!n-cover_art_attack.ans:
+    mimetype: text/plain
+  sk!n-deadline.ans:
+    mimetype: text/plain
+  sk!n-dekadence_001.ans:
+    mimetype: text/plain
+  sk!n-desire_arsantica_3(original).ans:
+    mimetype: text/plain
+  sk!n-desire_arsantica2_nfo.ans:
+    mimetype: text/plain
+  sk!n-dezign_2015.ans:
+    mimetype: text/plain
+  sk!n-dragons_forever.ans:
+    mimetype: text/plain
+  sk!n-island_of_death_nvscene14.ans:
+    mimetype: text/plain
+  sk!n-maniacs_of_noise.ans:
+    mimetype: text/plain
+  sk!n-motiv8_logo_ansi.ans:
+    mimetype: text/plain
+  sk!n-planet_earth_metal_skin_2.ans:
+    mimetype: text/plain
+  sk!n-prototyping.ans:
+    mimetype: text/plain
+  sk!n-resistance_nfo.ans:
+    mimetype: text/plain
+  sk!n-samurai_showdown_evoke14.ans:
+    mimetype: text/plain
+  sk!n-starwars_nvscene15.ans:
+    mimetype: text/plain
+  sk!n-the_district.ans:
+    mimetype: text/plain
+  sk!n-the_district_ansi.ans:
+    mimetype: text/plain
+  sk!n-threaz.ans:
+    mimetype: text/plain
+  sk!n-voxelnoid.ans:
+    mimetype: text/plain
+  sk!n-weaponX_worker_logo.ans:
+    mimetype: text/plain
+  wpx-blast_from_the_past.ans:
+    mimetype: text/plain
+  wpx-corruption.ans:
+    mimetype: text/plain
+  wpx-damones.ans:
+    mimetype: text/plain
+  wpx-datastorm_2014.ans:
+    mimetype: text/plain
+  wpx-dezign.ans:
+    mimetype: text/plain
+  wpx-dino_back_in_biz.ans:
+    mimetype: text/plain
+  wpx-divine_styler.ans:
+    mimetype: text/plain
+  wpx-fuckatari.ans:
+    mimetype: text/plain
+  wpx-greets.ans:
+    mimetype: text/plain
+  wpx-hakri.ans:
+    mimetype: text/plain
+  wpx-hemoroids.ans:
+    mimetype: text/plain
+  wpx-jedi_arts.ans:
+    mimetype: text/plain
+  wpx-never_stop_the_madness.ans:
+    mimetype: text/plain
+  wpx-plur_01.ans:
+    mimetype: text/plain
+  wpx-plur_02.ans:
+    mimetype: text/plain
+  wpx-pnt.ans:
+    mimetype: text/plain
+  wpx-recall.ans:
+    mimetype: text/plain
+  wpx-recall_02.ans:
+    mimetype: text/plain
+  wpx-textmodes.ans:
+    mimetype: text/plain
+  wpx-threaz.ans:
+    mimetype: text/plain
+  wpx-twisted.ans:
+    mimetype: text/plain
+  wpx-uprough.ans:
+    mimetype: text/plain
+  wpx-xylibox.ans:
+    mimetype: text/plain

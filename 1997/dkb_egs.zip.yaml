@@ -1,0 +1,28 @@
+name: dkb_egs.zip
+hash: c519e0fb9d4d998721de0c91c008cf8b
+year: 1997
+file:
+  DKB.NFO:
+    mimetype: text/plain
+  EGS01.JPG:
+    mimetype: image/jpeg
+  EGS02.JPG:
+    mimetype: image/jpeg
+  EGS03.JPG:
+    mimetype: image/jpeg
+  EGS04.JPG:
+    mimetype: image/jpeg
+  EGS05.JPG:
+    mimetype: image/jpeg
+  EGS06.JPG:
+    mimetype: image/jpeg
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  OLDSKOOL.DOC:
+    mimetype: text/plain
+  !!binary VEhFt1lBUkQuTkZP:
+    mimetype: text/plain
+  TUT.GUT:
+    mimetype: application/octet-stream
+  tHEYARd.bbS:
+    mimetype: text/plain

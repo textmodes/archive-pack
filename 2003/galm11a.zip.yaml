@@ -1,0 +1,52 @@
+name: galm11a.zip
+hash: ae24d53f8e9e76da17d929b99c0ce5d8
+year: 2003
+file:
+  ans/Thailiba.ans:
+    mimetype: text/plain
+  ans/Turtle.ans:
+    mimetype: text/plain
+  asc/alldone.txt:
+    mimetype: text/plain
+  asc/thai-chipdisk01.nfo:
+    mimetype: text/plain
+  asc/thai-moh.nfo:
+    mimetype: text/plain
+  asc/thai-rolf.nfo:
+    mimetype: text/plain
+  file_id.diz:
+    mimetype: text/plain
+  files.txt:
+    mimetype: text/plain
+  galm.nfo:
+    mimetype: text/plain
+  zik/moh_2f4.xm:
+    mimetype: audio/x-mod
+  zik/moh_caf.xm:
+    mimetype: audio/x-mod
+  zik/moh_cp!.xm:
+    mimetype: audio/x-mod
+  zik/moh_fuc.xm:
+    mimetype: audio/x-mod
+  zik/moh_gre.xm:
+    mimetype: audio/x-mod
+  zik/moh_ing.xm:
+    mimetype: audio/x-mod
+  zik/moh_kes.xm:
+    mimetype: audio/x-mod
+  zik/moh_kna.xm:
+    mimetype: audio/x-mod
+  zik/moh_mrm.xm:
+    mimetype: audio/x-mod
+  zik/moh_nod.xm:
+    mimetype: audio/x-mod
+  zik/moh_qc5.xm:
+    mimetype: audio/x-mod
+  zik/moh_qc7.xm:
+    mimetype: audio/x-mod
+  zik/moh_rbt.xm:
+    mimetype: audio/x-mod
+  zik/moh_spr.xm:
+    mimetype: audio/x-mod
+  zik/moh_vkg.xm:
+    mimetype: audio/x-mod

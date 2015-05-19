@@ -1,0 +1,58 @@
+name: think008.zip
+hash: d4595d8d6d809722fb5b3a3776ff2852
+year: 1998
+file:
+  ANSI####.DIV:
+    mimetype: application/octet-stream
+  ASCII###.DIV:
+    mimetype: application/octet-stream
+  CODE####.DIV:
+    mimetype: application/octet-stream
+  EW-DEAD.ANS:
+    mimetype: text/plain
+  EW-GOBLN.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  INFO####.DIV:
+    mimetype: application/octet-stream
+  MISC####.DIV:
+    mimetype: application/octet-stream
+  PS-RAMBL.ZIP:
+    mimetype: application/zip
+  PS-SAIKO.ANS:
+    mimetype: text/plain
+  PS-SAIKO.ZIP:
+    mimetype: application/zip
+  SM-AC2K1.JPG:
+    mimetype: image/jpeg
+  SM-AC2K2.JPG:
+    mimetype: image/jpeg
+  SM-AD4AC.ANS:
+    mimetype: text/plain
+  SM-CREEP.ZIP:
+    mimetype: application/zip
+  SM-GYRD1.JPG:
+    mimetype: image/jpeg
+  THINK008.MEM:
+    mimetype: text/plain
+  THINK008.NFO:
+    mimetype: text/plain
+  THINKAPP.EXE:
+    mimetype: application/x-msdos-program
+  THNKL103.ZIP:
+    mimetype: application/zip
+  ZO-INV1.BIN:
+    mimetype: text/x-binary
+  ZO-MANNC.ZIP:
+    mimetype: application/zip
+  ZO-MAUT1.ZIP:
+    mimetype: application/zip
+  ZO-MFRQ4.ZIP:
+    mimetype: application/zip
+  ZO-MMTRX.ZIP:
+    mimetype: application/zip
+  ZO-MPZ.ZIP:
+    mimetype: application/zip
+  ZO-TWOZ1.ANS:
+    mimetype: text/plain

@@ -1,0 +1,20 @@
+name: mtnt-ap3.zip
+hash: 45257667bded4398aa3bd9cab1e301ec
+year: 1995
+file:
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  L&L-COOL.JPG:
+    mimetype: image/jpeg
+  L&L-FRA1.JPG:
+    mimetype: image/jpeg
+  L&L-FRA2.JPG:
+    mimetype: image/jpeg
+  L&L-MTNT.JPG:
+    mimetype: image/jpeg
+  MTNTVIEW.EXE:
+    mimetype: application/x-msdos-program
+  MTNTVIEW.TXT:
+    mimetype: text/plain
+  NEO.COM:
+    mimetype: application/x-msdos-program

@@ -1,0 +1,36 @@
+name: taspak1.zip
+hash: ef7ff075d34c64786dfdc8fe6d7100cd
+year: 1993
+file:
+  AGONET6.TAS:
+    mimetype: text/plain
+  DAMAGE6.TAS:
+    mimetype: text/plain
+  DR13.TAS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FUBAR6.TAS:
+    mimetype: text/plain
+  INFOFORM.5:
+    mimetype: text/plain
+  JIMI10.TAS:
+    mimetype: text/plain
+  MANICAD.TAS:
+    mimetype: text/plain
+  MORTEM7.TAS:
+    mimetype: text/plain
+  NOCEM1.EXE:
+    mimetype: application/x-msdos-program
+  NOCEM10.TAS:
+    mimetype: text/plain
+  NOE20.TAS:
+    mimetype: text/plain
+  README.L8R:
+    mimetype: text/plain
+  SKULL4.GIF:
+    mimetype: image/gif
+  TAS_APP.EXE:
+    mimetype: application/x-msdos-program
+  TIT4.TAS:
+    mimetype: text/plain

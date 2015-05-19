@@ -1,0 +1,14 @@
+name: drkansie.zip
+hash: ec494933ead62105cf641e954ee8b4ff
+year: 1994
+file:
+  ANSY.EXE:
+    mimetype: application/x-msdos-program
+  BARNA.ANS:
+    mimetype: text/plain
+  DARKNES.NFO:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FUN!.COM:
+    mimetype: application/x-msdos-program

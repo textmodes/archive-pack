@@ -1,0 +1,26 @@
+name: indp0495.zip
+hash: f5dcc8fbcff8f248315db3d5454bb8a6
+year: 1995
+file:
+  DD3.EXE:
+    mimetype: application/x-msdos-program
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  INV-ACID.ASC:
+    mimetype: text/plain
+  INV-ALCH.ASC:
+    mimetype: text/plain
+  INV-CF.ASC:
+    mimetype: text/plain
+  INV-D2.ANS:
+    mimetype: text/plain
+  INV-EPIC.DIZ:
+    mimetype: text/plain
+  INV-IND.NFO:
+    mimetype: text/plain
+  INV-JIHA.DIZ:
+    mimetype: text/plain
+  INV-RMRS.ASC:
+    mimetype: text/plain
+  INV-SBZ.ASC:
+    mimetype: text/plain

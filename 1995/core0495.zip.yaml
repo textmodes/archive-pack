@@ -1,0 +1,30 @@
+name: core0495.zip
+hash: cd718364233f877ba2393fd330a1c2e7
+year: 1995
+file:
+  !!binary xMVBTlNJxcQuxMTE:
+    mimetype: text/plain
+  !!binary xMVFWEVTxcQuxMTE:
+    mimetype: text/plain
+  !!binary xMVJTkZPxcQuxMTE:
+    mimetype: application/octet-stream
+  C-O-R-E.NFO:
+    mimetype: text/plain
+  CORE0495.COR:
+    mimetype: text/plain
+  COREAPP.EXE:
+    mimetype: application/x-msdos-program
+  COREVIEW.EXE:
+    mimetype: application/x-msdos-program
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  PG-CORE1.COR:
+    mimetype: text/plain
+  PI-BKWA1.COR:
+    mimetype: text/plain
+  PI-CORE1.COR:
+    mimetype: text/plain
+  PI-CORE2.COR:
+    mimetype: text/plain
+  PI-CORE3.COR:
+    mimetype: text/plain

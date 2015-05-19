@@ -1,0 +1,56 @@
+name: glynis01.zip
+hash: 0523387e61e85e16e627a3ab9dcc27ac
+year: 1995
+file:
+  B_O_T.COM:
+    mimetype: application/x-msdos-program
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GLYNIS!.NFO:
+    mimetype: text/plain
+  KG-BRK1.ANS:
+    mimetype: text/plain
+  KG-BRK2.ANS:
+    mimetype: text/plain
+  KG-ELIX.ANS:
+    mimetype: text/plain
+  KG-GLYNI.ANS:
+    mimetype: text/plain
+  KG-TMMH.ANS:
+    mimetype: text/plain
+  MN-AVGA.ANS:
+    mimetype: text/plain
+  MN-BF.ANS:
+    mimetype: text/plain
+  MN-BK1.ASC:
+    mimetype: text/plain
+  MN-BK2.ASC:
+    mimetype: text/plain
+  MN-ED2.ANS:
+    mimetype: text/plain
+  MN-ELIX.ANS:
+    mimetype: text/plain
+  MN-ESS.ASC:
+    mimetype: text/plain
+  MN-FONT3.ZIP:
+    mimetype: application/zip
+  MN-GRAV.ANS:
+    mimetype: text/plain
+  MN-INF.ANS:
+    mimetype: text/plain
+  MN-KERS.ANS:
+    mimetype: text/plain
+  MN-PI.ANS:
+    mimetype: text/plain
+  MN-SBZ.ANS:
+    mimetype: text/plain
+  MN-SINS.ANS:
+    mimetype: text/plain
+  MN-UF1.ANS:
+    mimetype: text/plain
+  MN-UF2.ANS:
+    mimetype: text/plain
+  MN-WRCH.ANS:
+    mimetype: text/plain
+  ROE2.EXE:
+    mimetype: application/x-msdos-program

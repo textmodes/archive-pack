@@ -1,0 +1,86 @@
+name: ice9609a.zip
+hash: cbb31aeeea35e15baac6d6411270a5eb
+year: 1996
+file:
+  -ANSI---.---:
+    mimetype: text/plain
+  -LOGO---.---:
+    mimetype: text/plain
+  4TH-ICE.XB:
+    mimetype: text/x-xbin
+  4TH-ICE2.XB:
+    mimetype: text/x-xbin
+  4TH-PIR.ICE:
+    mimetype: text/plain
+  ASS-RPGD.ICE:
+    mimetype: text/plain
+  AX-DSC4.ICE:
+    mimetype: text/plain
+  BV-KAOS1.ICE:
+    mimetype: text/plain
+  CONT'D:
+    mimetype: text/plain
+  CU-IOM.ICE:
+    mimetype: text/plain
+  CU-POO.ICE:
+    mimetype: text/plain
+  CU-WOLFI.ICE:
+    mimetype: text/plain
+  EQ-LOGO1.ICE:
+    mimetype: text/plain
+  EQ-SCP01.ICE:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GW-ALD.ICE:
+    mimetype: text/plain
+  ICE-9609.DSC:
+    mimetype: text/plain
+  ICE-9609.MEM:
+    mimetype: text/plain
+  ICE-9609.NFO:
+    mimetype: text/plain
+  ICE-9609.SIT:
+    mimetype: text/plain
+  ICE-9609.STS:
+    mimetype: text/plain
+  ICEVIEW.CNF:
+    mimetype: text/plain
+  ICEVIEW.DOC:
+    mimetype: text/plain
+  ICEVIEW.EXE:
+    mimetype: application/x-msdos-program
+  IV-ICEPR.ICE:
+    mimetype: text/plain
+  IV-PIF.DVP:
+    mimetype: application/octet-stream
+  JU-JU1.ICE:
+    mimetype: text/plain
+  KA-DM3.ICE:
+    mimetype: text/plain
+  LM-SAT7.ICE:
+    mimetype: text/plain
+  MD-ICE2.ICE:
+    mimetype: text/plain
+  PV.EXE:
+    mimetype: application/x-msdos-program
+  SQ2-LG14.ICE:
+    mimetype: text/plain
+  TE-ALD1.ICE:
+    mimetype: text/plain
+  TG-PULS1.ICE:
+    mimetype: text/plain
+  TG-VI1.ICE:
+    mimetype: text/plain
+  US-DOINK.ICE:
+    mimetype: text/plain
+  US-FC1.ICE:
+    mimetype: text/plain
+  US-GBICE.ICE:
+    mimetype: text/plain
+  US-HAVEN.ICE:
+    mimetype: text/plain
+  US-ICE09.ICE:
+    mimetype: text/plain
+  US-PULS1.ICE:
+    mimetype: text/plain

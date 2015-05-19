@@ -1,0 +1,52 @@
+name: impure16.zip
+hash: e7b8ac73d003f5818ca92e0cb2e228fc
+year: 2000
+file:
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  IMPURE16.INF:
+    mimetype: text/plain
+  IMPURE16.MEM:
+    mimetype: text/plain
+  M0D-ASOC.ESC:
+    mimetype: text/plain
+  M0D-ESC.ESC:
+    mimetype: text/plain
+  M0D-IMP.ESC:
+    mimetype: text/plain
+  PO-ARC.ESC:
+    mimetype: text/plain
+  PO-AUTOM.ESC:
+    mimetype: text/plain
+  PO-ESCII.ESC:
+    mimetype: application/octet-stream
+  PO-INF.ESC:
+    mimetype: application/octet-stream
+  PO-KC.ESC:
+    mimetype: text/plain
+  PO-REV.ESC:
+    mimetype: text/plain
+  PO-RZR.ESC:
+    mimetype: application/octet-stream
+  PO-STATS.ESC:
+    mimetype: application/octet-stream
+  PO-WS.ESC:
+    mimetype: application/octet-stream
+  SD-PARAD.ESC:
+    mimetype: application/octet-stream
+  SD-PIPES.ESC:
+    mimetype: text/plain
+  SD-PSYCH.ESC:
+    mimetype: text/plain
+  TII-GRUN.ESC:
+    mimetype: text/plain
+  TII-LAME.ESC:
+    mimetype: text/plain
+  TII-LOFF.ESC:
+    mimetype: text/plain
+  TII-RKTR.ESC:
+    mimetype: text/plain
+  XZ-COLLY.ESC:
+    mimetype: text/plain
+  XZ-NU.ESC:
+    mimetype: text/plain

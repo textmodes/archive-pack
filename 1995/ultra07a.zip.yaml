@@ -1,0 +1,38 @@
+name: ultra07a.zip
+hash: 3b9ebaa5975701a0bb92502e34a1dfc6
+year: 1995
+file:
+  -LESBIAN.TXT:
+    mimetype: text/plain
+  AUDFILES.SCR:
+    mimetype: text/plain
+  AUDHELP.HLP:
+    mimetype: application/octet-stream
+  BBPRGJBG.NFO:
+    mimetype: text/plain
+  CARDINFO.DLL:
+    mimetype: application/x-dosexec
+  CONTROL.SCR:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  HISTORY.TXT:
+    mimetype: text/plain
+  NEO.COM:
+    mimetype: application/x-msdos-program
+  README:
+    mimetype: text/plain
+  ULTIMOD.DOC:
+    mimetype: text/plain
+  ULTIMOD.EXE:
+    mimetype: application/x-msdos-program
+  ULTIMOD.HLP:
+    mimetype: application/octet-stream
+  ULTRADD.DOC:
+    mimetype: text/plain
+  ULTRADD.SYS:
+    mimetype: application/x-dosexec
+  ULTRAVDD.SYS:
+    mimetype: application/x-dosexec
+  ULTRAVSD.DLL:
+    mimetype: application/x-dosexec

@@ -1,0 +1,18 @@
+name: atm-mag1.zip
+hash: 727eb2f8cbb6bb66d62e80fd07217dc7
+year: 1994
+file:
+  ATOMIC.DAT:
+    mimetype: application/octet-stream
+  ATOMIC.EXE:
+    mimetype: application/x-msdos-program
+  CA-ATMC.EXE:
+    mimetype: application/x-msdos-program
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  HT-ATM.EXE:
+    mimetype: application/x-msdos-program
+  KM-MAG1!.ANS:
+    mimetype: text/plain
+  NEOTOKYO.ANS:
+    mimetype: text/plain

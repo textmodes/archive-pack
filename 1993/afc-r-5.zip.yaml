@@ -1,0 +1,78 @@
+name: afc-r-5.zip
+hash: 787017e61661b92687229b4dc9ddfd21
+year: 1993
+file:
+  AFC-R#5.NFO:
+    mimetype: text/plain
+  AFC_APPL.FRM:
+    mimetype: text/plain
+  AFC_INFO.ANS:
+    mimetype: text/plain
+  AJ-POWD1.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FUN!.COM:
+    mimetype: application/x-msdos-program
+  JTE-DIGS.ANS:
+    mimetype: text/plain
+  JTE-MEN.ANS:
+    mimetype: text/plain
+  JTE-PWHL.ANS:
+    mimetype: text/plain
+  JTE-TEC2.ANS:
+    mimetype: text/plain
+  JTE-UPLD.ANS:
+    mimetype: text/plain
+  JTE-WARD.ANS:
+    mimetype: text/plain
+  JTMU-ABR.ANS:
+    mimetype: text/plain
+  KR-BLADE.ANS:
+    mimetype: text/plain
+  KR-MENA.ANS:
+    mimetype: text/plain
+  KR-NAUS.ANS:
+    mimetype: text/plain
+  KR-RALAW.ANS:
+    mimetype: text/plain
+  MER-HOR.ANS:
+    mimetype: text/plain
+  MER-TIC.ANS:
+    mimetype: text/plain
+  MU-AF#1.ANS:
+    mimetype: text/plain
+  MU-KOP#2.ANS:
+    mimetype: text/plain
+  MU-NOC#1.ANS:
+    mimetype: text/plain
+  MU-PZ#4.ANS:
+    mimetype: text/plain
+  REK-ABR1.ANS:
+    mimetype: text/plain
+  REK-INV2.ANS:
+    mimetype: text/plain
+  ST-CRAZY.ANS:
+    mimetype: text/plain
+  ST-NOACC.ANS:
+    mimetype: text/plain
+  ST-TEC.ANS:
+    mimetype: text/plain
+  SU-CH.ANS:
+    mimetype: text/plain
+  SU-CW.ANS:
+    mimetype: text/plain
+  SU-DT.ANS:
+    mimetype: text/plain
+  SU-MENA.ANS:
+    mimetype: text/plain
+  SU-NOACC.ANS:
+    mimetype: text/plain
+  SU-OG.ANS:
+    mimetype: text/plain
+  UDE-CW.ANS:
+    mimetype: text/plain
+  UDE-INVA.ANS:
+    mimetype: text/plain
+  UDE-PZ.ANS:
+    mimetype: text/plain

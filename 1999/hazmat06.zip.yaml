@@ -1,0 +1,58 @@
+name: hazmat06.zip
+hash: 8f9282828278d3627dc01add09dff1dd
+year: 1999
+file:
+  D0-CRK.ASC:
+    mimetype: text/plain
+  D0-KONAM.ASC:
+    mimetype: text/plain
+  D0-RASCL.ASC:
+    mimetype: text/plain
+  D0-STOL.ASC:
+    mimetype: text/plain
+  D0-VIBE.ASC:
+    mimetype: text/plain
+  EMK-GOAT.ANS:
+    mimetype: text/plain
+  EMK-SP19.ANS:
+    mimetype: text/plain
+  LC-CIA.ANS:
+    mimetype: text/plain
+  TB-HA.ASC:
+    mimetype: text/plain
+  TB-ILL.ANS:
+    mimetype: text/plain
+  TB-KUNGF.ANS:
+    mimetype: text/plain
+  TB-PNZ.ANS:
+    mimetype: text/plain
+  US-HAZ.ANS:
+    mimetype: text/plain
+  WKZ-BLL.ASC:
+    mimetype: text/plain
+  WKZ-GTO.ASC:
+    mimetype: text/plain
+  WKZ-NAS.ASC:
+    mimetype: text/plain
+  WKZ-PLG.ASC:
+    mimetype: text/plain
+  WKZ-URI.ASC:
+    mimetype: text/plain
+  cd-haz.ans:
+    mimetype: text/plain
+  de-dem.asc:
+    mimetype: text/plain
+  file_id.diz:
+    mimetype: text/plain
+  hazmat06.nfo:
+    mimetype: text/plain
+  jp-col17.asc:
+    mimetype: text/plain
+  lc!hazm.ans:
+    mimetype: text/plain
+  mid-Hazm.asc:
+    mimetype: text/plain
+  tb-thom.ans:
+    mimetype: text/plain
+  us-ill.ans:
+    mimetype: text/plain

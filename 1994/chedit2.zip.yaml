@@ -1,0 +1,12 @@
+name: chedit2.zip
+hash: 8a810497786af70666f5047cbb0fb2ea
+year: 1994
+file:
+  CHAR.EXE:
+    mimetype: application/x-msdos-program
+  CHRINTRO.EXE:
+    mimetype: application/x-msdos-program
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FONT.MAT:
+    mimetype: application/octet-stream

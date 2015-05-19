@@ -1,0 +1,42 @@
+name: apack#1.zip
+hash: 7eccce2f74d9e3baf6f1c55df25976ef
+year: 1995
+file:
+  APACK#1.NFO:
+    mimetype: text/plain
+  DFASCII1.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FUSED:
+    mimetype: text/plain
+  K-O-LAME.ANS:
+    mimetype: text/plain
+  OG.GIF:
+    mimetype: image/gif
+  OG.NFO:
+    mimetype: text/plain
+  OG_SYND.ANS:
+    mimetype: text/plain
+  OG_SYND.ASC:
+    mimetype: text/plain
+  OG_SYND.NFO:
+    mimetype: text/plain
+  OG_SYND2.ASC:
+    mimetype: text/plain
+  OG_SYND3.ASC:
+    mimetype: text/plain
+  PDBAR.ANS:
+    mimetype: text/plain
+  PDLOGON.ANS:
+    mimetype: text/plain
+  PDTXT1.ANS:
+    mimetype: text/plain
+  PHREAK.ANS:
+    mimetype: text/plain
+  PLASINT.ANS:
+    mimetype: text/plain
+  WE-RULE.08!:
+    mimetype: application/octet-stream
+  WSASCII.ANS:
+    mimetype: text/plain

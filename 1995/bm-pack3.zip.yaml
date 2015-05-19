@@ -1,0 +1,62 @@
+name: bm-pack3.zip
+hash: ad8e5dcf9ae9ba933ca1484006d08220
+year: 1995
+file:
+  !!binary LS34QU5TSfguLS0=:
+    mimetype: text/plain
+  !!binary LS34VkdB+C0uLS0=:
+    mimetype: text/plain
+  !!binary LfhNRU5VU/guLS0=:
+    mimetype: text/plain
+  !!binary LfhPVEhFUvguLS0=:
+    mimetype: text/plain
+  BM-APP.EXE:
+    mimetype: application/x-msdos-program
+  BM-ISME.GIF:
+    mimetype: image/gif
+  BM95.COM:
+    mimetype: application/x-msdos-program
+  BMAIDEN.NFO:
+    mimetype: text/plain
+  DIST_APP.EXE:
+    mimetype: application/x-msdos-program
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  LH-CURSE.GIF:
+    mimetype: image/gif
+  LH-ETERN.JPG:
+    mimetype: image/jpeg
+  LH-HELLI.ANS:
+    mimetype: text/plain
+  LH-LIT1.ANS:
+    mimetype: text/plain
+  LH-LIT2.ANS:
+    mimetype: text/plain
+  LH-PHOEN.ANS:
+    mimetype: text/plain
+  LH-PORTR.GIF:
+    mimetype: image/gif
+  PROLOGUE.EXE:
+    mimetype: application/x-msdos-program
+  SH-BLACK.GIF:
+    mimetype: image/gif
+  SH-CUT.GIF:
+    mimetype: image/gif
+  TX-NIGHT.GIF:
+    mimetype: image/gif
+  VC-BEAUT.ANS:
+    mimetype: text/plain
+  VC-BRAIN.ANS:
+    mimetype: text/plain
+  VC-MAINA.ANS:
+    mimetype: text/plain
+  VC-MNU2.ARJ:
+    mimetype: application/x-arj
+  VC-MONST.ANS:
+    mimetype: text/plain
+  VC-PBMNU.ARJ:
+    mimetype: application/x-arj
+  VC-ROOT.JPG:
+    mimetype: image/jpeg
+  VC-VISIT.ANS:
+    mimetype: text/plain

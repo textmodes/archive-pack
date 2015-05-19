@@ -1,0 +1,70 @@
+name: acid-65.zip
+hash: 5c24cf35d206e613792d6b0b940e3e38
+year: 1998
+file:
+  AVDialog.class:
+    mimetype: application/x-java-applet
+  AcidAnsi.class:
+    mimetype: application/x-java-applet
+  AcidText.class:
+    mimetype: application/x-java-applet
+  AcidView:
+    mimetype: text/x-shellscript
+  AcidView.bat:
+    mimetype: application/x-msdos-program
+  AcidView.class:
+    mimetype: application/x-java-applet
+  AcidView.faq:
+    mimetype: text/plain
+  AcidView.files:
+    mimetype: text/plain
+  AcidView.fnt:
+    mimetype: application/octet-stream
+  AcidView.jpg:
+    mimetype: image/jpeg
+  AcidView.nfo:
+    mimetype: text/plain
+  AcidXBin.class:
+    mimetype: application/x-java-applet
+  AnsiImage.class:
+    mimetype: application/x-java-applet
+  acid-65.xb:
+    mimetype: text/x-xbin
+  acidapp.exe:
+    mimetype: application/x-msdos-program
+  acidcaps.nfo:
+    mimetype: text/plain
+  bl-volt.jpg:
+    mimetype: image/jpeg
+  cs-riddlemethis.jpg:
+    mimetype: image/jpeg
+  cs-tsl1.jpg:
+    mimetype: image/jpeg
+  file_id.diz:
+    mimetype: text/plain
+  gr-godownmoses.jpg:
+    mimetype: image/jpeg
+  gr-tutorial.jpg:
+    mimetype: image/jpeg
+  gv-malic.jpg:
+    mimetype: image/jpeg
+  gv-neuro.jpg:
+    mimetype: image/jpeg
+  if-acid3.jpg:
+    mimetype: image/jpeg
+  j1-evolution_3.jpg:
+    mimetype: image/jpeg
+  ml-normality.jpg:
+    mimetype: image/jpeg
+  news-65.asc:
+    mimetype: text/plain
+  release.nfo:
+    mimetype: text/plain
+  th-acryl.jpg:
+    mimetype: image/jpeg
+  us-acid_caps_2.jpg:
+    mimetype: image/jpeg
+  wc-bust3.jpg:
+    mimetype: image/jpeg
+  we-will.sue:
+    mimetype: text/plain

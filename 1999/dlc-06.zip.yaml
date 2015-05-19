@@ -1,0 +1,40 @@
+name: dlc-06.zip
+hash: e8de76352308f266f7860915a545aa7b
+year: 1999
+file:
+  DLC.NFO:
+    mimetype: text/plain
+  DLC.REG:
+    mimetype: application/octet-stream
+  EL-D!PDZ.ASC:
+    mimetype: text/plain
+  EL-GTLST.ASC:
+    mimetype: text/plain
+  EL-PDX99.ASC:
+    mimetype: text/plain
+  EL-PFC!.ASC:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  HC-ABSTR.ASC:
+    mimetype: text/plain
+  HC-GIRL.ASC:
+    mimetype: text/plain
+  HC-HBG.ASC:
+    mimetype: text/plain
+  HC-ISS.ANS:
+    mimetype: text/plain
+  HC-LAUGH.ASC:
+    mimetype: text/plain
+  HC-MNSTR.ASC:
+    mimetype: text/plain
+  HC-MR.ASC:
+    mimetype: text/plain
+  HC-SHIVA.ASC:
+    mimetype: text/plain
+  HC-VRTLV.ANS:
+    mimetype: text/plain
+  RELEASE.NFO:
+    mimetype: text/plain
+  STARLITE.BRD:
+    mimetype: application/octet-stream

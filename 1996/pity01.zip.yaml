@@ -1,0 +1,74 @@
+name: pity01.zip
+hash: f48284bdfb086e49f3c446dbd7be8ca5
+year: 1996
+file:
+  '!ANSI!':
+    mimetype: text/plain
+  '!ANSKEE!':
+    mimetype: text/plain
+  '!ASCII!':
+    mimetype: text/plain
+  '!INFO!':
+    mimetype: text/plain
+  '!VGA!':
+    mimetype: text/plain
+  DS-C0LO.ANS:
+    mimetype: text/plain
+  DS-L33T.ANC:
+    mimetype: text/plain
+  DS-PITY.ASC:
+    mimetype: text/plain
+  EMB-PTY1.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GB-01.ANS:
+    mimetype: text/plain
+  GB-PTY.ANS:
+    mimetype: text/plain
+  MX-PITY.ANS:
+    mimetype: text/plain
+  PD-CYBDC.JPG:
+    mimetype: image/jpeg
+  PD-DEPTH.JPG:
+    mimetype: image/jpeg
+  PD-EMBAL.JPG:
+    mimetype: image/jpeg
+  PD-SONIC.JPG:
+    mimetype: image/jpeg
+  PITY.APP:
+    mimetype: text/plain
+  PITY01.MEM:
+    mimetype: text/plain
+  PITY01.NFO:
+    mimetype: text/plain
+  RT-COLLI.ANS:
+    mimetype: text/plain
+  RT-GUARD.ANS:
+    mimetype: text/plain
+  RT-HOMME.ANS:
+    mimetype: text/plain
+  SB-ACEL1.ANC:
+    mimetype: text/plain
+  SB-ARISE.ASC:
+    mimetype: text/plain
+  SB-FLAS1.ASC:
+    mimetype: text/plain
+  SB-ILLEG.ANC:
+    mimetype: text/plain
+  SB-PITY1.ANC:
+    mimetype: text/plain
+  SB-STAT1.ANC:
+    mimetype: text/plain
+  SB-STAT2.ASC:
+    mimetype: text/plain
+  SB-TZONE.ASC:
+    mimetype: text/plain
+  SB-VEIN.ANC:
+    mimetype: text/plain
+  SF-EMPY2.ANS:
+    mimetype: text/plain
+  TH-PITY.ANC:
+    mimetype: text/plain
+  WU-PITY.ANC:
+    mimetype: text/plain

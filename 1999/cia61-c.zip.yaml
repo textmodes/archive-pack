@@ -1,0 +1,34 @@
+name: cia61-c.zip
+hash: 1747d8b48fcacdc1248d12dd68217f18
+year: 1999
+file:
+  42_4T2.GIF:
+    mimetype: image/gif
+  42_MNSCR.JPG:
+    mimetype: image/jpeg
+  0299info.cia:
+    mimetype: text/plain
+  0299memb.cia:
+    mimetype: text/plain
+  CWSDPMI.EXE:
+    mimetype: application/x-msdos-program
+  WIRETAP.EXE:
+    mimetype: application/x-msdos-program
+  bd_fish.jpg:
+    mimetype: image/jpeg
+  bd_gtto.jpg:
+    mimetype: image/jpeg
+  fh_dc.jpg:
+    mimetype: image/jpeg
+  fh_iso.jpg:
+    mimetype: image/jpeg
+  file_id.diz:
+    mimetype: text/plain
+  gf_brge.jpg:
+    mimetype: image/jpeg
+  gf_strt.jpg:
+    mimetype: image/jpeg
+  ik_arbty.jpg:
+    mimetype: image/jpeg
+  ik_col.jpg:
+    mimetype: image/jpeg

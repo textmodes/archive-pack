@@ -1,0 +1,48 @@
+name: homophob.zip
+hash: c21c374d7219cea1f59eed21b5b4858f
+year: 1999
+file:
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  HOMO-01.GIF:
+    mimetype: image/gif
+  HOMO-02.JPG:
+    mimetype: image/jpeg
+  HOMO-03.JPG:
+    mimetype: image/jpeg
+  HOMO-04.JPG:
+    mimetype: image/jpeg
+  HOMO-05.JPG:
+    mimetype: image/jpeg
+  HOMO-06.GIF:
+    mimetype: image/gif
+  HOMO-07.JPG:
+    mimetype: image/jpeg
+  HOMO-08.JPG:
+    mimetype: image/jpeg
+  HOMO-09.GIF:
+    mimetype: image/gif
+  HOMO-10.JPG:
+    mimetype: image/jpeg
+  HOMO-11.GIF:
+    mimetype: image/gif
+  HOMO-12.JPG:
+    mimetype: image/jpeg
+  HOMO-13.JPG:
+    mimetype: image/jpeg
+  HOMO-14.JPG:
+    mimetype: image/jpeg
+  HOMO-15.JPG:
+    mimetype: image/jpeg
+  HOMO-16.GIF:
+    mimetype: image/gif
+  HOMO-17.GIF:
+    mimetype: image/gif
+  HOMO-18.JPG:
+    mimetype: image/jpeg
+  HOMO-19.JPG:
+    mimetype: image/jpeg
+  HOMO-20.GIF:
+    mimetype: image/gif
+  HOMOPACK.INF:
+    mimetype: application/octet-stream

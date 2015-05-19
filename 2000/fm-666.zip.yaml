@@ -1,0 +1,20 @@
+name: fm-666.zip
+hash: 3830945cb4c92abd66e2f480801e003d
+year: 2000
+file:
+  CONTENTS.TXT:
+    mimetype: text/plain
+  FM-#06.DAT:
+    mimetype: application/octet-stream
+  FUCK_ID.DIZ:
+    mimetype: text/plain
+  README!!.NOW:
+    mimetype: text/plain
+  RV.EXE:
+    mimetype: application/x-msdos-program
+  fm-#06.ans:
+    mimetype: text/plain
+  fm-#06.exe:
+    mimetype: application/x-msdos-program
+  tppatch.zip:
+    mimetype: application/zip

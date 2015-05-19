@@ -1,0 +1,90 @@
+name: mfl_pck3.zip
+hash: 1fe45c4cbccb0af025ae98e50cbd22bc
+year: 2002
+file:
+  _INFO.ASC:
+    mimetype: text/plain
+  A-VIEW.COM:
+    mimetype: application/x-msdos-program
+  AMIGA.FNT:
+    mimetype: application/octet-stream
+  BNR-AB.TXT:
+    mimetype: text/plain
+  BNR-ATR.TXT:
+    mimetype: text/plain
+  BNR-BNR.ASC:
+    mimetype: text/plain
+  BNR-BST.ASC:
+    mimetype: text/plain
+  BNR-CHIP.TXT:
+    mimetype: text/plain
+  BNR-FYS.ASC:
+    mimetype: text/plain
+  BNR-GGS.ASC:
+    mimetype: text/plain
+  BNR-GRD!.TXT:
+    mimetype: text/plain
+  BNR-GRD2.TXT:
+    mimetype: text/plain
+  BNR-MFL.TXT:
+    mimetype: text/plain
+  BNR-MONK.ASC:
+    mimetype: text/plain
+  BNR-ND.TXT:
+    mimetype: text/plain
+  BNR-ND2.TXT:
+    mimetype: text/plain
+  BNR-NRG.TXT:
+    mimetype: text/plain
+  BNR-PERF.TXT:
+    mimetype: text/plain
+  BNR-PLAY.TXT:
+    mimetype: text/plain
+  BNR-R.ASC:
+    mimetype: text/plain
+  BNR-SAC.ASC:
+    mimetype: text/plain
+  BNR-TAR.ASC:
+    mimetype: text/plain
+  BNR-TAR2.ASC:
+    mimetype: text/plain
+  Bnr-alst.txt:
+    mimetype: text/plain
+  Bnr-mist.asc:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FILES.BBS:
+    mimetype: text/plain
+  MOONFLOW.ASC:
+    mimetype: text/plain
+  MST!FACE.ANS:
+    mimetype: text/plain
+  MST!JA.ANS:
+    mimetype: text/plain
+  MST!KLAS.ASC:
+    mimetype: text/plain
+  MST!KRTG.ASC:
+    mimetype: text/plain
+  MST!LOGO.ASC:
+    mimetype: text/plain
+  MST!MI.ANS:
+    mimetype: text/plain
+  MST!SPIR.ANS:
+    mimetype: text/plain
+  OZZ-MF.ASC:
+    mimetype: text/plain
+  Ozz-bina.asc:
+    mimetype: text/plain
+  Ozz-epzp.asc:
+    mimetype: text/plain
+  PC.FNT:
+    mimetype: application/octet-stream
+  US!DIZ.ANS:
+    mimetype: text/plain
+  US!GIRL.ANS:
+    mimetype: text/plain
+  US!IPC.ANS:
+    mimetype: text/plain
+  mfl#3.png:
+    mimetype: image/png

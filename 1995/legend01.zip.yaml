@@ -1,0 +1,52 @@
+name: legend01.zip
+hash: efa0ce24b896bae056d209aac48dfc95
+year: 1995
+file:
+  EV-MAYO2.ANS:
+    mimetype: text/plain
+  EV-PC1.ANS:
+    mimetype: text/plain
+  EV-VOS1.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FONTS01.ZIP:
+    mimetype: application/zip
+  GD-AMBER.ANS:
+    mimetype: text/plain
+  ID-FLAT.ANS:
+    mimetype: text/plain
+  ID-NACHO.ANS:
+    mimetype: text/plain
+  ID-POO.BIN:
+    mimetype: text/x-binary
+  ID-TOAST.ANS:
+    mimetype: text/plain
+  ID-TTRCE.ANS:
+    mimetype: text/plain
+  LEGEND01.ANS:
+    mimetype: text/plain
+  MB-MAYO1.ANS:
+    mimetype: text/plain
+  NC-BK1.ANS:
+    mimetype: text/plain
+  NC-EGOD1.ANS:
+    mimetype: text/plain
+  NC-FL1.ANS:
+    mimetype: text/plain
+  SM-LGND.RIP:
+    mimetype: image/x-rip
+  SO-AMBER.ANS:
+    mimetype: text/plain
+  SO-LGND1.ANS:
+    mimetype: text/plain
+  T2-TA1.BIN:
+    mimetype: text/x-binary
+  TC-DW2.RIP:
+    mimetype: image/x-rip
+  TC-HOLE.ANS:
+    mimetype: text/plain
+  TC-TRN.ANS:
+    mimetype: text/plain
+  US-TRN1.ANS:
+    mimetype: text/plain

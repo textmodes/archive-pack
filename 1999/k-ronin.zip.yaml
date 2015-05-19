@@ -1,0 +1,28 @@
+name: k-ronin.zip
+hash: 77f6a74c3221bee8eda7ef320f8c6c8f
+year: 1999
+file:
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  KIO-CTV.ANS:
+    mimetype: text/plain
+  RONIN.NFO:
+    mimetype: text/plain
+  SMI-ARMX.ANS:
+    mimetype: text/plain
+  SMI-CRSH.ANS:
+    mimetype: text/plain
+  SMI-GUT8.ANS:
+    mimetype: text/plain
+  SMI-MENC.ANS:
+    mimetype: text/plain
+  SMI-RMX.ANS:
+    mimetype: text/plain
+  SMI-SKEL.ANS:
+    mimetype: text/plain
+  SMI-TEA.ANS:
+    mimetype: text/plain
+  SMI-UFO.ANS:
+    mimetype: text/plain
+  US-GUT11.ANS:
+    mimetype: text/plain

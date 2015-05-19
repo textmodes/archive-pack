@@ -1,0 +1,62 @@
+name: frk-0295.zip
+hash: 39433e6064fcd692cb69101b0b614cb1
+year: 1995
+file:
+  ALTAR.EXE:
+    mimetype: application/x-msdos-program
+  BLACK.HOL:
+    mimetype: text/plain
+  CRUSADER.NFO:
+    mimetype: text/plain
+  DEMOFONT.ZIP:
+    mimetype: application/zip
+  DRAGLOGO.ANS:
+    mimetype: text/plain
+  DRAGMAIN.ANS:
+    mimetype: text/plain
+  DWLONG_1.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FREAK-2.TDF:
+    mimetype: application/octet-stream
+  FREAK-4.TDF:
+    mimetype: application/octet-stream
+  FREAK-5.TDF:
+    mimetype: text/plain
+  FREAK_10.TDF:
+    mimetype: application/octet-stream
+  FREAK_11.TDF:
+    mimetype: application/octet-stream
+  FRK-LGO5.ANS:
+    mimetype: text/plain
+  FRK-LGO6.ANS:
+    mimetype: text/plain
+  FRK_0295.ANS:
+    mimetype: text/plain
+  FRKBOARD.ANS:
+    mimetype: text/plain
+  FRKMEM.ANS:
+    mimetype: text/plain
+  INNERLO.ANS:
+    mimetype: text/plain
+  LOGIN.ZIP:
+    mimetype: application/zip
+  SENGINE1.ANS:
+    mimetype: text/plain
+  SPOON.INI:
+    mimetype: text/plain
+  STARGATE.ANS:
+    mimetype: text/plain
+  STARGATF.ANS:
+    mimetype: text/plain
+  STGFILES.ANS:
+    mimetype: text/plain
+  STGMAIN.ANS:
+    mimetype: text/plain
+  SV13.CFG:
+    mimetype: application/octet-stream
+  SVIEW.EXE:
+    mimetype: application/x-msdos-program
+  THEMOON.ANS:
+    mimetype: text/plain

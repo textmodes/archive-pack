@@ -1,0 +1,80 @@
+name: acepak04.zip
+hash: f02d756f8a52dd35c7032de41c57b2db
+year: 1993
+file:
+  ACE.MEM:
+    mimetype: text/plain
+  ANSIVIEW.DAT:
+    mimetype: application/octet-stream
+  AR-RIP1.ACE:
+    mimetype: text/plain
+  AR-RIP2.ACE:
+    mimetype: text/plain
+  AV.CFG:
+    mimetype: application/octet-stream
+  AV.EXE:
+    mimetype: application/x-msdos-program
+  CA-LOGO1.ACE:
+    mimetype: text/plain
+  DD-2TON.EXE:
+    mimetype: application/x-msdos-program
+  DD-LOGO.ACE:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  IN-DEVIL.ACE:
+    mimetype: text/plain
+  IN-OBVMN.ZIP:
+    mimetype: application/zip
+  IN-ORK.ACE:
+    mimetype: text/plain
+  IN-PRIIN.ACE:
+    mimetype: text/plain
+  IN-RIP.ACE:
+    mimetype: text/plain
+  IN-STAT.ACE:
+    mimetype: text/plain
+  KC-LLR.ACE:
+    mimetype: text/plain
+  RB-LOGO.ACE:
+    mimetype: text/plain
+  READ.ME!:
+    mimetype: text/plain
+  S&S-RIP.ACE:
+    mimetype: text/plain
+  SD-ACE1.ACE:
+    mimetype: text/plain
+  SD-ACE1.GIF:
+    mimetype: image/gif
+  SD-ACID.GIF:
+    mimetype: image/gif
+  SD-ACID2.GIF:
+    mimetype: image/gif
+  SD-BEAST.ACE:
+    mimetype: text/plain
+  SD-CH10.ACE:
+    mimetype: text/plain
+  SD-LOGO.ACE:
+    mimetype: text/plain
+  SD-LP.ACE:
+    mimetype: text/plain
+  SD-PAW.ACE:
+    mimetype: text/plain
+  SD-RIP1.GIF:
+    mimetype: image/gif
+  SD-SPLAN.ACE:
+    mimetype: text/plain
+  SD-TRG.ACE:
+    mimetype: text/plain
+  SD-TTH.ACE:
+    mimetype: text/plain
+  SD-WHAT.ACE:
+    mimetype: text/plain
+  SR-HD.ACE:
+    mimetype: text/plain
+  SR-LOGO.ACE:
+    mimetype: text/plain
+  SR-NEO.ACE:
+    mimetype: text/plain
+  TR-STAT.ACE:
+    mimetype: text/plain

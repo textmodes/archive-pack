@@ -1,0 +1,8 @@
+name: mimeo-01.zip
+hash: 7ebd8ab04472a70e94a0411c6a241b5d
+year: 1998
+file:
+  MIMEO.DAT:
+    mimetype: application/octet-stream
+  MIMEO.EXE:
+    mimetype: application/x-msdos-program

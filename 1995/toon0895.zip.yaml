@@ -1,0 +1,74 @@
+name: toon0895.zip
+hash: 5244d9373819c99b11a2ec7d6550b8c8
+year: 1995
+file:
+  (ANSI):
+    mimetype: text/plain
+  (APP):
+    mimetype: text/plain
+  (ASKEE):
+    mimetype: text/plain
+  (INFO):
+    mimetype: text/plain
+  (LOGO):
+    mimetype: text/plain
+  (VGA):
+    mimetype: text/plain
+  CA-EEK.ANS:
+    mimetype: text/plain
+  CA-HIPO.ANS:
+    mimetype: text/plain
+  CA-TOWN.ANS:
+    mimetype: text/plain
+  CH-EI.ANS:
+    mimetype: text/plain
+  CH-TWG.GIF:
+    mimetype: image/gif
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GREETS.NFO:
+    mimetype: text/plain
+  MEMLIST.NFO:
+    mimetype: text/plain
+  MR-PLUSH.ANS:
+    mimetype: text/plain
+  NP-GOOP.PCX:
+    mimetype: image/pcx
+  RA-FS.ANS:
+    mimetype: text/plain
+  RA-GEN.ANS:
+    mimetype: text/plain
+  S3-AD.ANS:
+    mimetype: text/plain
+  S3-SET.ANS:
+    mimetype: text/plain
+  SCO-LGO1.ANS:
+    mimetype: text/plain
+  SITELIST.NFO:
+    mimetype: text/plain
+  TOKYO.EXE:
+    mimetype: application/x-msdos-program
+  TOON0895.NFO:
+    mimetype: text/plain
+  TOONAPP.ZIP:
+    mimetype: application/zip
+  WO-DG.ASC:
+    mimetype: text/plain
+  WO-DYST.ASC:
+    mimetype: text/plain
+  WO-FC.ANS:
+    mimetype: text/plain
+  WO-FOIL.ASC:
+    mimetype: text/plain
+  WO-HOTH.ANS:
+    mimetype: text/plain
+  WO-MIST.ANS:
+    mimetype: text/plain
+  WO-NEVER.ASC:
+    mimetype: text/plain
+  WO-PLUSH.ANS:
+    mimetype: text/plain
+  WO-PLUSH.ASC:
+    mimetype: text/plain
+  WO-TT.ASC:
+    mimetype: text/plain

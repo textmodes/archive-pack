@@ -1,0 +1,42 @@
+name: b2k-009.zip
+hash: d5f1ed0e58d8e4d1f4923c3c9f9da18a
+year: 1999
+file:
+  B2k.009:
+    mimetype: text/plain
+  CD_BEAR.MOD:
+    mimetype: audio/x-mod
+  ENTRY.FRM:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  MAGNETIC.ANS:
+    mimetype: text/plain
+  MANMAN.ASC:
+    mimetype: text/plain
+  PK!BLND9.RIP:
+    mimetype: image/x-rip
+  bear.dcr:
+    mimetype: application/octet-stream
+  bear.html:
+    mimetype: text/html
+  bed-Johnny.rm:
+    mimetype: audio/x-pn-realaudio
+  bed-johnny.txt:
+    mimetype: text/plain
+  cd_Burn.it:
+    mimetype: audio/x-mod
+  lacparody.jpg:
+    mimetype: image/jpeg
+  po-bear.ans:
+    mimetype: text/plain
+  quisling.jpg:
+    mimetype: image/jpeg
+  rhombus.jpg:
+    mimetype: image/jpeg
+  sho_teddy.gif:
+    mimetype: image/gif
+  sk-balls.bmp:
+    mimetype: image/x-ms-bmp
+  zeebit.jpg:
+    mimetype: image/jpeg

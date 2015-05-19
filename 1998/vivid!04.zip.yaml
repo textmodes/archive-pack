@@ -1,0 +1,46 @@
+name: vivid!04.zip
+hash: 7c5943dadfdd3fdadea0f139762cd68d
+year: 1998
+file:
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FX-FCONF.ZIP:
+    mimetype: application/zip
+  FX-KILO1.ASC:
+    mimetype: text/plain
+  FX-LOGOF.ZIP:
+    mimetype: application/zip
+  FX-VVD1.ASC:
+    mimetype: text/plain
+  LS-HAND.GIF:
+    mimetype: image/gif
+  LS-KILO6.ANS:
+    mimetype: text/plain
+  LS-NF.ANS:
+    mimetype: text/plain
+  LS-TITL.GIF:
+    mimetype: image/gif
+  MEMBER.LST:
+    mimetype: text/plain
+  P1-FOO!.ANS:
+    mimetype: text/plain
+  P1-KILO.ANS:
+    mimetype: text/plain
+  P1-PLUG.ANS:
+    mimetype: text/plain
+  P1-ROOT.ANS:
+    mimetype: text/plain
+  P1-ROOT2.ANS:
+    mimetype: text/plain
+  SI-GARF.ASC:
+    mimetype: text/plain
+  SI-MK.ASC:
+    mimetype: text/plain
+  SI-SESM.ASC:
+    mimetype: text/plain
+  VIVID!04.NFO:
+    mimetype: text/plain
+  VIVID.NFO:
+    mimetype: text/plain
+  WINAPP.EXE:
+    mimetype: application/x-msdos-program

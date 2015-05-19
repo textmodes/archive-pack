@@ -1,0 +1,24 @@
+name: ansis-g.zip
+hash: 6040094ee8754adb76a20e3121d8f8ae
+year: 1993
+file:
+  -RUNME.COM:
+    mimetype: application/x-msdos-program
+  GAVEL.ANS:
+    mimetype: text/plain
+  GHOST.ANS:
+    mimetype: text/plain
+  GOODBYE.ANS:
+    mimetype: text/plain
+  GRAPHIC.ANS:
+    mimetype: text/plain
+  GRASS.ANS:
+    mimetype: text/plain
+  GRAVYARD.ANS:
+    mimetype: text/plain
+  GRDNING.ANS:
+    mimetype: text/plain
+  GREATBBS.ANS:
+    mimetype: text/plain
+  GUN.ANS:
+    mimetype: text/plain

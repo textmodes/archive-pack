@@ -1,0 +1,28 @@
+name: galm09.zip
+hash: 405974f8f1e3322031b1959ff9136a60
+year: 2002
+file:
+  GALM.ANS:
+    mimetype: text/plain
+  Galmfather.ans:
+    mimetype: text/plain
+  Galmfather.gif:
+    mimetype: image/gif
+  OMA_GALM.txt:
+    mimetype: text/plain
+  RETIRED.GIF:
+    mimetype: image/gif
+  craptune.xm:
+    mimetype: audio/x-mod
+  file_id.diz:
+    mimetype: text/plain
+  files-list.txt:
+    mimetype: text/plain
+  galm.nfo:
+    mimetype: text/plain
+  hackergrodan.xm:
+    mimetype: audio/x-mod
+  niggro1.xm:
+    mimetype: audio/x-mod
+  studsboll.xm:
+    mimetype: audio/x-mod

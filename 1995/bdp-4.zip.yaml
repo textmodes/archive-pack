@@ -1,0 +1,24 @@
+name: bdp-4.zip
+hash: 8f74069fc9653b13ab1d5f500f98b747
+year: 1995
+file:
+  BDPANS.ARJ:
+    mimetype: application/x-arj
+  BDPAPP.ARJ:
+    mimetype: application/x-arj
+  BDPLIT.ARJ:
+    mimetype: application/x-arj
+  BDPNFO.ARJ:
+    mimetype: application/x-arj
+  BDPVGA.ARJ:
+    mimetype: application/x-arj
+  CETRNASI.EXE:
+    mimetype: application/x-msdos-program
+  CETRNASI.TRT:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  NEO.COM:
+    mimetype: application/x-msdos-program
+  SUKKER.ASC:
+    mimetype: text/plain

@@ -1,0 +1,286 @@
+name: skl-1293.zip
+hash: fb277b7c116191958cffd3abf1b1c832
+year: 1993
+file:
+  !!binary +v/5xEFOU0kuxPn6:
+    mimetype: application/octet-stream
+  !!binary +vn/xElORk8uxPn6:
+    mimetype: application/octet-stream
+  !!binary +vn/xExJVMQu+f/6:
+    mimetype: application/octet-stream
+  !!binary +v/5xFZHQVMuxPn6:
+    mimetype: application/octet-stream
+  !!binary +vnETVVTSUMuxPn6:
+    mimetype: application/octet-stream
+  !!binary +sRBU0NJScQu+f/6:
+    mimetype: application/octet-stream
+  !!binary +sRNRU5VU8Qu+f/6:
+    mimetype: application/octet-stream
+  AB-AR.ANS:
+    mimetype: text/plain
+  AB-CRIME.ANS:
+    mimetype: text/plain
+  AB-CYBRG.ANS:
+    mimetype: text/plain
+  AB-DARKH.ANS:
+    mimetype: text/plain
+  AB-EFLAM.ANS:
+    mimetype: text/plain
+  AB-F451.ANS:
+    mimetype: text/plain
+  AB-FAITH.ANS:
+    mimetype: text/plain
+  AB-FILE.DIZ:
+    mimetype: text/plain
+  AB-FLAME.ANS:
+    mimetype: text/plain
+  AB-LIGHT.LIT:
+    mimetype: text/plain
+  AB-MSTAT.ANS:
+    mimetype: text/plain
+  AB-RAZOR.ANS:
+    mimetype: text/plain
+  AB-SKL1.ANS:
+    mimetype: text/plain
+  AB-SKL2.ANS:
+    mimetype: text/plain
+  AB-SOH1.ANS:
+    mimetype: text/plain
+  AB-STAY.LIT:
+    mimetype: text/plain
+  AB-UC.ANS:
+    mimetype: text/plain
+  DD-INTRO.ZIP:
+    mimetype: application/zip
+  DE-SKL1.GIF:
+    mimetype: image/gif
+  DR-SOH1.ANS:
+    mimetype: text/plain
+  DR-SUTTL.ANS:
+    mimetype: text/plain
+  DS-ICE.ANS:
+    mimetype: text/plain
+  DS-LAT0.ANS:
+    mimetype: text/plain
+  DS-NOT.LIT:
+    mimetype: text/plain
+  DS-SKILL.ANS:
+    mimetype: text/plain
+  DS-SKL2.ANS:
+    mimetype: text/plain
+  DS-SOH.ANS:
+    mimetype: text/plain
+  DS-SOH.PCX:
+    mimetype: image/pcx
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FUN!.COM:
+    mimetype: application/x-msdos-program
+  GALACTIC.669:
+    mimetype: audio/x-mod
+  GZ-ACE1.ANS:
+    mimetype: text/plain
+  GZ-AVG1.ANS:
+    mimetype: text/plain
+  GZ-CYBW1.ANS:
+    mimetype: text/plain
+  GZ-DIGR1.ANS:
+    mimetype: text/plain
+  GZ-IND2.ANS:
+    mimetype: text/plain
+  GZ-MRTH2.ANS:
+    mimetype: text/plain
+  GZ-PL1.ANS:
+    mimetype: text/plain
+  GZ-PSY4.ANS:
+    mimetype: text/plain
+  GZ-PSY5.ANS:
+    mimetype: text/plain
+  GZ-SKL.DIZ:
+    mimetype: text/plain
+  GZ-SKL1.ANS:
+    mimetype: text/plain
+  GZ-STRMW.DIZ:
+    mimetype: text/plain
+  HR-BOB.ANS:
+    mimetype: text/plain
+  HR-CRYPT.ANS:
+    mimetype: text/plain
+  HR-EVIL.ANS:
+    mimetype: text/plain
+  HR-FD1.ANS:
+    mimetype: text/plain
+  HR-FD2.ANS:
+    mimetype: text/plain
+  HR-FD3.ANS:
+    mimetype: text/plain
+  HR-FD4.ANS:
+    mimetype: text/plain
+  HR-LOGON.ANS:
+    mimetype: text/plain
+  HR-MENUS.ZIP:
+    mimetype: application/zip
+  HR-PRE.ANS:
+    mimetype: text/plain
+  HR-PRE2.ANS:
+    mimetype: text/plain
+  HR-RAM.ANS:
+    mimetype: text/plain
+  HR-SGA.ANS:
+    mimetype: text/plain
+  HR-SKL1.ANS:
+    mimetype: text/plain
+  HR-SKL2.ANS:
+    mimetype: text/plain
+  HR-SKL3.ANS:
+    mimetype: text/plain
+  HR-SKL4.ANS:
+    mimetype: text/plain
+  HR-SOUTH.ANS:
+    mimetype: text/plain
+  HR-TRC.ANS:
+    mimetype: text/plain
+  HR-VIS1.ANS:
+    mimetype: text/plain
+  HR-VIS2.ANS:
+    mimetype: text/plain
+  IM-DAILY.MOD:
+    mimetype: audio/x-mod
+  IM-GHETO.ANS:
+    mimetype: text/plain
+  IM-MENUS.ZIP:
+    mimetype: application/zip
+  IM-SKL1.ANS:
+    mimetype: text/plain
+  IM-SOH1.ANS:
+    mimetype: text/plain
+  IM-TIA1.ANS:
+    mimetype: text/plain
+  IM-TIME1.ANS:
+    mimetype: text/plain
+  JG-FD1.LIT:
+    mimetype: text/plain
+  SKILLAPP.EXE:
+    mimetype: application/x-msdos-program
+  SKL-1293.DSC:
+    mimetype: text/plain
+  SKL-1293.MEM:
+    mimetype: text/plain
+  SKL-1293.NFO:
+    mimetype: text/plain
+  SKL-ANSI.NFO:
+    mimetype: text/plain
+  SKL-COUR.NFO:
+    mimetype: text/plain
+  SKL-LIT.NFO:
+    mimetype: text/plain
+  SKL-MUSC.NFO:
+    mimetype: text/plain
+  TDH-CCI1.ANS:
+    mimetype: text/plain
+  TDH-CCI2.ANS:
+    mimetype: text/plain
+  TDH-CP.LIT:
+    mimetype: text/plain
+  TDH-CZ.LIT:
+    mimetype: text/plain
+  TDH-EF.LIT:
+    mimetype: text/plain
+  TDH-F451.LIT:
+    mimetype: text/plain
+  TDH-FNM.ANS:
+    mimetype: text/plain
+  TDH-FNM1.GIF:
+    mimetype: image/gif
+  TDH-FNM1.LIT:
+    mimetype: text/plain
+  TDH-FNM2.LIT:
+    mimetype: text/plain
+  TDH-LOC.LIT:
+    mimetype: text/plain
+  TDH-MENU.ZIP:
+    mimetype: application/zip
+  TDH-MI.LIT:
+    mimetype: text/plain
+  TDH-RATM.LIT:
+    mimetype: text/plain
+  TDH-REV9.LIT:
+    mimetype: text/plain
+  TDH-RN9.LIT:
+    mimetype: text/plain
+  TDH-RTM2.LIT:
+    mimetype: text/plain
+  TDH-SBZ.LIT:
+    mimetype: text/plain
+  TDH-SKL.ASC:
+    mimetype: text/plain
+  TDH-SKL1.GIF:
+    mimetype: image/gif
+  TDH-SOH1.ANS:
+    mimetype: text/plain
+  TDH-SOH1.LIT:
+    mimetype: text/plain
+  TDH-SOH2.ANS:
+    mimetype: text/plain
+  TDH-SOH2.LIT:
+    mimetype: text/plain
+  TDH-SOH3.LIT:
+    mimetype: text/plain
+  TDH-SOH4.LIT:
+    mimetype: text/plain
+  TDH-TD.LIT:
+    mimetype: text/plain
+  TDH-THA1.LIT:
+    mimetype: text/plain
+  TDH-THA2.LIT:
+    mimetype: text/plain
+  TDH-TIA.ANS:
+    mimetype: text/plain
+  TDH-TOB.LIT:
+    mimetype: text/plain
+  TH-DROW.ANS:
+    mimetype: text/plain
+  TH-NTG1.ANS:
+    mimetype: text/plain
+  TH-NTG2.ANS:
+    mimetype: text/plain
+  TH-NTG3.ANS:
+    mimetype: text/plain
+  TH-SKL1.ANS:
+    mimetype: text/plain
+  TH-SKL2.ANS:
+    mimetype: text/plain
+  TH-SKL3.ANS:
+    mimetype: text/plain
+  TH-TUI.ANS:
+    mimetype: text/plain
+  TH-VISX.ZIP:
+    mimetype: application/zip
+  TH-WEREW.ANS:
+    mimetype: text/plain
+  TM-SILV1.ANS:
+    mimetype: text/plain
+  US-SKILL.ANS:
+    mimetype: text/plain
+  US-TCA.ANS:
+    mimetype: text/plain
+  VM-ALNM.GIF:
+    mimetype: image/gif
+  VM-SKILL.GIF:
+    mimetype: image/gif
+  WELCOME.1:
+    mimetype: text/plain
+  ZN-DARK.ANS:
+    mimetype: text/plain
+  ZN-FILE.DIZ:
+    mimetype: text/plain
+  ZN-GREEN.ANS:
+    mimetype: text/plain
+  ZN-SKL1.ANS:
+    mimetype: text/plain
+  ZN-SKL2.ANS:
+    mimetype: text/plain
+  ZN-SKL3.ANS:
+    mimetype: text/plain
+  ZN-SS.ANS:
+    mimetype: text/plain

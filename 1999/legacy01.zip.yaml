@@ -1,0 +1,48 @@
+name: legacy01.zip
+hash: 07014657a051f2653ab883c47f43f632
+year: 1999
+file:
+  5Q-5Q.TXT:
+    mimetype: text/plain
+  5Q-STRKS.TXT:
+    mimetype: text/plain
+  5Q-TL.TXT:
+    mimetype: text/plain
+  5Q-VOL.TXT:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  LEGACY01.ASC:
+    mimetype: text/plain
+  RP-ACY1.ASC:
+    mimetype: text/plain
+  RP-AMBER.ASC:
+    mimetype: text/plain
+  RP-CTV.ASC:
+    mimetype: text/plain
+  RP-DIAL.ASC:
+    mimetype: text/plain
+  RP-HIRO.ASC:
+    mimetype: text/plain
+  RP-LMNT.ASC:
+    mimetype: text/plain
+  RP-MDRA.ASC:
+    mimetype: text/plain
+  RP-MIMIC.ASC:
+    mimetype: text/plain
+  RP-RMRS1.ASC:
+    mimetype: text/plain
+  RP-RMRS2.ASC:
+    mimetype: text/plain
+  RP-SVGE.ASC:
+    mimetype: text/plain
+  RP-WHOD.ASC:
+    mimetype: text/plain
+  WE-ADIZ.ASC:
+    mimetype: text/plain
+  WE-BSUN1.TXT:
+    mimetype: text/plain
+  WE-MIDIA.ASC:
+    mimetype: text/plain
+  WE-RMRS1.ASC:
+    mimetype: text/plain

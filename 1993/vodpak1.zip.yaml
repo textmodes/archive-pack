@@ -1,0 +1,52 @@
+name: vodpak1.zip
+hash: 6415b5d8b0197cfdda66cc976914f708
+year: 1993
+file:
+  CH-CIA.VOD:
+    mimetype: text/plain
+  CH-SIL.VOD:
+    mimetype: text/plain
+  CH-TTI.VOD:
+    mimetype: text/plain
+  DE-GHETT.VOD:
+    mimetype: text/plain
+  DE-IT.VOD:
+    mimetype: text/plain
+  DE-PITS.VOD:
+    mimetype: text/plain
+  DON-VOD.EXE:
+    mimetype: application/x-msdos-program
+  KR-CRTCH.EXE:
+    mimetype: application/x-msdos-program
+  L&Q-DON1.VOD:
+    mimetype: text/plain
+  L&Q-RAG1.VOD:
+    mimetype: text/plain
+  LK-RAG2.VOD:
+    mimetype: text/plain
+  LK-RAG5.VOD:
+    mimetype: text/plain
+  NIGHT2.EXE:
+    mimetype: application/x-msdos-program
+  Q&L-EMH1.VOD:
+    mimetype: text/plain
+  QR-CDR.VOD:
+    mimetype: text/plain
+  QR-DWEL7.VOD:
+    mimetype: text/plain
+  QR-OOF.VOD:
+    mimetype: text/plain
+  QR-PITS1.VOD:
+    mimetype: text/plain
+  QR-TSAN3.VOD:
+    mimetype: text/plain
+  QR-VOD1.VOD:
+    mimetype: text/plain
+  VIG-TVU1.VOD:
+    mimetype: text/plain
+  VIG-VOD1.VOD:
+    mimetype: text/plain
+  VOD.EXE:
+    mimetype: application/x-msdos-program
+  VODMEM.VOD:
+    mimetype: text/plain

@@ -1,0 +1,10 @@
+name: 2rbo-kol.zip
+hash: 746999cb1f7c2f89c1f6b578be188cbe
+year: 1994
+file:
+  2RBO-KOL.TXT:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  NEO.COM:
+    mimetype: application/x-msdos-program

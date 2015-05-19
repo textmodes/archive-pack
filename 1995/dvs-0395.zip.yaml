@@ -1,0 +1,100 @@
+name: dvs-0395.zip
+hash: 168e0b275c3489cd6d123376112b4974
+year: 1995
+file:
+  !!binary 7EFOU0ns:
+    mimetype: application/octet-stream
+  !!binary 7EFTQ0lJ7A==:
+    mimetype: application/octet-stream
+  !!binary 7EVYRSdT7A==:
+    mimetype: application/octet-stream
+  !!binary 7ExJVOw=:
+    mimetype: application/octet-stream
+  !!binary 7FNUVUZG7A==:
+    mimetype: application/octet-stream
+  !!binary 7FZHQew=:
+    mimetype: application/octet-stream
+  82502162.TXT:
+    mimetype: text/plain
+  BP-DVS.ANS:
+    mimetype: text/plain
+  BP-FOI.ANS:
+    mimetype: text/plain
+  DVS.NFO:
+    mimetype: text/plain
+  DVSVIEW.EXE:
+    mimetype: application/x-msdos-program
+  EE-COP.LIT:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  I1-COD.ASC:
+    mimetype: text/plain
+  I1-PR1.ASC:
+    mimetype: text/plain
+  I1-SN.ASC:
+    mimetype: text/plain
+  I1-ST.ASC:
+    mimetype: text/plain
+  MF-AMU.ANS:
+    mimetype: text/plain
+  MF-CNAT.LIT:
+    mimetype: text/plain
+  MF-DVS2.ANS:
+    mimetype: text/plain
+  MF-OLP.ANS:
+    mimetype: text/plain
+  NEWDVS.NFO:
+    mimetype: text/plain
+  NI-BLKRN.ANS:
+    mimetype: text/plain
+  NI-FNTZ.ANS:
+    mimetype: text/plain
+  NI-FOI1.ANS:
+    mimetype: text/plain
+  NI-LFW.ANS:
+    mimetype: text/plain
+  NI-TGM.ANS:
+    mimetype: text/plain
+  PH-CRAD.ANS:
+    mimetype: text/plain
+  PH-MEM.ANS:
+    mimetype: text/plain
+  PH-RLTY.ANS:
+    mimetype: text/plain
+  SD-UNKWN.ANS:
+    mimetype: text/plain
+  SYN-LIFE.LIT:
+    mimetype: text/plain
+  SYN-RAIN.LIT:
+    mimetype: text/plain
+  SYN-REV.LIT:
+    mimetype: text/plain
+  TB-DVS.ASC:
+    mimetype: text/plain
+  TB-DVS2.ASC:
+    mimetype: text/plain
+  THC-DVS.GIF:
+    mimetype: image/gif
+  THC-FOI.GIF:
+    mimetype: image/gif
+  TW-CHAOS.ANS:
+    mimetype: text/plain
+  TW-COP.ANS:
+    mimetype: text/plain
+  TW-EYERN.GIF:
+    mimetype: image/gif
+  TW-HAND.GIF:
+    mimetype: image/gif
+  TW-HTC.ASC:
+    mimetype: text/plain
+  TW-RANDM.ASC:
+    mimetype: text/plain
+  TW-RGN02.ANS:
+    mimetype: text/plain
+  TW-RGN03.ANS:
+    mimetype: text/plain
+  TW-TYRNY.ANS:
+    mimetype: text/plain
+  TW-USWST.ANS:
+    mimetype: text/plain

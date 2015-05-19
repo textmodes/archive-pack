@@ -1,0 +1,76 @@
+name: df2pack1.zip
+hash: d70794f1ff3a1f73eb26a3ab275bd29f
+year: 1998
+file:
+  ANSI/ANSIROLL.EXE:
+    mimetype: application/x-msdos-program
+  ANSI/SHAQ-01.ANS:
+    mimetype: text/plain
+  ANSI/SHAQ-02.ANS:
+    mimetype: text/plain
+  ANSI/SHAQ-03.ANS:
+    mimetype: text/plain
+  ANSI/SHAQ-04.ANS:
+    mimetype: text/plain
+  ANSI/SHAQ-05.ANS:
+    mimetype: text/plain
+  ANSI/SHAQ-06.ANS:
+    mimetype: text/plain
+  ASCII/C6-01.ASC:
+    mimetype: text/plain
+  ASCII/C6-02.ASC:
+    mimetype: text/plain
+  ASCII/C6-03.ASC:
+    mimetype: text/plain
+  ASCII/SHAQ-01.ASC:
+    mimetype: text/plain
+  DF2.NFO:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GUEST/FLAME-01.ANS:
+    mimetype: text/plain
+  GUEST/FLAME-01.JPG:
+    mimetype: image/jpeg
+  GUEST/FLAME02.JPG:
+    mimetype: image/jpeg
+  GUEST/IF-ASCII:
+    mimetype: text/plain
+  GUEST/README.TXT:
+    mimetype: text/plain
+  SVGA/BHLZ-01.JPG:
+    mimetype: image/jpeg
+  SVGA/BHLZ-02.JPG:
+    mimetype: image/jpeg
+  SVGA/BHLZ-03.JPG:
+    mimetype: image/jpeg
+  SVGA/MINDS-01.JPG:
+    mimetype: image/jpeg
+  SVGA/MINDS-02.JPG:
+    mimetype: image/jpeg
+  SVGA/MINDS-03.JPG:
+    mimetype: image/jpeg
+  SVGA/MINDS-04.JPG:
+    mimetype: image/jpeg
+  SVGA/MINDS-05.JPG:
+    mimetype: image/jpeg
+  SVGA/NPLD-01.GIF:
+    mimetype: image/gif
+  SVGA/PHIRE-01.JPG:
+    mimetype: image/jpeg
+  SVGA/PHIRE-02.JPG:
+    mimetype: image/jpeg
+  SVGA/PHORE-03.JPG:
+    mimetype: image/jpeg
+  SVGA/SKATE-01.JPG:
+    mimetype: image/jpeg
+  SVGA/SKATE-02.JPG:
+    mimetype: image/jpeg
+  SVGA/SKATE-03.JPG:
+    mimetype: image/jpeg
+  SVGA/SKATE-04.JPG:
+    mimetype: image/jpeg
+  SVGA/TOK-01.JPG:
+    mimetype: image/jpeg
+  SVGA/TOK-02.JPG:
+    mimetype: image/jpeg

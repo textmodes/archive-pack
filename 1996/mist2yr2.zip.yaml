@@ -1,0 +1,44 @@
+name: mist2yr2.zip
+hash: 152e96cae1ef35cfeb9d1818b572166c
+year: 1996
+file:
+  !!binary +kNPTlQnRPou+fr5:
+    mimetype: text/plain
+  !!binary +lZHQfku+fr5:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  JB-BLIND.GIF:
+    mimetype: image/gif
+  JB-PSYCH.GIF:
+    mimetype: image/gif
+  MD-TMATO.ICE:
+    mimetype: text/plain
+  MW-SKDUG.JPG:
+    mimetype: image/jpeg
+  SK-BATMN.GIF:
+    mimetype: image/gif
+  SK-CTHLU.GIF:
+    mimetype: image/gif
+  SK-DUST1.JPG:
+    mimetype: image/jpeg
+  SK-FISHY.JPG:
+    mimetype: image/jpeg
+  SK-UNITE.JPG:
+    mimetype: image/jpeg
+  TH_CASA.GIF:
+    mimetype: image/gif
+  TH_CENOB.GIF:
+    mimetype: image/gif
+  TH_DEM69.GIF:
+    mimetype: image/gif
+  TH_DEST.GIF:
+    mimetype: image/gif
+  TH_ENEMY.GIF:
+    mimetype: image/gif
+  TH_EUPH.GIF:
+    mimetype: image/gif
+  TH_FUZZ.GIF:
+    mimetype: image/gif
+  TH_RAPTR.GIF:
+    mimetype: image/gif

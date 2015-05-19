@@ -1,0 +1,18 @@
+name: hacker01.zip
+hash: d4650918d7268a6c5485d7b5e1171dc3
+year: 1996
+file:
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  HACKER.DAT:
+    mimetype: application/octet-stream
+  HACKER.DOC:
+    mimetype: text/plain
+  HACKER.EXE:
+    mimetype: application/x-msdos-program
+  HACKER.S3M:
+    mimetype: audio/x-mod
+  MAG-GRP.APP:
+    mimetype: text/plain
+  MAG-VOTE.APP:
+    mimetype: text/plain

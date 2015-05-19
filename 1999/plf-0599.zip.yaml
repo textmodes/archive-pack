@@ -1,0 +1,78 @@
+name: plf-0599.zip
+hash: d4a3b931f5423ae9219342b41b7a4904
+year: 1999
+file:
+  '%#!COVER.ANS':
+    mimetype: text/plain
+  '%#!NEWS.ANS':
+    mimetype: text/plain
+  13-DAR01.ANS:
+    mimetype: text/plain
+  13-DAR02.ANS:
+    mimetype: text/plain
+  BIZ-BMAI.ANS:
+    mimetype: text/plain
+  BIZ-EU.ANS:
+    mimetype: text/plain
+  BIZ-PLF2.ANS:
+    mimetype: text/plain
+  BYM-05.ANS:
+    mimetype: text/plain
+  BYM-007.ANS:
+    mimetype: text/plain
+  BYM-12G.ANS:
+    mimetype: text/plain
+  BYM-COM.ANS:
+    mimetype: text/plain
+  BYM-DRL.ANS:
+    mimetype: text/plain
+  DEV-DSN.ASC:
+    mimetype: text/plain
+  DIN!PUH.ANS:
+    mimetype: text/plain
+  EMK-VOD.ASC:
+    mimetype: text/plain
+  EN-PLF.ANS:
+    mimetype: text/plain
+  FAT-PLF9.RIP:
+    mimetype: image/x-rip
+  FEL-HATA.RIP:
+    mimetype: image/x-rip
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  IPH-MELL.ASC:
+    mimetype: text/plain
+  K!3DFX.ANS:
+    mimetype: text/plain
+  K!EVIL.RIP:
+    mimetype: image/x-rip
+  K!KANSKE.ANS:
+    mimetype: text/plain
+  K!KIM.RIP:
+    mimetype: image/x-rip
+  K!RDARK.ANS:
+    mimetype: text/plain
+  ML-YOPLF.ASC:
+    mimetype: text/plain
+  MMANG-7.ANS:
+    mimetype: text/plain
+  MMANG-BM.ANS:
+    mimetype: text/plain
+  MMANG-DL.ANS:
+    mimetype: text/plain
+  MMANG-GT.ANS:
+    mimetype: text/plain
+  PK!_B2K4.RIP:
+    mimetype: image/x-rip
+  PK!_B2K6.RIP:
+    mimetype: image/x-rip
+  PK!ANGLA.RIP:
+    mimetype: image/x-rip
+  PK!KNGHT.RIP:
+    mimetype: image/x-rip
+  PLC-M2.ANS:
+    mimetype: text/plain
+  ZM-EN.ASC:
+    mimetype: text/plain
+  ZM-R666.ANS:
+    mimetype: text/plain

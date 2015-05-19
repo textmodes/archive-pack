@@ -1,0 +1,78 @@
+name: gel-001.zip
+hash: aa19577832279f97e7c1976203dcba9c
+year: 1997
+file:
+  BBSAD.ZIP:
+    mimetype: application/zip
+  BIG.ANS:
+    mimetype: text/plain
+  CH01.ANS:
+    mimetype: text/plain
+  CH02.ANS:
+    mimetype: text/plain
+  CH03.ANS:
+    mimetype: text/plain
+  CH04.ANS:
+    mimetype: text/plain
+  CH05.ANS:
+    mimetype: text/plain
+  CH06.ANS:
+    mimetype: text/plain
+  CH07.ANS:
+    mimetype: text/plain
+  CH08.ANS:
+    mimetype: text/plain
+  CH09.ANS:
+    mimetype: text/plain
+  CH10.ANS:
+    mimetype: text/plain
+  CHATMENU.ZIP:
+    mimetype: application/zip
+  COLOUR.ZIP:
+    mimetype: application/zip
+  DESC.SDI:
+    mimetype: application/octet-stream
+  DOSSHUTL.ZIP:
+    mimetype: application/zip
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GEL.NFO:
+    mimetype: text/plain
+  GEL_APP.EXE:
+    mimetype: application/x-msdos-program
+  GEL1.GIF:
+    mimetype: image/gif
+  GEL1.JPG:
+    mimetype: image/jpeg
+  GEL2.ANS:
+    mimetype: text/plain
+  GEL2.GIF:
+    mimetype: image/gif
+  GEL2.JPG:
+    mimetype: image/jpeg
+  GEL3.GIF:
+    mimetype: image/gif
+  GEL3.JPG:
+    mimetype: image/jpeg
+  GEL4.JPG:
+    mimetype: image/jpeg
+  GEL5.JPG:
+    mimetype: image/jpeg
+  GEL6.JPG:
+    mimetype: image/jpeg
+  GELHTML.ZIP:
+    mimetype: application/zip
+  IC01.ANS:
+    mimetype: text/plain
+  IC02.ANS:
+    mimetype: text/plain
+  IC03.ANS:
+    mimetype: text/plain
+  IC04.ANS:
+    mimetype: text/plain
+  IC05.ANS:
+    mimetype: text/plain
+  M1GEL.ANS:
+    mimetype: text/plain
+  OURINFO.ANS:
+    mimetype: text/plain

@@ -1,0 +1,60 @@
+name: plf-0899.zip
+hash: 57fbe1f675ebcbf92e8ce1c4e6e34d70
+year: 1999
+file:
+  '%#!COVER.ANS':
+    mimetype: text/plain
+  '%#!NEWS.ANS':
+    mimetype: text/plain
+  13-POPS.ANS:
+    mimetype: text/plain
+  13-ULESS.ANS:
+    mimetype: text/plain
+  AVE-BLL.ANS:
+    mimetype: text/plain
+  AVE-FOKU.ANS:
+    mimetype: text/plain
+  BYM-ATCK.ANS:
+    mimetype: text/plain
+  BYM-CORE.ANS:
+    mimetype: text/plain
+  DEV-REMO.ASC:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  IPH-WEE2.ASC:
+    mimetype: text/plain
+  K!MEL.ANS:
+    mimetype: text/plain
+  K!NW2.ANS:
+    mimetype: text/plain
+  K!WCRAFT.ANS:
+    mimetype: text/plain
+  MMANG-FI.ANS:
+    mimetype: text/plain
+  PK!BODY.RIP:
+    mimetype: image/x-rip
+  PK!PROMO.RIP:
+    mimetype: image/x-rip
+  T-SA.ANS:
+    mimetype: text/plain
+  T-TDF.ANS:
+    mimetype: text/plain
+  US-BCE.ASC:
+    mimetype: text/plain
+  US-JKL.ASC:
+    mimetype: text/plain
+  US-NAP.RIP:
+    mimetype: image/x-rip
+  US-SPIN.ANS:
+    mimetype: text/plain
+  Z-MELLOW.ANS:
+    mimetype: text/plain
+  Z-POIES.ANS:
+    mimetype: text/plain
+  Z-SCENE.ANS:
+    mimetype: text/plain
+  Z-WTF.ANS:
+    mimetype: text/plain
+  ZZ%#!END.ZZZ:
+    mimetype: text/plain

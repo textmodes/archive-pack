@@ -1,0 +1,120 @@
+name: bmbook20.zip
+hash: aeda2b282ed27a7666639b25a429eb5c
+year: 1999
+file:
+  '&COVER20.ANS':
+    mimetype: text/plain
+  --ANS---.---:
+    mimetype: text/plain
+  --ASCII-.---:
+    mimetype: application/octet-stream
+  --BV---.---:
+    mimetype: application/octet-stream
+  --DIZ--.---:
+    mimetype: application/octet-stream
+  --MISC--.---:
+    mimetype: application/octet-stream
+  --NFO---.---:
+    mimetype: application/octet-stream
+  --VGA---.---:
+    mimetype: application/octet-stream
+  -THE-END.---:
+    mimetype: application/octet-stream
+  3_ALC.ANS:
+    mimetype: text/plain
+  3_COLLY.ASC:
+    mimetype: text/plain
+  3_MUCH.JPG:
+    mimetype: image/jpeg
+  3_POEZD.JPG:
+    mimetype: image/jpeg
+  13-DAYS.ANS:
+    mimetype: text/plain
+  99EVOKE2.NFO:
+    mimetype: text/plain
+  AVE-B2K4.ANS:
+    mimetype: text/plain
+  AVE-BAL.ANS:
+    mimetype: text/plain
+  AVE-CL18.ANS:
+    mimetype: text/plain
+  AVE-CLCO.ANS:
+    mimetype: text/plain
+  AVE-LRMX.ANS:
+    mimetype: text/plain
+  AVE-MEK.ASC:
+    mimetype: text/plain
+  AVE-VII.ANS:
+    mimetype: text/plain
+  BM-20.TXT:
+    mimetype: text/plain
+  BM-BBB.TXT:
+    mimetype: text/plain
+  BMBOOK20.NFO:
+    mimetype: text/plain
+  BV.DOC:
+    mimetype: text/plain
+  BV.EXE:
+    mimetype: application/x-msdos-program
+  BV.INI:
+    mimetype: application/octet-stream
+  CP-BMCHK.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  K-ICE.ANS:
+    mimetype: text/plain
+  K-SCHOOL.LIT:
+    mimetype: text/plain
+  K-YAWN.ANS:
+    mimetype: text/plain
+  LE-BLEND.ANS:
+    mimetype: text/plain
+  LE-WIZ.ANS:
+    mimetype: text/plain
+  NZ-JUS.JPG:
+    mimetype: image/jpeg
+  SHN-FATE.ANS:
+    mimetype: text/plain
+  SHN-KISS.JPG:
+    mimetype: image/jpeg
+  SHN-MSHL.ASC:
+    mimetype: text/plain
+  ST-BM20.ANS:
+    mimetype: text/plain
+  T-ASA.ANS:
+    mimetype: text/plain
+  T-DIRT.ANS:
+    mimetype: text/plain
+  T-PLFH.ANS:
+    mimetype: text/plain
+  T-UMBALA.ANS:
+    mimetype: text/plain
+  US-APUB.ANS:
+    mimetype: text/plain
+  US-BM.ANS:
+    mimetype: text/plain
+  US-ESC.ANS:
+    mimetype: text/plain
+  US-GDRAW.ANS:
+    mimetype: text/plain
+  US-KLEXI.ANS:
+    mimetype: text/plain
+  US-LIGHT.ANS:
+    mimetype: text/plain
+  US-PONR.ANS:
+    mimetype: text/plain
+  US-REAL.ANS:
+    mimetype: text/plain
+  VC-ELECT.JPG:
+    mimetype: image/jpeg
+  VC-FLASH.JPG:
+    mimetype: image/jpeg
+  VC-GOTH.JPG:
+    mimetype: image/jpeg
+  WDRAW10.ZIP:
+    mimetype: application/zip
+  ZIP-DARK.ANS:
+    mimetype: text/plain
+  ZZZZZZZZ.ANS:
+    mimetype: text/plain

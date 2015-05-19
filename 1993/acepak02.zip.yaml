@@ -1,0 +1,22 @@
+name: acepak02.zip
+hash: 8caaf31b8bb743dec87bbfdbc5fbda2d
+year: 1993
+file:
+  ACE.APP:
+    mimetype: application/octet-stream
+  ACE.NFO:
+    mimetype: text/plain
+  DD-BODY.GIF:
+    mimetype: image/gif
+  DD-DREAM.GIF:
+    mimetype: image/gif
+  EB-MEM.ACE:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  SD-DARKS.GIF:
+    mimetype: image/gif
+  SD-IDARK.GIF:
+    mimetype: image/gif
+  SD-METAL.GIF:
+    mimetype: image/gif

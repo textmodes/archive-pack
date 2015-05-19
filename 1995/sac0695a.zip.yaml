@@ -1,0 +1,188 @@
+name: sac0695a.zip
+hash: 8d463cf283180a3647f158cb20e2c274
+year: 1995
+file:
+  AC-MINOR.MOD:
+    mimetype: audio/x-mod
+  AC-SQUAR.MOD:
+    mimetype: audio/x-mod
+  DD-DYTEC.EXE:
+    mimetype: application/x-msdos-program
+  DD-DYTEC.LBM:
+    mimetype: application/octet-stream
+  DD-GNS.LBM:
+    mimetype: application/octet-stream
+  DD-KRYN.LBM:
+    mimetype: application/octet-stream
+  DD-TDUJM.LBM:
+    mimetype: application/octet-stream
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GIO-DING.DMF:
+    mimetype: application/octet-stream
+  GIO-GHDN.DMF:
+    mimetype: application/octet-stream
+  GIO-POLK.DMF:
+    mimetype: application/octet-stream
+  HT-AMI2.ANS:
+    mimetype: text/plain
+  HT-BJINT.EXE:
+    mimetype: application/x-msdos-program
+  HT-CFS1.ANS:
+    mimetype: text/plain
+  HT-CONS.ANS:
+    mimetype: text/plain
+  HT-DTC2.ANS:
+    mimetype: text/plain
+  HT-DTC21.EXE:
+    mimetype: application/x-msdos-program
+  HT-ECL1.ASC:
+    mimetype: text/plain
+  HT-ECL1.EXE:
+    mimetype: application/x-msdos-program
+  HT-EF3.ANS:
+    mimetype: text/plain
+  HT-EF3.COM:
+    mimetype: application/x-msdos-program
+  HT-GNS1.ASC:
+    mimetype: text/plain
+  HT-GNS2.EXE:
+    mimetype: application/x-msdos-program
+  HT-HLM1.EXE:
+    mimetype: application/x-msdos-program
+  HT-ID2.ANS:
+    mimetype: text/plain
+  HT-KRYN.EXE:
+    mimetype: application/x-msdos-program
+  HT-PC2N.ANS:
+    mimetype: text/plain
+  HT-REQS.ANS:
+    mimetype: text/plain
+  HT-TDU1.ASC:
+    mimetype: text/plain
+  HT-TDUJ.EXE:
+    mimetype: application/x-msdos-program
+  HT-TMD.COM:
+    mimetype: application/x-msdos-program
+  HT-UL2.ANS:
+    mimetype: text/plain
+  RN-DARK.MOD:
+    mimetype: audio/x-mod
+  RN-DEMON.MOD:
+    mimetype: audio/x-mod
+  RN-FIRST.MOD:
+    mimetype: audio/x-mod
+  RN-VISIO.S3M:
+    mimetype: audio/x-mod
+  ROY-ARI.ANS:
+    mimetype: text/plain
+  ROY-ASL2.ASC:
+    mimetype: text/plain
+  ROY-BC.ANS:
+    mimetype: text/plain
+  ROY-BC.LBM:
+    mimetype: application/octet-stream
+  ROY-BJ.ANS:
+    mimetype: text/plain
+  ROY-BJ1.ASC:
+    mimetype: text/plain
+  ROY-BJ2.ASC:
+    mimetype: text/plain
+  ROY-CGR1.ASC:
+    mimetype: text/plain
+  ROY-CGRD.ASC:
+    mimetype: text/plain
+  ROY-COC.ASC:
+    mimetype: text/plain
+  ROY-DLND.ANS:
+    mimetype: text/plain
+  ROY-ECL.ASC:
+    mimetype: text/plain
+  ROY-ECL2.ASC:
+    mimetype: text/plain
+  ROY-HDL.ASC:
+    mimetype: text/plain
+  ROY-ISH.ASC:
+    mimetype: text/plain
+  ROY-LSD.EXE:
+    mimetype: application/x-msdos-program
+  ROY-LSD1.ANS:
+    mimetype: text/plain
+  ROY-LSD2.ANS:
+    mimetype: text/plain
+  ROY-LSD3.ANS:
+    mimetype: text/plain
+  ROY-LSD3.ASC:
+    mimetype: text/plain
+  ROY-LSD5.ANS:
+    mimetype: text/plain
+  ROY-LSD5.ASC:
+    mimetype: text/plain
+  ROY-MDMA.ASC:
+    mimetype: text/plain
+  ROY-MF.ANS:
+    mimetype: text/plain
+  ROY-OOTB.ASC:
+    mimetype: text/plain
+  ROY-PCBC.ANS:
+    mimetype: text/plain
+  ROY-RZR3.ASC:
+    mimetype: text/plain
+  ROY-TDJ.ASC:
+    mimetype: text/plain
+  ROY-TDUJ.ANS:
+    mimetype: text/plain
+  ROY-TRN.ASC:
+    mimetype: text/plain
+  ROY-XOV1.ASC:
+    mimetype: text/plain
+  ROY-XOVR.ANS:
+    mimetype: text/plain
+  RS-SHOG.ANS:
+    mimetype: text/plain
+  SAC-C11.ZIP:
+    mimetype: application/zip
+  SAC-FS1.ZIP:
+    mimetype: application/zip
+  SAC-MSG.ZIP:
+    mimetype: application/zip
+  SAC-TP15.ZIP:
+    mimetype: application/zip
+  SAC.NFO:
+    mimetype: text/plain
+  SACTRO.EXE:
+    mimetype: application/x-msdos-program
+  ST-AID2.ANS:
+    mimetype: text/plain
+  ST-AMIN.ANS:
+    mimetype: text/plain
+  ST-CART.ANS:
+    mimetype: text/plain
+  ST-CFG.ANS:
+    mimetype: text/plain
+  ST-FOUT.ANS:
+    mimetype: text/plain
+  ST-ITEM.ANS:
+    mimetype: text/plain
+  ST-LOGIN.ANS:
+    mimetype: text/plain
+  ST-MESSI.ANS:
+    mimetype: text/plain
+  ST-NNAME.ANS:
+    mimetype: text/plain
+  ST-OXID.ANS:
+    mimetype: text/plain
+  ST-OXLOG.ANS:
+    mimetype: text/plain
+  ST-OXMNU.ANS:
+    mimetype: text/plain
+  ST-SETUP.ANS:
+    mimetype: text/plain
+  ST-UPLOA.ANS:
+    mimetype: text/plain
+  TOX-EWIG.DMF:
+    mimetype: application/octet-stream
+  TOX-HAP3.XM:
+    mimetype: audio/x-mod
+  TOX-HAPP.XM:
+    mimetype: audio/x-mod

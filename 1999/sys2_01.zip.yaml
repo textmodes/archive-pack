@@ -1,0 +1,46 @@
+name: sys2_01.zip
+hash: 99b5355f7a6d3f35f4cc0748a2ee7a8d
+year: 1999
+file:
+  43-NORD.ASC:
+    mimetype: text/plain
+  43-RMRS.ASC:
+    mimetype: text/plain
+  43-SYS2.ASC:
+    mimetype: text/plain
+  43-spast.asc:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  SYS2.NFO:
+    mimetype: text/plain
+  ZS-ARMX.ANS:
+    mimetype: text/plain
+  ZS-DIE.ANS:
+    mimetype: text/plain
+  ZS-FIRE.ANS:
+    mimetype: text/plain
+  ZS-KINE.ANS:
+    mimetype: text/plain
+  ZS-RMRS.ANS:
+    mimetype: text/plain
+  ZS-TRUE.ANS:
+    mimetype: text/plain
+  ZS-VID2.ANS:
+    mimetype: text/plain
+  zs-%.ans:
+    mimetype: text/plain
+  zs-acid4.ans:
+    mimetype: text/plain
+  zs-drmii.ans:
+    mimetype: text/plain
+  zs-elem.ans:
+    mimetype: text/plain
+  zs-light.ans:
+    mimetype: text/plain
+  zs-milan.ans:
+    mimetype: text/plain
+  zs-sysii3.ans:
+    mimetype: text/plain
+  zs-vsn.ans:
+    mimetype: text/plain

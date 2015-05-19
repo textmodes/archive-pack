@@ -1,0 +1,26 @@
+name: mpb08.zip
+hash: 6bcf92f2e7a67c3d78326d75fe19d7de
+year: 1994
+file:
+  BWCC.DLL:
+    mimetype: application/x-dosexec
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GM.INS:
+    mimetype: text/plain
+  GS.INS:
+    mimetype: text/plain
+  MIDITHRU.DLL:
+    mimetype: application/x-dosexec
+  MPB.EXE:
+    mimetype: application/x-msdos-program
+  MPB.INI:
+    mimetype: text/plain
+  MPB.WRI:
+    mimetype: application/octet-stream
+  MT32.INS:
+    mimetype: text/plain
+  PROTEUS.INS:
+    mimetype: text/plain
+  ULTRA206.INS:
+    mimetype: text/plain

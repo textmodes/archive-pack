@@ -1,0 +1,56 @@
+name: dlc-02.zip
+hash: d4d3ae1810fb2e6c34ea983d074369ab
+year: 1998
+file:
+  ART-02.NFO:
+    mimetype: text/plain
+  DLC.NFO:
+    mimetype: text/plain
+  DLC.REG:
+    mimetype: application/octet-stream
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  HA-ALN.ASC:
+    mimetype: text/plain
+  HA-DLC3.ASC:
+    mimetype: text/plain
+  HA-H.ASC:
+    mimetype: text/plain
+  HA-RP2.ASC:
+    mimetype: text/plain
+  HA-RP3.ASC:
+    mimetype: text/plain
+  HA-STR.ASC:
+    mimetype: text/plain
+  HA-TN.ASC:
+    mimetype: text/plain
+  HA-UPLD.ASC:
+    mimetype: text/plain
+  HC_AP.ANS:
+    mimetype: text/plain
+  HC_ASC01.ANS:
+    mimetype: text/plain
+  HC_BBS.ANS:
+    mimetype: text/plain
+  HC_DTP.ASC:
+    mimetype: text/plain
+  HC_DTPN.ANS:
+    mimetype: text/plain
+  HC_FR13.ASC:
+    mimetype: text/plain
+  HC_HKRS.ASC:
+    mimetype: text/plain
+  HC_LOG.ASC:
+    mimetype: text/plain
+  HC_QZR.ANS:
+    mimetype: text/plain
+  HC_RP_LG.ANS:
+    mimetype: text/plain
+  RB!^SL.ASC:
+    mimetype: text/plain
+  RB!^SL2.ASC:
+    mimetype: text/plain
+  RDTN.JPG:
+    mimetype: image/jpeg
+  REACTOR.NFO:
+    mimetype: text/plain

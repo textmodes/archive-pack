@@ -1,0 +1,72 @@
+name: rctpak03.zip
+hash: 1ce9c6f98174d1abb2ed5e79ef41302a
+year: 1994
+file:
+  APOC_AD.ANS:
+    mimetype: text/plain
+  BL-BSTIC.LIT:
+    mimetype: text/plain
+  BL-KOD.LIT:
+    mimetype: text/plain
+  DD-APP.LIT:
+    mimetype: text/plain
+  DD-BLADE.LIT:
+    mimetype: text/plain
+  DD-DARK.LIT:
+    mimetype: text/plain
+  DD-GOD.LIT:
+    mimetype: text/plain
+  DJ-RCT01.ANS:
+    mimetype: text/plain
+  DJ-RCT01.GIF:
+    mimetype: image/gif
+  DJ-RCT02.ANS:
+    mimetype: text/plain
+  DJ-RCT02.GIF:
+    mimetype: image/gif
+  DJ-RCT03.ANS:
+    mimetype: text/plain
+  DJ-RCT03.GIF:
+    mimetype: image/gif
+  DJ-RCT04.ANS:
+    mimetype: text/plain
+  DJ-RCT05.ANS:
+    mimetype: text/plain
+  DJ-RCT06.ANS:
+    mimetype: text/plain
+  DJ-RCT07.ANS:
+    mimetype: text/plain
+  DR-BLHON.LIT:
+    mimetype: text/plain
+  DR-DEAD.LIT:
+    mimetype: text/plain
+  DR-DIE.LIT:
+    mimetype: text/plain
+  DR-PIT.LIT:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  HLO-CRYP.ANS:
+    mimetype: text/plain
+  HLO-HAVC.ANS:
+    mimetype: text/plain
+  KOD.COM:
+    mimetype: application/x-msdos-program
+  LLMALLND.ANS:
+    mimetype: text/plain
+  PCBMNU03.ANS:
+    mimetype: text/plain
+  PCBSYS03.ANS:
+    mimetype: text/plain
+  REACTOR.MEM:
+    mimetype: text/plain
+  REACTOR.NFO:
+    mimetype: text/plain
+  TF-BV01.LIT:
+    mimetype: text/plain
+  TF-PD03M.ANS:
+    mimetype: text/plain
+  TF-PDTHD.ANS:
+    mimetype: text/plain
+  UTOPIA.EXE:
+    mimetype: application/x-msdos-program

@@ -1,0 +1,118 @@
+name: plan9-03.zip
+hash: a956aeb265382d6714c7a35c59adf6e2
+year: 1997
+file:
+  -ANSI-.---:
+    mimetype: application/octet-stream
+  -ASCII-.---:
+    mimetype: application/octet-stream
+  -END-.---:
+    mimetype: application/octet-stream
+  -INTRO-.---:
+    mimetype: application/octet-stream
+  -MISC-.---:
+    mimetype: application/octet-stream
+  -MUSIC-.---:
+    mimetype: application/octet-stream
+  -VGA-.---:
+    mimetype: application/octet-stream
+  69VIEW.EXE:
+    mimetype: application/x-msdos-program
+  BF-69V1.ANS:
+    mimetype: text/plain
+  BF-DOH1.ANS:
+    mimetype: text/plain
+  BF-DOH2.ANS:
+    mimetype: text/plain
+  BF-TDU2.ANS:
+    mimetype: text/plain
+  BF-TSU1.ASC:
+    mimetype: text/plain
+  BF-VORT1.ANS:
+    mimetype: text/plain
+  BF-VORT2.ANS:
+    mimetype: text/plain
+  BF-VORT3.ANS:
+    mimetype: text/plain
+  BF-VORT4.ANS:
+    mimetype: text/plain
+  BF-VORT5.ANS:
+    mimetype: text/plain
+  BF-VORT6.ANS:
+    mimetype: text/plain
+  CG-EN.ASC:
+    mimetype: text/plain
+  CG-NEXUS.ANS:
+    mimetype: text/plain
+  CT-DK2.TXT:
+    mimetype: text/plain
+  DE-FC.ASC:
+    mimetype: text/plain
+  DE-LCAL.ASC:
+    mimetype: text/plain
+  FECALAPP.ZIP:
+    mimetype: application/zip
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FL-COL1.ANS:
+    mimetype: text/plain
+  I!-SEWAG.ASC:
+    mimetype: text/plain
+  KN-POD3.JPG:
+    mimetype: image/jpeg
+  KN-ZERO.JPG:
+    mimetype: image/jpeg
+  LK-GDBYE.XM:
+    mimetype: audio/x-mod
+  LK-RVLTN.XM:
+    mimetype: audio/x-mod
+  LK-VORT.ANS:
+    mimetype: text/plain
+  LN-DIST.XM:
+    mimetype: audio/x-mod
+  LN-P9AD1.JPG:
+    mimetype: image/jpeg
+  ME-OPT.ANS:
+    mimetype: text/plain
+  ME-P91.ANS:
+    mimetype: text/plain
+  PK-KNI1.JPG:
+    mimetype: image/jpeg
+  PK-POD1.EXE:
+    mimetype: application/x-msdos-program
+  PK-UFO.JPG:
+    mimetype: image/jpeg
+  PLAN9-03.BBS:
+    mimetype: text/plain
+  PLAN9-03.MEM:
+    mimetype: text/plain
+  PLAN9-03.NFO:
+    mimetype: text/plain
+  PLAN9-AP.EXE:
+    mimetype: application/x-msdos-program
+  PY-KAOLI.ASC:
+    mimetype: text/plain
+  PY-PEZ.ASC:
+    mimetype: text/plain
+  PY-PLAN9.ASC:
+    mimetype: text/plain
+  RP1-PLN9.ANS:
+    mimetype: text/plain
+  RR-P91.JPG:
+    mimetype: image/jpeg
+  RR-TRASH.JPG:
+    mimetype: image/jpeg
+  SM-GOOFY.ANS:
+    mimetype: text/plain
+  SM-HOLE2.ASC:
+    mimetype: text/plain
+  SM-ICE01.ANS:
+    mimetype: text/plain
+  SM-INFO!.ANS:
+    mimetype: text/plain
+  SM-PL902.ANS:
+    mimetype: text/plain
+  SM-VENOM.ASC:
+    mimetype: text/plain
+  SM-XP!01.ASC:
+    mimetype: text/plain

@@ -1,0 +1,94 @@
+name: tly-0795.zip
+hash: de4eabeb429ebcaf66c7d90732d7fa02
+year: 1995
+file:
+  -SACRED-.COM:
+    mimetype: application/x-msdos-program
+  CD-ANAIA.TLY:
+    mimetype: text/plain
+  CD-BPC.TLY:
+    mimetype: text/plain
+  CD-DOS95.TLY:
+    mimetype: text/plain
+  CD-EQ.TLY:
+    mimetype: text/plain
+  CD-FD.TLY:
+    mimetype: text/plain
+  CD-GD.TLY:
+    mimetype: text/plain
+  CD-GS.TLY:
+    mimetype: text/plain
+  CD-IMG.TLY:
+    mimetype: text/plain
+  CD-KORT1.TLY:
+    mimetype: text/plain
+  CD-KT.TLY:
+    mimetype: text/plain
+  CD-L2H.TLY:
+    mimetype: text/plain
+  CD-MA.TLY:
+    mimetype: text/plain
+  CD-MENTO.TLY:
+    mimetype: text/plain
+  CD-MENU.TLY:
+    mimetype: text/plain
+  CD-MO.TLY:
+    mimetype: text/plain
+  CD-NDM1.TLY:
+    mimetype: text/plain
+  CD-NDM2.TLY:
+    mimetype: text/plain
+  CD-NDMM.TLY:
+    mimetype: text/plain
+  CD-NTMM.TLY:
+    mimetype: text/plain
+  CD-PS.TLY:
+    mimetype: text/plain
+  CD-SG.TLY:
+    mimetype: text/plain
+  CD-TCMM.TLY:
+    mimetype: text/plain
+  CD-TLY05.TLY:
+    mimetype: text/plain
+  CD-WIR.TLY:
+    mimetype: text/plain
+  CD-XE.TLY:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GROUNDS.NFO:
+    mimetype: text/plain
+  SACRED/-SACRED-.COM:
+    mimetype: application/x-msdos-program
+  SACRED/GROUNDS.NFO:
+    mimetype: text/plain
+  SF-AGS01.TLY:
+    mimetype: text/plain
+  SF-ASY01.TLY:
+    mimetype: text/plain
+  SF-BM02.TLY:
+    mimetype: text/plain
+  SF-DIZ.TLY:
+    mimetype: text/plain
+  SF-DW02.TLY:
+    mimetype: text/plain
+  SF-EQU01.TLY:
+    mimetype: text/plain
+  SF-ND02.TLY:
+    mimetype: text/plain
+  SF-SWA01.TLY:
+    mimetype: text/plain
+  SF-TLY04.TLY:
+    mimetype: text/plain
+  SF-TRB01.TLY:
+    mimetype: application/octet-stream
+  TLY-APP.EXE:
+    mimetype: application/x-msdos-program
+  TLY-BRDS.NFO:
+    mimetype: text/plain
+  TLY-MBRS.NFO:
+    mimetype: text/plain
+  TLY-NEWS.NFO:
+    mimetype: text/plain
+  TLY-RELS.NFO:
+    mimetype: text/plain

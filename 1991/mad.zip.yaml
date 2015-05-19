@@ -1,0 +1,42 @@
+name: mad.zip
+hash: 9941d41090415c76a9f6aa40af545a39
+year: 1991
+file:
+  IF-CEREB.MAD:
+    mimetype: text/plain
+  MB-GENER.MAD:
+    mimetype: text/plain
+  MB-SHQ3.MAD:
+    mimetype: text/plain
+  MB-SHQ4.MAD:
+    mimetype: text/plain
+  MB-SHQ6.MAD:
+    mimetype: text/plain
+  MB-ZOO.MAD:
+    mimetype: text/plain
+  MS-LODD.MAD:
+    mimetype: text/plain
+  MS-MANIF.MAD:
+    mimetype: text/plain
+  TO-ANARC.MAD:
+    mimetype: text/plain
+  TO-FORKU.MAD:
+    mimetype: text/plain
+  TO-FROST.MAD:
+    mimetype: text/plain
+  TO-GZERO.MAD:
+    mimetype: text/plain
+  TO-MAD1.MAD:
+    mimetype: text/plain
+  TO-MAD2.MAD:
+    mimetype: text/plain
+  TO-NINJA.MAD:
+    mimetype: text/plain
+  ZE-BEYON.MAD:
+    mimetype: text/plain
+  ZE-MAD.MAD:
+    mimetype: text/plain
+  ZE-QUAKE.MAD:
+    mimetype: text/plain
+  ZE-RED.MAD:
+    mimetype: text/plain

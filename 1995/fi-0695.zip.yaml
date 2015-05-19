@@ -1,0 +1,78 @@
+name: fi-0695.zip
+hash: 5ea8e0d0cfd5c783855022d1b2df3a81
+year: 1995
+file:
+  CN-YOU.LIT:
+    mimetype: text/plain
+  EG-BLIP.MOD:
+    mimetype: audio/x-mod
+  FI-FILES.NFO:
+    mimetype: text/plain
+  FI-NEWS.NFO:
+    mimetype: text/plain
+  FI-SITES.NFO:
+    mimetype: text/plain
+  FI-STAFF.NFO:
+    mimetype: text/plain
+  FI-VIEW.EXE:
+    mimetype: application/x-msdos-program
+  FI-VIEW.NFO:
+    mimetype: text/plain
+  FILE_ID.DI2:
+    mimetype: text/plain
+  FILE_ID.DI3:
+    mimetype: text/plain
+  FILE_ID.DI4:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FILE_ID.UPC:
+    mimetype: text/plain
+  MM-NIN.MOD:
+    mimetype: audio/x-mod
+  NEO.COM:
+    mimetype: application/x-msdos-program
+  NV-FID.ANS:
+    mimetype: text/plain
+  NV-LABY.ANS:
+    mimetype: text/plain
+  SC-LOGO5.ANS:
+    mimetype: text/plain
+  SC-RHYTH.ANS:
+    mimetype: text/plain
+  SP-DIVE.LIT:
+    mimetype: text/plain
+  SP-DOZEN.LIT:
+    mimetype: text/plain
+  SP-MANIC.LIT:
+    mimetype: text/plain
+  SP-STAR.LIT:
+    mimetype: text/plain
+  SP-TB.LIT:
+    mimetype: text/plain
+  SP-THEWA.LIT:
+    mimetype: text/plain
+  SP-ZILLA.LIT:
+    mimetype: text/plain
+  TC-CYBR1.ANS:
+    mimetype: text/plain
+  TC-GOL1.ANS:
+    mimetype: text/plain
+  TC-LOD1.ANS:
+    mimetype: text/plain
+  TC-MENUS.ANS:
+    mimetype: text/plain
+  TC-TNW1.ANS:
+    mimetype: text/plain
+  TC-TNW2.ANS:
+    mimetype: text/plain
+  TC-VOID.ANS:
+    mimetype: text/plain
+  VN-ABYSS.ANS:
+    mimetype: text/plain
+  YA-CYBER.ANS:
+    mimetype: text/plain
+  YA-FI.ASC:
+    mimetype: text/plain
+  YA-STAT.ANS:
+    mimetype: text/plain

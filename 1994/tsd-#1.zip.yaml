@@ -1,0 +1,44 @@
+name: tsd-#1.zip
+hash: a63143b2086ef388e0da8adcc7ed1eb8
+year: 1994
+file:
+  CD-HIT01.ANS:
+    mimetype: text/plain
+  CD-TER01.ANS:
+    mimetype: text/plain
+  CD-TER02.ANS:
+    mimetype: text/plain
+  CD-TER03.ANS:
+    mimetype: text/plain
+  CD-TER04.ANS:
+    mimetype: text/plain
+  CD-TER05.ANS:
+    mimetype: text/plain
+  CD-TER06.ANS:
+    mimetype: text/plain
+  CD-TER07.ANS:
+    mimetype: text/plain
+  CD-TRT01.ANS:
+    mimetype: text/plain
+  CD-TSD01.ANS:
+    mimetype: text/plain
+  CD-TSD02.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  HACK-TDF.ZIP:
+    mimetype: application/zip
+  HORR-TDF.ZIP:
+    mimetype: application/zip
+  HOUN-TDF.ZIP:
+    mimetype: application/zip
+  MEMAPPLY.DOC:
+    mimetype: text/plain
+  NEO.COM:
+    mimetype: application/x-msdos-program
+  REAP-TDF.ZIP:
+    mimetype: application/zip
+  TERROR.EXE:
+    mimetype: application/x-msdos-program
+  THUN-TDF.ZIP:
+    mimetype: application/zip

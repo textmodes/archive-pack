@@ -1,0 +1,64 @@
+name: nrg-art3.zip
+hash: eca6c3432c2dd0222468523b8dc726e8
+year: 1999
+file:
+  BSW-M&D.JPG:
+    mimetype: image/jpeg
+  D2-SLB.ASC:
+    mimetype: text/plain
+  D2-STAR.ASC:
+    mimetype: text/plain
+  D2-TGBWS.ASC:
+    mimetype: text/plain
+  DE-GERB.JPG:
+    mimetype: image/jpeg
+  DE_NRG.JPG:
+    mimetype: image/jpeg
+  DE_XM.JPG:
+    mimetype: image/jpeg
+  DRM-4GD.ANS:
+    mimetype: text/plain
+  DRM-BRTN.ANS:
+    mimetype: text/plain
+  DRM-CD.RIP:
+    mimetype: image/x-rip
+  DRM-D2.ANS:
+    mimetype: text/plain
+  DRM-DLC.ANS:
+    mimetype: text/plain
+  DRM-DRM.RIP:
+    mimetype: image/x-rip
+  DRM-HOB3.ANS:
+    mimetype: text/plain
+  DRM-LINX.ANS:
+    mimetype: text/plain
+  DRM-PDOX.ANS:
+    mimetype: text/plain
+  DRM-PSCH.ASC:
+    mimetype: text/plain
+  DRM-STAR.ANS:
+    mimetype: text/plain
+  DRM-ZEMF.RIP:
+    mimetype: image/x-rip
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  KAM-UFO.JPG:
+    mimetype: image/jpeg
+  MCM-EN45.JPG:
+    mimetype: image/jpeg
+  MCM-GRAY.JPG:
+    mimetype: image/jpeg
+  MCM-PX99.JPG:
+    mimetype: image/jpeg
+  MCM-SEAL.JPG:
+    mimetype: image/jpeg
+  NRG.NFO:
+    mimetype: text/plain
+  PIC-DNC.JPG:
+    mimetype: image/jpeg
+  PIC-TIME.JPG:
+    mimetype: image/jpeg
+  STARLITE.BRD:
+    mimetype: application/octet-stream
+  TIMEFLOW.NFO:
+    mimetype: text/plain

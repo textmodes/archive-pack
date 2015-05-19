@@ -1,0 +1,70 @@
+name: acdu1193.zip
+hash: 8ca38c114cca4201d956810c55f22f48
+year: 1993
+file:
+  ACDU1193.NFO:
+    mimetype: text/plain
+  ACID1093.ANS:
+    mimetype: text/plain
+  ACIDAPP.EXE:
+    mimetype: application/x-msdos-program
+  ACIDVIEW.EXE:
+    mimetype: application/x-msdos-program
+  ACIDVIEW.NFO:
+    mimetype: text/plain
+  AN-SOH1.ANS:
+    mimetype: text/plain
+  BE-TSG3.ANS:
+    mimetype: text/plain
+  BS-COR2.ANS:
+    mimetype: text/plain
+  CB-DSUN1.ANS:
+    mimetype: text/plain
+  CE-TAS1.ANS:
+    mimetype: text/plain
+  CX-CPOIS.ANS:
+    mimetype: text/plain
+  CX-CPOIS.RIP:
+    mimetype: image/x-rip
+  DT-RPTR1.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GD-ACID1.ANS:
+    mimetype: text/plain
+  GU-WEB1.ANS:
+    mimetype: text/plain
+  IM-CITY1.ANS:
+    mimetype: text/plain
+  KS-URBAN.ANS:
+    mimetype: text/plain
+  MX-CRIM1.EXE:
+    mimetype: application/x-msdos-program
+  MX-PWA1.ZIP:
+    mimetype: application/zip
+  PJ-OTE1.ANS:
+    mimetype: text/plain
+  QR-CTE1.ANS:
+    mimetype: text/plain
+  RN-BITU1.ANS:
+    mimetype: text/plain
+  RN-EOT1.ANS:
+    mimetype: text/plain
+  RN-EOT1.RIP:
+    mimetype: image/x-rip
+  RN-TAS1.RIP:
+    mimetype: image/x-rip
+  RN-TTG1.RIP:
+    mimetype: image/x-rip
+  RN-XFCT1.RIP:
+    mimetype: image/x-rip
+  RS-REDHT.ZIP:
+    mimetype: application/zip
+  SX-SBZ1.ANS:
+    mimetype: text/plain
+  SX-WEB1.ANS:
+    mimetype: text/plain
+  VP-CH01.ANS:
+    mimetype: text/plain
+  VS-CITDL.ANS:
+    mimetype: text/plain

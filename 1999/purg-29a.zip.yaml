@@ -1,0 +1,62 @@
+name: purg-29a.zip
+hash: 3cebbdedcfaf5f682e6c34248f420006
+year: 1999
+file:
+  A9-COL16.ANS:
+    mimetype: text/plain
+  A9-GATUT.ANS:
+    mimetype: text/plain
+  A9-PRG28.ANS:
+    mimetype: text/plain
+  A9-ROOBX.ANS:
+    mimetype: text/plain
+  AB-COL29.ASC:
+    mimetype: text/plain
+  AET-GORD.ANS:
+    mimetype: text/plain
+  AET-STKS.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  IN-PP99.ANS:
+    mimetype: text/plain
+  PLGO-ACT.029:
+    mimetype: text/plain
+  PLGO-MEM.029:
+    mimetype: text/plain
+  PLGO-NFO.029:
+    mimetype: application/octet-stream
+  PT-DREAM.ANS:
+    mimetype: text/plain
+  PT-GRIND.ANS:
+    mimetype: text/plain
+  PT-RAPIE.ANS:
+    mimetype: text/plain
+  SM-COLLY.ANS:
+    mimetype: text/plain
+  SZ-COW.ANS:
+    mimetype: text/plain
+  SZ-GC2.ANS:
+    mimetype: text/plain
+  TR-COL29.ANS:
+    mimetype: text/plain
+  TR-COL29.ASC:
+    mimetype: text/plain
+  TR-GC01.ANS:
+    mimetype: text/plain
+  TR-RPR01.ANS:
+    mimetype: text/plain
+  US-CERT.ANS:
+    mimetype: text/plain
+  US-GC01.ANS:
+    mimetype: text/plain
+  US-INJ1.ANS:
+    mimetype: text/plain
+  US-REF.ANS:
+    mimetype: text/plain
+  US-TEA.ASC:
+    mimetype: text/plain
+  XZ-PURG.ASC:
+    mimetype: text/plain
+  ZB-COL29.ASC:
+    mimetype: text/plain

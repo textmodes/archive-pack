@@ -1,0 +1,70 @@
+name: impact06.zip
+hash: f9dcb9cd2e3fe1fdcadd81903c31862f
+year: 1997
+file:
+  '!MP0297.NFO':
+    mimetype: text/plain
+  '!TF-!MP.ANS':
+    mimetype: text/plain
+  '!TF-FI.ANS':
+    mimetype: text/plain
+  '!TF-FREE.ANS':
+    mimetype: text/plain
+  '!TF-MBO1.ANS':
+    mimetype: text/plain
+  '!TF-MBO2.ANS':
+    mimetype: text/plain
+  '!TF-MDN.ANS':
+    mimetype: text/plain
+  '!TF-PHAT.ANS':
+    mimetype: text/plain
+  '!TF-S^M.ANS':
+    mimetype: text/plain
+  '!TF-TF.ANS':
+    mimetype: text/plain
+  '!TF-THES.ANS':
+    mimetype: text/plain
+  '!TF-TSBO.ANS':
+    mimetype: text/plain
+  AN!DREE2.ANS:
+    mimetype: text/plain
+  AN!HDR.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  README.!!!:
+    mimetype: text/plain
+  SCROLLER.EXE:
+    mimetype: application/x-msdos-program
+  T4-0BOMB.RIP:
+    mimetype: image/x-rip
+  T4-AE.RIP:
+    mimetype: image/x-rip
+  T4-APATH.RIP:
+    mimetype: image/x-rip
+  T4-CIA.ASC:
+    mimetype: text/plain
+  T4-CIA2.ASC:
+    mimetype: text/plain
+  T4-CIA3.ASC:
+    mimetype: text/plain
+  T4-EUREK.RIP:
+    mimetype: image/x-rip
+  T4-IPCT1.RIP:
+    mimetype: image/x-rip
+  T4-LOGOS.ASC:
+    mimetype: text/plain
+  T4-MYDIZ.ASC:
+    mimetype: text/plain
+  T4-NHCOL.ASC:
+    mimetype: text/plain
+  TN-PUMAN.ANS:
+    mimetype: text/plain
+  TT-AW.ANS:
+    mimetype: text/plain
+  TT-BBS.ANS:
+    mimetype: text/plain
+  TT-TT.ANS:
+    mimetype: text/plain
+  TT-W00PS.ANS:
+    mimetype: text/plain

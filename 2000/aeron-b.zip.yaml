@@ -1,0 +1,18 @@
+name: aeron-b.zip
+hash: eb6f992bcec15b32e0fc011f8e75ef3f
+year: 2000
+file:
+  ascii/aeron/ascii/Cw-rob2.asc:
+    mimetype: text/plain
+  ascii/aeron/ascii/K0n-aphx.h:
+    mimetype: text/plain
+  ascii/aeron/ascii/K0n-trip.bin:
+    mimetype: text/x-binary
+  ascii/aeron/ascii/Klu-coll.asc:
+    mimetype: text/plain
+  ascii/aeron/ascii/MEMBERS01.NFO:
+    mimetype: text/plain
+  ascii/aeron/ascii/Members01.ans:
+    mimetype: text/plain
+  ascii/aeron/ascii/file_id.diz:
+    mimetype: text/plain

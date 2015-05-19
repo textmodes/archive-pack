@@ -1,0 +1,70 @@
+name: fuel19.zip
+hash: 52eb1ed27c3dc4f29705d232529b2d3b
+year: 1997
+file:
+  --ANSI--.---:
+    mimetype: text/plain
+  --INFO--.---:
+    mimetype: text/plain
+  -THE-END.---:
+    mimetype: text/plain
+  BYM-REV.ANS:
+    mimetype: text/plain
+  DD-SIDE1.ANS:
+    mimetype: text/plain
+  EXTRA.FNO:
+    mimetype: text/plain
+  FFH-ABRA.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FUEL19.MEM:
+    mimetype: text/plain
+  FUEL19.NFO:
+    mimetype: text/plain
+  GT-FUEL2.ANS:
+    mimetype: text/plain
+  HXSEXCNJ.ASC:
+    mimetype: text/plain
+  IC-AMPH.ANS:
+    mimetype: text/plain
+  IC-FLPRM.ANS:
+    mimetype: text/plain
+  JKL-MMOR.ANS:
+    mimetype: text/plain
+  LI-CESS.ANS:
+    mimetype: text/plain
+  LI-FUEL.ANS:
+    mimetype: text/plain
+  LI-RANC.BIN:
+    mimetype: application/octet-stream
+  SD-5TH.ANS:
+    mimetype: text/plain
+  SD-BIZSM.ANS:
+    mimetype: text/plain
+  SD-BLACK.ANS:
+    mimetype: text/plain
+  SD-CROOK.ANS:
+    mimetype: text/plain
+  SD-DEEP3.ANS:
+    mimetype: text/plain
+  SD-DRAGN.ANS:
+    mimetype: text/plain
+  SD-LREZ3.ANS:
+    mimetype: text/plain
+  SD-MARRO.ANS:
+    mimetype: text/plain
+  SKINNER.EXE:
+    mimetype: application/x-msdos-program
+  TK-TRMA.ANS:
+    mimetype: text/plain
+  US-ALUCA.ANS:
+    mimetype: text/plain
+  US-FUEL.ANS:
+    mimetype: text/plain
+  US-SV1.ANS:
+    mimetype: text/plain
+  ZII-NAUT.ANS:
+    mimetype: text/plain
+  ZII-SMOL.ANS:
+    mimetype: text/plain

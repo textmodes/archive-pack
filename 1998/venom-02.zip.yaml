@@ -1,0 +1,32 @@
+name: venom-02.zip
+hash: 6482d0d1a458d7d2f6bd826f3584f13d
+year: 1998
+file:
+  AMN-AS2.JPG:
+    mimetype: image/jpeg
+  DFT-AN1.ANS:
+    mimetype: text/plain
+  DFT-COL2.ANS:
+    mimetype: text/plain
+  DFT-VN1.JPG:
+    mimetype: image/jpeg
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  IV-STRSH.JPG:
+    mimetype: image/jpeg
+  MLK-ANEU.ANS:
+    mimetype: text/plain
+  MLK-ANS2.ANS:
+    mimetype: text/plain
+  MLK-ASC1.ANS:
+    mimetype: text/plain
+  MLK-SUMM.ANS:
+    mimetype: text/plain
+  SQ2-ANEU.ANS:
+    mimetype: text/plain
+  VNM-MBRS.ANS:
+    mimetype: text/plain
+  VNM-NEWS.ANS:
+    mimetype: text/plain
+  WAR-CLS2.ANS:
+    mimetype: text/plain

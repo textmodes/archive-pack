@@ -1,0 +1,68 @@
+name: acid-64a.zip
+hash: 559540c3e3c7c70bab0dfb94058334dc
+year: 1997
+file:
+  AVDialog.class:
+    mimetype: application/x-java-applet
+  AcidAnsi.class:
+    mimetype: application/x-java-applet
+  AcidText.class:
+    mimetype: application/x-java-applet
+  AcidView:
+    mimetype: text/x-shellscript
+  AcidView.bat:
+    mimetype: application/x-msdos-program
+  AcidView.class:
+    mimetype: application/x-java-applet
+  AcidView.faq:
+    mimetype: text/plain
+  AcidView.files:
+    mimetype: text/plain
+  AcidView.fnt:
+    mimetype: application/octet-stream
+  AcidView.jpg:
+    mimetype: image/jpeg
+  AcidView.nfo:
+    mimetype: text/plain
+  AcidXBin.class:
+    mimetype: application/x-java-applet
+  AnsiImage.class:
+    mimetype: application/x-java-applet
+  acid-64.xb:
+    mimetype: text/x-xbin
+  acidapp.exe:
+    mimetype: application/x-msdos-program
+  acidcaps.nfo:
+    mimetype: text/plain
+  bm-acidcapn.jpg:
+    mimetype: image/jpeg
+  capncrunchchickn.txt:
+    mimetype: text/plain
+  file_id.diz:
+    mimetype: text/plain
+  gr-dna22.jpg:
+    mimetype: image/jpeg
+  gr-ebola.jpg:
+    mimetype: image/jpeg
+  gr-fly.jpg:
+    mimetype: image/jpeg
+  if-acid2.jpg:
+    mimetype: image/jpeg
+  if-razor3.jpg:
+    mimetype: image/jpeg
+  j1-element21.jpg:
+    mimetype: image/jpeg
+  j1-evolution2.jpg:
+    mimetype: image/jpeg
+  ky-endo.jpg:
+    mimetype: image/jpeg
+  pr-shine.jpg:
+    mimetype: image/jpeg
+  release.nfo:
+    mimetype: text/plain
+  sf-doggy.jpg:
+    mimetype: image/jpeg
+  th-dead.jpg:
+    mimetype: image/jpeg
+  we-will.sue:
+    mimetype: text/plain

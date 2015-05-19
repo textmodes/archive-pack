@@ -1,0 +1,20 @@
+name: coreb-1.zip
+hash: 815ac9daa610179417ab7a179564b93b
+year: 1993
+file:
+  !!binary /61DVEUh/y7h4VM=:
+    mimetype: application/octet-stream
+  CORE.MEM:
+    mimetype: text/plain
+  CORE.SIT:
+    mimetype: text/plain
+  COREB-1.TXT:
+    mimetype: text/plain
+  CTE.EXE:
+    mimetype: application/x-msdos-program
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FILES.LST:
+    mimetype: text/plain
+  FUN!.COM:
+    mimetype: application/x-msdos-program

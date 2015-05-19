@@ -1,0 +1,70 @@
+name: wrlk002.zip
+hash: 09172caabd997a3f8c98822ab8d5be90
+year: 2001
+file:
+  file_id.diz:
+    mimetype: text/plain
+  ga-about.ans:
+    mimetype: text/plain
+  ga-cmedg.ans:
+    mimetype: text/plain
+  ga-ds.ans:
+    mimetype: text/plain
+  ga-dsco.ans:
+    mimetype: text/plain
+  ga-dsl.zip:
+    mimetype: application/zip
+  ga-gdbye.zip:
+    mimetype: application/zip
+  ga-mtrx.ans:
+    mimetype: text/plain
+  ga-peng.ans:
+    mimetype: text/plain
+  gajo-bul.ans:
+    mimetype: text/plain
+  gj-bdc.jpg:
+    mimetype: image/jpeg
+  gr-main.ans:
+    mimetype: text/plain
+  gy-ssbf.zip:
+    mimetype: application/zip
+  gy-wam10.zip:
+    mimetype: application/zip
+  ph-asco.asc:
+    mimetype: text/plain
+  ph-flty3.ans:
+    mimetype: text/plain
+  ph-flty4.ans:
+    mimetype: text/plain
+  ph-flty5.ans:
+    mimetype: text/plain
+  ph-fty2.ans:
+    mimetype: text/plain
+  ph-gen.ans:
+    mimetype: text/plain
+  ph-glnd4.ans:
+    mimetype: text/plain
+  ph-glnd5.ans:
+    mimetype: text/plain
+  ph-hax2.ans:
+    mimetype: text/plain
+  ph-holyb.ans:
+    mimetype: text/plain
+  ph-madd.ans:
+    mimetype: text/plain
+  ph-me2.ans:
+    mimetype: text/plain
+  ph-medge.ans:
+    mimetype: text/plain
+  ph-scnt2.ans:
+    mimetype: text/plain
+  ph-sect7.ans:
+    mimetype: text/plain
+  ph-tdl.ans:
+    mimetype: text/plain
+  ph-wlck.ans:
+    mimetype: text/plain
+  warlock.fls:
+    mimetype: text/plain
+  warlock.nfo:
+    mimetype: text/plain

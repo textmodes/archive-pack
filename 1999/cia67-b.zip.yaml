@@ -1,0 +1,32 @@
+name: cia67-b.zip
+hash: 43a6db2f8261de46ea17af989123c9f4
+year: 1999
+file:
+  '---END--.---':
+    mimetype: text/plain
+  '---ETC--.---':
+    mimetype: text/plain
+  --INFO--.---:
+    mimetype: text/plain
+  --MORE--.---:
+    mimetype: text/plain
+  0999INFO.TXT:
+    mimetype: text/plain
+  0999memb.txt:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  MJ_GNZO.JPG:
+    mimetype: image/jpeg
+  NA-MECAN.JPG:
+    mimetype: image/jpeg
+  ST_BLOOD.JPG:
+    mimetype: image/jpeg
+  ST_LIFE.JPG:
+    mimetype: image/jpeg
+  US_SPIDR.JPG:
+    mimetype: image/jpeg
+  km_svtr.jpg:
+    mimetype: image/jpeg
+  qs_self.jpg:
+    mimetype: image/jpeg

@@ -1,0 +1,70 @@
+name: odelay04.zip
+hash: 9d596efffd320d179062dfb7b6e2f7da
+year: 1996
+file:
+  '#####DIZ.###':
+    mimetype: text/x-diff
+  '####INFO.###':
+    mimetype: text/x-diff
+  '####MISC.###':
+    mimetype: text/x-diff
+  '###ASCII.###':
+    mimetype: text/x-diff
+  AO-COLLY.ASC:
+    mimetype: text/plain
+  BJ-COLLY.ASC:
+    mimetype: text/plain
+  BJ-DEAD.ASC:
+    mimetype: text/plain
+  CI-CYBR1.ASC:
+    mimetype: text/plain
+  CI-MAXX1.ASC:
+    mimetype: text/plain
+  CI-SPWN1.ASC:
+    mimetype: text/plain
+  CO-TWIL1.ASC:
+    mimetype: text/plain
+  E0-ODEL.ASC:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  NS-AE.ASC:
+    mimetype: text/plain
+  NS-GER.ASC:
+    mimetype: text/plain
+  NS-INC.ASC:
+    mimetype: text/plain
+  NS-ODE.ASC:
+    mimetype: text/plain
+  NS-RP.ASC:
+    mimetype: text/plain
+  NS-TLA.ASC:
+    mimetype: text/plain
+  NS-ZEB.ASC:
+    mimetype: text/plain
+  ODELAY04.MEM:
+    mimetype: text/plain
+  ODELAY04.NFO:
+    mimetype: text/plain
+  PR-ABRAX.ASC:
+    mimetype: text/plain
+  PR-APHEX.ASC:
+    mimetype: text/plain
+  PR-NSPRN.ASC:
+    mimetype: text/plain
+  PR-TWIZ1.ASC:
+    mimetype: text/plain
+  PR-WAX27.ASC:
+    mimetype: text/plain
+  RM-CLOCK.ASC:
+    mimetype: text/plain
+  RM-COLLY.ASC:
+    mimetype: text/plain
+  RM-DEPTH.ASC:
+    mimetype: text/plain
+  RM-EVLST.ASC:
+    mimetype: text/plain
+  RM-MANGO.ASC:
+    mimetype: text/plain
+  US-S001.ASC:
+    mimetype: text/plain

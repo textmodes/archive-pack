@@ -1,0 +1,30 @@
+name: ahs-0011.zip
+hash: ca9a7748ef45a4766b3a380b13e432fe
+year: 1999
+file:
+  AKBspot.jpg:
+    mimetype: image/jpeg
+  Crest_AKB.jpg:
+    mimetype: image/jpeg
+  Ewok_AWR.jpg:
+    mimetype: image/jpeg
+  KON_HM.jpg:
+    mimetype: image/jpeg
+  Kahn_HM.jpg:
+    mimetype: image/jpeg
+  Nimz_WND.jpg:
+    mimetype: image/jpeg
+  Reske_414.jpg:
+    mimetype: image/jpeg
+  Vent26.jpg:
+    mimetype: image/jpeg
+  Yen34HM.jpg:
+    mimetype: image/jpeg
+  ahs.nfo:
+    mimetype: text/plain
+  file_id.diz:
+    mimetype: text/plain
+  intel_tci.jpg:
+    mimetype: image/jpeg
+  releases.txt:
+    mimetype: text/plain

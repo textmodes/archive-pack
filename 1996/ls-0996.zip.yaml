@@ -1,0 +1,44 @@
+name: ls-0996.zip
+hash: 7ad77da3e037776d70639d019775db1b
+year: 1996
+file:
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GI-CELG1.JPG:
+    mimetype: image/jpeg
+  GI-JIVE.JPG:
+    mimetype: image/jpeg
+  LAPPLY.EXE:
+    mimetype: application/x-msdos-program
+  LS-0996.MEM:
+    mimetype: text/plain
+  LS-0996.SIT:
+    mimetype: text/plain
+  LS-NOTES.ANS:
+    mimetype: text/plain
+  LVIEW.EXE:
+    mimetype: application/x-msdos-program
+  PP-MRTNI.JPG:
+    mimetype: image/jpeg
+  PP-WAY.ANS:
+    mimetype: text/plain
+  TPE-3RD.ANS:
+    mimetype: text/plain
+  TPE-AP.ANS:
+    mimetype: text/plain
+  TPE-C0LI.ANS:
+    mimetype: text/plain
+  TPE-COV.ANS:
+    mimetype: text/plain
+  TPE-COV2.ANS:
+    mimetype: text/plain
+  TPE-PM.ANS:
+    mimetype: text/plain
+  TR-LS.ANS:
+    mimetype: text/plain
+  VN-SBLOW.MOD:
+    mimetype: audio/x-mod
+  VN-TF_BZ.MOD:
+    mimetype: audio/x-mod
+  ZO-DEVIL.ANS:
+    mimetype: text/plain

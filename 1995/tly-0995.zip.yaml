@@ -1,0 +1,96 @@
+name: tly-0995.zip
+hash: 363e5eae8d30af47705dea9b9795a785
+year: 1995
+file:
+  -)TLY(-.EXE:
+    mimetype: application/x-msdos-program
+  '---ANSI.---':
+    mimetype: text/plain
+  '---ASCII.---':
+    mimetype: text/plain
+  '---INFO.---':
+    mimetype: text/plain
+  '---OTHER.---':
+    mimetype: text/plain
+  !!binary /y3/:
+    mimetype: application/octet-stream
+  !!binary +fgoXin4+Q==:
+    mimetype: text/plain
+  !!binary /0tJU1P/:
+    mimetype: application/octet-stream
+  ANNICK.LUV:
+    mimetype: application/octet-stream
+  CD-CON.TLY:
+    mimetype: text/plain
+  CD-CV.TLY:
+    mimetype: text/plain
+  CD-CV1.TLY:
+    mimetype: text/plain
+  CD-CV2.TLY:
+    mimetype: text/plain
+  CD-DL.TLY:
+    mimetype: text/plain
+  CD-DLMM.TLY:
+    mimetype: text/plain
+  CD-DWPW.TLY:
+    mimetype: text/plain
+  CD-ECON.TLY:
+    mimetype: text/plain
+  CD-EQUA.TLY:
+    mimetype: text/plain
+  CD-FIMM.TLY:
+    mimetype: text/plain
+  CD-FP.TLY:
+    mimetype: text/plain
+  CD-TCFM.TLY:
+    mimetype: text/plain
+  CD-TS.TLY:
+    mimetype: text/plain
+  CD-VP.TLY:
+    mimetype: text/plain
+  CD-VPMM.TLY:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  !!binary SK1HSC7uUg==:
+    mimetype: text/plain
+  MTNTWHQ.BBS:
+    mimetype: text/plain
+  NA-CHZMN.TLY:
+    mimetype: text/plain
+  NA-DSWEL.TLY:
+    mimetype: text/plain
+  NA-TTSMM.TLY:
+    mimetype: text/plain
+  NA-TTSWE.TLY:
+    mimetype: text/plain
+  PH-BIRD1.ANS:
+    mimetype: text/plain
+  PH-BIRD2.ANS:
+    mimetype: text/plain
+  SF-BLCH2.TLY:
+    mimetype: text/plain
+  SF-CHIL2.TLY:
+    mimetype: text/plain
+  SF-CHILL.TLY:
+    mimetype: text/plain
+  SF-COW1.TLY:
+    mimetype: text/plain
+  SF-HIDE.TLY:
+    mimetype: text/plain
+  SF-PTL.TLY:
+    mimetype: text/plain
+  SF-SNL01.TLY:
+    mimetype: text/plain
+  TLY-APP.EXE:
+    mimetype: application/x-msdos-program
+  TLY-BRDS.NFO:
+    mimetype: text/plain
+  TLY-MBRS.NFO:
+    mimetype: text/plain
+  TLY-NEWS.NFO:
+    mimetype: text/plain
+  TLY-RELS.NFO:
+    mimetype: text/plain
+  TLY-VIEW.ZIP:
+    mimetype: application/zip

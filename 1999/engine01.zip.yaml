@@ -1,0 +1,64 @@
+name: engine01.zip
+hash: bd9934327e98987c295ef8514bc60403
+year: 1999
+file:
+  ANTA-H.JPG:
+    mimetype: image/jpeg
+  ANTA-H2.JPG:
+    mimetype: image/jpeg
+  ANTA-S.JPG:
+    mimetype: image/jpeg
+  CPH-AMD.ANS:
+    mimetype: text/plain
+  CPH-CR.ASC:
+    mimetype: text/plain
+  CPH-CYA.ANS:
+    mimetype: text/plain
+  CPH-E2.ASC:
+    mimetype: text/plain
+  CPH-EPI.ANS:
+    mimetype: text/plain
+  CPH-EREE.ASC:
+    mimetype: text/plain
+  CPH-GRL.ANS:
+    mimetype: text/plain
+  CPH-GUTE.ANS:
+    mimetype: text/plain
+  CPH-LAKB.ANS:
+    mimetype: text/plain
+  CPH-NSC.ANS:
+    mimetype: text/plain
+  CPH-WOE.ANS:
+    mimetype: text/plain
+  CT-CODE.ASC:
+    mimetype: text/plain
+  ENGINE01.MEM:
+    mimetype: text/plain
+  ENGINE01.NFO:
+    mimetype: text/plain
+  ESD-AMD.ASC:
+    mimetype: text/plain
+  ESD-DOOM.ASC:
+    mimetype: text/plain
+  ESD-ROD.ASC:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  IS-AVE.ANS:
+    mimetype: text/plain
+  SCR-IDE.JPG:
+    mimetype: image/jpeg
+  SCR-MAN.JPG:
+    mimetype: image/jpeg
+  SCR-PAR.JPG:
+    mimetype: image/jpeg
+  SQ-BH.ASC:
+    mimetype: text/plain
+  SQ-RISE.ASC:
+    mimetype: text/plain
+  US-BZ.ANS:
+    mimetype: text/plain
+  US-EN2.ANS:
+    mimetype: text/plain
+  US-ENG.ANS:
+    mimetype: text/plain

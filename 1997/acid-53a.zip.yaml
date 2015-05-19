@@ -1,0 +1,62 @@
+name: acid-53a.zip
+hash: d74a4492dfe4148ad80aa610d03593c4
+year: 1997
+file:
+  ACID-53.NFO:
+    mimetype: text/plain
+  ACID-53.XB:
+    mimetype: text/x-xbin
+  ACIDAPP.EXE:
+    mimetype: application/x-msdos-program
+  ACIDVIEW.DAT:
+    mimetype: application/octet-stream
+  ACIDVIEW.EXE:
+    mimetype: application/x-msdos-program
+  ACIDVIEW.NFO:
+    mimetype: text/plain
+  ANS-53.ANS:
+    mimetype: text/plain
+  BIN2XBIN.EXE:
+    mimetype: application/x-msdos-program
+  BN-ABRAX.JPG:
+    mimetype: image/jpeg
+  CS-DRACE.JPG:
+    mimetype: image/jpeg
+  CS-XMS96.JPG:
+    mimetype: image/jpeg
+  CT-PSAND.ANS:
+    mimetype: text/plain
+  CT-TML2.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  J1-EOD.JPG:
+    mimetype: image/jpeg
+  J1-MESTA.JPG:
+    mimetype: image/jpeg
+  KH-MALE1.ANS:
+    mimetype: text/plain
+  NEWS-53.ANS:
+    mimetype: text/plain
+  ON-PIR1.ANS:
+    mimetype: text/plain
+  PR-AF.JPG:
+    mimetype: image/jpeg
+  PR-EARTH.JPG:
+    mimetype: image/jpeg
+  SAUCE.PL:
+    mimetype: text/x-perl
+  SPOON.EXE:
+    mimetype: application/x-msdos-program
+  SPOON.INI:
+    mimetype: text/plain
+  SPOON.NFO:
+    mimetype: text/plain
+  TD-MLINE.JPG:
+    mimetype: image/jpeg
+  VG-PUREM.GIF:
+    mimetype: image/gif
+  VN-EYES.GIF:
+    mimetype: image/gif
+  WE-WILL.SUE:
+    mimetype: text/plain

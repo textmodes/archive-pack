@@ -1,0 +1,188 @@
+name: axf-ap-1.zip
+hash: 6b6b354d89acea0ab9cb535ff0c0ce55
+year: 1996
+file:
+  22MMGUN.EXE:
+    mimetype: application/x-msdos-program
+  91N7TUPX.EH9:
+    mimetype: text/plain
+  AXF-INFO.COM:
+    mimetype: application/x-msdos-program
+  AXF.NFO:
+    mimetype: text/plain
+  AXIAL.APP:
+    mimetype: text/plain
+  BLOW.COM:
+    mimetype: application/x-msdos-program
+  BX-APPLY.ANS:
+    mimetype: text/plain
+  BX-BHEAV.ANS:
+    mimetype: text/plain
+  BX-BRE.ANS:
+    mimetype: text/plain
+  BX-CAMOU.ANS:
+    mimetype: text/plain
+  BX-CFSET.ANS:
+    mimetype: text/plain
+  BX-COL.ANS:
+    mimetype: text/plain
+  BX-CONF.ANS:
+    mimetype: text/plain
+  BX-CYA.ANS:
+    mimetype: text/plain
+  BX-DANCE.ASC:
+    mimetype: text/plain
+  BX-HAPPY.ANS:
+    mimetype: text/plain
+  BX-HELL.ANS:
+    mimetype: text/plain
+  BX-JUNK.ANS:
+    mimetype: text/plain
+  BX-LC.ANS:
+    mimetype: text/plain
+  BX-LOGO.ANS:
+    mimetype: text/plain
+  BX-MM.ANS:
+    mimetype: text/plain
+  BX-ONE.ANS:
+    mimetype: text/plain
+  BX-PAGE.ANS:
+    mimetype: text/plain
+  BX-STATS.ANS:
+    mimetype: text/plain
+  BX-TEL.ANS:
+    mimetype: text/plain
+  BX-TOP.ANS:
+    mimetype: text/plain
+  BX-VHMAT.ANS:
+    mimetype: text/plain
+  BX-VHMEN.ANS:
+    mimetype: text/plain
+  CDX8!.COM:
+    mimetype: application/x-msdos-program
+  CHARACTE.COM:
+    mimetype: application/x-msdos-program
+  DEFIANCE.NFO:
+    mimetype: text/plain
+  DLABONNE.!!!:
+    mimetype: text/plain
+  EUREEQU.EXE:
+    mimetype: application/x-msdos-program
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GR-AXF1.ANS:
+    mimetype: text/plain
+  GR-AXF2.ANS:
+    mimetype: text/plain
+  GR-AXF3.ANS:
+    mimetype: text/plain
+  GR-AXF4.ASC:
+    mimetype: text/plain
+  GR-DARK.ASC:
+    mimetype: text/plain
+  GR-MYST.ASC:
+    mimetype: text/plain
+  GUGIIBJV.ASC:
+    mimetype: text/plain
+  HELPE.TXT:
+    mimetype: text/plain
+  IE-AXF.ASC:
+    mimetype: text/plain
+  IE-AXF2.ASC:
+    mimetype: text/plain
+  IE-AXF3.ASC:
+    mimetype: text/plain
+  IE-AXF4.ASC:
+    mimetype: text/plain
+  IE-AXF5.ASC:
+    mimetype: text/plain
+  IE-AXF6.ASC:
+    mimetype: text/plain
+  IE-DIZ.ASC:
+    mimetype: text/plain
+  IE-ILLUS.ASC:
+    mimetype: text/plain
+  IE-MYM.ASC:
+    mimetype: text/plain
+  IE-MYST.ASC:
+    mimetype: text/plain
+  IE-MYST2.ASC:
+    mimetype: text/plain
+  IE-TRANC.ASC:
+    mimetype: text/plain
+  IE-W&LT.ASC:
+    mimetype: text/plain
+  LIST.ANS:
+    mimetype: text/plain
+  LZERZ.COM:
+    mimetype: application/x-msdos-program
+  MH-COL.ASC:
+    mimetype: text/plain
+  MS-AXF1.JPG:
+    mimetype: image/jpeg
+  MS-AXF2.JPG:
+    mimetype: image/jpeg
+  MS-AXF3.JPG:
+    mimetype: image/jpeg
+  MS-AXF4.JPG:
+    mimetype: image/jpeg
+  MS-AXF5.JPG:
+    mimetype: image/jpeg
+  NEWS.ANS:
+    mimetype: text/plain
+  NOCRAZY.COM:
+    mimetype: application/x-msdos-program
+  RP-CONF.ANS:
+    mimetype: text/plain
+  RP-EYES.ANS:
+    mimetype: text/plain
+  RP-MENU1.ANS:
+    mimetype: text/plain
+  RP-MENU2.ANS:
+    mimetype: text/plain
+  RP-MENU3.ANS:
+    mimetype: text/plain
+  RP-MENU4.ANS:
+    mimetype: text/plain
+  RP-MENU5.ANS:
+    mimetype: text/plain
+  SP-LOGO.ASC:
+    mimetype: text/plain
+  SW-AXF.ANS:
+    mimetype: text/plain
+  SW-WIZD.ANS:
+    mimetype: text/plain
+  TF-AXF.GIF:
+    mimetype: image/gif
+  TF-BEAST.GIF:
+    mimetype: image/gif
+  TF-FANT.GIF:
+    mimetype: image/gif
+  TF-VIRT1.GIF:
+    mimetype: image/gif
+  TF-VIRT2.GIF:
+    mimetype: image/gif
+  USRV34.336:
+    mimetype: text/plain
+  ZR-ABSN.ASC:
+    mimetype: text/plain
+  ZR-ABSO.ASC:
+    mimetype: text/plain
+  ZR-AXF.ASC:
+    mimetype: text/plain
+  ZR-FIRE.ASC:
+    mimetype: text/plain
+  ZR-HEAD.ASC:
+    mimetype: text/plain
+  ZR-ICA.ASC:
+    mimetype: text/plain
+  ZR-LOGOS.ASC:
+    mimetype: text/plain
+  ZR-M&S.LIT:
+    mimetype: text/plain
+  ZR-MMB.ASC:
+    mimetype: text/plain
+  ZR-SOH.ASC:
+    mimetype: text/plain
+  ZR-VH.ASC:
+    mimetype: text/plain

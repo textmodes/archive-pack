@@ -1,0 +1,86 @@
+name: flu-02.zip
+hash: 6bca2804a5aa5b549cb20eef798868d4
+year: 1999
+file:
+  -fluid-.---:
+    mimetype: application/octet-stream
+  2m-fluid.ans:
+    mimetype: text/plain
+  Aetc24.asc:
+    mimetype: text/plain
+  Aeteerie.asc:
+    mimetype: text/plain
+  Aetflui.asc:
+    mimetype: text/plain
+  Aetnat.asc:
+    mimetype: text/plain
+  Aetrh.asc:
+    mimetype: text/plain
+  Atm-3ds.jpg:
+    mimetype: image/jpeg
+  Atm-jag2.jpg:
+    mimetype: image/jpeg
+  Atm-of.jpg:
+    mimetype: image/jpeg
+  Atm-wolf.jpg:
+    mimetype: image/jpeg
+  Blz-fish.jpg:
+    mimetype: image/jpeg
+  Es-back.jpg:
+    mimetype: image/jpeg
+  Es-cool.jpg:
+    mimetype: image/jpeg
+  Es-sab.jpg:
+    mimetype: image/jpeg
+  Es-space.jpg:
+    mimetype: image/jpeg
+  Es-tor.jpg:
+    mimetype: image/jpeg
+  File_id.Diz:
+    mimetype: text/plain
+  Flu-02.mem:
+    mimetype: text/plain
+  Flu-02.nfo:
+    mimetype: text/plain
+  IS-COLLY.ASC:
+    mimetype: text/plain
+  Pk!rainm.jpg:
+    mimetype: image/jpeg
+  Rm-creat.jpg:
+    mimetype: image/jpeg
+  Rm-fsol.jpg:
+    mimetype: image/jpeg
+  Rm-strim.jpg:
+    mimetype: image/jpeg
+  Rm-weird.jpg:
+    mimetype: image/jpeg
+  Scr-equi.xm:
+    mimetype: audio/x-mod
+  Scr-prec.xm:
+    mimetype: audio/x-mod
+  Sd-fluid.jpg:
+    mimetype: image/jpeg
+  Sd-irc.jpg:
+    mimetype: image/jpeg
+  Tz-fing.jpg:
+    mimetype: image/jpeg
+  Tz-met.jpg:
+    mimetype: image/jpeg
+  Tz-spray.jpg:
+    mimetype: image/jpeg
+  Tz-worm.jpg:
+    mimetype: image/jpeg
+  US-BITEL.ASC:
+    mimetype: text/plain
+  YB-9X.ASC:
+    mimetype: text/plain
+  YB-NATR1.ASC:
+    mimetype: text/plain
+  YB-ZOOP.ASC:
+    mimetype: text/plain
+  Yb-hawk.jpg:
+    mimetype: image/jpeg
+  Yb-phnix.jpg:
+    mimetype: image/jpeg
+  Yb-rdrgn.jpg:
+    mimetype: image/jpeg

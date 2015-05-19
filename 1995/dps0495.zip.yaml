@@ -1,0 +1,68 @@
+name: dps0495.zip
+hash: 1935d2ebd4d711141ddd0f33f0d724af
+year: 1995
+file:
+  DA-DPS.DPS:
+    mimetype: text/plain
+  DA-DPS2.ASC:
+    mimetype: text/plain
+  DF-LIT.LIT:
+    mimetype: text/plain
+  DPSAPP.EXE:
+    mimetype: application/x-msdos-program
+  DPSMEM.NFO:
+    mimetype: text/plain
+  DPSNEWS.NFO:
+    mimetype: text/plain
+  DPSSITE.NFO:
+    mimetype: text/plain
+  DW-DPS6.DPS:
+    mimetype: text/plain
+  DW-HI1.DPS:
+    mimetype: text/plain
+  DW-PA.DPS:
+    mimetype: text/plain
+  DW-TUH1.DPS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FT-EVIL.GIF:
+    mimetype: image/gif
+  FT-REF.GIF:
+    mimetype: image/gif
+  GG-DPS1.ASC:
+    mimetype: text/plain
+  GG-HI.ASC:
+    mimetype: text/plain
+  GG-HI.DPS:
+    mimetype: text/plain
+  GG-HI.RIP:
+    mimetype: image/x-rip
+  GG-JASH.INT:
+    mimetype: text/plain
+  GG-LIT.DPS:
+    mimetype: text/plain
+  GG-REV.ZIP:
+    mimetype: application/zip
+  GGDW-SR.INT:
+    mimetype: text/plain
+  GGLM-AW.DPS:
+    mimetype: text/plain
+  LM-AD.DPS:
+    mimetype: text/plain
+  LM-ATU.DPS:
+    mimetype: text/plain
+  LP-ADR.DPS:
+    mimetype: text/plain
+  LP-ADR2.DPS:
+    mimetype: text/plain
+  LP-CI.DPS:
+    mimetype: text/plain
+  LP-FIRE.DPS:
+    mimetype: text/plain
+  LR-LIT.LIT:
+    mimetype: text/plain
+  LT-DPS.EXE:
+    mimetype: application/x-msdos-program
+  VM-EDI.DPS:
+    mimetype: text/plain

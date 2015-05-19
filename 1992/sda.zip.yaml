@@ -1,0 +1,506 @@
+name: sda.zip
+hash: ffaad32660ffd67274f971b90b22f1d0
+year: 1992
+file:
+  AC-PREV.SDA:
+    mimetype: text/plain
+  ASL-ICE.SDA:
+    mimetype: text/plain
+  ASL-MANI.SDA:
+    mimetype: text/plain
+  ASL-TF.SDA:
+    mimetype: text/plain
+  ASL-UT.SDA:
+    mimetype: text/plain
+  ASL-UTSI.SDA:
+    mimetype: text/plain
+  BM-SANTA.SDA:
+    mimetype: text/plain
+  CA-TUGO.SDA:
+    mimetype: text/plain
+  CB-WALL.SDA:
+    mimetype: text/plain
+  CS-UND.SDA:
+    mimetype: text/plain
+  ED-ID.SDA:
+    mimetype: text/plain
+  ED-IDARK.SDA:
+    mimetype: text/plain
+  ED-SILNT.SDA:
+    mimetype: text/plain
+  ED-TDE2.SDA:
+    mimetype: text/plain
+  ED-WWIND.SDA:
+    mimetype: text/plain
+  FF-CASIN.SDA:
+    mimetype: text/plain
+  FF-PHYS.SDA:
+    mimetype: text/plain
+  FT-6192.SDA:
+    mimetype: text/plain
+  FT-CYBER.SDA:
+    mimetype: text/plain
+  GR-COLLI.SDA:
+    mimetype: text/plain
+  GR-DNB.SDA:
+    mimetype: text/plain
+  GR-DNB2.SDA:
+    mimetype: text/plain
+  GR-KNIGH.SDA:
+    mimetype: text/plain
+  GR-MAGE.SDA:
+    mimetype: text/plain
+  GR-ULT7.SDA:
+    mimetype: text/plain
+  IF-CEREB.SDA:
+    mimetype: text/plain
+  IF-WIZRD.SDA:
+    mimetype: text/plain
+  JA-CGX.SDA:
+    mimetype: text/plain
+  LOSTMOV1.ARJ:
+    mimetype: application/x-arj
+  LS-CW01.SDA:
+    mimetype: text/plain
+  LS-MISTS.SDA:
+    mimetype: text/plain
+  LS-RRINC.SDA:
+    mimetype: text/plain
+  LSDM-SDA.ARJ:
+    mimetype: application/x-arj
+  MB-GENER.SDA:
+    mimetype: text/plain
+  MB-KWART.SDA:
+    mimetype: text/plain
+  MB-SDA3.SDA:
+    mimetype: text/plain
+  MB-SHQ1.SDA:
+    mimetype: text/plain
+  MB-SHQ2.SDA:
+    mimetype: text/plain
+  MB-SHQ3.SDA:
+    mimetype: text/plain
+  MB-SHQ4.SDA:
+    mimetype: text/plain
+  MB-SHQ5.SDA:
+    mimetype: text/plain
+  MB-SHQ6.SDA:
+    mimetype: text/plain
+  MB-YTOPN.SDA:
+    mimetype: text/plain
+  MB-ZOO.SDA:
+    mimetype: text/plain
+  MS-CURSE.SDA:
+    mimetype: text/plain
+  MS-DARKE.SDA:
+    mimetype: text/plain
+  MS-DC4.SDA:
+    mimetype: text/plain
+  MS-GROO.SDA:
+    mimetype: text/plain
+  MS-IDARK.SDA:
+    mimetype: text/plain
+  MS-JIMI2.SDA:
+    mimetype: text/plain
+  MS-LODD.SDA:
+    mimetype: text/plain
+  MS-MANIF.SDA:
+    mimetype: text/plain
+  MS-NET1.SDA:
+    mimetype: text/plain
+  MS-PHAZE.SDA:
+    mimetype: text/plain
+  MS-RVNDL.SDA:
+    mimetype: text/plain
+  MS-SAN.SDA:
+    mimetype: text/plain
+  MS-SHQ.SDA:
+    mimetype: text/plain
+  MS-SOD.SDA:
+    mimetype: text/plain
+  MS-THG.SDA:
+    mimetype: text/plain
+  MS-TRIL.SDA:
+    mimetype: text/plain
+  MS-UGO.ARJ:
+    mimetype: application/x-arj
+  MS-UNDER.SDA:
+    mimetype: text/plain
+  MS-UNDR2.SDA:
+    mimetype: text/plain
+  NE-ASYLM.SDA:
+    mimetype: text/plain
+  NE-BART.SDA:
+    mimetype: text/plain
+  NE-BERG.SDA:
+    mimetype: text/plain
+  NE-ETHER.SDA:
+    mimetype: text/plain
+  NE-IMAG.SDA:
+    mimetype: text/plain
+  NE-NUKE.SDA:
+    mimetype: text/plain
+  NE-OUTRC.SDA:
+    mimetype: text/plain
+  NE-PRMD.SDA:
+    mimetype: text/plain
+  NE-SLAUG.SDA:
+    mimetype: text/plain
+  NE-TDR-2.SDA:
+    mimetype: text/plain
+  NE-TDR.SDA:
+    mimetype: text/plain
+  NE-TDS.SDA:
+    mimetype: text/plain
+  NE-TEU.SDA:
+    mimetype: text/plain
+  NE-TIA.SDA:
+    mimetype: text/plain
+  NE-TOXIC.SDA:
+    mimetype: text/plain
+  PM-A'S.SDA:
+    mimetype: text/plain
+  PM-ARCAD.SDA:
+    mimetype: text/plain
+  PM-CLOAK.SDA:
+    mimetype: text/plain
+  PM-DEVIL.SDA:
+    mimetype: text/plain
+  PM-DIGIT.SDA:
+    mimetype: text/plain
+  PM-DNA.SDA:
+    mimetype: text/plain
+  PM-FROZN.SDA:
+    mimetype: text/plain
+  PM-MAX.SDA:
+    mimetype: text/plain
+  PM-NAIS.SDA:
+    mimetype: text/plain
+  PM-PDISE.SDA:
+    mimetype: text/plain
+  PM-RAZOR.SDA:
+    mimetype: text/plain
+  PM-ROD2.SDA:
+    mimetype: text/plain
+  PM-ROD3.SDA:
+    mimetype: text/plain
+  PM-SPYRI.SDA:
+    mimetype: text/plain
+  PM-TCHAO.SDA:
+    mimetype: text/plain
+  PM-TDR.SDA:
+    mimetype: text/plain
+  PM-THP.SDA:
+    mimetype: text/plain
+  PM-TSAN.SDA:
+    mimetype: text/plain
+  PM-UNDER.SDA:
+    mimetype: text/plain
+  PM-WEAP1.SDA:
+    mimetype: text/plain
+  PM-WEAP2.SDA:
+    mimetype: text/plain
+  PM-XODUS.SDA:
+    mimetype: text/plain
+  PR-3MI1.SDA:
+    mimetype: text/plain
+  PR-ARC1.SDA:
+    mimetype: text/plain
+  PR-RIV1.SDA:
+    mimetype: text/plain
+  PY-BLANK.ARJ:
+    mimetype: application/x-arj
+  RFTM-OPT.SDA:
+    mimetype: text/plain
+  SDA-PVS.SDA:
+    mimetype: text/plain
+  SW-TDS1.SDA:
+    mimetype: text/plain
+  SZ-AKIRA.SDA:
+    mimetype: text/plain
+  SZ-ANOW.SDA:
+    mimetype: text/plain
+  SZ-APX2.SDA:
+    mimetype: text/plain
+  SZ-CAMLT.SDA:
+    mimetype: text/plain
+  SZ-RIV3.SDA:
+    mimetype: text/plain
+  SZ-STLTH.SDA:
+    mimetype: text/plain
+  SZ-TURB.SDA:
+    mimetype: text/plain
+  TDP-COBR.SDA:
+    mimetype: text/plain
+  TDP-CYCO.SDA:
+    mimetype: text/plain
+  TDP-FALT.SDA:
+    mimetype: text/plain
+  TDP-INST.SDA:
+    mimetype: text/plain
+  TDP-SSHQ.SDA:
+    mimetype: text/plain
+  TDS-ACID.SDA:
+    mimetype: text/plain
+  TDS-DIGT.SDA:
+    mimetype: text/plain
+  TDS-RIV1.SDA:
+    mimetype: text/plain
+  TDS-SDLE.SDA:
+    mimetype: text/plain
+  TDS-TMP2.SDA:
+    mimetype: text/plain
+  TDS-TRI2.SDA:
+    mimetype: text/plain
+  TO-ACID2.SDA:
+    mimetype: text/plain
+  TO-ACIDN.SDA:
+    mimetype: text/plain
+  TO-AIDS.SDA:
+    mimetype: text/plain
+  TO-ALUMI.SDA:
+    mimetype: text/plain
+  TO-ANAR1.SDA:
+    mimetype: text/plain
+  TO-ARCAD.SDA:
+    mimetype: text/plain
+  TO-BART.SDA:
+    mimetype: text/plain
+  TO-BATMN.SDA:
+    mimetype: text/plain
+  TO-BLITZ.SDA:
+    mimetype: text/plain
+  TO-CEREB.SDA:
+    mimetype: text/plain
+  TO-CITAD.SDA:
+    mimetype: text/plain
+  TO-COLLI.SDA:
+    mimetype: text/plain
+  TO-CRIME.SDA:
+    mimetype: text/plain
+  TO-CSITT.SDA:
+    mimetype: text/plain
+  TO-CURSE.SDA:
+    mimetype: text/plain
+  TO-DECEI.SDA:
+    mimetype: text/plain
+  TO-DEFCO.SDA:
+    mimetype: text/plain
+  TO-DIAM1.SDA:
+    mimetype: text/plain
+  TO-DIAMO.SDA:
+    mimetype: text/plain
+  TO-DOOMS.SDA:
+    mimetype: text/plain
+  TO-EIGHT.SDA:
+    mimetype: text/plain
+  TO-EXILE.SDA:
+    mimetype: text/plain
+  TO-EXOD2.SDA:
+    mimetype: text/plain
+  TO-FORKU.SDA:
+    mimetype: text/plain
+  TO-FROST.SDA:
+    mimetype: text/plain
+  TO-GAME.SDA:
+    mimetype: text/plain
+  TO-GZ.SDA:
+    mimetype: text/plain
+  TO-GZERO.SDA:
+    mimetype: text/plain
+  TO-HELL.SDA:
+    mimetype: text/plain
+  TO-HOUSE.SDA:
+    mimetype: text/plain
+  TO-HYPER.SDA:
+    mimetype: text/plain
+  TO-ICE.SDA:
+    mimetype: text/plain
+  TO-ICEBR.SDA:
+    mimetype: text/plain
+  TO-INFI1.SDA:
+    mimetype: text/plain
+  TO-INFIN.SDA:
+    mimetype: text/plain
+  TO-INNER.SDA:
+    mimetype: text/plain
+  TO-JOKE.SDA:
+    mimetype: text/plain
+  TO-KRACK.SDA:
+    mimetype: text/plain
+  TO-LANDS.SDA:
+    mimetype: text/plain
+  TO-LEXEM.SDA:
+    mimetype: text/plain
+  TO-LOGON.SDA:
+    mimetype: text/plain
+  TO-MAD1.SDA:
+    mimetype: text/plain
+  TO-MAD2.SDA:
+    mimetype: text/plain
+  TO-MAG.SDA:
+    mimetype: text/plain
+  TO-MAGE.SDA:
+    mimetype: text/plain
+  TO-MAGE1.SDA:
+    mimetype: text/plain
+  TO-MANHA.SDA:
+    mimetype: text/plain
+  TO-MDSDA.SDA:
+    mimetype: text/plain
+  TO-MNFST.SDA:
+    mimetype: text/plain
+  TO-MOTEL.SDA:
+    mimetype: text/plain
+  TO-NINJA.SDA:
+    mimetype: text/plain
+  TO-POOL.SDA:
+    mimetype: text/plain
+  TO-PROG1.SDA:
+    mimetype: text/plain
+  TO-PROGN.SDA:
+    mimetype: text/plain
+  TO-RIV3.SDA:
+    mimetype: text/plain
+  TO-RIVE1.SDA:
+    mimetype: text/plain
+  TO-RIVEN.SDA:
+    mimetype: text/plain
+  TO-RIVN1.SDA:
+    mimetype: text/plain
+  TO-S-D-A.SDA:
+    mimetype: text/plain
+  TO-SANCT.SDA:
+    mimetype: text/plain
+  TO-SANTA.SDA:
+    mimetype: text/plain
+  TO-SDA.SDA:
+    mimetype: text/plain
+  TO-SDA1.SDA:
+    mimetype: text/plain
+  TO-SDA2.SDA:
+    mimetype: text/plain
+  TO-SDA3.SDA:
+    mimetype: text/plain
+  TO-SDA3R.SDA:
+    mimetype: text/plain
+  TO-SDA4.SDA:
+    mimetype: text/plain
+  TO-SDALG.SDA:
+    mimetype: text/plain
+  TO-TCS.SDA:
+    mimetype: text/plain
+  TO-TCSAD.SDA:
+    mimetype: text/plain
+  TO-TDE.SDA:
+    mimetype: text/plain
+  TO-THG.SDA:
+    mimetype: text/plain
+  TO-TOTAL.SDA:
+    mimetype: text/plain
+  TO-TRNDO.SDA:
+    mimetype: text/plain
+  TO-TSAN.SDA:
+    mimetype: text/plain
+  TO-UNSAN.SDA:
+    mimetype: text/plain
+  TO-XMAS.SDA:
+    mimetype: text/plain
+  TO-YANKE.SDA:
+    mimetype: text/plain
+  TRC-ARCA.SDA:
+    mimetype: text/plain
+  TRC-DWN1.SDA:
+    mimetype: text/plain
+  TRC-DWN3.SDA:
+    mimetype: text/plain
+  TRC-IMAG.SDA:
+    mimetype: text/plain
+  TRC-MAGN.SDA:
+    mimetype: text/plain
+  TRC-RED.SDA:
+    mimetype: text/plain
+  TRC-RIV.SDA:
+    mimetype: text/plain
+  TRC-SDA.SDA:
+    mimetype: text/plain
+  TRC-SDAM.SDA:
+    mimetype: text/plain
+  TRC-SH2.SDA:
+    mimetype: text/plain
+  TRC-SHQ.SDA:
+    mimetype: text/plain
+  TRC-SPYR.SDA:
+    mimetype: text/plain
+  TRC-SUBR.SDA:
+    mimetype: text/plain
+  TRC-TDT.SDA:
+    mimetype: text/plain
+  TRC-TSA2.SDA:
+    mimetype: text/plain
+  TW-BOG.SDA:
+    mimetype: text/plain
+  TW-DEVL1.SDA:
+    mimetype: text/plain
+  TW-DEVL2.SDA:
+    mimetype: text/plain
+  TW-EVIL2.SDA:
+    mimetype: text/plain
+  TW-GT1.SDA:
+    mimetype: text/plain
+  TW-GT2.SDA:
+    mimetype: text/plain
+  TW-GTUSA.SDA:
+    mimetype: text/plain
+  TW-HARDC.SDA:
+    mimetype: text/plain
+  TW-HELL.SDA:
+    mimetype: text/plain
+  TW-HELL1.SDA:
+    mimetype: text/plain
+  TW-HELL2.SDA:
+    mimetype: text/plain
+  TW-HELL3.SDA:
+    mimetype: text/plain
+  TW-INSAN.SDA:
+    mimetype: text/plain
+  TW-LCIT1.SDA:
+    mimetype: text/plain
+  TW-LOSTC.SDA:
+    mimetype: text/plain
+  TW-MOS.SDA:
+    mimetype: text/plain
+  TW-MSEC8.SDA:
+    mimetype: text/plain
+  TW-NOWHE.SDA:
+    mimetype: text/plain
+  TW-SILI.SDA:
+    mimetype: text/plain
+  TW-SPLAT.SDA:
+    mimetype: text/plain
+  TW-SWLND.SDA:
+    mimetype: text/plain
+  TW-UNDER.SDA:
+    mimetype: text/plain
+  TW-VOID.SDA:
+    mimetype: text/plain
+  X-IMAGIC.SDA:
+    mimetype: text/plain
+  X-TOXIC.SDA:
+    mimetype: text/plain
+  ZE-7SEAS.SDA:
+    mimetype: text/plain
+  ZE-BEYON.SDA:
+    mimetype: text/plain
+  ZE-MAD.SDA:
+    mimetype: text/plain
+  ZE-MANIF.SDA:
+    mimetype: text/plain
+  ZE-PRIV.SDA:
+    mimetype: text/plain
+  ZE-QUAKE.SDA:
+    mimetype: text/plain
+  ZE-RED.SDA:
+    mimetype: text/plain
+  ZE-SOD.SDA:
+    mimetype: text/plain

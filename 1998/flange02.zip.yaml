@@ -1,0 +1,116 @@
+name: flange02.zip
+hash: 73fc0add4698e6e7d2c4791b9635ad12
+year: 1998
+file:
+  ACIDVIEW:
+    mimetype: text/x-shellscript
+  ACIDVIEW.BAT:
+    mimetype: application/x-msdos-program
+  ACIDVIEW.CLA:
+    mimetype: application/x-java-applet
+  ACIDVIEW.DAT:
+    mimetype: application/octet-stream
+  ACIDVIEW.DOX:
+    mimetype: text/plain
+  ACIDVIEW.EXE:
+    mimetype: application/x-msdos-program
+  ACIDVIEW.FAQ:
+    mimetype: text/plain
+  ACIDVIEW.FIL:
+    mimetype: text/plain
+  ACIDVIEW.FNT:
+    mimetype: application/octet-stream
+  DEV-2AA1.ANS:
+    mimetype: text/plain
+  DEV-2AB1.JPG:
+    mimetype: image/jpeg
+  DEV-2AWD.JPG:
+    mimetype: image/jpeg
+  DEV-2BAB.ANS:
+    mimetype: text/plain
+  DEV-2DR1.ANS:
+    mimetype: text/plain
+  DEV-2FC1.JPG:
+    mimetype: image/jpeg
+  DEV-2FG2.ANS:
+    mimetype: text/plain
+  DEV-2FG6.ANS:
+    mimetype: text/plain
+  DEV-2FGP.JPG:
+    mimetype: image/jpeg
+  DEV-2FL1.ANS:
+    mimetype: text/plain
+  DEV-2FLG.ANS:
+    mimetype: text/plain
+  DEV-2GAK.ANS:
+    mimetype: text/plain
+  DEV-2GR5.JPG:
+    mimetype: image/jpeg
+  DEV-2GRA.JPG:
+    mimetype: image/jpeg
+  DEV-2HT1.JPG:
+    mimetype: image/jpeg
+  DEV-2HT3.JPG:
+    mimetype: image/jpeg
+  DEV-2HT4.JPG:
+    mimetype: image/jpeg
+  DEV-2HT8.JPG:
+    mimetype: image/jpeg
+  DEV-2MM1.ANS:
+    mimetype: text/plain
+  DEV-2MM4.ANS:
+    mimetype: text/plain
+  DEV-2MM8.ANS:
+    mimetype: text/plain
+  DEV-2TD1.ANS:
+    mimetype: text/plain
+  DEV-2TD2.ANS:
+    mimetype: text/plain
+  DEV-2TD3.ANS:
+    mimetype: text/plain
+  DEV-2TD6.ANS:
+    mimetype: text/plain
+  DEV-2TD7.ANS:
+    mimetype: text/plain
+  DEV-2TD8.ANS:
+    mimetype: text/plain
+  DEV-2TT1.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FLG!APP.EXE:
+    mimetype: application/x-msdos-program
+  MRD-2P2D.ANS:
+    mimetype: text/plain
+  MRD-BASH.JPG:
+    mimetype: image/jpeg
+  MRD-BONG.ANS:
+    mimetype: text/plain
+  MRD-DOPE.ANS:
+    mimetype: text/plain
+  MRD-DRN1.JPG:
+    mimetype: image/jpeg
+  MRD-DRN2.JPG:
+    mimetype: image/jpeg
+  MRD-DRN3.JPG:
+    mimetype: image/jpeg
+  MRD-FLD1.JPG:
+    mimetype: image/jpeg
+  MRD-FLG1.JPG:
+    mimetype: image/jpeg
+  MRD-ILL1.JPG:
+    mimetype: image/jpeg
+  MRD-LEAF.ANS:
+    mimetype: text/plain
+  MRD-LTMP.ANS:
+    mimetype: text/plain
+  MRD-MEET.ANS:
+    mimetype: text/plain
+  MRD-SAGE.ANS:
+    mimetype: text/plain
+  MRD-STMP.ANS:
+    mimetype: text/plain
+  MRD-XLR8.JPG:
+    mimetype: image/jpeg
+  NEWS.ANS:
+    mimetype: text/plain

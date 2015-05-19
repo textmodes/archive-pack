@@ -1,0 +1,30 @@
+name: hacker09.zip
+hash: ddb70cae523aa0e6c7fd08f36cc9fc77
+year: 1999
+file:
+  !!binary s1BBU1NFRLMuVEhS:
+    mimetype: text/plain
+  DISTRO.TXT:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  HACKADDN.DAT:
+    mimetype: application/octet-stream
+  HACKDATA.DAT:
+    mimetype: text/plain
+  HACKER9.EXE:
+    mimetype: application/x-msdos-program
+  HACKER9A.XM:
+    mimetype: audio/x-mod
+  HACKER9D.EXE:
+    mimetype: application/x-msdos-program
+  HACKMAIN.DAT:
+    mimetype: application/octet-stream
+  HCK-AD.APP:
+    mimetype: application/octet-stream
+  HCK-GRP.APP:
+    mimetype: text/plain
+  HCK-ME.APP:
+    mimetype: text/plain
+  README.TXT:
+    mimetype: text/plain

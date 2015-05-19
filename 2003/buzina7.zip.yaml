@@ -1,0 +1,20 @@
+name: buzina7.zip
+hash: 06d6d5d95832f864291050be30d5839e
+year: 2003
+file:
+  CRS-SHD1.ANS:
+    mimetype: text/plain
+  CRS-SHD2.ANS:
+    mimetype: text/plain
+  CRS-SHD3.ANS:
+    mimetype: text/plain
+  CRS-SHD4.ANS:
+    mimetype: text/plain
+  CRS-SHD5.ANS:
+    mimetype: text/plain
+  CRS-SHD6.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  buzina.txt:
+    mimetype: text/plain

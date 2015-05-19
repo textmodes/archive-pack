@@ -1,0 +1,62 @@
+name: ete-1093.zip
+hash: cd62a0b2d6ef2923aac1a5b52ddef8aa
+year: 1993
+file:
+  ETE-1093.NFO:
+    mimetype: text/plain
+  ETE-APP.EXE:
+    mimetype: application/x-msdos-program
+  ETE_DESC.DAT:
+    mimetype: text/plain
+  EV.EXE:
+    mimetype: application/x-msdos-program
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FUN!.COM:
+    mimetype: application/x-msdos-program
+  HA-INFRM.ETE:
+    mimetype: text/plain
+  HOP.DIS:
+    mimetype: text/plain
+  MA-BAT.LIT:
+    mimetype: text/plain
+  MA-DR.ETE:
+    mimetype: text/plain
+  MA-DR2.ETE:
+    mimetype: text/plain
+  MA-ETALK.ETE:
+    mimetype: text/plain
+  MA-ETE1.ETE:
+    mimetype: text/plain
+  MA-ETE2.ETE:
+    mimetype: text/plain
+  MA-HOP.ETE:
+    mimetype: text/plain
+  MA-LNET.ETE:
+    mimetype: text/plain
+  MA-MENUS.ZIP:
+    mimetype: application/zip
+  MA-PH.ETE:
+    mimetype: text/plain
+  MA-STAT1.ETE:
+    mimetype: text/plain
+  MA-STAT2.ETE:
+    mimetype: text/plain
+  MA-STAT3.ETE:
+    mimetype: text/plain
+  MA-TOHS.ETE:
+    mimetype: text/plain
+  MA-UD.ETE:
+    mimetype: text/plain
+  MA-V2.ETE:
+    mimetype: text/plain
+  MA-VX.ETE:
+    mimetype: text/plain
+  MAZ-MEM.ETE:
+    mimetype: text/plain
+  VP-BOOM.ETE:
+    mimetype: text/plain
+  VP-CONS.ETE:
+    mimetype: text/plain
+  VP-UNCO.ETE:
+    mimetype: text/plain

@@ -1,0 +1,82 @@
+name: sense17j.zip
+hash: 06a213dcda3538f65beb9bcbb9b94896
+year: 2003
+file:
+  43-DIST.ANS:
+    mimetype: text/plain
+  43-SMAIN.ANS:
+    mimetype: text/plain
+  AVG-ACID.ANS:
+    mimetype: text/plain
+  AVG-H2.ANS:
+    mimetype: text/plain
+  AVG-TOE1.ANS:
+    mimetype: text/plain
+  BM-OUT.ANS:
+    mimetype: text/plain
+  DA-SEN.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  MAY-BW.BIN:
+    mimetype: application/octet-stream
+  MAY-DD.ANS:
+    mimetype: text/plain
+  MAY-DIZ.ASC:
+    mimetype: text/plain
+  MAY-DOWN.ANS:
+    mimetype: text/plain
+  MAY-EU.ANS:
+    mimetype: text/plain
+  MAY-LONE.BIN:
+    mimetype: text/x-binary
+  MAY-NS.ANS:
+    mimetype: text/plain
+  MEMBERS.ANS:
+    mimetype: text/plain
+  NEWS.ANS:
+    mimetype: text/plain
+  NS-ACIDI.ANS:
+    mimetype: text/plain
+  NS-FAST.RIP:
+    mimetype: image/x-rip
+  NS-H2.ANS:
+    mimetype: text/plain
+  NS-MINNA.RIP:
+    mimetype: image/x-rip
+  NS_WAKER.JPG:
+    mimetype: image/jpeg
+  NS43-PC.ANS:
+    mimetype: text/plain
+  POS!SNSE.ANS:
+    mimetype: text/plain
+  RET-EAST.ANS:
+    mimetype: text/plain
+  RET-MAY.ANS:
+    mimetype: text/plain
+  SPH_WIZ.ANS:
+    mimetype: text/plain
+  US-0UTZ.ANS:
+    mimetype: text/plain
+  US-53N53.ANS:
+    mimetype: text/plain
+  US-3457.ANS:
+    mimetype: text/plain
+  US-ACID.ANS:
+    mimetype: text/plain
+  US-DD.ANS:
+    mimetype: text/plain
+  US-ELIXR.ANS:
+    mimetype: text/plain
+  US-ICE.ANS:
+    mimetype: text/plain
+  US-LGN.ANS:
+    mimetype: text/plain
+  US-SNSE.ANS:
+    mimetype: text/plain
+  US-WOLF.ANS:
+    mimetype: text/plain
+  US-ZLD.ANS:
+    mimetype: text/plain
+  WE-NEC.ANS:
+    mimetype: text/plain

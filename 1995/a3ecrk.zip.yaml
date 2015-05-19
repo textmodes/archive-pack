@@ -1,0 +1,16 @@
+name: a3ecrk.zip
+hash: 8bc4c3df191bb9444df176b10761ff31
+year: 1995
+file:
+  0BST.NFO:
+    mimetype: text/plain
+  A3E.EXE:
+    mimetype: application/x-msdos-program
+  A3ECONF.EXE:
+    mimetype: application/x-msdos-program
+  BOERTIG.TXT:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  NEO.COM:
+    mimetype: application/x-msdos-program

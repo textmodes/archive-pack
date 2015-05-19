@@ -1,0 +1,8 @@
+name: sonic_4.zip
+hash: 231fd8a7809f1b10cc7cee51b9990574
+year: 1993
+file:
+  -RUNME.COM:
+    mimetype: application/x-msdos-program
+  SONIC_4.EXE:
+    mimetype: application/x-msdos-program

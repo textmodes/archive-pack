@@ -1,0 +1,96 @@
+name: purg-15.zip
+hash: f55deba430e1a3b3ddaa744601f722b6
+year: 1998
+file:
+  36-back.jpg:
+    mimetype: image/jpeg
+  36-vipe.gif:
+    mimetype: image/gif
+  FILELIST.TXT:
+    mimetype: text/plain
+  PLGO-15.MEM:
+    mimetype: text/plain
+  PLGO-15.NFO:
+    mimetype: text/plain
+  TR-DS.ASC:
+    mimetype: text/plain
+  VL-PURG.ASC:
+    mimetype: text/plain
+  de-asyl.jpg:
+    mimetype: image/jpeg
+  de-bsce.jpg:
+    mimetype: image/jpeg
+  de-vrtx.jpg:
+    mimetype: image/jpeg
+  decay.exe:
+    mimetype: application/x-msdos-program
+  djl-iknd.asc:
+    mimetype: text/plain
+  djl-nc.asc:
+    mimetype: text/plain
+  file_id.diz:
+    mimetype: text/plain
+  grm-clk.asc:
+    mimetype: text/plain
+  grm-dirl.asc:
+    mimetype: text/plain
+  grm-octo.asc:
+    mimetype: text/plain
+  grm-tra.asc:
+    mimetype: text/plain
+  jd-blk.asc:
+    mimetype: text/plain
+  jd-dbr.asc:
+    mimetype: text/plain
+  mid-base.asc:
+    mimetype: text/plain
+  mid-izm!.asc:
+    mimetype: text/plain
+  mid-izm.asc:
+    mimetype: text/plain
+  mid-pdm.asc:
+    mimetype: text/plain
+  nr-hys1.jpg:
+    mimetype: image/jpeg
+  ppe-area.asc:
+    mimetype: text/plain
+  ppe-art1.asc:
+    mimetype: text/plain
+  ppe-grr.asc:
+    mimetype: text/plain
+  ppe-khr.asc:
+    mimetype: text/plain
+  ppe-mod.asc:
+    mimetype: text/plain
+  ppe-stat.asc:
+    mimetype: text/plain
+  psy-purg.jpg:
+    mimetype: image/jpeg
+  ru-debrs.asc:
+    mimetype: text/plain
+  ru-tutor.asc:
+    mimetype: text/plain
+  ru-wh.asc:
+    mimetype: text/plain
+  sqr!nip1.asc:
+    mimetype: text/plain
+  tr-dinfo.asc:
+    mimetype: text/plain
+  tr-grill.asc:
+    mimetype: text/plain
+  u4-amne.asc:
+    mimetype: text/plain
+  u4-deep.asc:
+    mimetype: text/plain
+  u4-funq.asc:
+    mimetype: text/plain
+  u4-pasc.asc:
+    mimetype: text/plain
+  u4-pr15.asc:
+    mimetype: text/plain
+  u4-retr.asc:
+    mimetype: text/plain
+  u4-sharp.asc:
+    mimetype: text/plain
+  zb_col05.prg:
+    mimetype: text/plain

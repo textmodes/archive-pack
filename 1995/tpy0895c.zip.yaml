@@ -1,0 +1,26 @@
+name: tpy0895c.zip
+hash: 03b5a22777644ed43797e459bea7f8eb
+year: 1995
+file:
+  ART.PCB:
+    mimetype: application/octet-stream
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  LIMITED.PCB:
+    mimetype: application/octet-stream
+  MAIN.PCB:
+    mimetype: application/octet-stream
+  MENOVER.COM:
+    mimetype: application/x-msdos-program
+  !!binary TUVOVCi0TC5ORk8=:
+    mimetype: text/plain
+  TPY.APP:
+    mimetype: application/octet-stream
+  TPY.NFO:
+    mimetype: text/plain
+  TPY.RQT:
+    mimetype: application/octet-stream
+  TPY0895C.ASC:
+    mimetype: text/plain
+  VIRTUAL.PCB:
+    mimetype: application/octet-stream

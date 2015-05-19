@@ -1,0 +1,60 @@
+name: acid-76a.zip
+hash: 40b868e1d6df16cecf54c0347b5446af
+year: 1999
+file:
+  AcidView/AVDialog.class:
+    mimetype: application/x-java-applet
+  AcidView/AcidAnsi.class:
+    mimetype: application/x-java-applet
+  AcidView/AcidText.class:
+    mimetype: application/x-java-applet
+  AcidView/AcidView:
+    mimetype: text/x-shellscript
+  AcidView/AcidView.bat:
+    mimetype: application/x-msdos-program
+  AcidView/AcidView.class:
+    mimetype: application/x-java-applet
+  AcidView/AcidView.faq:
+    mimetype: text/plain
+  AcidView/AcidView.files:
+    mimetype: text/plain
+  AcidView/AcidView.fnt:
+    mimetype: application/octet-stream
+  AcidView/AcidView.jpg:
+    mimetype: image/jpeg
+  AcidView/AcidView.nfo:
+    mimetype: text/plain
+  AcidView/AcidXBin.class:
+    mimetype: application/x-java-applet
+  AcidView/AnsiImage.class:
+    mimetype: application/x-java-applet
+  acidapp.exe:
+    mimetype: application/x-msdos-program
+  acidmem.xb:
+    mimetype: text/x-xbin
+  ass-planet-c.jpg:
+    mimetype: image/jpeg
+  ass-planet-d.jpg:
+    mimetype: image/jpeg
+  axb-0199.jpg:
+    mimetype: image/jpeg
+  blp-intimit.jpg:
+    mimetype: image/jpeg
+  cat-acid_beanies_are_dope.jpg:
+    mimetype: image/jpeg
+  cat-dragon_trap.jpg:
+    mimetype: image/jpeg
+  cat-janes_horse.jpg:
+    mimetype: image/jpeg
+  cat-the_unspoken_word.jpg:
+    mimetype: image/jpeg
+  file_id.diz:
+    mimetype: text/plain
+  ggg-nean.jpg:
+    mimetype: image/jpeg
+  grm-the_inquisition.jpg:
+    mimetype: image/jpeg
+  our-copyright.txt:
+    mimetype: text/plain
+  release.nfo:
+    mimetype: text/plain

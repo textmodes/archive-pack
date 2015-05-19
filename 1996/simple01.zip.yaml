@@ -1,0 +1,54 @@
+name: simple01.zip
+hash: 21f25fa317e37607f7174020e7920c9f
+year: 1996
+file:
+  BZ-DR_EC.ASC:
+    mimetype: text/plain
+  BZ-INVRL.ASC:
+    mimetype: text/plain
+  BZ-PLAN1.ASC:
+    mimetype: text/plain
+  BZ-SOL01.ASC:
+    mimetype: text/plain
+  BZ-SOLA1.ASC:
+    mimetype: text/plain
+  D2-PAQ.ASC:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  HF_TOFU.ASC:
+    mimetype: text/plain
+  HP-VOMIT.TXT:
+    mimetype: text/plain
+  MG-COLLY.ANS:
+    mimetype: text/plain
+  MG-COLLY.ASC:
+    mimetype: text/plain
+  MG-COLLY.DIZ:
+    mimetype: text/plain
+  MJ-RCOIL.ASC:
+    mimetype: text/plain
+  MJ-SMP01.ASC:
+    mimetype: text/plain
+  MP-RES.ASC:
+    mimetype: text/plain
+  SIMPLE01.MEM:
+    mimetype: text/plain
+  SIMPLE01.NFO:
+    mimetype: text/plain
+  TDA_KRON.ASC:
+    mimetype: text/plain
+  TDA_PHAT.ASC:
+    mimetype: text/plain
+  TDA_SMP.ASC:
+    mimetype: text/plain
+  TDA_TRAN.ASC:
+    mimetype: text/plain
+  TDA_WACK.ASC:
+    mimetype: text/plain
+  TDA_WS.ASC:
+    mimetype: text/plain
+  TR-BROAD.ANS:
+    mimetype: text/plain
+  TR-MEAN.ANS:
+    mimetype: text/plain

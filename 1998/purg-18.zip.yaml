@@ -1,0 +1,60 @@
+name: purg-18.zip
+hash: cd9cdc1ca1211883b89d864278201f40
+year: 1998
+file:
+  2M-PURG.ANS:
+    mimetype: text/plain
+  CL-DIZ.ASC:
+    mimetype: text/plain
+  CL-PURG.ASC:
+    mimetype: text/plain
+  DE-ASL2.JPG:
+    mimetype: image/jpeg
+  DE-MAT.JPG:
+    mimetype: image/jpeg
+  DE-PC99.JPG:
+    mimetype: image/jpeg
+  DECAY.EXE:
+    mimetype: application/x-msdos-program
+  DX-CRWL.MOD:
+    mimetype: audio/x-mod
+  EZ-PURG.JPG:
+    mimetype: image/jpeg
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  JD-ASC18.COL:
+    mimetype: text/plain
+  JD-ASPR.JPG:
+    mimetype: image/jpeg
+  JD-PURG.JPG:
+    mimetype: image/jpeg
+  JP-PRG2.ASC:
+    mimetype: text/plain
+  MA-ACID.ASC:
+    mimetype: text/plain
+  MA-COE.ASC:
+    mimetype: text/plain
+  MA-PURG.ASC:
+    mimetype: text/plain
+  MA-PURG2.ASC:
+    mimetype: text/plain
+  MA-S.ASC:
+    mimetype: text/plain
+  PLGO-18.MEM:
+    mimetype: text/plain
+  PLGO-18.NFO:
+    mimetype: text/plain
+  PURGAPP.EXE:
+    mimetype: application/x-msdos-program
+  TA-ECHOE.JPG:
+    mimetype: image/jpeg
+  TR-ASC18.COL:
+    mimetype: text/plain
+  TR-PURG.ASC:
+    mimetype: text/plain
+  US-SPAZ.ASC:
+    mimetype: text/plain
+  YB-PSXF.ASC:
+    mimetype: text/plain
+  ZB-ASC18.COL:
+    mimetype: application/octet-stream

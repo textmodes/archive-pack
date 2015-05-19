@@ -1,0 +1,32 @@
+name: galm03.zip
+hash: 8b6910496b251ac744fb7e33448303f4
+year: 2001
+file:
+  HIREZ#1/CDGAlm.nfo:
+    mimetype: text/plain
+  HIREZ#1/GALM.nfo:
+    mimetype: text/plain
+  HIREZ#1/Hirez/EFCP.jpg:
+    mimetype: image/jpeg
+  HIREZ#1/Hirez/aant.jpg:
+    mimetype: image/jpeg
+  HIREZ#1/Hirez/cmic.jpg:
+    mimetype: image/jpeg
+  HIREZ#1/Hirez/ghettogirl.jpg:
+    mimetype: image/jpeg
+  HIREZ#1/Hirez/headshot.jpg:
+    mimetype: image/jpeg
+  HIREZ#1/Hirez/olhead.jpg:
+    mimetype: image/jpeg
+  HIREZ#1/Hirez/robotron.jpg:
+    mimetype: image/jpeg
+  HIREZ#1/Hirez/scream.jpg:
+    mimetype: image/jpeg
+  HIREZ#1/Hirez/sool.jpg:
+    mimetype: image/jpeg
+  HIREZ#1/Pixels/BLIZ.GIF:
+    mimetype: image/gif
+  HIREZ#1/Pixels/GWBUSH.GIF:
+    mimetype: image/gif
+  HIREZ#1/Pixels/ICEROBO.GIF:
+    mimetype: image/gif

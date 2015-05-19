@@ -1,0 +1,38 @@
+name: trs0494.zip
+hash: c7ea3549a9aee0d55dfa70e46e71f4e7
+year: 1994
+file:
+  BG-FF16.EXE:
+    mimetype: application/x-msdos-program
+  CH-ETERN.GIF:
+    mimetype: image/gif
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FS-BLACK.GIF:
+    mimetype: image/gif
+  FS-CARD.GIF:
+    mimetype: image/gif
+  FS-RASH.GIF:
+    mimetype: image/gif
+  GODS.ANS:
+    mimetype: text/plain
+  MS-SCOR.ZIP:
+    mimetype: application/zip
+  NG-MALI.GIF:
+    mimetype: image/gif
+  OF-FFGHT.GIF:
+    mimetype: image/gif
+  SV-ACID.GIF:
+    mimetype: image/gif
+  SV-ACID2.GIF:
+    mimetype: image/gif
+  SVGA.EXE:
+    mimetype: application/x-msdos-program
+  TRS.NFO:
+    mimetype: text/plain
+  TRSAPP.COM:
+    mimetype: application/x-msdos-program
+  TRSRQST.EXE:
+    mimetype: application/x-msdos-program
+  TS-ICE.GIF:
+    mimetype: image/gif

@@ -1,0 +1,26 @@
+name: acid-53b.zip
+hash: 3807fa424e09fc7926fe0e39eeaa76a1
+year: 1996
+file:
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  RA-ARTPX.XB:
+    mimetype: text/x-xbin
+  SS-GENOT.RIP:
+    mimetype: image/x-rip
+  ST-ABYSS.RIP:
+    mimetype: image/x-rip
+  ST-PROD3.RIP:
+    mimetype: image/x-rip
+  ST-XMAS.RIP:
+    mimetype: image/x-rip
+  US-HOTEL.JPG:
+    mimetype: image/jpeg
+  US-KAYA.JPG:
+    mimetype: image/jpeg
+  US-SATEL.JPG:
+    mimetype: image/jpeg
+  WC-ANGRL.JPG:
+    mimetype: image/jpeg
+  WE-WILL.SUE:
+    mimetype: text/plain

@@ -1,0 +1,26 @@
+name: milk.zip
+hash: ddf25de647a904105634b01a3c0a1a12
+year: 1999
+file:
+  1 - everyone loves milk.jpg:
+    mimetype: image/jpeg
+  2 - love in milk.gif:
+    mimetype: image/gif
+  3 - sing milk.gif:
+    mimetype: image/gif
+  4 - recognize milk.gif:
+    mimetype: image/gif
+  5 - grow in milk.gif:
+    mimetype: image/gif
+  6 - fake milk.gif:
+    mimetype: image/gif
+  7 - die without milk.gif:
+    mimetype: image/gif
+  8 - exit milk.gif:
+    mimetype: image/gif
+  9 - understanding milk.gif:
+    mimetype: image/gif
+  file_id.diz:
+    mimetype: text/plain
+  milk.nfo:
+    mimetype: text/plain

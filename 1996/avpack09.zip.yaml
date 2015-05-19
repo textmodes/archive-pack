@@ -1,0 +1,78 @@
+name: avpack09.zip
+hash: 772aaa5cae9e9c0063f059af8b0962b3
+year: 1996
+file:
+  -ADDS---.---:
+    mimetype: text/plain
+  -ANSI---.---:
+    mimetype: text/plain
+  -INFO---.---:
+    mimetype: text/plain
+  -VGA----.---:
+    mimetype: text/plain
+  AV96.EXE:
+    mimetype: application/x-msdos-program
+  AVVIEW96.NFO:
+    mimetype: text/plain
+  BA-CHAM.ANS:
+    mimetype: text/plain
+  CONTENTS.AV:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  HQ-COVEN.ANS:
+    mimetype: text/plain
+  HQ-MAIL.ANS:
+    mimetype: text/plain
+  HQ-NARC.ANS:
+    mimetype: text/plain
+  HQ-SLN.JPG:
+    mimetype: image/jpeg
+  INFO.AV:
+    mimetype: text/plain
+  KRL-ANSI.ANS:
+    mimetype: text/plain
+  KRL-ASCI.ASC:
+    mimetype: text/plain
+  KRL-AV1.RIP:
+    mimetype: image/x-rip
+  KRL-AV2.RIP:
+    mimetype: image/x-rip
+  KRL-BL.RIP:
+    mimetype: image/x-rip
+  KRL-CF1.RIP:
+    mimetype: image/x-rip
+  KRL-CVN1.GIF:
+    mimetype: image/gif
+  KRL-DRM.RIP:
+    mimetype: image/x-rip
+  KRL-HALL.GIF:
+    mimetype: image/gif
+  KRL-HMIA.RIP:
+    mimetype: image/x-rip
+  KRL-HMUM.ANS:
+    mimetype: text/plain
+  KRL-ROOM.GIF:
+    mimetype: image/gif
+  KRL-SHED.ANS:
+    mimetype: text/plain
+  KRL-SHED.RIP:
+    mimetype: image/x-rip
+  KRL-TMPL.ANS:
+    mimetype: text/plain
+  MEKKA96.TXT:
+    mimetype: text/plain
+  MEMBERS.AV:
+    mimetype: text/plain
+  READ.NOW:
+    mimetype: text/plain
+  SZ-HF.JPG:
+    mimetype: image/jpeg
+  SZ-MID.JPG:
+    mimetype: image/jpeg
+  SZ-NW.JPG:
+    mimetype: image/jpeg
+  SZ-OKAOS.JPG:
+    mimetype: image/jpeg
+  VOTE.NOW:
+    mimetype: text/plain

@@ -1,0 +1,66 @@
+name: sae-006.zip
+hash: 48bcad5f6512f6f01185a6d7d7718fdd
+year: 2001
+file:
+  (SAE006).NFO:
+    mimetype: text/plain
+  CD-666.ANS:
+    mimetype: text/plain
+  CD-CRI.ASC:
+    mimetype: text/plain
+  CD-SADUD.ASC:
+    mimetype: text/plain
+  CD-SAEG.ASC:
+    mimetype: text/plain
+  CD-SNOTH.ANS:
+    mimetype: text/plain
+  CDCHARLO.TTE:
+    mimetype: application/octet-stream
+  EB-163.ANS:
+    mimetype: text/plain
+  EB-ACF.NFO:
+    mimetype: text/plain
+  EB-COT.ANS:
+    mimetype: text/plain
+  EB-TFE.ANS:
+    mimetype: text/plain
+  EB-TFE.NFO:
+    mimetype: text/plain
+  EB-VCDA.ASC:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FMB-BEER.ASC:
+    mimetype: text/plain
+  FMB-COLL.ASC:
+    mimetype: text/plain
+  FMB-SAE.ASC:
+    mimetype: text/plain
+  FMB-SAMP.ASC:
+    mimetype: text/plain
+  FMB-SKLL.ASC:
+    mimetype: text/plain
+  FMB-SPC.ASC:
+    mimetype: text/plain
+  FMB-SPNK.ANS:
+    mimetype: text/plain
+  M0D-BEER.ANS:
+    mimetype: text/plain
+  M0D-DOOR.ANS:
+    mimetype: text/plain
+  M0D-INSO.ASC:
+    mimetype: text/plain
+  M0D-NO.ASC:
+    mimetype: text/plain
+  M0D-SCNT.ASC:
+    mimetype: text/plain
+  M0D-WSTD.ASC:
+    mimetype: text/plain
+  ORC-BEER.ANS:
+    mimetype: text/plain
+  SAE.APP:
+    mimetype: text/plain
+  SAE.NFO:
+    mimetype: text/plain
+  THUGLIFE.ORG:
+    mimetype: text/plain

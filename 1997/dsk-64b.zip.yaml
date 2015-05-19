@@ -1,0 +1,10 @@
+name: dsk-64b.zip
+hash: 8a03956d11379bb06910e0993d18bb50
+year: 1997
+file:
+  DSK-64B.ASM:
+    mimetype: text/plain
+  DSK-64B.COM:
+    mimetype: application/x-msdos-program
+  FILE_ID.DIZ:
+    mimetype: text/plain

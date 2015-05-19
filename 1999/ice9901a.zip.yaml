@@ -1,0 +1,74 @@
+name: ice9901a.zip
+hash: be3276f12134678c0b602e4c088a3562
+year: 1999
+file:
+  -ANSI---.---:
+    mimetype: text/plain
+  -CONT'D-.---:
+    mimetype: text/plain
+  -LOGO---.---:
+    mimetype: text/plain
+  -RIP----.---:
+    mimetype: text/plain
+  -STAT---.---:
+    mimetype: text/plain
+  BG-ID01.RIP:
+    mimetype: image/x-rip
+  BG-IDLED.RIP:
+    mimetype: image/x-rip
+  CO-MUSH.ICE:
+    mimetype: text/plain
+  DG-SOULS.RIP:
+    mimetype: image/x-rip
+  EQ-VEE2.ICE:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GS-GRAPE.ICE:
+    mimetype: text/plain
+  ICE-9901.DSC:
+    mimetype: text/plain
+  ICE-9901.MEM:
+    mimetype: text/plain
+  ICE-9901.NFO:
+    mimetype: text/plain
+  ICEVIEW.CNF:
+    mimetype: text/plain
+  ICEVIEW.DOC:
+    mimetype: text/plain
+  ICEVIEW.EXE:
+    mimetype: application/x-msdos-program
+  PV.EXE:
+    mimetype: application/x-msdos-program
+  QP-9901.ICE:
+    mimetype: text/plain
+  QP-DRG1.ICE:
+    mimetype: text/plain
+  QP-DRG2.ICE:
+    mimetype: text/plain
+  QP-IDLE1.ICE:
+    mimetype: text/plain
+  QP-LV1.ICE:
+    mimetype: text/plain
+  TE-VOID1.ICE:
+    mimetype: text/plain
+  TG-S200.ICE:
+    mimetype: text/plain
+  TI-CM666.ICE:
+    mimetype: text/plain
+  TI-CMAS4.ICE:
+    mimetype: text/plain
+  TI-CMAS5.ICE:
+    mimetype: text/plain
+  TI-SEX.ICE:
+    mimetype: text/plain
+  US-ARTS.ICE:
+    mimetype: text/plain
+  US-DRG.ICE:
+    mimetype: text/plain
+  US-HOTHR.ICE:
+    mimetype: text/plain
+  US-VOID.ICE:
+    mimetype: text/plain
+  V9-ICE3.ICE:
+    mimetype: text/plain

@@ -1,0 +1,42 @@
+name: nope-pin1.zip
+hash: 8e6672984a705ca4e2b420df237617cd
+year: 2003
+file:
+  file_id.diz:
+    mimetype: text/plain
+  phd_2x2.ans:
+    mimetype: text/plain
+  phd_bigone.asc:
+    mimetype: text/plain
+  phd_cheesy.asc:
+    mimetype: text/plain
+  phd_dafamily.asc:
+    mimetype: text/plain
+  phd_gstyle.asc:
+    mimetype: text/plain
+  phd_matchin.asc:
+    mimetype: text/plain
+  phd_nl-blue.jpg:
+    mimetype: image/jpeg
+  phd_nl-difference.jpg:
+    mimetype: image/jpeg
+  phd_nl-diffstail.jpg:
+    mimetype: image/jpeg
+  phd_nl-stoned.jpg:
+    mimetype: image/jpeg
+  phd_nutag.ans:
+    mimetype: text/plain
+  phd_ostyle.asc:
+    mimetype: text/plain
+  phd_pltb.asc:
+    mimetype: text/plain
+  phd_topdown.ans:
+    mimetype: text/plain
+  phd_tos-blue.gif:
+    mimetype: image/gif
+  phd_tos-red.gif:
+    mimetype: image/gif
+  phd_yeah.asc:
+    mimetype: text/plain
+  release.nfo:
+    mimetype: text/plain

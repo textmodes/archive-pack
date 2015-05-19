@@ -1,0 +1,48 @@
+name: sclr-03.zip
+hash: d1b7aac9c18dd2b71ab41d4dfdb12708
+year: 2000
+file:
+  AMIGA.COM:
+    mimetype: application/x-msdos-program
+  D2-CDAYS.ASC:
+    mimetype: text/plain
+  D2-EV4.ASC:
+    mimetype: text/plain
+  D2-HMM.ASC:
+    mimetype: text/plain
+  D2-KLESH.ASC:
+    mimetype: text/plain
+  DG-16IUM.ANS:
+    mimetype: text/plain
+  DG-1ST.ANS:
+    mimetype: text/plain
+  DG-ART.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FILES.BBS:
+    mimetype: text/plain
+  PC.COM:
+    mimetype: application/x-msdos-program
+  PSH-DGTL.TXT:
+    mimetype: text/plain
+  PSH-LNR.TXT:
+    mimetype: text/plain
+  SCLR-03.NFO:
+    mimetype: text/plain
+  SL-COMPR.ASC:
+    mimetype: text/plain
+  SL-DATN.ASC:
+    mimetype: text/plain
+  SL-FNALS.ASC:
+    mimetype: text/plain
+  SL-NEWFS.ASC:
+    mimetype: text/plain
+  SL-PRTCT.ASC:
+    mimetype: text/plain
+  SL-SECKA.ASC:
+    mimetype: text/plain
+  SL-TMTD.ASC:
+    mimetype: text/plain
+  US-SECTF.ASC:
+    mimetype: text/plain

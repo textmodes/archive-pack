@@ -1,0 +1,84 @@
+name: acdu0493.zip
+hash: 86b432db888bae0a04b7cc8914d5f818
+year: 1993
+file:
+  ACDU0493.NFO:
+    mimetype: text/plain
+  ACID0393.ANS:
+    mimetype: text/plain
+  ACIDART.APL:
+    mimetype: text/plain
+  ACIDCOUR.APL:
+    mimetype: text/plain
+  CE-PSYW1.ANS:
+    mimetype: text/plain
+  CE-UNDER.ANS:
+    mimetype: text/plain
+  CP-ACID1.EXE:
+    mimetype: application/x-msdos-program
+  CP-CID.ZIP:
+    mimetype: application/zip
+  CP-ROSE1.EXE:
+    mimetype: application/x-msdos-program
+  DV-DSOC1.EXE:
+    mimetype: application/x-msdos-program
+  EX-SOFV1.ANS:
+    mimetype: text/plain
+  FD-BCKM1.ZIP:
+    mimetype: application/zip
+  FD-ELUS.ANS:
+    mimetype: text/plain
+  FD-SKY.ANS:
+    mimetype: text/plain
+  FD-TFG2.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FN-DOSTM.ANS:
+    mimetype: text/plain
+  FN-FRIN1.ANS:
+    mimetype: text/plain
+  FN-O2WF1.ANS:
+    mimetype: text/plain
+  FN-O2WF2.ANS:
+    mimetype: text/plain
+  FN-TRASH.ANS:
+    mimetype: text/plain
+  IM-AC02.ANS:
+    mimetype: text/plain
+  IM-AC03.ANS:
+    mimetype: text/plain
+  JD-OSN.ANS:
+    mimetype: text/plain
+  MF-ROSE1.EXE:
+    mimetype: application/x-msdos-program
+  MF-SANC1.EXE:
+    mimetype: application/x-msdos-program
+  MH-ACDMN.EXE:
+    mimetype: application/x-msdos-program
+  MM-DSOC1.EXE:
+    mimetype: application/x-msdos-program
+  MX-UNTCH.EXE:
+    mimetype: application/x-msdos-program
+  RS-ACD3D.EXE:
+    mimetype: application/x-msdos-program
+  RS-MARCH.EXE:
+    mimetype: application/x-msdos-program
+  RS-SOURC.ZIP:
+    mimetype: application/zip
+  SC-N0393.ANS:
+    mimetype: text/plain
+  TK-AV350.EXE:
+    mimetype: application/x-msdos-program
+  TK-BEDLM.ANS:
+    mimetype: text/plain
+  TK-DISL.ANS:
+    mimetype: text/plain
+  VN-FZONE.ANS:
+    mimetype: text/plain
+  VS-SANC1.ANS:
+    mimetype: text/plain
+  ZN-METAL.ANS:
+    mimetype: text/plain
+  ZN-OBSD.ANS:
+    mimetype: text/plain

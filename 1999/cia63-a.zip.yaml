@@ -1,0 +1,42 @@
+name: cia63-a.zip
+hash: 833441aeb07954c532f461e30893e794
+year: 1999
+file:
+  '---CIA--.---':
+    mimetype: text/plain
+  '---ETC--.---':
+    mimetype: text/plain
+  --CNTD--.---:
+    mimetype: text/plain
+  --INFO--.---:
+    mimetype: text/plain
+  0599info.cia:
+    mimetype: text/plain
+  0599memb.cia:
+    mimetype: text/plain
+  BC-DSP.ASC:
+    mimetype: text/plain
+  FIL-JAMZ.CIA:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  Klu-tbh.cia:
+    mimetype: text/plain
+  RA-CIA.CIA:
+    mimetype: text/plain
+  SP-CIA1.ASC:
+    mimetype: text/plain
+  Sub-free.cia:
+    mimetype: text/plain
+  US-GREE.CIA:
+    mimetype: text/plain
+  Us-h0th.cia:
+    mimetype: text/plain
+  VIEWER--.---:
+    mimetype: text/plain
+  WIRETAP.DOC:
+    mimetype: text/plain
+  WIRETAP.EXE:
+    mimetype: application/x-msdos-program
+  Zv-cia.cia:
+    mimetype: text/plain

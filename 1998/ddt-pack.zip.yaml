@@ -1,0 +1,36 @@
+name: ddt-pack.zip
+hash: 5f4b707e98f04b9ea594203d3c50f4c8
+year: 1998
+file:
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  OBL_B_T.PNG:
+    mimetype: image/png
+  P_01_86.PNG:
+    mimetype: image/png
+  P_02_87.PNG:
+    mimetype: image/png
+  P_03_94.PNG:
+    mimetype: image/png
+  P_04_93.PNG:
+    mimetype: image/png
+  P_05_85.JPG:
+    mimetype: image/jpeg
+  P_06_88.JPG:
+    mimetype: image/jpeg
+  P_07_82.PNG:
+    mimetype: image/png
+  P_08_92.PNG:
+    mimetype: image/png
+  P_09_81.PNG:
+    mimetype: image/png
+  P_10_83.PNG:
+    mimetype: image/png
+  P_11_84.PNG:
+    mimetype: image/png
+  P_12_89.PNG:
+    mimetype: image/png
+  P_BONUCE.JPG:
+    mimetype: image/jpeg
+  UPLOAD.FRM:
+    mimetype: text/plain

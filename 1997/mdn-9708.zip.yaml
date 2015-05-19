@@ -1,0 +1,46 @@
+name: mdn-9708.zip
+hash: 122183935ca4396b754056acf8fd7ae9
+year: 1997
+file:
+  -ANSI---.---:
+    mimetype: text/plain
+  -ASCII--.---:
+    mimetype: text/plain
+  -INFO---.---:
+    mimetype: text/plain
+  -OTHER--.---:
+    mimetype: text/plain
+  E0-DSGT.ANS:
+    mimetype: text/plain
+  E0-LEGO.ANS:
+    mimetype: text/plain
+  E0-PROFL.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  MDN-9708.NFO:
+    mimetype: text/plain
+  MR-AOD.ANS:
+    mimetype: text/plain
+  MR-COMPO.ANS:
+    mimetype: text/plain
+  MR-ESCAP.ASC:
+    mimetype: text/plain
+  MR-HELLS.ANS:
+    mimetype: text/plain
+  MR-TLC.ANS:
+    mimetype: text/plain
+  NEWS9708.NFO:
+    mimetype: text/plain
+  RS-APP.ANS:
+    mimetype: text/plain
+  RS-BIOH.ASC:
+    mimetype: text/plain
+  RS-EPS.ANS:
+    mimetype: text/plain
+  RS-MCGA.ASC:
+    mimetype: text/plain
+  US-MDN.ANS:
+    mimetype: text/plain
+  X.BAT:
+    mimetype: application/x-msdos-program

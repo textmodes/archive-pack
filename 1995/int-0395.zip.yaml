@@ -1,0 +1,46 @@
+name: int-0395.zip
+hash: 9f9d2dd9f12519fb6b30ca190c3b6c96
+year: 1995
+file:
+  DF-AR1.ANS:
+    mimetype: text/plain
+  DF-DG1.ANS:
+    mimetype: text/plain
+  DF-PR1.ANS:
+    mimetype: text/plain
+  DF-SL1.ANS:
+    mimetype: text/plain
+  EV-ANTI.ANS:
+    mimetype: text/plain
+  EV-UNF.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GD-NEVEL.ANS:
+    mimetype: text/plain
+  GD-SATA2.ANS:
+    mimetype: text/plain
+  GL-FW.ANS:
+    mimetype: text/plain
+  GL-HOLO1.ANS:
+    mimetype: text/plain
+  GL-RS.ANS:
+    mimetype: text/plain
+  HV-HUMA.ANS:
+    mimetype: text/plain
+  HV-UC.ANS:
+    mimetype: text/plain
+  HV-VOID.ANS:
+    mimetype: text/plain
+  INT-0395.MEM:
+    mimetype: text/plain
+  INT-0395.NFO:
+    mimetype: text/plain
+  IQ-SL1.ANS:
+    mimetype: text/plain
+  QT-REG1.ANS:
+    mimetype: text/plain
+  QT-SN1.ANS:
+    mimetype: text/plain
+  US-KRKL1.ANS:
+    mimetype: text/plain

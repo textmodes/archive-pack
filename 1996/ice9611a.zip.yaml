@@ -1,0 +1,66 @@
+name: ice9611a.zip
+hash: d8d786932c586bcaefb70714add71535
+year: 1996
+file:
+  -ANSI---.---:
+    mimetype: text/plain
+  -LOGO---.---:
+    mimetype: text/plain
+  ASS-GS2.BIN:
+    mimetype: text/x-binary
+  AX-1YR.ICE:
+    mimetype: text/plain
+  AZ-PROMO.ICE:
+    mimetype: text/plain
+  BV-FAIL1.ICE:
+    mimetype: text/plain
+  BV-THUR1.ICE:
+    mimetype: text/plain
+  CONT'D:
+    mimetype: text/plain
+  CU-DV0.ICE:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  ICE-9611.DSC:
+    mimetype: text/plain
+  ICE-9611.MEM:
+    mimetype: text/plain
+  ICE-9611.NFO:
+    mimetype: text/plain
+  ICE-9611.SIT:
+    mimetype: text/plain
+  ICEVIEW.CNF:
+    mimetype: text/plain
+  ICEVIEW.DOC:
+    mimetype: text/plain
+  ICEVIEW.EXE:
+    mimetype: application/x-msdos-program
+  IV-PIF.DVP:
+    mimetype: application/octet-stream
+  JK-FAIL.ICE:
+    mimetype: text/plain
+  KA-666.ICE:
+    mimetype: text/plain
+  KP-KAOZ.ICE:
+    mimetype: text/plain
+  MA-LGO02.ICE:
+    mimetype: text/plain
+  ND-LOGO1.ICE:
+    mimetype: text/plain
+  PV.EXE:
+    mimetype: application/x-msdos-program
+  TI-POO!.ICE:
+    mimetype: text/plain
+  US-FC4.ICE:
+    mimetype: text/plain
+  US-FL1.ICE:
+    mimetype: text/plain
+  US-FLAT.ICE:
+    mimetype: text/plain
+  US-ICE1.ICE:
+    mimetype: text/plain
+  US-NYU.ICE:
+    mimetype: text/plain
+  US-SD.ICE:
+    mimetype: text/plain

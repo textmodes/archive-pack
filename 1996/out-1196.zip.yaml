@@ -1,0 +1,54 @@
+name: out-1196.zip
+hash: f4eee97cac7bc7c1bd80981faa16110f
+year: 1996
+file:
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FILELIST.TXT:
+    mimetype: text/plain
+  LS-CHRST.ANS:
+    mimetype: text/plain
+  OUT-CH1.ANS:
+    mimetype: text/plain
+  OUT-CH1.RIP:
+    mimetype: image/x-rip
+  OUT-CH2.ANS:
+    mimetype: text/plain
+  OUT-CH2.RIP:
+    mimetype: image/x-rip
+  OUT-CH3.ANS:
+    mimetype: text/plain
+  OUT-CH3.RIP:
+    mimetype: image/x-rip
+  OUT-CH4.ANS:
+    mimetype: text/plain
+  OUT-CH4.RIP:
+    mimetype: image/x-rip
+  OUT-CH5.ANS:
+    mimetype: text/plain
+  OUT-CH5.RIP:
+    mimetype: image/x-rip
+  OUT-CH6.RIP:
+    mimetype: image/x-rip
+  OUT-CH7.RIP:
+    mimetype: image/x-rip
+  OUT-DIST.ANS:
+    mimetype: text/plain
+  OUT-DIST.RIP:
+    mimetype: image/x-rip
+  OUT-DIST.TXT:
+    mimetype: text/plain
+  OUT-HANN.ANS:
+    mimetype: text/plain
+  OUT-HANN.RIP:
+    mimetype: image/x-rip
+  OUT-NY.ANS:
+    mimetype: text/plain
+  OUT-NY.RIP:
+    mimetype: image/x-rip
+  OUT-TG.ANS:
+    mimetype: text/plain
+  OUT-TG.RIP:
+    mimetype: image/x-rip
+  OUT.AD:
+    mimetype: text/plain

@@ -1,0 +1,66 @@
+name: lbo-r#5.zip
+hash: 3ce68b3c998a6ae1af52b71038942c42
+year: 1994
+file:
+  '---ANS--.---':
+    mimetype: text/plain
+  '---ASC--.---':
+    mimetype: text/plain
+  '---NFO--.---':
+    mimetype: text/plain
+  ANSIM.EXE:
+    mimetype: application/x-msdos-program
+  BS-BONZ.ANS:
+    mimetype: text/plain
+  BS-DARK.ANS:
+    mimetype: text/plain
+  BS-DELIV.ANS:
+    mimetype: text/plain
+  BS-LX.ANS:
+    mimetype: text/plain
+  BS-MATR.ANS:
+    mimetype: text/plain
+  BS-PHUN.ANS:
+    mimetype: text/plain
+  BS-TCP1.ANS:
+    mimetype: text/plain
+  BS-TCP2.ANS:
+    mimetype: text/plain
+  BS-ZX.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  LBO-R#5.ANS:
+    mimetype: text/plain
+  NEO.COM:
+    mimetype: application/x-msdos-program
+  WS-DARKS.ANS:
+    mimetype: text/plain
+  WS-DISCL.ANS:
+    mimetype: text/plain
+  WS-HYSTL.ANS:
+    mimetype: text/plain
+  WS-LBOL1.ANS:
+    mimetype: text/plain
+  WS-LBON2.ANS:
+    mimetype: text/plain
+  WS-OTLFX.ANS:
+    mimetype: text/plain
+  WS-REQ1.ANS:
+    mimetype: text/plain
+  WS-REQ2.ANS:
+    mimetype: text/plain
+  WS-THUL1.ANS:
+    mimetype: text/plain
+  WS-THUL2.ANS:
+    mimetype: text/plain
+  WS-THUME.ANS:
+    mimetype: text/plain
+  WS-THUNA.ANS:
+    mimetype: text/plain
+  WS-THUNF.ANS:
+    mimetype: text/plain
+  WS-WWTID.ANS:
+    mimetype: text/plain
+  WS-WWTNF.ANS:
+    mimetype: text/plain

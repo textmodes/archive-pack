@@ -1,0 +1,12 @@
+name: wx-036.zip
+hash: 4dad8f9e7fec396d80b4f1650070ee77
+year: 1998
+file:
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  TRAINSPO.JPG:
+    mimetype: image/jpeg
+  WX.APP:
+    mimetype: application/octet-stream
+  WX.NFO:
+    mimetype: text/plain

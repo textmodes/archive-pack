@@ -1,0 +1,48 @@
+name: en-bnp.zip
+hash: 463d32996a1176f50d620dfbed7a95e4
+year: 2000
+file:
+  bnp.txt:
+    mimetype: text/plain
+  bnphtml.htm:
+    mimetype: text/html
+  en-al888.jpg:
+    mimetype: image/jpeg
+  en-an-x1.jpg:
+    mimetype: image/jpeg
+  en-aps02.jpg:
+    mimetype: image/jpeg
+  en-atb09.jpg:
+    mimetype: image/jpeg
+  en-bnp.txt:
+    mimetype: text/plain
+  en-ctv04.jpg:
+    mimetype: image/jpeg
+  en-dd04.jpg:
+    mimetype: image/jpeg
+  en-dem08.jpg:
+    mimetype: image/jpeg
+  en-dts03.jpg:
+    mimetype: image/jpeg
+  en-fa030.jpg:
+    mimetype: image/jpeg
+  en-g003.jpg:
+    mimetype: image/jpeg
+  en-mc10.jpg:
+    mimetype: image/jpeg
+  en-pth.jpg:
+    mimetype: image/jpeg
+  en-rac1.jpg:
+    mimetype: image/jpeg
+  en-slgp4.jpg:
+    mimetype: image/jpeg
+  en-tno10.jpg:
+    mimetype: image/jpeg
+  en-trt19.jpg:
+    mimetype: image/jpeg
+  en-tsa2_.jpg:
+    mimetype: image/jpeg
+  lban03.jpg:
+    mimetype: image/jpeg
+  lbban.jpg:
+    mimetype: image/jpeg

@@ -1,0 +1,56 @@
+name: gen-09.zip
+hash: f0c44a4b18b1f5e43d11273eca99b40e
+year: 2000
+file:
+  file_id.diz:
+    mimetype: text/plain
+  geninfo.ans:
+    mimetype: text/plain
+  genmem.ans:
+    mimetype: text/plain
+  kmb-gen2.ans:
+    mimetype: text/plain
+  kmb-gl2k.ans:
+    mimetype: text/plain
+  kmb-lp.ans:
+    mimetype: text/plain
+  kmb-stol.ans:
+    mimetype: text/plain
+  ktz-ddle.ans:
+    mimetype: text/plain
+  ktz-lost.ans:
+    mimetype: text/plain
+  l44-gen.ans:
+    mimetype: text/plain
+  ml-guest.asc:
+    mimetype: text/plain
+  rl-dest.ans:
+    mimetype: text/plain
+  rl-fred.ans:
+    mimetype: text/plain
+  rl-gen0.ans:
+    mimetype: text/plain
+  rl-hellb.asc:
+    mimetype: text/plain
+  rl-id3.ans:
+    mimetype: text/plain
+  rl-illt.asc:
+    mimetype: text/plain
+  rl-matz.asc:
+    mimetype: text/plain
+  rl-play.ans:
+    mimetype: text/plain
+  rl-prev.ans:
+    mimetype: text/plain
+  rl-raw.ans:
+    mimetype: text/plain
+  rl-satan.asc:
+    mimetype: text/plain
+  rl-tetra.ans:
+    mimetype: text/plain
+  rl-u54.asc:
+    mimetype: text/plain
+  us-hype.ans:
+    mimetype: text/plain
+  us-view.ans:
+    mimetype: text/plain

@@ -1,0 +1,92 @@
+name: ice9606a.zip
+hash: 179eec7a1061ac3420806badd8e6e976
+year: 1996
+file:
+  -ANSI---.---:
+    mimetype: text/plain
+  -LOGO---.---:
+    mimetype: text/plain
+  09-LOGO1.ICE:
+    mimetype: text/plain
+  AX-COLLY.ICE:
+    mimetype: text/plain
+  BT-QSTTR.ICE:
+    mimetype: text/plain
+  CONT'D:
+    mimetype: text/plain
+  DT-23.ICE:
+    mimetype: text/plain
+  DT-LOGO.ICE:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  ICE-9606.DSC:
+    mimetype: text/plain
+  ICE-9606.MEM:
+    mimetype: text/plain
+  ICE-9606.NFO:
+    mimetype: text/plain
+  ICE-9606.SIT:
+    mimetype: text/plain
+  ICE-9606.STS:
+    mimetype: text/plain
+  ICEVIEW.CNF:
+    mimetype: text/plain
+  ICEVIEW.DOC:
+    mimetype: text/plain
+  ICEVIEW.EXE:
+    mimetype: application/x-msdos-program
+  IV-PIF.DVP:
+    mimetype: application/octet-stream
+  JK-THR.ICE:
+    mimetype: text/plain
+  LM-XBBS2.ICE:
+    mimetype: text/plain
+  MM-LOGO2.ICE:
+    mimetype: text/plain
+  PA-SCUM2.ICE:
+    mimetype: text/plain
+  PA-SYNT.ICE:
+    mimetype: text/plain
+  PV.EXE:
+    mimetype: application/x-msdos-program
+  SG-LOGO3.ICE:
+    mimetype: text/plain
+  SG-XBBS1.ICE:
+    mimetype: text/plain
+  SQ2-LG13.ICE:
+    mimetype: text/plain
+  TE-FREE1.ICE:
+    mimetype: text/plain
+  TE-GOOP2.ICE:
+    mimetype: text/plain
+  TE-RUST1.ICE:
+    mimetype: text/plain
+  TE-TREM2.ICE:
+    mimetype: text/plain
+  TG-23L3.ICE:
+    mimetype: text/plain
+  TG-TH1.ICE:
+    mimetype: text/plain
+  TH-SCUM.ICE:
+    mimetype: text/plain
+  TNA-LGO1.ICE:
+    mimetype: text/plain
+  US-DARK.ICE:
+    mimetype: text/plain
+  US-DIV.ICE:
+    mimetype: text/plain
+  US-EC1.ICE:
+    mimetype: text/plain
+  US-FREE.ICE:
+    mimetype: text/plain
+  US-I96.ICE:
+    mimetype: text/plain
+  US-ICECL.ICE:
+    mimetype: text/plain
+  US-SANC1.ICE:
+    mimetype: text/plain
+  WY-COLY1.ICE:
+    mimetype: text/plain
+  WY-ICE1.ICE:
+    mimetype: text/plain

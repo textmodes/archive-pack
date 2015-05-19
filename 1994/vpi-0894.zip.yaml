@@ -1,0 +1,74 @@
+name: vpi-0894.zip
+hash: 26375c1276ed9dfa4815da6836ff6dd1
+year: 1994
+file:
+  !!binary /v7+/v7+/v4u/v7+:
+    mimetype: application/octet-stream
+  !!binary /f39/f39/f0u/f39:
+    mimetype: application/octet-stream
+  !!binary +Pj4+Pj4+Pgu+Pj4:
+    mimetype: application/octet-stream
+  !!binary +fn5+fn5+fku+fn5:
+    mimetype: application/octet-stream
+  11PE-LCD.NFO:
+    mimetype: text/plain
+  11PE-LCD.WAD:
+    mimetype: application/octet-stream
+  11PE-REF.NFO:
+    mimetype: text/plain
+  11PE-REF.WAD:
+    mimetype: application/octet-stream
+  11PE-TWS.NFO:
+    mimetype: text/plain
+  11PE-TWS.WAD:
+    mimetype: application/octet-stream
+  BYEPPE.ZIP:
+    mimetype: application/zip
+  CX-SUBCH.ANS:
+    mimetype: text/plain
+  CX-TMS.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FILE_ID.PCB:
+    mimetype: text/plain
+  MP-STRAN.ANS:
+    mimetype: text/plain
+  NEO.COM:
+    mimetype: application/x-msdos-program
+  PE-FOCUS.GIF:
+    mimetype: image/gif
+  PE-INLAY.GIF:
+    mimetype: image/gif
+  PE-STNEH.GIF:
+    mimetype: image/gif
+  PE-SUBCH.GIF:
+    mimetype: image/gif
+  PE-VIS.GIF:
+    mimetype: image/gif
+  PE-VPI2.GIF:
+    mimetype: image/gif
+  READTHIS.DOC:
+    mimetype: text/plain
+  TN-BLACK.LIT:
+    mimetype: text/plain
+  TN-DAMN.LIT:
+    mimetype: text/plain
+  TN-DEMON.LIT:
+    mimetype: text/plain
+  TN-ETIN.LIT:
+    mimetype: text/plain
+  TN-NEG.LIT:
+    mimetype: text/plain
+  TN-SUBCH.LIT:
+    mimetype: text/plain
+  TN-TURML.LIT:
+    mimetype: text/plain
+  !!binary VE9XTlNISVAu/v7+:
+    mimetype: text/plain
+  VPI-PACK.NFO:
+    mimetype: text/plain
+  VPI.APP:
+    mimetype: text/plain
+  VPI.NFO:
+    mimetype: text/plain

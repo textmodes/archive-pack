@@ -1,0 +1,84 @@
+name: tribe-13.zip
+hash: 95959ce528355ea25f5c9815ab478409
+year: 1994
+file:
+  BGI4TV.ZIP:
+    mimetype: application/zip
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  HS-TRIBE.TRI:
+    mimetype: text/plain
+  INSTINCT.001:
+    mimetype: text/plain
+  KM-HID.TRI:
+    mimetype: text/plain
+  KM-OLDIE.BIN:
+    mimetype: text/x-binary
+  MG-ANDRO.TRI:
+    mimetype: text/plain
+  MG-APOC.TRI:
+    mimetype: text/plain
+  MG-BB.TRI:
+    mimetype: text/plain
+  MG-HARVM.TRI:
+    mimetype: text/plain
+  MG-HFORC.TRI:
+    mimetype: text/plain
+  MG-PANG.GIF:
+    mimetype: image/gif
+  MG-PANGE.TRI:
+    mimetype: text/plain
+  MG-PMOT.TRI:
+    mimetype: text/plain
+  MG-PSYCH.TRI:
+    mimetype: text/plain
+  MG-WWOL.TRI:
+    mimetype: text/plain
+  MT-PR1.TRI:
+    mimetype: text/plain
+  PE-MARV.ZIP:
+    mimetype: application/zip
+  PE-TRIBE.LIT:
+    mimetype: text/plain
+  PM-BW.TRI:
+    mimetype: text/plain
+  PM-EMP.TRI:
+    mimetype: text/plain
+  PM-HW.TRI:
+    mimetype: text/plain
+  PM-STDIO.TRI:
+    mimetype: text/plain
+  PM-WC.TRI:
+    mimetype: text/plain
+  PMK-ALG1.ASC:
+    mimetype: text/plain
+  PMK-ILLU.ASC:
+    mimetype: text/plain
+  PMK-REV9.ASC:
+    mimetype: text/plain
+  PMK-TDS.ASC:
+    mimetype: text/plain
+  PMK-WC.ASC:
+    mimetype: text/plain
+  PMK-WOL.ASC:
+    mimetype: text/plain
+  QZ-WOL.TRI:
+    mimetype: text/plain
+  SK-TLIE.TRI:
+    mimetype: text/plain
+  TRIBE-13.NFO:
+    mimetype: text/plain
+  TV.CFG:
+    mimetype: text/plain
+  TV.DOX:
+    mimetype: text/plain
+  TV.EXE:
+    mimetype: application/x-msdos-program
+  TV.HST:
+    mimetype: text/plain
+  UNIVESA.DOC:
+    mimetype: text/plain
+  UNIVESA.EXE:
+    mimetype: application/x-msdos-program
+  read.l8r:
+    mimetype: text/plain

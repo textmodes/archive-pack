@@ -1,0 +1,36 @@
+name: cia59-f.zip
+hash: 7bd83549351ab947e555846f7737f832
+year: 1999
+file:
+  !!binary xMRDSUHExC7ExMQ=:
+    mimetype: text/plain
+  42_CCLWD.JPG:
+    mimetype: image/jpeg
+  42_FWYWH.JPG:
+    mimetype: image/jpeg
+  42_LIE.JPG:
+    mimetype: image/jpeg
+  42_NTHNG.JPG:
+    mimetype: image/jpeg
+  42_PAD.JPG:
+    mimetype: image/jpeg
+  42_REACH.JPG:
+    mimetype: image/jpeg
+  1298INFO.CIA:
+    mimetype: text/plain
+  1298MEMB.CIA:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  IK_CULTU.JPG:
+    mimetype: image/jpeg
+  IK_FEMME.JPG:
+    mimetype: image/jpeg
+  IK_MAGIF.JPG:
+    mimetype: image/jpeg
+  WIRETAP.DOC:
+    mimetype: text/plain
+  WIRETAP.EXE:
+    mimetype: application/x-msdos-program
+  cwsdpmi.exe:
+    mimetype: application/x-msdos-program

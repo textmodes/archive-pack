@@ -1,0 +1,30 @@
+name: out-0797.zip
+hash: dfac050eb11a3fdb93d8636ff45ea459
+year: 1997
+file:
+  DISTLIST.TXT:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FILEDESC.TXT:
+    mimetype: text/plain
+  FILELIST.TXT:
+    mimetype: text/plain
+  OUT-AD.RIP:
+    mimetype: image/x-rip
+  OUT-ANSI.ANS:
+    mimetype: text/plain
+  OUT-CIR1.ANS:
+    mimetype: text/plain
+  OUT-CIR2.ANS:
+    mimetype: text/plain
+  OUT-CIR3.ANS:
+    mimetype: text/plain
+  OUT-HMAN.ANS:
+    mimetype: text/plain
+  OUT-RAPU.RIP:
+    mimetype: image/x-rip
+  OUT.AD:
+    mimetype: text/plain
+  OUTWORLD.TXT:
+    mimetype: text/plain

@@ -1,0 +1,12 @@
+name: grimscum.zip
+hash: bf9938e30e22adbf91ea57c4f0779411
+year: 1996
+file:
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GRIMSCUM.DAT:
+    mimetype: application/octet-stream
+  GRIMSCUM.EXE:
+    mimetype: application/x-msdos-program
+  GRIMSCUM.NFO:
+    mimetype: text/plain

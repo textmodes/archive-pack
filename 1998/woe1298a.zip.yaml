@@ -1,0 +1,58 @@
+name: woe1298a.zip
+hash: 098c3686f55ee953b5ecf8b10b2e42e0
+year: 1998
+file:
+  ((WOE)):
+    mimetype: text/plain
+  -VGA-/((VGA)):
+    mimetype: text/plain
+  -VGA-/DE-FRTLB.JPG:
+    mimetype: image/jpeg
+  -VGA-/DE-IMP.JPG:
+    mimetype: image/jpeg
+  -VGA-/DE-IQBBS.JPG:
+    mimetype: image/jpeg
+  -VGA-/DE-TASL.JPG:
+    mimetype: image/jpeg
+  -VGA-/DE-TNA.JPG:
+    mimetype: image/jpeg
+  -VGA-/DE-WOE3.JPG:
+    mimetype: image/jpeg
+  -VGA-/DE-WOEOV.JPG:
+    mimetype: image/jpeg
+  -VGA-/EJ-THUGL.JPG:
+    mimetype: image/jpeg
+  -VGA-/FL-WOE.JPG:
+    mimetype: image/jpeg
+  -VGA-/FL-WOE2.JPG:
+    mimetype: image/jpeg
+  -VGA-/FL-WOE3.JPG:
+    mimetype: image/jpeg
+  -VGA-/IK-AMN.JPG:
+    mimetype: image/jpeg
+  -VGA-/IK-DEP.JPG:
+    mimetype: image/jpeg
+  -VGA-/IK-DVS.JPG:
+    mimetype: image/jpeg
+  -VGA-/IK-EVANG.GIF:
+    mimetype: image/gif
+  -VGA-/IK-FEMME.JPG:
+    mimetype: image/jpeg
+  -VGA-/IK-POWER.JPG:
+    mimetype: image/jpeg
+  -VGA-/TD-IMPR2.JPG:
+    mimetype: image/jpeg
+  -VGA-/TD-WOE1.JPG:
+    mimetype: image/jpeg
+  -VGA-/US-CYBER.JPG:
+    mimetype: image/jpeg
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  LINKWOE.ZIP:
+    mimetype: application/zip
+  WOE1298.INQ:
+    mimetype: text/plain
+  WOE1298.MEM:
+    mimetype: text/plain
+  WOEAPP.EXE:
+    mimetype: application/x-msdos-program

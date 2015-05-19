@@ -1,0 +1,64 @@
+name: mx-pack18.zip
+hash: b3d7994dbb97868519e36f0e7a9bb7e3
+year: 2005
+file:
+  ASCII/COOP/MX-CPN-SCR.ASC:
+    mimetype: text/plain
+  ASCII/COOP/MX-CPN-VNR.ASC:
+    mimetype: text/plain
+  ASCII/MX-BURN.ASC:
+    mimetype: text/plain
+  ASCII/MX-DRACO.ASC:
+    mimetype: text/plain
+  ASCII/MX-PISO4.ASC:
+    mimetype: text/plain
+  ASCII/MX-SIR.ASC:
+    mimetype: text/plain
+  ASCII/MX-SZ.ASC:
+    mimetype: text/plain
+  ASCII/MX-V.ASC:
+    mimetype: text/plain
+  ASCII/MX-VNR.ASC:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  HIREZ/mx-asciiscene-forums-logo3.jpg:
+    mimetype: image/jpeg
+  HIREZ/mx-bling-og.jpg:
+    mimetype: image/jpeg
+  HIREZ/mx-clansman-keygen-template.gif:
+    mimetype: image/gif
+  HIREZ/mx-eatsushi-logo2.png:
+    mimetype: image/png
+  HIREZ/mx-efnet-logo2-for-uvex.jpg:
+    mimetype: image/jpeg
+  HIREZ/mx-embrace-keygen-logo1.gif:
+    mimetype: image/gif
+  HIREZ/mx-fromheaven-logo.jpg:
+    mimetype: image/jpeg
+  HIREZ/mx-hardbase-logo.png:
+    mimetype: image/png
+  HIREZ/mx-neimod-logo.gif:
+    mimetype: image/gif
+  HIREZ/mx-og.jpg:
+    mimetype: image/jpeg
+  HIREZ/mx-rising-sun-logo5.png:
+    mimetype: image/png
+  HIREZ/mx-rituel-sacred-keygen-logo1.gif:
+    mimetype: image/gif
+  HIREZ/mx-root-small-logo.gif:
+    mimetype: image/gif
+  HIREZ/mx-scarface-sketch.jpg:
+    mimetype: image/jpeg
+  HIREZ/mx-sketch-uvex.png:
+    mimetype: image/png
+  HIREZ/mx-tsifra-wallpaper.jpg:
+    mimetype: image/jpeg
+  HIREZ/mx-wiet-forum-logo.jpg:
+    mimetype: image/jpeg
+  ICONS/mx-amiga-big-icon.ico:
+    mimetype: image/x-icon
+  ICONS/mx-eatsushi-favicon.ico:
+    mimetype: image/x-icon
+  MAXXTRO.NFO:
+    mimetype: text/plain

@@ -1,0 +1,70 @@
+name: force-04.zip
+hash: ca9acf98f1a8b32c8978ce6c5f3f258a
+year: 1995
+file:
+  AN-DEEP1.ANS:
+    mimetype: text/plain
+  AN-LTEMP.ANS:
+    mimetype: text/plain
+  AN-TLX#1.ANS:
+    mimetype: text/plain
+  AN-TPLE.ANS:
+    mimetype: text/plain
+  APPLY.EXE:
+    mimetype: application/x-msdos-program
+  BD-TUD#1.ANS:
+    mimetype: text/plain
+  ED-FSBUB.ANS:
+    mimetype: text/plain
+  ED-P0.ANS:
+    mimetype: text/plain
+  FC-BBSLS.ZIP:
+    mimetype: application/zip
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FRC-ANS.ANS:
+    mimetype: text/plain
+  FRC-ASC.ANS:
+    mimetype: text/plain
+  FRC-MEM.ANS:
+    mimetype: text/plain
+  FRC-NFO.ANS:
+    mimetype: text/plain
+  FV.DOC:
+    mimetype: text/plain
+  FV.EXE:
+    mimetype: application/x-msdos-program
+  KT-MI.ANS:
+    mimetype: text/plain
+  KT-OK2.ANS:
+    mimetype: text/plain
+  KT-OK3.ANS:
+    mimetype: text/plain
+  MW-CREEP.ANS:
+    mimetype: text/plain
+  MW-MUD.ANS:
+    mimetype: text/plain
+  MW-TERM.BIN:
+    mimetype: text/x-binary
+  NME-AOE.ANS:
+    mimetype: text/plain
+  NME-GD#1.ANS:
+    mimetype: text/plain
+  NME-MTRX.ANS:
+    mimetype: text/plain
+  NME-TL#1.ANS:
+    mimetype: text/plain
+  NME-TS#1.ANS:
+    mimetype: text/plain
+  SB-PPE.ZIP:
+    mimetype: application/zip
+  SP-CRIB.ANS:
+    mimetype: text/plain
+  SP-MTX.ANS:
+    mimetype: text/plain
+  SP-TYKE.ANS:
+    mimetype: text/plain
+  SQ-LGO01.ANS:
+    mimetype: text/plain
+  WH-AI.MOD:
+    mimetype: audio/x-mod

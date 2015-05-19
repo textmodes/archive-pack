@@ -1,0 +1,82 @@
+name: galm05.zip
+hash: 528dfa92ba6bb3b955406334c6c7a2e0
+year: 2001
+file:
+  GT001/Ansi/MA-CRO.ANS:
+    mimetype: text/plain
+  GT001/Ansi/MA-DGN.ANS:
+    mimetype: text/plain
+  GT001/Ansi/ORMI.ANS:
+    mimetype: text/plain
+  GT001/Ansi/ORMI1.ANS:
+    mimetype: text/plain
+  GT001/Ansi/ma-lesar.ans:
+    mimetype: text/plain
+  GT001/Ansi/ma-sac.ans:
+    mimetype: text/plain
+  GT001/Ascii/Logos.nfo:
+    mimetype: text/plain
+  GT001/Ascii/MA-CRO.ASC:
+    mimetype: text/plain
+  GT001/Ascii/XZ-GALM1.ASC:
+    mimetype: text/plain
+  GT001/Ascii/clitoris.txt:
+    mimetype: text/plain
+  GT001/Ascii/ma-dma.asc:
+    mimetype: text/plain
+  GT001/Ascii/ma-pds.txt:
+    mimetype: text/plain
+  GT001/Ascii/ma-ps.asc:
+    mimetype: text/plain
+  GT001/Ascii/ma-rad.asc:
+    mimetype: text/plain
+  GT001/Ascii/ma-sac.asc:
+    mimetype: text/plain
+  GT001/Ascii/ma-tnt.asc:
+    mimetype: text/plain
+  GT001/Ascii/min1-trtr.asc:
+    mimetype: text/plain
+  GT001/Ascii/racproject.txt:
+    mimetype: text/plain
+  GT001/Ascii/template.txt:
+    mimetype: text/plain
+  GT001/Ascii/utopia.txt:
+    mimetype: text/plain
+  GT001/GT.nfo:
+    mimetype: text/plain
+  GT001/Hires/GT001.gif:
+    mimetype: image/gif
+  GT001/Hires/GT002.jpg:
+    mimetype: image/jpeg
+  GT001/Hires/GT003.jpg:
+    mimetype: image/jpeg
+  GT001/Hires/GT004.jpg:
+    mimetype: image/jpeg
+  GT001/Hires/GT005.jpg:
+    mimetype: image/jpeg
+  GT001/Hires/GT006.GIF:
+    mimetype: image/gif
+  GT001/Hires/GT007.jpg:
+    mimetype: image/jpeg
+  GT001/Hires/GT008.jpg:
+    mimetype: image/jpeg
+  GT001/Hires/GT009.jpg:
+    mimetype: image/jpeg
+  GT001/Hires/GT010.jpg:
+    mimetype: image/jpeg
+  GT001/Hires/GT011.jpg:
+    mimetype: image/jpeg
+  GT001/Hires/GT012.gif:
+    mimetype: image/gif
+  GT001/Hires/GT013.gif:
+    mimetype: image/gif
+  GT001/Hires/GT014.gif:
+    mimetype: image/gif
+  GT001/Hires/GT015.gif:
+    mimetype: image/gif
+  GT001/Tracks/Droidbot.it:
+    mimetype: audio/x-mod
+  GT001/Tracks/lestaxi.it:
+    mimetype: audio/x-mod
+  GT001/Tracks/lithis_-_spoonish_cloth.xm:
+    mimetype: audio/x-mod

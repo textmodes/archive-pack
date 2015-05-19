@@ -1,0 +1,44 @@
+name: sac0397b.zip
+hash: 2b64da26419e3f4098067f8c21ba2517
+year: 1997
+file:
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  RN-GOTH.S3M:
+    mimetype: audio/x-mod
+  ROY-2NDF.ANS:
+    mimetype: text/plain
+  ROY-ED1.ANS:
+    mimetype: text/plain
+  ROY-F!.ASC:
+    mimetype: text/plain
+  ROY-KIT.ANS:
+    mimetype: text/plain
+  ROY-PNS3.ASC:
+    mimetype: text/plain
+  ROY-PNSM.ANS:
+    mimetype: text/plain
+  ROY-TCE1.ANS:
+    mimetype: text/plain
+  SAC.EXE:
+    mimetype: application/x-msdos-program
+  SAC.NFO:
+    mimetype: text/plain
+  SPN_ARK.MOD:
+    mimetype: audio/x-mod
+  SPN_BLUP.MOD:
+    mimetype: audio/x-mod
+  SPN_CH09.MOD:
+    mimetype: audio/x-mod
+  SPN_EAGL.MOD:
+    mimetype: audio/x-mod
+  SPN_IN01.MOD:
+    mimetype: audio/x-mod
+  SPN_KRMS.MOD:
+    mimetype: audio/x-mod
+  SPN_MTRX.MOD:
+    mimetype: audio/x-mod
+  SPN_NSPL.MOD:
+    mimetype: audio/x-mod
+  SPN_PDM.MOD:
+    mimetype: audio/x-mod

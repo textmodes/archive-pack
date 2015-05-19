@@ -1,0 +1,14 @@
+name: world1.zip
+hash: d39cb16ddd6edae8f72a7ed077886432
+year: 1997
+file:
+  README.ANS:
+    mimetype: text/plain
+  WRLDANS.ZIP:
+    mimetype: application/zip
+  WRLDAPP.ZIP:
+    mimetype: application/zip
+  WRLDPIC.ZIP:
+    mimetype: application/zip
+  WRLDPUD.ZIP:
+    mimetype: application/zip

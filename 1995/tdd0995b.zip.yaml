@@ -1,0 +1,40 @@
+name: tdd0995b.zip
+hash: 86306345a0876c87b9463b8fde239001
+year: 1995
+file:
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  MDP.DOC:
+    mimetype: text/plain
+  MDP.EXE:
+    mimetype: application/x-msdos-program
+  MDP.MDI:
+    mimetype: text/plain
+  OUTDOOR2.S3M:
+    mimetype: audio/x-mod
+  TDD-0995.NFO:
+    mimetype: text/plain
+  VM-AWES.S3M:
+    mimetype: audio/x-mod
+  VM-DIEFR.S3M:
+    mimetype: audio/x-mod
+  VM-DMV4.S3M:
+    mimetype: audio/x-mod
+  VM-FRST1.S3M:
+    mimetype: audio/x-mod
+  VM-HIGHS.S3M:
+    mimetype: audio/x-mod
+  VM-LIFE.S3M:
+    mimetype: audio/x-mod
+  VM-SUNY.S3M:
+    mimetype: audio/x-mod
+  VM-TEST.S3M:
+    mimetype: audio/x-mod
+  VOICES.TXT:
+    mimetype: text/plain
+  WB-GETAW.MOD:
+    mimetype: audio/x-mod
+  WB-SHDWN.MOD:
+    mimetype: audio/x-mod
+  WELCOME.3:
+    mimetype: text/plain

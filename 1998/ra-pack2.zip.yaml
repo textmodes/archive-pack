@@ -1,0 +1,64 @@
+name: ra-pack2.zip
+hash: a985f344e41698d0c0ea500a275f0946
+year: 1998
+file:
+  CLINTON.JPG:
+    mimetype: image/jpeg
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GF-RA1.ANS:
+    mimetype: text/plain
+  GF-RA2.ANS:
+    mimetype: text/plain
+  GF-RA3.ANS:
+    mimetype: text/plain
+  JY-JYTD.JPG:
+    mimetype: image/jpeg
+  JY-JYTD2.JPG:
+    mimetype: image/jpeg
+  JY-JYTD3.JPG:
+    mimetype: image/jpeg
+  REBEL.APP:
+    mimetype: text/plain
+  REBELNFO.ANS:
+    mimetype: text/plain
+  RG-LIT1.ANS:
+    mimetype: text/plain
+  RG-LIT2.ANS:
+    mimetype: text/plain
+  RG-MTX1.ZIP:
+    mimetype: application/zip
+  RG-RA1.JPG:
+    mimetype: image/jpeg
+  RG-RA2.JPG:
+    mimetype: image/jpeg
+  RG-RA3.JPG:
+    mimetype: image/jpeg
+  RG-SEN1.ANS:
+    mimetype: text/plain
+  RG-TB.ZIP:
+    mimetype: application/zip
+  RG-THOM1.JPG:
+    mimetype: image/jpeg
+  RG-THOM2.JPG:
+    mimetype: image/jpeg
+  RG-THOM4.ANS:
+    mimetype: text/plain
+  RG-THOM5.ANS:
+    mimetype: text/plain
+  RG-THOM6.ANS:
+    mimetype: text/plain
+  SB-HEAD.ANS:
+    mimetype: text/plain
+  SB-HIP.ANS:
+    mimetype: text/plain
+  SB-UND.ANS:
+    mimetype: text/plain
+  SS-INTRO.ANS:
+    mimetype: text/plain
+  THOM.EXE:
+    mimetype: application/x-msdos-program
+  THOM.NFO:
+    mimetype: text/plain
+  jy-ra1.jpg:
+    mimetype: image/jpeg

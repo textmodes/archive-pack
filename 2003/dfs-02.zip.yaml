@@ -1,0 +1,262 @@
+name: dfs-02.zip
+hash: 0eeebd6ca860f0d75aeb0dc5151836d8
+year: 2003
+file:
+  Dfstars.nfo:
+    mimetype: text/plain
+  code/dfs_eqx .exe:
+    mimetype: application/x-msdos-program
+  hirez/KRM-RA.JPG:
+    mimetype: image/jpeg
+  hirez/acd_acme.jpg:
+    mimetype: image/jpeg
+  hirez/acd_blhins.jpg:
+    mimetype: image/jpeg
+  hirez/acd_dfs1.jpg:
+    mimetype: image/jpeg
+  hirez/acd_dfs2.bmp:
+    mimetype: image/x-ms-bmp
+  hirez/acd_dfswallpaper1.bmp:
+    mimetype: image/x-ms-bmp
+  hirez/acd_lcdiso.jpg:
+    mimetype: image/jpeg
+  hirez/acd_lckless.jpg:
+    mimetype: image/jpeg
+  hirez/acd_nbs.jpg:
+    mimetype: image/jpeg
+  hirez/acd_stn.bmp:
+    mimetype: image/x-ms-bmp
+  hirez/ast_dfs-orch.jpg:
+    mimetype: image/jpeg
+  hirez/ast_dfs_santa.jpg:
+    mimetype: image/jpeg
+  hirez/ast_evil_helpers_wp.jpg:
+    mimetype: image/jpeg
+  hirez/ast_evil_santa.jpg:
+    mimetype: image/jpeg
+  hirez/ast_freak_vampire_wp.jpg:
+    mimetype: image/jpeg
+  hirez/ast_lucid.jpg:
+    mimetype: image/jpeg
+  hirez/ast_lucid_interface.jpg:
+    mimetype: image/jpeg
+  hirez/ast_punk-skull.jpg:
+    mimetype: image/jpeg
+  hirez/ast_tsz_box.jpg:
+    mimetype: image/jpeg
+  hirez/ast_tsz_box_2.jpg:
+    mimetype: image/jpeg
+  hirez/ast_unreality-logo.jpg:
+    mimetype: image/jpeg
+  hirez/c3p_oddschool.jpg:
+    mimetype: image/jpeg
+  hirez/c3p_sinnlos1.gif:
+    mimetype: image/gif
+  hirez/c3p_xmas.jpg:
+    mimetype: image/jpeg
+  hirez/da-MOD1.jpg:
+    mimetype: image/jpeg
+  hirez/da-blz2.jpg:
+    mimetype: image/jpeg
+  hirez/da-eps2.gif:
+    mimetype: image/gif
+  hirez/da-eqx.jpg:
+    mimetype: image/jpeg
+  hirez/da-inf.jpg:
+    mimetype: image/jpeg
+  hirez/da-inst.jpg:
+    mimetype: image/jpeg
+  hirez/da-lcdiso.jpg:
+    mimetype: image/jpeg
+  hirez/da-lucid.gif:
+    mimetype: image/gif
+  hirez/da-ngen.jpg:
+    mimetype: image/jpeg
+  hirez/da-prdox3.jpg:
+    mimetype: image/jpeg
+  hirez/da-stn3.jpg:
+    mimetype: image/jpeg
+  hirez/da-tno2.jpg:
+    mimetype: image/jpeg
+  hirez/gonz_zZzZ-epsilon.jpg:
+    mimetype: image/jpeg
+  hirez/gonz_zZzZ-n3v3r3nd.jpg:
+    mimetype: image/jpeg
+  hirez/jer-dfs.jpg:
+    mimetype: image/jpeg
+  hirez/jer-eqx.jpg:
+    mimetype: image/jpeg
+  hirez/l3Xx_afl3.jpg:
+    mimetype: image/jpeg
+  hirez/l3Xx_ast_backlash3.jpg:
+    mimetype: image/jpeg
+  hirez/l3Xx_wotw-v.1.3[build-19323.414].jpg:
+    mimetype: image/jpeg
+  hirez/mr[snm]_acme1.bmp:
+    mimetype: image/x-ms-bmp
+  hirez/mr[snm]_dfs1.bmp:
+    mimetype: image/x-ms-bmp
+  hirez/syd_acme.JPG:
+    mimetype: image/jpeg
+  hirez/syd_scratch.JPG:
+    mimetype: image/jpeg
+  hirez/syd_sdwrf.JPG:
+    mimetype: image/jpeg
+  lowrez/ACD_ACID.ASC:
+    mimetype: text/plain
+  lowrez/ACD_BDS.ASC:
+    mimetype: text/plain
+  lowrez/ACD_BLT.ASC:
+    mimetype: text/plain
+  lowrez/ACD_COM.ASC:
+    mimetype: text/plain
+  lowrez/ACD_CRYP.ASC:
+    mimetype: text/plain
+  lowrez/ACD_DAN.ASC:
+    mimetype: text/plain
+  lowrez/ACD_DS.ASC:
+    mimetype: text/plain
+  lowrez/ACD_HLS.ASC:
+    mimetype: text/plain
+  lowrez/ACD_HOD.NFO:
+    mimetype: text/plain
+  lowrez/ACD_NGEN.ASC:
+    mimetype: text/plain
+  lowrez/ACD_SHA.ASC:
+    mimetype: text/plain
+  lowrez/ACD_TEC.ASC:
+    mimetype: text/plain
+  lowrez/ACD_TSP.ASC:
+    mimetype: text/plain
+  lowrez/ACD_TTS.ASC:
+    mimetype: text/plain
+  lowrez/ACD_TWZ.ASC:
+    mimetype: text/plain
+  lowrez/BWA(KosKa).asc:
+    mimetype: text/plain
+  lowrez/BWAViD(KosKa).asc:
+    mimetype: text/plain
+  lowrez/EiTiSO(KosKa).asc:
+    mimetype: text/plain
+  lowrez/FNTViD(KosKa).asc:
+    mimetype: text/plain
+  lowrez/JUSTiC(KosKa).asc:
+    mimetype: text/plain
+  lowrez/KRM-CRIM.ASC:
+    mimetype: text/plain
+  lowrez/KRM-HOD.ASC:
+    mimetype: text/plain
+  lowrez/KRM-OBI3.JPG:
+    mimetype: image/jpeg
+  lowrez/KRM-RA.ASC:
+    mimetype: text/plain
+  lowrez/KRM-WZD.ASC:
+    mimetype: text/plain
+  lowrez/KRMRADIZ.ASC:
+    mimetype: text/plain
+  lowrez/Kraefte(KosKa).asc:
+    mimetype: text/plain
+  lowrez/LOGOS(KosKa).asc:
+    mimetype: text/plain
+  lowrez/MNS(KosKa).asc:
+    mimetype: text/plain
+  lowrez/OGM(KosKa).asc:
+    mimetype: text/plain
+  lowrez/OMA(KosKa).asc:
+    mimetype: text/plain
+  lowrez/S54-BDS.ASC:
+    mimetype: text/plain
+  lowrez/S54-CW.ASC:
+    mimetype: text/plain
+  lowrez/S54-JBL.ASC:
+    mimetype: text/plain
+  lowrez/S54-MOON.ASC:
+    mimetype: text/plain
+  lowrez/S54-RTTS.ASC:
+    mimetype: text/plain
+  lowrez/S54-TREE.ASC:
+    mimetype: text/plain
+  lowrez/S54-TS.ASC:
+    mimetype: text/plain
+  lowrez/SUT(KosKa).asc:
+    mimetype: text/plain
+  lowrez/SiNiR(KosKa).asc:
+    mimetype: text/plain
+  lowrez/XDS(KosKa).asc:
+    mimetype: text/plain
+  lowrez/art-lucid.nfo:
+    mimetype: text/plain
+  lowrez/art_rlt-max.nfo:
+    mimetype: text/plain
+  lowrez/art_rlt-max_plot2.nfo:
+    mimetype: text/plain
+  lowrez/gonz_zZzZ-chr.nfo:
+    mimetype: text/plain
+  lowrez/gonz_zZzZ-djm.nfo:
+    mimetype: text/plain
+  lowrez/gonz_zZzZ-int.nfo:
+    mimetype: text/plain
+  lowrez/gonz_zZzZ-jah.nfo:
+    mimetype: text/plain
+  lowrez/gonz_zZzZ-jah2.nfo:
+    mimetype: text/plain
+  lowrez/gonz_zZzZ-spc.nfo:
+    mimetype: text/plain
+  lowrez/gonz_zZzZ-to.nfo:
+    mimetype: text/plain
+  lowrez/gonz_zZzZ-whoa.nfo:
+    mimetype: text/plain
+  lowrez/gonz_zZzZ-whoa_man.nfo:
+    mimetype: text/plain
+  lowrez/gonz_zZzZ-wod.nfo:
+    mimetype: text/plain
+  lowrez/hiro-sfv.nfo:
+    mimetype: text/plain
+  lowrez/jer-har.nfo:
+    mimetype: text/plain
+  lowrez/jer-krbz.nfo:
+    mimetype: text/plain
+  lowrez/jer-ls.nfo:
+    mimetype: text/plain
+  lowrez/jer-max.nfo:
+    mimetype: text/plain
+  lowrez/jer-mb.nfo:
+    mimetype: text/plain
+  lowrez/jer-pgo.nfo:
+    mimetype: text/plain
+  lowrez/jer-sie.nfo:
+    mimetype: text/plain
+  lowrez/jer-tlt.nfo:
+    mimetype: text/plain
+  lowrez/rlt-ac.nfo:
+    mimetype: text/plain
+  lowrez/rlt-bondfilms.nfo:
+    mimetype: text/plain
+  lowrez/rlt-dfs_1.nfo:
+    mimetype: text/plain
+  lowrez/rlt-dfs_2.nfo:
+    mimetype: text/plain
+  lowrez/rlt-dfs_diz.nfo:
+    mimetype: text/plain
+  lowrez/rlt-hvn.nfo:
+    mimetype: text/plain
+  lowrez/rlt-ogm.nfo:
+    mimetype: text/plain
+  lowrez/rlt-ogm_plot2.nfo:
+    mimetype: text/plain
+  lowrez/rlt-qqt.nfo:
+    mimetype: text/plain
+  lowrez/rlt-rlt.nfo:
+    mimetype: text/plain
+  lowrez/sdwrf-scx.nfo:
+    mimetype: text/plain
+  music/LHS_CF.xm:
+    mimetype: audio/x-mod
+  music/LHS_EOTD.MOD:
+    mimetype: audio/x-mod
+  music/LHS_TJ.mod:
+    mimetype: audio/x-mod
+  music/LHS_TLN.mod:
+    mimetype: audio/x-mod
+  music/Lhs_alpha.mod:
+    mimetype: audio/x-mod

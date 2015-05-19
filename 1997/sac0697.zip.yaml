@@ -1,0 +1,226 @@
+name: sac0697.zip
+hash: e5bcd706ef5ad4888e31a48600ecdf41
+year: 1997
+file:
+  CH-DNS.ASC:
+    mimetype: text/plain
+  CH-PDM.ASC:
+    mimetype: text/plain
+  DS-AMBIT.ASC:
+    mimetype: text/plain
+  DS-ARAID.ASC:
+    mimetype: text/plain
+  DS-BBLOW.ASC:
+    mimetype: text/plain
+  DS-BFDIZ.ASC:
+    mimetype: text/plain
+  DS-BFO01.ASC:
+    mimetype: text/plain
+  DS-BFO02.ASC:
+    mimetype: text/plain
+  DS-CAMPD.ASC:
+    mimetype: text/plain
+  DS-CLASS.ASC:
+    mimetype: text/plain
+  DS-CORE2.ASC:
+    mimetype: text/plain
+  DS-CORED.ASC:
+    mimetype: text/plain
+  DS-HDR01.ASC:
+    mimetype: text/plain
+  DS-HDR02.ASC:
+    mimetype: text/plain
+  DS-HDR03.ASC:
+    mimetype: text/plain
+  DS-HDR04.ASC:
+    mimetype: text/plain
+  DS-ILLUM.ASC:
+    mimetype: text/plain
+  DS-MUTID.ASC:
+    mimetype: text/plain
+  DS-RZR01.ASC:
+    mimetype: text/plain
+  DS-RZR02.ASC:
+    mimetype: text/plain
+  DS-RZR03.ASC:
+    mimetype: text/plain
+  DS-RZR04.ASC:
+    mimetype: text/plain
+  DS-RZR05.ASC:
+    mimetype: text/plain
+  DS-RZR06.ASC:
+    mimetype: text/plain
+  DS-RZR07.ASC:
+    mimetype: text/plain
+  DS-RZR08.ASC:
+    mimetype: text/plain
+  DS-RZR09.ASC:
+    mimetype: text/plain
+  DS-RZR10.ASC:
+    mimetype: text/plain
+  DS-RZR11.ASC:
+    mimetype: text/plain
+  DS-RZR12.ASC:
+    mimetype: text/plain
+  DS-RZR13.ASC:
+    mimetype: text/plain
+  DS-RZR14.ASC:
+    mimetype: text/plain
+  DS-RZR15.ASC:
+    mimetype: text/plain
+  DS-RZR16.ASC:
+    mimetype: text/plain
+  DS-RZR17.ASC:
+    mimetype: text/plain
+  DS-RZR18.ASC:
+    mimetype: text/plain
+  DS-RZR19.ASC:
+    mimetype: text/plain
+  DS-RZR20.ASC:
+    mimetype: text/plain
+  DS-RZR21.ASC:
+    mimetype: text/plain
+  DS-RZR22.ASC:
+    mimetype: text/plain
+  DS-SAC01.ANS:
+    mimetype: text/plain
+  DS-TK01.ASC:
+    mimetype: text/plain
+  DS-TK02.ASC:
+    mimetype: text/plain
+  DS-TK03.ASC:
+    mimetype: text/plain
+  DS-TRM01.ASC:
+    mimetype: text/plain
+  DS-TRM02.ASC:
+    mimetype: text/plain
+  DS-TRSID.ASC:
+    mimetype: text/plain
+  DS-XFDIZ.ASC:
+    mimetype: text/plain
+  DS-XFNFO.ASC:
+    mimetype: text/plain
+  DS-XQZ01.ASC:
+    mimetype: text/plain
+  DS-XQZ02.ASC:
+    mimetype: text/plain
+  DS-XQZ03.ASC:
+    mimetype: text/plain
+  DS-XQZ04.ASC:
+    mimetype: text/plain
+  DSNIHIL1.ASC:
+    mimetype: text/plain
+  DSNIHIL2.ASC:
+    mimetype: text/plain
+  DSTHEPUB.ASC:
+    mimetype: text/plain
+  ED-PDM1.JPG:
+    mimetype: image/jpeg
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  HT-DNS3.EXE:
+    mimetype: application/x-msdos-program
+  HT-RZR3.ASC:
+    mimetype: text/plain
+  HT-RZR4.ASC:
+    mimetype: text/plain
+  HT-RZR5.ASC:
+    mimetype: text/plain
+  HT-RZR08.EXE:
+    mimetype: application/x-msdos-program
+  HT-RZR09.EXE:
+    mimetype: application/x-msdos-program
+  HT-RZR10.EXE:
+    mimetype: application/x-msdos-program
+  MF-HYBR1.EXE:
+    mimetype: application/x-msdos-program
+  MF-HYBR2.EXE:
+    mimetype: application/x-msdos-program
+  MTD-DEM1.ASC:
+    mimetype: text/plain
+  ROY-AMBN.ASC:
+    mimetype: text/plain
+  ROY-BF!.ASC:
+    mimetype: text/plain
+  ROY-BF!D.ASC:
+    mimetype: text/plain
+  ROY-DSTN.ASC:
+    mimetype: text/plain
+  ROY-FAC.ASC:
+    mimetype: text/plain
+  ROY-HH.ANS:
+    mimetype: text/plain
+  ROY-HH.ASC:
+    mimetype: text/plain
+  ROY-MUTN.ASC:
+    mimetype: text/plain
+  ROY-MW.ANS:
+    mimetype: text/plain
+  ROY-MW.ASC:
+    mimetype: text/plain
+  ROY-NS1.ANS:
+    mimetype: text/plain
+  ROY-PDMD.ASC:
+    mimetype: text/plain
+  ROY-PLUT.ASC:
+    mimetype: text/plain
+  ROY-TEND.ASC:
+    mimetype: text/plain
+  ROY-USER.ANS:
+    mimetype: text/plain
+  RV-AMBI.ASC:
+    mimetype: text/plain
+  RV-EM.ASC:
+    mimetype: text/plain
+  RV-EMPIR.ANS:
+    mimetype: text/plain
+  RV-EN.ANS:
+    mimetype: text/plain
+  RV-EN.ASC:
+    mimetype: text/plain
+  RV-FDN.ANS:
+    mimetype: text/plain
+  RV-FDN.ASC:
+    mimetype: text/plain
+  RV-KRYN.NFO:
+    mimetype: text/plain
+  RV-KRYN2.ASC:
+    mimetype: text/plain
+  RV-KRYN3.ASC:
+    mimetype: text/plain
+  RV-KRYN4.ANS:
+    mimetype: text/plain
+  RV-SAC3.ANS:
+    mimetype: text/plain
+  RV-SM.ANS:
+    mimetype: text/plain
+  RV-SPW.ANS:
+    mimetype: text/plain
+  RV-WILL.ANS:
+    mimetype: text/plain
+  RV-WILL2.ANS:
+    mimetype: text/plain
+  SAC.NFO:
+    mimetype: text/plain
+  SPN-RZR8.MOD:
+    mimetype: audio/x-mod
+  SPN-WAV1.MOD:
+    mimetype: audio/x-mod
+  SPN-WAV2.MOD:
+    mimetype: audio/x-mod
+  TU_ITR52.MOD:
+    mimetype: audio/x-mod
+  TU_ITR53.MOD:
+    mimetype: audio/x-mod
+  TU_ITR54.MOD:
+    mimetype: audio/x-mod
+  TU_ITR55.MOD:
+    mimetype: audio/x-mod
+  TU_ITR56.MOD:
+    mimetype: audio/x-mod
+  TU_ITR57.MOD:
+    mimetype: audio/x-mod
+  TU_ITR58.MOD:
+    mimetype: audio/x-mod
+  TU_ITR59.MOD:
+    mimetype: audio/x-mod

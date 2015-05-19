@@ -1,0 +1,54 @@
+name: skism-07.zip
+hash: a9aab5eebc0b058e37676b8ec2217aa3
+year: 1997
+file:
+  69-DEMO.IT:
+    mimetype: audio/x-mod
+  69-HCORE.IT:
+    mimetype: audio/x-mod
+  9707MEM.ANS:
+    mimetype: text/plain
+  9707NEWS.ANS:
+    mimetype: text/plain
+  ADD.ANS:
+    mimetype: text/plain
+  ENLIGHTE.IT:
+    mimetype: audio/x-mod
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FO-COLLY.ANS:
+    mimetype: text/plain
+  HM-CMPH1.ANS:
+    mimetype: text/plain
+  HM-COLLY.ANS:
+    mimetype: text/plain
+  II-CLY2.ASC:
+    mimetype: text/plain
+  JD-CH.ANS:
+    mimetype: text/plain
+  JD-COLLY.ANS:
+    mimetype: text/plain
+  JD-DREEM.ANS:
+    mimetype: text/plain
+  JD-SOH1.ANS:
+    mimetype: text/plain
+  KB-HC.IT:
+    mimetype: audio/x-mod
+  KJ-COMP.ANS:
+    mimetype: text/plain
+  KJ-COMPU.ANS:
+    mimetype: text/plain
+  KJ-HOOK.ASC:
+    mimetype: text/plain
+  KJ-TENTA.ANS:
+    mimetype: text/plain
+  MX-SOH.ASC:
+    mimetype: text/plain
+  N9-COLI2.ANS:
+    mimetype: text/plain
+  N9-MARSH.GIF:
+    mimetype: image/gif
+  SKAPP.EXE:
+    mimetype: application/x-msdos-program
+  SKISM07.ANS:
+    mimetype: text/plain

@@ -1,0 +1,66 @@
+name: csf-0297.zip
+hash: 5ecbb363521f9f98d0745c0721a03505
+year: 1997
+file:
+  '%KUUL%':
+    mimetype: text/plain
+  AD-CSF1.CSF:
+    mimetype: text/plain
+  AD-INET!.CSF:
+    mimetype: application/octet-stream
+  AD-MPMNU.CSF:
+    mimetype: text/plain
+  AD-TAZ!.CSF:
+    mimetype: text/plain
+  BU-ASCII.CSF:
+    mimetype: text/plain
+  BU-BHOLE.CSF:
+    mimetype: text/plain
+  BU-BLACK.CSF:
+    mimetype: text/plain
+  BU-CSF!.CSF:
+    mimetype: text/plain
+  BU-CSF2!.CSF:
+    mimetype: text/plain
+  BU-MAIN.CSF:
+    mimetype: text/plain
+  BU-NPUNK.CSF:
+    mimetype: text/plain
+  BU-UCH.CSF:
+    mimetype: text/plain
+  BU-UNDEF.CSF:
+    mimetype: text/plain
+  CSF-0297.NFO:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  MB-CSF2.JPG:
+    mimetype: image/jpeg
+  MB-CSF4.JPG:
+    mimetype: image/jpeg
+  MR-ANSI.CSF:
+    mimetype: text/plain
+  MR-BLOOD.CSF:
+    mimetype: text/plain
+  MR-COLLY.CSF:
+    mimetype: text/plain
+  MR-HMCSF.CSF:
+    mimetype: text/plain
+  MR-ISHTA.CSF:
+    mimetype: text/plain
+  MR-LOGON.CSF:
+    mimetype: text/plain
+  MR-MAIN.CSF:
+    mimetype: text/plain
+  MR-OHDAD.CSF:
+    mimetype: text/plain
+  MR-QUEND.CSF:
+    mimetype: text/plain
+  MR-RAVEN.CSF:
+    mimetype: text/plain
+  MR-TOXIC.CSF:
+    mimetype: text/plain
+  MR-UNKNO.CSF:
+    mimetype: text/plain
+  NS!MAG%1.CSF:
+    mimetype: text/plain

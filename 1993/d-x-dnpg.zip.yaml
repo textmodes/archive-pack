@@ -1,0 +1,26 @@
+name: d-x-dnpg.zip
+hash: a0d3cfa4688943652f5123d1655ece1b
+year: 1993
+file:
+  ASCINFO.NPG:
+    mimetype: text/plain
+  D-X-DNPG.MOD:
+    mimetype: audio/x-mod
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FUN!.COM:
+    mimetype: application/x-msdos-program
+  LAKERS.NFO:
+    mimetype: text/plain
+  NPG.ANS:
+    mimetype: text/plain
+  REGFORM.NPG:
+    mimetype: text/plain
+  TRY.NPG:
+    mimetype: text/plain
+  UNTOLD.ANS:
+    mimetype: text/plain
+  UNTOLD.BBS:
+    mimetype: text/plain
+  WHQBBS.NPG:
+    mimetype: text/plain

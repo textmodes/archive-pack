@@ -1,0 +1,52 @@
+name: plf-25.zip
+hash: 0c9d3499a2ccafac12cf65d770970caa
+year: 2002
+file:
+  -INTRO.ANS:
+    mimetype: text/plain
+  -NEWS.ANS:
+    mimetype: text/plain
+  _A-PLF25.ASC:
+    mimetype: text/plain
+  13-LYRA.ANS:
+    mimetype: text/plain
+  AVE-E02.ANS:
+    mimetype: text/plain
+  BYM-LD03.ANS:
+    mimetype: text/plain
+  BYM-LORD.ANS:
+    mimetype: text/plain
+  BYM-P25.ANS:
+    mimetype: text/plain
+  BYM-PI03.ANS:
+    mimetype: text/plain
+  BYM-PI04.ANS:
+    mimetype: text/plain
+  BYM-PI05.ANS:
+    mimetype: text/plain
+  E0-PLF.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  Pk!mnpol.rip:
+    mimetype: image/x-rip
+  Pk!pr0no.rip:
+    mimetype: image/x-rip
+  Pk!reviv.rip:
+    mimetype: image/x-rip
+  SPH_BBTD.ANS:
+    mimetype: text/plain
+  Sph_dtrb.ans:
+    mimetype: text/plain
+  Sq-sts7.asc:
+    mimetype: text/plain
+  Sq-tnpw.asc:
+    mimetype: text/plain
+  VRG-0212.ANS:
+    mimetype: text/plain
+  VRG-0213.ANS:
+    mimetype: text/plain
+  sq-ap.asc:
+    mimetype: text/plain
+  sq-ebi.asc:
+    mimetype: text/plain

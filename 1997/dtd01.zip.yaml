@@ -1,0 +1,48 @@
+name: dtd01.zip
+hash: 2493126e922c59f63abd04b7988aeae6
+year: 1997
+file:
+  !!binary LS0t/0FOU0kuLS0t:
+    mimetype: text/plain
+  !!binary LS0t/1NISVQuLS0t:
+    mimetype: text/plain
+  !!binary LS3/QVNDSUkuLS0t:
+    mimetype: text/plain
+  !!binary LS3/T1RIRVIuLS0t:
+    mimetype: text/plain
+  DTD-APP.ASC:
+    mimetype: text/plain
+  DTD-GL.JPG:
+    mimetype: image/jpeg
+  DTD-LOGO.JPG:
+    mimetype: image/jpeg
+  DTD-NFO.ANS:
+    mimetype: text/plain
+  DTD-POS.JPG:
+    mimetype: image/jpeg
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GL-BLOOD.ANS:
+    mimetype: text/plain
+  GL-MNDGR.ANS:
+    mimetype: text/plain
+  GL-MNSP1.ANS:
+    mimetype: text/plain
+  GL-MNSP2.ANS:
+    mimetype: text/plain
+  GL-MNSPM.ANS:
+    mimetype: text/plain
+  GL-MNSPU.ANS:
+    mimetype: text/plain
+  POS-BLAK.ANS:
+    mimetype: text/plain
+  POS-DARK.ANS:
+    mimetype: text/plain
+  POS-GOTT.ANS:
+    mimetype: text/plain
+  POS-MENU.ANS:
+    mimetype: text/plain
+  POS-MOTH.ANS:
+    mimetype: text/plain
+  POS-POSP.ANS:
+    mimetype: text/plain

@@ -1,0 +1,42 @@
+name: cia58-b.zip
+hash: 535eba7d5d5ecc03ce6222216d3a4ca7
+year: 1998
+file:
+  !!binary xE9USEVSxMQuxMTE:
+    mimetype: text/plain
+  1198INFO.CIA:
+    mimetype: text/plain
+  1198MEMB.CIA:
+    mimetype: text/plain
+  BD_DUNE.JPG:
+    mimetype: image/jpeg
+  BD_ISLE.JPG:
+    mimetype: image/jpeg
+  CIAVIEW.BAT:
+    mimetype: application/x-msdos-program
+  DB-DREAM.JPG:
+    mimetype: image/jpeg
+  DB_DREAM.JPG:
+    mimetype: image/jpeg
+  DOG_CIA.JPG:
+    mimetype: image/jpeg
+  DRAG_CIA.JPG:
+    mimetype: image/jpeg
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GF_3DUDE.JPG:
+    mimetype: image/jpeg
+  GF_BABE.JPG:
+    mimetype: image/jpeg
+  GF_BSTYL.JPG:
+    mimetype: image/jpeg
+  GF_FLOWE.JPG:
+    mimetype: image/jpeg
+  GF_PEN.JPG:
+    mimetype: image/jpeg
+  I0_DANCE.JPG:
+    mimetype: image/jpeg
+  I0_FORCE.JPG:
+    mimetype: image/jpeg
+  WIRETAP.EXE:
+    mimetype: application/x-msdos-program

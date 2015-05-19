@@ -1,0 +1,16 @@
+name: lbo-req.zip
+hash: 99c4f623a831158398cc9041de994239
+year: 1994
+file:
+  ARTIST.TXT:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FUN!.COM:
+    mimetype: application/x-msdos-program
+  HYSTERIA.ASC:
+    mimetype: text/plain
+  LBOAPP.EXE:
+    mimetype: application/x-msdos-program
+  RUNME!.EXE:
+    mimetype: application/x-msdos-program

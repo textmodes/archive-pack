@@ -1,0 +1,20 @@
+name: cnb-9605.zip
+hash: d9c80febf57e96fd4661494dac49a6d1
+year: 1996
+file:
+  CBURN.EXE:
+    mimetype: application/x-msdos-program
+  CNB.DAT:
+    mimetype: text/plain
+  DEFIANCE.NFO:
+    mimetype: text/plain
+  EQZ-PLUG.NOW:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  LISEZMOI.TXT:
+    mimetype: text/plain
+  LJF.COM:
+    mimetype: application/x-msdos-program
+  STNTC-02.GIF:
+    mimetype: image/gif

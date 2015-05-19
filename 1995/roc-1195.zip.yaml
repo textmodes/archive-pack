@@ -1,0 +1,70 @@
+name: roc-1195.zip
+hash: ab4282c1aec912e9cc32b3740a1d0d23
+year: 1995
+file:
+  '--------':
+    mimetype: text/plain
+  --ANSI--:
+    mimetype: text/plain
+  --MISC--:
+    mimetype: text/plain
+  --RIP---:
+    mimetype: text/plain
+  --VGA---:
+    mimetype: text/plain
+  AM-DCS.GIF:
+    mimetype: image/gif
+  BP-BEAN.ANS:
+    mimetype: text/plain
+  BP-BLOOD.ANS:
+    mimetype: text/plain
+  BP-BVZ.ANS:
+    mimetype: text/plain
+  BP-PLANB.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GR-ROC.GIF:
+    mimetype: image/gif
+  MG-DEMFK.RIP:
+    mimetype: image/x-rip
+  MM-PLANB.GIF:
+    mimetype: image/gif
+  NMB-PLNB.ANS:
+    mimetype: text/plain
+  PN-A1S1.ANS:
+    mimetype: text/plain
+  PN-A1S2.ANS:
+    mimetype: text/plain
+  PN-BDSTM.ANS:
+    mimetype: text/plain
+  PN-CTOP1.ANS:
+    mimetype: text/plain
+  PN-CTOP2.ANS:
+    mimetype: text/plain
+  PN-DPEP1.ANS:
+    mimetype: text/plain
+  PN-DPMNU.ANS:
+    mimetype: text/plain
+  PN-FONT1.ANS:
+    mimetype: text/plain
+  PN-PLANB.ANS:
+    mimetype: text/plain
+  PN-WHLE1.ANS:
+    mimetype: text/plain
+  ROC-1195.MEM:
+    mimetype: text/plain
+  ROC-1195.NFO:
+    mimetype: text/plain
+  ROC-APP.COM:
+    mimetype: application/x-msdos-program
+  SMI-HSHK.ANS:
+    mimetype: text/plain
+  SMI-SGON.ANS:
+    mimetype: text/plain
+  SQUID-DP.ANS:
+    mimetype: text/plain
+  SR-ENTRO.ANS:
+    mimetype: text/plain
+  SR-HK.ANS:
+    mimetype: text/plain

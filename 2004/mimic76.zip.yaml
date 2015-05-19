@@ -1,0 +1,50 @@
+name: mimic76.zip
+hash: 29e6db353c84b602d0a08a15878ec041
+year: 2004
+file:
+  file_id.diz:
+    mimetype: text/plain
+  h7-cnfo1.asc:
+    mimetype: text/plain
+  h7-devin.asc:
+    mimetype: text/plain
+  h7-kinky.asc:
+    mimetype: text/plain
+  h7-pen15.asc:
+    mimetype: text/plain
+  h7-rcity.asc:
+    mimetype: text/plain
+  h7-sars.asc:
+    mimetype: text/plain
+  je-32.txt:
+    mimetype: text/plain
+  jn-blobs.ans:
+    mimetype: text/plain
+  jn-con1.ans:
+    mimetype: text/plain
+  jn-con2.ans:
+    mimetype: text/plain
+  m7m-jst6.ans:
+    mimetype: text/plain
+  may-fm.asc:
+    mimetype: text/plain
+  may-mm.asc:
+    mimetype: text/plain
+  members.ans:
+    mimetype: text/plain
+  mimic.rdm:
+    mimetype: text/plain
+  rm-clust.asc:
+    mimetype: text/plain
+  rm-zorro.asc:
+    mimetype: text/plain
+  sp-clit.txt:
+    mimetype: text/plain
+  us-aerog.ans:
+    mimetype: text/plain
+  us-aes.ans:
+    mimetype: text/plain
+  us-belle.ans:
+    mimetype: text/plain
+  us-liq.ans:
+    mimetype: text/plain

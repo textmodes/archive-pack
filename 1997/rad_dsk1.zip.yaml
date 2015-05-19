@@ -1,0 +1,36 @@
+name: rad_dsk1.zip
+hash: f9040f87b955046c0219bb9ff704a74e
+year: 1997
+file:
+  '%@-MSCC.IT':
+    mimetype: audio/x-mod
+  AY_BORED.IT:
+    mimetype: audio/x-mod
+  CT-TRUST.S3M:
+    mimetype: audio/x-mod
+  EE_GANG.IT:
+    mimetype: audio/x-mod
+  ESQ-SLCN.XM:
+    mimetype: audio/x-mod
+  FB-S.S3M:
+    mimetype: audio/x-mod
+  FD_RD2NO.S3M:
+    mimetype: audio/x-mod
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FILE_ID.ORIGINAL.DIZ.ANS:
+    mimetype: text/plain
+  GGO-PT.IT:
+    mimetype: audio/x-mod
+  HB-THRE1.S3M:
+    mimetype: audio/x-mod
+  JB-NEO.XM:
+    mimetype: audio/x-mod
+  LOVELOST.ASC:
+    mimetype: text/plain
+  RAD_DSK1.ANS:
+    mimetype: text/plain
+  YT-BRAIN.S3M:
+    mimetype: audio/x-mod
+  YT-FAME.S3M:
+    mimetype: audio/x-mod

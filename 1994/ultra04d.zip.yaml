@@ -1,0 +1,22 @@
+name: ultra04d.zip
+hash: db14fef97a47918a52094af94ed979f6
+year: 1994
+file:
+  AUDFILES.SCR:
+    mimetype: text/plain
+  AUDHELP.HLP:
+    mimetype: application/octet-stream
+  CARDINFO.DLL:
+    mimetype: application/x-dosexec
+  CONTROL.SCR:
+    mimetype: text/plain
+  HISTORY.TXT:
+    mimetype: text/plain
+  NEOTOKYO.ANS:
+    mimetype: text/plain
+  README:
+    mimetype: text/plain
+  ULTRADD.SYS:
+    mimetype: application/x-dosexec
+  ULTRAVSD.DLL:
+    mimetype: application/x-dosexec

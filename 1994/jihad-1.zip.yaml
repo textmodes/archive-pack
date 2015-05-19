@@ -1,0 +1,36 @@
+name: jihad-1.zip
+hash: bf8b01fe17cfc1b11cc2b98583996fdc
+year: 1994
+file:
+  CODE:
+    mimetype: text/plain
+  EO-TIME.LIT:
+    mimetype: text/plain
+  HF-JGLAS.GIF:
+    mimetype: image/gif
+  HF-JHD4.GIF:
+    mimetype: image/gif
+  HF-JHDL.GIF:
+    mimetype: image/gif
+  HF-JHDL2.GIF:
+    mimetype: image/gif
+  HF-JHDRT.GIF:
+    mimetype: image/gif
+  LIT:
+    mimetype: text/plain
+  QS-P1.GIF:
+    mimetype: image/gif
+  QS-P2.GIF:
+    mimetype: image/gif
+  QS-P3.GIF:
+    mimetype: image/gif
+  TZ-JIHAD.GIF:
+    mimetype: image/gif
+  TZ-UNI1.GIF:
+    mimetype: image/gif
+  VGA:
+    mimetype: text/plain
+  ZP-JHD.EXE:
+    mimetype: application/x-msdos-program
+  ZP-JHD.PIF:
+    mimetype: application/x-dosexec

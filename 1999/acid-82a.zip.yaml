@@ -1,0 +1,66 @@
+name: acid-82a.zip
+hash: e1e7a1a89417661e08919b0455f0fb82
+year: 1999
+file:
+  ACID-82.XB:
+    mimetype: text/x-xbin
+  AcidView/AVDialog.class:
+    mimetype: application/x-java-applet
+  AcidView/AcidAnsi.class:
+    mimetype: application/x-java-applet
+  AcidView/AcidText.class:
+    mimetype: application/x-java-applet
+  AcidView/AcidView:
+    mimetype: text/x-shellscript
+  AcidView/AcidView.bat:
+    mimetype: application/x-msdos-program
+  AcidView/AcidView.class:
+    mimetype: application/x-java-applet
+  AcidView/AcidView.faq:
+    mimetype: text/plain
+  AcidView/AcidView.files:
+    mimetype: text/plain
+  AcidView/AcidView.fnt:
+    mimetype: application/octet-stream
+  AcidView/AcidView.jpg:
+    mimetype: image/jpeg
+  AcidView/AcidView.nfo:
+    mimetype: text/plain
+  AcidView/AcidXBin.class:
+    mimetype: application/x-java-applet
+  AcidView/AnsiImage.class:
+    mimetype: application/x-java-applet
+  RELEASE.NFO:
+    mimetype: text/plain
+  acidapp.exe:
+    mimetype: application/x-msdos-program
+  ady-voodoo.jpg:
+    mimetype: image/jpeg
+  ass-promo2.jpg:
+    mimetype: image/jpeg
+  ass-promo3.jpg:
+    mimetype: image/jpeg
+  bd-grave.jpg:
+    mimetype: image/jpeg
+  blp-voodoo.jpg:
+    mimetype: image/jpeg
+  cat-plush_dreadz.jpg:
+    mimetype: image/jpeg
+  f7_-80sdotorg.jpg:
+    mimetype: image/jpeg
+  f7_-80sdotorg2.jpg:
+    mimetype: image/jpeg
+  file_id.diz:
+    mimetype: text/plain
+  grm-gaijin.jpg:
+    mimetype: image/jpeg
+  i_L-family.jpg:
+    mimetype: image/jpeg
+  inf-hetero2.jpg:
+    mimetype: image/jpeg
+  inf-rzr17.jpg:
+    mimetype: image/jpeg
+  jsn-glowunderwatersky.jpg:
+    mimetype: image/jpeg
+  our-copyright.txt:
+    mimetype: text/plain

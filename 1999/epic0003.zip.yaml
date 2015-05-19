@@ -1,0 +1,42 @@
+name: epic0003.zip
+hash: d92240777ac56219bc04fdee8a94c4ac
+year: 1999
+file:
+  AR-06050.ANS:
+    mimetype: text/plain
+  AR-19520.BIN:
+    mimetype: application/octet-stream
+  AR-20855.ANS:
+    mimetype: text/plain
+  AR-22080.BIN:
+    mimetype: application/octet-stream
+  !!binary QVhfR1KPLkFOUw==:
+    mimetype: text/plain
+  AZ-EPIC1.RIP:
+    mimetype: image/x-rip
+  CG-AIS2.ANS:
+    mimetype: text/plain
+  CG-FONT1.ANS:
+    mimetype: text/plain
+  CG-PSY2.ANS:
+    mimetype: text/plain
+  CG-WORLD.ANS:
+    mimetype: text/plain
+  DR-VOID.ANS:
+    mimetype: text/plain
+  EPIC1099.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  LD-MTX.ANS:
+    mimetype: text/plain
+  LD-STING.ANS:
+    mimetype: text/plain
+  MAY-7TH.ANS:
+    mimetype: text/plain
+  MAY-COL1.ANS:
+    mimetype: text/plain
+  MAY-FF8.ANS:
+    mimetype: text/plain
+  US-TRUE1.ANS:
+    mimetype: text/plain

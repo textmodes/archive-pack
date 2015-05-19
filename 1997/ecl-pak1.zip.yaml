@@ -1,0 +1,52 @@
+name: ecl-pak1.zip
+hash: d3e0889e920ee71e1f7cac14d47c6a86
+year: 1997
+file:
+  -165LIFE.COM:
+    mimetype: application/x-msdos-program
+  ECL-INFO.ANS:
+    mimetype: text/plain
+  ECL-MEMB.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  PR_BLACK.ANS:
+    mimetype: text/plain
+  PRSN_COL.ANS:
+    mimetype: text/plain
+  PRSN_LOF.ANS:
+    mimetype: text/plain
+  PRSN_REQ.ANS:
+    mimetype: text/plain
+  RVL_MAIN.ANS:
+    mimetype: text/plain
+  SN!CHS.ANS:
+    mimetype: text/plain
+  SN!ECL.ANS:
+    mimetype: text/plain
+  SN!PAGE.ANS:
+    mimetype: text/plain
+  SN!RVL.ANS:
+    mimetype: text/plain
+  TA_COLLY.ANS:
+    mimetype: text/plain
+  TL!RBIGH.ANS:
+    mimetype: text/plain
+  TL!TARVL.ANS:
+    mimetype: text/plain
+  TL#CLUST.ANS:
+    mimetype: text/plain
+  TL#XPOYS.ANS:
+    mimetype: text/plain
+  TL%BOY.ANS:
+    mimetype: text/plain
+  TL%ZAPZA.ANS:
+    mimetype: text/plain
+  TL@MAINS.ANS:
+    mimetype: text/plain
+  TL@WHY.ANS:
+    mimetype: text/plain
+  TLTA@INS.ANS:
+    mimetype: text/plain
+  TLTA@XPL.ANS:
+    mimetype: text/plain

@@ -1,0 +1,42 @@
+name: b2k-002.zip
+hash: a9e3a07611c5d056d3390b41e033d1de
+year: 1999
+file:
+  AETOBI.ASC:
+    mimetype: text/plain
+  ARGKLU.BIN:
+    mimetype: application/octet-stream
+  B2K.002:
+    mimetype: text/plain
+  BDPKCIA.JPG:
+    mimetype: image/jpeg
+  BYM-KILL.ANS:
+    mimetype: text/plain
+  E0-BK#2.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  LE-BLEND.ANS:
+    mimetype: text/plain
+  LUM-FUNK.ANS:
+    mimetype: text/plain
+  PAC-MAN.JPG:
+    mimetype: image/jpeg
+  PK!BLEND.RIP:
+    mimetype: image/x-rip
+  SUN-BLND.ANS:
+    mimetype: text/plain
+  Z3D-B#2.ANS:
+    mimetype: text/plain
+  ZIP-PACM.ANS:
+    mimetype: text/plain
+  bed-pacman.rm:
+    mimetype: audio/x-pn-realaudio
+  ns-b2k2.rip:
+    mimetype: image/x-rip
+  ogre.jpg:
+    mimetype: image/jpeg
+  pacman.exe:
+    mimetype: application/x-msdos-program
+  prod.gif:
+    mimetype: image/gif

@@ -1,0 +1,68 @@
+name: pois0794.zip
+hash: 55f17ac1bfa1caab3810b05f1decdf4d
+year: 1994
+file:
+  APPLY.EXE:
+    mimetype: application/x-msdos-program
+  BUM-COUR.ANS:
+    mimetype: text/plain
+  BUM-CSL.ANS:
+    mimetype: text/plain
+  BUM-DFB1.ANS:
+    mimetype: text/plain
+  BUM-DFB2.ANS:
+    mimetype: text/plain
+  BUM-DNA.ANS:
+    mimetype: text/plain
+  BUM-INS2.ANS:
+    mimetype: text/plain
+  BUM-MIR.ANS:
+    mimetype: text/plain
+  BUM-TECH.ANS:
+    mimetype: text/plain
+  DMP.EXE:
+    mimetype: application/x-msdos-program
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  LOAD.MOD:
+    mimetype: audio/x-mod
+  MEM-0794.ANS:
+    mimetype: text/plain
+  NEWZ-794.ANS:
+    mimetype: text/plain
+  PLAY.EXE:
+    mimetype: application/x-msdos-program
+  POISON!.EXE:
+    mimetype: application/x-msdos-program
+  POISON.BAT:
+    mimetype: application/x-msdos-program
+  POISON.DAT:
+    mimetype: text/plain
+  POISON.FLI:
+    mimetype: video/fli
+  POISON2.BAT:
+    mimetype: application/x-msdos-program
+  POISON2.DAT:
+    mimetype: image/x-pcx
+  README.NFO:
+    mimetype: text/plain
+  SHOWANSI.EXE:
+    mimetype: application/x-msdos-program
+  TECHFX.EXE:
+    mimetype: application/x-msdos-program
+  TITLE.DAT:
+    mimetype: image/x-pcx
+  UM-BATMN.ANS:
+    mimetype: text/plain
+  UM-DARED.ANS:
+    mimetype: text/plain
+  UM-GRIMM.ANS:
+    mimetype: text/plain
+  UM-GRUFF.ANS:
+    mimetype: text/plain
+  UM-MLTDN.ANS:
+    mimetype: text/plain
+  UM-POISN.ANS:
+    mimetype: text/plain
+  YUK2.EXE:
+    mimetype: application/x-msdos-program

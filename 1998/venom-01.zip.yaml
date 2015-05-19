@@ -1,0 +1,40 @@
+name: venom-01.zip
+hash: cecd7fcba74e170360816556b65c94bf
+year: 1998
+file:
+  BL-FAIRY.JPG:
+    mimetype: image/jpeg
+  CHECK.NFO:
+    mimetype: text/plain
+  DFT-278.ANS:
+    mimetype: text/plain
+  DFT-COL1.ANS:
+    mimetype: text/plain
+  DFT-LAM.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  MLK-C001.ANS:
+    mimetype: text/plain
+  MLK-DST.ANS:
+    mimetype: text/plain
+  P-AN1.ANS:
+    mimetype: text/plain
+  P-AN2.ANS:
+    mimetype: text/plain
+  P-DANZIG.ANS:
+    mimetype: text/plain
+  P-MENU.ANS:
+    mimetype: text/plain
+  RNC-ANEU.ZIP:
+    mimetype: application/zip
+  RTH-ANUE.JPG:
+    mimetype: image/jpeg
+  SDIR.EXE:
+    mimetype: application/x-msdos-program
+  VNM-INFO.ZIP:
+    mimetype: application/zip
+  VNM-MBRS.ANS:
+    mimetype: text/plain
+  WAR-CLS1.ANS:
+    mimetype: text/plain

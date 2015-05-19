@@ -1,0 +1,16 @@
+name: hang.zip
+hash: c9538802244011fdca9bbcbcda12f77d
+year: 1999
+file:
+  !!binary 3VBBU1NFRN0uVEhS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  HANG#1.DAT:
+    mimetype: application/octet-stream
+  HANG#1.EXE:
+    mimetype: application/x-msdos-program
+  HBG.NFO:
+    mimetype: text/plain
+  README.1ST:
+    mimetype: text/plain

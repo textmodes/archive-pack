@@ -1,0 +1,96 @@
+name: rca02-96.zip
+hash: 98ed1c052b85493e7d515e59c5f6dd8d
+year: 1996
+file:
+  3D-NEX1.RCA:
+    mimetype: application/octet-stream
+  3D-PIA1.RCA:
+    mimetype: text/plain
+  3D-RCA1.RCA:
+    mimetype: text/plain
+  ANSI:
+    mimetype: application/octet-stream
+  ASCII:
+    mimetype: application/octet-stream
+  DH-EDGE.RCA:
+    mimetype: text/plain
+  DH-EGO.RCA:
+    mimetype: text/plain
+  DH-FORCE.RCA:
+    mimetype: text/plain
+  DH-OMIND.RCA:
+    mimetype: text/plain
+  DH-PCON.EXE:
+    mimetype: application/x-msdos-program
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GIF:
+    mimetype: application/octet-stream
+  GS-MED.XM:
+    mimetype: audio/x-mod
+  GS-RUNE.XM:
+    mimetype: audio/x-mod
+  GS-STRPT.RCA:
+    mimetype: text/plain
+  KIT-EI.RCA:
+    mimetype: text/plain
+  KIT-PIR.RCA:
+    mimetype: text/plain
+  KP-ALD.GIF:
+    mimetype: image/gif
+  KPRCA96.GIF:
+    mimetype: image/gif
+  MUSIC:
+    mimetype: application/octet-stream
+  MY-AOS2.RCA:
+    mimetype: text/plain
+  MY-HERN1.RCA:
+    mimetype: text/plain
+  MY-SL1.RCA:
+    mimetype: text/plain
+  RCALIST.RCA:
+    mimetype: text/plain
+  RCANEWS.RCA:
+    mimetype: text/plain
+  RCASTUFF:
+    mimetype: application/octet-stream
+  RCAVIEW.EXE:
+    mimetype: application/x-msdos-program
+  RCAVIEW.MOD:
+    mimetype: audio/x-mod
+  RCAVIEW.RCA:
+    mimetype: application/octet-stream
+  RIP:
+    mimetype: application/octet-stream
+  SH-AL3.GIF:
+    mimetype: image/gif
+  SL-NEXUS.RCA:
+    mimetype: text/plain
+  SL-RCA.RCA:
+    mimetype: text/plain
+  WC-AE.RIP:
+    mimetype: image/x-rip
+  WC-C2.RIP:
+    mimetype: image/x-rip
+  WC-CYAN.RIP:
+    mimetype: image/x-rip
+  WC-EI.RIP:
+    mimetype: image/x-rip
+  WC-GI.RIP:
+    mimetype: image/x-rip
+  WC-MECH.RIP:
+    mimetype: image/x-rip
+  WC-PANIS.XM:
+    mimetype: audio/x-mod
+  WC-PHOTO.RCA:
+    mimetype: text/plain
+  WC-RED.RIP:
+    mimetype: image/x-rip
+  WC-SPIDE.RIP:
+    mimetype: image/x-rip
+  WM-AEGO.GIF:
+    mimetype: image/gif
+  WM-MOTH.GIF:
+    mimetype: image/gif
+  ZIPTXT.TXT:
+    mimetype: text/plain

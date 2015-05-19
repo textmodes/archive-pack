@@ -1,0 +1,66 @@
+name: acdu0596.zip
+hash: 1f6e802992aa0606e5a2dcbb9aae77ba
+year: 1996
+file:
+  ACDU0596.NFO:
+    mimetype: text/plain
+  ACID0596.ANS:
+    mimetype: text/plain
+  ACIDAPP.EXE:
+    mimetype: application/x-msdos-program
+  ACIDVIEW.DAT:
+    mimetype: application/octet-stream
+  ACIDVIEW.EXE:
+    mimetype: application/x-msdos-program
+  ACIDVIEW.NFO:
+    mimetype: text/plain
+  ALC0596.ANS:
+    mimetype: text/plain
+  BS-NEZO.ANS:
+    mimetype: text/plain
+  CB-ABST.GIF:
+    mimetype: image/gif
+  CS-ACID4.GIF:
+    mimetype: image/gif
+  CS-DDOM1.GIF:
+    mimetype: image/gif
+  CS-ENTOM.GIF:
+    mimetype: image/gif
+  CS-PIR1.GIF:
+    mimetype: image/gif
+  CS-ROC1.GIF:
+    mimetype: image/gif
+  CS-SPAN1.GIF:
+    mimetype: image/gif
+  CS-XPAK1.GIF:
+    mimetype: image/gif
+  CY-EU1.RIP:
+    mimetype: image/x-rip
+  DG-BLUR1.RIP:
+    mimetype: image/x-rip
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  I1-IMPUR.GIF:
+    mimetype: image/gif
+  KO-MECHA.GIF:
+    mimetype: image/gif
+  PR-ROAD.GIF:
+    mimetype: image/gif
+  RA-ACID.ANS:
+    mimetype: text/plain
+  SB-J4F1.ANS:
+    mimetype: text/plain
+  SB-J4F2.ANS:
+    mimetype: text/plain
+  SI-FLAT5.ANS:
+    mimetype: text/plain
+  TH-ACID1.GIF:
+    mimetype: image/gif
+  US-BV2.RIP:
+    mimetype: image/x-rip
+  US-IDES2.ANS:
+    mimetype: text/plain
+  US-SOMA.RIP:
+    mimetype: image/x-rip
+  WE-WILL.SUE:
+    mimetype: text/plain

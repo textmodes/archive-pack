@@ -1,0 +1,68 @@
+name: hrg-16.zip
+hash: c1ed48f0e546627ba69b3cba7b71fc0e
+year: 1998
+file:
+  '---16---.NFO':
+    mimetype: text/plain
+  ATOM-E98.JPG:
+    mimetype: image/jpeg
+  BON-PH.JPG:
+    mimetype: image/jpeg
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GAMEGFX.GIF:
+    mimetype: image/gif
+  HRG-NFO.EXE:
+    mimetype: application/x-msdos-program
+  HVK-HIGH.ASC:
+    mimetype: text/plain
+  HVK-HRG.ASC:
+    mimetype: text/plain
+  HVK-HZRD.ASC:
+    mimetype: text/plain
+  HVK-NVRL.ASC:
+    mimetype: text/plain
+  I_L^ACID.ASC:
+    mimetype: text/plain
+  I_L^CNFL.ASC:
+    mimetype: text/plain
+  I_L^HMN.JPG:
+    mimetype: image/jpeg
+  I_L^HRG.ASC:
+    mimetype: text/plain
+  I_L^LV.ASC:
+    mimetype: text/plain
+  I_L^VDP.ASC:
+    mimetype: text/plain
+  I_L^WAR.ASC:
+    mimetype: text/plain
+  OM!IMAG.ASC:
+    mimetype: text/plain
+  OM!LENI.ANS:
+    mimetype: text/plain
+  OM!NG.ASC:
+    mimetype: text/plain
+  PHL-HD.ASC:
+    mimetype: text/plain
+  SPRO-AOG.GIF:
+    mimetype: image/gif
+  SPRO-BR.JPG:
+    mimetype: image/jpeg
+  SPRO-BRD.GIF:
+    mimetype: image/gif
+  SPRO-GOA.JPG:
+    mimetype: image/jpeg
+  SPRO-LC4.JPG:
+    mimetype: image/jpeg
+  SPRO-LCV.JPG:
+    mimetype: image/jpeg
+  SPRO-PLZ.JPG:
+    mimetype: image/jpeg
+  STR-4FOS.JPG:
+    mimetype: image/jpeg
+  STR-BUG.JPG:
+    mimetype: image/jpeg
+  US-AVNG.GIF:
+    mimetype: image/gif
+  VRX.JPG:
+    mimetype: image/jpeg

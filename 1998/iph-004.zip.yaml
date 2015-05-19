@@ -1,0 +1,30 @@
+name: iph-004.zip
+hash: 053ec76c933d0e4a927f172ccdabe7da
+year: 1998
+file:
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  IPH-.ASC:
+    mimetype: text/plain
+  IPH-AIR.ANS:
+    mimetype: text/plain
+  IPH-DIGI.ANS:
+    mimetype: text/plain
+  IPH-DRM.ANS:
+    mimetype: text/plain
+  IPH-PLSH.ANS:
+    mimetype: text/plain
+  IPH-SHIT.ANS:
+    mimetype: text/plain
+  IPH-SPD.ANS:
+    mimetype: text/plain
+  IPH-SPIN.ANS:
+    mimetype: text/plain
+  IPH-THEW.ANS:
+    mimetype: text/plain
+  !!binary SVBIXlYwRC7/:
+    mimetype: application/x-dosexec
+  NOTHING2.C:
+    mimetype: text/plain
+  !!binary Tk9USElORzIuQ/8=:
+    mimetype: text/plain

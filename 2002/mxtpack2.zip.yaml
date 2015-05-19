@@ -1,0 +1,38 @@
+name: mxtpack2.zip
+hash: 59658ba1e98c437082229f4ba58993c9
+year: 2002
+file:
+  A-VIEW.COM:
+    mimetype: application/x-msdos-program
+  AMIGA.FNT:
+    mimetype: application/octet-stream
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FILES.BBS:
+    mimetype: text/plain
+  MXT-DRG.ASC:
+    mimetype: text/plain
+  MXT-DSC.ASC:
+    mimetype: text/plain
+  MXT-FLW.ANS:
+    mimetype: text/plain
+  MXT-FOF.ASC:
+    mimetype: text/plain
+  MXT-OAT.ASC:
+    mimetype: text/plain
+  MXT-ODZ.ANS:
+    mimetype: text/plain
+  MXT-OFF.ASC:
+    mimetype: text/plain
+  MXT-SCT.ASC:
+    mimetype: text/plain
+  MXT-SIL.ASC:
+    mimetype: text/plain
+  MXT-SLR.ASC:
+    mimetype: text/plain
+  MXT-T3D.ASC:
+    mimetype: text/plain
+  MXT-TFXP.ASC:
+    mimetype: text/plain
+  THUGLIFE.ORG:
+    mimetype: text/plain

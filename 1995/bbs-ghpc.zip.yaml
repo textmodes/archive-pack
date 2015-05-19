@@ -1,0 +1,28 @@
+name: bbs-ghpc.zip
+hash: 6acc005f3622de5d5c73bf66d93f0199
+year: 1995
+file:
+  ^THE':
+    mimetype: text/plain
+  ^TRIBE':
+    mimetype: text/plain
+  BLOODBRO.NFO:
+    mimetype: text/plain
+  BUILDG.BAT:
+    mimetype: application/x-msdos-program
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GUS-HPC.TXT:
+    mimetype: text/plain
+  INSTALL.TXT:
+    mimetype: text/plain
+  NEO.COM:
+    mimetype: application/x-msdos-program
+  PROFETIA.COM:
+    mimetype: application/x-msdos-program
+  READ.ME:
+    mimetype: text/plain
+  README:
+    mimetype: text/plain
+  TRANCE.TXT:
+    mimetype: text/plain

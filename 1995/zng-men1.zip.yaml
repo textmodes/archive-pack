@@ -1,0 +1,32 @@
+name: zng-men1.zip
+hash: 8c6ce9f5e488158effb665e4e76f55d1
+year: 1995
+file:
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  JB-CLUST.ANS:
+    mimetype: text/plain
+  JB-COW.ANS:
+    mimetype: text/plain
+  JB-DIZ.ANS:
+    mimetype: text/plain
+  JB-EROT.ANS:
+    mimetype: text/plain
+  JB-H_ANS.ANS:
+    mimetype: text/plain
+  JB-HARD.ANS:
+    mimetype: text/plain
+  JB-M_ASK.ANS:
+    mimetype: text/plain
+  JB-POLAR.ANS:
+    mimetype: text/plain
+  JB-T_ANS.ANS:
+    mimetype: text/plain
+  JB-ZNG.ANS:
+    mimetype: text/plain
+  ZIONAGE.NFO:
+    mimetype: text/plain
+  ZNG-APPL.EXE:
+    mimetype: application/x-msdos-program
+  ZNG.NFO:
+    mimetype: text/plain

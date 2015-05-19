@@ -1,0 +1,82 @@
+name: royart3.zip
+hash: 82f29b44ba879e4e92bbf4b667e5202f
+year: 1994
+file:
+  BBC4.LBM:
+    mimetype: application/octet-stream
+  CBXX.ASC:
+    mimetype: text/plain
+  CDS_DEV.ASC:
+    mimetype: text/plain
+  COS2.ANS:
+    mimetype: text/plain
+  CSASC.ASC:
+    mimetype: text/plain
+  CSOC.ANS:
+    mimetype: text/plain
+  CYBRIX.LBM:
+    mimetype: application/octet-stream
+  DESERT2.ANS:
+    mimetype: text/plain
+  DIZCUT.ANS:
+    mimetype: text/plain
+  DIZCUTI.ASC:
+    mimetype: text/plain
+  DOWN.ANS:
+    mimetype: text/plain
+  FATEGATE.ASC:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FTHNFO.ASC:
+    mimetype: text/plain
+  INSANITY.ANS:
+    mimetype: text/plain
+  LEECH.ANS:
+    mimetype: text/plain
+  MYST.ANS:
+    mimetype: text/plain
+  MYSTBYE.ANS:
+    mimetype: text/plain
+  OUTLAWS.ANS:
+    mimetype: text/plain
+  PITS.ANS:
+    mimetype: text/plain
+  PROMT.ANS:
+    mimetype: text/plain
+  PTG3.ASC:
+    mimetype: text/plain
+  RAZOR11.ASC:
+    mimetype: text/plain
+  REMEMBER.COM:
+    mimetype: application/x-msdos-program
+  RISC.ASC:
+    mimetype: text/plain
+  ROY.ANS:
+    mimetype: text/plain
+  ROY.NFO:
+    mimetype: text/plain
+  SPAPIRAT.ANS:
+    mimetype: text/plain
+  SS5.ANS:
+    mimetype: text/plain
+  SS6.ANS:
+    mimetype: text/plain
+  SS7.ANS:
+    mimetype: text/plain
+  SS8.ANS:
+    mimetype: text/plain
+  SS8.ASC:
+    mimetype: text/plain
+  STATS.ANS:
+    mimetype: text/plain
+  TOAO2.ASC:
+    mimetype: text/plain
+  TOAOINFO.ASC:
+    mimetype: text/plain
+  TRSINFO.ASC:
+    mimetype: text/plain
+  UPLOAD2.ANS:
+    mimetype: text/plain
+  WILL.ANS:
+    mimetype: text/plain

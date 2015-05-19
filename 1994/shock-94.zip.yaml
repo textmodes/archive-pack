@@ -1,0 +1,74 @@
+name: shock-94.zip
+hash: 3b0df70c3d87743f549f652f02a32a94
+year: 1994
+file:
+  !!binary zc3Nzc3Nzc0uzc3N:
+    mimetype: text/plain
+  !!binary zc3Nzc3Nzc0uxMTE:
+    mimetype: text/plain
+  !!binary xMTExMTExMQuzc3N:
+    mimetype: text/plain
+  !!binary xMTExMTExMQuxMTE:
+    mimetype: text/plain
+  ACID.PCX:
+    mimetype: image/pcx
+  DJC-1.PCX:
+    mimetype: image/pcx
+  DJC-2.PCX:
+    mimetype: image/pcx
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  NEO.COM:
+    mimetype: application/x-msdos-program
+  SHOCKED.NFO:
+    mimetype: text/plain
+  SW-ACID2.GIF:
+    mimetype: image/gif
+  SW-ALTER.EXE:
+    mimetype: application/x-msdos-program
+  SW-ALTER.GIF:
+    mimetype: image/gif
+  SW-COR1.EXE:
+    mimetype: application/x-msdos-program
+  SW-CORPT.GIF:
+    mimetype: image/gif
+  SW-DREAM.EXE:
+    mimetype: application/x-msdos-program
+  SW-DREAM.GIF:
+    mimetype: image/gif
+  SW-FCITY.EXE:
+    mimetype: application/x-msdos-program
+  SW-FORBI.GIF:
+    mimetype: image/gif
+  SW-HELL.EXE:
+    mimetype: application/x-msdos-program
+  SW-HELL.GIF:
+    mimetype: image/gif
+  SW-HOTEL.EXE:
+    mimetype: application/x-msdos-program
+  SW-HOTEL.GIF:
+    mimetype: image/gif
+  SW-INSOM.EXE:
+    mimetype: application/x-msdos-program
+  SW-INSOM.GIF:
+    mimetype: image/gif
+  SW-KEG.GIF:
+    mimetype: image/gif
+  SW-KEG1.EXE:
+    mimetype: application/x-msdos-program
+  SW-OONW2.GIF:
+    mimetype: image/gif
+  SW-PSYC1.EXE:
+    mimetype: application/x-msdos-program
+  SW-PSYC1.GIF:
+    mimetype: image/gif
+  SW-PSYC2.GIF:
+    mimetype: image/gif
+  SW-PSYC3.GIF:
+    mimetype: image/gif
+  SW-SECRT.FAQ:
+    mimetype: text/plain
+  SW-SHCK1.GIF:
+    mimetype: image/gif
+  SW-TOWER.GIF:
+    mimetype: image/gif

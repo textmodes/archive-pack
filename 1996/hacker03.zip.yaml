@@ -1,0 +1,20 @@
+name: hacker03.zip
+hash: 16bff91fef805193bacc68d9ac7f2c03
+year: 1996
+file:
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  HACKER3.DAT:
+    mimetype: text/plain
+  HACKER3.DOC:
+    mimetype: text/plain
+  HACKER3.EXE:
+    mimetype: application/x-msdos-program
+  HACKER3.PIF:
+    mimetype: application/x-dosexec
+  HACKER3.S3M:
+    mimetype: audio/x-mod
+  MAG-GRP.APP:
+    mimetype: text/plain
+  MAG-VOTE.APP:
+    mimetype: text/plain

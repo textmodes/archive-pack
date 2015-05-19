@@ -1,0 +1,68 @@
+name: sclr-07.zip
+hash: 1fd3fe6244a5f01d9430c0acc1ae77ae
+year: 2000
+file:
+  A-VIEW.COM:
+    mimetype: application/x-msdos-program
+  AMIGA.FNT:
+    mimetype: application/octet-stream
+  AS-CONTA.ASC:
+    mimetype: text/plain
+  AS-DARKN.ANS:
+    mimetype: text/plain
+  AS-MAIN.ANS:
+    mimetype: text/plain
+  AS-TRANC.ANS:
+    mimetype: text/plain
+  D2-2BN2B.ASC:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FILES.BBS:
+    mimetype: text/plain
+  JN-7A2.ANS:
+    mimetype: text/plain
+  JN-FUNK.ANS:
+    mimetype: text/plain
+  MPH-END.ASC:
+    mimetype: text/plain
+  MPH-LIE.ASC:
+    mimetype: text/plain
+  PC.FNT:
+    mimetype: application/octet-stream
+  POD_DAG.ASC:
+    mimetype: text/plain
+  PSH-RNN.TXT:
+    mimetype: text/plain
+  SCLR-07.NFO:
+    mimetype: text/plain
+  SL-NODEL.ASC:
+    mimetype: text/plain
+  SL-PRVL.ASC:
+    mimetype: text/plain
+  SL-SUNIQ.ASC:
+    mimetype: text/plain
+  SL-SURPR.ASC:
+    mimetype: text/plain
+  SL-SWOMN.ASC:
+    mimetype: text/plain
+  SL-TECDZ.ASC:
+    mimetype: text/plain
+  SL-XGN2.ASC:
+    mimetype: text/plain
+  XC-FRNK.ASC:
+    mimetype: text/plain
+  XR-SCLR.ANS:
+    mimetype: text/plain
+  ZRO_6A2A.ASC:
+    mimetype: text/plain
+  ZRO_BAJU.ASC:
+    mimetype: text/plain
+  ZRO_SCLR.ASC:
+    mimetype: text/plain
+  ZRO_SCLR.GIF:
+    mimetype: image/gif
+  ZRO_SLSH.ASC:
+    mimetype: text/plain
+  ZRO_WB.ASC:
+    mimetype: text/plain

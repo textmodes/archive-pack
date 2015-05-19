@@ -1,0 +1,34 @@
+name: out-0296.zip
+hash: f4bfdca5b7bb005b119f59eef23e0ad9
+year: 1996
+file:
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FILEDESC.TXT:
+    mimetype: text/plain
+  OUT-CNAN.ANS:
+    mimetype: text/plain
+  OUT-DIST.ANS:
+    mimetype: text/plain
+  OUT-DIST.RIP:
+    mimetype: image/x-rip
+  OUT-DIST.TXT:
+    mimetype: text/plain
+  OUT-GUY.RIP:
+    mimetype: image/x-rip
+  OUT-MBTH.RIP:
+    mimetype: image/x-rip
+  OUT-MENU.ANS:
+    mimetype: text/plain
+  OUT-REDG.RIP:
+    mimetype: image/x-rip
+  OUT-WIZD.ANS:
+    mimetype: text/plain
+  OUT-ZEUS.RIP:
+    mimetype: image/x-rip
+  OUT.AD:
+    mimetype: text/plain
+  OUTWORLD.TXT:
+    mimetype: text/plain
+  VAMPAD.ANS:
+    mimetype: text/plain

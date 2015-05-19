@@ -1,0 +1,56 @@
+name: 4ooooooo.zip
+hash: 4bbd677afb27fefbe0b92e1120496b8b
+year: 1999
+file:
+  00000000.ANS:
+    mimetype: text/plain
+  01000101.ANS:
+    mimetype: text/plain
+  01001101.ANS:
+    mimetype: text/plain
+  01010101.BIN:
+    mimetype: application/octet-stream
+  01110010.ANS:
+    mimetype: text/plain
+  01111010.ANS:
+    mimetype: text/plain
+  01111011.ANS:
+    mimetype: text/plain
+  01111111.ANS:
+    mimetype: text/plain
+  10100001.ANS:
+    mimetype: text/plain
+  10100011.ANS:
+    mimetype: text/plain
+  10100101.ANS:
+    mimetype: text/plain
+  10101010.ANS:
+    mimetype: text/plain
+  10101111.ANS:
+    mimetype: text/plain
+  10111100.ANS:
+    mimetype: text/plain
+  10111101.ANS:
+    mimetype: text/plain
+  10111111.ANS:
+    mimetype: text/plain
+  11001101.ANS:
+    mimetype: text/plain
+  11001111.ANS:
+    mimetype: text/plain
+  11101111.ANS:
+    mimetype: text/plain
+  11111111.ANS:
+    mimetype: text/plain
+  A.ANS:
+    mimetype: text/plain
+  B(DEPTH).ANS:
+    mimetype: text/plain
+  C(ALT-B).ANS:
+    mimetype: text/plain
+  D(AS-C).ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  Z.TXT:
+    mimetype: text/plain

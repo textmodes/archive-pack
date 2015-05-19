@@ -1,0 +1,18 @@
+name: wx-025.zip
+hash: 3b60c8ea2e55bb4eba8098a58df385c8
+year: 1998
+file:
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  ICAR.JPG:
+    mimetype: image/jpeg
+  KOAST.JPG:
+    mimetype: image/jpeg
+  LENS.JPG:
+    mimetype: image/jpeg
+  MONTANA.FAT:
+    mimetype: text/plain
+  WX.APP:
+    mimetype: application/octet-stream
+  WX.NFO:
+    mimetype: text/plain

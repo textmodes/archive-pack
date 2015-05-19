@@ -1,0 +1,76 @@
+name: sac1295a.zip
+hash: 49e9e6178298df448e112af345019c31
+year: 1995
+file:
+  AR-BLA.MOD:
+    mimetype: audio/x-mod
+  AR-CHIP.MOD:
+    mimetype: audio/x-mod
+  AR-HUHN2.MOD:
+    mimetype: audio/x-mod
+  AR-SOFTT.MOD:
+    mimetype: audio/x-mod
+  DAC-BDL.XM:
+    mimetype: audio/x-mod
+  DAC-HUZ2.XM:
+    mimetype: audio/x-mod
+  DAC-TRN8.XM:
+    mimetype: audio/x-mod
+  DD-CONVE.LBM:
+    mimetype: application/octet-stream
+  DD-SAC_F.LBM:
+    mimetype: application/octet-stream
+  DD-TDUJ2.LBM:
+    mimetype: application/octet-stream
+  DD-TRSI3.LBM:
+    mimetype: application/octet-stream
+  DD-U_PAT.LBM:
+    mimetype: application/octet-stream
+  DS-DL.ANS:
+    mimetype: text/plain
+  DS-DLHD.ANS:
+    mimetype: text/plain
+  DS-DSIDE.ANS:
+    mimetype: text/plain
+  DS-FTC.ANS:
+    mimetype: text/plain
+  DS-HIJHD.ANS:
+    mimetype: text/plain
+  DS-MLN.ANS:
+    mimetype: text/plain
+  DS-MLN.ASC:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  HT-EF4.ASC:
+    mimetype: text/plain
+  HT-EF4.COM:
+    mimetype: application/x-msdos-program
+  HT-TDU2.ASC:
+    mimetype: text/plain
+  HT-TRSI1.EXE:
+    mimetype: application/x-msdos-program
+  HT-TRSI2.EXE:
+    mimetype: application/x-msdos-program
+  NP-BSPA.EXE:
+    mimetype: application/x-msdos-program
+  NP-MYWO.EXE:
+    mimetype: application/x-msdos-program
+  REMEMBER.COM:
+    mimetype: application/x-msdos-program
+  RN-ATZTE.S3M:
+    mimetype: audio/x-mod
+  RN-DEATH.S3M:
+    mimetype: audio/x-mod
+  RN-FRIEN.S3M:
+    mimetype: audio/x-mod
+  RN-HOUSE.S3M:
+    mimetype: audio/x-mod
+  RN-ROOTS.S3M:
+    mimetype: audio/x-mod
+  RN-TALK.S3M:
+    mimetype: audio/x-mod
+  SAC.EXE:
+    mimetype: application/x-msdos-program
+  SAC.NFO:
+    mimetype: text/plain

@@ -1,0 +1,30 @@
+name: bpc-trtl.zip
+hash: ac952c5033afb2d7bc8729b4b253e5f6
+year: 1995
+file:
+  BPC_NFO.'95:
+    mimetype: text/plain
+  BPC_REL.'95:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  MINIMAL.EXE:
+    mimetype: application/x-msdos-program
+  MINIMAL.PAS:
+    mimetype: text/x-pascal
+  SYSTEM.ASM:
+    mimetype: text/plain
+  SYSTEM.OBJ:
+    mimetype: application/octet-stream
+  SYSTEM.PAS:
+    mimetype: text/x-pascal
+  SYSTEM.TPS:
+    mimetype: application/octet-stream
+  SYSTEM.TPU:
+    mimetype: application/octet-stream
+  TEST.EXE:
+    mimetype: application/x-msdos-program
+  TEST.PAS:
+    mimetype: text/x-pascal
+  TINY-RTL.DOX:
+    mimetype: text/plain

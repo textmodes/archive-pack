@@ -1,0 +1,14 @@
+name: cot_tran.zip
+hash: bacb731fce38b67c76a3c3865d365fc7
+year: 1995
+file:
+  ANGEL.EXE:
+    mimetype: application/x-msdos-program
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  ROELZ.EXE:
+    mimetype: application/x-msdos-program
+  TRANQ.NFO:
+    mimetype: text/plain
+  TRANQ.XM:
+    mimetype: audio/x-mod

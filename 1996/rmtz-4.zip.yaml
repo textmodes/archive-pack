@@ -1,0 +1,56 @@
+name: rmtz-4.zip
+hash: d485dd5981391063e68454e4b169b655
+year: 1996
+file:
+  DN!-CHPA.S3M:
+    mimetype: audio/x-mod
+  DN!-XMA2.S3M:
+    mimetype: audio/x-mod
+  DN!-XMAS.S3M:
+    mimetype: audio/x-mod
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FR-1000.LYR:
+    mimetype: image/x-tnd
+  FR-SAD.LYR:
+    mimetype: image/x-tnd
+  FR-TRAUR.LYR:
+    mimetype: image/x-tnd
+  FR-UPAIN.LYR:
+    mimetype: image/x-tnd
+  NVZ-BADX.ANS:
+    mimetype: text/plain
+  NVZ-EYES.ANS:
+    mimetype: text/plain
+  NVZ-FRWE.GIF:
+    mimetype: image/gif
+  NVZ-GHME.ANS:
+    mimetype: text/plain
+  NVZ-HDKL.ANS:
+    mimetype: text/plain
+  NVZ-INFO.ANS:
+    mimetype: text/plain
+  NVZ-MASK.ANS:
+    mimetype: text/plain
+  NVZ-TINY.ANS:
+    mimetype: text/plain
+  NVZ-WIRD.ANS:
+    mimetype: text/plain
+  NVZ-XMAS.ANS:
+    mimetype: text/plain
+  SF-B.ANS:
+    mimetype: text/plain
+  SF-BC.ANS:
+    mimetype: text/plain
+  SF-BRUST.ANS:
+    mimetype: text/plain
+  SF-FREE.ANS:
+    mimetype: text/plain
+  SF-HEAD.ANS:
+    mimetype: text/plain
+  SF-RMTZ.ANS:
+    mimetype: text/plain
+  SF-RMTZ2.ANS:
+    mimetype: text/plain
+  SF-WIRED.ANS:
+    mimetype: text/plain

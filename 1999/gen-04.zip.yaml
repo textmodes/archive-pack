@@ -1,0 +1,48 @@
+name: gen-04.zip
+hash: f562bb606006b5840e4893745662b80b
+year: 1999
+file:
+  ano-amnd.ans:
+    mimetype: text/plain
+  ax_gen.ans:
+    mimetype: text/plain
+  cl!-gen.ans:
+    mimetype: text/plain
+  ds-gen.ans:
+    mimetype: text/plain
+  ds-hel.ans:
+    mimetype: text/plain
+  e0-gen.ans:
+    mimetype: text/plain
+  file_id.diz:
+    mimetype: text/plain
+  geninfo.ans:
+    mimetype: text/plain
+  genmem.ans:
+    mimetype: text/plain
+  lm-fsol.ans:
+    mimetype: text/plain
+  lm-sdst5.ans:
+    mimetype: text/plain
+  noh-gen5.ans:
+    mimetype: text/plain
+  rl-kink.ans:
+    mimetype: text/plain
+  rl-ss3.ans:
+    mimetype: text/plain
+  rl-zerox.ans:
+    mimetype: text/plain
+  us-glue.ans:
+    mimetype: text/plain
+  us-star.ans:
+    mimetype: text/plain
+  vdr-gfuck.ans:
+    mimetype: text/plain
+  zm-ctv.ans:
+    mimetype: text/plain
+  zm-fj.ans:
+    mimetype: text/plain
+  zm-jade.ans:
+    mimetype: text/plain
+  zm-mello.ans:
+    mimetype: text/plain

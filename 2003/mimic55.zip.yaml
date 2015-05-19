@@ -1,0 +1,64 @@
+name: mimic55.zip
+hash: 263898573a02f95c01db700337cb72ba
+year: 2003
+file:
+  aetdead2.asc:
+    mimetype: text/plain
+  bjasc256.ans:
+    mimetype: text/plain
+  bjasc257.ans:
+    mimetype: text/plain
+  cd-420.ans:
+    mimetype: text/plain
+  cd-bf.ans:
+    mimetype: text/plain
+  cd-m2k3.ans:
+    mimetype: text/plain
+  dwf-mum.txt:
+    mimetype: text/plain
+  dwf-umi.txt:
+    mimetype: text/plain
+  file_id.diz:
+    mimetype: text/plain
+  h7-isosp.asc:
+    mimetype: text/plain
+  h7-kane.asc:
+    mimetype: text/plain
+  h7-not.asc:
+    mimetype: text/plain
+  h7-tnfo.asc:
+    mimetype: text/plain
+  jn-cell.asc:
+    mimetype: text/plain
+  jn-mmc31.ans:
+    mimetype: text/plain
+  jn-poo.ans:
+    mimetype: text/plain
+  members.asc:
+    mimetype: text/plain
+  mt-ntss.txt:
+    mimetype: text/plain
+  nl-mimic.asc:
+    mimetype: text/plain
+  quotes55.txt:
+    mimetype: text/plain
+  rm-cellf.asc:
+    mimetype: text/plain
+  rm-neutr.asc:
+    mimetype: text/plain
+  rm-ninja.asc:
+    mimetype: text/plain
+  smoose.mid:
+    mimetype: audio/midi
+  smoose.txt:
+    mimetype: text/plain
+  tr.txt:
+    mimetype: text/plain
+  zs-fr8.asc:
+    mimetype: text/plain
+  zs-mmcsk.ans:
+    mimetype: text/plain
+  zs-nami2.ans:
+    mimetype: text/plain
+  zs-sense.asc:
+    mimetype: text/plain

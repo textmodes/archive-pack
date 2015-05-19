@@ -1,0 +1,46 @@
+name: ice9802a.zip
+hash: cbe2882199c1c418574f693b4294b4f7
+year: 1998
+file:
+  -ANSI---.---:
+    mimetype: text/plain
+  -CONT'D-.---:
+    mimetype: text/plain
+  -LOGO---.---:
+    mimetype: text/plain
+  -STAT---.---:
+    mimetype: text/plain
+  C0-FW.ICE:
+    mimetype: text/plain
+  C0-LUCID.ICE:
+    mimetype: text/plain
+  C0-N4GVN.ICE:
+    mimetype: text/plain
+  C0-OOZE3.ICE:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  ICE-9802.DSC:
+    mimetype: text/plain
+  ICE-9802.MEM:
+    mimetype: text/plain
+  ICE-9802.NFO:
+    mimetype: text/plain
+  ICE-9802.SIT:
+    mimetype: text/plain
+  ICEVIEW.CNF:
+    mimetype: text/plain
+  ICEVIEW.DOC:
+    mimetype: text/plain
+  ICEVIEW.EXE:
+    mimetype: application/x-msdos-program
+  IV-PIF.DVP:
+    mimetype: application/octet-stream
+  PV.EXE:
+    mimetype: application/x-msdos-program
+  SQ2-LEGI.ICE:
+    mimetype: text/plain
+  SQ2-LG19.ICE:
+    mimetype: text/plain
+  SQ2-OOZE.ICE:
+    mimetype: text/plain

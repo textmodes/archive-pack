@@ -1,0 +1,120 @@
+name: rmrs-29.zip
+hash: 1e984dd38136f63b564212ae37c0fac3
+year: 1999
+file:
+  BZR-81.ASC:
+    mimetype: text/plain
+  BZR-INF.ASC:
+    mimetype: text/plain
+  BZR-MAIN.ASC:
+    mimetype: text/plain
+  BZR-RMRS.ASC:
+    mimetype: text/plain
+  BZR-SMEU.ASC:
+    mimetype: text/plain
+  EMK-CARN.ANS:
+    mimetype: text/plain
+  EMK-ELD.ASC:
+    mimetype: text/plain
+  EMK-MIM.ANS:
+    mimetype: text/plain
+  EMK-NEUR.ANS:
+    mimetype: text/plain
+  EMK-R81.ASC:
+    mimetype: text/plain
+  EMK-VOD!.ASC:
+    mimetype: text/plain
+  EMK-XXX.ANS:
+    mimetype: text/plain
+  ER-DLOC.ASC:
+    mimetype: text/plain
+  GWY-DTD.ASC:
+    mimetype: text/plain
+  GWY-THUG.ASC:
+    mimetype: text/plain
+  R3V-RMRS.ASC:
+    mimetype: text/plain
+  TUM-PSYC.ANS:
+    mimetype: text/plain
+  US-ACDP.ASC:
+    mimetype: text/plain
+  US-CR.ANS:
+    mimetype: text/plain
+  US-MILAN.ASC:
+    mimetype: text/plain
+  US-RMRS.ASC:
+    mimetype: text/plain
+  Us-rmrs2.asc:
+    mimetype: text/plain
+  arl-gamm.asc:
+    mimetype: text/plain
+  arl-kit2.ans:
+    mimetype: text/plain
+  arl-moth.asc:
+    mimetype: text/plain
+  arl-odl.asc:
+    mimetype: text/plain
+  arl-powe.asc:
+    mimetype: text/plain
+  cn-acd81.asc:
+    mimetype: text/plain
+  cn-madra.asc:
+    mimetype: text/plain
+  cn-ufw.asc:
+    mimetype: text/plain
+  er-gamra.asc:
+    mimetype: text/plain
+  file_id.diz:
+    mimetype: text/plain
+  kal-djdb.asc:
+    mimetype: text/plain
+  ma-odcol.asc:
+    mimetype: text/plain
+  ml-hiro.asc:
+    mimetype: text/plain
+  ml-mola.asc:
+    mimetype: text/plain
+  ml-rmrs.asc:
+    mimetype: text/plain
+  r-crauni.txt:
+    mimetype: text/plain
+  r-merpea.txt:
+    mimetype: text/plain
+  r3v-gr.asc:
+    mimetype: text/plain
+  r3v-redm.asc:
+    mimetype: text/plain
+  remorse.nfo:
+    mimetype: text/plain
+  sy-sz.asc:
+    mimetype: text/plain
+  tum-4.asc:
+    mimetype: text/plain
+  tum-akir.ans:
+    mimetype: text/plain
+  tum-bj.ans:
+    mimetype: text/plain
+  tum-drax.asc:
+    mimetype: text/plain
+  tum-egun.ans:
+    mimetype: text/plain
+  tum-evol.asc:
+    mimetype: text/plain
+  tum-jule.ans:
+    mimetype: text/plain
+  tum-maxx.ans:
+    mimetype: text/plain
+  tum-spln.ans:
+    mimetype: text/plain
+  us-ginn.asc:
+    mimetype: text/plain
+  zs-cia.ans:
+    mimetype: text/plain
+  zs-dl.ans:
+    mimetype: text/plain
+  zs-haz.ans:
+    mimetype: text/plain
+  zs-neuro.ans:
+    mimetype: text/plain
+  zs-rmrs.ans:
+    mimetype: text/plain

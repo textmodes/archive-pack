@@ -1,0 +1,10 @@
+name: dsk-cen.zip
+hash: fc60211f2b681810e1e2fddd275d8de8
+year: 1998
+file:
+  AMIFONT!.COM:
+    mimetype: application/x-msdos-program
+  CKE-CEN.ASC:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain

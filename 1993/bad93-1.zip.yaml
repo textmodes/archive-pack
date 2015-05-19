@@ -1,0 +1,50 @@
+name: bad93-1.zip
+hash: 6eecfb9250a2c4d49f4eddbbf4d0c483
+year: 1993
+file:
+  BADNEWS.NFO:
+    mimetype: text/plain
+  BK-HAGAR.BAD:
+    mimetype: text/plain
+  BK-SOUL.BAD:
+    mimetype: text/plain
+  BK-TOP.BAD:
+    mimetype: text/plain
+  BK-TOP2.BAD:
+    mimetype: text/plain
+  BK-TOP3.BAD:
+    mimetype: text/plain
+  FUN!.COM:
+    mimetype: application/x-msdos-program
+  JUVE-BAD.EXE:
+    mimetype: application/x-msdos-program
+  NC-TOTL.BAD:
+    mimetype: text/plain
+  PR-BAD.BAD:
+    mimetype: text/plain
+  PR-PSYC.BAD:
+    mimetype: text/plain
+  README.1ST:
+    mimetype: text/plain
+  S8-BAD.BAD:
+    mimetype: text/plain
+  S8-BRAT.BAD:
+    mimetype: text/plain
+  S8-SIL.BAD:
+    mimetype: text/plain
+  S8-SIL2.BAD:
+    mimetype: text/plain
+  S8-SIL3.BAD:
+    mimetype: text/plain
+  SQ-BAD.BAD:
+    mimetype: text/plain
+  SQ-BAD2.BAD:
+    mimetype: text/plain
+  SQ-CORP.BAD:
+    mimetype: text/plain
+  SQ-CRAZ.BAD:
+    mimetype: text/plain
+  SQ-SIL.BAD:
+    mimetype: text/plain
+  SQ-SPID.BAD:
+    mimetype: text/plain

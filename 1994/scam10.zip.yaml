@@ -1,0 +1,22 @@
+name: scam10.zip
+hash: 145dadc8ba4a6afb29424a7e67c8b639
+year: 1994
+file:
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FUN!.COM:
+    mimetype: application/x-msdos-program
+  LEGAL.TXT:
+    mimetype: text/plain
+  POISON.BBS:
+    mimetype: text/plain
+  SCAM10.EXE:
+    mimetype: application/x-msdos-program
+  SCAMID37.0D2:
+    mimetype: application/octet-stream
+  SYSOP.DOC:
+    mimetype: text/plain
+  TYPETHIS.1ST:
+    mimetype: text/plain
+  WELCOME.1:
+    mimetype: text/plain

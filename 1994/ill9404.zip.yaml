@@ -1,0 +1,96 @@
+name: ill9404.zip
+hash: fcb793937ab12b20995d2684c06a532f
+year: 1994
+file:
+  AZ-ACID1.RIP:
+    mimetype: image/x-rip
+  AZ-ASKI.ILL:
+    mimetype: text/plain
+  AZ-CZ0.ILL:
+    mimetype: text/plain
+  AZ-FEDX.ILL:
+    mimetype: text/plain
+  AZ-GTHC.ILL:
+    mimetype: text/plain
+  AZ-HRLTS.ILL:
+    mimetype: text/plain
+  AZ-ILL1.ILL:
+    mimetype: text/plain
+  AZ-INIQ4.ILL:
+    mimetype: text/plain
+  AZ-MNX.ILL:
+    mimetype: text/plain
+  AZ-RAGE.ILL:
+    mimetype: text/plain
+  AZ-SD.ILL:
+    mimetype: text/plain
+  AZ-SD1.ILL:
+    mimetype: text/plain
+  AZ-SD2.ILL:
+    mimetype: text/plain
+  AZ-SD3.ILL:
+    mimetype: text/plain
+  AZ-TERFI.RIP:
+    mimetype: image/x-rip
+  BS-SD1.EXE:
+    mimetype: application/x-msdos-program
+  CONTENTS.NFO:
+    mimetype: text/plain
+  DM-ATOM.ILL:
+    mimetype: text/plain
+  DM-DC3.ILL:
+    mimetype: text/plain
+  DM-DMZ4.ILL:
+    mimetype: text/plain
+  DM-EMPIR.ILL:
+    mimetype: text/plain
+  DM-GENES.ILL:
+    mimetype: text/plain
+  DM-GM3.ILL:
+    mimetype: text/plain
+  DM-GMTX.ILL:
+    mimetype: text/plain
+  DM-LTHM.ILL:
+    mimetype: text/plain
+  DM-OCP.ILL:
+    mimetype: text/plain
+  DM-T800.ILL:
+    mimetype: text/plain
+  DM-WMILL.ILL:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  ILLUSION.APP:
+    mimetype: application/octet-stream
+  ILLUSION.NFO:
+    mimetype: text/plain
+  INIQUITY.ZIP:
+    mimetype: application/zip
+  MC-CS.ILL:
+    mimetype: text/plain
+  MC-ILL1.ILL:
+    mimetype: text/plain
+  MC-MODS1.ZIP:
+    mimetype: application/zip
+  MC-OCPNT.ILL:
+    mimetype: text/plain
+  MC-SNOOP.ILL:
+    mimetype: text/plain
+  MC-TAR.ILL:
+    mimetype: text/plain
+  MC-VISX.ILL:
+    mimetype: text/plain
+  MC-VOMIT.ILL:
+    mimetype: text/plain
+  MEMBER.LST:
+    mimetype: text/plain
+  MNX-NET.ZIP:
+    mimetype: application/zip
+  OCP-NET.ZIP:
+    mimetype: application/zip
+  OZ-PWA.ILL:
+    mimetype: text/plain
+  OZ-SOD.ILL:
+    mimetype: text/plain
+  ZA-MAINM.ILL:
+    mimetype: text/plain

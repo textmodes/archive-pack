@@ -1,0 +1,22 @@
+name: dkb_mone.zip
+hash: 6b74aba62d02a830884a7ad392dbeff1
+year: 1997
+file:
+  DKB.NFO:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  SHELTER.TXT:
+    mimetype: text/plain
+  mone1.jpg:
+    mimetype: image/jpeg
+  mone2.jpg:
+    mimetype: image/jpeg
+  mone3.jpg:
+    mimetype: image/jpeg
+  mone4.jpg:
+    mimetype: image/jpeg
+  mone5.jpg:
+    mimetype: image/jpeg
+  mone6.jpg:
+    mimetype: image/jpeg

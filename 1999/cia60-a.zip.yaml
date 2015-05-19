@@ -1,0 +1,72 @@
+name: cia60-a.zip
+hash: bce242e6369f5697169ee19b2a129c1e
+year: 1999
+file:
+  --C-I-A-.---:
+    mimetype: text/plain
+  42_CIA.CIA:
+    mimetype: text/plain
+  42_PASQ.ADF:
+    mimetype: text/plain
+  0199INFO.CIA:
+    mimetype: text/plain
+  0199MEMB.CIA:
+    mimetype: text/plain
+  CC-BUTTE.LGO:
+    mimetype: text/plain
+  CC-CIA.LGO:
+    mimetype: text/plain
+  CL!-CIA.LGO:
+    mimetype: text/plain
+  CL!-ECL.LGO:
+    mimetype: text/plain
+  CWSDPMI.EXE:
+    mimetype: application/x-msdos-program
+  FEV-H8S.LGO:
+    mimetype: text/plain
+  FIL-SHIT.CIA:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  KP-GOD.CIA:
+    mimetype: text/plain
+  KPN-BLST.CIA:
+    mimetype: text/plain
+  KPN-DAFT.CIA:
+    mimetype: text/plain
+  KPN-DARK.CIA:
+    mimetype: text/plain
+  KPN-FST.CIA:
+    mimetype: text/plain
+  LS-IDRMS.CIA:
+    mimetype: text/plain
+  METH17.RIP:
+    mimetype: image/x-rip
+  MIN-EPIT.CIA:
+    mimetype: text/plain
+  PHO-MAD1.LGO:
+    mimetype: text/plain
+  SM-AVA.LGO:
+    mimetype: text/plain
+  SM-KAER.CIA:
+    mimetype: text/plain
+  SUB-AWE.LGO:
+    mimetype: text/plain
+  SUB-CRE.CIA:
+    mimetype: text/plain
+  SUB-GP.CIA:
+    mimetype: text/plain
+  US-AVE13.CIA:
+    mimetype: text/plain
+  US-CIA.LGO:
+    mimetype: text/plain
+  US-FACE1.CIA:
+    mimetype: text/plain
+  US-FUCT.CIA:
+    mimetype: text/plain
+  US-MAXX.CIA:
+    mimetype: text/plain
+  VDR-SCRZ.LGO:
+    mimetype: text/plain
+  WIRETAP.EXE:
+    mimetype: application/x-msdos-program

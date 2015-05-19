@@ -1,0 +1,100 @@
+name: mtx-9412.zip
+hash: 83fd41722a18ebe5372e4204ecaf57f6
+year: 1994
+file:
+  !!binary xMRBTlNJxMQuxMTE:
+    mimetype: text/plain
+  !!binary xMRFWEVTxMQuxMTE:
+    mimetype: text/plain
+  !!binary xMRJTkZPxMQuxMTE:
+    mimetype: text/plain
+  !!binary xMRNT0RTxMQuxMTE:
+    mimetype: text/plain
+  EM-HVOLT.ANS:
+    mimetype: text/plain
+  EM-NUKE1.ANS:
+    mimetype: text/plain
+  EM-NUKE2.ANS:
+    mimetype: text/plain
+  EM-NUKE3.ANS:
+    mimetype: text/plain
+  EM-NUKE4.ANS:
+    mimetype: text/plain
+  EM-NUKE5.ANS:
+    mimetype: text/plain
+  EM-NUKE6.ANS:
+    mimetype: text/plain
+  EM-NUKE7.ANS:
+    mimetype: text/plain
+  EM-NUKE8.ANS:
+    mimetype: text/plain
+  EM-TBS.ANS:
+    mimetype: text/plain
+  EM-TDH1.ANS:
+    mimetype: text/plain
+  EM-TDH2.ANS:
+    mimetype: text/plain
+  EM-TS01.ANS:
+    mimetype: text/plain
+  EM-TS02.ANS:
+    mimetype: text/plain
+  EM-TS03.ANS:
+    mimetype: text/plain
+  EM-TS04.ANS:
+    mimetype: text/plain
+  EM-TS05.ANS:
+    mimetype: text/plain
+  EM-TS06.ANS:
+    mimetype: text/plain
+  EM-TS07.ANS:
+    mimetype: text/plain
+  EM-TS08.ANS:
+    mimetype: text/plain
+  EM-TS09.ANS:
+    mimetype: text/plain
+  EM-TS10.ANS:
+    mimetype: text/plain
+  EM-TS11.ANS:
+    mimetype: text/plain
+  EM-TS12.ANS:
+    mimetype: text/plain
+  EM-TS13.ANS:
+    mimetype: text/plain
+  FACTORY.EXE:
+    mimetype: application/x-msdos-program
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GE-LOVE.S3M:
+    mimetype: audio/x-mod
+  GE-TREE.S3M:
+    mimetype: audio/x-mod
+  MATRIX-S.NFO:
+    mimetype: text/plain
+  MATRIX.NFO:
+    mimetype: text/plain
+  MB-DREAM.S3M:
+    mimetype: audio/x-mod
+  MB-INSN1.S3M:
+    mimetype: audio/x-mod
+  MB-NUP.ANS:
+    mimetype: text/plain
+  MB-ORT1.ANS:
+    mimetype: text/plain
+  MB-ORT2.ANS:
+    mimetype: text/plain
+  MB-ORT3.ANS:
+    mimetype: text/plain
+  MB-ORT4.ANS:
+    mimetype: text/plain
+  MB-TRF4.ANS:
+    mimetype: text/plain
+  MB-TRF5.ANS:
+    mimetype: text/plain
+  MB-TRF6.ANS:
+    mimetype: text/plain
+  MTXVIEW.EXE:
+    mimetype: application/x-msdos-program
+  NEO.COM:
+    mimetype: application/x-msdos-program
+  WONDER!.WHY:
+    mimetype: text/plain

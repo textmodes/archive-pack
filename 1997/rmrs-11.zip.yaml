@@ -1,0 +1,132 @@
+name: rmrs-11.zip
+hash: 5bf269ed61d219ef24e9e7e33b8bdc18
+year: 1997
+file:
+  ACK-ASP1.ASC:
+    mimetype: text/plain
+  ACK-CAR1.ASC:
+    mimetype: text/plain
+  ACK-CGN1.ASC:
+    mimetype: text/plain
+  ACK-DEC1.ASC:
+    mimetype: text/plain
+  ACK-FLU1.ASC:
+    mimetype: text/plain
+  ACK-FLU2.ASC:
+    mimetype: text/plain
+  ACK-GS1.ASC:
+    mimetype: text/plain
+  ACK-HEP1.ASC:
+    mimetype: text/plain
+  ACK-IMP1.ASC:
+    mimetype: text/plain
+  ACK-JAM1.ASC:
+    mimetype: text/plain
+  ACK-JH1.ASC:
+    mimetype: text/plain
+  ACK-LIG1.ASC:
+    mimetype: text/plain
+  ACK-NON1.ASC:
+    mimetype: text/plain
+  ACK-PHS1.ASC:
+    mimetype: text/plain
+  ACK-SKL.ANS:
+    mimetype: text/plain
+  ACK-TY1.ASC:
+    mimetype: text/plain
+  C4-BASIC.ASC:
+    mimetype: text/plain
+  ENIG-RM.ASC:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GDR-ICB2.ASC:
+    mimetype: text/plain
+  GDR-MOS.ASC:
+    mimetype: text/plain
+  JAK-INT.ASC:
+    mimetype: text/plain
+  JH-RMRS.ASC:
+    mimetype: text/plain
+  LI-0597.ASC:
+    mimetype: text/plain
+  M!-ICE.ANS:
+    mimetype: text/plain
+  M!-ICE2.ANS:
+    mimetype: text/plain
+  M!-YEAH.ASC:
+    mimetype: text/plain
+  MD-MOBZ.ASC:
+    mimetype: text/plain
+  MT-NON.ASC:
+    mimetype: text/plain
+  NM-MID.ASC:
+    mimetype: text/plain
+  NM-MRCH.ASC:
+    mimetype: text/plain
+  NM-RMRS.ASC:
+    mimetype: text/plain
+  NM-SINGE.ASC:
+    mimetype: text/plain
+  NM-VOR.ASC:
+    mimetype: text/plain
+  NM-VTX.ASC:
+    mimetype: text/plain
+  PAR-FILE.ANS:
+    mimetype: text/plain
+  PAR-NOCT.ANS:
+    mimetype: text/plain
+  PAR-PLN.ANS:
+    mimetype: text/plain
+  PAR-PRG.ANS:
+    mimetype: text/plain
+  PAR-TYR2.ANS:
+    mimetype: text/plain
+  PB-BEYND.ASC:
+    mimetype: text/plain
+  R-11HOUR.TXT:
+    mimetype: text/plain
+  R-DRD.TXT:
+    mimetype: text/plain
+  R-FUTURE.TXT:
+    mimetype: text/plain
+  R-ITC.TXT:
+    mimetype: text/plain
+  R-MHZTLD.TXT:
+    mimetype: text/plain
+  REMORSE.NFO:
+    mimetype: text/plain
+  REV-BLCK.ASC:
+    mimetype: text/plain
+  REV-CODE.ASC:
+    mimetype: text/plain
+  REV-NEWS.ASC:
+    mimetype: text/plain
+  RV.CFG:
+    mimetype: text/plain
+  RV.EXE:
+    mimetype: application/x-msdos-program
+  SP-CHAPE.ASC:
+    mimetype: text/plain
+  SP-HARI.ASC:
+    mimetype: text/plain
+  SP-MELLE.ASC:
+    mimetype: text/plain
+  SP-NORD.ASC:
+    mimetype: text/plain
+  SP-PEYOT.ASC:
+    mimetype: text/plain
+  SP-RMRS1.ASC:
+    mimetype: text/plain
+  SPR-RMRS.ASC:
+    mimetype: text/plain
+  SPR-RMS2.ASC:
+    mimetype: text/plain
+  TM-DTX.ASC:
+    mimetype: text/plain
+  US-RMRS.ANS:
+    mimetype: text/plain
+  US-TY1.ANS:
+    mimetype: text/plain
+  WR-RMRS.TXT:
+    mimetype: text/plain

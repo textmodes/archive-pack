@@ -1,0 +1,30 @@
+name: synth06a.zip
+hash: 17b554efd2d23e7f2f5c84c2feea0b0d
+year: 1997
+file:
+  0297CONT.ANS:
+    mimetype: text/plain
+  DECAY.ANS:
+    mimetype: text/plain
+  DECAY.NFO:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  JPG2GIF.EXE:
+    mimetype: application/x-msdos-program
+  MUR-SYS.EXE:
+    mimetype: application/x-msdos-program
+  SCVIEW.DOC:
+    mimetype: text/plain
+  SCVIEW.EXE:
+    mimetype: application/x-msdos-program
+  SYD-ARCH.JPG:
+    mimetype: image/jpeg
+  SYD-KOCH.JPG:
+    mimetype: image/jpeg
+  TR-ASC!.ANS:
+    mimetype: text/plain
+  TR-MSYS.ANS:
+    mimetype: text/plain
+  TR-MUR.JPG:
+    mimetype: image/jpeg

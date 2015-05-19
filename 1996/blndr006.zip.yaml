@@ -1,0 +1,42 @@
+name: blndr006.zip
+hash: 1523919311f3f9fa6b2c975bb9c7b588
+year: 1996
+file:
+  BIFF.RIP:
+    mimetype: image/x-rip
+  BLEND01.BAT:
+    mimetype: application/x-msdos-program
+  BLENDER.006:
+    mimetype: text/plain
+  BLENDER.HOF:
+    mimetype: text/plain
+  BLENDER.NFO:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FL-MAB.ANS:
+    mimetype: text/plain
+  ILL-AMB.ANS:
+    mimetype: text/plain
+  MC-ALIEN.JPG:
+    mimetype: image/jpeg
+  MFS-ALIE.GIF:
+    mimetype: image/gif
+  MFS-ATLI.ANS:
+    mimetype: text/plain
+  MFS-ATLI.WAV:
+    mimetype: audio/x-wav
+  MFS-FADE.EXE:
+    mimetype: application/x-msdos-program
+  MFS-SPAC.LIT:
+    mimetype: text/plain
+  OF-BLEND.ANS:
+    mimetype: text/plain
+  RG!ALBK.ANS:
+    mimetype: text/plain
+  TSK-AL.ANS:
+    mimetype: text/plain
+  US-BBALL.ANS:
+    mimetype: text/plain
+  US-MSTRD.S3M:
+    mimetype: audio/x-mod

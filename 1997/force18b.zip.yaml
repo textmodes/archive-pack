@@ -1,0 +1,34 @@
+name: force18b.zip
+hash: 91f7a4c249fa4fd84d4e3791967304b0
+year: 1997
+file:
+  !!binary xMRNSVNDxMQ=:
+    mimetype: text/plain
+  !!binary xMRWR0HExA==:
+    mimetype: text/plain
+  ANM-CRM.JPG:
+    mimetype: image/jpeg
+  BL-ISLE2.JPG:
+    mimetype: image/jpeg
+  BL-ISLE8.JPG:
+    mimetype: image/jpeg
+  BL-RLM2.JPG:
+    mimetype: image/jpeg
+  BL-SILVR.JPG:
+    mimetype: image/jpeg
+  BL-WATER.JPG:
+    mimetype: image/jpeg
+  CX-FRCNT.JPG:
+    mimetype: image/jpeg
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FRC-MEM.ANS:
+    mimetype: text/plain
+  FRC-NEWS.ANS:
+    mimetype: text/plain
+  GMP-LAM2.JPG:
+    mimetype: image/jpeg
+  GMP-PRES.JPG:
+    mimetype: image/jpeg
+  GMP-YAZZ.JPG:
+    mimetype: image/jpeg

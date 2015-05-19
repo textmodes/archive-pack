@@ -1,0 +1,34 @@
+name: galm13.zip
+hash: 57905645e80309c4eef087cf271d1ef0
+year: 2004
+file:
+  galm13/ans-asc/abod.ans:
+    mimetype: text/plain
+  galm13/ans-asc/ah.ans:
+    mimetype: text/plain
+  galm13/ans-asc/efnet.ans:
+    mimetype: text/plain
+  galm13/ans-asc/el-bs.asc:
+    mimetype: text/plain
+  galm13/ans-asc/el-thai-HK2.ans:
+    mimetype: text/plain
+  galm13/ans-asc/link.ans:
+    mimetype: text/plain
+  galm13/ans-asc/tag.asc:
+    mimetype: text/plain
+  galm13/file_id.diz:
+    mimetype: text/plain
+  galm13/filelist.txt:
+    mimetype: text/plain
+  galm13/gALM.nfo:
+    mimetype: text/plain
+  galm13/gfx/Ensmrolf.gif:
+    mimetype: image/gif
+  galm13/zik/funkmoh.it:
+    mimetype: audio/x-mod
+  galm13/zik/moh-eatsnow.xm:
+    mimetype: audio/x-mod
+  galm13/zik/moh-end.xm:
+    mimetype: audio/x-mod
+  galm13/zik/moh-qc2495.xm:
+    mimetype: audio/x-mod

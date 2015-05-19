@@ -1,0 +1,50 @@
+name: sac0696b.zip
+hash: 27b6d886914a2b05b7024ac0d1bf569c
+year: 1996
+file:
+  AN_KRAVE.XM:
+    mimetype: audio/x-mod
+  AN_SCHAM.XM:
+    mimetype: audio/x-mod
+  AN_WASTE.XM:
+    mimetype: audio/x-mod
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  RV-CY.ASC:
+    mimetype: text/plain
+  RV-CYG.ANS:
+    mimetype: text/plain
+  RV-CYG2.ASC:
+    mimetype: text/plain
+  RV-CYID.ASC:
+    mimetype: text/plain
+  RV-CYID2.ASC:
+    mimetype: text/plain
+  RV-DYN.ANS:
+    mimetype: text/plain
+  RV-EXP.ANS:
+    mimetype: text/plain
+  RV-MCI.ASC:
+    mimetype: text/plain
+  RV-ORG.ANS:
+    mimetype: text/plain
+  RV-P1.ANS:
+    mimetype: text/plain
+  RV-P2.ANS:
+    mimetype: text/plain
+  RV-PEN.ANS:
+    mimetype: text/plain
+  RV-SAC.ANS:
+    mimetype: text/plain
+  RV-STATS.ANS:
+    mimetype: text/plain
+  RV-TGA.ANS:
+    mimetype: text/plain
+  RV-WV.ASC:
+    mimetype: text/plain
+  RV-WVD.ASC:
+    mimetype: text/plain
+  SAC.NFO:
+    mimetype: text/plain
+  SPN_STRD.XM:
+    mimetype: audio/x-mod

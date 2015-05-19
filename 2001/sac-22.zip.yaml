@@ -1,0 +1,188 @@
+name: sac-22.zip
+hash: 3f909fc4c39c05188d59f5ec07d8589a
+year: 2001
+file:
+  CRU-ATR.NFO:
+    mimetype: text/plain
+  CRU-BD.NFO:
+    mimetype: text/plain
+  CRU-BDLG.NFO:
+    mimetype: text/plain
+  CRU-BRKN.NFO:
+    mimetype: text/plain
+  CRU-DB.NFO:
+    mimetype: text/plain
+  CRU-DBFL.NFO:
+    mimetype: text/plain
+  CRU-DC.NFO:
+    mimetype: text/plain
+  CRU-INSM.NFO:
+    mimetype: text/plain
+  CRU-MHVN.ANS:
+    mimetype: text/plain
+  CRU-MHVN.NFO:
+    mimetype: text/plain
+  CRU-NMS.NFO:
+    mimetype: text/plain
+  CRU-PANQ.NFO:
+    mimetype: text/plain
+  CRU-PARA.NFO:
+    mimetype: text/plain
+  CRU-PIR8.NFO:
+    mimetype: text/plain
+  CRU-RZR.ASC:
+    mimetype: text/plain
+  CRU-SIN.NFO:
+    mimetype: text/plain
+  CRU-SL.NFO:
+    mimetype: text/plain
+  CRU-TD.NFO:
+    mimetype: text/plain
+  CRU-TRQU.NFO:
+    mimetype: text/plain
+  CRU-UTWN.TXT:
+    mimetype: text/plain
+  Cru-acon.txt:
+    mimetype: text/plain
+  MOO_BLZ.ANS:
+    mimetype: text/plain
+  MOO_SAC.ANS:
+    mimetype: text/plain
+  MRD_POLY.XM:
+    mimetype: audio/x-mod
+  MRD_ZEBR.XM:
+    mimetype: audio/x-mod
+  Mt_fluke.mod:
+    mimetype: audio/x-mod
+  Mt_uscor.mod:
+    mimetype: audio/x-mod
+  Sac.nfo:
+    mimetype: text/plain
+  crm_dont.xm:
+    mimetype: audio/x-mod
+  crm_elbn.xm:
+    mimetype: audio/x-mod
+  crm_gol2.xm:
+    mimetype: audio/x-mod
+  crm_gold.xm:
+    mimetype: audio/x-mod
+  crm_hope.mod:
+    mimetype: audio/x-mod
+  crm_hrzn.xm:
+    mimetype: audio/x-mod
+  crm_jack.mod:
+    mimetype: audio/x-mod
+  crm_leav.xm:
+    mimetype: audio/x-mod
+  crm_ligh.xm:
+    mimetype: audio/x-mod
+  crm_love.mod:
+    mimetype: audio/x-mod
+  crm_miss.mod:
+    mimetype: audio/x-mod
+  ex0-rzrr.asc:
+    mimetype: text/plain
+  ex0-sac.asc:
+    mimetype: text/plain
+  file_id.diz:
+    mimetype: text/plain
+  frx-cpy1.asc:
+    mimetype: text/plain
+  frx-crn5.asc:
+    mimetype: text/plain
+  frx-ego2.asc:
+    mimetype: text/plain
+  frx-knf1.asc:
+    mimetype: text/plain
+  frx-me01.asc:
+    mimetype: text/plain
+  frx-mt01.asc:
+    mimetype: text/plain
+  frx-nvr1.asc:
+    mimetype: text/plain
+  frx-rbs1.asc:
+    mimetype: text/plain
+  frx-ris3.asc:
+    mimetype: text/plain
+  frx-sac8.asc:
+    mimetype: text/plain
+  frx-tile.jpg:
+    mimetype: image/jpeg
+  frx-tle2.jpg:
+    mimetype: image/jpeg
+  frx-tn01.asc:
+    mimetype: text/plain
+  frx-udr1.asc:
+    mimetype: text/plain
+  frx-ut01.asc:
+    mimetype: text/plain
+  mid-frst.asc:
+    mimetype: text/plain
+  mid-vile.asc:
+    mimetype: text/plain
+  mid-vnm.asc:
+    mimetype: text/plain
+  moo_itn.jpg:
+    mimetype: image/jpeg
+  moo_loom.jpg:
+    mimetype: image/jpeg
+  moo_mend.jpg:
+    mimetype: image/jpeg
+  moo_mflo.jpg:
+    mimetype: image/jpeg
+  moo_rzr5.jpg:
+    mimetype: image/jpeg
+  myth-dns.exe:
+    mimetype: application/x-msdos-program
+  scr-asgd.asc:
+    mimetype: text/plain
+  scr-ecko.nfo:
+    mimetype: text/plain
+  scr-emx.asc:
+    mimetype: text/plain
+  scr-epsxe.nfo:
+    mimetype: text/plain
+  scr-fty.asc:
+    mimetype: text/plain
+  scr-npt.nfo:
+    mimetype: text/plain
+  scr-rmt.asc:
+    mimetype: text/plain
+  scr-tpy.asc:
+    mimetype: text/plain
+  sns-ash.txt:
+    mimetype: text/plain
+  sns-dod1.asc:
+    mimetype: text/plain
+  sns-dod2.asc:
+    mimetype: text/plain
+  sns-dod3.asc:
+    mimetype: text/plain
+  sns-fe.asc:
+    mimetype: text/plain
+  sns-lfc.asc:
+    mimetype: text/plain
+  sns-ovr.asc:
+    mimetype: text/plain
+  sns-ps.asc:
+    mimetype: text/plain
+  sns-trb.asc:
+    mimetype: text/plain
+  sns-trb2.asc:
+    mimetype: text/plain
+  soul-df.xm:
+    mimetype: audio/x-mod
+  soul-mth.xm:
+    mimetype: audio/x-mod
+  soul-red.xm:
+    mimetype: audio/x-mod
+  soul-rev.xm:
+    mimetype: audio/x-mod
+  sqz-aod.asc:
+    mimetype: text/plain
+  sqz-jioo.asc:
+    mimetype: text/plain
+  sqz-kmp3.asc:
+    mimetype: text/plain
+  sqz-lb.asc:
+    mimetype: text/plain

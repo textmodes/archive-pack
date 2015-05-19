@@ -1,0 +1,80 @@
+name: sclr-22.zip
+hash: 92a827c8bae93495c89354ab8861e15b
+year: 2001
+file:
+  A-VIEW.COM:
+    mimetype: application/x-msdos-program
+  AMIGA.FNT:
+    mimetype: application/octet-stream
+  BAB-6_LN.JPG:
+    mimetype: image/jpeg
+  BAB-BW.JPG:
+    mimetype: image/jpeg
+  BAB-STAR.GIF:
+    mimetype: image/gif
+  D2-SCLR0.ASC:
+    mimetype: text/plain
+  F-CATS.ASC:
+    mimetype: text/plain
+  F-LMD.ASC:
+    mimetype: text/plain
+  F-WAKE.ASC:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FILES.BBS:
+    mimetype: text/plain
+  MST!END.ANS:
+    mimetype: text/plain
+  NKR!ODI.TXT:
+    mimetype: text/plain
+  NKR!PSH.TXT:
+    mimetype: text/plain
+  NKR!SCLR.TXT:
+    mimetype: text/plain
+  NKR!SDIZ.TXT:
+    mimetype: text/plain
+  NKR!SHIZ.TXT:
+    mimetype: text/plain
+  NKR!SL.ASC:
+    mimetype: text/plain
+  PC.FNT:
+    mimetype: application/octet-stream
+  PSH-TRIP.TXT:
+    mimetype: text/plain
+  S&-OLDM.ASC:
+    mimetype: text/plain
+  SCLR-22.ANS:
+    mimetype: text/plain
+  SCLR-22E.ANS:
+    mimetype: text/plain
+  SHD-FADE.ANS:
+    mimetype: text/plain
+  SRB!FCTR.JPG:
+    mimetype: image/jpeg
+  SRB!OLEN.JPG:
+    mimetype: image/jpeg
+  SRB!WTFL.GIF:
+    mimetype: image/gif
+  SRB-B_LD.ASC:
+    mimetype: text/plain
+  SRB-TMP.ASC:
+    mimetype: text/plain
+  SRB-VOD2.ASC:
+    mimetype: text/plain
+  SRB^INK.ASC:
+    mimetype: text/plain
+  SRB^NC.ASC:
+    mimetype: text/plain
+  SRB^PROV.ANS:
+    mimetype: text/plain
+  SRB^WORD.ASC:
+    mimetype: text/plain
+  THUGLIFE.ORG:
+    mimetype: text/plain
+  WTH!SEC.ASC:
+    mimetype: text/plain
+  X&S-REAL.ANS:
+    mimetype: text/plain
+  XK!PND.GIF:
+    mimetype: image/gif

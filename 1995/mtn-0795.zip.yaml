@@ -1,0 +1,106 @@
+name: mtn-0795.zip
+hash: 41bd930a54ccca2262a141492410931a
+year: 1995
+file:
+  (ANSI):
+    mimetype: text/plain
+  (ASKI):
+    mimetype: text/plain
+  (EXE):
+    mimetype: text/plain
+  (INFO):
+    mimetype: text/plain
+  (LIT):
+    mimetype: text/plain
+  (MISC):
+    mimetype: text/plain
+  (RIP):
+    mimetype: text/plain
+  0795INFO.ANS:
+    mimetype: text/plain
+  0795MEMB.ANS:
+    mimetype: text/plain
+  0795SITE.ANS:
+    mimetype: text/plain
+  AN!LD#1.ANS:
+    mimetype: text/plain
+  ANSI:
+    mimetype: application/zip
+  BM!CAPTL.ANS:
+    mimetype: text/plain
+  BM!TCW.ANS:
+    mimetype: text/plain
+  BM!UZI.ANS:
+    mimetype: text/plain
+  BP-MTN.EXE:
+    mimetype: application/x-msdos-program
+  BP-TCW.EXE:
+    mimetype: application/x-msdos-program
+  CA-ANIME.RIP:
+    mimetype: image/x-rip
+  CA-EMRG1.RIP:
+    mimetype: image/x-rip
+  CA-HATE1.RIP:
+    mimetype: image/x-rip
+  CA-NEO1.RIP:
+    mimetype: image/x-rip
+  CI-EP.ANS:
+    mimetype: text/plain
+  D0-TCWM.ANS:
+    mimetype: text/plain
+  D0-TMR1.ANS:
+    mimetype: text/plain
+  D0-TURMN.ANS:
+    mimetype: text/plain
+  DM-SIN.ANS:
+    mimetype: text/plain
+  DP-INS.RIP:
+    mimetype: image/x-rip
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GA-FULC3.ANS:
+    mimetype: text/plain
+  LC-MAGIC.COM:
+    mimetype: application/x-msdos-program
+  MAL-ECHO.001:
+    mimetype: text/plain
+  MOT-FNT1.BIN:
+    mimetype: application/octet-stream
+  MOT-FNT2.BIN:
+    mimetype: application/octet-stream
+  MOT-FNT3.BIN:
+    mimetype: application/octet-stream
+  MOT-MOD2.BAS:
+    mimetype: text/plain
+  MOTIONAP.EXE:
+    mimetype: application/x-msdos-program
+  MOTIONRQ.EXE:
+    mimetype: application/x-msdos-program
+  MOTIONVU.EXE:
+    mimetype: application/x-msdos-program
+  MTN-ASKI.ZIP:
+    mimetype: application/zip
+  MTN-LIT.ZIP:
+    mimetype: application/zip
+  PR-DIS1.ANS:
+    mimetype: text/plain
+  PR-ST1.ANS:
+    mimetype: text/plain
+  QS-LOGOS.ANS:
+    mimetype: text/plain
+  SD-TPM.ANS:
+    mimetype: text/plain
+  ST-LOGOS.ANS:
+    mimetype: text/plain
+  SV-COK.ANS:
+    mimetype: text/plain
+  SV-HAT.ANS:
+    mimetype: text/plain
+  TR-LOGOS.ANS:
+    mimetype: text/plain
+  WELCOME.1:
+    mimetype: text/plain
+  WELCOME.2:
+    mimetype: text/plain
+  WS-MTN95.ANS:
+    mimetype: text/plain

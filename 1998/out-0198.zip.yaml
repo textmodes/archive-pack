@@ -1,0 +1,56 @@
+name: out-0198.zip
+hash: d5e61ce6377aca950893e7395a422dd4
+year: 1998
+file:
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FILEDESC.TXT:
+    mimetype: text/plain
+  FILELIST.TXT:
+    mimetype: text/plain
+  OUT-BAR.ANS:
+    mimetype: text/plain
+  OUT-CITY.ANS:
+    mimetype: text/plain
+  OUT-DFFY.ANS:
+    mimetype: text/plain
+  OUT-DIST.ANS:
+    mimetype: text/plain
+  OUT-DIST.RIP:
+    mimetype: image/x-rip
+  OUT-DIST.TXT:
+    mimetype: text/plain
+  OUT-DMN1.ANS:
+    mimetype: text/plain
+  OUT-DMN2.ANS:
+    mimetype: text/plain
+  OUT-DMN3.ANS:
+    mimetype: text/plain
+  OUT-DMN4.ANS:
+    mimetype: text/plain
+  OUT-DRAG.ANS:
+    mimetype: text/plain
+  OUT-FACE.ANS:
+    mimetype: text/plain
+  OUT-MARV.ANS:
+    mimetype: text/plain
+  OUT-PARA.ANS:
+    mimetype: text/plain
+  OUT-RADI.ANS:
+    mimetype: text/plain
+  OUT-SAM.ANS:
+    mimetype: text/plain
+  OUT-SRCS.RIP:
+    mimetype: image/x-rip
+  OUT-SUN.ANS:
+    mimetype: text/plain
+  OUT-TAZ.ANS:
+    mimetype: text/plain
+  OUT-WINT.ANS:
+    mimetype: text/plain
+  OUT-WZ.ANS:
+    mimetype: text/plain
+  OUT.AD:
+    mimetype: text/plain
+  OUTWORLD.TXT:
+    mimetype: text/plain

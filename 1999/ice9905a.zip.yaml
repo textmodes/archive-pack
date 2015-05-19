@@ -1,0 +1,44 @@
+name: ice9905a.zip
+hash: 55437a5f9310b747720d2e5ca702c344
+year: 1999
+file:
+  -ANSI---.---:
+    mimetype: text/plain
+  -CONT'D-.---:
+    mimetype: text/plain
+  -RIP----.---:
+    mimetype: text/plain
+  -STAT---.---:
+    mimetype: text/plain
+  09-CHE.ICE:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  ICE-9905.DSC:
+    mimetype: text/plain
+  ICE-9905.MEM:
+    mimetype: text/plain
+  ICE-9905.NFO:
+    mimetype: text/plain
+  ICE-9905.SIT:
+    mimetype: text/plain
+  ICEVIEW.CNF:
+    mimetype: text/plain
+  ICEVIEW.DOC:
+    mimetype: text/plain
+  ICEVIEW.EXE:
+    mimetype: application/x-msdos-program
+  KT-JJB.RIP:
+    mimetype: image/x-rip
+  KT-STAR.RIP:
+    mimetype: image/x-rip
+  NG-B2K.ICE:
+    mimetype: text/plain
+  SQ2-LG25.ICE:
+    mimetype: text/plain
+  US-GHET1.ICE:
+    mimetype: text/plain
+  US-ICETM.ICE:
+    mimetype: text/plain
+  US-MIDB1.ICE:
+    mimetype: text/plain

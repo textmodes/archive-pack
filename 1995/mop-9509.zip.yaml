@@ -1,0 +1,40 @@
+name: mop-9509.zip
+hash: 4d6e52fc5263b3ee33180cb1af5a04e9
+year: 1995
+file:
+  28-BLAH.ANS:
+    mimetype: text/plain
+  28-HUMA.RIP:
+    mimetype: image/x-rip
+  28-MOP3.ANS:
+    mimetype: text/plain
+  28-SAGA.ANS:
+    mimetype: text/plain
+  28LM-HUM.ANS:
+    mimetype: text/plain
+  0995-MEM.ANS:
+    mimetype: text/plain
+  0995-NFO.ANS:
+    mimetype: text/plain
+  BM-BLAH1.RIP:
+    mimetype: image/x-rip
+  BM-JELLO.GIF:
+    mimetype: image/gif
+  BM-RUST.GIF:
+    mimetype: image/gif
+  BM-VAL.RIP:
+    mimetype: image/x-rip
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  MOPAPP.ZIP:
+    mimetype: application/zip
+  MT-SAGA1.ANS:
+    mimetype: text/plain
+  TD-ROK.GIF:
+    mimetype: image/gif
+  US-LANS1.RIP:
+    mimetype: image/x-rip
+  WE-WONT.SUE:
+    mimetype: text/plain
+  XXXCAMEL.GIF:
+    mimetype: image/gif

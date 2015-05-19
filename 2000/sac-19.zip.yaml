@@ -1,0 +1,400 @@
+name: sac-19.zip
+hash: 111461370b6244f0393cfec7e085be74
+year: 2000
+file:
+  ARL-BSUN.ASC:
+    mimetype: text/plain
+  ARL-CNCD.ASC:
+    mimetype: text/plain
+  ARL-HAND.ASC:
+    mimetype: text/plain
+  ARL-HIJA.ASC:
+    mimetype: text/plain
+  ARL-NC.ASC:
+    mimetype: text/plain
+  ARL-SAC.ASC:
+    mimetype: text/plain
+  ARL-SFOR.ASC:
+    mimetype: text/plain
+  BLACKSUN.ASC:
+    mimetype: text/plain
+  CH-PDMF.JPG:
+    mimetype: image/jpeg
+  EX0-DISA.ASC:
+    mimetype: text/plain
+  EX0-NSC.ASC:
+    mimetype: text/plain
+  EX0-OTH.ASC:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FRX-BLZ1.EXE:
+    mimetype: application/x-msdos-program
+  FRX-DMN1.ASC:
+    mimetype: text/plain
+  FRX-EID1.ASC:
+    mimetype: text/plain
+  FRX-ODT1.ANS:
+    mimetype: text/plain
+  FRX-PC06.ASC:
+    mimetype: text/plain
+  FRX-RID1.ASC:
+    mimetype: text/plain
+  FRX-RID2.ASC:
+    mimetype: text/plain
+  FRX-RSC1.ASC:
+    mimetype: text/plain
+  FRX-SAC2.GIF:
+    mimetype: image/gif
+  FRX-TOX1.GIF:
+    mimetype: image/gif
+  FRX-UPD1.GIF:
+    mimetype: image/gif
+  Frx-Awh1.asc:
+    mimetype: text/plain
+  Frx-Bd01.asc:
+    mimetype: text/plain
+  Frx-Blz1.gif:
+    mimetype: image/gif
+  Frx-Blz2.gif:
+    mimetype: image/gif
+  Frx-Bst1.asc:
+    mimetype: text/plain
+  Frx-Bst2.asc:
+    mimetype: text/plain
+  Frx-Dh01.asc:
+    mimetype: text/plain
+  Frx-Dh02.asc:
+    mimetype: text/plain
+  Frx-Dh03.asc:
+    mimetype: text/plain
+  Frx-Dmn1.exe:
+    mimetype: application/x-msdos-program
+  Frx-Dmn1.gif:
+    mimetype: image/gif
+  Frx-Dqf1.asc:
+    mimetype: text/plain
+  Frx-Dv02.asc:
+    mimetype: text/plain
+  Frx-Ecl1.asc:
+    mimetype: text/plain
+  Frx-Ena1.asc:
+    mimetype: text/plain
+  Frx-Fe01.asc:
+    mimetype: text/plain
+  Frx-Fe02.asc:
+    mimetype: text/plain
+  Frx-Frx1.gif:
+    mimetype: image/gif
+  Frx-Gfd1.asc:
+    mimetype: text/plain
+  Frx-Gfd2.asc:
+    mimetype: text/plain
+  Frx-Mc01.asc:
+    mimetype: text/plain
+  Frx-Mdca.asc:
+    mimetype: text/plain
+  Frx-Np01.asc:
+    mimetype: text/plain
+  Frx-Pc07.asc:
+    mimetype: text/plain
+  Frx-Pcs1.asc:
+    mimetype: text/plain
+  Frx-Pcy1.asc:
+    mimetype: text/plain
+  Frx-Rzr2.asc:
+    mimetype: text/plain
+  Frx-Sac1.asc:
+    mimetype: text/plain
+  Frx-Sac2.asc:
+    mimetype: text/plain
+  Frx-Stm1.asc:
+    mimetype: text/plain
+  Frx-Wcs1.asc:
+    mimetype: text/plain
+  Frx-ah01.asc:
+    mimetype: text/plain
+  Frx-bs01.asc:
+    mimetype: text/plain
+  Frx-cro1.exe:
+    mimetype: application/x-msdos-program
+  Frx-dv01.asc:
+    mimetype: text/plain
+  Frx-evd1.asc:
+    mimetype: text/plain
+  Frx-gwa2.asc:
+    mimetype: text/plain
+  Frx-gwa3.asc:
+    mimetype: text/plain
+  Frx-hf01.asc:
+    mimetype: text/plain
+  Frx-hf02.asc:
+    mimetype: text/plain
+  Frx-hp01.ans:
+    mimetype: text/plain
+  Frx-hp02.ans:
+    mimetype: text/plain
+  Frx-hp03.asc:
+    mimetype: text/plain
+  Frx-info.nfo:
+    mimetype: text/plain
+  Frx-iw01.gif:
+    mimetype: image/gif
+  Frx-mf01.jpg:
+    mimetype: image/jpeg
+  Frx-mf19.asc:
+    mimetype: text/plain
+  Frx-mfr2.asc:
+    mimetype: text/plain
+  Frx-mm01.asc:
+    mimetype: text/plain
+  Frx-nf01.asc:
+    mimetype: text/plain
+  Frx-nl01.asc:
+    mimetype: text/plain
+  Frx-odt2.exe:
+    mimetype: application/x-msdos-program
+  Frx-ol01.asc:
+    mimetype: text/plain
+  Frx-pid1.asc:
+    mimetype: text/plain
+  Frx-rsc2.asc:
+    mimetype: text/plain
+  Frx-rzr1.asc:
+    mimetype: text/plain
+  Frx-rzrb.gif:
+    mimetype: image/gif
+  Frx-tc01.asc:
+    mimetype: text/plain
+  Frx-tc02.asc:
+    mimetype: text/plain
+  Frx-uls1.asc:
+    mimetype: text/plain
+  Frx-wax1.asc:
+    mimetype: text/plain
+  Frx-wax2.asc:
+    mimetype: text/plain
+  Frx-wd1.asc:
+    mimetype: text/plain
+  MTD-COD.ASC:
+    mimetype: text/plain
+  MTD-DVMP.ASC:
+    mimetype: text/plain
+  MTD-NIA.ASC:
+    mimetype: text/plain
+  MTD-PARA.NFO:
+    mimetype: text/plain
+  MTD-PIS1.NFO:
+    mimetype: text/plain
+  MTD-RTS.ASC:
+    mimetype: text/plain
+  MTD-RTS2.ASC:
+    mimetype: text/plain
+  MTD-SOA1.DIZ:
+    mimetype: text/plain
+  MTD-STAR.ASC:
+    mimetype: text/plain
+  MTD-STIL.ASC:
+    mimetype: text/plain
+  MTD-STIL.DIZ:
+    mimetype: text/plain
+  PV.EXE:
+    mimetype: application/x-msdos-program
+  ROY-ABSA.ASC:
+    mimetype: text/plain
+  ROY-ABSL.ANS:
+    mimetype: text/plain
+  ROY-AMOK.ASC:
+    mimetype: text/plain
+  ROY-CHRN.ASC:
+    mimetype: text/plain
+  ROY-CMG.ASC:
+    mimetype: text/plain
+  ROY-CNMC.ASC:
+    mimetype: text/plain
+  ROY-DCDN.ASC:
+    mimetype: text/plain
+  ROY-FILI.ASC:
+    mimetype: text/plain
+  ROY-FLND.ASC:
+    mimetype: text/plain
+  ROY-GRVY.ASC:
+    mimetype: text/plain
+  ROY-HLM.ASC:
+    mimetype: text/plain
+  ROY-ILT.ASC:
+    mimetype: text/plain
+  ROY-JFFN.ASC:
+    mimetype: text/plain
+  ROY-MADO.ASC:
+    mimetype: text/plain
+  ROY-PDXN.ASC:
+    mimetype: text/plain
+  ROY-PHS.ASC:
+    mimetype: text/plain
+  ROY-PPHT.ASC:
+    mimetype: text/plain
+  ROY-PRXD.ASC:
+    mimetype: text/plain
+  ROY-PRXN.ASC:
+    mimetype: text/plain
+  ROY-PXD2.ASC:
+    mimetype: text/plain
+  ROY-RZR6.ASC:
+    mimetype: text/plain
+  ROY-RZR7.ASC:
+    mimetype: text/plain
+  ROY-SF2.ASC:
+    mimetype: text/plain
+  ROY-STRK.ASC:
+    mimetype: text/plain
+  ROY-THC.ASC:
+    mimetype: text/plain
+  ROY-TMGD.ASC:
+    mimetype: text/plain
+  ROY-TMGN.ASC:
+    mimetype: text/plain
+  ROY-ZEUS.ASC:
+    mimetype: text/plain
+  SAC.NFO:
+    mimetype: text/plain
+  sns-aegi.asc:
+    mimetype: text/plain
+  sns-af1.asc:
+    mimetype: text/plain
+  sns-apc.asc:
+    mimetype: text/plain
+  sns-arcb.asc:
+    mimetype: text/plain
+  sns-bkf.asc:
+    mimetype: text/plain
+  sns-bor1.asc:
+    mimetype: text/plain
+  sns-bor2.asc:
+    mimetype: text/plain
+  sns-bzn.asc:
+    mimetype: text/plain
+  sns-chr.asc:
+    mimetype: text/plain
+  sns-ckt.asc:
+    mimetype: text/plain
+  sns-cms.asc:
+    mimetype: text/plain
+  sns-coc.asc:
+    mimetype: text/plain
+  sns-cor3.asc:
+    mimetype: text/plain
+  sns-corp.asc:
+    mimetype: text/plain
+  sns-crp2.asc:
+    mimetype: text/plain
+  sns-dcp.asc:
+    mimetype: text/plain
+  sns-dfh.asc:
+    mimetype: text/plain
+  sns-djam.asc:
+    mimetype: text/plain
+  sns-dlb.asc:
+    mimetype: text/plain
+  sns-dsrd.asc:
+    mimetype: text/plain
+  sns-duck.asc:
+    mimetype: text/plain
+  sns-dvn.asc:
+    mimetype: text/plain
+  sns-dvn1.asc:
+    mimetype: text/plain
+  sns-dvn2.asc:
+    mimetype: text/plain
+  sns-eur.asc:
+    mimetype: text/plain
+  sns-exp.asc:
+    mimetype: text/plain
+  sns-exp2.asc:
+    mimetype: text/plain
+  sns-fod.asc:
+    mimetype: text/plain
+  sns-gem.asc:
+    mimetype: text/plain
+  sns-hard.asc:
+    mimetype: text/plain
+  sns-hell.asc:
+    mimetype: text/plain
+  sns-info.txt:
+    mimetype: text/plain
+  sns-jail.asc:
+    mimetype: text/plain
+  sns-kjof.asc:
+    mimetype: text/plain
+  sns-l2c.asc:
+    mimetype: text/plain
+  sns-lg.asc:
+    mimetype: text/plain
+  sns-livd.asc:
+    mimetype: text/plain
+  sns-live.asc:
+    mimetype: text/plain
+  sns-lsd.asc:
+    mimetype: text/plain
+  sns-ltp.asc:
+    mimetype: text/plain
+  sns-mdm.asc:
+    mimetype: text/plain
+  sns-mln.asc:
+    mimetype: text/plain
+  sns-mlnd.asc:
+    mimetype: text/plain
+  sns-ntr.asc:
+    mimetype: text/plain
+  sns-ntrd.asc:
+    mimetype: text/plain
+  sns-ogn.asc:
+    mimetype: text/plain
+  sns-pc.asc:
+    mimetype: text/plain
+  sns-pdx.asc:
+    mimetype: text/plain
+  sns-pdx.jpg:
+    mimetype: image/jpeg
+  sns-pdxd.asc:
+    mimetype: text/plain
+  sns-pdxg.png:
+    mimetype: image/png
+  sns-piso.asc:
+    mimetype: text/plain
+  sns-ppf.png:
+    mimetype: image/png
+  sns-prx.asc:
+    mimetype: text/plain
+  sns-rbk.asc:
+    mimetype: text/plain
+  sns-repl.asc:
+    mimetype: text/plain
+  sns-rfo.asc:
+    mimetype: text/plain
+  sns-rzrt.asc:
+    mimetype: text/plain
+  sns-sacd.asc:
+    mimetype: text/plain
+  sns-scx.asc:
+    mimetype: text/plain
+  sns-sena.asc:
+    mimetype: text/plain
+  sns-stat.asc:
+    mimetype: text/plain
+  sns-syn.asc:
+    mimetype: text/plain
+  sns-tbob.asc:
+    mimetype: text/plain
+  sns-tbrd.asc:
+    mimetype: text/plain
+  sns-thc.asc:
+    mimetype: text/plain
+  sns-tit.asc:
+    mimetype: text/plain
+  sns-tss.asc:
+    mimetype: text/plain
+  sns-wrld.asc:
+    mimetype: text/plain
+  sns-wu.asc:
+    mimetype: text/plain

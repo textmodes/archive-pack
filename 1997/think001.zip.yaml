@@ -1,0 +1,40 @@
+name: think001.zip
+hash: 8c44ebbb688bf57fb51914eaeb4dd4fd
+year: 1997
+file:
+  ANSI####.DIV:
+    mimetype: text/plain
+  ASKII###.DIV:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  INFO####.DIV:
+    mimetype: text/plain
+  IR!COLY1.ASC:
+    mimetype: text/plain
+  IR!DAFT.ASC:
+    mimetype: text/plain
+  IR!HYPE1.ASC:
+    mimetype: text/plain
+  IR!HYPE2.ANS:
+    mimetype: text/plain
+  IR!HYPE3.ANS:
+    mimetype: text/plain
+  IR!INAL1.ASC:
+    mimetype: text/plain
+  IR!MATRX.ANS:
+    mimetype: text/plain
+  IR!PI1.ANS:
+    mimetype: text/plain
+  IR!PI2.ANS:
+    mimetype: text/plain
+  IR!THNK1.ASC:
+    mimetype: text/plain
+  IR!TOON.ANS:
+    mimetype: text/plain
+  THINK001.MEM:
+    mimetype: text/plain
+  THINK001.NFO:
+    mimetype: text/plain
+  THINKAPP.EXE:
+    mimetype: application/x-msdos-program

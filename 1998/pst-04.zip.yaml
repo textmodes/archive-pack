@@ -1,0 +1,68 @@
+name: pst-04.zip
+hash: 10fb0b8f540ff23c84e6cf994d449c68
+year: 1998
+file:
+  -(ANSI)-:
+    mimetype: text/plain
+  -(ASCI)-:
+    mimetype: text/plain
+  -(INFO)-:
+    mimetype: text/plain
+  -(MISC)-:
+    mimetype: text/plain
+  -(RIP)-:
+    mimetype: text/plain
+  -(VGA)-:
+    mimetype: text/plain
+  DX-JOIN.ASC:
+    mimetype: text/plain
+  ESD-ARMY.ASC:
+    mimetype: text/plain
+  ESD-COWM.ASC:
+    mimetype: text/plain
+  ESD-DPS.ASC:
+    mimetype: text/plain
+  ESD-GEN.ASC:
+    mimetype: text/plain
+  ESD-SPNK.ASC:
+    mimetype: text/plain
+  FAT-EAT.RIP:
+    mimetype: image/x-rip
+  FAT-INBL.RIP:
+    mimetype: image/x-rip
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  IC-EYE3.ANS:
+    mimetype: text/plain
+  MEMBERS.PST:
+    mimetype: text/plain
+  MYUTOPIA.EXE:
+    mimetype: application/x-msdos-program
+  NEWS.PST:
+    mimetype: text/plain
+  PST-APP.EXE:
+    mimetype: application/x-msdos-program
+  PST-APP.NFO:
+    mimetype: text/plain
+  REVOLUTE.PSY:
+    mimetype: text/plain
+  RP-ENDOR.ANS:
+    mimetype: text/plain
+  RP-KCRCK.ANS:
+    mimetype: text/plain
+  RP-NIHIL.ANS:
+    mimetype: text/plain
+  RP-PREV.ANS:
+    mimetype: text/plain
+  RP-SNRGY.ASC:
+    mimetype: text/plain
+  RS-PSYCH.ANS:
+    mimetype: text/plain
+  TNT-POLY.ANS:
+    mimetype: text/plain
+  TR-FLIP.ANS:
+    mimetype: text/plain
+  US-PLUSH.ANS:
+    mimetype: text/plain
+  VJ_SOAP4.JPG:
+    mimetype: image/jpeg

@@ -1,0 +1,22 @@
+name: infpromo.zip
+hash: 14fd4f2d37d1a16cad1eff8b0a11f669
+year: 1993
+file:
+  APPLY.INF:
+    mimetype: text/plain
+  CARTEL.ASC:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  INFPROMO.EXE:
+    mimetype: application/x-msdos-program
+  INFPROMO.NFO:
+    mimetype: text/plain
+  MYSTICAL.EXE:
+    mimetype: application/x-msdos-program
+  NEO.COM:
+    mimetype: application/x-msdos-program
+  VIOLATOR.-X-:
+    mimetype: text/plain
+  VOTING.INF:
+    mimetype: text/plain

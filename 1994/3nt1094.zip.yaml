@@ -1,0 +1,36 @@
+name: 3nt1094.zip
+hash: 77762caefd655c66a8dd85b311873558
+year: 1994
+file:
+  3NTAPP.DOC:
+    mimetype: text/plain
+  3NTAPP.EXE:
+    mimetype: application/x-msdos-program
+  3NTMEM.ANS:
+    mimetype: text/plain
+  3NTNFO.ANS:
+    mimetype: text/plain
+  ANSIM.EXE:
+    mimetype: application/x-msdos-program
+  BC-ML1.ANS:
+    mimetype: text/plain
+  BC-NT.ANS:
+    mimetype: text/plain
+  BC-NT1.ANS:
+    mimetype: text/plain
+  BC-NT2.ANS:
+    mimetype: text/plain
+  BC-VA1.ANS:
+    mimetype: text/plain
+  BCS-3NT.ANS:
+    mimetype: text/plain
+  BS-D3NT.ANS:
+    mimetype: text/plain
+  CS-3N-ET.ANS:
+    mimetype: text/plain
+  CS-NT1.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  NEO.COM:
+    mimetype: application/x-msdos-program

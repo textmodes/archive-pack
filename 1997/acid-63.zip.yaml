@@ -1,0 +1,58 @@
+name: acid-63.zip
+hash: 23e16f8ade8a01e3820754921bf76020
+year: 1997
+file:
+  ACID-63.XB:
+    mimetype: text/x-xbin
+  AcidView:
+    mimetype: text/x-shellscript
+  AcidView.bat:
+    mimetype: application/x-msdos-program
+  AcidView.class:
+    mimetype: application/x-java-applet
+  AcidView.faq:
+    mimetype: text/plain
+  AcidView.files:
+    mimetype: text/plain
+  AcidView.fnt:
+    mimetype: application/octet-stream
+  AcidView.jpg:
+    mimetype: image/jpeg
+  AcidView.nfo:
+    mimetype: text/plain
+  acidapp.exe:
+    mimetype: application/x-msdos-program
+  acidcaps.nfo:
+    mimetype: text/plain
+  ay-ballet.jpg:
+    mimetype: image/jpeg
+  bl-cm.jpg:
+    mimetype: image/jpeg
+  cs-Alien_Patrol.jpg:
+    mimetype: image/jpeg
+  file_id.diz:
+    mimetype: text/plain
+  gr-21st_Century_Girl.jpg:
+    mimetype: image/jpeg
+  gr-Dna.jpg:
+    mimetype: image/jpeg
+  gr-Nukefami.jpg:
+    mimetype: image/jpeg
+  gr-Transmis.jpg:
+    mimetype: image/jpeg
+  gv-alisa.jpg:
+    mimetype: image/jpeg
+  gv-exposure.jpg:
+    mimetype: image/jpeg
+  gv-return.jpg:
+    mimetype: image/jpeg
+  j1-evolution.jpg:
+    mimetype: image/jpeg
+  release.nfo:
+    mimetype: text/plain
+  tq-lazs.JPG:
+    mimetype: image/jpeg
+  wc-splsh.jpg:
+    mimetype: image/jpeg
+  we-will.sue:
+    mimetype: text/plain

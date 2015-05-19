@@ -1,0 +1,88 @@
+name: nem-0893.zip
+hash: 964d0ad77000e99240adeb1b6fcd36e0
+year: 1993
+file:
+  AN-CP.NEM:
+    mimetype: text/plain
+  AN-TPOT.NEM:
+    mimetype: text/plain
+  AN-TTG.NEM:
+    mimetype: text/plain
+  DS-MECH1.PCX:
+    mimetype: image/pcx
+  FD-DS2.PCX:
+    mimetype: image/pcx
+  FD-GH.NEM:
+    mimetype: text/plain
+  FD-NEM.NEM:
+    mimetype: text/plain
+  HANGER18.MOD:
+    mimetype: audio/x-mod
+  HK-FILE.DIZ:
+    mimetype: text/plain
+  HL-BC.NEM:
+    mimetype: text/plain
+  HL-IR1.NEM:
+    mimetype: text/plain
+  HL-IRID.NEM:
+    mimetype: text/plain
+  HL-NEM.NEM:
+    mimetype: text/plain
+  KI-A2010.NEM:
+    mimetype: text/plain
+  KI-HELL.PCX:
+    mimetype: image/pcx
+  KI-NEMAD.PCX:
+    mimetype: image/pcx
+  NEM-0893.NEM:
+    mimetype: text/plain
+  NEM-0893.NFO:
+    mimetype: text/plain
+  NEMANSI.DAT:
+    mimetype: text/plain
+  NEMESIS.EXE:
+    mimetype: application/x-msdos-program
+  NEMESIS.NFO:
+    mimetype: text/plain
+  NEMMODS.DAT:
+    mimetype: text/plain
+  NEMVGA.DAT:
+    mimetype: text/plain
+  NS-AZ.NEM:
+    mimetype: text/plain
+  OPENING.MOD:
+    mimetype: audio/x-mod
+  RD-NEM1.NEM:
+    mimetype: text/plain
+  RD-NEME1.NEM:
+    mimetype: text/plain
+  RD-NEMES.NEM:
+    mimetype: text/plain
+  README.1ST:
+    mimetype: text/plain
+  RT-UD.NEM:
+    mimetype: text/plain
+  SHAIHULD.MOD:
+    mimetype: audio/x-mod
+  SL-PAWN.PCX:
+    mimetype: image/pcx
+  SM-DUNG.NEM:
+    mimetype: text/plain
+  SM-DUNG2.NEM:
+    mimetype: text/plain
+  SM-ICON1.NEM:
+    mimetype: text/plain
+  SM-ICON2.NEM:
+    mimetype: text/plain
+  SM-INFRM.NEM:
+    mimetype: text/plain
+  SM-ROSE.NEM:
+    mimetype: text/plain
+  SM-STATS.NEM:
+    mimetype: text/plain
+  SO-SONIC.PCX:
+    mimetype: image/pcx
+  WARSEND.MOD:
+    mimetype: audio/x-mod
+  XN-UYI1.NEM:
+    mimetype: text/plain

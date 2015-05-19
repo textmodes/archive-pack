@@ -1,0 +1,8 @@
+name: arn_digt.zip
+hash: 5440693e084b98ea49cf8bcdded25a62
+year: 1995
+file:
+  DIGITAL.TDF:
+    mimetype: application/octet-stream
+  FILE_ID.DIZ:
+    mimetype: text/plain

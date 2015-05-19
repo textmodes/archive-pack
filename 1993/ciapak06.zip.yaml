@@ -1,0 +1,122 @@
+name: ciapak06.zip
+hash: 71976825505906d62ed434f2d416ecaa
+year: 1993
+file:
+  BI-CIA.CIA:
+    mimetype: text/plain
+  BOARDS.NFO:
+    mimetype: text/plain
+  CIA.BSV:
+    mimetype: application/octet-stream
+  CIA.MOD:
+    mimetype: audio/x-mod
+  CIAAPP.EXE:
+    mimetype: application/x-msdos-program
+  CIAAPP11.ZIP:
+    mimetype: application/zip
+  CIAPAK6.CIA:
+    mimetype: text/plain
+  CIAPAK6.NFO:
+    mimetype: text/plain
+  CIAVIEW.CFG:
+    mimetype: text/plain
+  CIAVIEW.EXE:
+    mimetype: application/x-msdos-program
+  CIAVIEW.NFO:
+    mimetype: text/plain
+  CIAVIEW.ZIP:
+    mimetype: application/zip
+  DS-RN91.GIF:
+    mimetype: image/gif
+  END.BSV:
+    mimetype: application/octet-stream
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FP-STCHT.CIA:
+    mimetype: text/plain
+  JD-CIA.CIA:
+    mimetype: text/plain
+  JD-IE1.CIA:
+    mimetype: text/plain
+  JD-MUTST.CIA:
+    mimetype: text/plain
+  JDCIA-IE.GIF:
+    mimetype: image/gif
+  JDCIA-LE.GIF:
+    mimetype: image/gif
+  LINE1.EXE:
+    mimetype: application/x-msdos-program
+  LINE2.EXE:
+    mimetype: application/x-msdos-program
+  NA-APOCA.CIA:
+    mimetype: text/plain
+  NA-CIABW.GIF:
+    mimetype: image/gif
+  NA-DEMO/NA-DEMO.ZIP:
+    mimetype: application/zip
+  NA-LOGO4.CIA:
+    mimetype: text/plain
+  NA-LOOK4.EXE:
+    mimetype: application/x-msdos-program
+  NA-LWRM.CIA:
+    mimetype: text/plain
+  NA-TERM.CIA:
+    mimetype: text/plain
+  NA-V2.CIA:
+    mimetype: text/plain
+  NA-WORM.CIA:
+    mimetype: text/plain
+  PK-CIAF.EXE:
+    mimetype: application/x-msdos-program
+  PPE/CIAPPE.ZIP:
+    mimetype: application/zip
+  PZ-BNWLF.CIA:
+    mimetype: text/plain
+  PZ-BNWLN.CIA:
+    mimetype: text/plain
+  PZ-BRAVE.CIA:
+    mimetype: text/plain
+  PZ-STATS.CIA:
+    mimetype: text/plain
+  PZ-TC.CIA:
+    mimetype: text/plain
+  PZ-TDA.CIA:
+    mimetype: text/plain
+  READMEME.NOW:
+    mimetype: text/plain
+  SCREEN1.BSV:
+    mimetype: application/octet-stream
+  SCREEN2.BSV:
+    mimetype: application/octet-stream
+  SD-FNH.CIA:
+    mimetype: text/plain
+  SD-IE.CIA:
+    mimetype: text/plain
+  SD-TTZ.CIA:
+    mimetype: text/plain
+  SD-VRX.CIA:
+    mimetype: text/plain
+  SI&FPCIA.CIA:
+    mimetype: text/plain
+  TR-MATX.CIA:
+    mimetype: text/plain
+  TR-MUER.CIA:
+    mimetype: text/plain
+  TR-NEO.CIA:
+    mimetype: text/plain
+  TR-OFF.CIA:
+    mimetype: text/plain
+  TR-STAT.CIA:
+    mimetype: text/plain
+  TR-STAT1.CIA:
+    mimetype: text/plain
+  TR-SYSPW.CIA:
+    mimetype: text/plain
+  TR-TITAN.CIA:
+    mimetype: text/plain
+  TR-UP.CIA:
+    mimetype: text/plain
+  TR-USER.CIA:
+    mimetype: text/plain
+  VIEWGIF.EXE:
+    mimetype: application/x-msdos-program

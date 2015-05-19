@@ -1,0 +1,36 @@
+name: dkb_sn2s.zip
+hash: c00f06b10ec68344d1524079b7b978a2
+year: 1998
+file:
+  DKB.NFO:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  STEELTRA.INS:
+    mimetype: text/plain
+  releases.lst:
+    mimetype: text/plain
+  sn2_01.jpg:
+    mimetype: image/jpeg
+  sn2_02.jpg:
+    mimetype: image/jpeg
+  sn2_03.jpg:
+    mimetype: image/jpeg
+  sn2_04.jpg:
+    mimetype: image/jpeg
+  sn2_05.jpg:
+    mimetype: image/jpeg
+  sn2_06.jpg:
+    mimetype: image/jpeg
+  sn2_07.jpg:
+    mimetype: image/jpeg
+  sn2_08.jpg:
+    mimetype: image/jpeg
+  sn2_09.jpg:
+    mimetype: image/jpeg
+  sn2_10.jpg:
+    mimetype: image/jpeg
+  sn2_11.jpg:
+    mimetype: image/jpeg
+  sn2_12.jpg:
+    mimetype: image/jpeg

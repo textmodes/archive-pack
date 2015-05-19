@@ -1,0 +1,50 @@
+name: ice9808a.zip
+hash: 9408e22eae0d35fd650a2720abe93d8b
+year: 1998
+file:
+  -ANSI---.---:
+    mimetype: text/plain
+  -CONT'D-.---:
+    mimetype: text/plain
+  -LOGO---.---:
+    mimetype: text/plain
+  -STAT---.---:
+    mimetype: text/plain
+  C0-DEGEN.ICE:
+    mimetype: text/plain
+  C0-LG898.ICE:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  ICE-9808.DSC:
+    mimetype: text/plain
+  ICE-9808.MEM:
+    mimetype: text/plain
+  ICE-9808.NFO:
+    mimetype: text/plain
+  ICE-9808.SIT:
+    mimetype: text/plain
+  ICEVIEW.CNF:
+    mimetype: text/plain
+  ICEVIEW.DOC:
+    mimetype: text/plain
+  ICEVIEW.EXE:
+    mimetype: application/x-msdos-program
+  IV-DEF.ICE:
+    mimetype: text/plain
+  MM-FINAL.ICE:
+    mimetype: text/plain
+  SQ2-LG22.ICE:
+    mimetype: text/plain
+  TI-BRT4.ICE:
+    mimetype: text/plain
+  TI-FIC1.ICE:
+    mimetype: text/plain
+  US-CLOUD.BIN:
+    mimetype: text/x-binary
+  US-PHEAR.ICE:
+    mimetype: text/plain
+  US-SFTN1.ICE:
+    mimetype: text/plain
+  US-W98.ICE:
+    mimetype: text/plain

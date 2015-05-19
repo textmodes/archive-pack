@@ -1,0 +1,28 @@
+name: irapack3.zip
+hash: d8af0a736ff8620ed588da4d18f11f1c
+year: 1996
+file:
+  BORSTJES.EXE:
+    mimetype: application/x-msdos-program
+  BROEKJE.EXE:
+    mimetype: application/x-msdos-program
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  HALLUKIC.COM:
+    mimetype: application/x-msdos-program
+  HOSTESS.TXT:
+    mimetype: text/plain
+  IRA:
+    mimetype: text/plain
+  IRA-ANSI.ZIP:
+    mimetype: application/zip
+  IRA-BMPZ.ZIP:
+    mimetype: application/zip
+  IRA-MODZ.ZIP:
+    mimetype: application/zip
+  IRA.COM:
+    mimetype: application/x-msdos-program
+  IRAAPP96.DOC:
+    mimetype: text/plain
+  IRAPACK3.DOC:
+    mimetype: text/plain

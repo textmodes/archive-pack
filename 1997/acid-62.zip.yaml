@@ -1,0 +1,60 @@
+name: acid-62.zip
+hash: 858a21d6d98bc7bc846ba27ff90b0f62
+year: 1997
+file:
+  AcidView:
+    mimetype: text/x-shellscript
+  AcidView.bat:
+    mimetype: application/x-msdos-program
+  AcidView.class:
+    mimetype: application/x-java-applet
+  AcidView.faq:
+    mimetype: text/plain
+  AcidView.files:
+    mimetype: text/plain
+  AcidView.fnt:
+    mimetype: application/octet-stream
+  AcidView.jpg:
+    mimetype: image/jpeg
+  AcidView.nfo:
+    mimetype: text/plain
+  acid-62.xb:
+    mimetype: text/x-xbin
+  acidapp.exe:
+    mimetype: application/x-msdos-program
+  acidcaps.nfo:
+    mimetype: text/plain
+  cs-crux2.jpg:
+    mimetype: image/jpeg
+  cs-franky.jpg:
+    mimetype: image/jpeg
+  eo-acidcaps.jpg:
+    mimetype: image/jpeg
+  file_id.diz:
+    mimetype: text/plain
+  gr-ddlm1.jpg:
+    mimetype: image/jpeg
+  gr-ddlm2.jpg:
+    mimetype: image/jpeg
+  gv-acidgraffiti.jpg:
+    mimetype: image/jpeg
+  gv-acidteam493.jpg:
+    mimetype: image/jpeg
+  if-angel.jpg:
+    mimetype: image/jpeg
+  if-happyhalloween.jpg:
+    mimetype: image/jpeg
+  if-splatterking.jpg:
+    mimetype: image/jpeg
+  news-62.asc:
+    mimetype: text/plain
+  pr-death.jpg:
+    mimetype: image/jpeg
+  release.nfo:
+    mimetype: text/plain
+  us-fourarms.jpg:
+    mimetype: image/jpeg
+  wc-hauntedhouse.jpg:
+    mimetype: image/jpeg
+  we-will.sue:
+    mimetype: text/plain

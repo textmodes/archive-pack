@@ -1,0 +1,50 @@
+name: synth10a.zip
+hash: f433b53116234356c59a7e036e81e239
+year: 1997
+file:
+  0697CONT.ANS:
+    mimetype: text/plain
+  0697MEMB.ANS:
+    mimetype: text/plain
+  CT-RAGE.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  ILUDENFO.ANS:
+    mimetype: text/plain
+  SCAPP.DOC:
+    mimetype: text/plain
+  SCAPP.EXE:
+    mimetype: application/x-msdos-program
+  SYD-COOL.JPG:
+    mimetype: image/jpeg
+  SYD-SYN.JPG:
+    mimetype: image/jpeg
+  TAX-A1.JPG:
+    mimetype: image/jpeg
+  TAX-A2.JPG:
+    mimetype: image/jpeg
+  TAX-DGLM.JPG:
+    mimetype: image/jpeg
+  TAX-HIYA.JPG:
+    mimetype: image/jpeg
+  TAX-NFOG.JPG:
+    mimetype: image/jpeg
+  TAX-SLGO.JPG:
+    mimetype: image/jpeg
+  TAX-SRCK.JPG:
+    mimetype: image/jpeg
+  TR-AMPC.ANS:
+    mimetype: text/plain
+  TR-ILUDE.ANS:
+    mimetype: text/plain
+  TR-PLEN.ANS:
+    mimetype: text/plain
+  TR-TSPOT.JPG:
+    mimetype: image/jpeg
+  WRP-BUBB.JPG:
+    mimetype: image/jpeg
+  WRP-HOLE.JPG:
+    mimetype: image/jpeg
+  WRP-WARP.ANS:
+    mimetype: text/plain

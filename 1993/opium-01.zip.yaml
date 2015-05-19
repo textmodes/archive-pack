@@ -1,0 +1,48 @@
+name: opium-01.zip
+hash: e41154024c677a8848bf88a2ae2dbb2c
+year: 1993
+file:
+  !!binary nE+AX5xPgF8unE+A:
+    mimetype: text/plain
+  00000001.NFO:
+    mimetype: text/plain
+  BS-DEZ1.OPM:
+    mimetype: text/plain
+  BS-LOC1.OPM:
+    mimetype: text/plain
+  DE-DEZ1.OPM:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FUN!.COM:
+    mimetype: application/x-msdos-program
+  G&D-OPM.ZIP:
+    mimetype: application/zip
+  GD-OPM1.ZIP:
+    mimetype: application/zip
+  GF-ABST.EXE:
+    mimetype: application/x-msdos-program
+  GF-FIST.EXE:
+    mimetype: application/x-msdos-program
+  KK-DEZ1.OPM:
+    mimetype: text/plain
+  KK-DEZ2.OPM:
+    mimetype: text/plain
+  KK-LOC1.OPM:
+    mimetype: text/plain
+  KK-OPM1.EXE:
+    mimetype: application/x-msdos-program
+  KK-OPM1.OPM:
+    mimetype: text/plain
+  KK-PRIO.OPM:
+    mimetype: text/plain
+  OPM-0893.NWS:
+    mimetype: text/plain
+  OPM_ART.APP:
+    mimetype: application/octet-stream
+  SKULLS.COM:
+    mimetype: application/x-msdos-program
+  VS-OPM1.EXE:
+    mimetype: application/x-msdos-program
+  VS-OPM2.EXE:
+    mimetype: application/x-msdos-program

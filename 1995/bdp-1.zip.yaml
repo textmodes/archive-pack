@@ -1,0 +1,88 @@
+name: bdp-1.zip
+hash: 9d91770c8bd4a89b7673cf623f918366
+year: 1995
+file:
+  APPLY.APP:
+    mimetype: text/plain
+  BE-BE.ANS:
+    mimetype: text/plain
+  BE-LIA.ANS:
+    mimetype: text/plain
+  BE-NFO.ANS:
+    mimetype: text/plain
+  BE-SH.ANS:
+    mimetype: text/plain
+  BE-YA.ANS:
+    mimetype: text/plain
+  CO-BDP1.ANS:
+    mimetype: text/plain
+  CO-BDP2.ANS:
+    mimetype: text/plain
+  CO-BDP3.ANS:
+    mimetype: text/plain
+  CO-BDP4.ANS:
+    mimetype: text/plain
+  CO-BDP5.ANS:
+    mimetype: text/plain
+  CO-BDP6.ANS:
+    mimetype: text/plain
+  CO-BLUE1.ANS:
+    mimetype: text/plain
+  CO-CHAT1.ANS:
+    mimetype: text/plain
+  CO-COJ.ANS:
+    mimetype: text/plain
+  CO-DIRKI.ANS:
+    mimetype: text/plain
+  CO-DOOM1.ANS:
+    mimetype: text/plain
+  CO-DOOM2.ANS:
+    mimetype: text/plain
+  CO-DOOM3.ANS:
+    mimetype: text/plain
+  CO-FLAT1.ANS:
+    mimetype: text/plain
+  CO-INFO.ANS:
+    mimetype: text/plain
+  CO-LIT.ANS:
+    mimetype: text/plain
+  CO-MON.ANS:
+    mimetype: text/plain
+  CO-MT.ANS:
+    mimetype: text/plain
+  CO-PRO2.ANS:
+    mimetype: text/plain
+  CO-PROPH.ANS:
+    mimetype: text/plain
+  CO-RACE.ANS:
+    mimetype: text/plain
+  CO-SHOUT.ANS:
+    mimetype: text/plain
+  CO-WOW.ANS:
+    mimetype: text/plain
+  CO-ZONE.ANS:
+    mimetype: text/plain
+  DANCEWIT.HME:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GET_DA_R.AVE:
+    mimetype: text/plain
+  SOME.NFO:
+    mimetype: text/plain
+  SUMMONER.EXE:
+    mimetype: application/x-msdos-program
+  UG-BITCH.ANS:
+    mimetype: text/plain
+  UG-BLUE2.ANS:
+    mimetype: text/plain
+  UG-CHAOS.ANS:
+    mimetype: text/plain
+  UG-SKULL.ANS:
+    mimetype: text/plain
+  UG-WASTE.ANS:
+    mimetype: text/plain
+  UG-WU.ANS:
+    mimetype: text/plain
+  WANTED.BDP:
+    mimetype: text/plain

@@ -1,0 +1,66 @@
+name: ceg-0198.zip
+hash: 4a10c7cbd4e850b617ff73d41b7f52c1
+year: 1998
+file:
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  MEMLIST.EXE:
+    mimetype: application/x-msdos-program
+  MK-ADOBE.ANS:
+    mimetype: text/plain
+  MK-B_L.ASC:
+    mimetype: text/plain
+  MK-CEG.ASC:
+    mimetype: text/plain
+  MK-CEG_F.ANS:
+    mimetype: text/plain
+  MK-CWAT.JPG:
+    mimetype: image/jpeg
+  MK-DEATH.ANS:
+    mimetype: text/plain
+  MK-GDIG.ANS:
+    mimetype: text/plain
+  MK-GLUK.JPG:
+    mimetype: image/jpeg
+  MK-INF.ANS:
+    mimetype: text/plain
+  MK-MK.ASC:
+    mimetype: text/plain
+  MK-MORT.JPG:
+    mimetype: image/jpeg
+  MK-PIG.ANS:
+    mimetype: text/plain
+  MK-PIG.JPG:
+    mimetype: image/jpeg
+  MK-POIS.ASC:
+    mimetype: text/plain
+  MK-WAR.JPG:
+    mimetype: image/jpeg
+  MK-XAOC2.JPG:
+    mimetype: image/jpeg
+  NG-ALVE.ANS:
+    mimetype: text/plain
+  NG-CRIME.ANS:
+    mimetype: text/plain
+  NG-DM1.ANS:
+    mimetype: text/plain
+  NG-GOD.ANS:
+    mimetype: text/plain
+  NG-GRAF.ANS:
+    mimetype: text/plain
+  NG-JRRT.ANS:
+    mimetype: text/plain
+  NG-NOSM.ANS:
+    mimetype: text/plain
+  NG-PS.ANS:
+    mimetype: text/plain
+  NG-SKULL.ANS:
+    mimetype: text/plain
+  NG-STOP.ANS:
+    mimetype: text/plain
+  NG-SUXX.ANS:
+    mimetype: text/plain
+  NG-XAOC.ANS:
+    mimetype: text/plain
+  WILDCAT.ANS:
+    mimetype: text/plain

@@ -1,0 +1,362 @@
+name: sac1294.zip
+hash: e1187968231982d5914a1a2cb4dda56d
+year: 1994
+file:
+  DD-2000.GIF:
+    mimetype: image/gif
+  DD-BASEL.GIF:
+    mimetype: image/gif
+  DD-BENZ.GIF:
+    mimetype: image/gif
+  DD-CDS.GIF:
+    mimetype: image/gif
+  DD-DD.GIF:
+    mimetype: image/gif
+  DD-DNX.GIF:
+    mimetype: image/gif
+  DD-GALAX.GIF:
+    mimetype: image/gif
+  DD-GARF.GIF:
+    mimetype: image/gif
+  DD-GNS1.GIF:
+    mimetype: image/gif
+  DD-MACA.GIF:
+    mimetype: image/gif
+  DD-MAZDA.GIF:
+    mimetype: image/gif
+  DD-MM.GIF:
+    mimetype: image/gif
+  DD-PDY.GIF:
+    mimetype: image/gif
+  DD-PREM.GIF:
+    mimetype: image/gif
+  DD-REVOL.GIF:
+    mimetype: image/gif
+  DD-RMD1.GIF:
+    mimetype: image/gif
+  DD-SR.GIF:
+    mimetype: image/gif
+  DD-TINY.GIF:
+    mimetype: image/gif
+  DD-TRN1.GIF:
+    mimetype: image/gif
+  DD-TRN2.GIF:
+    mimetype: image/gif
+  DD-TRN3.GIF:
+    mimetype: image/gif
+  DD-TRSI1.GIF:
+    mimetype: image/gif
+  DD-TRSI2.GIF:
+    mimetype: image/gif
+  DD-VM1.GIF:
+    mimetype: image/gif
+  DD-WELCO.GIF:
+    mimetype: image/gif
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  HT-ANX.ANS:
+    mimetype: text/plain
+  HT-ANX.EXE:
+    mimetype: application/x-msdos-program
+  HT-CYBX.ANS:
+    mimetype: text/plain
+  HT-CYBX.ASC:
+    mimetype: text/plain
+  HT-DK.ANS:
+    mimetype: text/plain
+  HT-DKL.ASC:
+    mimetype: text/plain
+  HT-DKM.ANS:
+    mimetype: text/plain
+  HT-DODSH.ANS:
+    mimetype: text/plain
+  HT-DSTR.ANS:
+    mimetype: text/plain
+  HT-EF.ANS:
+    mimetype: text/plain
+  HT-EF.EXE:
+    mimetype: application/x-msdos-program
+  HT-EFAMI.ANS:
+    mimetype: text/plain
+  HT-EFART.ANS:
+    mimetype: text/plain
+  HT-EFCFS.ANS:
+    mimetype: text/plain
+  HT-EFCHT.ANS:
+    mimetype: text/plain
+  HT-EFCON.ANS:
+    mimetype: text/plain
+  HT-EFDL1.ASC:
+    mimetype: text/plain
+  HT-EFDL2.ASC:
+    mimetype: text/plain
+  HT-EFID.ANS:
+    mimetype: text/plain
+  HT-EFPC.ANS:
+    mimetype: text/plain
+  HT-EFREQ.ANS:
+    mimetype: text/plain
+  HT-EFUL.ANS:
+    mimetype: text/plain
+  HT-EFWLL.ANS:
+    mimetype: text/plain
+  HT-EYES.ANS:
+    mimetype: text/plain
+  HT-FG.ANS:
+    mimetype: text/plain
+  HT-FGNEW.ANS:
+    mimetype: text/plain
+  HT-GEOLD.ASC:
+    mimetype: text/plain
+  HT-GNNEW.ASC:
+    mimetype: text/plain
+  HT-HYBNF.ASC:
+    mimetype: text/plain
+  HT-IACCS.ANS:
+    mimetype: text/plain
+  HT-ILLU.ANS:
+    mimetype: text/plain
+  HT-LKCC.ASC:
+    mimetype: text/plain
+  HT-LKCC.GIF:
+    mimetype: image/gif
+  HT-LKCF1.ANS:
+    mimetype: text/plain
+  HT-LKCF2.ANS:
+    mimetype: text/plain
+  HT-LKCLT.ASC:
+    mimetype: text/plain
+  HT-LKCSL.ANS:
+    mimetype: text/plain
+  HT-LKID.ASC:
+    mimetype: text/plain
+  HT-LKNF1.ASC:
+    mimetype: text/plain
+  HT-LKNF2.ASC:
+    mimetype: text/plain
+  HT-LKNF3.ASC:
+    mimetype: text/plain
+  HT-MAD.ASC:
+    mimetype: text/plain
+  HT-NEON.ASC:
+    mimetype: text/plain
+  HT-NEXUS.ASC:
+    mimetype: text/plain
+  HT-NWT.ASC:
+    mimetype: text/plain
+  HT-SAC.ASC:
+    mimetype: text/plain
+  HT-SKYL.ANS:
+    mimetype: text/plain
+  HT-SS.ANS:
+    mimetype: text/plain
+  HT-SSDL.ASC:
+    mimetype: text/plain
+  HT-TDUJ!.ASC:
+    mimetype: text/plain
+  HT-TMD.ASC:
+    mimetype: text/plain
+  HT-TMDCF.ANS:
+    mimetype: text/plain
+  HT-TMDID.ASC:
+    mimetype: text/plain
+  KT-ADLER.ANS:
+    mimetype: text/plain
+  KT-AID1.ANS:
+    mimetype: text/plain
+  KT-ARCO.ANS:
+    mimetype: text/plain
+  KT-CONF.ANS:
+    mimetype: text/plain
+  KT-LOGOF.ANS:
+    mimetype: text/plain
+  KT-LQD.ANS:
+    mimetype: text/plain
+  KT-LQD.ASC:
+    mimetype: text/plain
+  KT-MAIL.ANS:
+    mimetype: text/plain
+  KT-MENU.ANS:
+    mimetype: text/plain
+  KT-MTV.ANS:
+    mimetype: text/plain
+  KT-MTV.ASC:
+    mimetype: text/plain
+  KT-MTV2.ASC:
+    mimetype: text/plain
+  KT-MYST1.ANS:
+    mimetype: text/plain
+  KT-MYST2.ANS:
+    mimetype: text/plain
+  KT-MYST3.ANS:
+    mimetype: text/plain
+  KT-NCC.ANS:
+    mimetype: text/plain
+  KT-SHOG1.ANS:
+    mimetype: text/plain
+  KT-SHOG2.ANS:
+    mimetype: text/plain
+  KT-SHOG3.ANS:
+    mimetype: text/plain
+  KT-SKC.ANS:
+    mimetype: text/plain
+  KT-TITLE.ANS:
+    mimetype: text/plain
+  REMEMBER.COM:
+    mimetype: application/x-msdos-program
+  ROY-AN.ANS:
+    mimetype: text/plain
+  ROY-CBX.GIF:
+    mimetype: image/gif
+  ROY-CDS1.GIF:
+    mimetype: image/gif
+  ROY-CDS2.ASC:
+    mimetype: text/plain
+  ROY-CDS2.GIF:
+    mimetype: image/gif
+  ROY-CDSM.EXE:
+    mimetype: application/x-msdos-program
+  ROY-CONF.ANS:
+    mimetype: text/plain
+  ROY-COS.ANS:
+    mimetype: text/plain
+  ROY-DC1.ANS:
+    mimetype: text/plain
+  ROY-DIMX.ANS:
+    mimetype: text/plain
+  ROY-DIMX.EXE:
+    mimetype: application/x-msdos-program
+  ROY-DOWN.ANS:
+    mimetype: text/plain
+  ROY-DPN.EXE:
+    mimetype: application/x-msdos-program
+  ROY-DS.ANS:
+    mimetype: text/plain
+  ROY-FG.ANS:
+    mimetype: text/plain
+  ROY-FTH.ASC:
+    mimetype: text/plain
+  ROY-FTH1.ANS:
+    mimetype: text/plain
+  ROY-GNS.ANS:
+    mimetype: text/plain
+  ROY-GNS1.ASC:
+    mimetype: text/plain
+  ROY-INS.ANS:
+    mimetype: text/plain
+  ROY-NCC.ASC:
+    mimetype: text/plain
+  ROY-OBS.ANS:
+    mimetype: text/plain
+  ROY-RZR1.ASC:
+    mimetype: text/plain
+  ROY-RZR2.ASC:
+    mimetype: text/plain
+  ROY-SAB2.ASC:
+    mimetype: text/plain
+  ROY-SABO.ASC:
+    mimetype: text/plain
+  ROY-SDIZ.ASC:
+    mimetype: text/plain
+  ROY-SKY.ANS:
+    mimetype: text/plain
+  ROY-SP1.ANS:
+    mimetype: text/plain
+  ROY-SUN.GIF:
+    mimetype: image/gif
+  ROY-TDIZ.ASC:
+    mimetype: text/plain
+  ROY-TOAO.ASC:
+    mimetype: text/plain
+  ROY-TOAO.GIF:
+    mimetype: image/gif
+  ROY-TRS.EXE:
+    mimetype: application/x-msdos-program
+  ROY-TRS1.ASC:
+    mimetype: text/plain
+  ROY-TRS2.ASC:
+    mimetype: text/plain
+  ROY-TRS2.GIF:
+    mimetype: image/gif
+  ROY-TRSC.ANS:
+    mimetype: text/plain
+  ROY-TRSI.ANS:
+    mimetype: text/plain
+  ROY-TRSI.GIF:
+    mimetype: image/gif
+  ROY-WALL.ANS:
+    mimetype: text/plain
+  ROY-XF.ASC:
+    mimetype: text/plain
+  RS-AMICF.ANS:
+    mimetype: text/plain
+  RS-ANX1.ANS:
+    mimetype: text/plain
+  RS-ANX2.ANS:
+    mimetype: text/plain
+  RS-ANXI.ASC:
+    mimetype: text/plain
+  RS-BBSMA.ANS:
+    mimetype: text/plain
+  RS-COPS.ANS:
+    mimetype: text/plain
+  RS-FTL.ASC:
+    mimetype: text/plain
+  RS-ILLAX.ANS:
+    mimetype: text/plain
+  RS-INS.ANS:
+    mimetype: text/plain
+  RS-NEON.ASC:
+    mimetype: text/plain
+  RS-OBSES.ANS:
+    mimetype: text/plain
+  RS-PCCNF.ANS:
+    mimetype: text/plain
+  RS-PSYZ.ANS:
+    mimetype: text/plain
+  RS-PSYZ.ASC:
+    mimetype: text/plain
+  RS-RE.ANS:
+    mimetype: text/plain
+  RS-REND.ANS:
+    mimetype: text/plain
+  RS-RSR1.ASC:
+    mimetype: text/plain
+  RS-RSR2.ASC:
+    mimetype: text/plain
+  RS-SAC1.ANS:
+    mimetype: text/plain
+  RS-SAC1.ASC:
+    mimetype: text/plain
+  RS-SKY.ANS:
+    mimetype: text/plain
+  RS-SKYPI.ANS:
+    mimetype: text/plain
+  RS-SM.ANS:
+    mimetype: text/plain
+  RS-TRSI.ANS:
+    mimetype: text/plain
+  RS-TRSI1.ASC:
+    mimetype: text/plain
+  RS-TRSI2.ASC:
+    mimetype: text/plain
+  SAC.NFO:
+    mimetype: text/plain
+  SACTRO.EXE:
+    mimetype: application/x-msdos-program
+  TOX-ABYS.DMF:
+    mimetype: text/plain
+  TOX-BUNK.DMF:
+    mimetype: application/octet-stream
+  TOX-DARK.DMF:
+    mimetype: application/octet-stream
+  TOX-FUTU.DMF:
+    mimetype: application/octet-stream
+  X-PLAY.DOC:
+    mimetype: text/plain
+  X-PLAY.EXE:
+    mimetype: application/x-msdos-program
+  X-SHELL.DOC:
+    mimetype: text/plain
+  X-SHELL.EXE:
+    mimetype: application/x-msdos-program

@@ -1,0 +1,62 @@
+name: fire0494.zip
+hash: 670f4cc1bda98791f995c01c3b29017d
+year: 1994
+file:
+  !!binary 7fkgRfdNQ/0u+e0=:
+    mimetype: text/plain
+  BP-BART.EXE:
+    mimetype: application/x-msdos-program
+  BP-BATMN.EXE:
+    mimetype: application/x-msdos-program
+  BP-DRAGN.EXE:
+    mimetype: application/x-msdos-program
+  BP-FIRE1.EXE:
+    mimetype: application/x-msdos-program
+  BP-FIRE2.EXE:
+    mimetype: application/x-msdos-program
+  BP-HUMN.EXE:
+    mimetype: application/x-msdos-program
+  BP-MORTL.EXE:
+    mimetype: application/x-msdos-program
+  BP-NEO.EXE:
+    mimetype: application/x-msdos-program
+  BP-SON.EXE:
+    mimetype: application/x-msdos-program
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FIREVIEW.EXE:
+    mimetype: application/x-msdos-program
+  JZ-FS1.FS:
+    mimetype: text/plain
+  JZ-STATS.FS:
+    mimetype: text/plain
+  MTP-BLWT.FS:
+    mimetype: text/plain
+  MTP-BYE.FS:
+    mimetype: text/plain
+  MTP-COKE.FS:
+    mimetype: text/plain
+  MTP-GOOD.FS:
+    mimetype: text/plain
+  MTP-JAZZ.MTM:
+    mimetype: application/octet-stream
+  MTP-JOKE.FS:
+    mimetype: text/plain
+  MTP-MJ.FS:
+    mimetype: text/plain
+  MTP-MTP.FS:
+    mimetype: text/plain
+  MTP-NWAR.FS:
+    mimetype: text/plain
+  MTP-SKUL.FS:
+    mimetype: text/plain
+  MTP-STAR.FS:
+    mimetype: text/plain
+  MTP-VENO.FS:
+    mimetype: text/plain
+  TX-ENDSP.MTM:
+    mimetype: application/octet-stream
+  TX-GLAND.FS:
+    mimetype: text/plain
+  VGASHOW.EXE:
+    mimetype: application/x-msdos-program

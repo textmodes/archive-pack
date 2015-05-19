@@ -1,0 +1,60 @@
+name: sys2_02.zip
+hash: cfa3a60fe3e7439664eafee067129121
+year: 2000
+file:
+  43-mimic.asc:
+    mimetype: text/plain
+  43-omega.asc:
+    mimetype: text/plain
+  Dwf-s2.txt:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  US-ACID.RMX:
+    mimetype: text/plain
+  US-USED.ANS:
+    mimetype: text/plain
+  ZS-ACID7.ASC:
+    mimetype: text/plain
+  ZS-BTWOS.ANS:
+    mimetype: text/plain
+  ZS-CODE.ANS:
+    mimetype: text/plain
+  ZS-DAHAU.ANS:
+    mimetype: text/plain
+  ZS-GENIU.ANS:
+    mimetype: text/plain
+  ZS-INSO1.ANS:
+    mimetype: text/plain
+  ZS-INSO2.ANS:
+    mimetype: text/plain
+  ZS-INSO3.ANS:
+    mimetype: text/plain
+  ZS-INSO4.ANS:
+    mimetype: text/plain
+  ZS-KO.ANS:
+    mimetype: text/plain
+  ZS-SII05.ANS:
+    mimetype: text/plain
+  ZS-T2.ANS:
+    mimetype: text/plain
+  Zs-sii06.asc:
+    mimetype: text/plain
+  Zs-sii07.b1n:
+    mimetype: text/plain
+  sysII_02.NFO:
+    mimetype: text/plain
+  us-sys2.asc:
+    mimetype: text/plain
+  zs-acid6.png:
+    mimetype: image/png
+  zs-dek.ans:
+    mimetype: text/plain
+  zs-elm14.png:
+    mimetype: image/png
+  zs-exter.png:
+    mimetype: image/png
+  zs-mmc5.ans:
+    mimetype: text/plain
+  zs-ok.png:
+    mimetype: image/png

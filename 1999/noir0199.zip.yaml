@@ -1,0 +1,198 @@
+name: noir0199.zip
+hash: 1253145b61fac27e7b5cc2d6f5c91c96
+year: 1999
+file:
+  artpack/atp-noir1.jpg:
+    mimetype: image/jpeg
+  artpack/atp-noir2.jpg:
+    mimetype: image/jpeg
+  artpack/atp-noir3.jpg:
+    mimetype: image/jpeg
+  artpack/atp-noir4.jpg:
+    mimetype: image/jpeg
+  artpack/db-motos.jpg:
+    mimetype: image/jpeg
+  artpack/fs-logo.jpg:
+    mimetype: image/jpeg
+  artpack/fs-tunnel.jpg:
+    mimetype: image/jpeg
+  artpack/fs-webh.jpg:
+    mimetype: image/jpeg
+  artpack/fyr-gun.jpg:
+    mimetype: image/jpeg
+  artpack/fyr-mist.jpg:
+    mimetype: image/jpeg
+  artpack/fyr-send1.jpg:
+    mimetype: image/jpeg
+  artpack/fyr-send2.jpg:
+    mimetype: image/jpeg
+  artpack/hiv-menu.jpg:
+    mimetype: image/jpeg
+  artpack/ho-corny.jpg:
+    mimetype: image/jpeg
+  artpack/ho-nrgie.jpg:
+    mimetype: image/jpeg
+  artpack/ho-threed.jpg:
+    mimetype: image/jpeg
+  artpack/lad-watch.jpg:
+    mimetype: image/jpeg
+  artpack/max-arma.jpg:
+    mimetype: image/jpeg
+  artpack/n4-iss.jpg:
+    mimetype: image/jpeg
+  artpack/riv-eye.jpg:
+    mimetype: image/jpeg
+  artpack/xrx-alive.jpg:
+    mimetype: image/jpeg
+  artpack/xrx-desktop.jpg:
+    mimetype: image/jpeg
+  artpack/xrx-frau.jpg:
+    mimetype: image/jpeg
+  artpack/xrx-mann.jpg:
+    mimetype: image/jpeg
+  file_id.diz:
+    mimetype: text/plain
+  html/art.htm:
+    mimetype: text/html
+  html/images/amp.gif:
+    mimetype: image/gif
+  html/images/artani.gif:
+    mimetype: image/gif
+  html/images/arty.gif:
+    mimetype: image/gif
+  html/images/crbanner.jpg:
+    mimetype: image/jpeg
+  html/images/dreieck.gif:
+    mimetype: image/gif
+  html/images/logo.jpg:
+    mimetype: image/jpeg
+  html/images/membersani.gif:
+    mimetype: image/gif
+  html/images/membersy.gif:
+    mimetype: image/gif
+  html/images/mpeg.gif:
+    mimetype: image/gif
+  html/images/musicani.gif:
+    mimetype: image/gif
+  html/images/musicy.gif:
+    mimetype: image/gif
+  html/images/newsani.gif:
+    mimetype: image/gif
+  html/images/newsy.gif:
+    mimetype: image/gif
+  html/images/smallnoir.gif:
+    mimetype: image/gif
+  html/index2.htm:
+    mimetype: text/html
+  html/indexart.htm:
+    mimetype: text/html
+  html/main.htm:
+    mimetype: text/html
+  html/members.htm:
+    mimetype: text/html
+  html/music.htm:
+    mimetype: text/html
+  html/news.htm:
+    mimetype: text/html
+  html/thumb/atp-noir1.gif:
+    mimetype: image/gif
+  html/thumb/atp-noir2.gif:
+    mimetype: image/gif
+  html/thumb/atp-noir3.gif:
+    mimetype: image/gif
+  html/thumb/atp-noir4.gif:
+    mimetype: image/gif
+  html/thumb/db-motos.gif:
+    mimetype: image/gif
+  html/thumb/fs-logo.gif:
+    mimetype: image/gif
+  html/thumb/fs-tunnel.gif:
+    mimetype: image/gif
+  html/thumb/fs-webh.gif:
+    mimetype: image/gif
+  html/thumb/fyr-gun.gif:
+    mimetype: image/gif
+  html/thumb/fyr-mist.gif:
+    mimetype: image/gif
+  html/thumb/fyr-send1.gif:
+    mimetype: image/gif
+  html/thumb/fyr-send2.gif:
+    mimetype: image/gif
+  html/thumb/hiv-menu.gif:
+    mimetype: image/gif
+  html/thumb/ho-corny.gif:
+    mimetype: image/gif
+  html/thumb/ho-nrgie.gif:
+    mimetype: image/gif
+  html/thumb/ho-threed.gif:
+    mimetype: image/gif
+  html/thumb/html/atp-noir1.htm:
+    mimetype: text/html
+  html/thumb/html/atp-noir2.htm:
+    mimetype: text/html
+  html/thumb/html/atp-noir3.htm:
+    mimetype: text/html
+  html/thumb/html/atp-noir4.htm:
+    mimetype: text/html
+  html/thumb/html/db-motos.htm:
+    mimetype: text/html
+  html/thumb/html/fs-logo.htm:
+    mimetype: text/html
+  html/thumb/html/fs-tunnel.htm:
+    mimetype: text/html
+  html/thumb/html/fs-webh.htm:
+    mimetype: text/html
+  html/thumb/html/fyr-gun.htm:
+    mimetype: text/html
+  html/thumb/html/fyr-mist.htm:
+    mimetype: text/html
+  html/thumb/html/fyr-send1.htm:
+    mimetype: text/html
+  html/thumb/html/fyr-send2.htm:
+    mimetype: text/html
+  html/thumb/html/hiv-menu.htm:
+    mimetype: text/html
+  html/thumb/html/ho-corny.htm:
+    mimetype: text/html
+  html/thumb/html/ho-nrgie.htm:
+    mimetype: text/html
+  html/thumb/html/ho-threed.htm:
+    mimetype: text/html
+  html/thumb/html/lad-watch.htm:
+    mimetype: text/html
+  html/thumb/html/max-arma.htm:
+    mimetype: text/html
+  html/thumb/html/n4-iss.htm:
+    mimetype: text/html
+  html/thumb/html/riv-eye.htm:
+    mimetype: text/html
+  html/thumb/html/xrx-alive.htm:
+    mimetype: text/html
+  html/thumb/html/xrx-desktop.htm:
+    mimetype: text/html
+  html/thumb/html/xrx-frau.htm:
+    mimetype: text/html
+  html/thumb/html/xrx-mann.htm:
+    mimetype: text/html
+  html/thumb/lad-watch.gif:
+    mimetype: image/gif
+  html/thumb/max-arma.gif:
+    mimetype: image/gif
+  html/thumb/n4-iss.gif:
+    mimetype: image/gif
+  html/thumb/riv-eye.gif:
+    mimetype: image/gif
+  html/thumb/xrx-alive.gif:
+    mimetype: image/gif
+  html/thumb/xrx-desktop.gif:
+    mimetype: image/gif
+  html/thumb/xrx-frau.gif:
+    mimetype: image/gif
+  html/thumb/xrx-mann.gif:
+    mimetype: image/gif
+  html/top.htm:
+    mimetype: text/html
+  index.htm:
+    mimetype: text/html
+  noir.nfo:
+    mimetype: text/plain

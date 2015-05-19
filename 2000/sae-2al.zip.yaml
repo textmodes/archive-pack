@@ -1,0 +1,44 @@
+name: sae-2al.zip
+hash: 2e9658e1d19e7e6b524a679597b97678
+year: 2000
+file:
+  (SAE004).NFO:
+    mimetype: text/plain
+  EB-ACX.ASC:
+    mimetype: text/plain
+  EB-ACX2.ASC:
+    mimetype: text/plain
+  EB-DIRE.ASC:
+    mimetype: text/plain
+  EB-ICF.ASC:
+    mimetype: text/plain
+  EB-RDX.ASC:
+    mimetype: text/plain
+  EB-SAE.ANS:
+    mimetype: text/plain
+  EB-SANTA.ANS:
+    mimetype: text/plain
+  EB-SFI.ASC:
+    mimetype: text/plain
+  EU_TRC.ASC:
+    mimetype: text/plain
+  EU_TRCI.ASC:
+    mimetype: text/plain
+  EU_ZENTH.ASC:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  M0D-!DGI.DIZ:
+    mimetype: text/plain
+  M0D-ASC.ASC:
+    mimetype: text/plain
+  M0D-CHAT.ANS:
+    mimetype: text/plain
+  M0D-SAEH.DIZ:
+    mimetype: text/plain
+  M0D-SAEM.DIZ:
+    mimetype: text/plain
+  SAE.NFO:
+    mimetype: text/plain
+  THUGLIFE.ORG:
+    mimetype: text/plain

@@ -1,0 +1,12 @@
+name: nau-i000.zip
+hash: f2924ec869ba01ebd172c712a0226a45
+year: 1995
+file:
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  G3-NEC.ANS:
+    mimetype: text/plain
+  NAU-INFO.ANS:
+    mimetype: text/plain
+  NAUS0196.MEM:
+    mimetype: text/plain

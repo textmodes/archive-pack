@@ -1,0 +1,58 @@
+name: sense07.zip
+hash: 90273823ec032840a75fa9919a148dff
+year: 1998
+file:
+  APPLY.ZIP:
+    mimetype: application/zip
+  ARG-ALIN.ANS:
+    mimetype: text/plain
+  ARG-BOMB.ANS:
+    mimetype: text/plain
+  ARG-KISS.ANS:
+    mimetype: text/plain
+  ARG-NIN.ANS:
+    mimetype: text/plain
+  ARG-PANT.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  MR-DUNNO.JPG:
+    mimetype: image/jpeg
+  PX-ADD.ANS:
+    mimetype: text/plain
+  PX-BIRD.ANS:
+    mimetype: text/plain
+  PX-BUG.ANS:
+    mimetype: text/plain
+  PX-CC.ANS:
+    mimetype: text/plain
+  PX-GRAF.ANS:
+    mimetype: text/plain
+  PX-HELL.ASC:
+    mimetype: text/plain
+  PX-HOCKE.ANS:
+    mimetype: text/plain
+  PX-MENOO.ASC:
+    mimetype: text/plain
+  PX-NS.ANS:
+    mimetype: text/plain
+  PX-OLDSK.ASC:
+    mimetype: text/plain
+  PX-SENSE.ANS:
+    mimetype: text/plain
+  PX-SOUTZ.ANS:
+    mimetype: text/plain
+  PX-SYNTH.ANS:
+    mimetype: text/plain
+  SC-LINT1.ANS:
+    mimetype: text/plain
+  SC-SNS1.ANS:
+    mimetype: text/plain
+  SC-SNS2.ANS:
+    mimetype: text/plain
+  SENSE07.MEM:
+    mimetype: text/plain
+  SENSE07.NFO:
+    mimetype: text/plain
+  ZN-REMIX.ZIP:
+    mimetype: application/zip

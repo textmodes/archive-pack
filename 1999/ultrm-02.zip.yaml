@@ -1,0 +1,62 @@
+name: ultrm-02.zip
+hash: 2371ccbca3525c3c8cf27cf4935af442
+year: 1999
+file:
+  COVER02.JPG:
+    mimetype: image/jpeg
+  DEEP/CORD-001.LIT:
+    mimetype: text/plain
+  DEEP/CORD-002.LIT:
+    mimetype: text/plain
+  DEEP/CORD-003.LIT:
+    mimetype: text/plain
+  DEEP/CORD-004.LIT:
+    mimetype: text/plain
+  DEEP/CORD-008.LIT:
+    mimetype: text/plain
+  DEEP/CORD-009.LIT:
+    mimetype: text/plain
+  DEEP/CORD-010.LIT:
+    mimetype: text/plain
+  DEEP/CS-001.LIT:
+    mimetype: text/plain
+  DEEP/LJ-001.LIT:
+    mimetype: text/plain
+  DEEP/LJ-004.LIT:
+    mimetype: text/plain
+  DEEP/PHL-001.LIT:
+    mimetype: text/plain
+  DEEP/PHL-002.LIT:
+    mimetype: text/plain
+  DEEP/PHL-003.LIT:
+    mimetype: text/plain
+  DEEP/PNCZ-002.LIT:
+    mimetype: text/plain
+  DEEP/PNCZ-003.LIT:
+    mimetype: text/plain
+  DEEP/SPRO-RHP.JPG:
+    mimetype: image/jpeg
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  INTRO.002:
+    mimetype: text/plain
+  LIGHT/CORD-007.LIT:
+    mimetype: text/plain
+  LIGHT/LJ-002.LIT:
+    mimetype: text/plain
+  LIGHT/LJ-003.LIT:
+    mimetype: text/plain
+  LIGHT/LJ-004.LIT:
+    mimetype: text/plain
+  LIGHT/LORI-001.LIT:
+    mimetype: text/plain
+  LIGHT/LORI-002.LIT:
+    mimetype: text/plain
+  LIGHT/PHL-004.LIT:
+    mimetype: text/plain
+  LIGHT/PNCHZ-~1.LIT:
+    mimetype: text/plain
+  LIGHT/PNCZ-004.LIT:
+    mimetype: text/plain
+  NIGTAIR2.MOD:
+    mimetype: audio/x-mod

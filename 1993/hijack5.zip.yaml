@@ -1,0 +1,22 @@
+name: hijack5.zip
+hash: e6204aff4fcc3c01adb967c37ec1ed35
+year: 1993
+file:
+  _README_.1ST:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FUN!.COM:
+    mimetype: application/x-msdos-program
+  HIJACK.EXE:
+    mimetype: application/x-msdos-program
+  HIJACK.MOD:
+    mimetype: audio/x-mod
+  HIJACK.NFO:
+    mimetype: text/plain
+  HIJACK5.MGX:
+    mimetype: application/octet-stream
+  MAGAZINE.DAT:
+    mimetype: text/plain
+  SEARCH.TXT:
+    mimetype: text/plain

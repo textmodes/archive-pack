@@ -1,0 +1,82 @@
+name: rel-0794.zip
+hash: 2f5b951bd1e2190310d8701b62c9de80
+year: 1994
+file:
+  !!binary xMTEQU5TScQuxMTE:
+    mimetype: application/octet-stream
+  !!binary xMTERVhFxMQuxMTE:
+    mimetype: application/octet-stream
+  !!binary xMTEUklQxMQuxMTE:
+    mimetype: application/octet-stream
+  !!binary xMTEVkdBxMQuxMTE:
+    mimetype: application/octet-stream
+  !!binary xMRNVVNJQ8QuxMTE:
+    mimetype: application/octet-stream
+  !!binary xMRPVEhFUsQuxMTE:
+    mimetype: application/octet-stream
+  !!binary xMRWSUVXRVIuxMTE:
+    mimetype: application/octet-stream
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FL-TERB.REL:
+    mimetype: text/plain
+  FTL-AMF.GIF:
+    mimetype: image/gif
+  FU-HIS1.RIP:
+    mimetype: image/x-rip
+  HU-ATOMB.REL:
+    mimetype: text/plain
+  HU-BBS2N.BIN:
+    mimetype: text/x-binary
+  HU-CWS1.REL:
+    mimetype: text/plain
+  HU-OMEN.REL:
+    mimetype: text/plain
+  HU-THA1.REL:
+    mimetype: text/plain
+  INFO.REL:
+    mimetype: text/plain
+  JD-NOK#1.REL:
+    mimetype: text/plain
+  KT-RELIC.REL:
+    mimetype: text/plain
+  KT-SV.REL:
+    mimetype: text/plain
+  KTFL-VI1.REL:
+    mimetype: text/plain
+  LP-PURE.S3M:
+    mimetype: audio/x-mod
+  LQ-THA1.REL:
+    mimetype: text/plain
+  MEMBERS.REL:
+    mimetype: text/plain
+  MNX-RELI.GIF:
+    mimetype: image/gif
+  MO-CR.GIF:
+    mimetype: image/gif
+  MO-RELIC.GIF:
+    mimetype: image/gif
+  NV-ALIEN.REL:
+    mimetype: text/plain
+  NV-GENO.REL:
+    mimetype: text/plain
+  NV-MADC.REL:
+    mimetype: text/plain
+  RELICVU.CFG:
+    mimetype: text/plain
+  RELICVU.DOC:
+    mimetype: text/plain
+  RELICVU.EXE:
+    mimetype: application/x-msdos-program
+  RGV.EXE:
+    mimetype: application/x-msdos-program
+  RGV.TXT:
+    mimetype: text/plain
+  SH-GENE.REL:
+    mimetype: text/plain
+  SH-PERC.REL:
+    mimetype: text/plain
+  SH-SKUL.REL:
+    mimetype: text/plain
+  SH-THA.BIN:
+    mimetype: text/x-binary

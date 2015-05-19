@@ -1,0 +1,64 @@
+name: plf-0798.zip
+hash: 2741d7702b7ba8485a9796b76778040a
+year: 1998
+file:
+  '%#!INTRO.ANS':
+    mimetype: text/plain
+  '%#!NEWS.ANS':
+    mimetype: text/plain
+  _A-PLF.ANS:
+    mimetype: text/plain
+  _BYE!.ANS:
+    mimetype: text/plain
+  BYM-BK.ANS:
+    mimetype: text/plain
+  BYM-FARM.ANS:
+    mimetype: text/plain
+  BYM-MR4T.ANS:
+    mimetype: text/plain
+  BYM-WHY.ANS:
+    mimetype: text/plain
+  CH-BYE.ASC:
+    mimetype: text/plain
+  DX-PZPIC.ANS:
+    mimetype: text/plain
+  E!-ITPD.ASC:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GSO-COLL.ANS:
+    mimetype: text/plain
+  GSO-FACE.ANS:
+    mimetype: text/plain
+  GSO-FIS.ANS:
+    mimetype: text/plain
+  GSO-JUCK.ANS:
+    mimetype: text/plain
+  GSO-PLU.ANS:
+    mimetype: text/plain
+  GSO-SPNT.ANS:
+    mimetype: text/plain
+  GSO-STOP.ANS:
+    mimetype: text/plain
+  IPH-PPL.ANS:
+    mimetype: text/plain
+  KTR-FLAS.ASC:
+    mimetype: text/plain
+  KTR-FR6.ASC:
+    mimetype: text/plain
+  KTR-HUS.ASC:
+    mimetype: text/plain
+  NS-NEO.RIP:
+    mimetype: image/x-rip
+  NS-VILL.RIP:
+    mimetype: image/x-rip
+  PLC-PHS.ANS:
+    mimetype: text/plain
+  SM!GEN.ANS:
+    mimetype: text/plain
+  US-DSTY.ANS:
+    mimetype: text/plain
+  US-REV4.ANS:
+    mimetype: text/plain
+  US-STUE.ANS:
+    mimetype: text/plain

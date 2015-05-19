@@ -1,0 +1,84 @@
+name: punc1195.zip
+hash: d83c984dd7522b13d1b47cd70c7541fa
+year: 1995
+file:
+  CI-CIH.ANS:
+    mimetype: text/plain
+  CI-CRIT.ANS:
+    mimetype: text/plain
+  CI-DIB.ANS:
+    mimetype: text/plain
+  CI-F409.ANS:
+    mimetype: text/plain
+  CI-FL1.ANS:
+    mimetype: text/plain
+  CI-FLNY.ANS:
+    mimetype: text/plain
+  CI-PUNC1.ANS:
+    mimetype: text/plain
+  DK-BECHH.ANS:
+    mimetype: text/plain
+  DK-DDN4.ANS:
+    mimetype: text/plain
+  DK-EPIC.ANS:
+    mimetype: text/plain
+  DK-ETHDM.ANS:
+    mimetype: text/plain
+  DK-TBF3.ASC:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  KA-VP.ANS:
+    mimetype: text/plain
+  LU-DDN6.ASC:
+    mimetype: text/plain
+  LU-FALL2.ASC:
+    mimetype: text/plain
+  LU-LOGO4.ASC:
+    mimetype: text/plain
+  LU-ORG1.ASC:
+    mimetype: text/plain
+  LU-US1.ASC:
+    mimetype: text/plain
+  PF-DDN.EXE:
+    mimetype: application/x-msdos-program
+  PUNC1195.GRT:
+    mimetype: text/plain
+  PUNC1195.MEM:
+    mimetype: text/plain
+  PUNC1195.NFO:
+    mimetype: text/plain
+  PUNC1195.SIT:
+    mimetype: text/plain
+  PUNCHANG.ZIP:
+    mimetype: application/zip
+  PUNCREQ.ZIP:
+    mimetype: application/zip
+  PUNCSITE.ZIP:
+    mimetype: application/zip
+  SP-CREEP.LIT:
+    mimetype: text/plain
+  SP-YOUTH.LIT:
+    mimetype: text/plain
+  TD-DIST.ASC:
+    mimetype: text/plain
+  TD-KOG2.ASC:
+    mimetype: text/plain
+  TD-LOGO2.ASC:
+    mimetype: text/plain
+  TD-TISE.ASC:
+    mimetype: text/plain
+  TJ-PUNC1.JPG:
+    mimetype: image/jpeg
+  UN-FRI.LIT:
+    mimetype: text/plain
+  UN-KMA.S3M:
+    mimetype: audio/x-mod
+  UN-LSROQ.S3M:
+    mimetype: audio/x-mod
+  UN-PCSET.S3M:
+    mimetype: audio/x-mod
+  VOICES.TXT:
+    mimetype: text/plain
+  WELCOME.3:
+    mimetype: text/plain

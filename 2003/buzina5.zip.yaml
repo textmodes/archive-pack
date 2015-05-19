@@ -1,0 +1,32 @@
+name: buzina5.zip
+hash: 49fda47ed13d2ed5a1594363c85ea5c5
+year: 2003
+file:
+  CRS-CATS.ASC:
+    mimetype: text/plain
+  CRS-GEO.ANS:
+    mimetype: text/plain
+  CRS-GOD.ASC:
+    mimetype: text/plain
+  CRS-JAM.ANS:
+    mimetype: text/plain
+  CRS-PIL.ANS:
+    mimetype: text/plain
+  CRS-POW.ANS:
+    mimetype: text/plain
+  CRS-ROAD.ANS:
+    mimetype: text/plain
+  CRS-RUL.ASC:
+    mimetype: text/plain
+  CRS-ZEIT.ANS:
+    mimetype: text/plain
+  PS.ASC:
+    mimetype: text/plain
+  buzina.asc:
+    mimetype: text/plain
+  file_id.diz:
+    mimetype: text/plain
+  hi-rez/crs-gogo.jpg:
+    mimetype: image/jpeg
+  lyric/crs-puzzle.txt:
+    mimetype: text/plain

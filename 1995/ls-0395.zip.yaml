@@ -1,0 +1,60 @@
+name: ls-0395.zip
+hash: 5f7f0d56f0dedd5be2eba73fa8d5c7c2
+year: 1995
+file:
+  APPLY.FRM:
+    mimetype: text/plain
+  BGI256.BGI:
+    mimetype: application/octet-stream
+  CR-NJC.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GN-SIN1.ANS:
+    mimetype: text/plain
+  GN-SIN2.ANS:
+    mimetype: text/plain
+  GN-SINDZ.ASC:
+    mimetype: text/plain
+  GN-ZCMNT.ANS:
+    mimetype: text/plain
+  LS-0395.MEM:
+    mimetype: text/plain
+  LS-NOTES.ANS:
+    mimetype: text/plain
+  LVIEW.ANS:
+    mimetype: text/plain
+  LVIEW.EXE:
+    mimetype: application/x-msdos-program
+  PP-EUTH.ANS:
+    mimetype: text/plain
+  PP-LCHDR.ANS:
+    mimetype: text/plain
+  PP-LS.ASC:
+    mimetype: text/plain
+  PP-MONO.ANS:
+    mimetype: text/plain
+  PP-SUNNY.ANS:
+    mimetype: text/plain
+  PY-ALB.ANS:
+    mimetype: text/plain
+  PY-DIGM1.ASC:
+    mimetype: text/plain
+  PY-DMAIN.ANS:
+    mimetype: text/plain
+  PY-EAST4.ANS:
+    mimetype: text/plain
+  PY-FINAL.ANS:
+    mimetype: text/plain
+  PY-LSDIS.ANS:
+    mimetype: text/plain
+  PY-PIR.ANS:
+    mimetype: text/plain
+  PY-PIR.ASC:
+    mimetype: text/plain
+  PY-SUNNY.ANS:
+    mimetype: text/plain
+  PY-VXINF.ANS:
+    mimetype: text/plain
+  REQUEST.FRM:
+    mimetype: text/plain

@@ -1,0 +1,52 @@
+name: jasper03.zip
+hash: eca429b649f0be30ef4eec79ab55fa4c
+year: 2002
+file:
+  '#ansi#':
+    mimetype: application/octet-stream
+  '#ascii#':
+    mimetype: image/jpeg
+  '#other#':
+    mimetype: text/plain
+  43-ANGEL.ANS:
+    mimetype: text/plain
+  43-IDLE.ANS:
+    mimetype: text/plain
+  43-JASP3.ANS:
+    mimetype: text/plain
+  43-JASPE.ANS:
+    mimetype: text/plain
+  43-OASIS.ANS:
+    mimetype: text/plain
+  43-OBESE.ASC:
+    mimetype: text/plain
+  43-OLGN.ANS:
+    mimetype: text/plain
+  43-OSC3.ASC:
+    mimetype: text/plain
+  43-PLUR.ANS:
+    mimetype: text/plain
+  43-ROUGH.ANS:
+    mimetype: text/plain
+  43-SANE.ASC:
+    mimetype: text/plain
+  43-THUG.ANS:
+    mimetype: text/plain
+  Avg-sect.ans:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  JASPER.NFO:
+    mimetype: text/plain
+  Po-_inf.ans:
+    mimetype: text/plain
+  Po-ja5p.ans:
+    mimetype: text/plain
+  Po-rap32.ans:
+    mimetype: text/plain
+  US-REV.ANS:
+    mimetype: text/plain
+  po-'''''.ans:
+    mimetype: text/plain
+  we-j2.ans:
+    mimetype: text/plain

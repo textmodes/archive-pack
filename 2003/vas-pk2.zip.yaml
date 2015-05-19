@@ -1,0 +1,22 @@
+name: vas-pk2.zip
+hash: 99e76ead470e17a3859a8b9b203b6104
+year: 2003
+file:
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  NAVBAR.ASC:
+    mimetype: text/plain
+  PATH-REL.ASC:
+    mimetype: text/plain
+  UNI.ASC:
+    mimetype: text/plain
+  VAS-ILM.ASC:
+    mimetype: text/plain
+  VAS-ILM2.ASC:
+    mimetype: text/plain
+  VAS-PATH.ASC:
+    mimetype: text/plain
+  VAS-STRL.ANS:
+    mimetype: text/plain
+  VASNHP.ASC:
+    mimetype: text/plain

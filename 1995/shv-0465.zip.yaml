@@ -1,0 +1,48 @@
+name: shv-0465.zip
+hash: a7282f0163644d0e4cadaa5cc8d43d8f
+year: 1995
+file:
+  !!binary +fn5+fn5+fku+fn5:
+    mimetype: text/plain
+  !!binary +flBTlNJ+fku+fn5:
+    mimetype: text/plain
+  !!binary +flJTkZP+fku+fn5:
+    mimetype: text/plain
+  !!binary +flPVEhFUvku+fn5:
+    mimetype: text/plain
+  0465INFO.ANS:
+    mimetype: text/plain
+  0465LOGO.ANS:
+    mimetype: text/plain
+  0465MEMB.ANS:
+    mimetype: text/plain
+  AB-SUSHI.ANS:
+    mimetype: text/plain
+  DK-DPLAY.ANS:
+    mimetype: text/plain
+  DK-GARDN.ANS:
+    mimetype: text/plain
+  DK-SS1.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  PS-EOD.ANS:
+    mimetype: text/plain
+  SH-ZERO1.ANS:
+    mimetype: text/plain
+  SHIVAPP.EXE:
+    mimetype: application/x-msdos-program
+  SP-BH2.ANS:
+    mimetype: text/plain
+  SP-FE.ANS:
+    mimetype: text/plain
+  SP-TMA.ANS:
+    mimetype: text/plain
+  SV.CFG:
+    mimetype: application/octet-stream
+  SV.EXE:
+    mimetype: application/x-msdos-program
+  TG-CHINA.ANS:
+    mimetype: text/plain
+  ZP-HR.ANS:
+    mimetype: text/plain

@@ -1,0 +1,26 @@
+name: ansi-j.zip
+hash: 5a5facb5e94cb38d83b123523db3244e
+year: 1993
+file:
+  ANSI.ASM:
+    mimetype: text/plain
+  ANSI.COM:
+    mimetype: application/x-msdos-program
+  ANSI.DOC:
+    mimetype: text/plain
+  ANSICOM.ASM:
+    mimetype: text/plain
+  ANSICOM.SYS:
+    mimetype: application/octet-stream
+  ANSIPCB.COM:
+    mimetype: application/x-msdos-program
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FUN!.COM:
+    mimetype: application/x-msdos-program
+  POINT.EXE:
+    mimetype: application/x-msdos-program
+  READ.AD!:
+    mimetype: text/plain
+  READ.ME:
+    mimetype: application/octet-stream

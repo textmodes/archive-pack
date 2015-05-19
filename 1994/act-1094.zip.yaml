@@ -1,0 +1,60 @@
+name: act-1094.zip
+hash: 8b3f37a8d4363b145c510fcc34018a0c
+year: 1994
+file:
+  ACT-NEWS.ACT:
+    mimetype: text/plain
+  ACTAPP.EXE:
+    mimetype: application/x-msdos-program
+  ACTVIEW.EXE:
+    mimetype: application/x-msdos-program
+  ANSI.LST:
+    mimetype: text/plain
+  BR-ACT!.ACT:
+    mimetype: text/plain
+  BR-ACT1.ACT:
+    mimetype: text/plain
+  BR-BDLG.ACT:
+    mimetype: text/plain
+  BR-DEAD.ACT:
+    mimetype: text/plain
+  BR-DEAD2.ACT:
+    mimetype: text/plain
+  DSKYP.RQH:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  G&B-DOME.ACT:
+    mimetype: text/plain
+  GAME!.COM:
+    mimetype: application/x-msdos-program
+  GD-SKULL.ACT:
+    mimetype: text/plain
+  KIKKIT!.ASC:
+    mimetype: text/plain
+  NEO.COM:
+    mimetype: application/x-msdos-program
+  POSSE.COM:
+    mimetype: application/x-msdos-program
+  PR-ACTD.ACT:
+    mimetype: text/plain
+  PR-BDEAT.ACT:
+    mimetype: text/plain
+  PR-CORR.ACT:
+    mimetype: text/plain
+  PR-FUZZY.ACT:
+    mimetype: text/plain
+  PR-IT.ACT:
+    mimetype: text/plain
+  PR-MNDRM.ACT:
+    mimetype: text/plain
+  PR-MOONF.ACT:
+    mimetype: text/plain
+  PR-PZ.ACT:
+    mimetype: text/plain
+  SETME.EXE:
+    mimetype: application/x-msdos-program
+  VL-WELC.ACT:
+    mimetype: text/plain
+  WTALURLW.TXT:
+    mimetype: text/plain

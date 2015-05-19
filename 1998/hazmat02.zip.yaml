@@ -1,0 +1,42 @@
+name: hazmat02.zip
+hash: ed0faf5c76a8ba7d7af5b4dca5b5d6c0
+year: 1998
+file:
+  !!binary xEFTQ0lJxMQuxMTE:
+    mimetype: application/octet-stream
+  !!binary xEhBWk1BVMQuxMTE:
+    mimetype: application/octet-stream
+  CT-COL2.ASC:
+    mimetype: text/plain
+  DE-AFTRM.ASC:
+    mimetype: text/plain
+  DE-COA.ASC:
+    mimetype: text/plain
+  DE-MIMIC.ASC:
+    mimetype: text/plain
+  DEV-SPIN.ASC:
+    mimetype: text/plain
+  DJ-CODE1.ANS:
+    mimetype: text/plain
+  DJ-PHAZE.ANS:
+    mimetype: text/plain
+  DJ-PROMO.ANS:
+    mimetype: text/plain
+  DZ-HAZMT.ASC:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GJ-COA.ASC:
+    mimetype: text/plain
+  GWY-HAZ1.ASC:
+    mimetype: text/plain
+  HAZMAT.NFO:
+    mimetype: text/plain
+  JD-CIA.ASC:
+    mimetype: text/plain
+  JP-COL14.ASC:
+    mimetype: text/plain
+  RP-BLACK.ASC:
+    mimetype: text/plain
+  RP-PSYCH.ASC:
+    mimetype: text/plain

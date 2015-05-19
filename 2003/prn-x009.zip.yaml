@@ -1,0 +1,60 @@
+name: prn-x009.zip
+hash: ceaff037e58d32638e58c1d361aafd91
+year: 2003
+file:
+  '--------.---':
+    mimetype: application/octet-stream
+  CRITIC-1.TXT:
+    mimetype: text/plain
+  CRITIC-2.TXT:
+    mimetype: text/plain
+  CRITIC-3.TXT:
+    mimetype: text/plain
+  CRITIC-4.TXT:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  PRNX-009.NFO:
+    mimetype: text/plain
+  SK-BASIL.LIT:
+    mimetype: text/plain
+  SK-CRAM.LIT:
+    mimetype: text/plain
+  SK-FROZE.LIT:
+    mimetype: text/plain
+  SK-HH.LIT:
+    mimetype: text/plain
+  SK-LOVE.LIT:
+    mimetype: text/plain
+  SK-MP-A.ASC:
+    mimetype: text/plain
+  SK-NOICE.ASC:
+    mimetype: text/plain
+  SK-NOON.ASC:
+    mimetype: text/plain
+  SK-OJUIC.ASC:
+    mimetype: text/plain
+  SK-OWAVE.ASC:
+    mimetype: text/plain
+  SK-POLIM.ASC:
+    mimetype: text/plain
+  SK-PULSE.ASC:
+    mimetype: text/plain
+  SK-QP.ASC:
+    mimetype: text/plain
+  SK-SCENE.ASC:
+    mimetype: text/plain
+  SK-SCENE.LIT:
+    mimetype: text/plain
+  SK-SOMA.ASC:
+    mimetype: text/plain
+  SK-UNIKE.ASC:
+    mimetype: text/plain
+  SK-VACPO.LIT:
+    mimetype: text/plain
+  SK-VIRTU.LIT:
+    mimetype: text/plain
+  SK-YACE.LIT:
+    mimetype: text/plain
+  THUGLIFE.ORG:
+    mimetype: text/plain

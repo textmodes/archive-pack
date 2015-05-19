@@ -1,0 +1,64 @@
+name: acdu1194.zip
+hash: f011b3eaf63ceece84bac7acbdcbce4c
+year: 1994
+file:
+  ACDU1194.NFO:
+    mimetype: text/plain
+  ACID1094.ANS:
+    mimetype: text/plain
+  ACIDAPP.EXE:
+    mimetype: application/x-msdos-program
+  ACIDDRAW.DOC:
+    mimetype: text/plain
+  ACIDDRAW.EXE:
+    mimetype: application/x-msdos-program
+  ACIDVIEW.CFG:
+    mimetype: text/plain
+  ACIDVIEW.EXE:
+    mimetype: application/x-msdos-program
+  ACIDVIEW.NFO:
+    mimetype: text/plain
+  AE-TF1.ANS:
+    mimetype: text/plain
+  AL-FLATL.ANS:
+    mimetype: text/plain
+  AL-TF1.ANS:
+    mimetype: text/plain
+  BGIFONTS.ZIP:
+    mimetype: application/zip
+  CS-DSOC1.EXE:
+    mimetype: application/x-msdos-program
+  CS-TF1.EXE:
+    mimetype: application/x-msdos-program
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  LD-TF!.COM:
+    mimetype: application/x-msdos-program
+  LD-UI1.ANS:
+    mimetype: text/plain
+  SI-DR3.ANS:
+    mimetype: text/plain
+  SM-PR1.RIP:
+    mimetype: image/x-rip
+  SO-EACD1.ANS:
+    mimetype: text/plain
+  SS-AGORA.RIP:
+    mimetype: image/x-rip
+  SS-BADL1.RIP:
+    mimetype: image/x-rip
+  SS-GUILT.RIP:
+    mimetype: image/x-rip
+  SS-HLASY.RIP:
+    mimetype: image/x-rip
+  SS-HRVST.RIP:
+    mimetype: image/x-rip
+  SS-LOKI2.RIP:
+    mimetype: image/x-rip
+  T2-FLI1.ANS:
+    mimetype: text/plain
+  TT-HRVST.COM:
+    mimetype: application/x-msdos-program
+  TT-SS.ANS:
+    mimetype: text/plain
+  US-WEEN.EXE:
+    mimetype: application/x-msdos-program

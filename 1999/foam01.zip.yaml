@@ -1,0 +1,60 @@
+name: foam01.zip
+hash: f16bbc7074b42375b2bbc4c5de247d57
+year: 1999
+file:
+  AsycFilt.dl_:
+    mimetype: application/octet-stream
+  COMDLG32.OC_:
+    mimetype: application/octet-stream
+  ComCat.dl_:
+    mimetype: application/octet-stream
+  Ctl3d32.dl_:
+    mimetype: application/octet-stream
+  MSVBVM50.dl_:
+    mimetype: application/octet-stream
+  OleAut32.dl_:
+    mimetype: application/octet-stream
+  OlePro32.dl_:
+    mimetype: application/octet-stream
+  Readme.tx_:
+    mimetype: application/octet-stream
+  SETUP.EXE:
+    mimetype: application/x-msdos-program
+  SETUP.LST:
+    mimetype: text/plain
+  ST5UNST.EX_:
+    mimetype: application/octet-stream
+  StdOle2.tl_:
+    mimetype: application/octet-stream
+  VB5StKit.dl_:
+    mimetype: application/octet-stream
+  article01.foa_:
+    mimetype: application/octet-stream
+  article02.foa_:
+    mimetype: application/octet-stream
+  article03.foa_:
+    mimetype: application/octet-stream
+  article04.foa_:
+    mimetype: application/octet-stream
+  article05.foa_:
+    mimetype: application/octet-stream
+  fgroup01.foa_:
+    mimetype: application/octet-stream
+  foam.ex_:
+    mimetype: application/octet-stream
+  foam.in_:
+    mimetype: application/octet-stream
+  introduction.foa_:
+    mimetype: application/octet-stream
+  mailbag.foa_:
+    mimetype: application/octet-stream
+  pgroup01.foa_:
+    mimetype: application/octet-stream
+  pgroup02.foa_:
+    mimetype: application/octet-stream
+  pgroup03.foa_:
+    mimetype: application/octet-stream
+  pgroup04.foa_:
+    mimetype: application/octet-stream
+  setup1.ex_:
+    mimetype: application/octet-stream

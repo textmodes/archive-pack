@@ -1,0 +1,276 @@
+name: sac-32.zip
+hash: db90f87d3e01431df123e3fbf579c4fe
+year: 2005
+file:
+  4th-fah.txt:
+    mimetype: text/plain
+  4th-lumberjack.txt:
+    mimetype: text/plain
+  4th-sac.txt:
+    mimetype: text/plain
+  4th-trsi.txt:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  S!-101.nfo:
+    mimetype: text/plain
+  S!-ltw.txt:
+    mimetype: text/plain
+  S+cH+w0-ages.nfo:
+    mimetype: text/plain
+  S+cH-veng.nfo:
+    mimetype: text/plain
+  S+w0+fx-me.nfo:
+    mimetype: text/plain
+  Sac.nfo:
+    mimetype: text/plain
+  asx-bbs.ans:
+    mimetype: text/plain
+  asx-bmf.txt:
+    mimetype: text/plain
+  asx-dsm.nfo:
+    mimetype: text/plain
+  asx-dsm2.diz:
+    mimetype: text/plain
+  asx-figurines_fr-gob-final.png:
+    mimetype: image/png
+  asx-figurines_fr-header.png:
+    mimetype: image/png
+  asx-madhat-final.jpg:
+    mimetype: image/jpeg
+  asx-myth.png:
+    mimetype: image/png
+  asx-warlords-logo.png:
+    mimetype: image/png
+  c4n.exe:
+    mimetype: application/x-msdos-program
+  cDr-GLFTPD-README.txt:
+    mimetype: text/plain
+  cDr-amrc.v1.nfo:
+    mimetype: text/plain
+  cDr-amrc.v2.nfo:
+    mimetype: text/plain
+  cDr-brick.nfo:
+    mimetype: text/plain
+  cDr-brimstar.asc:
+    mimetype: text/plain
+  cDr-crateria.asc:
+    mimetype: text/plain
+  cDr-experience.nfo:
+    mimetype: text/plain
+  cDr-filmbutiken.asc:
+    mimetype: text/plain
+  cDr-glftpd.zip:
+    mimetype: application/zip
+  cDr-isobutiken.asc:
+    mimetype: text/plain
+  cDr-linknet.asc:
+    mimetype: text/plain
+  cDr-mimic.diz:
+    mimetype: text/plain
+  cDr-mimic01.asc:
+    mimetype: text/plain
+  cDr-mimic02.asc:
+    mimetype: text/plain
+  cDr-newyork.asc:
+    mimetype: text/plain
+  cDr-norfair.asc:
+    mimetype: text/plain
+  cDr-scener.ru.diz:
+    mimetype: text/plain
+  cDr-supadupa.asc:
+    mimetype: text/plain
+  cDr-yanks.asc:
+    mimetype: text/plain
+  cru-cent.txt:
+    mimetype: text/plain
+  dip-dark.asc:
+    mimetype: text/plain
+  dip-dsco.asc:
+    mimetype: text/plain
+  dip-joint.asc:
+    mimetype: text/plain
+  dip-plas.asc:
+    mimetype: text/plain
+  eb-bsskin.jpg:
+    mimetype: image/jpeg
+  eb-eboy1.jpg:
+    mimetype: image/jpeg
+  eb-eboy2.jpg:
+    mimetype: image/jpeg
+  eb-svenzzon.jpg:
+    mimetype: image/jpeg
+  eb-tsrh.jpg:
+    mimetype: image/jpeg
+  flames_SAC_32.jpg:
+    mimetype: image/jpeg
+  nr-abstinence.asc:
+    mimetype: text/plain
+  nr-amidala.asc:
+    mimetype: text/plain
+  nr-bbsdoc.asc:
+    mimetype: text/plain
+  nr-css.asc:
+    mimetype: text/plain
+  nr-darkdomain.asc:
+    mimetype: text/plain
+  nr-darkmoon.asc:
+    mimetype: text/plain
+  nr-dnx.asc:
+    mimetype: text/plain
+  nr-grospixels.asc:
+    mimetype: text/plain
+  nr-kctus.txt:
+    mimetype: text/plain
+  nr-rallapo.asc:
+    mimetype: text/plain
+  nr-sac.asc:
+    mimetype: text/plain
+  nr-svenzzon.asc:
+    mimetype: text/plain
+  nr-swe6rus.asc:
+    mimetype: text/plain
+  nr-tvparadise.asc:
+    mimetype: text/plain
+  nr-xtcdvd.asc:
+    mimetype: text/plain
+  pdz-scx.nfo:
+    mimetype: text/plain
+  sac10yrs.exe:
+    mimetype: application/x-msdos-program
+  segreon-psport.jpg:
+    mimetype: image/jpeg
+  sergeon_DARKstract.jpg:
+    mimetype: image/jpeg
+  sergeon_PSunfinished.jpg:
+    mimetype: image/jpeg
+  sergeon_SACmural.jpg:
+    mimetype: image/jpeg
+  sergeon_SACquickgraf.jpg:
+    mimetype: image/jpeg
+  sergeon_bitch.jpg:
+    mimetype: image/jpeg
+  sergeon_compleksWINTER.jpg:
+    mimetype: image/jpeg
+  sergeon_compleksgraffique.jpg:
+    mimetype: image/jpeg
+  sergeon_intrigue.jpg:
+    mimetype: image/jpeg
+  sergeon_sketchcollage.jpg:
+    mimetype: image/jpeg
+  sergeon_wdesigns.gif:
+    mimetype: image/gif
+  sergeon_witheredrose.jpg:
+    mimetype: image/jpeg
+  sv_ages.xm:
+    mimetype: audio/x-mod
+  sv_ages2.xm:
+    mimetype: audio/x-mod
+  sv_olds.asc:
+    mimetype: text/plain
+  sv_sac04.xm:
+    mimetype: audio/x-mod
+  sv_sac05.xm:
+    mimetype: audio/x-mod
+  sv_walk.xm:
+    mimetype: audio/x-mod
+  svenzzon & cerror - Kwazy webbit hole.xm:
+    mimetype: audio/x-mod
+  svenzzon & ogge - past the orion.xm:
+    mimetype: audio/x-mod
+  svenzzon-flimbo.mp3:
+    mimetype: audio/mpeg
+  w0-ages.gif:
+    mimetype: image/gif
+  w0-ages_ballsies.png:
+    mimetype: image/png
+  w0-ages_hasdf.png:
+    mimetype: image/png
+  w0-alien.asc:
+    mimetype: text/plain
+  w0-apache.png:
+    mimetype: image/png
+  w0-asdfs.ans:
+    mimetype: text/plain
+  w0-b3_flyer.png:
+    mimetype: image/png
+  w0-bex.asc:
+    mimetype: text/plain
+  w0-brz.asc:
+    mimetype: text/plain
+  w0-cc.asc:
+    mimetype: text/plain
+  w0-cektop.png:
+    mimetype: image/png
+  w0-crb.asc:
+    mimetype: text/plain
+  w0-cu.asc:
+    mimetype: text/plain
+  w0-dnl_intro_1.png:
+    mimetype: image/png
+  w0-dpg.asc:
+    mimetype: text/plain
+  w0-dsi.png:
+    mimetype: image/png
+  w0-egc.png:
+    mimetype: image/png
+  w0-egc2.png:
+    mimetype: image/png
+  w0-elatn.asc:
+    mimetype: text/plain
+  w0-haciend.png:
+    mimetype: image/png
+  w0-hpxx.asc:
+    mimetype: text/plain
+  w0-hsm.asc:
+    mimetype: text/plain
+  w0-judgement.png:
+    mimetype: image/png
+  w0-lg-f.asc:
+    mimetype: text/plain
+  w0-lg-nf.asc:
+    mimetype: text/plain
+  w0-mam.asc:
+    mimetype: text/plain
+  w0-media.asc:
+    mimetype: text/plain
+  w0-mz91.asc:
+    mimetype: text/plain
+  w0-ness.png:
+    mimetype: image/png
+  w0-numb.asc:
+    mimetype: text/plain
+  w0-oilers.png:
+    mimetype: image/png
+  w0-orogam.png:
+    mimetype: image/png
+  w0-primal_secrets.png:
+    mimetype: image/png
+  w0-reloaded.png:
+    mimetype: image/png
+  w0-sac_hasdfffff.png:
+    mimetype: image/png
+  w0-sheep.png:
+    mimetype: image/png
+  w0-shki.asc:
+    mimetype: text/plain
+  w0-shkpda.png:
+    mimetype: image/png
+  w0-shrimps_design.png:
+    mimetype: image/png
+  w0-ska.asc:
+    mimetype: text/plain
+  w0-snd-website.png:
+    mimetype: image/png
+  w0-snd_wallpaper_1152x864.jpg:
+    mimetype: image/jpeg
+  w0-vm.asc:
+    mimetype: text/plain
+  w0-west.asc:
+    mimetype: text/plain
+  w0-wmd.asc:
+    mimetype: text/plain
+  w0.nfo:
+    mimetype: text/plain
+  wpz-asgd.ans:
+    mimetype: text/plain

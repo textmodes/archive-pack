@@ -1,0 +1,14 @@
+name: wx-007.zip
+hash: 09f191a14021fe2519cbc5412566c9b2
+year: 1998
+file:
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  MAGIC-1.JPG:
+    mimetype: image/jpeg
+  MAGIC-2.JPG:
+    mimetype: image/jpeg
+  WX-007.NFO:
+    mimetype: text/plain
+  WX.APP:
+    mimetype: application/octet-stream

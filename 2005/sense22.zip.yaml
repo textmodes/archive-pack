@@ -1,0 +1,60 @@
+name: sense22.zip
+hash: 004c4a1d8f82d6ab4ab0c8491b4f59a1
+year: 2005
+file:
+  43-bbsd.ans:
+    mimetype: text/plain
+  43-cotm.ans:
+    mimetype: text/plain
+  43-elgn1.ans:
+    mimetype: text/plain
+  43-outer.ans:
+    mimetype: text/plain
+  43-psy1.ans:
+    mimetype: text/plain
+  43-skof1.ans:
+    mimetype: text/plain
+  NAMISTAI.EXE:
+    mimetype: application/x-msdos-program
+  avg-bmai.ans:
+    mimetype: text/plain
+  avg-carn.ans:
+    mimetype: text/plain
+  avg-frc.ans:
+    mimetype: text/plain
+  avg-nams.ans:
+    mimetype: text/plain
+  avg-rmx.ans:
+    mimetype: text/plain
+  bm-nat2.ans:
+    mimetype: text/plain
+  bm-saddm.ans:
+    mimetype: text/plain
+  cl!-dos.ans:
+    mimetype: text/plain
+  cl!-ellu.ans:
+    mimetype: text/plain
+  file_id.diz:
+    mimetype: text/plain
+  m0-vortx.ans:
+    mimetype: text/plain
+  may-men4.ans:
+    mimetype: text/plain
+  members.ans:
+    mimetype: text/plain
+  nc-logos.ans:
+    mimetype: text/plain
+  news.ans:
+    mimetype: text/plain
+  ns-a2.bin:
+    mimetype: application/octet-stream
+  ns-fat.rip:
+    mimetype: image/x-rip
+  us-cold.ans:
+    mimetype: text/plain
+  us-cold2.ans:
+    mimetype: text/plain
+  zv-lud500.ans:
+    mimetype: text/plain
+  zv-luded.ans:
+    mimetype: text/plain

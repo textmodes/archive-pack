@@ -1,0 +1,78 @@
+name: ice9805.zip
+hash: 28a6cec1d69ca60e2ea546f5d8fa08fb
+year: 1998
+file:
+  -ANSI---.---:
+    mimetype: text/plain
+  -LOGO---.---:
+    mimetype: text/plain
+  -MISC---.---:
+    mimetype: text/plain
+  -STAT---.---:
+    mimetype: text/plain
+  -VGA---.---:
+    mimetype: text/plain
+  C0-HAZE2.ICE:
+    mimetype: text/plain
+  C0-HH.ICE:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  G1-ICE01.ICE:
+    mimetype: text/plain
+  ICE-9805.DSC:
+    mimetype: text/plain
+  ICE-9805.MEM:
+    mimetype: text/plain
+  ICE-9805.NFO:
+    mimetype: text/plain
+  ICE-9805.SIT:
+    mimetype: text/plain
+  ICEVIEW.CNF:
+    mimetype: text/plain
+  ICEVIEW.DOC:
+    mimetype: text/plain
+  ICEVIEW.EXE:
+    mimetype: application/x-msdos-program
+  IN-DRONE.ICE:
+    mimetype: text/plain
+  IV-PIF.DVP:
+    mimetype: application/octet-stream
+  JA-WOODS.JPG:
+    mimetype: image/jpeg
+  MM-23RET.ICE:
+    mimetype: text/plain
+  PV.EXE:
+    mimetype: application/x-msdos-program
+  RL-ICE.JPG:
+    mimetype: image/jpeg
+  RL-RL.JPG:
+    mimetype: image/jpeg
+  SQ2-GSTY.JPG:
+    mimetype: image/jpeg
+  TGH-TEST.ICE:
+    mimetype: text/plain
+  TI-698.ICE:
+    mimetype: text/plain
+  TN-ECELL.JPG:
+    mimetype: image/jpeg
+  TN-FISCH.JPG:
+    mimetype: image/jpeg
+  TN-HALWN.JPG:
+    mimetype: image/jpeg
+  TN-SNTRE.JPG:
+    mimetype: image/jpeg
+  TW-CARGO.JPG:
+    mimetype: image/jpeg
+  TW-DESRT.JPG:
+    mimetype: image/jpeg
+  TW-FURNC.JPG:
+    mimetype: image/jpeg
+  TW-LANCH.JPG:
+    mimetype: image/jpeg
+  TW-TRED.JPG:
+    mimetype: image/jpeg
+  TW-ZNEV.JPG:
+    mimetype: image/jpeg
+  XT-SKIN.ZIP:
+    mimetype: application/zip

@@ -1,0 +1,98 @@
+name: sac1296.zip
+hash: 91d2dc06b39bcb0e09ff4dd622b5865b
+year: 1996
+file:
+  AN_MPRSV.XM:
+    mimetype: audio/x-mod
+  DD-BDN3.LBM:
+    mimetype: application/octet-stream
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  HT-COMIT.ANS:
+    mimetype: text/plain
+  HT-PDIZ1.ASC:
+    mimetype: text/plain
+  HT-PDIZ2.ASC:
+    mimetype: text/plain
+  HT-PDIZ3.ASC:
+    mimetype: text/plain
+  HT-PDIZ4.ASC:
+    mimetype: text/plain
+  HT-PDIZ5.ASC:
+    mimetype: text/plain
+  HT-PDIZ6.ASC:
+    mimetype: text/plain
+  HT-PDIZ7.ASC:
+    mimetype: text/plain
+  HT-PDM1.ANS:
+    mimetype: text/plain
+  HT-PDM1.ASC:
+    mimetype: text/plain
+  HT-PDM2.ASC:
+    mimetype: text/plain
+  HT-PDM3.ASC:
+    mimetype: text/plain
+  HT-PDM4.ASC:
+    mimetype: text/plain
+  HT-SAC3.ANS:
+    mimetype: text/plain
+  HT-TDIZ.ASC:
+    mimetype: text/plain
+  HT-TIT1.ASC:
+    mimetype: text/plain
+  JOIN-THE.FUN:
+    mimetype: text/plain
+  MY-OBT.ASC:
+    mimetype: text/plain
+  MY-OBT2.ASC:
+    mimetype: text/plain
+  ROY-BDN3.ANS:
+    mimetype: text/plain
+  ROY-BLH2.ANS:
+    mimetype: text/plain
+  ROY-BLH2.ASC:
+    mimetype: text/plain
+  ROY-HDR2.ANS:
+    mimetype: text/plain
+  ROY-HSA.ASC:
+    mimetype: text/plain
+  ROY-HSI.ANS:
+    mimetype: text/plain
+  ROY-LNCN.ASC:
+    mimetype: text/plain
+  ROY-PRG.LBM:
+    mimetype: application/octet-stream
+  ROY-PRGN.ASC:
+    mimetype: text/plain
+  RV-FF.ANS:
+    mimetype: text/plain
+  RV-FF2.ANS:
+    mimetype: text/plain
+  RV-FF3.ANS:
+    mimetype: text/plain
+  RV-FFBUL.ANS:
+    mimetype: text/plain
+  RV-FFCF.ANS:
+    mimetype: text/plain
+  RV-FFCM.ANS:
+    mimetype: text/plain
+  RV-FFLN.ANS:
+    mimetype: text/plain
+  RV-FFPT.ANS:
+    mimetype: text/plain
+  RV-ORBIT.ANS:
+    mimetype: text/plain
+  RV-SHOCK.ANS:
+    mimetype: text/plain
+  RV-WAVP.LBM:
+    mimetype: application/octet-stream
+  RVCMDPM.PCB:
+    mimetype: application/octet-stream
+  SAC.NFO:
+    mimetype: text/plain
+  SACTRO.EXE:
+    mimetype: application/x-msdos-program
+  SPN-ONE!.XM:
+    mimetype: audio/x-mod
+  SPN_RMX.XM:
+    mimetype: audio/x-mod

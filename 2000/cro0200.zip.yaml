@@ -1,0 +1,664 @@
+name: cro0200.zip
+hash: b8e4edfd03583056bef90fb831ab6400
+year: 2000
+file:
+  ascii/CR-0DAY.ASC:
+    mimetype: text/plain
+  ascii/CR-APT.NFO:
+    mimetype: text/plain
+  ascii/CR-BPM.NFO:
+    mimetype: text/plain
+  ascii/CR-CHEM.ASC:
+    mimetype: text/plain
+  ascii/CR-CONS.ASC:
+    mimetype: text/plain
+  ascii/CR-CORE.ASC:
+    mimetype: text/plain
+  ascii/CR-CORE1.ASC:
+    mimetype: text/plain
+  ascii/CR-CRINC.ASC:
+    mimetype: text/plain
+  ascii/CR-DJMIX.NFO:
+    mimetype: text/plain
+  ascii/CR-DPT.ASC:
+    mimetype: text/plain
+  ascii/CR-EXCHG.ASC:
+    mimetype: text/plain
+  ascii/CR-FSN.ASC:
+    mimetype: text/plain
+  ascii/CR-HAND.ASC:
+    mimetype: text/plain
+  ascii/CR-HOG.ASC:
+    mimetype: text/plain
+  ascii/CR-HOUSE.NFO:
+    mimetype: text/plain
+  ascii/CR-HZD.ASC:
+    mimetype: text/plain
+  ascii/CR-IND.ASC:
+    mimetype: text/plain
+  ascii/CR-IP.NFO:
+    mimetype: text/plain
+  ascii/CR-IPRON.ASC:
+    mimetype: text/plain
+  ascii/CR-ISO.ASC:
+    mimetype: text/plain
+  ascii/CR-IVCD.ASC:
+    mimetype: text/plain
+  ascii/CR-IVCD.NFO:
+    mimetype: text/plain
+  ascii/CR-MAGIC.NFO:
+    mimetype: text/plain
+  ascii/CR-MDAC.ASC:
+    mimetype: text/plain
+  ascii/CR-MGM.ASC:
+    mimetype: text/plain
+  ascii/CR-MM.ASC:
+    mimetype: text/plain
+  ascii/CR-MMW.NFO:
+    mimetype: text/plain
+  ascii/CR-MOD.ASC:
+    mimetype: text/plain
+  ascii/CR-MP3.ASC:
+    mimetype: text/plain
+  ascii/CR-MRG.ASC:
+    mimetype: text/plain
+  ascii/CR-MW.NFO:
+    mimetype: text/plain
+  ascii/CR-NBD.ASC:
+    mimetype: text/plain
+  ascii/CR-NBD.SKE:
+    mimetype: text/plain
+  ascii/CR-NBD00.ASC:
+    mimetype: text/plain
+  ascii/CR-NME.ASC:
+    mimetype: text/plain
+  ascii/CR-NO1.NFO:
+    mimetype: text/plain
+  ascii/CR-NUM1.ASC:
+    mimetype: text/plain
+  ascii/CR-PSX.ASC:
+    mimetype: text/plain
+  ascii/CR-QTX.ASC:
+    mimetype: text/plain
+  ascii/CR-R4.NFO:
+    mimetype: text/plain
+  ascii/CR-RAG.ASC:
+    mimetype: text/plain
+  ascii/CR-RBF.ASC:
+    mimetype: text/plain
+  ascii/CR-SNOOX.ASC:
+    mimetype: text/plain
+  ascii/CR-TEX.ASC:
+    mimetype: text/plain
+  ascii/CR-TMG.NFO:
+    mimetype: text/plain
+  ascii/CR-TMG1.NFO:
+    mimetype: text/plain
+  ascii/CR-TOT.NFO:
+    mimetype: text/plain
+  ascii/CR-TRANS.ASC:
+    mimetype: text/plain
+  ascii/CR-TRONI.ASC:
+    mimetype: text/plain
+  ascii/CR-TT.NFO:
+    mimetype: text/plain
+  ascii/CR-VCD.ASC:
+    mimetype: text/plain
+  ascii/CR-VF.NFO:
+    mimetype: text/plain
+  ascii/CR-VIRA.ASC:
+    mimetype: text/plain
+  ascii/CR-VIRA.NFO:
+    mimetype: text/plain
+  ascii/CR-WOND.ASC:
+    mimetype: text/plain
+  ascii/CR-XADI.NFO:
+    mimetype: text/plain
+  ascii/CR-XBC.ASC:
+    mimetype: text/plain
+  ascii/CREACTIO.ASC:
+    mimetype: text/plain
+  ascii/CRINDMP3.NFO:
+    mimetype: text/plain
+  ascii/CRINDVCD.NFO:
+    mimetype: text/plain
+  ascii/CRO1.ASC:
+    mimetype: text/plain
+  ascii/CRONOS.ASC:
+    mimetype: text/plain
+  ascii/DN-AFT1.ASC:
+    mimetype: text/plain
+  ascii/DN-HT1.ASC:
+    mimetype: text/plain
+  ascii/DN-KAR1.ASC:
+    mimetype: text/plain
+  ascii/DN-KK1.ASC:
+    mimetype: text/plain
+  ascii/DN-NZI1.ASC:
+    mimetype: text/plain
+  ascii/DN-ROT1.ASC:
+    mimetype: text/plain
+  ascii/DN-ROT2.ASC:
+    mimetype: text/plain
+  ascii/DN-ROT3.ASC:
+    mimetype: text/plain
+  ascii/DN-SBC2.ASC:
+    mimetype: text/plain
+  ascii/DN-SR1.ASC:
+    mimetype: text/plain
+  ascii/DNTFL1.ASC:
+    mimetype: text/plain
+  ascii/SRT-2F.NFO:
+    mimetype: text/plain
+  ascii/SRT-ABSO.NFO:
+    mimetype: text/plain
+  ascii/SRT-AI.NFO:
+    mimetype: text/plain
+  ascii/SRT-AKS.NFO:
+    mimetype: text/plain
+  ascii/SRT-APC.ASC:
+    mimetype: text/plain
+  ascii/SRT-ATL.NFO:
+    mimetype: text/plain
+  ascii/SRT-BDK.NFO:
+    mimetype: text/plain
+  ascii/SRT-BLIN.NFO:
+    mimetype: text/plain
+  ascii/SRT-BRG.NFO:
+    mimetype: text/plain
+  ascii/SRT-CC.NFO:
+    mimetype: text/plain
+  ascii/SRT-CD.NFO:
+    mimetype: text/plain
+  ascii/SRT-CG.NFO:
+    mimetype: text/plain
+  ascii/SRT-CHR.NFO:
+    mimetype: text/plain
+  ascii/SRT-CNT.NFO:
+    mimetype: text/plain
+  ascii/SRT-CRN.NFO:
+    mimetype: text/plain
+  ascii/SRT-DAMN.NFO:
+    mimetype: text/plain
+  ascii/SRT-DB4.NFO:
+    mimetype: text/plain
+  ascii/SRT-DBZ.NFO:
+    mimetype: text/plain
+  ascii/SRT-DC.NFO:
+    mimetype: text/plain
+  ascii/SRT-DEC.NFO:
+    mimetype: text/plain
+  ascii/SRT-DEM.NFO:
+    mimetype: text/plain
+  ascii/SRT-DEMO.NFO:
+    mimetype: text/plain
+  ascii/SRT-DF.NFO:
+    mimetype: text/plain
+  ascii/SRT-DIPM.NFO:
+    mimetype: text/plain
+  ascii/SRT-DISL.NFO:
+    mimetype: text/plain
+  ascii/SRT-DSC.NFO:
+    mimetype: text/plain
+  ascii/SRT-DVM3.NFO:
+    mimetype: text/plain
+  ascii/SRT-EH.WEL:
+    mimetype: application/octet-stream
+  ascii/SRT-ENI.NFO:
+    mimetype: text/plain
+  ascii/SRT-ERB.NFO:
+    mimetype: text/plain
+  ascii/SRT-EVO.NFO:
+    mimetype: text/plain
+  ascii/SRT-EXXX.NFO:
+    mimetype: text/plain
+  ascii/SRT-FAT.NFO:
+    mimetype: text/plain
+  ascii/SRT-FISK.NFO:
+    mimetype: text/plain
+  ascii/SRT-FUCK.NFO:
+    mimetype: text/plain
+  ascii/SRT-GEM.NFO:
+    mimetype: text/plain
+  ascii/SRT-H2H.NFO:
+    mimetype: text/plain
+  ascii/SRT-HO.NFO:
+    mimetype: text/plain
+  ascii/SRT-ICC.NFO:
+    mimetype: text/plain
+  ascii/SRT-IX.NFO:
+    mimetype: text/plain
+  ascii/SRT-JHD.NFO:
+    mimetype: text/plain
+  ascii/SRT-KSI.NFO:
+    mimetype: text/plain
+  ascii/SRT-LI.NFO:
+    mimetype: text/plain
+  ascii/SRT-LK.NFO:
+    mimetype: text/plain
+  ascii/SRT-LTH.NFO:
+    mimetype: text/plain
+  ascii/SRT-MET.NFO:
+    mimetype: text/plain
+  ascii/SRT-MTX.NFO:
+    mimetype: text/plain
+  ascii/SRT-MUT.NFO:
+    mimetype: text/plain
+  ascii/SRT-MXB.nfo:
+    mimetype: text/plain
+  ascii/SRT-NC.NFO:
+    mimetype: text/plain
+  ascii/SRT-NHL.NFO:
+    mimetype: text/plain
+  ascii/SRT-NVT.NFO:
+    mimetype: text/plain
+  ascii/SRT-ODC.NFO:
+    mimetype: text/plain
+  ascii/SRT-OKN.OLD:
+    mimetype: application/octet-stream
+  ascii/SRT-OMG.NFO:
+    mimetype: text/plain
+  ascii/SRT-PF.NFO:
+    mimetype: text/plain
+  ascii/SRT-PLM.NFO:
+    mimetype: text/plain
+  ascii/SRT-PNT.NFO:
+    mimetype: text/plain
+  ascii/SRT-PWH.NFO:
+    mimetype: text/plain
+  ascii/SRT-PX.NFO:
+    mimetype: text/plain
+  ascii/SRT-REG.NFO:
+    mimetype: text/plain
+  ascii/SRT-RM.NFO:
+    mimetype: text/plain
+  ascii/SRT-RSC.NFO:
+    mimetype: text/plain
+  ascii/SRT-S8.NFO:
+    mimetype: text/plain
+  ascii/SRT-SCK.NFO:
+    mimetype: text/plain
+  ascii/SRT-SET.NFO:
+    mimetype: text/plain
+  ascii/SRT-SR.NFO:
+    mimetype: text/plain
+  ascii/SRT-SRC.NFO:
+    mimetype: text/plain
+  ascii/SRT-TBS.NFO:
+    mimetype: text/plain
+  ascii/SRT-TLN.NFO:
+    mimetype: text/plain
+  ascii/SRT-TMCG.NFO:
+    mimetype: text/plain
+  ascii/SRT-TNO.NFO:
+    mimetype: text/plain
+  ascii/SRT-TSF.NFO:
+    mimetype: text/plain
+  ascii/SRT-VD.NFO:
+    mimetype: text/plain
+  ascii/SRT-VGN.NFO:
+    mimetype: text/plain
+  ascii/SRT-VNM.NFO:
+    mimetype: text/plain
+  ascii/SRT-WAR.NFO:
+    mimetype: text/plain
+  ascii/SRT-WHAL.NFO:
+    mimetype: text/plain
+  ascii/SRT-i5.OLD:
+    mimetype: text/plain
+  ascii/Srt-dcb.nfo:
+    mimetype: text/plain
+  ascii/Srt-rum.nfo:
+    mimetype: text/plain
+  ascii/ZNT-DESP.NFO:
+    mimetype: text/plain
+  ascii/ZNT-QVCD.ASC:
+    mimetype: text/plain
+  ascii/ZNT-RCRX.ASC:
+    mimetype: text/plain
+  ascii/ansi/SRT-BD1.ANS:
+    mimetype: text/plain
+  ascii/ansi/dnAIR4.ans:
+    mimetype: text/plain
+  ascii/ansi/dnFW1.ans:
+    mimetype: text/plain
+  ascii/ansi/dnINS1.ans:
+    mimetype: text/plain
+  ascii/ansi/rad01cro.ans:
+    mimetype: text/plain
+  ascii/ansi/rad02cro.ans:
+    mimetype: text/plain
+  ascii/ansi/rad03cro.ans:
+    mimetype: text/plain
+  ascii/cr-chr.asc:
+    mimetype: text/plain
+  ascii/cr-chr.nfo:
+    mimetype: text/plain
+  ascii/cr-da.asc:
+    mimetype: text/plain
+  ascii/cr-swsnt.nfo:
+    mimetype: text/plain
+  ascii/cr-tex.nfo:
+    mimetype: text/plain
+  ascii/dnABS1.asc:
+    mimetype: text/plain
+  ascii/dnAIR1.asc:
+    mimetype: text/plain
+  ascii/dnAIR2.asc:
+    mimetype: text/plain
+  ascii/dnAIR3.asc:
+    mimetype: text/plain
+  ascii/dnAIR4.asc:
+    mimetype: text/plain
+  ascii/dnAIR5.asc:
+    mimetype: text/plain
+  ascii/dnCB41.asc:
+    mimetype: text/plain
+  ascii/dnCRO1.asc:
+    mimetype: text/plain
+  ascii/dnCRO2.asc:
+    mimetype: text/plain
+  ascii/dnCRO3.asc:
+    mimetype: text/plain
+  ascii/dnDBL1.asc:
+    mimetype: text/plain
+  ascii/dnDCF1.asc:
+    mimetype: text/plain
+  ascii/dnDCF2.asc:
+    mimetype: text/plain
+  ascii/dnDMR1.asc:
+    mimetype: text/plain
+  ascii/dnDOS3.asc:
+    mimetype: text/plain
+  ascii/dnGT1.asc:
+    mimetype: text/plain
+  ascii/dnHT1.asc:
+    mimetype: text/plain
+  ascii/dnINS1.asc:
+    mimetype: text/plain
+  ascii/dnKAR1.asc:
+    mimetype: text/plain
+  ascii/dnKK1.asc:
+    mimetype: text/plain
+  ascii/dnNUD2.asc:
+    mimetype: text/plain
+  ascii/dnNZI1.asc:
+    mimetype: text/plain
+  ascii/dnPAC1.asc:
+    mimetype: text/plain
+  ascii/dnPEA1.asc:
+    mimetype: text/plain
+  ascii/dnROT2.asc:
+    mimetype: text/plain
+  ascii/dnSB1.asc:
+    mimetype: text/plain
+  ascii/dnSCAR1.asc:
+    mimetype: text/plain
+  ascii/dnSCAR2.asc:
+    mimetype: text/plain
+  ascii/dnSR1.asc:
+    mimetype: text/plain
+  ascii/dnSR3.asc:
+    mimetype: text/plain
+  ascii/dnTBZ1.asc:
+    mimetype: text/plain
+  ascii/dnTC1.asc:
+    mimetype: text/plain
+  ascii/dnTCX1.asc:
+    mimetype: text/plain
+  ascii/dnTJB1.asc:
+    mimetype: text/plain
+  ascii/dnUSB1.asc:
+    mimetype: text/plain
+  ascii/dnUSB3.asc:
+    mimetype: text/plain
+  ascii/dnUTP2.asc:
+    mimetype: text/plain
+  ascii/dnWAR4.asc:
+    mimetype: text/plain
+  ascii/dndf2.asc:
+    mimetype: text/plain
+  ascii/dndf3.asc:
+    mimetype: text/plain
+  ascii/dndf4.asc:
+    mimetype: text/plain
+  ascii/dndfi1.asc:
+    mimetype: text/plain
+  ascii/dnorg1.asc:
+    mimetype: text/plain
+  ascii/dnpp3.asc:
+    mimetype: text/plain
+  ascii/dnsin1.asc:
+    mimetype: text/plain
+  ascii/dnsin2.asc:
+    mimetype: text/plain
+  ascii/fs-hman.asc:
+    mimetype: text/plain
+  ascii/znt-bong.asc:
+    mimetype: text/plain
+  ascii/znt-bt2k.asc:
+    mimetype: text/plain
+  ascii/znt-cado.diz:
+    mimetype: text/plain
+  ascii/znt-cove.asc:
+    mimetype: text/plain
+  ascii/znt-cro1.asc:
+    mimetype: text/plain
+  ascii/znt-cst.asc:
+    mimetype: text/plain
+  ascii/znt-d4c1.asc:
+    mimetype: text/plain
+  ascii/znt-d4c2.asc:
+    mimetype: text/plain
+  ascii/znt-d4ci.asc:
+    mimetype: text/plain
+  ascii/znt-desp.asc:
+    mimetype: text/plain
+  ascii/znt-ecl.asc:
+    mimetype: text/plain
+  ascii/znt-eum1.nfo:
+    mimetype: text/plain
+  ascii/znt-frdu.asc:
+    mimetype: text/plain
+  ascii/znt-fx1.asc:
+    mimetype: text/plain
+  ascii/znt-fx2.asc:
+    mimetype: text/plain
+  ascii/znt-gene.nfo:
+    mimetype: text/plain
+  ascii/znt-hype.asc:
+    mimetype: text/plain
+  ascii/znt-nf.asc:
+    mimetype: text/plain
+  ascii/znt-nzi.asc:
+    mimetype: text/plain
+  ascii/znt-pid.asc:
+    mimetype: text/plain
+  ascii/znt-prec.nfo:
+    mimetype: text/plain
+  ascii/znt-prei.asc:
+    mimetype: text/plain
+  ascii/znt-psyc.asc:
+    mimetype: text/plain
+  ascii/znt-rage.asc:
+    mimetype: text/plain
+  ascii/znt-rda.asc:
+    mimetype: text/plain
+  ascii/znt-soli.asc:
+    mimetype: text/plain
+  ascii/znt-spin.asc:
+    mimetype: text/plain
+  ascii/znt-tbc.asc:
+    mimetype: text/plain
+  ascii/znt-tjb1.asc:
+    mimetype: text/plain
+  ascii/znt-tjb2.asc:
+    mimetype: text/plain
+  ascii/znt-ts1.asc:
+    mimetype: text/plain
+  ascii/znt-ts2.asc:
+    mimetype: text/plain
+  ascii/znt_cro.diz:
+    mimetype: text/plain
+  ascii/znt_ts.diz:
+    mimetype: text/plain
+  chips/CR-7STON.XM:
+    mimetype: audio/x-mod
+  chips/CR-OMGTH.XM:
+    mimetype: audio/x-mod
+  chips/CR-SUO.XM:
+    mimetype: audio/x-mod
+  chips/PD-ALONE.XM:
+    mimetype: audio/x-mod
+  chips/PD-FH.XM:
+    mimetype: audio/x-mod
+  chips/PD-GS.XM:
+    mimetype: audio/x-mod
+  chips/PD-MY.XM:
+    mimetype: audio/x-mod
+  chips/PD-NEVER.XM:
+    mimetype: audio/x-mod
+  chips/PD-NMA.XM:
+    mimetype: audio/x-mod
+  chips/PD-RAIN.XM:
+    mimetype: audio/x-mod
+  chips/PD-WITOY.XM:
+    mimetype: audio/x-mod
+  chips/SDREAMS.XM:
+    mimetype: audio/x-mod
+  chips/mtc002.xm:
+    mimetype: audio/x-mod
+  chips/mtc006.xm:
+    mimetype: audio/x-mod
+  chips/mtc008.xm:
+    mimetype: audio/x-mod
+  chips/mtc010.xm:
+    mimetype: audio/x-mod
+  chips/mtc011.xm:
+    mimetype: audio/x-mod
+  chips/mtc017.xm:
+    mimetype: audio/x-mod
+  chips/pdh001.xm:
+    mimetype: audio/x-mod
+  chips/pdh009.xm:
+    mimetype: audio/x-mod
+  chips/pdh013.xm:
+    mimetype: audio/x-mod
+  chips/pdh014.xm:
+    mimetype: audio/x-mod
+  chips/pdh018.xm:
+    mimetype: audio/x-mod
+  creaction.nfo:
+    mimetype: text/plain
+  file_id.diz:
+    mimetype: text/plain
+  hirez/ALL_BTNS.GIF:
+    mimetype: image/gif
+  hirez/CORPSE.GIF:
+    mimetype: image/gif
+  hirez/INF006.jpg:
+    mimetype: image/jpeg
+  hirez/NUMBER1.JPG:
+    mimetype: image/jpeg
+  hirez/TC.GIF:
+    mimetype: image/gif
+  hirez/den-drh2.jpg:
+    mimetype: image/jpeg
+  hirez/dn-insb3.gif:
+    mimetype: image/gif
+  hirez/evidence_logo#.jpg:
+    mimetype: image/jpeg
+  hirez/ex-member005.jpg:
+    mimetype: image/jpeg
+  hirez/ex-member006.jpg:
+    mimetype: image/jpeg
+  hirez/ex-member010.jpg:
+    mimetype: image/jpeg
+  hirez/ex-member011.jpg:
+    mimetype: image/jpeg
+  hirez/ex-member012.jpg:
+    mimetype: image/jpeg
+  hirez/ex-member013.jpg:
+    mimetype: image/jpeg
+  hirez/ex-member014.jpg:
+    mimetype: image/jpeg
+  hirez/ex-member016.jpg:
+    mimetype: image/jpeg
+  hirez/ex-member021.jpg:
+    mimetype: image/jpeg
+  hirez/ex-member022.jpg:
+    mimetype: image/jpeg
+  hirez/ex-member025.jpg:
+    mimetype: image/jpeg
+  hirez/ex-member026.jpg:
+    mimetype: image/jpeg
+  hirez/ex-member028.jpg:
+    mimetype: image/jpeg
+  hirez/ex-member029.jpg:
+    mimetype: image/jpeg
+  hirez/ex-member030.jpg:
+    mimetype: image/jpeg
+  hirez/ex-member032.jpg:
+    mimetype: image/jpeg
+  hirez/ex-member035.jpg:
+    mimetype: image/jpeg
+  hirez/ex-member036.jpg:
+    mimetype: image/jpeg
+  hirez/guest-members001.jpg:
+    mimetype: image/jpeg
+  hirez/guest-members002.jpg:
+    mimetype: image/jpeg
+  hirez/guest-members003.jpg:
+    mimetype: image/jpeg
+  hirez/guest-members005.jpg:
+    mimetype: image/jpeg
+  hirez/inf001.jpg:
+    mimetype: image/jpeg
+  hirez/inf003.jpg:
+    mimetype: image/jpeg
+  hirez/inf005.jpg:
+    mimetype: image/jpeg
+  hirez/inf007.jpg:
+    mimetype: image/jpeg
+  hirez/inf008.jpg:
+    mimetype: image/jpeg
+  hirez/inf009.jpg:
+    mimetype: image/jpeg
+  hirez/inf010.jpg:
+    mimetype: image/jpeg
+  hirez/inf011.jpg:
+    mimetype: image/jpeg
+  hirez/inf012.jpg:
+    mimetype: image/jpeg
+  hirez/mer001.gif:
+    mimetype: image/gif
+  hirez/mer003.gif:
+    mimetype: image/gif
+  hirez/mer005.jpg:
+    mimetype: image/jpeg
+  hirez/mer006.jpg:
+    mimetype: image/jpeg
+  hirez/mer007.jpg:
+    mimetype: image/jpeg
+  hirez/mer008.jpg:
+    mimetype: image/jpeg
+  hirez/twirl_yellow.jpg:
+    mimetype: image/jpeg
+  hirez/w^egis.jpg:
+    mimetype: image/jpeg
+  hirez/w^hambo.jpg:
+    mimetype: image/jpeg
+  hirez/wall.gif:
+    mimetype: image/gif
+  hirez/wiz-cam2.jpg:
+    mimetype: image/jpeg
+  tools/ansi!win/cro-avw32b.zip:
+    mimetype: application/zip
+  tools/app!gen/croapp1.zip:
+    mimetype: application/zip
+  tools/crack!tro/frx-crotro.zip:
+    mimetype: application/zip
+  tools/crack!tro/trg-crotro.zip:
+    mimetype: application/zip
+  tools/win!amp!skin/crofltamp.zip:
+    mimetype: application/zip

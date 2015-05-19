@@ -1,0 +1,70 @@
+name: stab7.zip
+hash: 792c12b2dccf118b490f099415585cee
+year: 1995
+file:
+  !!binary +i1BTlNJLfo=:
+    mimetype: text/plain
+  !!binary +i1SSVAt+g==:
+    mimetype: text/plain
+  !!binary +i1WR0Et+g==:
+    mimetype: text/plain
+  !!binary +sTExMTE+g==:
+    mimetype: text/plain
+  AK-BOBAF.GIF:
+    mimetype: image/gif
+  BACK3.BMP:
+    mimetype: image/x-ms-bmp
+  BM-VIS1.GIF:
+    mimetype: image/gif
+  C-SESKL.GIF:
+    mimetype: image/gif
+  C-SUI12.ANS:
+    mimetype: text/plain
+  C-TSP1.ANS:
+    mimetype: text/plain
+  C-TSP2.ANS:
+    mimetype: text/plain
+  C-ZOR.RIP:
+    mimetype: image/x-rip
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  NEWSLETR.ANS:
+    mimetype: text/plain
+  NF-RUST1.RIP:
+    mimetype: image/x-rip
+  NF-STAB1.RIP:
+    mimetype: image/x-rip
+  PF-AMB.RIP:
+    mimetype: image/x-rip
+  PK-BLUNT.GIF:
+    mimetype: image/gif
+  PK-PK.GIF:
+    mimetype: image/gif
+  PK-RVNST.GIF:
+    mimetype: image/gif
+  PK-SUMR.GIF:
+    mimetype: image/gif
+  RIPFONTS.EXE:
+    mimetype: application/x-msdos-program
+  SM-7THSL.GIF:
+    mimetype: image/gif
+  SM-TSP.GIF:
+    mimetype: image/gif
+  SP-ACDMY.RIP:
+    mimetype: image/x-rip
+  SP-DOH.RIP:
+    mimetype: image/x-rip
+  SP-STAB.RIP:
+    mimetype: image/x-rip
+  STAB-APP.EXE:
+    mimetype: application/x-msdos-program
+  STABLST.ANS:
+    mimetype: text/plain
+  STABNFO.ANS:
+    mimetype: text/plain
+  STABVIEW.DAT:
+    mimetype: application/octet-stream
+  STABVIEW.EXE:
+    mimetype: application/x-msdos-program
+  SU-CHAIN.GIF:
+    mimetype: image/gif

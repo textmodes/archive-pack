@@ -1,0 +1,102 @@
+name: sand_1.zip
+hash: 4983bba334c2841824570507883be7d1
+year: 1996
+file:
+  CN-LSTPA.LIT:
+    mimetype: text/plain
+  CN-MTEMP.ANS:
+    mimetype: text/plain
+  CN-MTMP2.ANS:
+    mimetype: text/plain
+  CN-TEMP.ANS:
+    mimetype: text/plain
+  CN-TSMM.ANS:
+    mimetype: text/plain
+  CN-XODS.ANS:
+    mimetype: text/plain
+  DE-FNT1.ANS:
+    mimetype: text/plain
+  ET-DIZ.ASC:
+    mimetype: text/plain
+  ET-DMNU.ASC:
+    mimetype: text/plain
+  ET-MUMNU.ASC:
+    mimetype: text/plain
+  ET-OBIQ.ASC:
+    mimetype: text/plain
+  ET-ODCOL.ASC:
+    mimetype: text/plain
+  ET-SAND1.ASC:
+    mimetype: text/plain
+  ET-SAND2.ASC:
+    mimetype: text/plain
+  ET-STMNU.ASC:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  INTR_SND.ANS:
+    mimetype: text/plain
+  LIQ-INF.ANS:
+    mimetype: text/plain
+  LIQ-SRC.ANS:
+    mimetype: text/plain
+  LIQ-TIC.ANS:
+    mimetype: text/plain
+  MEMBERS.SND:
+    mimetype: audio/basic
+  PLX-DIG.ANS:
+    mimetype: text/plain
+  PLX-DN1.ANS:
+    mimetype: text/plain
+  PLX-OD1.ANS:
+    mimetype: text/plain
+  PLX-SND1.ANS:
+    mimetype: text/plain
+  SAND.NFO:
+    mimetype: text/plain
+  SANDAPP.DOC:
+    mimetype: text/plain
+  SANDAPP.EXE:
+    mimetype: application/x-msdos-program
+  SN-SAND.ANS:
+    mimetype: text/plain
+  SN-SND2.ANS:
+    mimetype: text/plain
+  SN_DIZ.ASC:
+    mimetype: text/plain
+  TH_AIR.ASC:
+    mimetype: text/plain
+  TH_ASH.ANS:
+    mimetype: text/plain
+  TH_CDST.ANS:
+    mimetype: text/plain
+  TH_CHRON.ANS:
+    mimetype: text/plain
+  TH_DEATH.ANS:
+    mimetype: text/plain
+  TH_DISCO.ASC:
+    mimetype: text/plain
+  TH_DIST.ANS:
+    mimetype: text/plain
+  TH_DIST.ASC:
+    mimetype: text/plain
+  TH_DIST1.ANS:
+    mimetype: text/plain
+  TH_DIST3.ANS:
+    mimetype: text/plain
+  TH_DP.ANS:
+    mimetype: text/plain
+  TH_FACE.ASC:
+    mimetype: text/plain
+  TH_FUNK.ANS:
+    mimetype: text/plain
+  TH_OLLIE.ANS:
+    mimetype: text/plain
+  TH_OVER.ASC:
+    mimetype: text/plain
+  TH_PERIL.ANS:
+    mimetype: text/plain
+  TH_PRN.ANS:
+    mimetype: text/plain
+  TH_SOURC.ANS:
+    mimetype: text/plain

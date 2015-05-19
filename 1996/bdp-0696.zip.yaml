@@ -1,0 +1,86 @@
+name: bdp-0696.zip
+hash: eeecf08c2bb5630bd6a785217eae9dde
+year: 1996
+file:
+  '--------.ANS':
+    mimetype: text/plain
+  '--------.ASC':
+    mimetype: text/plain
+  '--------.BIN':
+    mimetype: text/plain
+  '--------.EX3':
+    mimetype: text/plain
+  '--------.NFO':
+    mimetype: text/plain
+  '--------.RIP':
+    mimetype: image/x-rip
+  '--------.VGA':
+    mimetype: text/plain
+  BDP-0696.LST:
+    mimetype: text/plain
+  BDP-0696.NWS:
+    mimetype: text/plain
+  BDP2.WAD:
+    mimetype: text/plain
+  BDPAPP.EXE:
+    mimetype: application/x-msdos-program
+  BDPREQ.EXE:
+    mimetype: application/x-msdos-program
+  BE'ASCII.ASC:
+    mimetype: text/plain
+  BE'JULIE.JPG:
+    mimetype: image/jpeg
+  CO'BLIST.ANS:
+    mimetype: text/plain
+  CO'DEVM.RIP:
+    mimetype: image/x-rip
+  CO'MOVE.RIP:
+    mimetype: image/x-rip
+  CO'PROTO.RIP:
+    mimetype: image/x-rip
+  CO'RAW.RIP:
+    mimetype: image/x-rip
+  CO'SURV.RIP:
+    mimetype: image/x-rip
+  CO'TAG.ANS:
+    mimetype: text/plain
+  CO'TBG.RIP:
+    mimetype: image/x-rip
+  DOS4GW.EXE:
+    mimetype: application/x-msdos-program
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FR-AVATR.ANS:
+    mimetype: text/plain
+  FR-SNSTR.ANS:
+    mimetype: text/plain
+  GS-SYST1.ANS:
+    mimetype: text/plain
+  GS-SYST2.ASC:
+    mimetype: text/plain
+  RC(DWN0).ANS:
+    mimetype: text/plain
+  RC(ERR1).ANS:
+    mimetype: text/plain
+  RC(H0ME).ANS:
+    mimetype: text/plain
+  RC(L0ST).GIF:
+    mimetype: image/gif
+  RC(THR0).ANS:
+    mimetype: text/plain
+  SAUCE.CFG:
+    mimetype: text/plain
+  SAUCE.EXE:
+    mimetype: application/x-msdos-program
+  WZ-GATE.JPG:
+    mimetype: image/jpeg
+  WZ-INFO.JPG:
+    mimetype: image/jpeg
+  WZ-MIND.JPG:
+    mimetype: image/jpeg
+  WZ-SYST.JPG:
+    mimetype: image/jpeg
+  WZ-TIME.JPG:
+    mimetype: image/jpeg
+  WZ-TRANQ.JPG:
+    mimetype: image/jpeg

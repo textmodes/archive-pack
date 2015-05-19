@@ -1,0 +1,58 @@
+name: orbit04b.zip
+hash: b50982b0c66dc0a2e12572c90a2d446c
+year: 1995
+file:
+  '--------.---':
+    mimetype: text/plain
+  '----JULY.PAK':
+    mimetype: text/plain
+  '---ORBIT.95-':
+    mimetype: text/plain
+  !!binary +vlBTlNJ+fo=:
+    mimetype: text/plain
+  !!binary +vlMSVT5+g==:
+    mimetype: text/plain
+  !!binary +vlNSVND+fo=:
+    mimetype: text/plain
+  !!binary +vlTM01T+fo=:
+    mimetype: text/plain
+  !!binary +vlWR0H5+g==:
+    mimetype: text/plain
+  DN-BSDS2.GIF:
+    mimetype: image/gif
+  DN-JSHIP.GIF:
+    mimetype: image/gif
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  M-POLY.PCX:
+    mimetype: image/pcx
+  MG-FREEZ.LIT:
+    mimetype: text/plain
+  MG-NEMOR.LIT:
+    mimetype: text/plain
+  ONEWS-04.ANS:
+    mimetype: text/plain
+  ORB0795.MEM:
+    mimetype: text/plain
+  ORB0795.SIT:
+    mimetype: text/plain
+  ORBITAPP.ZIP:
+    mimetype: application/zip
+  RX-SIL.S3M:
+    mimetype: audio/x-mod
+  RX-SOL.S3M:
+    mimetype: audio/x-mod
+  SC-SOME.ZIP:
+    mimetype: application/zip
+  TA-ORB2.PCX:
+    mimetype: image/pcx
+  VD-AC2.ANS:
+    mimetype: text/plain
+  VD-NC.ANS:
+    mimetype: text/plain
+  VD-ORB2.ANS:
+    mimetype: text/plain
+  VD-ORB3.ANS:
+    mimetype: text/plain
+  VD-TR.ANS:
+    mimetype: text/plain

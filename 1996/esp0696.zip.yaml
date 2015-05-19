@@ -1,0 +1,50 @@
+name: esp0696.zip
+hash: 5db580b95dbf397eefccaf9552dc8e1e
+year: 1996
+file:
+  APPLY.ZIP:
+    mimetype: application/zip
+  BZ-DAMG.RIP:
+    mimetype: image/x-rip
+  ESP-ANSI.ZIP:
+    mimetype: application/zip
+  ESP-UL.ZIP:
+    mimetype: application/zip
+  ESPMEM.ANS:
+    mimetype: text/plain
+  ESPNFO.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FL-ASK02.ANS:
+    mimetype: text/plain
+  FL-GEN13.ANS:
+    mimetype: text/plain
+  FL-HELL.ANS:
+    mimetype: text/plain
+  FL-MAT02.ANS:
+    mimetype: text/plain
+  FL-MAXX.ANS:
+    mimetype: text/plain
+  HB-ASKCO.ANS:
+    mimetype: text/plain
+  HB-DM.ANS:
+    mimetype: text/plain
+  HB-HT2.ANS:
+    mimetype: text/plain
+  MJ-CBAND.ANS:
+    mimetype: text/plain
+  MJ-DFCNL.ANS:
+    mimetype: text/plain
+  MJ-FBI.ANS:
+    mimetype: text/plain
+  MJ-ROD.ANS:
+    mimetype: text/plain
+  REQUEST.ZIP:
+    mimetype: application/zip
+  WAR-ANAR.GIF:
+    mimetype: image/gif
+  WAR-FILT.GIF:
+    mimetype: image/gif
+  WAR-TAG.GIF:
+    mimetype: image/gif

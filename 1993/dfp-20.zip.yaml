@@ -1,0 +1,46 @@
+name: dfp-20.zip
+hash: 7b5e136d175a2efd8221c1fe44b9ecf6
+year: 1993
+file:
+  172DISK.NFO:
+    mimetype: text/plain
+  DF2.CFG:
+    mimetype: text/plain
+  DF2.DOC:
+    mimetype: text/plain
+  DF2.EXE:
+    mimetype: application/x-msdos-program
+  DF2CRED.BSV:
+    mimetype: application/octet-stream
+  DF2M-1.BSV:
+    mimetype: application/octet-stream
+  DF2M-1.DAT:
+    mimetype: text/plain
+  DF2M-2.BSV:
+    mimetype: application/octet-stream
+  DF2M-2.DAT:
+    mimetype: text/plain
+  DF2M-3.BSV:
+    mimetype: application/octet-stream
+  DF2M-3.DAT:
+    mimetype: text/plain
+  DFCRED.BSV:
+    mimetype: application/octet-stream
+  DFMUSIC.BSV:
+    mimetype: application/octet-stream
+  DFSETUP.BSV:
+    mimetype: application/octet-stream
+  DFTIT.BSV:
+    mimetype: application/octet-stream
+  DFWAIT.BSV:
+    mimetype: application/octet-stream
+  EMMPLAY.COM:
+    mimetype: application/x-msdos-program
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FUN!.COM:
+    mimetype: application/x-msdos-program
+  SB-DF.COM:
+    mimetype: application/x-msdos-program
+  SETUP.EXE:
+    mimetype: application/x-msdos-program

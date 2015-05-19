@@ -1,0 +1,28 @@
+name: dkb_sok.zip
+hash: ba22cd639ea9777404ab553fe21ce8ae
+year: 1997
+file:
+  (33K6).COM:
+    mimetype: application/x-msdos-program
+  05-12-97:
+    mimetype: application/octet-stream
+  DA_JOINT.PMD:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FILEPATH.LST:
+    mimetype: text/plain
+  STEELTRA.INS:
+    mimetype: application/octet-stream
+  dkb.nfo:
+    mimetype: text/plain
+  moky.jpg:
+    mimetype: image/jpeg
+  money1.jpg:
+    mimetype: image/jpeg
+  money2.jpg:
+    mimetype: image/jpeg
+  money3.jpg:
+    mimetype: image/jpeg
+  skero.jpg:
+    mimetype: image/jpeg

@@ -1,0 +1,42 @@
+name: prn-x008.zip
+hash: 6658bf7a0b4480382f385e02df08cf8a
+year: 2003
+file:
+  '--------.---':
+    mimetype: application/octet-stream
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  MESSAGES.TXT:
+    mimetype: text/plain
+  PRN-X008.NFO:
+    mimetype: text/plain
+  SI-ACRC4.LIT:
+    mimetype: text/plain
+  SI-AE8.ASC:
+    mimetype: text/plain
+  SI-BAGGI.LIT:
+    mimetype: text/plain
+  SI-ELAD5.LIT:
+    mimetype: text/plain
+  SI-HOUSE.LIT:
+    mimetype: text/plain
+  SI-LFDSA.LIT:
+    mimetype: text/plain
+  SI-LHV45.LIT:
+    mimetype: text/plain
+  SI-LITZ.BAT:
+    mimetype: application/x-msdos-program
+  SI-LKSB.ASC:
+    mimetype: text/plain
+  SI-SHANT.ASC:
+    mimetype: text/plain
+  SI-WH00A.LIT:
+    mimetype: text/plain
+  SI-WH00B.LIT:
+    mimetype: text/plain
+  SI-WH00C.LIT:
+    mimetype: text/plain
+  SI-WH00D.LIT:
+    mimetype: text/plain
+  THUGLIFE.ORG:
+    mimetype: text/plain

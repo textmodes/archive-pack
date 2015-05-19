@@ -1,0 +1,12 @@
+name: dkb_wesp.zip
+hash: b72619d1e0e4f27a9698373a54d18b9f
+year: 1997
+file:
+  DKB.NFO:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  steeltra.ins:
+    mimetype: application/octet-stream
+  wesp.jpg:
+    mimetype: image/jpeg

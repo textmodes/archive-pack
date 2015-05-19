@@ -1,0 +1,66 @@
+name: trans02.zip
+hash: b9d906f5dee24081640bdc7824f52af6
+year: 1997
+file:
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GP-DEMON.EXE:
+    mimetype: application/x-msdos-program
+  GP-LS01.JPG:
+    mimetype: image/jpeg
+  JE-CONF.EXE:
+    mimetype: application/x-msdos-program
+  JE-MARSH.EXE:
+    mimetype: application/x-msdos-program
+  MO-BAZ.ZIP:
+    mimetype: application/zip
+  MO-GOTH1.ANS:
+    mimetype: text/plain
+  MO-INF.ANS:
+    mimetype: text/plain
+  MO-PASTE.ASC:
+    mimetype: text/plain
+  MO-SKULL.ASC:
+    mimetype: text/plain
+  MO-TRNS1.ANS:
+    mimetype: text/plain
+  PS-DEVIL.EXE:
+    mimetype: application/x-msdos-program
+  PS-DEVIL.PIF:
+    mimetype: application/x-dosexec
+  PS-GOTH.GIF:
+    mimetype: image/gif
+  PS-LIGHT.EXE:
+    mimetype: application/x-msdos-program
+  PS-URANS.GIF:
+    mimetype: image/gif
+  QB-APOC.JPG:
+    mimetype: image/jpeg
+  QU-BURN.EXE:
+    mimetype: application/x-msdos-program
+  QU-DUSTY.EXE:
+    mimetype: application/x-msdos-program
+  QU-LIT04.EXE:
+    mimetype: application/x-msdos-program
+  RELEASES.NFO:
+    mimetype: text/plain
+  SH-TAX1.JPG:
+    mimetype: image/jpeg
+  SH-TIME.EXE:
+    mimetype: application/x-msdos-program
+  SH-VEGA.JPG:
+    mimetype: image/jpeg
+  TF-DREAM.MOD:
+    mimetype: audio/x-mod
+  TF-UNTIT.XM:
+    mimetype: audio/x-mod
+  TF-WHAT.XM:
+    mimetype: audio/x-mod
+  TMNEWS02.NFO:
+    mimetype: text/plain
+  TRNS0997.NFO:
+    mimetype: text/plain
+  UD!-CHAT.ZIP:
+    mimetype: application/zip
+  UD-AUTO.ZIP:
+    mimetype: application/zip

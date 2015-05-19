@@ -1,0 +1,100 @@
+name: bdp-0496.zip
+hash: 4c2d18e1cd121c9763492085d08d6030
+year: 1996
+file:
+  '%%ANSI%%':
+    mimetype: text/plain
+  '%%ASCII%':
+    mimetype: text/plain
+  '%%BIN%%%':
+    mimetype: text/plain
+  '%%EXE%%%':
+    mimetype: text/plain
+  '%%INFO%%':
+    mimetype: text/plain
+  '%%RIP%%%':
+    mimetype: text/plain
+  '%%VGA%%%':
+    mimetype: text/plain
+  BDP-0496.LST:
+    mimetype: text/plain
+  BDP-0496.NWS:
+    mimetype: text/plain
+  BDP-ROOT.ANS:
+    mimetype: text/plain
+  BDP2.WAD:
+    mimetype: text/plain
+  BDPAPP.EXE:
+    mimetype: application/x-msdos-program
+  BDPDEMO.EXE:
+    mimetype: application/x-msdos-program
+  BDPREQ.EXE:
+    mimetype: application/x-msdos-program
+  CO-COEF.RIP:
+    mimetype: image/x-rip
+  CO-COJ.RIP:
+    mimetype: image/x-rip
+  CO-COLC.RIP:
+    mimetype: image/x-rip
+  CO-FREE.RIP:
+    mimetype: image/x-rip
+  CO-SHAOL.ANS:
+    mimetype: text/plain
+  CO-SHAOL.RIP:
+    mimetype: image/x-rip
+  CO-VSRC.RIP:
+    mimetype: image/x-rip
+  CO-WINWA.RIP:
+    mimetype: image/x-rip
+  CO-WIZAR.RIP:
+    mimetype: image/x-rip
+  DANCEWIT.HME:
+    mimetype: text/plain
+  DEVIOUS.BDP:
+    mimetype: text/plain
+  DOS4GW.EXE:
+    mimetype: application/x-msdos-program
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  G8-ASTRA.ASC:
+    mimetype: text/plain
+  G8-DE.ASC:
+    mimetype: text/plain
+  G8-DEVDI.ASC:
+    mimetype: text/plain
+  G8-DIDIZ.ASC:
+    mimetype: text/plain
+  G8-MP.ASC:
+    mimetype: text/plain
+  G8-OBLIV.ASC:
+    mimetype: text/plain
+  G8-TRIL.ASC:
+    mimetype: text/plain
+  GS-STND!.ANS:
+    mimetype: text/plain
+  !!binary UCRZQ0itQy5DT00=:
+    mimetype: application/x-msdos-program
+  PSYCHIC.EXE:
+    mimetype: application/x-msdos-program
+  PSYCHIC.NFO:
+    mimetype: text/plain
+  RC(BDPA).ANS:
+    mimetype: text/plain
+  RC(BLIS).ANS:
+    mimetype: text/plain
+  RC(BONA).ANS:
+    mimetype: text/plain
+  RC(DEV4).ANS:
+    mimetype: text/plain
+  RC(HARD).ANS:
+    mimetype: text/plain
+  RC(MEN3).ANS:
+    mimetype: text/plain
+  RC(MOR6).ANS:
+    mimetype: text/plain
+  RC(POST).ANS:
+    mimetype: text/plain
+  SAUCE.CFG:
+    mimetype: application/octet-stream
+  SAUCE.EXE:
+    mimetype: application/x-msdos-program

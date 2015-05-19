@@ -1,0 +1,62 @@
+name: 303pack1.zip
+hash: 2a2351a9630f129c1e8a8cde9f4e099c
+year: 1997
+file:
+  303PROD.JPG:
+    mimetype: image/jpeg
+  0397INFO.ANS:
+    mimetype: text/plain
+  0397MEMB.ANS:
+    mimetype: text/plain
+  APPLY.3O3:
+    mimetype: application/octet-stream
+  BD-303.ASC:
+    mimetype: text/plain
+  BYM%CMTS.ANS:
+    mimetype: text/plain
+  BYM%FRST.ANS:
+    mimetype: text/plain
+  CTD-303.ANS:
+    mimetype: text/plain
+  CTD-ART!.ANS:
+    mimetype: text/plain
+  CTD-DIM.ANS:
+    mimetype: text/plain
+  CTD-DIM2.ANS:
+    mimetype: text/plain
+  CTD-DIM3.ANS:
+    mimetype: text/plain
+  CTD-MS.ANS:
+    mimetype: text/plain
+  CTD-PS.ANS:
+    mimetype: text/plain
+  CTD-UNKN.ANS:
+    mimetype: text/plain
+  D2K-EDGE.JPG:
+    mimetype: image/jpeg
+  DBN!3O3.JPG:
+    mimetype: image/jpeg
+  DBN!BLUE.JPG:
+    mimetype: image/jpeg
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  MI_CD.ANS:
+    mimetype: text/plain
+  PHX-3O3.JPG:
+    mimetype: image/jpeg
+  PLC-BULL.ANS:
+    mimetype: text/plain
+  PLC-CS.ANS:
+    mimetype: text/plain
+  PLC-LOG.ANS:
+    mimetype: text/plain
+  PLC-PH.ANS:
+    mimetype: text/plain
+  PLC-SUI.ANS:
+    mimetype: text/plain
+  RED-3O3.ANS:
+    mimetype: text/plain
+  RGD#3O3.ANS:
+    mimetype: text/plain
+  RGD#RLTY.ANS:
+    mimetype: text/plain

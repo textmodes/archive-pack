@@ -1,0 +1,104 @@
+name: fos-0795.zip
+hash: 1e4aa93823f89ce0a3b2a6b7e1484549
+year: 1995
+file:
+  ACT'97.NFO:
+    mimetype: text/plain
+  ANSIS:
+    mimetype: text/plain
+  APPGEN:
+    mimetype: text/plain
+  ASCIIS:
+    mimetype: text/plain
+  BBS-O795.NFO:
+    mimetype: text/plain
+  DT-FACE.GIF:
+    mimetype: image/gif
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FL-FOS.ASC:
+    mimetype: text/plain
+  FL-FUL.ASC:
+    mimetype: text/plain
+  FL-TEK.ASC:
+    mimetype: text/plain
+  FOS-0795.NFO:
+    mimetype: text/plain
+  FOS-APP.EXE:
+    mimetype: application/x-msdos-program
+  FOS-QUAK.S3M:
+    mimetype: audio/x-mod
+  FOS-REQ.EXE:
+    mimetype: application/x-msdos-program
+  FR-BTRIP.ASC:
+    mimetype: text/plain
+  FR-CITYS.ASC:
+    mimetype: text/plain
+  FR-COAR1.ASC:
+    mimetype: text/plain
+  FR-CRN.ASC:
+    mimetype: text/plain
+  FR-FATA1.ASC:
+    mimetype: text/plain
+  FR-FOS.ASC:
+    mimetype: text/plain
+  FR-SOS.ASC:
+    mimetype: text/plain
+  FR-SPLAT.ASC:
+    mimetype: text/plain
+  FR-TCW.ASC:
+    mimetype: text/plain
+  HIDEOUT!.ACT:
+    mimetype: text/plain
+  INFO:
+    mimetype: text/plain
+  LOADERS:
+    mimetype: text/plain
+  LS-FOS.S3M:
+    mimetype: audio/x-mod
+  MD-TNZ.ANS:
+    mimetype: text/plain
+  MD-VOS.ANS:
+    mimetype: text/plain
+  MEM-0795.NFO:
+    mimetype: text/plain
+  MT-DTRCY.ANS:
+    mimetype: text/plain
+  MUSIC:
+    mimetype: text/plain
+  MUSIC.DAT:
+    mimetype: application/octet-stream
+  ON-CRIM1.ANS:
+    mimetype: text/plain
+  ON-DOA.ANS:
+    mimetype: text/plain
+  ON-DOA2.ANS:
+    mimetype: text/plain
+  ON-FOS2.ANS:
+    mimetype: text/plain
+  ON-LOGO.ANS:
+    mimetype: text/plain
+  ON-TFRST.ANS:
+    mimetype: text/plain
+  PRJ-X.EXE:
+    mimetype: application/x-msdos-program
+  RA-O-COL.JPG:
+    mimetype: image/jpeg
+  RA-ZAP1.JPG:
+    mimetype: image/jpeg
+  RX-INSAN.EXE:
+    mimetype: application/x-msdos-program
+  RX-TAINT.JPG:
+    mimetype: image/jpeg
+  SC-SHADO.ASC:
+    mimetype: text/plain
+  SS-FOI.JPG:
+    mimetype: image/jpeg
+  VGA:
+    mimetype: text/plain
+  WN-APPG.MOD:
+    mimetype: audio/x-mod
+  WN-FOS.EXE:
+    mimetype: application/x-msdos-program
+  WN-NAIZL.XM:
+    mimetype: audio/x-mod

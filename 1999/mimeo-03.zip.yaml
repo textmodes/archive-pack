@@ -1,0 +1,8 @@
+name: mimeo-03.zip
+hash: 4f5f6f1ba2c9b2199cca4480433cb6f6
+year: 1999
+file:
+  MIMEO.DAT:
+    mimetype: application/octet-stream
+  mimeo.exe:
+    mimetype: application/x-msdos-program

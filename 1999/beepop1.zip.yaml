@@ -1,0 +1,204 @@
+name: beepop1.zip
+hash: 7371aa3866355ccf50c96c1536efdc14
+year: 1999
+file:
+  (B-POP).FRM:
+    mimetype: application/octet-stream
+  AFEKT.Y0:
+    mimetype: text/plain
+  ASCII.KIT:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  IRCNET.TXT:
+    mimetype: text/plain
+  KIP.POP:
+    mimetype: text/plain
+  KIP_1DS.POP:
+    mimetype: text/plain
+  KIP_720.POP:
+    mimetype: text/plain
+  KIP_AKA.POP:
+    mimetype: application/octet-stream
+  KIP_BLM.POP:
+    mimetype: text/plain
+  KIP_BLM2.POP:
+    mimetype: text/plain
+  KIP_BP1.POP:
+    mimetype: text/plain
+  KIP_BP2.POP:
+    mimetype: text/plain
+  KIP_BP3.POP:
+    mimetype: text/plain
+  KIP_BP4.POP:
+    mimetype: text/plain
+  KIP_BPP.GIF:
+    mimetype: image/gif
+  KIP_BTL.POP:
+    mimetype: text/plain
+  KIP_BZT2.POP:
+    mimetype: application/octet-stream
+  KIP_BZZZ.POP:
+    mimetype: text/plain
+  KIP_CB1.POP:
+    mimetype: text/plain
+  KIP_CB2.POP:
+    mimetype: text/plain
+  KIP_CHA.POP:
+    mimetype: application/octet-stream
+  KIP_CMR.POP:
+    mimetype: application/octet-stream
+  KIP_CRO.POP:
+    mimetype: text/plain
+  KIP_CRX1.POP:
+    mimetype: text/plain
+  KIP_CRX2.POP:
+    mimetype: application/octet-stream
+  KIP_EVGN.POP:
+    mimetype: text/plain
+  KIP_EZAH.POP:
+    mimetype: text/plain
+  KIP_FTM.POP:
+    mimetype: text/plain
+  KIP_FTZY.POP:
+    mimetype: text/plain
+  KIP_HALN.GIF:
+    mimetype: image/gif
+  KIP_HSNK.POP:
+    mimetype: application/octet-stream
+  KIP_IF1.POP:
+    mimetype: text/plain
+  KIP_IF2.POP:
+    mimetype: application/octet-stream
+  KIP_INS.POP:
+    mimetype: text/plain
+  KIP_IPC1.POP:
+    mimetype: text/plain
+  KIP_IPC2.POP:
+    mimetype: text/plain
+  KIP_IPC3.POP:
+    mimetype: text/plain
+  KIP_KIP1.POP:
+    mimetype: application/octet-stream
+  KIP_KORE.POP:
+    mimetype: text/plain
+  KIP_LAB.POP:
+    mimetype: text/plain
+  KIP_LGRS.POP:
+    mimetype: text/plain
+  KIP_LOOP.POP:
+    mimetype: application/octet-stream
+  KIP_MMC.POP:
+    mimetype: text/plain
+  KIP_MSR1.POP:
+    mimetype: text/plain
+  KIP_MSR2.POP:
+    mimetype: text/plain
+  KIP_MSR3.POP:
+    mimetype: text/plain
+  KIP_NOR.POP:
+    mimetype: application/octet-stream
+  KIP_ORB.POP:
+    mimetype: text/plain
+  KIP_PHZ.POP:
+    mimetype: application/octet-stream
+  KIP_PHZ2.POP:
+    mimetype: application/octet-stream
+  KIP_PHZ3.POP:
+    mimetype: text/plain
+  KIP_PHZ4.POP:
+    mimetype: application/octet-stream
+  KIP_PHZ5.POP:
+    mimetype: text/plain
+  KIP_PJM.GIF:
+    mimetype: image/gif
+  KIP_PNG.POP:
+    mimetype: text/plain
+  KIP_PSN.POP:
+    mimetype: text/plain
+  KIP_RMRS.POP:
+    mimetype: text/plain
+  KIP_SAKE.GIF:
+    mimetype: image/gif
+  KIP_SAT.POP:
+    mimetype: text/plain
+  KIP_SOK1.POP:
+    mimetype: text/plain
+  KIP_SOK2.POP:
+    mimetype: application/octet-stream
+  KIP_VIME.POP:
+    mimetype: text/plain
+  PHZ&BPL.POP:
+    mimetype: text/plain
+  PHZ_1911.POP:
+    mimetype: text/plain
+  PHZ_AFKT.GIF:
+    mimetype: image/gif
+  PHZ_AMBR.POP:
+    mimetype: application/octet-stream
+  PHZ_APE.POP:
+    mimetype: text/plain
+  PHZ_BBC.POP:
+    mimetype: text/plain
+  PHZ_BOZ1.POP:
+    mimetype: text/plain
+  PHZ_BOZ2.POP:
+    mimetype: text/plain
+  PHZ_BOZ4.POP:
+    mimetype: text/plain
+  PHZ_BP1.POP:
+    mimetype: text/plain
+  PHZ_BP2.POP:
+    mimetype: text/plain
+  PHZ_BP3.POP:
+    mimetype: text/plain
+  PHZ_BP4.POP:
+    mimetype: text/plain
+  PHZ_DF.GIF:
+    mimetype: image/gif
+  PHZ_DF.POP:
+    mimetype: text/plain
+  PHZ_H7.POP:
+    mimetype: text/plain
+  PHZ_HLN.GIF:
+    mimetype: image/gif
+  PHZ_IF.GIF:
+    mimetype: image/gif
+  PHZ_IF1.POP:
+    mimetype: text/plain
+  PHZ_IF3.POP:
+    mimetype: text/plain
+  PHZ_K0.POP:
+    mimetype: text/plain
+  PHZ_KIP.POP:
+    mimetype: text/plain
+  PHZ_LINK.POP:
+    mimetype: text/plain
+  PHZ_MMC.POP:
+    mimetype: application/octet-stream
+  PHZ_PHZ1.POP:
+    mimetype: application/octet-stream
+  PHZ_PHZ2.POP:
+    mimetype: text/plain
+  PHZ_PLSC.POP:
+    mimetype: text/plain
+  PHZ_PLSM.POP:
+    mimetype: text/plain
+  PHZ_POSK.POP:
+    mimetype: text/plain
+  PHZ_RCTR.GIF:
+    mimetype: image/gif
+  PHZ_REMO.POP:
+    mimetype: text/plain
+  PHZ_RZR.POP:
+    mimetype: text/plain
+  PHZ_SHOW.POP:
+    mimetype: text/plain
+  PHZ_SPD.POP:
+    mimetype: application/octet-stream
+  PHZ_ZERO.POP:
+    mimetype: text/plain
+  READ_IT.TXT:
+    mimetype: text/plain
+  REMIX.POP:
+    mimetype: text/plain

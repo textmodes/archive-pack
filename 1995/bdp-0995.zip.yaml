@@ -1,0 +1,18 @@
+name: bdp-0995.zip
+hash: 7a77d2992848c308df6931de04c8ee8c
+year: 1995
+file:
+  BDPANS.ZIP:
+    mimetype: application/zip
+  BDPEXE.ZIP:
+    mimetype: application/zip
+  BDPLIT.ZIP:
+    mimetype: application/zip
+  BDPNFO.ZIP:
+    mimetype: application/zip
+  BDPVGA.ZIP:
+    mimetype: application/zip
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  KIEKEBOE.TXT:
+    mimetype: text/plain

@@ -1,0 +1,68 @@
+name: purg-11.zip
+hash: 94db2ee8c6a449a2a5cd06f65500f231
+year: 1998
+file:
+  2CENTS.TXT:
+    mimetype: text/plain
+  5D-PURG.ANS:
+    mimetype: text/plain
+  CH-PIC01.ASC:
+    mimetype: text/plain
+  CL-ANS11.COL:
+    mimetype: text/plain
+  CL-ASC11.COL:
+    mimetype: text/plain
+  DS-ASC11.COL:
+    mimetype: application/octet-stream
+  ESS-PURG.GST:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  IC_PLOGO.JPG:
+    mimetype: image/jpeg
+  IO-ANS11.COL:
+    mimetype: text/plain
+  JD-ASC11.COL:
+    mimetype: text/plain
+  KL-PURG.GST:
+    mimetype: text/plain
+  ND-PURG.JPG:
+    mimetype: image/jpeg
+  PLGO-11.NFO:
+    mimetype: text/plain
+  PM-PURG.GST:
+    mimetype: text/plain
+  PR-ASC11.COL:
+    mimetype: text/plain
+  S4-PURG.ANS:
+    mimetype: text/plain
+  SP-ASC11.COL:
+    mimetype: text/plain
+  TR-ASC11.COL:
+    mimetype: text/plain
+  TR-ASC11.TXT:
+    mimetype: text/plain
+  TR-PIC01.ASC:
+    mimetype: text/plain
+  TR-PIC02.ASC:
+    mimetype: text/plain
+  TR-PIC03.ASC:
+    mimetype: text/plain
+  TW-JOINT.GIF:
+    mimetype: image/gif
+  US-GST11.TXT:
+    mimetype: text/plain
+  US-JNT11.COL:
+    mimetype: text/plain
+  UV-PURG.GST:
+    mimetype: text/plain
+  WHO-PRG1.JPG:
+    mimetype: image/jpeg
+  WHO-PRG2.JPG:
+    mimetype: image/jpeg
+  WU-PURG1.GIF:
+    mimetype: image/gif
+  WU-PURG2.GIF:
+    mimetype: image/gif
+  XOR-PLGO.TXT:
+    mimetype: text/plain

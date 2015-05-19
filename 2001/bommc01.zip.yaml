@@ -1,0 +1,540 @@
+name: bommc01.zip
+hash: 3da0a1faaf7d6f7a9ad9dc51c4a8e9f5
+year: 2001
+file:
+  bestmmc.nfo:
+    mimetype: text/plain
+  file_id.diz:
+    mimetype: text/plain
+  mmc01-01.ans:
+    mimetype: text/plain
+  mmc01-02.ans:
+    mimetype: text/plain
+  mmc01-03.ans:
+    mimetype: text/plain
+  mmc02-01.ans:
+    mimetype: text/plain
+  mmc02-02.ans:
+    mimetype: text/plain
+  mmc02-03.ans:
+    mimetype: text/plain
+  mmc03-01.ans:
+    mimetype: text/plain
+  mmc03-02.ans:
+    mimetype: text/plain
+  mmc03-03.ans:
+    mimetype: text/plain
+  mmc03-04.ans:
+    mimetype: text/plain
+  mmc04-01.ans:
+    mimetype: text/plain
+  mmc04-02.ans:
+    mimetype: text/plain
+  mmc04-03.ans:
+    mimetype: text/plain
+  mmc04-04.ans:
+    mimetype: text/plain
+  mmc04-05.ans:
+    mimetype: text/plain
+  mmc05-01.ans:
+    mimetype: text/plain
+  mmc05-02.ans:
+    mimetype: text/plain
+  mmc06-01.ans:
+    mimetype: text/plain
+  mmc06-02.ans:
+    mimetype: text/plain
+  mmc06-03.ans:
+    mimetype: text/plain
+  mmc06-04.ans:
+    mimetype: text/plain
+  mmc06-05.ans:
+    mimetype: text/plain
+  mmc06-06.ans:
+    mimetype: text/plain
+  mmc06-07.ans:
+    mimetype: text/plain
+  mmc06-08.ans:
+    mimetype: text/plain
+  mmc07-01.ans:
+    mimetype: text/plain
+  mmc07-02.ans:
+    mimetype: text/plain
+  mmc07-03.ans:
+    mimetype: text/plain
+  mmc07-04.ans:
+    mimetype: text/plain
+  mmc07-05.ans:
+    mimetype: text/plain
+  mmc07-06.ans:
+    mimetype: text/plain
+  mmc07-07.ans:
+    mimetype: text/plain
+  mmc08-01.ans:
+    mimetype: text/plain
+  mmc08-02.ans:
+    mimetype: text/plain
+  mmc08-03.ans:
+    mimetype: text/plain
+  mmc08-04.ans:
+    mimetype: text/plain
+  mmc08-05.ans:
+    mimetype: text/plain
+  mmc08-06.ans:
+    mimetype: text/plain
+  mmc08-07.ans:
+    mimetype: text/plain
+  mmc09-01.ans:
+    mimetype: text/plain
+  mmc09-02.ans:
+    mimetype: text/plain
+  mmc09-03.ans:
+    mimetype: text/plain
+  mmc09-04.ans:
+    mimetype: text/plain
+  mmc09-05.ans:
+    mimetype: text/plain
+  mmc09-06.ans:
+    mimetype: text/plain
+  mmc09-07.ans:
+    mimetype: text/plain
+  mmc09-08.ans:
+    mimetype: text/plain
+  mmc09-09.ans:
+    mimetype: text/plain
+  mmc09-10.ans:
+    mimetype: text/plain
+  mmc09-11.ans:
+    mimetype: text/plain
+  mmc09-12.ans:
+    mimetype: text/plain
+  mmc09-13.ans:
+    mimetype: text/plain
+  mmc09-14.ans:
+    mimetype: text/plain
+  mmc09-15.ans:
+    mimetype: text/plain
+  mmc10-01.ans:
+    mimetype: text/plain
+  mmc10-02.ans:
+    mimetype: text/plain
+  mmc10-03.ans:
+    mimetype: text/plain
+  mmc10-04.ans:
+    mimetype: text/plain
+  mmc10-05.ans:
+    mimetype: text/plain
+  mmc10-06.ans:
+    mimetype: text/plain
+  mmc10-07.ans:
+    mimetype: text/plain
+  mmc10-08.ans:
+    mimetype: text/plain
+  mmc10-09.ans:
+    mimetype: text/plain
+  mmc10-10.ans:
+    mimetype: text/plain
+  mmc10-11.ans:
+    mimetype: text/plain
+  mmc10-12.ans:
+    mimetype: text/plain
+  mmc10-13.ans:
+    mimetype: text/plain
+  mmc10-14.ans:
+    mimetype: text/plain
+  mmc10-15.ans:
+    mimetype: text/plain
+  mmc10-16.ans:
+    mimetype: text/plain
+  mmc10-17.ans:
+    mimetype: text/plain
+  mmc11-01.ans:
+    mimetype: text/plain
+  mmc11-02.ans:
+    mimetype: text/plain
+  mmc11-03.ans:
+    mimetype: text/plain
+  mmc11-04.ans:
+    mimetype: text/plain
+  mmc11-05.ans:
+    mimetype: text/plain
+  mmc11-06.ans:
+    mimetype: text/plain
+  mmc11-07.ans:
+    mimetype: text/plain
+  mmc11-08.ans:
+    mimetype: text/plain
+  mmc11-09.ans:
+    mimetype: text/plain
+  mmc11-10.ans:
+    mimetype: text/plain
+  mmc12-01.ans:
+    mimetype: text/plain
+  mmc12-02.ans:
+    mimetype: text/plain
+  mmc12-03.ans:
+    mimetype: text/plain
+  mmc12-04.ans:
+    mimetype: text/plain
+  mmc12-05.ans:
+    mimetype: text/plain
+  mmc12-06.ans:
+    mimetype: text/plain
+  mmc12-07.ans:
+    mimetype: text/plain
+  mmc12-08.ans:
+    mimetype: text/plain
+  mmc12-09.ans:
+    mimetype: text/plain
+  mmc12-10.ans:
+    mimetype: text/plain
+  mmc12-11.ans:
+    mimetype: text/plain
+  mmc12-12.ans:
+    mimetype: text/plain
+  mmc12-13.ans:
+    mimetype: text/plain
+  mmc12-14.ans:
+    mimetype: text/plain
+  mmc13-01.ans:
+    mimetype: text/plain
+  mmc13-02.ans:
+    mimetype: text/plain
+  mmc13-03.ans:
+    mimetype: text/plain
+  mmc13-04.ans:
+    mimetype: text/plain
+  mmc13-05.ans:
+    mimetype: text/plain
+  mmc13-06.ans:
+    mimetype: text/plain
+  mmc13-07.ans:
+    mimetype: text/plain
+  mmc13-08.ans:
+    mimetype: text/plain
+  mmc13-09.ans:
+    mimetype: text/plain
+  mmc13-10.ans:
+    mimetype: text/plain
+  mmc13-11.ans:
+    mimetype: text/plain
+  mmc13-12.ans:
+    mimetype: text/plain
+  mmc13-13.ans:
+    mimetype: text/plain
+  mmc13-14.ans:
+    mimetype: text/plain
+  mmc13-15.ans:
+    mimetype: text/plain
+  mmc13-16.ans:
+    mimetype: text/plain
+  mmc13-17.ans:
+    mimetype: text/plain
+  mmc14-01.ans:
+    mimetype: text/plain
+  mmc14-02.ans:
+    mimetype: text/plain
+  mmc14-03.ans:
+    mimetype: text/plain
+  mmc14-04.ans:
+    mimetype: text/plain
+  mmc14-05.ans:
+    mimetype: text/plain
+  mmc14-06.ans:
+    mimetype: text/plain
+  mmc15-01.ans:
+    mimetype: text/plain
+  mmc15-02.ans:
+    mimetype: text/plain
+  mmc15-03.ans:
+    mimetype: text/plain
+  mmc15-04.ans:
+    mimetype: text/plain
+  mmc15-05.ans:
+    mimetype: text/plain
+  mmc15-06.ans:
+    mimetype: text/plain
+  mmc15-07.ans:
+    mimetype: text/plain
+  mmc15-08.ans:
+    mimetype: text/plain
+  mmc15-09.ans:
+    mimetype: text/plain
+  mmc15-10.ans:
+    mimetype: text/plain
+  mmc15-11.ans:
+    mimetype: text/plain
+  mmc15-12.ans:
+    mimetype: text/plain
+  mmc15-13.ans:
+    mimetype: text/plain
+  mmc15-14.ans:
+    mimetype: text/plain
+  mmc15-15.ans:
+    mimetype: text/plain
+  mmc15-16.ans:
+    mimetype: text/plain
+  mmc15-17.ans:
+    mimetype: text/plain
+  mmc15-18.ans:
+    mimetype: text/plain
+  mmc15-19.ans:
+    mimetype: text/plain
+  mmc16-01.ans:
+    mimetype: text/plain
+  mmc16-02.ans:
+    mimetype: text/plain
+  mmc16-03.ans:
+    mimetype: text/plain
+  mmc16-04.ans:
+    mimetype: text/plain
+  mmc16-05.ans:
+    mimetype: text/plain
+  mmc16-06.ans:
+    mimetype: text/plain
+  mmc16-07.ans:
+    mimetype: text/plain
+  mmc16-08.ans:
+    mimetype: text/plain
+  mmc16-09.ans:
+    mimetype: text/plain
+  mmc16-10.ans:
+    mimetype: text/plain
+  mmc16-11.ans:
+    mimetype: text/plain
+  mmc16-12.ans:
+    mimetype: text/plain
+  mmc16-13.ans:
+    mimetype: text/plain
+  mmc17-01.ans:
+    mimetype: text/plain
+  mmc17-02.ans:
+    mimetype: text/plain
+  mmc17-03.ans:
+    mimetype: text/plain
+  mmc17-04.ans:
+    mimetype: text/plain
+  mmc17-05.ans:
+    mimetype: text/plain
+  mmc17-06.ans:
+    mimetype: text/plain
+  mmc17-07.ans:
+    mimetype: text/plain
+  mmc17-08.ans:
+    mimetype: text/plain
+  mmc17-09.ans:
+    mimetype: text/plain
+  mmc17-10.ans:
+    mimetype: text/plain
+  mmc17-11.ans:
+    mimetype: text/plain
+  mmc17-12.ans:
+    mimetype: text/plain
+  mmc17-13.ans:
+    mimetype: text/plain
+  mmc17-14.ans:
+    mimetype: text/plain
+  mmc17-15.ans:
+    mimetype: text/plain
+  mmc17-16.ans:
+    mimetype: text/plain
+  mmc17-17.ans:
+    mimetype: text/plain
+  mmc17-18.ans:
+    mimetype: text/plain
+  mmc18-01.ans:
+    mimetype: text/plain
+  mmc18-02.ans:
+    mimetype: text/plain
+  mmc18-03.ans:
+    mimetype: text/plain
+  mmc18-04.ans:
+    mimetype: text/plain
+  mmc18-05.ans:
+    mimetype: text/plain
+  mmc18-06.ans:
+    mimetype: text/plain
+  mmc18-07.ans:
+    mimetype: text/plain
+  mmc18-08.ans:
+    mimetype: text/plain
+  mmc18-09.ans:
+    mimetype: text/plain
+  mmc18-10.ans:
+    mimetype: text/plain
+  mmc18-11.ans:
+    mimetype: text/plain
+  mmc18-12.ans:
+    mimetype: text/plain
+  mmc18-13.ans:
+    mimetype: text/plain
+  mmc18-14.ans:
+    mimetype: text/plain
+  mmc18-15.ans:
+    mimetype: text/plain
+  mmc19-01.ans:
+    mimetype: text/plain
+  mmc19-02.ans:
+    mimetype: text/plain
+  mmc19-03.ans:
+    mimetype: text/plain
+  mmc19-04.ans:
+    mimetype: text/plain
+  mmc19-05.ans:
+    mimetype: text/plain
+  mmc19-06.ans:
+    mimetype: text/plain
+  mmc20-01.ans:
+    mimetype: text/plain
+  mmc20-02.ans:
+    mimetype: text/plain
+  mmc20-03.ans:
+    mimetype: text/plain
+  mmc20-04.ans:
+    mimetype: text/plain
+  mmc20-05.ans:
+    mimetype: text/plain
+  mmc20-06.ans:
+    mimetype: text/plain
+  mmc20-07.ans:
+    mimetype: text/plain
+  mmc21-01.ans:
+    mimetype: text/plain
+  mmc21-02.ans:
+    mimetype: text/plain
+  mmc21-03.ans:
+    mimetype: text/plain
+  mmc21-04.ans:
+    mimetype: text/plain
+  mmc21-05.ans:
+    mimetype: text/plain
+  mmc21-06.ans:
+    mimetype: text/plain
+  mmc21-07.ans:
+    mimetype: text/plain
+  mmc21-08.ans:
+    mimetype: text/plain
+  mmc21-09.ans:
+    mimetype: text/plain
+  mmc22-01.ans:
+    mimetype: text/plain
+  mmc22-02.ans:
+    mimetype: text/plain
+  mmc22-03.ans:
+    mimetype: text/plain
+  mmc22-04.ans:
+    mimetype: text/plain
+  mmc22-05.ans:
+    mimetype: text/plain
+  mmc22-06.ans:
+    mimetype: text/plain
+  mmc22-07.ans:
+    mimetype: text/plain
+  mmc23-01.ans:
+    mimetype: text/plain
+  mmc23-02.ans:
+    mimetype: text/plain
+  mmc23-03.ans:
+    mimetype: text/plain
+  mmc24-01.ans:
+    mimetype: text/plain
+  mmc24-02.ans:
+    mimetype: text/plain
+  mmc25-01.ans:
+    mimetype: text/plain
+  mmc25-02.ans:
+    mimetype: text/plain
+  mmc25-03.ans:
+    mimetype: text/plain
+  mmc25-04.ans:
+    mimetype: text/plain
+  mmc25-05.ans:
+    mimetype: text/plain
+  mmc25-06.ans:
+    mimetype: text/plain
+  mmc25-07.ans:
+    mimetype: text/plain
+  mmc25-08.ans:
+    mimetype: text/plain
+  mmc25-09.ans:
+    mimetype: text/plain
+  mmc26-01.ans:
+    mimetype: text/plain
+  mmc26-02.ans:
+    mimetype: text/plain
+  mmc26-03.ans:
+    mimetype: text/plain
+  mmc27-01.ans:
+    mimetype: text/plain
+  mmc27-02.ans:
+    mimetype: text/plain
+  mmc27-03.ans:
+    mimetype: text/plain
+  mmc27-04.ans:
+    mimetype: text/plain
+  mmc27-05.ans:
+    mimetype: text/plain
+  mmc27-06.ans:
+    mimetype: text/plain
+  mmc27-07.ans:
+    mimetype: text/plain
+  mmc28-01.ans:
+    mimetype: text/plain
+  mmc28-02.ans:
+    mimetype: text/plain
+  mmc28-03.ans:
+    mimetype: text/plain
+  mmc28-04.ans:
+    mimetype: text/plain
+  mmc28-05.ans:
+    mimetype: text/plain
+  mmc28-06.ans:
+    mimetype: text/plain
+  mmc28-07.ans:
+    mimetype: text/plain
+  mmc28-08.ans:
+    mimetype: text/plain
+  mmc28-09.ans:
+    mimetype: text/plain
+  mmc28-10.ans:
+    mimetype: text/plain
+  mmc28-11.ans:
+    mimetype: text/plain
+  mmc28-12.ans:
+    mimetype: text/plain
+  mmc28-13.ans:
+    mimetype: text/plain
+  mmc28-14.ans:
+    mimetype: text/plain
+  mmc28-15.ans:
+    mimetype: text/plain
+  mmc28-16.ans:
+    mimetype: text/plain
+  mmc29-01.ans:
+    mimetype: text/plain
+  mmc29-02.ans:
+    mimetype: text/plain
+  mmc29-03.ans:
+    mimetype: text/plain
+  mmc29-04.ans:
+    mimetype: text/plain
+  mmc29-05.ans:
+    mimetype: text/plain
+  mmc29-06.ans:
+    mimetype: text/plain
+  mmc30-01.ans:
+    mimetype: text/plain
+  mmc30-02.ans:
+    mimetype: text/plain
+  mmc30-03.ans:
+    mimetype: text/plain
+  mmc30-04.ans:
+    mimetype: text/plain
+  mmc30-05.ans:
+    mimetype: text/plain
+  mmc30-06.ans:
+    mimetype: text/plain
+  mmc30-07.ans:
+    mimetype: text/plain
+  mmc30-08.ans:
+    mimetype: text/plain

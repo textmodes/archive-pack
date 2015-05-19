@@ -1,0 +1,66 @@
+name: hrg-08.zip
+hash: 4eb54405a9d69bc001ab1b995d4f8356
+year: 1997
+file:
+  '---08---.NFO':
+    mimetype: text/plain
+  DL_VS_RG.GIF:
+    mimetype: image/gif
+  DR-DIES.ANS:
+    mimetype: text/plain
+  DR-JUC.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  HRG.NFO:
+    mimetype: text/plain
+  HRGREG.EXE:
+    mimetype: application/x-msdos-program
+  I_L^#88.ASC:
+    mimetype: text/plain
+  I_L^ACID.ASC:
+    mimetype: text/plain
+  I_L^ASYM.ASC:
+    mimetype: text/plain
+  I_L^GM.ASC:
+    mimetype: text/plain
+  I_L^KISS.ASC:
+    mimetype: text/plain
+  I_L^NEWS.ASC:
+    mimetype: text/plain
+  I_L^PLS.ASC:
+    mimetype: text/plain
+  I_L^VDRL.ASC:
+    mimetype: text/plain
+  I_L^WEEK.ASC:
+    mimetype: text/plain
+  IF-1068A.JPG:
+    mimetype: image/jpeg
+  IF-1068B.JPG:
+    mimetype: image/jpeg
+  IF-ASCII.ASC:
+    mimetype: text/plain
+  IF-HACK4.JPG:
+    mimetype: image/jpeg
+  IF-NZ.ANS:
+    mimetype: text/plain
+  PHL-BLDE.DIZ:
+    mimetype: text/plain
+  PHL-FFMN.ANS:
+    mimetype: text/plain
+  PHL-RLF.ASC:
+    mimetype: text/plain
+  PHL-TOX.ANS:
+    mimetype: text/plain
+  SK-BF.FLC:
+    mimetype: video/x-flc
+  SPRO-EN1.JPG:
+    mimetype: image/jpeg
+  SPRO-EN2.GIF:
+    mimetype: image/gif
+  SPRO-HAD.JPG:
+    mimetype: image/jpeg
+  SPRO-HCD.JPG:
+    mimetype: image/jpeg
+  SPRO-HMD.JPG:
+    mimetype: image/jpeg

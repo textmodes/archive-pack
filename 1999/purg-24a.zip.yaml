@@ -1,0 +1,78 @@
+name: purg-24a.zip
+hash: f5eeca6846fab23bedec53c75948e6c4
+year: 1999
+file:
+  APP-DOS.EXE:
+    mimetype: application/x-msdos-program
+  APP-WIN.ZIP:
+    mimetype: application/zip
+  DD-DRGAV.ANS:
+    mimetype: text/plain
+  DD-TEK.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GRM-NXUS.ASC:
+    mimetype: text/plain
+  GRM-WERD.ASC:
+    mimetype: text/plain
+  JD-DS.ASC:
+    mimetype: text/plain
+  JD-THINK.ASC:
+    mimetype: text/plain
+  MR-COL24.ANS:
+    mimetype: text/plain
+  MR-MERGE.ANS:
+    mimetype: text/plain
+  NM-FUX0R.ASC:
+    mimetype: text/plain
+  NM-THOM.ANS:
+    mimetype: text/plain
+  RG-CIA.ANS:
+    mimetype: text/plain
+  SRT-CD.ASC:
+    mimetype: text/plain
+  SRT-DF.ASC:
+    mimetype: text/plain
+  SRT-ECL.ASC:
+    mimetype: text/plain
+  SRT-GS1.ASC:
+    mimetype: text/plain
+  SRT-HAFQ.ASC:
+    mimetype: text/plain
+  SRT-ILLU.ASC:
+    mimetype: text/plain
+  SRT-KN.ASC:
+    mimetype: text/plain
+  SRT-LX1.ASC:
+    mimetype: text/plain
+  SRT-LX2.ASC:
+    mimetype: text/plain
+  SRT-RLX.ASC:
+    mimetype: text/plain
+  SRT-SHX.ASC:
+    mimetype: text/plain
+  SRT-SP.ASC:
+    mimetype: text/plain
+  SRT-SPED.ASC:
+    mimetype: text/plain
+  SRT-WZ.ASC:
+    mimetype: text/plain
+  TA!ELPH.ASC:
+    mimetype: text/plain
+  TR-GZA.ASC:
+    mimetype: text/plain
+  US-JNT.ANS:
+    mimetype: text/plain
+  US-SOUP.ANS:
+    mimetype: text/plain
+  ZB-COL24.ASC:
+    mimetype: text/plain
+  ZV-PURG.GST:
+    mimetype: text/plain
+  plgo-act.024:
+    mimetype: application/octet-stream
+  plgo-mem.024:
+    mimetype: text/plain
+  plgo-nfo.024:
+    mimetype: application/octet-stream

@@ -1,0 +1,176 @@
+name: rmrs-02.zip
+hash: a1c37c05fcc2e77bf1f4ba2c183f8423
+year: 1994
+file:
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  HP-ABY1.ANS:
+    mimetype: text/plain
+  HP-BIAB1.ASC:
+    mimetype: text/plain
+  HP-CUR1.ASC:
+    mimetype: text/plain
+  HP-CUR2.ASC:
+    mimetype: text/plain
+  HP-HINC1.ASC:
+    mimetype: text/plain
+  HP-IUM1.DIZ:
+    mimetype: text/plain
+  HP-KLF1.DIZ:
+    mimetype: text/plain
+  HP-KTS1.DIZ:
+    mimetype: text/plain
+  HP-ML6.ASC:
+    mimetype: text/plain
+  HP-QP1.ASC:
+    mimetype: text/plain
+  HP-QP1.DIZ:
+    mimetype: text/plain
+  HP-REQ.TXT:
+    mimetype: text/plain
+  HP-REV1.DIZ:
+    mimetype: text/plain
+  HP-REV2.DIZ:
+    mimetype: text/plain
+  HP-REV3.DIZ:
+    mimetype: text/plain
+  HP-RLT1.DIZ:
+    mimetype: text/plain
+  HP-RMRS1.ASC:
+    mimetype: text/plain
+  HP-RVGD1.ASC:
+    mimetype: text/plain
+  HP-SAMS1.ASC:
+    mimetype: text/plain
+  HP-SOE1.ASC:
+    mimetype: text/plain
+  HP-SS2.ASC:
+    mimetype: text/plain
+  HP-TDOM1.ASC:
+    mimetype: text/plain
+  HP-TST3.ASC:
+    mimetype: text/plain
+  HP-UNI1.ASC:
+    mimetype: text/plain
+  HP-UNI2.ASC:
+    mimetype: text/plain
+  HP-WBX1.ASC:
+    mimetype: text/plain
+  MP-DOD2.DIZ:
+    mimetype: text/plain
+  MP-DOD3.DIZ:
+    mimetype: text/plain
+  MP-DR1.ASC:
+    mimetype: text/plain
+  MP-LD1.ASC:
+    mimetype: text/plain
+  MP-QP1.ASC:
+    mimetype: text/plain
+  MP-RAW1.DIZ:
+    mimetype: text/plain
+  MP-RGD1.DIZ:
+    mimetype: text/plain
+  MP-RGD2.DIZ:
+    mimetype: text/plain
+  MP-RGD3.DIZ:
+    mimetype: text/plain
+  MP-RGD4.DIZ:
+    mimetype: text/plain
+  MP-SHV1.DIZ:
+    mimetype: text/plain
+  MP-SOE1.DIZ:
+    mimetype: text/plain
+  MP-TAP1.DIZ:
+    mimetype: text/plain
+  NM-BILLY.ASC:
+    mimetype: text/plain
+  NM-BSTRD.ASC:
+    mimetype: text/plain
+  NM-ELSM.ASC:
+    mimetype: text/plain
+  NM-EMDI.ASC:
+    mimetype: text/plain
+  NM-FATE.ASC:
+    mimetype: text/plain
+  NM-FB.ASC:
+    mimetype: text/plain
+  NM-JESSE.ASC:
+    mimetype: text/plain
+  NM-MD.ASC:
+    mimetype: text/plain
+  NM-RMRS.ASC:
+    mimetype: text/plain
+  NM-RZR.ASC:
+    mimetype: text/plain
+  NM-SOD.ASC:
+    mimetype: text/plain
+  NM-SOE.ASC:
+    mimetype: text/plain
+  NM-TDS.ASC:
+    mimetype: text/plain
+  NM-XWING.ASC:
+    mimetype: text/plain
+  NM-XWNG2.ASC:
+    mimetype: text/plain
+  OG-NL.ASC:
+    mimetype: text/plain
+  OM-DMK1.DIZ:
+    mimetype: text/plain
+  OM-DMK2.DIZ:
+    mimetype: text/plain
+  OM-MLTD1.ASC:
+    mimetype: text/plain
+  OM-TRN1.ASC:
+    mimetype: text/plain
+  OM-TUG1.ASC:
+    mimetype: text/plain
+  PX-NOK.ASC:
+    mimetype: text/plain
+  REMORSE.NFO:
+    mimetype: text/plain
+  SS-REM.DIZ:
+    mimetype: text/plain
+  T2-IRC.ASC:
+    mimetype: text/plain
+  T2-MD.ASC:
+    mimetype: text/plain
+  T2-REM2.ASC:
+    mimetype: text/plain
+  T2-REV.ASC:
+    mimetype: text/plain
+  WD-ACDC.ASC:
+    mimetype: text/plain
+  WD-DIZ.ASC:
+    mimetype: text/plain
+  WD-FST.ASC:
+    mimetype: text/plain
+  WD-HMOON.ASC:
+    mimetype: text/plain
+  WD-NH.ASC:
+    mimetype: text/plain
+  WD-PM.ASC:
+    mimetype: text/plain
+  WD-RGC1.ASC:
+    mimetype: text/plain
+  WD-RGC2.ASC:
+    mimetype: text/plain
+  WD-RMRS.ANS:
+    mimetype: text/plain
+  WD-RMRS.ASC:
+    mimetype: text/plain
+  WD-TF.ASC:
+    mimetype: text/plain
+  WD-TOS.ANS:
+    mimetype: text/plain
+  WD-UNF.ASC:
+    mimetype: text/plain
+  ZH-PR1.ASC:
+    mimetype: text/plain
+  ZH-PROD.ASC:
+    mimetype: text/plain
+  ZH-RMRS1.ASC:
+    mimetype: text/plain
+  ZH-RMRS2.ASC:
+    mimetype: text/plain
+  ZH-TSE1.ASC:
+    mimetype: text/plain

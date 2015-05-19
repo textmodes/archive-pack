@@ -1,0 +1,14 @@
+name: k-endorp.zip
+hash: 21de50a7a109d501fcb939e702e97c9c
+year: 1997
+file:
+  '@ABOUT.ASC':
+    mimetype: text/plain
+  '@SUNRISE.ANS':
+    mimetype: text/plain
+  ^SUNSET.ANS:
+    mimetype: text/plain
+  DORADISE.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain

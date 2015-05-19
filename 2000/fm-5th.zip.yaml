@@ -1,0 +1,16 @@
+name: fm-5th.zip
+hash: 58c88186b81a25118b390c1d59e80d6e
+year: 2000
+file:
+  '!!popcorn.jpg':
+    mimetype: image/jpeg
+  CONTENTS.TXT:
+    mimetype: text/plain
+  FM-#05.ANS:
+    mimetype: text/plain
+  FUCK_ID.BAK:
+    mimetype: text/plain
+  FUCK_ID.DIZ:
+    mimetype: text/plain
+  RV.EXE:
+    mimetype: application/x-msdos-program

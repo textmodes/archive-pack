@@ -1,0 +1,26 @@
+name: fwch_02.zip
+hash: b1b20f46a32a8b54d091f10aa11f0712
+year: 1997
+file:
+  FETTARSC.JPG:
+    mimetype: image/jpeg
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FWCH-02.NFO:
+    mimetype: text/plain
+  FWCH-SCH.ASC:
+    mimetype: text/plain
+  HELLFUCK:
+    mimetype: text/plain
+  ICHKOCHD.ICH:
+    mimetype: text/plain
+  LO'PROF.ILE:
+    mimetype: text/plain
+  PENNDICH.EXE:
+    mimetype: application/x-msdos-program
+  README.TXT:
+    mimetype: text/plain
+  RUBICON:
+    mimetype: text/plain
+  THY-NINJ.ANS:
+    mimetype: text/plain

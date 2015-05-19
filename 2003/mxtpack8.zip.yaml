@@ -1,0 +1,66 @@
+name: mxtpack8.zip
+hash: d896f2df698e79423abc22297958bf72
+year: 2003
+file:
+  ASCII/MXT-ALS.ASC:
+    mimetype: text/plain
+  ASCII/MXT-APPL.ASC:
+    mimetype: text/plain
+  ASCII/MXT-CN1.ASC:
+    mimetype: text/plain
+  ASCII/MXT-CRC.ASC:
+    mimetype: text/plain
+  ASCII/MXT-CRL.ASC:
+    mimetype: text/plain
+  ASCII/MXT-DCL.ASC:
+    mimetype: text/plain
+  ASCII/MXT-DVDF.ASC:
+    mimetype: text/plain
+  ASCII/MXT-EFT.ASC:
+    mimetype: text/plain
+  ASCII/MXT-EKL.ASC:
+    mimetype: text/plain
+  ASCII/MXT-EXL.ASC:
+    mimetype: text/plain
+  ASCII/MXT-GMG.ASC:
+    mimetype: text/plain
+  ASCII/MXT-H.ASC:
+    mimetype: text/plain
+  ASCII/MXT-PTV.ASC:
+    mimetype: text/plain
+  ASCII/MXT-REV.ASC:
+    mimetype: text/plain
+  ASCII/MXT-SMF.ASC:
+    mimetype: text/plain
+  ASCII/MXT-SOL.ASC:
+    mimetype: text/plain
+  ASCII/MXT-SOM.ASC:
+    mimetype: text/plain
+  ASCII/MXT-SVEN.ASC:
+    mimetype: text/plain
+  ASCII/MXT-TTV.ASC:
+    mimetype: text/plain
+  HIREZ/mxt-big-heart.jpg:
+    mimetype: image/jpeg
+  HIREZ/mxt-core-wallpapper.jpg:
+    mimetype: image/jpeg
+  HIREZ/mxt-cro-wallpapper-blue.jpg:
+    mimetype: image/jpeg
+  HIREZ/mxt-cro-wallpapper-green.jpg:
+    mimetype: image/jpeg
+  HIREZ/mxt-dbrain-tsrh-logo.gif:
+    mimetype: image/gif
+  HIREZ/mxt-dedicated-to-hecate.jpg:
+    mimetype: image/jpeg
+  HIREZ/mxt-infection-keygen.gif:
+    mimetype: image/gif
+  HIREZ/mxt-logo-for-site.gif:
+    mimetype: image/gif
+  HIREZ/mxt-majestic-logo.gif:
+    mimetype: image/gif
+  HIREZ/mxt-neoman-birthday.gif:
+    mimetype: image/gif
+  HIREZ/mxt-unknown-pic-for-cro.jpg:
+    mimetype: image/jpeg
+  MAXXTRO.NFO:
+    mimetype: text/plain

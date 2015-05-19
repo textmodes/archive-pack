@@ -1,0 +1,12 @@
+name: modshl20.zip
+hash: 2be99dbee56d7e9f4a7bf951861b77c1
+year: 1994
+file:
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  INSTALL.EXE:
+    mimetype: application/x-msdos-program
+  MODSHEL.TXT:
+    mimetype: text/plain
+  NEOTOKYO.ANS:
+    mimetype: text/plain

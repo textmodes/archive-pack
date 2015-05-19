@@ -1,0 +1,104 @@
+name: purg-01.zip
+hash: ec0b535ea4e950a3dfd97c28f56ac655
+year: 1996
+file:
+  BM-INFO.ZIP:
+    mimetype: application/zip
+  BM-LOGIN.ZIP:
+    mimetype: application/zip
+  BM-NEWU.ZIP:
+    mimetype: application/zip
+  BM-TBANK.ZIP:
+    mimetype: application/zip
+  DB-LS.LIT:
+    mimetype: text/plain
+  DB-MT.LIT:
+    mimetype: text/plain
+  DESERT.NFO:
+    mimetype: text/plain
+  DP-PURG.ANS:
+    mimetype: text/plain
+  DP-RIGOR.ANS:
+    mimetype: text/plain
+  FB-CHAT.ZIP:
+    mimetype: application/zip
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  HB-CHAT.ZIP:
+    mimetype: application/zip
+  HB-DR.ANS:
+    mimetype: text/plain
+  HB-MTRX.ZIP:
+    mimetype: application/zip
+  HB-PURG.ASC:
+    mimetype: text/plain
+  HB-TTRS.ANS:
+    mimetype: text/plain
+  MEMBERZ.LST:
+    mimetype: text/plain
+  PDANET.NFO:
+    mimetype: text/plain
+  PRGAPP11.ZIP:
+    mimetype: application/zip
+  PURG0196.NFO:
+    mimetype: text/plain
+  TGT-PURG.PCX:
+    mimetype: image/pcx
+  TGT-TRR.PCX:
+    mimetype: image/pcx
+  TR-AV.ANS:
+    mimetype: text/plain
+  TR-BLIST.ZIP:
+    mimetype: application/zip
+  TR-COLLY.ANS:
+    mimetype: text/plain
+  TR-CW.ANS:
+    mimetype: text/plain
+  TR-DR.ANS:
+    mimetype: text/plain
+  TR-DR2.ANS:
+    mimetype: text/plain
+  TR-FNS.ZIP:
+    mimetype: application/zip
+  TR-FSCAN.ZIP:
+    mimetype: application/zip
+  TR-FUS.ANS:
+    mimetype: text/plain
+  TR-INIQ.ANS:
+    mimetype: text/plain
+  TR-INIQ.ZIP:
+    mimetype: application/zip
+  TR-IUND.ANS:
+    mimetype: text/plain
+  TR-IUND1.ANS:
+    mimetype: text/plain
+  TR-LC.ZIP:
+    mimetype: application/zip
+  TR-MATRX.ZIP:
+    mimetype: application/zip
+  TR-MSCAN.ZIP:
+    mimetype: application/zip
+  TR-MTRX.ZIP:
+    mimetype: application/zip
+  TR-PDA.ANS:
+    mimetype: text/plain
+  TR-PURG.ANS:
+    mimetype: text/plain
+  TR-SG.ANS:
+    mimetype: text/plain
+  TR-SUBV.ANS:
+    mimetype: text/plain
+  TR-TRR.ANS:
+    mimetype: text/plain
+  TR-TRR1.ANS:
+    mimetype: text/plain
+  TR-TRRAD.RIP:
+    mimetype: image/x-rip
+  TR-TV.ANS:
+    mimetype: text/plain
+  TR-TVOY.RIP:
+    mimetype: image/x-rip
+  TRR.ANS:
+    mimetype: text/plain
+  VP-THHT.LIT:
+    mimetype: text/plain

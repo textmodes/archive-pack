@@ -1,0 +1,52 @@
+name: hazmat01.zip
+hash: b21ed87fc2f8b82261d54619c94bedf2
+year: 1998
+file:
+  !!binary xEFTQ0lJxMQuxMTE:
+    mimetype: text/plain
+  !!binary xEhBWk1BVMQuxMTE:
+    mimetype: text/plain
+  CT-COLLY.ASC:
+    mimetype: text/plain
+  DJL-IKND.ANS:
+    mimetype: text/plain
+  DJL-JWCE.ANS:
+    mimetype: text/plain
+  DJL-ORBT.ANS:
+    mimetype: text/plain
+  DRM-CIA.ASC:
+    mimetype: text/plain
+  DRM-DP.ASC:
+    mimetype: text/plain
+  DRM-GOO.ASC:
+    mimetype: text/plain
+  DRM-SS.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FO-CHAT.ASC:
+    mimetype: text/plain
+  FO-MAD.ASC:
+    mimetype: text/plain
+  HAZMAT.NFO:
+    mimetype: text/plain
+  JP-COL13.ASC:
+    mimetype: text/plain
+  MG-COLLY.ASC:
+    mimetype: text/plain
+  MP-NVL.ANS:
+    mimetype: text/plain
+  MP-PWA.ANS:
+    mimetype: text/plain
+  MP-SYSFR.ANS:
+    mimetype: text/plain
+  RP-MF.ASC:
+    mimetype: text/plain
+  RP-SIL.ASC:
+    mimetype: text/plain
+  TD-CIA!.ASC:
+    mimetype: text/plain
+  US-CRSP1.ASC:
+    mimetype: text/plain
+  US-HZT.ASC:
+    mimetype: text/plain

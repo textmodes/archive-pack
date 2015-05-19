@@ -1,0 +1,34 @@
+name: axss-002.zip
+hash: 06619d4e4b28c61b97b4e3742bca9e3c
+year: 1997
+file:
+  $H-CARLO.ANS:
+    mimetype: text/plain
+  $H-GAL03.ANS:
+    mimetype: text/plain
+  $H-GAL04.ANS:
+    mimetype: text/plain
+  $H-LEAF.ANS:
+    mimetype: text/plain
+  $H-MAIL1.ANS:
+    mimetype: text/plain
+  $H-MUTE.MDZ:
+    mimetype: text/plain
+  $H-MUTE.XM:
+    mimetype: audio/x-mod
+  $H-POEM2.ANS:
+    mimetype: text/plain
+  3O3!T0F4.LSD:
+    mimetype: text/plain
+  3O3WORLD.EXE:
+    mimetype: application/x-msdos-program
+  AXSS-002.MEM:
+    mimetype: text/plain
+  AXSS-002.MSC:
+    mimetype: text/plain
+  AXSS-002.NWS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  TZ&MV_1.ANS:
+    mimetype: text/plain

@@ -1,0 +1,46 @@
+name: gel-009.zip
+hash: 34b7ba55cf4218564bbb9d0b617be699
+year: 1997
+file:
+  D5-DP.ANS:
+    mimetype: text/plain
+  D5-EMCIT.ANS:
+    mimetype: text/plain
+  D5-INC.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GEL-009.MEM:
+    mimetype: text/plain
+  GEL-009.NFO:
+    mimetype: text/plain
+  GELVIEW.EXE:
+    mimetype: application/x-msdos-program
+  HS-AMN.ANS:
+    mimetype: text/plain
+  HS-CD1.ANS:
+    mimetype: text/plain
+  HS-PHAT1.ANS:
+    mimetype: text/plain
+  HS-TNC.ANS:
+    mimetype: text/plain
+  TG-CD.ANS:
+    mimetype: text/plain
+  TG-INSO.ANS:
+    mimetype: text/plain
+  TG-KABOM.ANS:
+    mimetype: text/plain
+  TG-MAIL.ANS:
+    mimetype: text/plain
+  TG-MATRI.ANS:
+    mimetype: text/plain
+  TG-MENU.ANS:
+    mimetype: text/plain
+  TG-PHAT.DIZ:
+    mimetype: text/plain
+  TG-TONIC.ANS:
+    mimetype: text/plain
+  TG-WWW.ANS:
+    mimetype: text/plain
+  US-INC.ANS:
+    mimetype: text/plain

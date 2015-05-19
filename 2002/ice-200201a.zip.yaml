@@ -1,0 +1,24 @@
+name: ice-200201a.zip
+hash: 0e8dd38004cad0cd927fe49402a90ef5
+year: 2002
+file:
+  _ansi___.___:
+    mimetype: text/plain
+  _cont'd_.___:
+    mimetype: text/plain
+  _stat___.___:
+    mimetype: text/plain
+  ice-0201.dsc:
+    mimetype: text/plain
+  ice-0201.nfo:
+    mimetype: text/plain
+  iceview.cnf:
+    mimetype: text/plain
+  iceview.doc:
+    mimetype: text/plain
+  iceview.exe:
+    mimetype: application/x-msdos-program
+  mi-frank.ice:
+    mimetype: text/plain
+  ti-bt.ice:
+    mimetype: text/plain

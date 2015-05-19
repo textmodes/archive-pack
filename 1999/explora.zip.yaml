@@ -1,0 +1,10 @@
+name: explora.zip
+hash: 4636b9e69c9a029388d24b9464b62277
+year: 1999
+file:
+  EXPLORA.MP3:
+    mimetype: audio/mpeg
+  EXPLORA.TXT:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain

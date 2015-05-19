@@ -1,0 +1,14 @@
+name: wx-028.zip
+hash: 3bb52a05ca6db39be72dbd712f47264d
+year: 1998
+file:
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  MONTANA.FAT:
+    mimetype: text/plain
+  PHEW.JPG:
+    mimetype: image/jpeg
+  WX.APP:
+    mimetype: application/octet-stream
+  WX.NFO:
+    mimetype: text/plain

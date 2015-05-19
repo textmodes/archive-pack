@@ -1,0 +1,74 @@
+name: rmrs-25.zip
+hash: 520b882a289593faa28a2ef8693c2093
+year: 1998
+file:
+  74-cf.asc:
+    mimetype: text/plain
+  74-col.ans:
+    mimetype: text/plain
+  74-drone.ans:
+    mimetype: text/plain
+  74-dz.ans:
+    mimetype: text/plain
+  74-guttr.asc:
+    mimetype: text/plain
+  74-hero.asc:
+    mimetype: text/plain
+  74-pen.bin:
+    mimetype: application/octet-stream
+  74-qa.ans:
+    mimetype: text/plain
+  ack-nor1.asc:
+    mimetype: text/plain
+  bd-pone.asc:
+    mimetype: text/plain
+  c4-aelt.asc:
+    mimetype: text/plain
+  c4-col.asc:
+    mimetype: text/plain
+  c4-gin.asc:
+    mimetype: text/plain
+  c4-hol.asc:
+    mimetype: text/plain
+  ch-cybr.ans:
+    mimetype: text/plain
+  ew-rem.asc:
+    mimetype: text/plain
+  ew-xfile.asc:
+    mimetype: text/plain
+  hp-ee.asc:
+    mimetype: text/plain
+  hs-amis.ans:
+    mimetype: text/plain
+  hs-eyes.ans:
+    mimetype: text/plain
+  hs-m3.ans:
+    mimetype: text/plain
+  hs-maleb.ans:
+    mimetype: text/plain
+  hs-nmanc.ans:
+    mimetype: text/plain
+  hs-spawn.ans:
+    mimetype: text/plain
+  hs-spwn2.ans:
+    mimetype: text/plain
+  ma-odcol.asc:
+    mimetype: text/plain
+  nl-face1.asc:
+    mimetype: text/plain
+  nl-jim1.asc:
+    mimetype: text/plain
+  nl-jim2.asc:
+    mimetype: text/plain
+  nm-rmrs.asc:
+    mimetype: text/plain
+  par-glu.ans:
+    mimetype: text/plain
+  remorse.nfo:
+    mimetype: text/plain
+  tum-2.ans:
+    mimetype: text/plain
+  wh-inp.asc:
+    mimetype: text/plain
+  zh-lynx.asc:
+    mimetype: text/plain

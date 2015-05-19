@@ -1,0 +1,10 @@
+name: icevga.zip
+hash: 0dbd95b269f5bb4e5eb388e3aa4546a1
+year: 1993
+file:
+  -RUNME.COM:
+    mimetype: application/x-msdos-program
+  ICE.DAT:
+    mimetype: audio/x-mod
+  ICE.EXE:
+    mimetype: application/x-msdos-program

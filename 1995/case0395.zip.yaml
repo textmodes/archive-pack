@@ -1,0 +1,48 @@
+name: case0395.zip
+hash: 38e8dbc138b204abb680ab6918a9db32
+year: 1995
+file:
+  CASE-APP.ZIP:
+    mimetype: application/zip
+  CASE0395.NFO:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GR-CASE.ANS:
+    mimetype: text/plain
+  GR-CASE.DIZ:
+    mimetype: text/plain
+  GR-CP1.ASC:
+    mimetype: text/plain
+  SE-QUME.EXE:
+    mimetype: application/x-msdos-program
+  SE-RAD.EXE:
+    mimetype: application/x-msdos-program
+  SE-RAD1.COM:
+    mimetype: application/x-msdos-program
+  SS-5UNCW.MOD:
+    mimetype: audio/x-mod
+  SS-CAS95.MOD:
+    mimetype: audio/x-mod
+  SS-CASE.DIZ:
+    mimetype: text/plain
+  SS-IHELL.MOD:
+    mimetype: audio/x-mod
+  SS-KILLN.MOD:
+    mimetype: audio/x-mod
+  SS-MTRXM.ZIP:
+    mimetype: application/zip
+  TR-CP1.ANS:
+    mimetype: text/plain
+  TR-DIGI1.ANS:
+    mimetype: text/plain
+  TR-DIGI2.ANS:
+    mimetype: text/plain
+  TR-INFI1.ANS:
+    mimetype: text/plain
+  TR-INFI2.ANS:
+    mimetype: text/plain
+  TR-INFI3.ANS:
+    mimetype: text/plain
+  TR-THD1.ANS:
+    mimetype: text/plain

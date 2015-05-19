@@ -1,0 +1,38 @@
+name: iph-001.zip
+hash: 971e0e4f12afb82ceabaed1b5f2d7bfc
+year: 1998
+file:
+  !!binary 41I4XzRBTEwuTkZP:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  IPH-AXX.ANS:
+    mimetype: text/plain
+  IPH-BP.ASC:
+    mimetype: text/plain
+  IPH-BSTD.ANS:
+    mimetype: text/plain
+  IPH-GB.ANS:
+    mimetype: text/plain
+  IPH-INFO.ANS:
+    mimetype: text/plain
+  IPH-IPH.ASC:
+    mimetype: text/plain
+  IPH-LMR.ANS:
+    mimetype: text/plain
+  IPH-LOGO.ANS:
+    mimetype: text/plain
+  IPH-RA.ASC:
+    mimetype: text/plain
+  IPH-RIPP.ASC:
+    mimetype: text/plain
+  IPH-SPAC.ASC:
+    mimetype: text/plain
+  IPH-TRD.ANS:
+    mimetype: text/plain
+  IPH-VOD.ANS:
+    mimetype: text/plain
+  IPH-VOD.ASC:
+    mimetype: text/plain
+  IPH-VOD1.ANS:
+    mimetype: text/plain

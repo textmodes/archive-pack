@@ -1,0 +1,20 @@
+name: crs-col.zip
+hash: b70ab2b2331017000c73cdfd01155086
+year: 2002
+file:
+  CRS-BLU.ANS:
+    mimetype: text/plain
+  CRS-GRE.ANS:
+    mimetype: text/plain
+  CRS-GREY.ANS:
+    mimetype: text/plain
+  CRS-MAG.ANS:
+    mimetype: text/plain
+  CRS-RED.ANS:
+    mimetype: text/plain
+  CRS-WHIT.ANS:
+    mimetype: text/plain
+  CRS-YELO.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain

@@ -1,0 +1,22 @@
+name: xmm120.zip
+hash: 51cc3e5829b0e42d474120e667692d5a
+year: 1994
+file:
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FILES.TXT:
+    mimetype: text/plain
+  HARDCODE.NFO:
+    mimetype: text/plain
+  MIKMOD43.ARJ:
+    mimetype: application/x-arj
+  MODFORM.TXT:
+    mimetype: text/plain
+  NEOTOKYO.ANS:
+    mimetype: text/plain
+  XMM.DOC:
+    mimetype: text/plain
+  XMM.EXE:
+    mimetype: application/x-msdos-program
+  XMM.REV:
+    mimetype: text/plain

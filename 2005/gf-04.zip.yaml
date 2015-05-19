@@ -1,0 +1,70 @@
+name: gf-04.zip
+hash: 22bf96c34e4a2d574d88b0a9dafa22de
+year: 2005
+file:
+  Ascii/gf-NG.asc:
+    mimetype: text/plain
+  Ascii/gf-PDAt.asc:
+    mimetype: text/plain
+  Ascii/gf-cc'05.asc:
+    mimetype: text/plain
+  Ascii/gf-crude.nfo:
+    mimetype: text/plain
+  Ascii/gf-dmca.diz:
+    mimetype: text/plain
+  Ascii/gf-dmca.nfo:
+    mimetype: text/plain
+  Ascii/gf-htb.diz:
+    mimetype: text/plain
+  Ascii/gf-htb.nfo:
+    mimetype: text/plain
+  Ascii/gf-jeee.asc:
+    mimetype: text/plain
+  Ascii/gf-memph.asc:
+    mimetype: text/plain
+  Ascii/gf-mnk.asc:
+    mimetype: text/plain
+  Ascii/gf-mp2k5.nfo:
+    mimetype: text/plain
+  Ascii/gf-music.asc:
+    mimetype: text/plain
+  Ascii/gf-mx.diz:
+    mimetype: text/plain
+  Ascii/gf-nfox.nfo:
+    mimetype: text/plain
+  Ascii/gf-rock.asc:
+    mimetype: text/plain
+  Ascii/gf-sars.asc:
+    mimetype: text/plain
+  Ascii/gf-scene.asc:
+    mimetype: text/plain
+  Ascii/gf-soc.nfo:
+    mimetype: text/plain
+  Ascii/gf-ufcio.nfo:
+    mimetype: text/plain
+  File_id.diz:
+    mimetype: text/plain
+  GF.nfo:
+    mimetype: text/plain
+  Hirez/gf-SLV.logo.blue.jpg:
+    mimetype: image/jpeg
+  Hirez/gf-SLV.logo.green.jpg:
+    mimetype: image/jpeg
+  Hirez/gf-SLV.logo.red.jpg:
+    mimetype: image/jpeg
+  Hirez/gf-TUHEA.logo.jpg:
+    mimetype: image/jpeg
+  Hirez/gf-bkslash.logo.jpg:
+    mimetype: image/jpeg
+  Hirez/gf-crude.logo.blue.jpg:
+    mimetype: image/jpeg
+  Hirez/gf-crude.logo.green.jpg:
+    mimetype: image/jpeg
+  Hirez/gf-crude.logo.jpg:
+    mimetype: image/jpeg
+  Hirez/gf-crude.logo.orange.jpg:
+    mimetype: image/jpeg
+  Hirez/gf-klaus.logo.jpg:
+    mimetype: image/jpeg
+  Hirez/gf-well.patch.template.jpg:
+    mimetype: image/jpeg

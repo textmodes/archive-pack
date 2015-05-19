@@ -1,0 +1,128 @@
+name: ImmortalSyndicateCollection.zip
+hash: c9141c06400c2a19e2ae5e656d9c59cb
+year: 2015
+file:
+  IS-SMPL1/BASS.WAV:
+    mimetype: audio/x-wav
+  IS-SMPL1/CLAP2.WAV:
+    mimetype: audio/x-wav
+  IS-SMPL1/CLAV.WAV:
+    mimetype: audio/x-wav
+  IS-SMPL1/COWBL2.WAV:
+    mimetype: audio/x-wav
+  IS-SMPL1/CRASH.WAV:
+    mimetype: audio/x-wav
+  IS-SMPL1/EPNOMIX.WAV:
+    mimetype: audio/x-wav
+  IS-SMPL1/FILE_ID.DIZ:
+    mimetype: text/plain
+  IS-SMPL1/HATCLOS3.WAV:
+    mimetype: audio/x-wav
+  IS-SMPL1/HATOPEN3.WAV:
+    mimetype: audio/x-wav
+  IS-SMPL1/KALIMBA.WAV:
+    mimetype: audio/x-wav
+  IS-SMPL1/KICKER.WAV:
+    mimetype: audio/x-wav
+  IS-SMPL1/README.TXT:
+    mimetype: text/plain
+  IS-SMPL1/SHAKER.WAV:
+    mimetype: audio/x-wav
+  IS-SMPL1/SITAR.WAV:
+    mimetype: audio/x-wav
+  IS-SMPL1/SNR.WAV:
+    mimetype: audio/x-wav
+  IS-SMPL1/STRNGPNO.WAV:
+    mimetype: audio/x-wav
+  IS-SMPL1/TOM2B.WAV:
+    mimetype: audio/x-wav
+  IS-SMPL1/TRUMP.WAV:
+    mimetype: audio/x-wav
+  Six Pack/FILE_ID.DIZ:
+    mimetype: text/plain
+  Six Pack/ISINFO31.NFO:
+    mimetype: text/plain
+  Six Pack/P3-BUTHD.S3M:
+    mimetype: audio/x-mod
+  Six Pack/P3-LASIE.S3M:
+    mimetype: audio/x-mod
+  Six Pack/P3-SGUIT.S3M:
+    mimetype: audio/x-mod
+  Six Pack/P3-SNAPP.S3M:
+    mimetype: audio/x-mod
+  Six Pack/P3-TRIAD.S3M:
+    mimetype: audio/x-mod
+  Six Pack/P3-VBONG.S3M:
+    mimetype: audio/x-mod
+  Six Pack/SIX_PACK.DOC:
+    mimetype: text/plain
+  Six Pack/SIX_PACK.EXE:
+    mimetype: application/x-msdos-program
+  cfest94/CFEST94.EXE:
+    mimetype: application/x-msdos-program
+  cfest94/CFEST94.TXT:
+    mimetype: text/plain
+  cfest94/DATA.001:
+    mimetype: application/octet-stream
+  cfest94/DATA.002:
+    mimetype: application/octet-stream
+  cfest94/DATA.003:
+    mimetype: application/octet-stream
+  cfest94/FILE_ID.DIZ:
+    mimetype: text/plain
+  cfest94/README.TXT:
+    mimetype: text/plain
+  dirt_balls.mod:
+    mimetype: audio/x-mod
+  file_id.diz:
+    mimetype: text/plain
+  isinfo.ans:
+    mimetype: text/plain
+  loader20/FILE_ID.DIZ:
+    mimetype: text/plain
+  loader20/LOADER.COM:
+    mimetype: application/x-msdos-program
+  loader20/README.TXT:
+    mimetype: text/plain
+  loader20/isad2src/DEFIANCE.NFO:
+    mimetype: text/plain
+  loader20/isad2src/FILE_ID.DIZ:
+    mimetype: text/plain
+  loader20/isad2src/LOADER.ASM:
+    mimetype: text/plain
+  loader20/isad2src/LOADER.COM:
+    mimetype: application/x-msdos-program
+  loader20/isad2src/MAKEAD2.BAT:
+    mimetype: application/x-msdos-program
+  loader20/isad2src/README.TXT:
+    mimetype: text/plain
+  pentium/FILE_ID.DIZ:
+    mimetype: text/plain
+  pentium/ISINFO10.TXT:
+    mimetype: text/plain
+  pentium/LOADER.DOC:
+    mimetype: text/plain
+  pentium/MUSIC.001:
+    mimetype: audio/x-mod
+  pentium/PENTIUM.EXE:
+    mimetype: application/x-msdos-program
+  quiktro/FILE_ID.DIZ:
+    mimetype: text/plain
+  quiktro/ISINFO20.TXT:
+    mimetype: text/plain
+  quiktro/QUIKTRO.1ST:
+    mimetype: text/plain
+  quiktro/QUIKTRO.CFG:
+    mimetype: application/octet-stream
+  quiktro/QUIKTRO.EXE:
+    mimetype: application/x-msdos-program
+  quiktro/QUIKTRO.IS:
+    mimetype: text/plain
+  serenity/FILE_ID.DIZ:
+    mimetype: text/plain
+  serenity/SERENITY.DAT:
+    mimetype: audio/x-mod
+  serenity/SERENITY.EXE:
+    mimetype: application/x-msdos-program
+  serenity/SERENITY.NFO:
+    mimetype: text/plain

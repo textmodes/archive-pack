@@ -1,0 +1,62 @@
+name: sense09.zip
+hash: 1ae0368061a87db056fdaa28ad78d2bc
+year: 1998
+file:
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  HX-CHAT.ANS:
+    mimetype: text/plain
+  HX-HIGH.ANS:
+    mimetype: text/plain
+  HX-QUOTE.ANS:
+    mimetype: text/plain
+  IO-SENSE.ANS:
+    mimetype: text/plain
+  PC-ACID1.ANS:
+    mimetype: text/plain
+  PC-ACID2.ANS:
+    mimetype: text/plain
+  PC-BLOCK.ANS:
+    mimetype: text/plain
+  PC-DHIGH.ANS:
+    mimetype: text/plain
+  PC-SANCT.ANS:
+    mimetype: text/plain
+  PC-TREAS.ANS:
+    mimetype: text/plain
+  PC-URANS.ANS:
+    mimetype: text/plain
+  RG-SEN1.ANS:
+    mimetype: text/plain
+  RG-SEN2.ANS:
+    mimetype: text/plain
+  RG-SEN3.ANS:
+    mimetype: text/plain
+  RG-SNS1.JPG:
+    mimetype: image/jpeg
+  SC-ALLUR.ANS:
+    mimetype: text/plain
+  SC-BURNM.ANS:
+    mimetype: text/plain
+  SC-COLL2.ANS:
+    mimetype: text/plain
+  SC-EUPHO.ANS:
+    mimetype: text/plain
+  SC-FLTSC.ANS:
+    mimetype: text/plain
+  SC-INSTM.ANS:
+    mimetype: text/plain
+  SC-NEON.ANS:
+    mimetype: text/plain
+  SC-UDDF.ANS:
+    mimetype: text/plain
+  SENSE.APP:
+    mimetype: text/plain
+  SENSE09.MEM:
+    mimetype: text/plain
+  SENSE09.NFO:
+    mimetype: text/plain
+  US-SOAP.ANS:
+    mimetype: text/plain
+  ZN-MIX1.ZIP:
+    mimetype: application/zip

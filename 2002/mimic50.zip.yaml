@@ -1,0 +1,48 @@
+name: mimic50.zip
+hash: aa5e61a95a33ee40c250659e485ea518
+year: 2002
+file:
+  aln-mimic.txt:
+    mimetype: text/plain
+  bio-mimic.txt:
+    mimetype: text/plain
+  bjasc249.ans:
+    mimetype: text/plain
+  dtr-hl.txt:
+    mimetype: text/plain
+  esd-mmc.asc:
+    mimetype: text/plain
+  file_id.diz:
+    mimetype: text/plain
+  grm-hzrd.asc:
+    mimetype: text/plain
+  h7-glock.asc:
+    mimetype: text/plain
+  h7-mmc50.asc:
+    mimetype: text/plain
+  hp-mc201.asc:
+    mimetype: text/plain
+  js-essay.txt:
+    mimetype: text/plain
+  k!fifth.asc:
+    mimetype: text/plain
+  ko-nobun.asc:
+    mimetype: text/plain
+  m7m-anum.ans:
+    mimetype: text/plain
+  m7m-sour.ans:
+    mimetype: text/plain
+  members.ans:
+    mimetype: text/plain
+  ozz-mimi.asc:
+    mimetype: text/plain
+  pl-spide.ans:
+    mimetype: text/plain
+  rph-tuse.asc:
+    mimetype: text/plain
+  us-tus4.ans:
+    mimetype: text/plain
+  vol-mmc.txt:
+    mimetype: text/plain
+  wk-mmc50.txt:
+    mimetype: text/plain

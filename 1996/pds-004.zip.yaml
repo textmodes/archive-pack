@@ -1,0 +1,90 @@
+name: pds-004.zip
+hash: 82bbf1895e76834628b84e3577652090
+year: 1996
+file:
+  -ADS-:
+    mimetype: text/plain
+  -ANS-.ANS:
+    mimetype: text/plain
+  -ASC-.ASC:
+    mimetype: text/plain
+  -EXE-.EXE:
+    mimetype: application/x-msdos-program
+  -JPG-.JPG:
+    mimetype: image/jpeg
+  DN-BYE.ANS:
+    mimetype: text/plain
+  DN-BYE2.ANS:
+    mimetype: text/plain
+  DN-CMT.ANS:
+    mimetype: text/plain
+  DN-DUDE.ASC:
+    mimetype: text/plain
+  DN-MYSTI.ANS:
+    mimetype: text/plain
+  DN-NE1.ANS:
+    mimetype: text/plain
+  DN-NE2.ANS:
+    mimetype: text/plain
+  DN-REVO.ANS:
+    mimetype: text/plain
+  DN-SZD1.ANS:
+    mimetype: text/plain
+  DN-SZD2.ANS:
+    mimetype: text/plain
+  DN-SZD3.ANS:
+    mimetype: text/plain
+  DN-YVN1.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  INFO004.ANS:
+    mimetype: text/plain
+  MG-DARK.ANS:
+    mimetype: text/plain
+  MG-LAPPE.ANS:
+    mimetype: text/plain
+  MG-MA.JPG:
+    mimetype: image/jpeg
+  MG-SHQ.ANS:
+    mimetype: text/plain
+  MG-VIKIN.ANS:
+    mimetype: text/plain
+  NEWS001.ANS:
+    mimetype: text/plain
+  OB-DIGIT.ANS:
+    mimetype: text/plain
+  OB-DUCK.ANS:
+    mimetype: text/plain
+  OB-FANTA.ANS:
+    mimetype: text/plain
+  OB-MOOSE.ANS:
+    mimetype: text/plain
+  OB-PDS1.ANS:
+    mimetype: text/plain
+  OB-REVO1.ANS:
+    mimetype: text/plain
+  OB-REVO2.ANS:
+    mimetype: text/plain
+  OB-SODOM.ANS:
+    mimetype: text/plain
+  OB-SZD1.ANS:
+    mimetype: text/plain
+  OB-SZD2.ANS:
+    mimetype: text/plain
+  OB-SZD3.ANS:
+    mimetype: text/plain
+  OB-SZD4.ANS:
+    mimetype: text/plain
+  OB-TIME.ANS:
+    mimetype: text/plain
+  OB-VIKIN.ANS:
+    mimetype: text/plain
+  OB-WRITE.ANS:
+    mimetype: text/plain
+  RELEASE.DOC:
+    mimetype: text/plain
+  STERILIZ.ED!:
+    mimetype: text/plain
+  STOCK.DOC:
+    mimetype: text/plain

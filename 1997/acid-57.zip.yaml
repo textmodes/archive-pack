@@ -1,0 +1,62 @@
+name: acid-57.zip
+hash: 1cc246ea598ce382068ad7197b3257bd
+year: 1997
+file:
+  acq/57/AVDialog.class:
+    mimetype: application/x-java-applet
+  acq/57/AcidAnsi.class:
+    mimetype: application/x-java-applet
+  acq/57/AcidText.class:
+    mimetype: application/x-java-applet
+  acq/57/AcidView:
+    mimetype: text/x-shellscript
+  acq/57/AcidView.bat:
+    mimetype: application/x-msdos-program
+  acq/57/AcidView.class:
+    mimetype: application/x-java-applet
+  acq/57/AcidView.faq:
+    mimetype: text/plain
+  acq/57/AcidView.files:
+    mimetype: text/plain
+  acq/57/AcidView.fnt:
+    mimetype: application/octet-stream
+  acq/57/AcidView.jpg:
+    mimetype: image/jpeg
+  acq/57/AcidView.nfo:
+    mimetype: text/plain
+  acq/57/AcidXBin.class:
+    mimetype: application/x-java-applet
+  acq/57/AnsiImage.class:
+    mimetype: application/x-java-applet
+  acq/57/acid-57.xb:
+    mimetype: text/x-xbin
+  acq/57/acidapp.exe:
+    mimetype: application/x-msdos-program
+  acq/57/cs-57chv.jpg:
+    mimetype: image/jpeg
+  acq/57/cs-mauzo.jpg:
+    mimetype: image/jpeg
+  acq/57/eg-lspth.jpg:
+    mimetype: image/jpeg
+  acq/57/eg-mambo.jpg:
+    mimetype: image/jpeg
+  acq/57/file_id.diz:
+    mimetype: text/plain
+  acq/57/j1-iwgd.jpg:
+    mimetype: image/jpeg
+  acq/57/jn-ugrnd.jpg:
+    mimetype: image/jpeg
+  acq/57/mi-shad.gif:
+    mimetype: image/gif
+  acq/57/release.nfo:
+    mimetype: text/plain
+  acq/57/th-aces.jpg:
+    mimetype: image/jpeg
+  acq/57/vn-grafx.gif:
+    mimetype: image/gif
+  acq/57/wc-pun.jpg:
+    mimetype: image/jpeg
+  acq/57/wc-wiz.jpg:
+    mimetype: image/jpeg
+  acq/57/we-will.sue:
+    mimetype: text/plain

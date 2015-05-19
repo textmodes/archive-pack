@@ -1,0 +1,78 @@
+name: nst_001.zip
+hash: 704772bf66f515c88cf1a608420bf8f8
+year: 1998
+file:
+  AP-AMB98.ANS:
+    mimetype: text/plain
+  AP-MLMAT.ANS:
+    mimetype: text/plain
+  AP-PCMAT.ANS:
+    mimetype: text/plain
+  CL!-DCN.ANS:
+    mimetype: text/plain
+  CL!-LOST.ANS:
+    mimetype: text/plain
+  CL!-MFU.ANS:
+    mimetype: text/plain
+  CL!-MSG.NSK:
+    mimetype: text/plain
+  CL!-NEON.ANS:
+    mimetype: text/plain
+  CL!-PMAX.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  IC-DUDE.ANS:
+    mimetype: text/plain
+  IC-EYE.ANS:
+    mimetype: text/plain
+  IC-INFO.ANS:
+    mimetype: text/plain
+  IC-NEON1.ANS:
+    mimetype: text/plain
+  IC-NEON2.ANS:
+    mimetype: text/plain
+  IC-NEON3.ANS:
+    mimetype: text/plain
+  NOS-CB4.ANS:
+    mimetype: text/plain
+  NOS-CB4.ASC:
+    mimetype: text/plain
+  NOS-NS98.ASC:
+    mimetype: text/plain
+  NST-001.BBS:
+    mimetype: text/plain
+  NST-001.MEM:
+    mimetype: text/plain
+  NST-APP.EXE:
+    mimetype: application/x-msdos-program
+  NST-ART.APP:
+    mimetype: text/plain
+  SD!ASCII.ASC:
+    mimetype: text/plain
+  SD!CHICK.ANS:
+    mimetype: text/plain
+  SD!NEON.RIP:
+    mimetype: image/x-rip
+  SD!NEON2.RIP:
+    mimetype: image/x-rip
+  SD!PEEK.ANS:
+    mimetype: text/plain
+  SD!STAT.ANS:
+    mimetype: text/plain
+  TAE-AFTE.ANS:
+    mimetype: text/plain
+  TAE-COAP.ANS:
+    mimetype: text/plain
+  TAE-DEU.ANS:
+    mimetype: text/plain
+  TAE-IBIG.ANS:
+    mimetype: text/plain
+  TAE-NST.ANS:
+    mimetype: text/plain
+  TAE-NST1.ASC:
+    mimetype: text/plain
+  US-OOZE.ANS:
+    mimetype: text/plain
+  ZB_COL01.ASC:
+    mimetype: text/plain

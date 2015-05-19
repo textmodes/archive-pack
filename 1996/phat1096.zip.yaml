@@ -1,0 +1,66 @@
+name: phat1096.zip
+hash: ed0827a3cc6f306f859a4cebb712cc82
+year: 1996
+file:
+  BLD-MEMS.LIT:
+    mimetype: text/plain
+  BLD-PHAT.JPG:
+    mimetype: image/jpeg
+  CHECK_IT.OUT:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  IN-1096.ANS:
+    mimetype: text/plain
+  IN-PHAT1.ANS:
+    mimetype: text/plain
+  IN-PHAT2.ANS:
+    mimetype: text/plain
+  IN-SBASE.ANS:
+    mimetype: text/plain
+  INS-CLST.ANS:
+    mimetype: text/plain
+  LRY-C008.ANS:
+    mimetype: text/plain
+  LRY-SW08.ANS:
+    mimetype: text/plain
+  LRY-UNT0.ANS:
+    mimetype: text/plain
+  LRY-WIC0.ANS:
+    mimetype: text/plain
+  NEXUS3.JPG:
+    mimetype: image/jpeg
+  NYHCVIBE.432:
+    mimetype: text/plain
+  PHAT1O96.NFO:
+    mimetype: text/plain
+  PHAT1O96.NWS:
+    mimetype: text/plain
+  PHATAPP.EXE:
+    mimetype: application/x-msdos-program
+  PHATVIEW.EXE:
+    mimetype: application/x-msdos-program
+  PRM-PHAT.ANS:
+    mimetype: text/plain
+  TAKE_AST.AND:
+    mimetype: text/plain
+  TR-AGN1.ANS:
+    mimetype: text/plain
+  TR-HAC5.BIN:
+    mimetype: application/octet-stream
+  TR-LOGO2.ANS:
+    mimetype: text/plain
+  TR-MENU1.ANS:
+    mimetype: text/plain
+  TR-PHATM.ANS:
+    mimetype: text/plain
+  US-BGIRL.ANS:
+    mimetype: text/plain
+  US-HAC1.ANS:
+    mimetype: text/plain
+  VAD-KAO2.ANS:
+    mimetype: text/plain
+  VAD.ASC:
+    mimetype: text/plain
+  WT-BPR!.ASC:
+    mimetype: text/plain

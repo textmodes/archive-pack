@@ -1,0 +1,110 @@
+name: ciapak27.zip
+hash: bdc0256f810eb08be87b25d5cda1aa6b
+year: 1995
+file:
+  !!binary +vn5+fn5+fku+fn6:
+    mimetype: text/plain
+  !!binary +vn5+fr5+fku+fn6:
+    mimetype: text/plain
+  !!binary +vn5QVND+fku+fn6:
+    mimetype: text/plain
+  !!binary +vn5RVRD+fku+fn6:
+    mimetype: text/plain
+  !!binary +vn5TEdP+fku+fn6:
+    mimetype: text/plain
+  !!binary +vn5TElU+fku+fn6:
+    mimetype: text/plain
+  !!binary +vn5VkdB+fku+fn6:
+    mimetype: text/plain
+  !!binary +vn5WklQ+fku+fn6:
+    mimetype: text/plain
+  0895INFO.CIA:
+    mimetype: text/plain
+  0895LITS.ZIP:
+    mimetype: application/zip
+  0895MEMB.CIA:
+    mimetype: text/plain
+  0895PROF.CIA:
+    mimetype: text/plain
+  CIP-018.ZIP:
+    mimetype: application/zip
+  CS-BONG.ASC:
+    mimetype: text/plain
+  CS-GZ.ASC:
+    mimetype: text/plain
+  CS-RAGE.ASC:
+    mimetype: text/plain
+  DI-CA.JPG:
+    mimetype: image/jpeg
+  DI-GU.JPG:
+    mimetype: image/jpeg
+  DT-LOGO2.LGO:
+    mimetype: text/plain
+  ER-TBD.JPG:
+    mimetype: image/jpeg
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FN-CHARN.CIA:
+    mimetype: text/plain
+  IM-DREAM.ASC:
+    mimetype: text/plain
+  IM-RUP.ASC:
+    mimetype: text/plain
+  IV2.ZIP:
+    mimetype: application/zip
+  JZ-EGOD1.LGO:
+    mimetype: text/plain
+  JZ-RUST1.LGO:
+    mimetype: text/plain
+  JZ-SD1.LGO:
+    mimetype: text/plain
+  JZ-SDMNU.LGO:
+    mimetype: text/plain
+  JZ-VOTB1.LGO:
+    mimetype: text/plain
+  KL-ABDUC.ASC:
+    mimetype: text/plain
+  KL-ED.LGO:
+    mimetype: text/plain
+  KL-ROR.ASC:
+    mimetype: text/plain
+  LM-ACID.ASC:
+    mimetype: text/plain
+  LM-ATG.CIA:
+    mimetype: text/plain
+  LM-GZERO.CIA:
+    mimetype: text/plain
+  LM-IDEA1.CIA:
+    mimetype: text/plain
+  LM-IDEA2.CIA:
+    mimetype: text/plain
+  LM-LOGO1.LGO:
+    mimetype: text/plain
+  LM-LOGO2.LGO:
+    mimetype: text/plain
+  LM-LOGOS.ASC:
+    mimetype: text/plain
+  NA-FL409.LGO:
+    mimetype: text/plain
+  NA-FORSA.BIN:
+    mimetype: text/plain
+  NA-FRIZG.CIA:
+    mimetype: text/plain
+  NA-INF59.LGO:
+    mimetype: text/plain
+  PX-AP.CIA:
+    mimetype: text/plain
+  PX-CS.CIA:
+    mimetype: text/plain
+  PX-HF.CIA:
+    mimetype: text/plain
+  PX-ISTR.LGO:
+    mimetype: text/plain
+  PX-WHIP.CIA:
+    mimetype: text/plain
+  SD-75.CIA:
+    mimetype: text/plain
+  TE-APCLY.JPG:
+    mimetype: image/jpeg
+  TR-LOGO.LGO:
+    mimetype: text/plain

@@ -1,0 +1,40 @@
+name: jtxa-03.zip
+hash: 8c266ef2ec268427307a6f881e06696c
+year: 2000
+file:
+  0JTXA-03.NFO:
+    mimetype: text/plain
+  CRS-$.ASC:
+    mimetype: text/plain
+  CRS-AT.ASC:
+    mimetype: text/plain
+  CRS-BABY.ASC:
+    mimetype: text/plain
+  CRS-DIZ.ASC:
+    mimetype: text/plain
+  CRS-FL.ASC:
+    mimetype: text/plain
+  CRS-JAZZ.ASC:
+    mimetype: text/plain
+  CRS-PACH.ASC:
+    mimetype: text/plain
+  CRS-PAIN.ASC:
+    mimetype: text/plain
+  CRS-REST.ASC:
+    mimetype: text/plain
+  CRS-RST2.ASC:
+    mimetype: text/plain
+  CRS-SPY.ASC:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  JUST-X.APP:
+    mimetype: application/octet-stream
+  JUST-X.NFO:
+    mimetype: text/plain
+  SRB-B.ANS:
+    mimetype: text/plain
+  SRB-B.ASC:
+    mimetype: text/plain
+  SRB-SIGH.ASC:
+    mimetype: text/plain

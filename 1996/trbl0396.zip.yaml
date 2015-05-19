@@ -1,0 +1,84 @@
+name: trbl0396.zip
+hash: 7122def65093b430bd2d3ea9e2944559
+year: 1996
+file:
+  (ART):
+    mimetype: text/plain
+  (INFO):
+    mimetype: text/plain
+  (MODS):
+    mimetype: text/plain
+  BH-COCAD.ANS:
+    mimetype: text/plain
+  BH-INIQ.ZIP:
+    mimetype: application/zip
+  BH-MATRX.ANS:
+    mimetype: text/plain
+  BH-ONELN.ZIP:
+    mimetype: application/zip
+  BH-RAIN.ANS:
+    mimetype: text/plain
+  BH-SOUL.RIP:
+    mimetype: image/x-rip
+  BH-TD.ANS:
+    mimetype: text/plain
+  BH-TD1.ANS:
+    mimetype: text/plain
+  BI-DEFAU.ZIP:
+    mimetype: application/zip
+  BI-FBACK.ZIP:
+    mimetype: application/zip
+  BI-LD.ZIP:
+    mimetype: application/zip
+  BI-SCANF.ZIP:
+    mimetype: application/zip
+  COROSIVE.AD:
+    mimetype: text/plain
+  EX-COC.ASC:
+    mimetype: text/plain
+  EX-NOBUL.ASC:
+    mimetype: text/plain
+  EX-NUMB.ASC:
+    mimetype: text/plain
+  EX-TDAMN.ASC:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  PN-AUTOM.ZIP:
+    mimetype: application/zip
+  PN-DAMN1.ANS:
+    mimetype: text/plain
+  PN-FOTM.ANS:
+    mimetype: text/plain
+  PN-KKK.ANS:
+    mimetype: text/plain
+  PN-SC.ANS:
+    mimetype: text/plain
+  PN-SPLAT.ANS:
+    mimetype: text/plain
+  PN-TRBL1.ANS:
+    mimetype: text/plain
+  SK-BLIND.ZIP:
+    mimetype: application/zip
+  SK-LOGOF.ZIP:
+    mimetype: application/zip
+  SK-ULCHK.ZIP:
+    mimetype: application/zip
+  TK-COC1.ANS:
+    mimetype: text/plain
+  TK-DCA.ANS:
+    mimetype: text/plain
+  TK-REVO.ANS:
+    mimetype: text/plain
+  TK-SWRS.ANS:
+    mimetype: text/plain
+  TK-WA.ANS:
+    mimetype: text/plain
+  TK-WCC.ANS:
+    mimetype: text/plain
+  TRIBAL01.ANS:
+    mimetype: text/plain
+  TRIBAL01.MEM:
+    mimetype: text/plain
+  TRIBALAP.EXE:
+    mimetype: application/x-msdos-program

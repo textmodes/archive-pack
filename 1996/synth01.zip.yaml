@@ -1,0 +1,50 @@
+name: synth01.zip
+hash: dab3aed461dd646f219b537d9305539b
+year: 1996
+file:
+  1096CONT.ANS:
+    mimetype: text/plain
+  1096MEMB.ANS:
+    mimetype: text/plain
+  1096NEWS.ANS:
+    mimetype: text/plain
+  AV96.EXE:
+    mimetype: application/x-msdos-program
+  AVVIEW96.NFO:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  SC-APP.EXE:
+    mimetype: application/x-msdos-program
+  SC-APP.NFO:
+    mimetype: text/plain
+  SYD-LIFE.JPG:
+    mimetype: image/jpeg
+  SYD-LSD.GIF:
+    mimetype: image/gif
+  SYD-SNTH.JPG:
+    mimetype: image/jpeg
+  TR-CDM.ANS:
+    mimetype: text/plain
+  TR-CLGN.ANS:
+    mimetype: text/plain
+  TR-DTRP.ANS:
+    mimetype: text/plain
+  TR-FEDM.ANS:
+    mimetype: text/plain
+  TR-MMTX.ANS:
+    mimetype: text/plain
+  TR-MURM.ANS:
+    mimetype: text/plain
+  TR-MURP.ANS:
+    mimetype: text/plain
+  TR-PAGER.ANS:
+    mimetype: text/plain
+  TR-PRIM.ANS:
+    mimetype: text/plain
+  TR-SLOGO.GIF:
+    mimetype: image/gif
+  TR-SYN.RIP:
+    mimetype: image/x-rip
+  TR-ZCOMM.ASC:
+    mimetype: text/plain

@@ -1,0 +1,186 @@
+name: 33-pic95.zip
+hash: 3d034ea1199a9a6c78c9f32f3d8c3ae0
+year: 1995
+file:
+  33-AD1.REL:
+    mimetype: text/plain
+  33-AD2.REL:
+    mimetype: text/plain
+  33-ALPHA.REL:
+    mimetype: text/plain
+  33-ANNOY.REL:
+    mimetype: text/plain
+  33-APOC.REL:
+    mimetype: text/plain
+  33-ATARI.BIN:
+    mimetype: text/x-binary
+  33-BF.ANS:
+    mimetype: text/plain
+  33-BLOOD.ANS:
+    mimetype: text/plain
+  33-BYOND.ANS:
+    mimetype: text/plain
+  33-CAT.REL:
+    mimetype: text/plain
+  33-CYBER.REL:
+    mimetype: text/plain
+  33-D2.ANS:
+    mimetype: text/plain
+  33-DF6.EXE:
+    mimetype: application/x-msdos-program
+  33-DG1.GIF:
+    mimetype: image/gif
+  33-DOOMS.ANS:
+    mimetype: text/plain
+  33-EI.REL:
+    mimetype: text/plain
+  33-ELIX.ANS:
+    mimetype: text/plain
+  33-ES.ANS:
+    mimetype: text/plain
+  33-EVIL.REL:
+    mimetype: text/plain
+  33-FAIL2.ANS:
+    mimetype: text/plain
+  33-FATE.REL:
+    mimetype: text/plain
+  33-FLUID.REL:
+    mimetype: text/plain
+  33-FP.ANS:
+    mimetype: text/plain
+  33-FR.ANS:
+    mimetype: text/plain
+  33-GTB.REL:
+    mimetype: text/plain
+  33-ICOMM.ANS:
+    mimetype: text/plain
+  33-MIST4.GIF:
+    mimetype: image/gif
+  33-MM1.REL:
+    mimetype: text/plain
+  33-MS3.REL:
+    mimetype: text/plain
+  33-N1.BIN:
+    mimetype: text/x-binary
+  33-NH.REL:
+    mimetype: text/plain
+  33-PAC.ANS:
+    mimetype: text/plain
+  33-PHUNK.REL:
+    mimetype: text/plain
+  33-PIC95.NFO:
+    mimetype: text/plain
+  33-PIN.ANS:
+    mimetype: text/plain
+  33-PR.REL:
+    mimetype: text/plain
+  33-PRAY.REL:
+    mimetype: text/plain
+  33-PRAY2.ANS:
+    mimetype: text/plain
+  33-PROD.REL:
+    mimetype: text/plain
+  33-PROD2.ANS:
+    mimetype: text/plain
+  33-RAPE2.ANS:
+    mimetype: text/plain
+  33-REG3.REL:
+    mimetype: text/plain
+  33-REL4.GIF:
+    mimetype: image/gif
+  33-REV.REL:
+    mimetype: text/plain
+  33-RIVER.ANS:
+    mimetype: text/plain
+  33-ROADS.REL:
+    mimetype: text/plain
+  33-SBZ.ANS:
+    mimetype: text/plain
+  33-SBZ2.ANS:
+    mimetype: text/plain
+  33-SHV.ANS:
+    mimetype: text/plain
+  33-SLOT3.REL:
+    mimetype: text/plain
+  33-SNO.REL:
+    mimetype: text/plain
+  33-SOD.ANS:
+    mimetype: text/plain
+  33-SS2.ANS:
+    mimetype: text/plain
+  33-STB08.REL:
+    mimetype: text/plain
+  33-STB12.ANS:
+    mimetype: text/plain
+  33-SURE.REL:
+    mimetype: text/plain
+  33-TCL2.REL:
+    mimetype: text/plain
+  33-TEN.ANS:
+    mimetype: text/plain
+  33-THA5.REL:
+    mimetype: text/plain
+  33-THA6.REL:
+    mimetype: text/plain
+  33-THS.ANS:
+    mimetype: text/plain
+  33-THS2.ANS:
+    mimetype: text/plain
+  33-TOKYO.ANS:
+    mimetype: text/plain
+  33-TRA.REL:
+    mimetype: text/plain
+  33-TREG3.ANS:
+    mimetype: text/plain
+  33-TSN1.ANS:
+    mimetype: text/plain
+  33-TT.ANS:
+    mimetype: text/plain
+  33-UE.BIN:
+    mimetype: text/x-binary
+  33-US2.REL:
+    mimetype: text/plain
+  33-WHOD.ANS:
+    mimetype: text/plain
+  33-YOUTH.REL:
+    mimetype: text/plain
+  33-Z.REL:
+    mimetype: text/plain
+  33PE-LD.REL:
+    mimetype: text/plain
+  33YO-BS2.REL:
+    mimetype: text/plain
+  33YO-LD2.ANS:
+    mimetype: text/plain
+  33ZR-ARB.REL:
+    mimetype: text/plain
+  33ZR-TST.REL:
+    mimetype: text/plain
+  EE-BOI.IMP:
+    mimetype: text/plain
+  EE-BW01.IMP:
+    mimetype: text/plain
+  EE-LG01.IMP:
+    mimetype: text/plain
+  EE-LOF01.IMP:
+    mimetype: text/plain
+  EE-MERCI.GIF:
+    mimetype: image/gif
+  EE-NEV01.IMP:
+    mimetype: text/plain
+  EE-NP1.IMP:
+    mimetype: text/plain
+  EE-RR02.IMP:
+    mimetype: text/plain
+  EE-TCC01.GIF:
+    mimetype: image/gif
+  EE-TCC02.IMP:
+    mimetype: text/plain
+  EE-TST.GIF:
+    mimetype: image/gif
+  EE-WOWM1.EXE:
+    mimetype: application/x-msdos-program
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  TOKYO.EXE:
+    mimetype: application/x-msdos-program

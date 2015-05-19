@@ -1,0 +1,36 @@
+name: eco-14.zip
+hash: 5061280798c5464d7041ac62ef7cb61c
+year: 1999
+file:
+  AP-LOSTP.ANS:
+    mimetype: text/plain
+  CPL-SAM.ANS:
+    mimetype: text/plain
+  ECO-NF14.ANS:
+    mimetype: text/plain
+  FB-EH.ASC:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  L44-CLS.ANS:
+    mimetype: text/plain
+  PR_NINJA.ANS:
+    mimetype: text/plain
+  PR_PURGE.ANS:
+    mimetype: text/plain
+  PR_RML.ANS:
+    mimetype: text/plain
+  SN-GALL.ANS:
+    mimetype: text/plain
+  TA-HORN.BIN:
+    mimetype: text/x-binary
+  TA-PAGER.ANS:
+    mimetype: text/plain
+  TG-ALM2.ANS:
+    mimetype: text/plain
+  TG-SELFP.ASC:
+    mimetype: text/plain
+  US-BHC.ANS:
+    mimetype: text/plain
+  VLD-COL.ANS:
+    mimetype: text/plain

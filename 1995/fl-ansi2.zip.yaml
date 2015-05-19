@@ -1,0 +1,46 @@
+name: fl-ansi2.zip
+hash: 4ad49b0efe34d3a605408dcc4afcc3a6
+year: 1995
+file:
+  FILE_ID.ASC:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FL-RELS-.NFO:
+    mimetype: text/plain
+  FLUCK.COM:
+    mimetype: application/x-msdos-program
+  FUEL.APP:
+    mimetype: application/octet-stream
+  FUEL.NFO:
+    mimetype: text/plain
+  HUH-OH!.F-L:
+    mimetype: text/plain
+  LEPBAULH.COM:
+    mimetype: application/x-msdos-program
+  TK-BABE.FL:
+    mimetype: text/plain
+  TK-BAINM.FL:
+    mimetype: text/plain
+  TK-BIP.FL:
+    mimetype: text/plain
+  TK-DIR.FL:
+    mimetype: text/plain
+  TK-FLOWI.FL:
+    mimetype: text/plain
+  TK-LOGIN.FL:
+    mimetype: text/plain
+  TK-MAN1.FL:
+    mimetype: text/plain
+  TK-MAN2.FL:
+    mimetype: text/plain
+  TK-MAN3.FL:
+    mimetype: text/plain
+  TK-MAN4.FL:
+    mimetype: text/plain
+  TK-SLMAI.FL:
+    mimetype: text/plain
+  TK-SOBER.FL:
+    mimetype: text/plain
+  TK-UPLOA.FL:
+    mimetype: text/plain

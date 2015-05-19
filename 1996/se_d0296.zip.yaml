@@ -1,0 +1,30 @@
+name: se_d0296.zip
+hash: 8c0780f3ac66e4c62ba76db642478a28
+year: 1996
+file:
+  BI-CS.S3M:
+    mimetype: audio/x-mod
+  BI-EOE.S3M:
+    mimetype: audio/x-mod
+  BI-TSTD.S3M:
+    mimetype: audio/x-mod
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  LI-DSE.S3M:
+    mimetype: audio/x-mod
+  LI-TPIT.S3M:
+    mimetype: audio/x-mod
+  LI-WINGS.S3M:
+    mimetype: audio/x-mod
+  ONX-FIRR.S3M:
+    mimetype: audio/x-mod
+  ONX-LUND.S3M:
+    mimetype: audio/x-mod
+  ONX_LGH.S3M:
+    mimetype: audio/x-mod
+  SE_APP.EXE:
+    mimetype: application/x-msdos-program
+  SE_INFO.EXE:
+    mimetype: application/x-msdos-program
+  se_d0296.frm:
+    mimetype: text/plain

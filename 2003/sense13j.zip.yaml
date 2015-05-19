@@ -1,0 +1,74 @@
+name: sense13j.zip
+hash: a3761cccf8e3cbe27b488668d49d2df6
+year: 2003
+file:
+  43-AUTO.ANS:
+    mimetype: text/plain
+  43-DATA.ANS:
+    mimetype: text/plain
+  43-OZMNU.ANS:
+    mimetype: text/plain
+  43CG-IS.ANS:
+    mimetype: text/plain
+  43E0-IS.ANS:
+    mimetype: text/plain
+  AVG-PIR1.ANS:
+    mimetype: text/plain
+  AVG-ZER1.ANS:
+    mimetype: text/plain
+  CG-ENZO.ANS:
+    mimetype: text/plain
+  CG-EON.ANS:
+    mimetype: text/plain
+  CG-INF1.ANS:
+    mimetype: text/plain
+  CG-SENSE.ANS:
+    mimetype: text/plain
+  CG43-OM1.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  INFO.ANS:
+    mimetype: text/plain
+  JN-CHEER.ANS:
+    mimetype: text/plain
+  MEMBERS.ANS:
+    mimetype: text/plain
+  NCK43-M.ANS:
+    mimetype: text/plain
+  NCKSPORT.ANS:
+    mimetype: text/plain
+  NS-BZR01.TXT:
+    mimetype: text/plain
+  NS-JAZZ.RIP:
+    mimetype: image/x-rip
+  NS-NAMES.TXT:
+    mimetype: text/plain
+  NS-S13.RIP:
+    mimetype: image/x-rip
+  NS-THOR.ANS:
+    mimetype: text/plain
+  SX-SENSE.ANS:
+    mimetype: text/plain
+  US-ANS.ANS:
+    mimetype: text/plain
+  US-DHLO.ANS:
+    mimetype: text/plain
+  US-OUTZ1.ANS:
+    mimetype: text/plain
+  US-OUTZN.ANS:
+    mimetype: text/plain
+  US-S3NSE.ANS:
+    mimetype: text/plain
+  US-SNS1.ANS:
+    mimetype: text/plain
+  VLD-DHFI.ANS:
+    mimetype: text/plain
+  VLD43-DH.ANS:
+    mimetype: text/plain
+  WE-RUSHD.ANS:
+    mimetype: text/plain
+  ZS-KSAD.ANS:
+    mimetype: text/plain
+  ZS-OZ01.ANS:
+    mimetype: text/plain

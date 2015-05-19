@@ -1,0 +1,38 @@
+name: ansis-x.zip
+hash: fead6da0fbd63205c331e4c4e265c716
+year: 1993
+file:
+  -RUNME.COM:
+    mimetype: application/x-msdos-program
+  XANGEL.ANS:
+    mimetype: text/plain
+  XFROSTY.ANS:
+    mimetype: text/plain
+  XHAPPY91.ANS:
+    mimetype: text/plain
+  XJESUSIS.ANS:
+    mimetype: text/plain
+  XJOY91.ANS:
+    mimetype: text/plain
+  XMASHAUS.ANS:
+    mimetype: text/plain
+  XPEACE91.ANS:
+    mimetype: text/plain
+  XSANTA4.ANS:
+    mimetype: text/plain
+  XSEASON3.ANS:
+    mimetype: text/plain
+  XSILENT.ANS:
+    mimetype: text/plain
+  XSLEIGH.ANS:
+    mimetype: text/plain
+  XSNOWFL.ANS:
+    mimetype: text/plain
+  XTBC91.ANS:
+    mimetype: text/plain
+  XTREE91.ANS:
+    mimetype: text/plain
+  XWISH.ANS:
+    mimetype: text/plain
+  XWISH91.ANS:
+    mimetype: text/plain

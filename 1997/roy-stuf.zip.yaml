@@ -1,0 +1,616 @@
+name: roy-stuf.zip
+hash: 4fc2c05bf88240ae2250353b63626797
+year: 1997
+file:
+  A-C-C.ANS:
+    mimetype: text/plain
+  ALPHA.ASC:
+    mimetype: text/plain
+  ALTERNA3.ASC:
+    mimetype: text/plain
+  ALTERNAT.ASC:
+    mimetype: text/plain
+  AN-MAIN.ANS:
+    mimetype: text/plain
+  CARD4.ANS:
+    mimetype: text/plain
+  CBX.ASC:
+    mimetype: text/plain
+  CBX_MEM.ANS:
+    mimetype: text/plain
+  CDS_1TH2.ANS:
+    mimetype: text/plain
+  CDS_ANS.ANS:
+    mimetype: text/plain
+  CONF.ANS:
+    mimetype: text/plain
+  CONF.ASC:
+    mimetype: text/plain
+  CONF2.ANS:
+    mimetype: text/plain
+  CROSS.ANS:
+    mimetype: text/plain
+  CYBRIX.ANS:
+    mimetype: text/plain
+  DARK.ASC:
+    mimetype: text/plain
+  DEATHLES.ASC:
+    mimetype: text/plain
+  DRG4.ANS:
+    mimetype: text/plain
+  EDI2.ANS:
+    mimetype: text/plain
+  FAITH.ANS:
+    mimetype: text/plain
+  FATE2.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FTHNFO.ASC:
+    mimetype: text/plain
+  HAPPY.ANS:
+    mimetype: text/plain
+  PLC.ANS:
+    mimetype: text/plain
+  PLC_OLD.ANS:
+    mimetype: text/plain
+  PLC2.ANS:
+    mimetype: text/plain
+  POLICE.ANS:
+    mimetype: text/plain
+  PROUD.ANS:
+    mimetype: text/plain
+  PTG2.ASC:
+    mimetype: text/plain
+  PUTIT.ANS:
+    mimetype: text/plain
+  RAW.ASC:
+    mimetype: text/plain
+  ROY-500N.ANS:
+    mimetype: text/plain
+  ROY-5YMS.ANS:
+    mimetype: text/plain
+  ROY-AFAC.ANS:
+    mimetype: text/plain
+  ROY-AMSN.ASC:
+    mimetype: text/plain
+  ROY-AN.ANS:
+    mimetype: text/plain
+  ROY-ANX2.ANS:
+    mimetype: text/plain
+  ROY-ARI.ANS:
+    mimetype: text/plain
+  ROY-ASL.ASC:
+    mimetype: text/plain
+  ROY-ASL2.ASC:
+    mimetype: text/plain
+  ROY-BC.ANS:
+    mimetype: text/plain
+  ROY-BC.LBM:
+    mimetype: application/octet-stream
+  ROY-BIZA.ANS:
+    mimetype: text/plain
+  ROY-BIZD.ASC:
+    mimetype: text/plain
+  ROY-BIZN.ASC:
+    mimetype: text/plain
+  ROY-BJ.ANS:
+    mimetype: text/plain
+  ROY-BJ1.ASC:
+    mimetype: text/plain
+  ROY-BJ2.ASC:
+    mimetype: text/plain
+  ROY-BLHD.ASC:
+    mimetype: text/plain
+  ROY-BRD.ASC:
+    mimetype: text/plain
+  ROY-BRIG.ASC:
+    mimetype: text/plain
+  ROY-BSIH.ASC:
+    mimetype: text/plain
+  ROY-BSL.ASC:
+    mimetype: text/plain
+  ROY-BULL.ANS:
+    mimetype: text/plain
+  ROY-CBX.GIF:
+    mimetype: image/gif
+  ROY-CDS1.GIF:
+    mimetype: image/gif
+  ROY-CDS2.ASC:
+    mimetype: text/plain
+  ROY-CDS2.GIF:
+    mimetype: image/gif
+  ROY-CDSM.EXE:
+    mimetype: application/x-msdos-program
+  ROY-CGR1.ASC:
+    mimetype: text/plain
+  ROY-CGRD.ASC:
+    mimetype: text/plain
+  ROY-CMD.ANS:
+    mimetype: text/plain
+  ROY-CNC.ASC:
+    mimetype: text/plain
+  ROY-CNCD.ASC:
+    mimetype: text/plain
+  ROY-COC.ASC:
+    mimetype: text/plain
+  ROY-COMI.ANS:
+    mimetype: text/plain
+  ROY-CONF.ANS:
+    mimetype: text/plain
+  ROY-CONS.ANS:
+    mimetype: text/plain
+  ROY-CORE.ASC:
+    mimetype: text/plain
+  ROY-COS.ANS:
+    mimetype: text/plain
+  ROY-CRS2.ANS:
+    mimetype: text/plain
+  ROY-CRSL.ANS:
+    mimetype: text/plain
+  ROY-CS.LBM:
+    mimetype: application/octet-stream
+  ROY-CS3.ANS:
+    mimetype: text/plain
+  ROY-CS4.ANS:
+    mimetype: text/plain
+  ROY-CSA.ASC:
+    mimetype: text/plain
+  ROY-CSLG.ANS:
+    mimetype: text/plain
+  ROY-DC1.ANS:
+    mimetype: text/plain
+  ROY-DEMO.ANS:
+    mimetype: text/plain
+  ROY-DEVN.ASC:
+    mimetype: text/plain
+  ROY-DGZN.ANS:
+    mimetype: text/plain
+  ROY-DIMX.ANS:
+    mimetype: text/plain
+  ROY-DIMX.EXE:
+    mimetype: application/x-msdos-program
+  ROY-DLAV.ASC:
+    mimetype: text/plain
+  ROY-DLND.ANS:
+    mimetype: text/plain
+  ROY-DLXD.ASC:
+    mimetype: text/plain
+  ROY-DNS2.ASC:
+    mimetype: text/plain
+  ROY-DNSA.ANS:
+    mimetype: text/plain
+  ROY-DNSX.ASC:
+    mimetype: text/plain
+  ROY-DNXA.ANS:
+    mimetype: text/plain
+  ROY-DNXD.ASC:
+    mimetype: text/plain
+  ROY-DNXN.ASC:
+    mimetype: text/plain
+  ROY-DOWN.ANS:
+    mimetype: text/plain
+  ROY-DPN.EXE:
+    mimetype: application/x-msdos-program
+  ROY-DROW.ASC:
+    mimetype: text/plain
+  ROY-DS.ANS:
+    mimetype: text/plain
+  ROY-DTC.ASC:
+    mimetype: text/plain
+  ROY-DTC2.ASC:
+    mimetype: text/plain
+  ROY-DTC3.ASC:
+    mimetype: text/plain
+  ROY-DTCD.ASC:
+    mimetype: text/plain
+  ROY-DYND.ASC:
+    mimetype: text/plain
+  ROY-DYNN.ASC:
+    mimetype: text/plain
+  ROY-ECL.ASC:
+    mimetype: text/plain
+  ROY-ECL2.ASC:
+    mimetype: text/plain
+  ROY-EOD2.ASC:
+    mimetype: text/plain
+  ROY-EOD3.ASC:
+    mimetype: text/plain
+  ROY-EODD.ASC:
+    mimetype: text/plain
+  ROY-EODN.ASC:
+    mimetype: text/plain
+  ROY-EPCD.ASC:
+    mimetype: text/plain
+  ROY-ETD2.ASC:
+    mimetype: text/plain
+  ROY-ETN.ASC:
+    mimetype: text/plain
+  ROY-FDTD.ANS:
+    mimetype: text/plain
+  ROY-FDTD.ASC:
+    mimetype: text/plain
+  ROY-FG.ANS:
+    mimetype: text/plain
+  ROY-FONT.LBM:
+    mimetype: application/octet-stream
+  ROY-FTH.ASC:
+    mimetype: text/plain
+  ROY-FTH1.ANS:
+    mimetype: text/plain
+  ROY-FUN.ANS:
+    mimetype: text/plain
+  ROY-GDIZ.ASC:
+    mimetype: text/plain
+  ROY-GNS.ANS:
+    mimetype: text/plain
+  ROY-GNS1.ASC:
+    mimetype: text/plain
+  ROY-GRED.ANS:
+    mimetype: text/plain
+  ROY-GRED.ASC:
+    mimetype: text/plain
+  ROY-GSR.ASC:
+    mimetype: text/plain
+  ROY-HBD.ASC:
+    mimetype: text/plain
+  ROY-HBDA.ANS:
+    mimetype: text/plain
+  ROY-HBDD.ASC:
+    mimetype: text/plain
+  ROY-HDL.ASC:
+    mimetype: text/plain
+  ROY-HEAD.ANS:
+    mimetype: text/plain
+  ROY-HID.ANS:
+    mimetype: text/plain
+  ROY-HID.ASC:
+    mimetype: text/plain
+  ROY-HOE.ANS:
+    mimetype: text/plain
+  ROY-HYPE.ANS:
+    mimetype: text/plain
+  ROY-ILUN.ASC:
+    mimetype: text/plain
+  ROY-IMP.ASC:
+    mimetype: text/plain
+  ROY-IMPA.ANS:
+    mimetype: text/plain
+  ROY-IMPD.ASC:
+    mimetype: text/plain
+  ROY-IMPN.ASC:
+    mimetype: text/plain
+  ROY-INS.ANS:
+    mimetype: text/plain
+  ROY-INVA.ANS:
+    mimetype: text/plain
+  ROY-INVI.ASC:
+    mimetype: text/plain
+  ROY-INVN.ASC:
+    mimetype: text/plain
+  ROY-ISA.ASC:
+    mimetype: text/plain
+  ROY-ISH.ASC:
+    mimetype: text/plain
+  ROY-ISH2.ASC:
+    mimetype: text/plain
+  ROY-ISL.ASC:
+    mimetype: text/plain
+  ROY-JGA.ANS:
+    mimetype: text/plain
+  ROY-JGN.ASC:
+    mimetype: text/plain
+  ROY-KIT.ASC:
+    mimetype: text/plain
+  ROY-KWA.ANS:
+    mimetype: text/plain
+  ROY-LALA.ANS:
+    mimetype: text/plain
+  ROY-LCID.ASC:
+    mimetype: text/plain
+  ROY-LCIN.ASC:
+    mimetype: text/plain
+  ROY-LSD.EXE:
+    mimetype: application/x-msdos-program
+  ROY-LSD1.ANS:
+    mimetype: text/plain
+  ROY-LSD2.ANS:
+    mimetype: text/plain
+  ROY-LSD3.ANS:
+    mimetype: text/plain
+  ROY-LSD3.ASC:
+    mimetype: text/plain
+  ROY-LSD5.ANS:
+    mimetype: text/plain
+  ROY-LSD5.ASC:
+    mimetype: text/plain
+  ROY-M&S.ANS:
+    mimetype: text/plain
+  ROY-M&S.ASC:
+    mimetype: text/plain
+  ROY-MDMA.ASC:
+    mimetype: text/plain
+  ROY-MF.ANS:
+    mimetype: text/plain
+  ROY-MTYD.ASC:
+    mimetype: text/plain
+  ROY-MTYN.ASC:
+    mimetype: text/plain
+  ROY-MVA.ANS:
+    mimetype: text/plain
+  ROY-NCC.ASC:
+    mimetype: text/plain
+  ROY-NIRV.ASC:
+    mimetype: text/plain
+  ROY-NPMA.ANS:
+    mimetype: text/plain
+  ROY-NPMD.ASC:
+    mimetype: text/plain
+  ROY-NPMN.ASC:
+    mimetype: text/plain
+  ROY-NRG.ANS:
+    mimetype: text/plain
+  ROY-NRG.ASC:
+    mimetype: text/plain
+  ROY-NRG.LBM:
+    mimetype: application/octet-stream
+  ROY-NRG2.ASC:
+    mimetype: text/plain
+  ROY-NRGD.ASC:
+    mimetype: text/plain
+  ROY-NUTD.ASC:
+    mimetype: text/plain
+  ROY-NUTN.ASC:
+    mimetype: text/plain
+  ROY-OBLI.ANS:
+    mimetype: text/plain
+  ROY-OBS.ANS:
+    mimetype: text/plain
+  ROY-OOTB.ASC:
+    mimetype: text/plain
+  ROY-ORBD.ASC:
+    mimetype: text/plain
+  ROY-ORBN.ASC:
+    mimetype: text/plain
+  ROY-OUTB.ANS:
+    mimetype: text/plain
+  ROY-OUTB.LBM:
+    mimetype: application/octet-stream
+  ROY-OUTD.ASC:
+    mimetype: text/plain
+  ROY-PC1.ANS:
+    mimetype: text/plain
+  ROY-PC1.EXE:
+    mimetype: application/x-msdos-program
+  ROY-PCBC.ANS:
+    mimetype: text/plain
+  ROY-PCD.ASC:
+    mimetype: text/plain
+  ROY-PCN.ASC:
+    mimetype: text/plain
+  ROY-PCN2.ASC:
+    mimetype: text/plain
+  ROY-PCPD.ASC:
+    mimetype: text/plain
+  ROY-PCY.ASC:
+    mimetype: text/plain
+  ROY-PCY2.ASC:
+    mimetype: text/plain
+  ROY-PH.ANS:
+    mimetype: text/plain
+  ROY-PHM.ANS:
+    mimetype: text/plain
+  ROY-PLA.ANS:
+    mimetype: text/plain
+  ROY-PNS2.ASC:
+    mimetype: text/plain
+  ROY-PNS3.ASC:
+    mimetype: text/plain
+  ROY-PNSD.ASC:
+    mimetype: text/plain
+  ROY-PNSN.ASC:
+    mimetype: text/plain
+  ROY-PNX.ASC:
+    mimetype: text/plain
+  ROY-PSGN.ASC:
+    mimetype: text/plain
+  ROY-QSTD.ASC:
+    mimetype: text/plain
+  ROY-QSTN.ASC:
+    mimetype: text/plain
+  ROY-QTM.ASC:
+    mimetype: text/plain
+  ROY-QTMD.ASC:
+    mimetype: text/plain
+  ROY-RAV1.ANS:
+    mimetype: text/plain
+  ROY-RAV2.ANS:
+    mimetype: text/plain
+  ROY-RNT.ANS:
+    mimetype: text/plain
+  ROY-RPAD.ASC:
+    mimetype: text/plain
+  ROY-RPB3.ASC:
+    mimetype: text/plain
+  ROY-RPDD.ASC:
+    mimetype: text/plain
+  ROY-RPDN.ASC:
+    mimetype: text/plain
+  ROY-RSID.ASC:
+    mimetype: text/plain
+  ROY-RZR1.ASC:
+    mimetype: text/plain
+  ROY-RZR2.ASC:
+    mimetype: text/plain
+  ROY-RZR3.ASC:
+    mimetype: text/plain
+  ROY-S!P.ASC:
+    mimetype: text/plain
+  ROY-S!PD.ASC:
+    mimetype: text/plain
+  ROY-S&E.ASC:
+    mimetype: text/plain
+  ROY-S_D.ASC:
+    mimetype: text/plain
+  ROY-S_N.ASC:
+    mimetype: text/plain
+  ROY-SAB2.ASC:
+    mimetype: text/plain
+  ROY-SABO.ASC:
+    mimetype: text/plain
+  ROY-SBA.ASC:
+    mimetype: text/plain
+  ROY-SBL.ASC:
+    mimetype: text/plain
+  ROY-SCA.ASC:
+    mimetype: text/plain
+  ROY-SCC.ANS:
+    mimetype: text/plain
+  ROY-SDIZ.ASC:
+    mimetype: text/plain
+  ROY-SDM.ASC:
+    mimetype: text/plain
+  ROY-SDMD.ASC:
+    mimetype: text/plain
+  ROY-SF.ANS:
+    mimetype: text/plain
+  ROY-SF.ASC:
+    mimetype: text/plain
+  ROY-SHLG.ANS:
+    mimetype: text/plain
+  ROY-SKY.ANS:
+    mimetype: text/plain
+  ROY-SMEM.ANS:
+    mimetype: text/plain
+  ROY-SP1.ANS:
+    mimetype: text/plain
+  ROY-SR.ANS:
+    mimetype: text/plain
+  ROY-SR.ASC:
+    mimetype: text/plain
+  ROY-STUF.TXT:
+    mimetype: text/plain
+  ROY-SUN.GIF:
+    mimetype: image/gif
+  ROY-SYSO.ANS:
+    mimetype: text/plain
+  ROY-TBL.ASC:
+    mimetype: text/plain
+  ROY-TBSD.ASC:
+    mimetype: text/plain
+  ROY-TDA.ANS:
+    mimetype: text/plain
+  ROY-TDIZ.ASC:
+    mimetype: text/plain
+  ROY-TDJ.ASC:
+    mimetype: text/plain
+  ROY-TDN.ASC:
+    mimetype: text/plain
+  ROY-TDU.ANS:
+    mimetype: text/plain
+  ROY-TDUJ.ANS:
+    mimetype: text/plain
+  ROY-TGA.ANS:
+    mimetype: text/plain
+  ROY-TOAO.ASC:
+    mimetype: text/plain
+  ROY-TOAO.GIF:
+    mimetype: image/gif
+  ROY-TR.ASC:
+    mimetype: text/plain
+  ROY-TRDZ.ASC:
+    mimetype: text/plain
+  ROY-TRN.ASC:
+    mimetype: text/plain
+  ROY-TRS.EXE:
+    mimetype: application/x-msdos-program
+  ROY-TRS1.ASC:
+    mimetype: text/plain
+  ROY-TRS2.ASC:
+    mimetype: text/plain
+  ROY-TRS2.GIF:
+    mimetype: image/gif
+  ROY-TRSC.ANS:
+    mimetype: text/plain
+  ROY-TRSI.ANS:
+    mimetype: text/plain
+  ROY-TRSI.GIF:
+    mimetype: image/gif
+  ROY-TSC.ASC:
+    mimetype: text/plain
+  ROY-UOWC.ASC:
+    mimetype: text/plain
+  ROY-UPLD.ANS:
+    mimetype: text/plain
+  ROY-VDOD.ASC:
+    mimetype: text/plain
+  ROY-VEN.ASC:
+    mimetype: text/plain
+  ROY-VTX.ASC:
+    mimetype: text/plain
+  ROY-VTXD.ASC:
+    mimetype: text/plain
+  ROY-WALL.ANS:
+    mimetype: text/plain
+  ROY-WARE.ASC:
+    mimetype: text/plain
+  ROY-XDID.ASC:
+    mimetype: text/plain
+  ROY-XDIN.ASC:
+    mimetype: text/plain
+  ROY-XF.ASC:
+    mimetype: text/plain
+  ROY-XFAC.ASC:
+    mimetype: text/plain
+  ROY-XFD.ASC:
+    mimetype: text/plain
+  ROY-XFHQ.ANS:
+    mimetype: text/plain
+  ROY-XOV1.ASC:
+    mimetype: text/plain
+  ROY-XOVR.ANS:
+    mimetype: text/plain
+  ROYDNSD2.ASC:
+    mimetype: text/plain
+  ROYDNSD3.ASC:
+    mimetype: text/plain
+  RULEZ.ANS:
+    mimetype: text/plain
+  SCHIZO.ANS:
+    mimetype: text/plain
+  SHADOW.ANS:
+    mimetype: text/plain
+  SHADOW2.ANS:
+    mimetype: text/plain
+  SHADOW4.ANS:
+    mimetype: text/plain
+  SHIT.ANS:
+    mimetype: text/plain
+  SN2.ASC:
+    mimetype: text/plain
+  STORM3.ASC:
+    mimetype: text/plain
+  THEWALL.ANS:
+    mimetype: text/plain
+  TOAOINT.ANS:
+    mimetype: text/plain
+  TRIS.ASC:
+    mimetype: text/plain
+  TRQ_BBS.ANS:
+    mimetype: text/plain
+  TRSI.ANS:
+    mimetype: text/plain
+  TRSI2.ANS:
+    mimetype: text/plain
+  TRSICONF.ANS:
+    mimetype: text/plain
+  TRSINEW.ANS:
+    mimetype: text/plain
+  TRSISUX.ANS:
+    mimetype: text/plain
+  TWIN.ANS:
+    mimetype: text/plain
+  UA2.ASC:
+    mimetype: text/plain
+  UPLOAD.ANS:
+    mimetype: text/plain

@@ -1,0 +1,56 @@
+name: think009.zip
+hash: 8d97977b4f8533ce5de31f469df2585f
+year: 1999
+file:
+  ANSI####.DIV:
+    mimetype: application/octet-stream
+  ASCII###.DIV:
+    mimetype: application/octet-stream
+  CODE####.DIV:
+    mimetype: application/octet-stream
+  COMLB100.ZIP:
+    mimetype: application/zip
+  FD-RUNSC.SCR:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GN-IRIA.ANS:
+    mimetype: text/plain
+  GN-THINK.ANS:
+    mimetype: text/plain
+  INFO####.DIV:
+    mimetype: application/octet-stream
+  LN-DOSRG.ZIP:
+    mimetype: application/zip
+  MISC####.DIV:
+    mimetype: application/octet-stream
+  RR98PIC1.ANS:
+    mimetype: text/plain
+  THINK009.MEM:
+    mimetype: text/plain
+  THINK009.NFO:
+    mimetype: text/plain
+  THINKAPP.EXE:
+    mimetype: application/x-msdos-program
+  ZO-DARKT.ASC:
+    mimetype: text/plain
+  ZO-DIVC.ASC:
+    mimetype: text/plain
+  ZO-M1LN1.ZIP:
+    mimetype: application/zip
+  ZO-MATO3.ZIP:
+    mimetype: application/zip
+  ZO-MFRQ5.ZIP:
+    mimetype: application/zip
+  ZO-MMTX2.ZIP:
+    mimetype: application/zip
+  ZO-MPZ2.ZIP:
+    mimetype: application/zip
+  ZO-MUSER.ANS:
+    mimetype: text/plain
+  ZO-PROB1.PAS:
+    mimetype: text/x-pascal
+  ZO-QUAN.ANS:
+    mimetype: text/plain
+  ZO-SHIP.ANS:
+    mimetype: text/plain

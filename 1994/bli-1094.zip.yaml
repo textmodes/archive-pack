@@ -1,0 +1,42 @@
+name: bli-1094.zip
+hash: 9b7ca838a0a5610ffca2c1c5c26a8c7a
+year: 1994
+file:
+  BLI-1094.NFO:
+    mimetype: text/plain
+  BLI-NEWS.TXT:
+    mimetype: text/plain
+  BLIAPP.BLI:
+    mimetype: text/plain
+  ED-BLI01.EXE:
+    mimetype: application/x-msdos-program
+  ED-BLI02.EXE:
+    mimetype: application/x-msdos-program
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  HT-EDEN3.BLI:
+    mimetype: text/plain
+  HT-FACT.BLI:
+    mimetype: text/plain
+  HT-NO1.RIP:
+    mimetype: image/x-rip
+  HT-NO03.BLI:
+    mimetype: text/plain
+  HT-QI01.BLI:
+    mimetype: text/plain
+  HT-STORM.BLI:
+    mimetype: text/plain
+  HT-SWAMP.RIP:
+    mimetype: image/x-rip
+  MD-BLGRE.GIF:
+    mimetype: image/gif
+  MD-DRW1.GIF:
+    mimetype: image/gif
+  MD-SHADO.GIF:
+    mimetype: image/gif
+  MD-WHYNT.GIF:
+    mimetype: image/gif
+  PH-BLI01.BLI:
+    mimetype: text/plain
+  PN-VXLO1.BLI:
+    mimetype: text/plain

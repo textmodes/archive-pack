@@ -1,0 +1,76 @@
+name: prml0993.zip
+hash: 7103a2d109cabdd99a4d44ccd0121e50
+year: 1993
+file:
+  ARCHIVE.WK:
+    mimetype: text/plain
+  AUTOMENU.WK:
+    mimetype: text/plain
+  BATCH.WK:
+    mimetype: text/plain
+  EMAIL.WK:
+    mimetype: text/plain
+  FILE.WK:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FILE250.WK:
+    mimetype: text/plain
+  GREETS.NFO:
+    mimetype: text/plain
+  KILL_POI.SON:
+    mimetype: text/plain
+  MAIN.WK:
+    mimetype: text/plain
+  MO-DANFO.PRI:
+    mimetype: text/plain
+  MSG.WK:
+    mimetype: text/plain
+  MSG250.WK:
+    mimetype: text/plain
+  OD-FACE.EXE:
+    mimetype: application/x-msdos-program
+  OFFLINE.WK:
+    mimetype: text/plain
+  PERSONAL.WK:
+    mimetype: text/plain
+  PRIMAL.NFO:
+    mimetype: text/plain
+  PRIMLNET.APP:
+    mimetype: text/plain
+  README.NFO:
+    mimetype: text/plain
+  SD-DINO.PRI:
+    mimetype: text/plain
+  SD-PRIM.PRI:
+    mimetype: text/plain
+  TB-CART1.PRI:
+    mimetype: text/plain
+  TB-FILE2.PRI:
+    mimetype: text/plain
+  TB-MAIN1.PRI:
+    mimetype: text/plain
+  TB-STAT1.PRI:
+    mimetype: text/plain
+  WK-AD2.PRI:
+    mimetype: text/plain
+  WK-BLITZ.PRI:
+    mimetype: text/plain
+  WK-CEMGA.PRI:
+    mimetype: text/plain
+  WK-CGAT2.PRI:
+    mimetype: text/plain
+  WK-FSTAT.PRI:
+    mimetype: text/plain
+  WK-MCAST.PRI:
+    mimetype: text/plain
+  WK-PRIME.EXE:
+    mimetype: application/x-msdos-program
+  WK-TDAAD.PRI:
+    mimetype: text/plain
+  WK-TECH9.PRI:
+    mimetype: text/plain
+  WK-WW&N.PRI:
+    mimetype: text/plain
+  WK-WWN.PRI:
+    mimetype: text/plain

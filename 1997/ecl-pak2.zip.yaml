@@ -1,0 +1,66 @@
+name: ecl-pak2.zip
+hash: acd9bd264bdebf7bb33d86cda5f368b2
+year: 1997
+file:
+  (ANSIS).(-):
+    mimetype: application/octet-stream
+  (ASCII).(-):
+    mimetype: application/octet-stream
+  (ECLNFO).(-):
+    mimetype: application/octet-stream
+  (FINITO).(-):
+    mimetype: application/octet-stream
+  (VGA).(-):
+    mimetype: application/octet-stream
+  BIRD.ASC:
+    mimetype: text/plain
+  BUTHEAD.ASC:
+    mimetype: text/plain
+  ECL-NFO2.ANS:
+    mimetype: text/plain
+  ECOLOVE.BMP:
+    mimetype: image/x-ms-bmp
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  IC-BBVL!.ANS:
+    mimetype: text/plain
+  PR_DOPE.ANS:
+    mimetype: text/plain
+  PR_TFTAP.ANS:
+    mimetype: text/plain
+  PR_UGRND.ANS:
+    mimetype: text/plain
+  PR_WONDR.ANS:
+    mimetype: text/plain
+  PRDLSTFD.ANS:
+    mimetype: text/plain
+  PRSNDIZ2.ANS:
+    mimetype: text/plain
+  PRSNMAIL.ANS:
+    mimetype: text/plain
+  SN!COLLY.ANS:
+    mimetype: text/plain
+  SN!CYKO.ANS:
+    mimetype: text/plain
+  SN!HARRY.ANS:
+    mimetype: text/plain
+  SN!LIN.ANS:
+    mimetype: text/plain
+  SN!LM.ANS:
+    mimetype: text/plain
+  SN!LOF.ANS:
+    mimetype: text/plain
+  SN!TFD.ANS:
+    mimetype: text/plain
+  SN!TFT.ANS:
+    mimetype: text/plain
+  TA-COL#2.ANS:
+    mimetype: text/plain
+  TL@ASC5.ANS:
+    mimetype: text/plain
+  TL@MIX!!.ANS:
+    mimetype: text/plain
+  TL@MUIS.ANS:
+    mimetype: text/plain
+  TL@XMAS.ANS:
+    mimetype: text/plain

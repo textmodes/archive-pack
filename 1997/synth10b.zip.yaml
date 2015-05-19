@@ -1,0 +1,36 @@
+name: synth10b.zip
+hash: d5efcb84cc627667926f613e5c7884b2
+year: 1997
+file:
+  0697NEWS.ANS:
+    mimetype: text/plain
+  CT-THUG.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  JPG2GIF.EXE:
+    mimetype: application/x-msdos-program
+  SCVIEW.DOC:
+    mimetype: text/plain
+  SCVIEW.EXE:
+    mimetype: application/x-msdos-program
+  SYD-GRMR.JPG:
+    mimetype: image/jpeg
+  SYD-HOLE.JPG:
+    mimetype: image/jpeg
+  TAX-GYPT.JPG:
+    mimetype: image/jpeg
+  TAX-SHNG.JPG:
+    mimetype: image/jpeg
+  TR-CFA.ANS:
+    mimetype: text/plain
+  TR-LUDE.ANS:
+    mimetype: text/plain
+  TR-SYN.JPG:
+    mimetype: image/jpeg
+  WRP-1ST!.JPG:
+    mimetype: image/jpeg
+  WRP-CL10.ANS:
+    mimetype: text/plain
+  WRP-MSYS.ANS:
+    mimetype: text/plain

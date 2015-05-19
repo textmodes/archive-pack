@@ -1,0 +1,76 @@
+name: s2p-0596.zip
+hash: efc619e8527702b3a29ff709e121e4ac
+year: 1996
+file:
+  ANSI####.###:
+    mimetype: text/plain
+  BR-S2P.ANS:
+    mimetype: text/plain
+  CN-CS.EXE:
+    mimetype: application/x-msdos-program
+  CN-MARY.S3M:
+    mimetype: audio/x-mod
+  CN-PUNK.S3M:
+    mimetype: audio/x-mod
+  EA-STUFF.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  HALLU1ST.COM:
+    mimetype: application/x-msdos-program
+  HR-BUD.LIT:
+    mimetype: text/plain
+  HR-NIG.LIT:
+    mimetype: text/plain
+  HR-SUI.LIT:
+    mimetype: text/plain
+  INFO####.###:
+    mimetype: text/plain
+  LITS####.###:
+    mimetype: text/plain
+  M6-CO.ANS:
+    mimetype: text/plain
+  M6-CS1.ANS:
+    mimetype: text/plain
+  M6-DOOTM.ANS:
+    mimetype: text/plain
+  M6-ERASE.ANS:
+    mimetype: text/plain
+  M6-FJ.ANS:
+    mimetype: text/plain
+  M6-PHAR1.ANS:
+    mimetype: text/plain
+  M6-PHAR2.ANS:
+    mimetype: text/plain
+  M6-SG.ANS:
+    mimetype: text/plain
+  M6-SUGAR.ANS:
+    mimetype: text/plain
+  MC-BAB.ANS:
+    mimetype: text/plain
+  MC-LOGO.ANS:
+    mimetype: text/plain
+  MC-R2D.ANS:
+    mimetype: text/plain
+  MC-SAB.ANS:
+    mimetype: text/plain
+  MISC####.###:
+    mimetype: text/plain
+  MUSIC###.###:
+    mimetype: text/plain
+  PS-S2P.JPG:
+    mimetype: image/jpeg
+  PS-TCK12.ANS:
+    mimetype: text/plain
+  S2P0596.MEM:
+    mimetype: text/plain
+  S2P0596.NFO:
+    mimetype: text/plain
+  SABOTAGE.S3M:
+    mimetype: audio/x-mod
+  VGA#####.###:
+    mimetype: text/plain
+  WZ-CLEAN.S3M:
+    mimetype: audio/x-mod
+  WZ-GREEN.IT:
+    mimetype: audio/x-mod

@@ -1,0 +1,38 @@
+name: ansis-f.zip
+hash: 9088a5b2c62c115ce3da6c5cc33d6304
+year: 1993
+file:
+  -RUNME.COM:
+    mimetype: application/x-msdos-program
+  FACE.ANS:
+    mimetype: text/plain
+  FERRET.ANS:
+    mimetype: text/plain
+  FFACID2.ANS:
+    mimetype: text/plain
+  FFACID3.ANS:
+    mimetype: text/plain
+  FIGACID.ANS:
+    mimetype: text/plain
+  FINALLY.ANS:
+    mimetype: text/plain
+  FISHY.ANS:
+    mimetype: text/plain
+  FLAG.ANS:
+    mimetype: text/plain
+  FLG.ANS:
+    mimetype: text/plain
+  FLINTSTN.ANS:
+    mimetype: text/plain
+  FLT-ACID.ANS:
+    mimetype: text/plain
+  FLYING.ANS:
+    mimetype: text/plain
+  FORBDEN.ANS:
+    mimetype: text/plain
+  FORGEACD.ANS:
+    mimetype: text/plain
+  FRIENDSH.ANS:
+    mimetype: text/plain
+  FT-EL.ANS:
+    mimetype: text/plain

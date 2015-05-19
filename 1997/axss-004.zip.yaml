@@ -1,0 +1,52 @@
+name: axss-004.zip
+hash: 5cdeb1b221799c5d70cdf11bab056dca
+year: 1997
+file:
+  '!ART!.EXE':
+    mimetype: application/x-msdos-program
+  $H-CYBER.ANS:
+    mimetype: text/plain
+  $H-FRANK.ANS:
+    mimetype: text/plain
+  $H-GAL07.ANS:
+    mimetype: text/plain
+  $H-GAL08.ANS:
+    mimetype: text/plain
+  $H-GUN01.ANS:
+    mimetype: text/plain
+  $H-PAIN1.ANS:
+    mimetype: text/plain
+  $H-PAIN2.ANS:
+    mimetype: text/plain
+  $H-PAIN3.ANS:
+    mimetype: text/plain
+  $H-POEM4.ANS:
+    mimetype: text/plain
+  $H-STING.MDZ:
+    mimetype: text/plain
+  $H-STING.XM:
+    mimetype: audio/x-mod
+  $H-WUI.ANS:
+    mimetype: text/plain
+  $H-X_ART.ANS:
+    mimetype: text/plain
+  AXSS-004.MEM:
+    mimetype: text/plain
+  AXSS-004.MSC:
+    mimetype: text/plain
+  AXSS-004.NWS:
+    mimetype: text/plain
+  BURNING.ANS:
+    mimetype: text/plain
+  DESIRE.ASC:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  PRODIGY.RB!:
+    mimetype: application/octet-stream
+  QUAKE06.JPG:
+    mimetype: image/jpeg
+  TZ&MV_2.ANS:
+    mimetype: text/plain
+  TZ-PAT3.ANS:
+    mimetype: text/plain

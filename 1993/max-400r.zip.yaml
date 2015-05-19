@@ -1,0 +1,52 @@
+name: max-400r.zip
+hash: 306ec3f6612dc82890004dc116580959
+year: 1993
+file:
+  BL-MAX5.ANS:
+    mimetype: text/plain
+  BRIPSY.MOD:
+    mimetype: audio/x-mod
+  CC-INFO.NFO:
+    mimetype: text/plain
+  CONTENTS.LST:
+    mimetype: text/plain
+  CT-VOICE.DRV:
+    mimetype: application/octet-stream
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  HISTORY.MAX:
+    mimetype: text/plain
+  LOVE.IT:
+    mimetype: audio/x-mod
+  MAX.DAT:
+    mimetype: application/octet-stream
+  MAXINFO1.DAT:
+    mimetype: application/octet-stream
+  MAXINFO2.DAT:
+    mimetype: application/octet-stream
+  MAXINFO3.DAT:
+    mimetype: application/octet-stream
+  MAXINFO4.DAT:
+    mimetype: application/octet-stream
+  MAXVIEW.EXE:
+    mimetype: application/x-msdos-program
+  MC-MAX1.ANS:
+    mimetype: text/plain
+  MR-MAX.ANS:
+    mimetype: text/plain
+  SD-ACSA2.ANS:
+    mimetype: text/plain
+  SD-VH3.ANS:
+    mimetype: text/plain
+  SD-WHIPL.ANS:
+    mimetype: text/plain
+  SL-PS.ANS:
+    mimetype: text/plain
+  TI-MOD#1.MOD:
+    mimetype: audio/x-mod
+  VANESSA.VOC:
+    mimetype: audio/x-unknown
+  WHATSUP.VOC:
+    mimetype: audio/x-unknown
+  WL-PRIML.EXE:
+    mimetype: application/x-msdos-program

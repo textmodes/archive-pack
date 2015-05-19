@@ -1,0 +1,94 @@
+name: plain11.zip
+hash: 549c4a4e202ca1d790be098e4dc67efa
+year: 1996
+file:
+  '--------.---':
+    mimetype: text/plain
+  -A------.---:
+    mimetype: text/plain
+  -ASCII--.---:
+    mimetype: text/plain
+  -C------.---:
+    mimetype: text/plain
+  -E------.---:
+    mimetype: text/plain
+  -J------.---:
+    mimetype: text/plain
+  -L------.---:
+    mimetype: text/plain
+  -Y------.---:
+    mimetype: text/plain
+  ANSI01.BR:
+    mimetype: text/plain
+  ANSI01.GNU:
+    mimetype: text/plain
+  ANSI01.SF:
+    mimetype: text/plain
+  ANSI02.BR:
+    mimetype: text/plain
+  ANSI02.SR:
+    mimetype: text/plain
+  ANSI02.TCG:
+    mimetype: text/plain
+  ANSI03.DD:
+    mimetype: text/plain
+  ANSI03.K1:
+    mimetype: text/plain
+  ANSI03.SR:
+    mimetype: text/plain
+  ANSI04.K1:
+    mimetype: text/plain
+  ANSI04.SR:
+    mimetype: text/plain
+  ANSI07.P01:
+    mimetype: text/plain
+  ANSI19.WO:
+    mimetype: text/plain
+  ANSI22.36:
+    mimetype: text/plain
+  ASKI01.BR:
+    mimetype: text/plain
+  ASKI01.NR:
+    mimetype: text/plain
+  ASKI01.PL:
+    mimetype: text/x-perl
+  COLI01.DD:
+    mimetype: text/plain
+  COLI01.GRP:
+    mimetype: text/plain
+  COLI04.GT:
+    mimetype: text/plain
+  COLI04.NRC:
+    mimetype: text/plain
+  COLI05.WO:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  INFO.01:
+    mimetype: text/plain
+  INFO.02:
+    mimetype: text/plain
+  INFO02.DD:
+    mimetype: text/plain
+  JOINT14.GRP:
+    mimetype: text/plain
+  JOINT15.GRP:
+    mimetype: text/plain
+  JOINT16.GRP:
+    mimetype: text/plain
+  LIQUID.ZIP:
+    mimetype: application/zip
+  LOGO01.DD:
+    mimetype: text/plain
+  LOGO01.L5:
+    mimetype: text/plain
+  LOGO01.TCG:
+    mimetype: text/plain
+  LOGO02.WO:
+    mimetype: text/plain
+  LOGO08.GT:
+    mimetype: text/plain
+  PLASTIC.EXE:
+    mimetype: application/x-msdos-program
+  SPAMAPP.EXE:
+    mimetype: application/x-msdos-program

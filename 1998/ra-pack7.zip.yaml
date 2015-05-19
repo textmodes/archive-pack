@@ -1,0 +1,44 @@
+name: ra-pack7.zip
+hash: cecdbd3cc541952baca122b0df14c299
+year: 1998
+file:
+  AB-RA2.ASC:
+    mimetype: text/plain
+  AB-SLOG0.ANS:
+    mimetype: text/plain
+  AB-STAT.ANS:
+    mimetype: text/plain
+  AB-STOPU.ANS:
+    mimetype: text/plain
+  PPE-INFO.ANS:
+    mimetype: text/plain
+  PPE-S.ANS:
+    mimetype: text/plain
+  RAVIEW.EXE:
+    mimetype: application/x-msdos-program
+  REBELAPP.EXE:
+    mimetype: application/x-msdos-program
+  REBELNFO.ANS:
+    mimetype: text/plain
+  RG-RA10.ANS:
+    mimetype: text/plain
+  RG-RIOT4.ANS:
+    mimetype: text/plain
+  RG-SEN9.ANS:
+    mimetype: text/plain
+  RG-SIK1.ANS:
+    mimetype: text/plain
+  RG-SPIN2.ANS:
+    mimetype: text/plain
+  RG-THO16.ANS:
+    mimetype: text/plain
+  SUICIDE4.LIT:
+    mimetype: text/plain
+  THOM.NFO:
+    mimetype: text/plain
+  US-ART.ANS:
+    mimetype: text/plain
+  US-DEEP.ANS:
+    mimetype: text/plain
+  US-FUTUR.ASC:
+    mimetype: text/plain

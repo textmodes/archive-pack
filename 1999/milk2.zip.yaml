@@ -1,0 +1,26 @@
+name: milk2.zip
+hash: 8c368d6a74cff28258af3581cb093d92
+year: 1999
+file:
+  1 - share.jpg:
+    mimetype: image/jpeg
+  2 - cave.jpg:
+    mimetype: image/jpeg
+  3 - work.jpg:
+    mimetype: image/jpeg
+  4 - snow.jpg:
+    mimetype: image/jpeg
+  5 - pc.jpg:
+    mimetype: image/jpeg
+  6 - lamp.jpg:
+    mimetype: image/jpeg
+  7 - bottle.jpg:
+    mimetype: image/jpeg
+  8 - road.jpg:
+    mimetype: image/jpeg
+  9 - design.jpg:
+    mimetype: image/jpeg
+  file_id.diz:
+    mimetype: text/plain
+  milk2.nfo:
+    mimetype: text/plain

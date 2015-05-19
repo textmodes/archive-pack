@@ -1,0 +1,122 @@
+name: mft-0594.zip
+hash: a82256fc8994f0ad0716ec50f49dc3d9
+year: 1994
+file:
+  BB-MFT.ANS:
+    mimetype: text/plain
+  BB-TDS1.ANS:
+    mimetype: text/plain
+  BB-TPP.ANS:
+    mimetype: text/plain
+  BO-CH0.ANS:
+    mimetype: text/plain
+  BO-E112.ANS:
+    mimetype: text/plain
+  BO-GTH3.ANS:
+    mimetype: text/plain
+  BO-HCH.ANS:
+    mimetype: text/plain
+  BO-RNN.ANS:
+    mimetype: text/plain
+  BO-TMP.ANS:
+    mimetype: text/plain
+  BO-TPP.ANS:
+    mimetype: text/plain
+  DFXAOC.MTM:
+    mimetype: application/octet-stream
+  DP-INTNT.RIP:
+    mimetype: image/x-rip
+  DP-MFUK.RIP:
+    mimetype: image/x-rip
+  DP-NN.RIP:
+    mimetype: image/x-rip
+  DP-RISC.RIP:
+    mimetype: image/x-rip
+  DR-ACDRN.LIT:
+    mimetype: text/plain
+  DR-FF.LIT:
+    mimetype: text/plain
+  DR-JAO.LIT:
+    mimetype: text/plain
+  DR-MFT.LIT:
+    mimetype: text/plain
+  DR-ZH.LIT:
+    mimetype: text/plain
+  DR-ZH2.LIT:
+    mimetype: text/plain
+  ETC-ANCB.LIT:
+    mimetype: text/plain
+  ETC-MS.LIT:
+    mimetype: text/plain
+  ETC-SOM.LIT:
+    mimetype: text/plain
+  ETC-TDS.LIT:
+    mimetype: text/plain
+  ETC-TS.LIT:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GB-EVIL2.ANS:
+    mimetype: text/plain
+  INTPAK01.ZIP:
+    mimetype: application/zip
+  MFT-0594.MEM:
+    mimetype: text/plain
+  MFT-0594.NFO:
+    mimetype: text/plain
+  MFTAPP.EXE:
+    mimetype: application/x-msdos-program
+  MFTVIEW.EXE:
+    mimetype: application/x-msdos-program
+  OF&DP-C0.RIP:
+    mimetype: image/x-rip
+  OF-LANCE.RIP:
+    mimetype: image/x-rip
+  OF-REV9.RIP:
+    mimetype: image/x-rip
+  PD-EI6.RIP:
+    mimetype: image/x-rip
+  PD-EN4.ANS:
+    mimetype: text/plain
+  PX-ADCT.ANS:
+    mimetype: text/plain
+  PX-DOR1.ANS:
+    mimetype: text/plain
+  QX-MFT.ANS:
+    mimetype: text/plain
+  QX-NN.ANS:
+    mimetype: text/plain
+  QX-PS.ANS:
+    mimetype: text/plain
+  QX-ZONE5.ANS:
+    mimetype: text/plain
+  SP-DD1.ANS:
+    mimetype: text/plain
+  SP-ICE.ANS:
+    mimetype: text/plain
+  SP-MFT5.ANS:
+    mimetype: text/plain
+  SP-MOON.ANS:
+    mimetype: text/plain
+  SP-SLIME.ANS:
+    mimetype: text/plain
+  SP-SUCK.ANS:
+    mimetype: text/plain
+  SZ-MFT.GIF:
+    mimetype: image/gif
+  TM-EL112.ANS:
+    mimetype: text/plain
+  TM-PGN1.ANS:
+    mimetype: text/plain
+  TM-WS1.ANS:
+    mimetype: text/plain
+  ZH-CNET1.ANS:
+    mimetype: text/plain
+  ZH-MFT1.ANS:
+    mimetype: text/plain
+  ZH-MFUK1.ANS:
+    mimetype: text/plain
+  ZH-SOB2.ANS:
+    mimetype: text/plain
+  ZH00002.LIT:
+    mimetype: text/plain

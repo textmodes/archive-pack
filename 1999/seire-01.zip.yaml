@@ -1,0 +1,30 @@
+name: seire-01.zip
+hash: 4fc82de3e1385bc961ef222d86898e01
+year: 1999
+file:
+  S01-MEM.TXT:
+    mimetype: text/plain
+  S01-NEWS.TXT:
+    mimetype: text/plain
+  ia-butterfly.jpg:
+    mimetype: image/jpeg
+  ia-darkness.jpg:
+    mimetype: image/jpeg
+  ia-midnightdance.jpg:
+    mimetype: image/jpeg
+  ia-nightfall.jpg:
+    mimetype: image/jpeg
+  ia-revelation.jpg:
+    mimetype: image/jpeg
+  ik_lily.jpg:
+    mimetype: image/jpeg
+  ik_uchimvi.jpg:
+    mimetype: image/jpeg
+  km-seire.gif:
+    mimetype: image/gif
+  seire.gif:
+    mimetype: image/gif
+  sp-tt.jpg:
+    mimetype: image/jpeg
+  us-fear.jpg:
+    mimetype: image/jpeg

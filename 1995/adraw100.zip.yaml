@@ -1,0 +1,16 @@
+name: adraw100.zip
+hash: d41c8d64a13c051647c3d2965ddd87fa
+year: 1995
+file:
+  !!binary 4E3R5Z3DtP8uRVhF:
+    mimetype: application/x-msdos-program
+  ACIDDRAW.DOC:
+    mimetype: text/plain
+  ACIDDRAW.EXE:
+    mimetype: application/x-msdos-program
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  NEO.COM:
+    mimetype: application/x-msdos-program
+  WORKSHOP.BBS:
+    mimetype: text/plain

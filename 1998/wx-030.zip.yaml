@@ -1,0 +1,16 @@
+name: wx-030.zip
+hash: 9db1b4578a6612cfa1074a7a56607e0c
+year: 1998
+file:
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  WX.APP:
+    mimetype: application/octet-stream
+  WX.NFO:
+    mimetype: text/plain
+  WX030-01.JPG:
+    mimetype: image/jpeg
+  WX030-02.JPG:
+    mimetype: image/jpeg
+  WX030-03.JPG:
+    mimetype: image/jpeg

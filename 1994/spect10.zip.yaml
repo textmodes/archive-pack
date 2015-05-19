@@ -1,0 +1,12 @@
+name: spect10.zip
+hash: 2090c42651988cb349302152e2c6f39b
+year: 1994
+file:
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  NEOTOKYO.ANS:
+    mimetype: text/plain
+  SPECT.EXE:
+    mimetype: application/x-msdos-program
+  SPECT.TXT:
+    mimetype: text/plain

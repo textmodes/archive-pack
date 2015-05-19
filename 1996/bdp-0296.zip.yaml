@@ -1,0 +1,96 @@
+name: bdp-0296.zip
+hash: ee839f8bffe61d1df30c1571e430bbd8
+year: 1996
+file:
+  '%%ANSI%%':
+    mimetype: text/plain
+  '%%ASCII%':
+    mimetype: text/plain
+  '%%BIN%%%':
+    mimetype: text/plain
+  '%%EXE%%%':
+    mimetype: text/plain
+  '%%INFO%%':
+    mimetype: text/plain
+  '%%RIP%%%':
+    mimetype: text/plain
+  '%%VGA%%%':
+    mimetype: text/plain
+  BASTARDS.ASC:
+    mimetype: text/plain
+  BDP%0296.LST:
+    mimetype: text/plain
+  BDP%0296.NWS:
+    mimetype: text/plain
+  BDPAPP.EXE:
+    mimetype: application/x-msdos-program
+  BDPREQ.EXE:
+    mimetype: application/x-msdos-program
+  CHICKEN!.EXE:
+    mimetype: application/x-msdos-program
+  CO-LEGEN.ANS:
+    mimetype: text/plain
+  CO-PROTO.ANS:
+    mimetype: text/plain
+  CO-PRU.ANS:
+    mimetype: text/plain
+  CO-SCROL.ANS:
+    mimetype: text/plain
+  DOS4GW.EXE:
+    mimetype: application/x-msdos-program
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GET_DA_R.AVE:
+    mimetype: text/plain
+  GS-INSO2.ANS:
+    mimetype: text/plain
+  GS-INSOM.ANS:
+    mimetype: text/plain
+  N$-CEREM.ANS:
+    mimetype: text/plain
+  N$-TERR2.ANS:
+    mimetype: text/plain
+  N$-TERRA.ANS:
+    mimetype: text/plain
+  N$-USSAU.ASC:
+    mimetype: text/plain
+  N$-XTRE2.ASC:
+    mimetype: text/plain
+  N$-XTREM.ANS:
+    mimetype: text/plain
+  RC(BADH).ANS:
+    mimetype: text/plain
+  RC(CATH).ANS:
+    mimetype: text/plain
+  RC(DEV2).ANS:
+    mimetype: text/plain
+  RC(MEN2).ANS:
+    mimetype: text/plain
+  RC(PROT).ASC:
+    mimetype: text/plain
+  RC(SHIT).ANS:
+    mimetype: text/plain
+  RC(VITA).ASC:
+    mimetype: text/plain
+  TB-BDP.ANS:
+    mimetype: text/plain
+  TH-LOGO.ASC:
+    mimetype: text/plain
+  TH-TCORP.ASC:
+    mimetype: text/plain
+  WT-CRY.ANS:
+    mimetype: text/plain
+  WT-OHNO.ANS:
+    mimetype: text/plain
+  WT-WILDS.ANS:
+    mimetype: text/plain
+  WZ-ASTR.JPG:
+    mimetype: image/jpeg
+  WZ-DIGHP.JPG:
+    mimetype: image/jpeg
+  WZ-GRAF.JPG:
+    mimetype: image/jpeg
+  WZ-HPHDR.JPG:
+    mimetype: image/jpeg
+  WZ-NINJA.JPG:
+    mimetype: image/jpeg

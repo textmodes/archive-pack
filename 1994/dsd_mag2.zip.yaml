@@ -1,0 +1,64 @@
+name: dsd_mag2.zip
+hash: d50f9149196fe47cb923822f6783aaec
+year: 1994
+file:
+  DIST.000:
+    mimetype: application/octet-stream
+  DIST.1_4:
+    mimetype: application/octet-stream
+  DIST.1_5:
+    mimetype: application/octet-stream
+  DIST.001:
+    mimetype: application/octet-stream
+  DIST.2_4:
+    mimetype: application/octet-stream
+  DIST.2_5:
+    mimetype: application/octet-stream
+  DIST.002:
+    mimetype: application/octet-stream
+  DIST.3_4:
+    mimetype: application/octet-stream
+  DIST.3_5:
+    mimetype: application/octet-stream
+  DIST.003:
+    mimetype: application/octet-stream
+  DIST.4_4:
+    mimetype: application/octet-stream
+  DIST.4_5:
+    mimetype: application/octet-stream
+  DIST.004:
+    mimetype: application/octet-stream
+  DIST.5_4:
+    mimetype: application/octet-stream
+  DIST.6_4:
+    mimetype: application/octet-stream
+  DIST.7_4:
+    mimetype: application/octet-stream
+  DIST.8_4:
+    mimetype: application/octet-stream
+  DIST.DAT:
+    mimetype: text/plain
+  DIST.EXE:
+    mimetype: application/x-msdos-program
+  DIST.FNT:
+    mimetype: application/octet-stream
+  DIST.TEX:
+    mimetype: text/x-tex
+  DISTMAIN.EXE:
+    mimetype: application/x-msdos-program
+  DISTMZAK.1:
+    mimetype: audio/x-mod
+  DISTMZAK.2:
+    mimetype: audio/x-mod
+  DISTMZAK.3:
+    mimetype: audio/x-mod
+  DISTPLAY.EXE:
+    mimetype: application/x-msdos-program
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  MAG.BAT:
+    mimetype: application/x-msdos-program
+  MX-DSD.EXE:
+    mimetype: application/x-msdos-program
+  README.NOW:
+    mimetype: text/plain

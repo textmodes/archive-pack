@@ -1,0 +1,58 @@
+name: nat-0894.zip
+hash: 2f186da3ecf0c13a07ed21799ae7d5a9
+year: 1994
+file:
+  AK-WARN1.NAT:
+    mimetype: text/plain
+  AN-PROX.BIN:
+    mimetype: application/octet-stream
+  AN-TCW.NAT:
+    mimetype: text/plain
+  AN-THA.NAT:
+    mimetype: text/plain
+  ARCHIVE.NFO:
+    mimetype: text/plain
+  CX-DIGIT.NAT:
+    mimetype: text/plain
+  FD-DPS.NAT:
+    mimetype: text/plain
+  FD-DR.NAT:
+    mimetype: text/plain
+  FD-NATD.GIF:
+    mimetype: image/gif
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  L0-WAAD1.NAT:
+    mimetype: text/plain
+  MA-CATH.NAT:
+    mimetype: text/plain
+  MA-CW1.NAT:
+    mimetype: text/plain
+  MA-RLT.NAT:
+    mimetype: text/plain
+  MM-DS1.NAT:
+    mimetype: text/plain
+  MS-AP.NAT:
+    mimetype: text/plain
+  MS-FR1.NAT:
+    mimetype: text/plain
+  NAT-0894.NAT:
+    mimetype: text/plain
+  NAT-0894.NFO:
+    mimetype: text/plain
+  NV.DOC:
+    mimetype: text/plain
+  NV.EXE:
+    mimetype: application/x-msdos-program
+  SI-HSPHR.NAT:
+    mimetype: text/plain
+  SI-MTRX1.NAT:
+    mimetype: text/plain
+  SPOT-01.ZIP:
+    mimetype: application/zip
+  TMP-BOI1.NAT:
+    mimetype: text/plain
+  WELCOME.1:
+    mimetype: text/plain
+  YUCK-02.ZIP:
+    mimetype: application/zip

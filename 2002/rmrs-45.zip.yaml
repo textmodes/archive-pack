@@ -1,0 +1,90 @@
+name: rmrs-45.zip
+hash: fee0ef3db9961c09360e6b2230161e65
+year: 2002
+file:
+  ARL-FRAC.ANS:
+    mimetype: text/plain
+  ARL-HELP.ASC:
+    mimetype: text/plain
+  ARL-PIXE.ASC:
+    mimetype: text/plain
+  ARL-RAST.ANS:
+    mimetype: text/plain
+  ARL-RMRS.ASC:
+    mimetype: text/plain
+  AXB0102.ASC:
+    mimetype: text/plain
+  AXB911.ASC:
+    mimetype: text/plain
+  Bne!pg.asc:
+    mimetype: text/plain
+  CD-DR.ANS:
+    mimetype: text/plain
+  CD-GALM.ASC:
+    mimetype: text/plain
+  Cd-ru.ans:
+    mimetype: text/plain
+  Cd-zlg.mnd:
+    mimetype: text/plain
+  NT-L0G0Z.ANS:
+    mimetype: text/plain
+  Nt-chat.ans:
+    mimetype: text/plain
+  REMORSE.NFO:
+    mimetype: text/plain
+  RM-FIX.ASC:
+    mimetype: text/plain
+  RM-USELE.ASC:
+    mimetype: text/plain
+  RV.EXE:
+    mimetype: application/x-msdos-program
+  TN-ELIZA.ASC:
+    mimetype: text/plain
+  TN-SNAT.ASC:
+    mimetype: text/plain
+  TN-VAN.ASC:
+    mimetype: text/plain
+  US-LH.ASC:
+    mimetype: text/plain
+  US-PSY.ANS:
+    mimetype: text/plain
+  VOL-GRS.TXT:
+    mimetype: text/plain
+  er-bdz.asc:
+    mimetype: text/plain
+  er-ho.asc:
+    mimetype: text/plain
+  er-mtnws.asc:
+    mimetype: text/plain
+  er-tfrc.asc:
+    mimetype: text/plain
+  er-zgr.asc:
+    mimetype: text/plain
+  file_id.diz:
+    mimetype: text/plain
+  nt-pyro.ans:
+    mimetype: text/plain
+  pix-aprd.asc:
+    mimetype: text/plain
+  pix-ashtar.asc:
+    mimetype: text/plain
+  pix-bofh2.asc:
+    mimetype: text/plain
+  pix-fa.asc:
+    mimetype: text/plain
+  pix-jini.asc:
+    mimetype: text/plain
+  pix-mbc.asc:
+    mimetype: text/plain
+  pix-poki.asc:
+    mimetype: text/plain
+  radman.txt:
+    mimetype: text/plain
+  to-abek4t.asc:
+    mimetype: text/plain
+  to-deton.asc:
+    mimetype: text/plain
+  tr5-slave.asc:
+    mimetype: text/plain
+  us-fa.asc:
+    mimetype: text/plain

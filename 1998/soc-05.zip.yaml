@@ -1,0 +1,134 @@
+name: soc-05.zip
+hash: 246bdaec18bba827a5ff19c318bddff7
+year: 1998
+file:
+  '---ANSI.---':
+    mimetype: text/plain
+  '---ASCII.---':
+    mimetype: text/plain
+  '---DIZ.---':
+    mimetype: text/plain
+  '---EXE.---':
+    mimetype: text/plain
+  '---INFO.---':
+    mimetype: text/plain
+  '---OTHER.---':
+    mimetype: text/plain
+  '---RIP.---':
+    mimetype: text/plain
+  '---SOC98.---':
+    mimetype: text/plain
+  '---VGA.---':
+    mimetype: text/plain
+  0000READ.NOW:
+    mimetype: text/plain
+  000SOCVU.HSC:
+    mimetype: application/octet-stream
+  5D-END0.ANS:
+    mimetype: text/plain
+  5D-LASC.ANS:
+    mimetype: text/plain
+  5D-PURG.ANS:
+    mimetype: text/plain
+  5D-SOC1.ANS:
+    mimetype: text/plain
+  05SOCMEM.ANS:
+    mimetype: text/plain
+  05SOCNFO.ANS:
+    mimetype: text/plain
+  ANSIALL5.COM:
+    mimetype: application/x-msdos-program
+  ANX-TIC.ASC:
+    mimetype: text/plain
+  ANX-TIX.GIF:
+    mimetype: image/gif
+  ARL-DEAT.ANS:
+    mimetype: text/plain
+  BL-C2.ASC:
+    mimetype: text/plain
+  BL-LOST.ASC:
+    mimetype: text/plain
+  BL-LS.ASC:
+    mimetype: text/plain
+  BL-RMRS.ASC:
+    mimetype: text/plain
+  BL-SLIDE.ASC:
+    mimetype: text/plain
+  BL-SUICI.JPG:
+    mimetype: image/jpeg
+  BL-ZJAC2.JPG:
+    mimetype: image/jpeg
+  CG-LV1.ANS:
+    mimetype: text/plain
+  E0-HOW.ANS:
+    mimetype: text/plain
+  E0-HYS1.ANS:
+    mimetype: text/plain
+  E0-SAMU.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  H98-SITL.ASC:
+    mimetype: text/plain
+  H98-SKD!.ASC:
+    mimetype: text/plain
+  MC-FUNK.RIP:
+    mimetype: image/x-rip
+  NS-SOC1.RIP:
+    mimetype: image/x-rip
+  NS-WITCH.RIP:
+    mimetype: image/x-rip
+  NS-YOW.RIP:
+    mimetype: image/x-rip
+  OS-LV.JPG:
+    mimetype: image/jpeg
+  RZ-BYEOK.ANS:
+    mimetype: text/plain
+  RZ-INNER.TXT:
+    mimetype: text/plain
+  RZ-MIST!.ANS:
+    mimetype: text/plain
+  RZ-MIST1.ANS:
+    mimetype: text/plain
+  RZ-REALM.TXT:
+    mimetype: text/plain
+  RZ-SOC!!.ANS:
+    mimetype: text/plain
+  RZ-SOCTY.TXT:
+    mimetype: text/plain
+  RZ-TDF!.TXT:
+    mimetype: text/plain
+  SOC-APP.EXE:
+    mimetype: application/x-msdos-program
+  SOC-REQ.EXE:
+    mimetype: application/x-msdos-program
+  SOC-VIEW.EXE:
+    mimetype: application/x-msdos-program
+  SOCVIEW.DAT:
+    mimetype: application/octet-stream
+  TD-CSODA.ASC:
+    mimetype: text/plain
+  TD-DFEL.ASC:
+    mimetype: text/plain
+  TD-SY.ASC:
+    mimetype: text/plain
+  TH-FATA2.ASC:
+    mimetype: text/plain
+  TH-IFOX.ASC:
+    mimetype: text/plain
+  TH-INDU2.ASC:
+    mimetype: text/plain
+  TH-LUNA3.ASC:
+    mimetype: text/plain
+  US-DARKF.ANS:
+    mimetype: text/plain
+  US-GNC.RIP:
+    mimetype: image/x-rip
+  US-LUNA2.ANS:
+    mimetype: text/plain
+  WS_LUC~1.JPG:
+    mimetype: image/jpeg
+  WS_SOC.JPG:
+    mimetype: image/jpeg
+  WU36-SOC.GIF:
+    mimetype: image/gif

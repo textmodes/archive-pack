@@ -1,0 +1,20 @@
+name: jsf_tdf.zip
+hash: d46873d6ba281760bef223e1bb107274
+year: 1993
+file:
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FUN!.COM:
+    mimetype: application/x-msdos-program
+  JSFRASTE.TDF:
+    mimetype: application/octet-stream
+  JSFRASTR.TDF:
+    mimetype: application/octet-stream
+  JSFTHICK.TDF:
+    mimetype: application/octet-stream
+  JSFTHIN.TDF:
+    mimetype: application/octet-stream
+  JSFWIDE.TDF:
+    mimetype: application/octet-stream
+  QUICK.NFO:
+    mimetype: text/plain

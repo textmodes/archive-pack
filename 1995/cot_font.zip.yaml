@@ -1,0 +1,22 @@
+name: cot_font.zip
+hash: 7a54d99f776d8ec3362c50a153c78587
+year: 1995
+file:
+  ANGEL.EXE:
+    mimetype: application/x-msdos-program
+  ANTI-VIR.DAT:
+    mimetype: application/octet-stream
+  COT_FONT.ASM:
+    mimetype: text/plain
+  COT_FONT.COM:
+    mimetype: application/x-msdos-program
+  COT_FONT.NFO:
+    mimetype: text/plain
+  COT_FONT.PAS:
+    mimetype: text/x-pascal
+  DEMO.EXE:
+    mimetype: application/x-msdos-program
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  THA_PIT.EXE:
+    mimetype: application/x-msdos-program

@@ -1,0 +1,26 @@
+name: tdrw470r.zip
+hash: 41857f5ea7ba68cfbf3033de129fa74e
+year: 1993
+file:
+  CRAFT.ASC:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  INFOS.TXT:
+    mimetype: text/plain
+  INSTALL.BAT:
+    mimetype: application/x-msdos-program
+  MAJVIT.TXT:
+    mimetype: text/plain
+  NEOTOKYO.ANS:
+    mimetype: text/plain
+  README.DOC:
+    mimetype: text/plain
+  REGUTILS.ZIP:
+    mimetype: application/zip
+  TDRAW461.ZIP:
+    mimetype: application/zip
+  TDREG.EXE:
+    mimetype: application/x-msdos-program
+  THEARJ.EXE:
+    mimetype: application/x-msdos-program

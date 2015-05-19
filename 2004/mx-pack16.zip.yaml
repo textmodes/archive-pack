@@ -1,0 +1,70 @@
+name: mx-pack16.zip
+hash: ef63aa66274e6bd4811924b3be7970f8
+year: 2004
+file:
+  ASCII/ANSI/MX-27IL.ANS:
+    mimetype: text/plain
+  ASCII/ANSI/MX-ENZO.ANS:
+    mimetype: text/plain
+  ASCII/ANSI/MX-SARS.ANS:
+    mimetype: text/plain
+  ASCII/ANSI/MX-SOL.ANS:
+    mimetype: text/plain
+  ASCII/MX-ENRA.ASC:
+    mimetype: text/plain
+  ASCII/MX-EOHV.ASC:
+    mimetype: text/plain
+  ASCII/MX-GECKO.ASC:
+    mimetype: text/plain
+  ASCII/MX-HOE.ASC:
+    mimetype: text/plain
+  ASCII/MX-MJD.ASC:
+    mimetype: text/plain
+  ASCII/MX-MOONS.ASC:
+    mimetype: text/plain
+  ASCII/MX-PAGAN.ASC:
+    mimetype: text/plain
+  ASCII/MX-RTT.ASC:
+    mimetype: text/plain
+  ASCII/MX-RZR2.ASC:
+    mimetype: text/plain
+  ASCII/MX-SARS1.ASC:
+    mimetype: text/plain
+  ASCII/MX-TLTA.ASC:
+    mimetype: text/plain
+  ASCII/MX-TLTV.ASC:
+    mimetype: text/plain
+  ASCII/MX-TOPHA.ASC:
+    mimetype: text/plain
+  FILE-ID.DIZ:
+    mimetype: text/plain
+  HIREZ/Tablet Speedpaintings/03.jpg:
+    mimetype: image/jpeg
+  HIREZ/Tablet Speedpaintings/mx-man.jpg:
+    mimetype: image/jpeg
+  HIREZ/UNFINISHED-nc-logo.jpg:
+    mimetype: image/jpeg
+  HIREZ/mx-asphyx-logo.jpg:
+    mimetype: image/jpeg
+  HIREZ/mx-eatsushi-logo.jpg:
+    mimetype: image/jpeg
+  HIREZ/mx-myth-trainer-ui2.gif:
+    mimetype: image/gif
+  HIREZ/mx-pirate.jpg:
+    mimetype: image/jpeg
+  HIREZ/mx-shrimps-design-logo.jpg:
+    mimetype: image/jpeg
+  HIREZ/mx-sx-logo.jpg:
+    mimetype: image/jpeg
+  HIREZ/mx-vengeance-trainer-ui2.gif:
+    mimetype: image/gif
+  ICONS/mx-myth-icon1.ico:
+    mimetype: image/x-icon
+  ICONS/mx-myth-icon2.ico:
+    mimetype: image/x-icon
+  ICONS/mx-vengeance-trainer-icon1.ico:
+    mimetype: image/x-icon
+  MAXXTRO.NFO:
+    mimetype: text/plain
+  zv-lmx.ans:
+    mimetype: text/plain

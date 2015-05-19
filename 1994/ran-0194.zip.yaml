@@ -1,0 +1,54 @@
+name: ran-0194.zip
+hash: 5afec9a0232fa2f649ec7a6f71167b01
+year: 1994
+file:
+  DM-DARKS.LIT:
+    mimetype: text/plain
+  DM-STAT.RAN:
+    mimetype: text/plain
+  DM-TDSLG.RAN:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FUN!.COM:
+    mimetype: application/x-msdos-program
+  INSANITY.!!!:
+    mimetype: text/plain
+  JAG-BLAK.LIT:
+    mimetype: text/plain
+  JAG-VRCA.LIT:
+    mimetype: text/plain
+  JAG-WST.LIT:
+    mimetype: text/plain
+  RANAPP.EXE:
+    mimetype: application/x-msdos-program
+  RANCID.EXE:
+    mimetype: application/x-msdos-program
+  RANCID.NFO:
+    mimetype: text/plain
+  RANCVIEW.EXE:
+    mimetype: application/x-msdos-program
+  README.1ST:
+    mimetype: text/plain
+  SZ-CRAK2.RAN:
+    mimetype: text/plain
+  SZ-IMNET.RAN:
+    mimetype: text/plain
+  SZ-INSAN.LIT:
+    mimetype: text/plain
+  SZ-RANC.RAN:
+    mimetype: text/plain
+  SZ-RANC2.RAN:
+    mimetype: text/plain
+  SZ-SCAR.RAN:
+    mimetype: text/plain
+  SZ-TF2.RAN:
+    mimetype: text/plain
+  SZ-VIP.RAN:
+    mimetype: text/plain
+  SZ-WATCH.RAN:
+    mimetype: text/plain
+  SZST-TMF.RAN:
+    mimetype: text/plain
+  VG-RNC2.MOD:
+    mimetype: audio/x-mod

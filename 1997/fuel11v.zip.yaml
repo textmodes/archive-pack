@@ -1,0 +1,44 @@
+name: fuel11v.zip
+hash: 9e45958aac618551d80015dc5e664081
+year: 1997
+file:
+  '!MEMLIST.ANS':
+    mimetype: text/plain
+  '!NFOFILE.ANS':
+    mimetype: text/plain
+  3D-BFUEL.JPG:
+    mimetype: image/jpeg
+  CK-IMAGN.JPG:
+    mimetype: image/jpeg
+  CK-WEST.JPG:
+    mimetype: image/jpeg
+  EN-SPAS.JPG:
+    mimetype: image/jpeg
+  F7-GAS7.JPG:
+    mimetype: image/jpeg
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  J-2DUMP.JPG:
+    mimetype: image/jpeg
+  J-ITC.JPG:
+    mimetype: image/jpeg
+  J-MIR.JPG:
+    mimetype: image/jpeg
+  MR-DESKC.JPG:
+    mimetype: image/jpeg
+  ND-EMERG.JPG:
+    mimetype: image/jpeg
+  ND-IMMO.JPG:
+    mimetype: image/jpeg
+  ND-PILOT.JPG:
+    mimetype: image/jpeg
+  ND-RITU.JPG:
+    mimetype: image/jpeg
+  TRAUMA.BBS:
+    mimetype: text/plain
+  WX-DAC.JPG:
+    mimetype: image/jpeg
+  WX-DANCE.JPG:
+    mimetype: image/jpeg
+  WX-SFCTY.JPG:
+    mimetype: image/jpeg

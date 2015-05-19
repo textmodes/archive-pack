@@ -1,0 +1,12 @@
+name: ansis-z.zip
+hash: a89867d634640a0303d6afd684dfd087
+year: 1993
+file:
+  -RUNME.COM:
+    mimetype: application/x-msdos-program
+  Z-END.ANS:
+    mimetype: text/plain
+  ZFOLKS.ANS:
+    mimetype: text/plain
+  ZI-MP.ANS:
+    mimetype: text/plain

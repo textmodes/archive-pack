@@ -1,0 +1,112 @@
+name: su-1194.zip
+hash: 26f555bfb761d0bf0808b4b518796087
+year: 1994
+file:
+  ATOMIC.EXE:
+    mimetype: application/x-msdos-program
+  DK-BIO1.ANS:
+    mimetype: text/plain
+  DK-DRVIN.LIT:
+    mimetype: text/plain
+  DK-MAJOR.LIT:
+    mimetype: text/plain
+  DK-SUI2.ANS:
+    mimetype: text/plain
+  DV-BROKE.LIT:
+    mimetype: text/plain
+  DV-END.LIT:
+    mimetype: text/plain
+  DV-EXP.LIT:
+    mimetype: text/plain
+  DV-FEAR.LIT:
+    mimetype: text/plain
+  DV-KILL.LIT:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GR-ATOM.ANS:
+    mimetype: text/plain
+  GR-BIO.ANS:
+    mimetype: text/plain
+  GR-CNG.ANS:
+    mimetype: text/plain
+  GR-HOOD1.LIT:
+    mimetype: text/plain
+  GR-LOGO.ANS:
+    mimetype: text/plain
+  GR-SI.ANS:
+    mimetype: text/plain
+  GS-EVIL.ANS:
+    mimetype: text/plain
+  LT-1000.LIT:
+    mimetype: text/plain
+  LT-DOG.LIT:
+    mimetype: text/plain
+  LT-POP.LIT:
+    mimetype: text/plain
+  LT-SOC.LIT:
+    mimetype: text/plain
+  LT-STS.LIT:
+    mimetype: text/plain
+  MA-LOTE.ANS:
+    mimetype: text/plain
+  ND-AD1.ANS:
+    mimetype: text/plain
+  ND-AD2.ANS:
+    mimetype: text/plain
+  ND-ATOM.PCX:
+    mimetype: image/pcx
+  ND-BIO1.ANS:
+    mimetype: text/plain
+  ND-CIDE.ANS:
+    mimetype: text/plain
+  ND-DIST.ANS:
+    mimetype: text/plain
+  ND-EVIL.EXE:
+    mimetype: application/x-msdos-program
+  ND-EVOL.S3M:
+    mimetype: audio/x-mod
+  ND-IRON2.ANS:
+    mimetype: text/plain
+  ND-IRONY.LIT:
+    mimetype: text/plain
+  ND-OBV1.NFO:
+    mimetype: text/plain
+  ND-PAIN.LIT:
+    mimetype: text/plain
+  ND-ROGUE.ANS:
+    mimetype: text/plain
+  ND-SU01.ANS:
+    mimetype: text/plain
+  ND-SU02.ANS:
+    mimetype: text/plain
+  ND-SU03.ANS:
+    mimetype: text/plain
+  ND-SUN.LIT:
+    mimetype: text/plain
+  ND-THIS.S3M:
+    mimetype: audio/x-mod
+  ND-THROB.ANS:
+    mimetype: text/plain
+  SN-SUICI.GIF:
+    mimetype: image/gif
+  SU-1194.ANS:
+    mimetype: text/plain
+  SU-1194.NFO:
+    mimetype: text/plain
+  SU-GREET.ANS:
+    mimetype: text/plain
+  SU-VIEW.COM:
+    mimetype: application/x-msdos-program
+  SU-VIEW.ZIP:
+    mimetype: application/zip
+  SU_APP.EXE:
+    mimetype: application/x-msdos-program
+  SU_APP.ZIP:
+    mimetype: application/zip
+  SV-SIN.LIT:
+    mimetype: text/plain
+  TZ-DOOM.S3M:
+    mimetype: audio/x-mod
+  TZ-PIANO.S3M:
+    mimetype: audio/x-mod

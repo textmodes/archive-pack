@@ -1,0 +1,82 @@
+name: cap196.zip
+hash: 59af482fbc7d6fe0802806080de8942a
+year: 1996
+file:
+  BORSTJES.EXE:
+    mimetype: application/x-msdos-program
+  BROEKJE.EXE:
+    mimetype: application/x-msdos-program
+  CAP-INFO.NFO:
+    mimetype: text/plain
+  CAP.LGO:
+    mimetype: text/plain
+  CAPLOGO1.CAP:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FONTS.ANS:
+    mimetype: text/plain
+  HALLU1ST.COM:
+    mimetype: application/x-msdos-program
+  HATE.LIT:
+    mimetype: text/plain
+  HOSTESS.TXT:
+    mimetype: text/plain
+  HTE.ANS:
+    mimetype: text/plain
+  ICE.ANS:
+    mimetype: text/plain
+  MJ-CAP.ASC:
+    mimetype: text/plain
+  MJ-CAP2.ASC:
+    mimetype: text/plain
+  MJ-CAP3.ASC:
+    mimetype: text/plain
+  MJ-ES.ASC:
+    mimetype: text/plain
+  MJ-HTENT.ASC:
+    mimetype: text/plain
+  MJ-NOTE.ASC:
+    mimetype: text/plain
+  MJ-SIG.ASC:
+    mimetype: text/plain
+  MJ-TDSS.ASC:
+    mimetype: text/plain
+  MJ-TDSS2.ASC:
+    mimetype: text/plain
+  MJ-TDSS3.ASC:
+    mimetype: text/plain
+  NEU-CAP.JPG:
+    mimetype: image/jpeg
+  NEU-CAP.LGO:
+    mimetype: text/plain
+  NEU-CAP2.LGO:
+    mimetype: text/plain
+  NEU-DIGD.CAP:
+    mimetype: text/plain
+  NEU-DU2.ANS:
+    mimetype: text/plain
+  NEU-HTE.CAP:
+    mimetype: text/plain
+  NEU-HTEM.ANS:
+    mimetype: text/plain
+  NEU-PARA.CAP:
+    mimetype: text/plain
+  NEU-PLNT.GIF:
+    mimetype: image/gif
+  NEU-SHTL.CAP:
+    mimetype: text/plain
+  REALMZ2.ANS:
+    mimetype: text/plain
+  RM-HTE.ANS:
+    mimetype: text/plain
+  ROD.CAP:
+    mimetype: text/plain
+  RODLOGO.CAP:
+    mimetype: text/plain
+  RODSIG.CAP:
+    mimetype: text/plain
+  SORRY.ASC:
+    mimetype: text/plain
+  UNDERGRO.ANS:
+    mimetype: text/plain

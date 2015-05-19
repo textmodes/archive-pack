@@ -1,0 +1,12 @@
+name: cro0201.zip
+hash: d6c5c83e5fcb4aa2f71c23372a1d5ba2
+year: 2001
+file:
+  CRO0201.EXE:
+    mimetype: application/x-msdos-program
+  UNRAR.DLL:
+    mimetype: application/x-dosexec
+  creaction.org:
+    mimetype: application/octet-stream
+  midas11.dll:
+    mimetype: application/x-dosexec

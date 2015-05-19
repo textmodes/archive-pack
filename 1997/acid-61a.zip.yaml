@@ -1,0 +1,56 @@
+name: acid-61a.zip
+hash: 83cc0dad8dd55a602c18f2335efe7be6
+year: 1997
+file:
+  AcidView:
+    mimetype: text/x-shellscript
+  AcidView.bat:
+    mimetype: application/x-msdos-program
+  AcidView.class:
+    mimetype: application/x-java-applet
+  AcidView.faq:
+    mimetype: text/plain
+  AcidView.files:
+    mimetype: text/plain
+  AcidView.fnt:
+    mimetype: application/octet-stream
+  AcidView.jpg:
+    mimetype: image/jpeg
+  AcidView.nfo:
+    mimetype: text/plain
+  acid-61.xb:
+    mimetype: text/x-xbin
+  acidapp.exe:
+    mimetype: application/x-msdos-program
+  acidcaps.nfo:
+    mimetype: text/plain
+  ay-cellar.jpg:
+    mimetype: image/jpeg
+  ay-midnight.jpg:
+    mimetype: image/jpeg
+  eg-ronin.jpg:
+    mimetype: image/jpeg
+  eg-tvlnc.jpg:
+    mimetype: image/jpeg
+  eg-vert.jpg:
+    mimetype: image/jpeg
+  file_id.diz:
+    mimetype: text/plain
+  if-acid.jpg:
+    mimetype: image/jpeg
+  if-canzo.jpg:
+    mimetype: image/jpeg
+  j1-mass.jpg:
+    mimetype: image/jpeg
+  j1-nxs2.jpg:
+    mimetype: image/jpeg
+  jn-acidcaps.jpg:
+    mimetype: image/jpeg
+  jn-bumblebee.jpg:
+    mimetype: image/jpeg
+  jn-drone2.jpg:
+    mimetype: image/jpeg
+  release.nfo:
+    mimetype: text/plain
+  we-will.sue:
+    mimetype: text/plain

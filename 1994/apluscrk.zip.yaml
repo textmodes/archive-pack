@@ -1,0 +1,14 @@
+name: apluscrk.zip
+hash: f7a6bae0e2f1a3fb95ce626d0c6afa14
+year: 1994
+file:
+  APLUSCRK.NFO:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FUN!.COM:
+    mimetype: application/x-msdos-program
+  PATCHMKR.COM:
+    mimetype: application/x-msdos-program
+  PATCHMKR.DAT:
+    mimetype: application/octet-stream

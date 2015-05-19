@@ -1,0 +1,10 @@
+name: fb-fogft.zip
+hash: 99d2d136eacfe6fd8da9272f2bf0fcb4
+year: 1994
+file:
+  FB-FOGFT.TDF:
+    mimetype: application/octet-stream
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  NEO.COM:
+    mimetype: application/x-msdos-program

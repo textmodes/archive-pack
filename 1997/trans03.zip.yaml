@@ -1,0 +1,52 @@
+name: trans03.zip
+hash: 078a98b55cf3b39f8b6ce5433ca799dd
+year: 1997
+file:
+  BL-BLADE.JPG:
+    mimetype: image/jpeg
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GP_BEAU.JPG:
+    mimetype: image/jpeg
+  GP_CATHE.JPG:
+    mimetype: image/jpeg
+  GP_SKULL.JPG:
+    mimetype: image/jpeg
+  JE-BLIND.EXE:
+    mimetype: application/x-msdos-program
+  JE-DISIN.EXE:
+    mimetype: application/x-msdos-program
+  PC-ALIEN.ANS:
+    mimetype: text/plain
+  PC-LOGN2.ANS:
+    mimetype: text/plain
+  PC-MESS.ANS:
+    mimetype: text/plain
+  PC-SCREA.ANS:
+    mimetype: text/plain
+  PS-BLIND.JPG:
+    mimetype: image/jpeg
+  PS-CLOCK.XM:
+    mimetype: audio/x-mod
+  PS-CSTIC.JPG:
+    mimetype: image/jpeg
+  PS-INTER.JPG:
+    mimetype: image/jpeg
+  PS-SKULL.JPG:
+    mimetype: image/jpeg
+  QU-BLANK.EXE:
+    mimetype: application/x-msdos-program
+  QU-DEAD.EXE:
+    mimetype: application/x-msdos-program
+  QU-YOU.EXE:
+    mimetype: application/x-msdos-program
+  RELEASES.NFO:
+    mimetype: text/plain
+  SH-CHAOS.EXE:
+    mimetype: application/x-msdos-program
+  SH-CONVO.EXE:
+    mimetype: application/x-msdos-program
+  TRANSAPP.EXE:
+    mimetype: application/x-msdos-program
+  TRNS0397.NFO:
+    mimetype: text/plain

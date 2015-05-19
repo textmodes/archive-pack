@@ -1,0 +1,26 @@
+name: charm01.zip
+hash: ed85d3bc991416786dc934a02987d307
+year: 1996
+file:
+  ANSI1196.ANS:
+    mimetype: text/plain
+  ASC1196.ASC:
+    mimetype: text/plain
+  CHRM1196.ANS:
+    mimetype: text/plain
+  FASTEST.FIN:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  NAKKIMAA.COM:
+    mimetype: application/x-msdos-program
+  NTR-FOUN.ANS:
+    mimetype: text/plain
+  NTR-HL.ANS:
+    mimetype: text/plain
+  NTR-LYEH.ANS:
+    mimetype: text/plain
+  NTR-NW.ANS:
+    mimetype: text/plain
+  NWINDS.OCD:
+    mimetype: text/plain

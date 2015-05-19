@@ -1,0 +1,90 @@
+name: drl-0895.zip
+hash: fa3a05043abf57aacbc46a227e56d131
+year: 1995
+file:
+  '!ANSI!.DRL':
+    mimetype: text/plain
+  '!ASCII!.DRL':
+    mimetype: text/plain
+  '!INFO!.DRL':
+    mimetype: text/plain
+  '!MUSIC!.DRL':
+    mimetype: text/plain
+  '!RIP!.DRL':
+    mimetype: text/plain
+  '!VGA!.DRL':
+    mimetype: text/plain
+  AWAD.COM:
+    mimetype: application/x-msdos-program
+  BM-PET1.ANS:
+    mimetype: text/plain
+  DRL-0895.MEM:
+    mimetype: text/plain
+  DRL-0895.NFO:
+    mimetype: text/plain
+  DRLASCII.ANS:
+    mimetype: text/plain
+  DROOLAPP.EXE:
+    mimetype: application/x-msdos-program
+  ELS-LOGO.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GR-DRL1.GIF:
+    mimetype: image/gif
+  GR-DRL2A.GIF:
+    mimetype: image/gif
+  IK-BK02.ANS:
+    mimetype: text/plain
+  IK-CP01.RIP:
+    mimetype: image/x-rip
+  IK-DEAD1.RIP:
+    mimetype: image/x-rip
+  IK-IRCM.BIN:
+    mimetype: text/plain
+  IK-LOGO1.ANS:
+    mimetype: text/plain
+  IK-MENU1.ANS:
+    mimetype: text/plain
+  IK-OATH.S3M:
+    mimetype: audio/x-mod
+  IK-SON1.RIP:
+    mimetype: image/x-rip
+  IK-SON02.ANS:
+    mimetype: text/plain
+  IK-TFD1.ANS:
+    mimetype: text/plain
+  IK-TUTO2.ANS:
+    mimetype: text/plain
+  IK-TUTOR.ANS:
+    mimetype: text/plain
+  IK-UF02.ANS:
+    mimetype: text/plain
+  INSTALL.NFO:
+    mimetype: text/plain
+  NEO.COM:
+    mimetype: application/x-msdos-program
+  PB-LOGO.BIN:
+    mimetype: text/plain
+  PB-MAT.ANS:
+    mimetype: text/plain
+  PB-SC.BIN:
+    mimetype: text/plain
+  PB-SPAM.ANS:
+    mimetype: text/plain
+  !!binary VEhF/0JFU1QuQ09N:
+    mimetype: application/x-msdos-program
+  TO-DYS01.ANS:
+    mimetype: text/plain
+  TO-ETSL1.ANS:
+    mimetype: text/plain
+  TO-LOGO1.ANS:
+    mimetype: text/plain
+  TO-TTZ1.ANS:
+    mimetype: text/plain
+  TQ-CORN.S3M:
+    mimetype: audio/x-mod
+  US-TR01.ANS:
+    mimetype: text/plain
+  US-TS01.ANS:
+    mimetype: text/plain

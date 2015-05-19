@@ -1,0 +1,64 @@
+name: rbt004.zip
+hash: 4c61a5941da4891f86ac8c8d6847774f
+year: 2005
+file:
+  file_id.diz:
+    mimetype: text/plain
+  hires/ra-flowr.JPG:
+    mimetype: image/jpeg
+  hires/shl-anim.jpg:
+    mimetype: image/jpeg
+  litz/ast-dec.lit:
+    mimetype: text/plain
+  litz/ast-hayku.lit:
+    mimetype: text/plain
+  litz/ast-pomni.lit:
+    mimetype: text/plain
+  litz/shl-haik.lit:
+    mimetype: text/plain
+  litz/th-day.lit:
+    mimetype: text/plain
+  litz/th-horor.lit:
+    mimetype: text/plain
+  litz/th-life.lit:
+    mimetype: text/plain
+  litz/th-year.lit:
+    mimetype: text/plain
+  litz/us-1lit.ans:
+    mimetype: text/plain
+  lowrez/dp-eagl.ans:
+    mimetype: text/plain
+  lowrez/nf_elect.ans:
+    mimetype: text/plain
+  lowrez/nf_flowr.ans:
+    mimetype: text/plain
+  lowrez/nf_wfr.ans:
+    mimetype: text/plain
+  lowrez/nf_ww.ans:
+    mimetype: text/plain
+  lowrez/pp-ku6ep.ans:
+    mimetype: text/plain
+  lowrez/pp-robotz.ans:
+    mimetype: text/plain
+  lowrez/pp-run.ans:
+    mimetype: text/plain
+  lowrez/pp-wyf.ans:
+    mimetype: text/plain
+  lowrez/ra-cbard.ans:
+    mimetype: text/plain
+  lowrez/ra-cgirl.ans:
+    mimetype: text/plain
+  lowrez/raz-girl.ans:
+    mimetype: text/plain
+  lowrez/raz-vask.ans:
+    mimetype: text/plain
+  lowrez/s&-cylfe.asc:
+    mimetype: text/plain
+  lowrez/s&-sadm.asc:
+    mimetype: text/plain
+  lowrez/shl-bioh.ans:
+    mimetype: text/plain
+  lowrez/shl-elf.asc:
+    mimetype: text/plain
+  rebirth.nfo:
+    mimetype: text/plain

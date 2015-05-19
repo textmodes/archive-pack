@@ -1,0 +1,58 @@
+name: avail001.zip
+hash: 6f0f9bd1363604d33dd97670f95842cd
+year: 1997
+file:
+  AQ-AVL.JPG:
+    mimetype: image/jpeg
+  AVAIL001.MEM:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  MT-CAND.JPG:
+    mimetype: image/jpeg
+  MT-FIRE.GIF:
+    mimetype: image/gif
+  MT-NIP.JPG:
+    mimetype: image/jpeg
+  SX-1988.S3M:
+    mimetype: audio/x-mod
+  SX-ABRAX.ANS:
+    mimetype: text/plain
+  SX-ANTHR.S3M:
+    mimetype: audio/x-mod
+  SX-AVL1.JPG:
+    mimetype: image/jpeg
+  SX-AVL2.JPG:
+    mimetype: image/jpeg
+  SX-BIO.ANS:
+    mimetype: text/plain
+  SX-BIO.JPG:
+    mimetype: image/jpeg
+  SX-BLACK.ANS:
+    mimetype: text/plain
+  SX-BLACK.EXE:
+    mimetype: application/x-msdos-program
+  SX-EVILI.JPG:
+    mimetype: image/jpeg
+  SX-GJ.S3M:
+    mimetype: audio/x-mod
+  SX-LAST.S3M:
+    mimetype: audio/x-mod
+  SX-LOST.JPG:
+    mimetype: image/jpeg
+  SX-RATA.S3M:
+    mimetype: audio/x-mod
+  SX-TP1.JPG:
+    mimetype: image/jpeg
+  SX-UNDER.JPG:
+    mimetype: image/jpeg
+  SX-URBAN.S3M:
+    mimetype: audio/x-mod
+  TC-FOOL.LIT:
+    mimetype: text/plain
+  TC-RUSH.LIT:
+    mimetype: text/plain
+  TC-STRNG.LIT:
+    mimetype: text/plain
+  US-BIO.ANS:
+    mimetype: text/plain

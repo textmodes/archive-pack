@@ -1,0 +1,40 @@
+name: b2k-005.zip
+hash: 8dd2967deca2fc68d9ff849ee4568269
+year: 1999
+file:
+  '!GJ-B05B.IT':
+    mimetype: audio/x-mod
+  2000.IT:
+    mimetype: audio/x-mod
+  22BLENDS.ANS:
+    mimetype: text/plain
+  B2K.005:
+    mimetype: text/plain
+  BUCFUTTR.ANS:
+    mimetype: text/plain
+  BYM-WIZ.ANS:
+    mimetype: text/plain
+  CT-OEO.IT:
+    mimetype: audio/x-mod
+  ENTRY.FRM:
+    mimetype: text/plain
+  FE-NS.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GO-WIZ.ANS:
+    mimetype: text/plain
+  LUM-WIZ.EXE:
+    mimetype: application/x-msdos-program
+  MINBLEND.ANS:
+    mimetype: text/plain
+  NG-B2K1.ICE:
+    mimetype: text/plain
+  NS-DS.ANS:
+    mimetype: text/plain
+  SL-B2K.ASC:
+    mimetype: text/plain
+  US-B2K90.ANS:
+    mimetype: text/plain
+  WIZ.ANS:
+    mimetype: text/plain

@@ -1,0 +1,90 @@
+name: crm-o695.zip
+hash: bc0946d54eca094e3b4969b686ba3ac8
+year: 1995
+file:
+  AT-RGLG.ZIP:
+    mimetype: application/zip
+  CRM-O695.MEM:
+    mimetype: text/plain
+  CRM-O695.NFO:
+    mimetype: text/plain
+  CRM-O695.SIT:
+    mimetype: text/plain
+  DC-FLIST.ZIP:
+    mimetype: application/zip
+  DD-FBASH.ZIP:
+    mimetype: application/zip
+  DD-FILEH.ZIP:
+    mimetype: application/zip
+  DD-LASTH.ZIP:
+    mimetype: application/zip
+  DD-MAILH.ZIP:
+    mimetype: application/zip
+  DD-MBASH.ZIP:
+    mimetype: application/zip
+  DD-ONLNH.ZIP:
+    mimetype: application/zip
+  DD-QWKDH.ZIP:
+    mimetype: application/zip
+  DD-USERH.ZIP:
+    mimetype: application/zip
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FILENFO.ASC:
+    mimetype: text/plain
+  MV-CREA2.ANS:
+    mimetype: text/plain
+  MV-CREAM.ANS:
+    mimetype: text/plain
+  OG-EMMTX.ZIP:
+    mimetype: application/zip
+  OG-JCNS.ZIP:
+    mimetype: application/zip
+  OG-MTX.ZIP:
+    mimetype: application/zip
+  OG-TBMTX.ZIP:
+    mimetype: application/zip
+  PB-AME.ANS:
+    mimetype: text/plain
+  PB-ASSD.ANS:
+    mimetype: text/plain
+  PB-CREAM.ANS:
+    mimetype: text/plain
+  PB-CYBER.ANS:
+    mimetype: text/plain
+  PB-DARKS.ANS:
+    mimetype: text/plain
+  PB-DIZS.ANS:
+    mimetype: text/plain
+  PB-DRE.ANS:
+    mimetype: text/plain
+  PB-FAR.ANS:
+    mimetype: text/plain
+  PB-HELL.ANS:
+    mimetype: text/plain
+  PB-MAGIC.ANS:
+    mimetype: text/plain
+  PB-MANGA.ANS:
+    mimetype: text/plain
+  PB-MPIT.ANS:
+    mimetype: text/plain
+  PB-PLAT.ANS:
+    mimetype: text/plain
+  PB-SHOCK.ANS:
+    mimetype: text/plain
+  PB-TERM.ANS:
+    mimetype: text/plain
+  PB-TTC.ANS:
+    mimetype: text/plain
+  PF-USER.ZIP:
+    mimetype: application/zip
+  SS-MBCF.ZIP:
+    mimetype: application/zip
+  SS-MONTE.ZIP:
+    mimetype: application/zip
+  UNDER.COM:
+    mimetype: application/x-msdos-program
+  WORLD.EXE:
+    mimetype: application/x-msdos-program
+  WR-CREAM.ANS:
+    mimetype: text/plain

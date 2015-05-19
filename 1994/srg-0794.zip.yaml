@@ -1,0 +1,102 @@
+name: srg-0794.zip
+hash: 1814c174181aabb25963405d57af0f0d
+year: 1994
+file:
+  CD-FB.SRG:
+    mimetype: text/plain
+  CD-HF1.SRG:
+    mimetype: text/plain
+  CD-HF2.SRG:
+    mimetype: text/plain
+  CD-HF3.SRG:
+    mimetype: text/plain
+  CD-SPAWN.SRG:
+    mimetype: text/plain
+  CD-SRG.SRG:
+    mimetype: text/plain
+  CD-STAT.SRG:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  HY-ERE.SRG:
+    mimetype: text/plain
+  HY-FB.SRG:
+    mimetype: text/plain
+  HY-FU.SRG:
+    mimetype: text/plain
+  HY-GLT.SRG:
+    mimetype: text/plain
+  HY-HM.SRG:
+    mimetype: text/plain
+  HY-HM2.SRG:
+    mimetype: text/plain
+  HY-MAL.SRG:
+    mimetype: text/plain
+  HY-MAX.SRG:
+    mimetype: text/plain
+  HY-NW.SRG:
+    mimetype: text/plain
+  HY-SRG.RIP:
+    mimetype: image/x-rip
+  HY-TF.SRG:
+    mimetype: text/plain
+  HY-TTOH.SRG:
+    mimetype: text/plain
+  NAM.EXE:
+    mimetype: application/x-msdos-program
+  NEOTOKYO.ANS:
+    mimetype: text/plain
+  SP-CRITM.SRG:
+    mimetype: text/plain
+  SP-CRTM2.SRG:
+    mimetype: text/plain
+  SP-DGTHU.SRG:
+    mimetype: text/plain
+  SP-ISLE.SRG:
+    mimetype: text/plain
+  SRG-0794.MEM:
+    mimetype: text/plain
+  SRG-0794.NFO:
+    mimetype: text/plain
+  SRG-0794.SIT:
+    mimetype: text/plain
+  SRGAPP.EXE:
+    mimetype: application/x-msdos-program
+  SV.DAT:
+    mimetype: text/plain
+  SV.EXE:
+    mimetype: application/x-msdos-program
+  TSA-CZ.SRG:
+    mimetype: text/plain
+  TSA-GREY.SRG:
+    mimetype: text/plain
+  TSA-PIC.SRG:
+    mimetype: text/plain
+  TSA-PIT.SRG:
+    mimetype: text/plain
+  TSA-RC.SRG:
+    mimetype: text/plain
+  TSA-SKUL.SRG:
+    mimetype: text/plain
+  TSA-SPWN.SRG:
+    mimetype: text/plain
+  TSA-SRG.SRG:
+    mimetype: text/plain
+  ZL-BITCH.SRG:
+    mimetype: text/plain
+  ZL-DRAG.SRG:
+    mimetype: text/plain
+  ZL-G.SRG:
+    mimetype: text/plain
+  ZL-HH.SRG:
+    mimetype: text/plain
+  ZL-MR.SRG:
+    mimetype: text/plain
+  ZL-MSK.SRG:
+    mimetype: text/plain
+  ZL-STAT.SRG:
+    mimetype: text/plain
+  ZL-TAZ.SRG:
+    mimetype: text/plain
+  ZL-ZIGG.SRG:
+    mimetype: text/plain

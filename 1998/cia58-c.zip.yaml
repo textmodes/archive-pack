@@ -1,0 +1,26 @@
+name: cia58-c.zip
+hash: 5b4d01e0b85d6b237dc99275513a88fa
+year: 1998
+file:
+  !!binary xE9USEVSxMQuxMTE:
+    mimetype: text/plain
+  1198INFO.CIA:
+    mimetype: text/plain
+  1198MEMB.CIA:
+    mimetype: text/plain
+  CIAVIEW.BAT:
+    mimetype: application/x-msdos-program
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  IK_DEREL.GIF:
+    mimetype: image/gif
+  IK_KOMOD.JPG:
+    mimetype: image/jpeg
+  IK_NEURO.JPG:
+    mimetype: image/jpeg
+  IK_SPACE.GIF:
+    mimetype: image/gif
+  IK_TRACK.JPG:
+    mimetype: image/jpeg
+  WIRETAP.EXE:
+    mimetype: application/x-msdos-program

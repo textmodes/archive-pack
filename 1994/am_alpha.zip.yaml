@@ -1,0 +1,66 @@
+name: am_alpha.zip
+hash: 094f4adb9e0edf9e9375aeac7d306c64
+year: 1994
+file:
+  AM.EXE:
+    mimetype: application/x-msdos-program
+  AMSETUP.EXE:
+    mimetype: application/x-msdos-program
+  BITMAP/AM.PCX:
+    mimetype: image/pcx
+  BITMAP/AM2.PCX:
+    mimetype: image/pcx
+  BITMAP/ARROW.BMP:
+    mimetype: image/x-ms-bmp
+  BITMAP/FACES.BMP:
+    mimetype: image/x-ms-bmp
+  BITMAP/FONT_MSG.BMP:
+    mimetype: image/x-ms-bmp
+  BITMAP/FONT2.BMP:
+    mimetype: image/x-ms-bmp
+  BITMAP/FONT3.BMP:
+    mimetype: image/x-ms-bmp
+  BITMAP/FONT4.BMP:
+    mimetype: image/x-ms-bmp
+  BITMAP/FONT14.BMP:
+    mimetype: image/x-ms-bmp
+  BITMAP/FONT15.BMP:
+    mimetype: image/x-ms-bmp
+  BITMAP/FONTB.BMP:
+    mimetype: image/x-ms-bmp
+  BITMAP/FONTS.BMP:
+    mimetype: image/x-ms-bmp
+  BITMAP/FONTY.BMP:
+    mimetype: image/x-ms-bmp
+  BITMAP/HOMER.BMP:
+    mimetype: image/x-ms-bmp
+  BITMAP/ICONS.BMP:
+    mimetype: image/x-ms-bmp
+  BITMAP/MESSAGE.BMP:
+    mimetype: image/x-ms-bmp
+  BITMAP/PINS.BMP:
+    mimetype: image/x-ms-bmp
+  BITMAP/SP3.BMP:
+    mimetype: image/x-ms-bmp
+  BITMAP/SPRITES.BMP:
+    mimetype: image/x-ms-bmp
+  BITMAP/STANGE.BMP:
+    mimetype: image/x-ms-bmp
+  BITMAP/STANGE2.BMP:
+    mimetype: image/x-ms-bmp
+  BITMAP/SYSTEMF.BMP:
+    mimetype: image/x-ms-bmp
+  DEV/MSD/GUS.MSD:
+    mimetype: application/octet-stream
+  DEV/MSD/GUSNEU.MSD:
+    mimetype: application/octet-stream
+  DOC/BETA.TXT:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  !!binary SU1BR61ORS5FWEU=:
+    mimetype: application/x-msdos-program
+  STARGATE.COM:
+    mimetype: application/x-msdos-program
+  WONDER!.WHY:
+    mimetype: text/plain

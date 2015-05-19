@@ -1,0 +1,102 @@
+name: bdp-0596.zip
+hash: 40d39b2a50abed11285797d057f1b718
+year: 1996
+file:
+  '%%ANSI%%':
+    mimetype: text/plain
+  '%%ASCII%':
+    mimetype: text/plain
+  '%%BIN%%%':
+    mimetype: text/plain
+  '%%EXE%%%':
+    mimetype: text/plain
+  '%%INFO%%':
+    mimetype: text/plain
+  '%%RIP%%%':
+    mimetype: text/plain
+  '%%VGA%%%':
+    mimetype: text/plain
+  BDP-0596.LST:
+    mimetype: text/plain
+  BDP-0596.NWS:
+    mimetype: text/plain
+  BDP2.WAD:
+    mimetype: text/plain
+  BDPAPP.EXE:
+    mimetype: application/x-msdos-program
+  BDPREQ.EXE:
+    mimetype: application/x-msdos-program
+  BN-GOA.ASC:
+    mimetype: text/plain
+  BN-PROZC.ASC:
+    mimetype: text/plain
+  BN-SACR1.ASC:
+    mimetype: text/plain
+  BN-SACR2.ASC:
+    mimetype: text/plain
+  CO-COJ2.RIP:
+    mimetype: image/x-rip
+  CO-LEGEN.ANS:
+    mimetype: text/plain
+  CO-RHYMP.RIP:
+    mimetype: image/x-rip
+  CO-TAG.ANS:
+    mimetype: text/plain
+  CO-TOON.RIP:
+    mimetype: image/x-rip
+  DOS4GW.EXE:
+    mimetype: application/x-msdos-program
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  N$%DONOT.ASC:
+    mimetype: text/plain
+  N$%DONT2.ASC:
+    mimetype: text/plain
+  N$%GNCID.ANS:
+    mimetype: text/plain
+  !!binary TkMlQVNLkJAuQVND:
+    mimetype: text/plain
+  PSYCHIC.NFO:
+    mimetype: text/plain
+  RC(AST3).ASC:
+    mimetype: text/plain
+  RC(BDPB).ANS:
+    mimetype: text/plain
+  RC(BLI2).ANS:
+    mimetype: text/plain
+  RC(BLI3).ANS:
+    mimetype: text/plain
+  RC(COL0).ANS:
+    mimetype: text/plain
+  RC(DRE0).ANS:
+    mimetype: text/plain
+  RC(DRE1).ANS:
+    mimetype: text/plain
+  RC(ERR0).ANS:
+    mimetype: text/plain
+  RC(EVL0).ANS:
+    mimetype: text/plain
+  RC(EVL1).ANS:
+    mimetype: text/plain
+  RC(EVL2).RIP:
+    mimetype: image/x-rip
+  RC(MOR7).RIP:
+    mimetype: image/x-rip
+  RC(MOR8).ASC:
+    mimetype: text/plain
+  RC(POS3).ANS:
+    mimetype: text/plain
+  REVIVAL.EHQ:
+    mimetype: text/plain
+  SAUCE.CFG:
+    mimetype: text/plain
+  SAUCE.EXE:
+    mimetype: application/x-msdos-program
+  WZ-FAITH.JPG:
+    mimetype: image/jpeg
+  WZ-N$96.JPG:
+    mimetype: image/jpeg
+  WZ-TAW.JPG:
+    mimetype: image/jpeg
+  WZ-TRILO.JPG:
+    mimetype: image/jpeg

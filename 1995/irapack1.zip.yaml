@@ -1,0 +1,86 @@
+name: irapack1.zip
+hash: 3a84070c3a2f14c1973c47139d57061e
+year: 1995
+file:
+  BH-ASC.ANS:
+    mimetype: text/plain
+  BH-INFO.ANS:
+    mimetype: text/plain
+  BH-IRA.ANS:
+    mimetype: text/plain
+  BH-IRA2.ANS:
+    mimetype: text/plain
+  BH-MOVE.ANS:
+    mimetype: text/plain
+  BH-TM.ANS:
+    mimetype: text/plain
+  BH-TM2.ANS:
+    mimetype: text/plain
+  BH-TM3.ANS:
+    mimetype: text/plain
+  CLIG-!!.ANS:
+    mimetype: text/plain
+  FB-INFO.TXT:
+    mimetype: text/plain
+  FB-IRA.ANS:
+    mimetype: text/plain
+  FB-TM.ANS:
+    mimetype: text/plain
+  FB-TMADD.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  IG-AD&D1.ANS:
+    mimetype: text/plain
+  IG-BABE.ANS:
+    mimetype: text/plain
+  IG-CEMEN.ANS:
+    mimetype: text/plain
+  IG-CHONG.ANS:
+    mimetype: text/plain
+  IG-CLSIG.ANS:
+    mimetype: text/plain
+  IG-DANG.ANS:
+    mimetype: text/plain
+  IG-DUFF.ANS:
+    mimetype: text/plain
+  IG-ENS1.ANS:
+    mimetype: text/plain
+  IG-ENSA2.ANS:
+    mimetype: text/plain
+  IG-ENSAD.ANS:
+    mimetype: text/plain
+  IG-ENSMA.ANS:
+    mimetype: text/plain
+  IG-HKNA.ANS:
+    mimetype: text/plain
+  IG-IRA7.ANS:
+    mimetype: text/plain
+  IG-MAT.ANS:
+    mimetype: text/plain
+  IG-ORAD.ANS:
+    mimetype: text/plain
+  IG-PACK!.ANS:
+    mimetype: text/plain
+  IG-POLCE.ANS:
+    mimetype: text/plain
+  IG-THIEF.ANS:
+    mimetype: text/plain
+  IG-WHAT.ANS:
+    mimetype: text/plain
+  IGDZHEAD.ANS:
+    mimetype: text/plain
+  IGETHEAD.ANS:
+    mimetype: text/plain
+  IGGRIZLY.ANS:
+    mimetype: text/plain
+  IRA!-IGG.ANS:
+    mimetype: text/plain
+  IRA!PACK.ANS:
+    mimetype: text/plain
+  IRA!TEXT.ANS:
+    mimetype: text/plain
+  IRALIST.ANS:
+    mimetype: text/plain
+  UNDADD.COM:
+    mimetype: application/x-msdos-program

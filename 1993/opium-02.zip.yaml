@@ -1,0 +1,48 @@
+name: opium-02.zip
+hash: 5d8af2c4225ba58f85b204cde980a9a2
+year: 1993
+file:
+  !!binary nE+AX5xPgF8unE+A:
+    mimetype: text/plain
+  00000002.NFO:
+    mimetype: text/plain
+  BE-OPIUM.TAG:
+    mimetype: text/plain
+  BS-LOC1.ZIP:
+    mimetype: application/zip
+  DE-ETN.OPM:
+    mimetype: text/plain
+  DE-INS1.OPM:
+    mimetype: text/plain
+  DE-UA1.OPM:
+    mimetype: text/plain
+  DE-VENUS.OPM:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FUN!.COM:
+    mimetype: application/x-msdos-program
+  GD-EXPL.ZIP:
+    mimetype: application/zip
+  GF-ABST2.EXE:
+    mimetype: application/x-msdos-program
+  GF-LAND.EXE:
+    mimetype: application/x-msdos-program
+  KK-RAI0.EXE:
+    mimetype: application/x-msdos-program
+  KK-TDOP.OPM:
+    mimetype: text/plain
+  OPM_ART.APP:
+    mimetype: application/octet-stream
+  OPM_COUR.APP:
+    mimetype: application/octet-stream
+  OPM_MEM.LST:
+    mimetype: text/plain
+  OPM_SITE.APP:
+    mimetype: application/octet-stream
+  PW-HOLT.OPM:
+    mimetype: text/plain
+  PW-WOMAN.OPM:
+    mimetype: text/plain
+  VS-OPM3.EXE:
+    mimetype: application/x-msdos-program

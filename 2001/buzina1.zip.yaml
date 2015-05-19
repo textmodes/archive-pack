@@ -1,0 +1,26 @@
+name: buzina1.zip
+hash: 89ef89db6829e0935ad9ee3573a6ecf1
+year: 2001
+file:
+  CRS-ANO.ANS:
+    mimetype: text/plain
+  CRS-BUZ.ASC:
+    mimetype: text/plain
+  CRS-DIZ.ASC:
+    mimetype: text/plain
+  CRS-HNS.ANS:
+    mimetype: text/plain
+  CRS-KAR.ANS:
+    mimetype: text/plain
+  CRS-MON.ANS:
+    mimetype: text/plain
+  CRS-PTO.ASC:
+    mimetype: text/plain
+  CRS-ZKA.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  JUST-X.NFO:
+    mimetype: text/plain
+  JUST.X:
+    mimetype: text/plain

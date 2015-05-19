@@ -1,0 +1,44 @@
+name: blnt0494.zip
+hash: 91963b79abbf4b82c7960bd2bcf66b7f
+year: 1994
+file:
+  AIR_CON.MOD:
+    mimetype: audio/x-mod
+  ANSIM10.ZIP:
+    mimetype: application/zip
+  APPGEN.EXE:
+    mimetype: application/x-msdos-program
+  BLNT0494.NFO:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  INFOFORM.ANS:
+    mimetype: text/plain
+  THSTOMP2.MOD:
+    mimetype: audio/x-mod
+  UC-ANCOR.EXE:
+    mimetype: application/x-msdos-program
+  UC-ANTON.ANS:
+    mimetype: text/plain
+  UC-BLNT2.ANS:
+    mimetype: text/plain
+  UC-BLNT3.ANS:
+    mimetype: text/plain
+  UC-BLUNT.ANS:
+    mimetype: text/plain
+  UC-BLUNT.EXE:
+    mimetype: application/x-msdos-program
+  UC-CYOTE.ANS:
+    mimetype: text/plain
+  UC-HIGH.ANS:
+    mimetype: text/plain
+  UC-NIGHT.ANS:
+    mimetype: text/plain
+  UC-RAIDN.ANS:
+    mimetype: text/plain
+  UC-ROBOT.ANS:
+    mimetype: text/plain
+  UC-SPAZM.ANS:
+    mimetype: text/plain
+  UC-STATS.ANS:
+    mimetype: text/plain

@@ -1,0 +1,40 @@
+name: ra-pack4.zip
+hash: 4d0cdae7f4aa2aa1d9ef673a84fbcebd
+year: 1998
+file:
+  2M-HOM.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  JY-EDDIE.JPG:
+    mimetype: image/jpeg
+  KS-LOGOS.ANS:
+    mimetype: text/plain
+  REBELAPP.EXE:
+    mimetype: application/x-msdos-program
+  REBELART.NFO:
+    mimetype: text/plain
+  REBELNFO.ANS:
+    mimetype: text/plain
+  RG-RA5.ANS:
+    mimetype: text/plain
+  RG-RA5.JPG:
+    mimetype: image/jpeg
+  RG-RA6.ANS:
+    mimetype: text/plain
+  RG-SEN4.ANS:
+    mimetype: text/plain
+  RG-SEN5.ANS:
+    mimetype: text/plain
+  RG-THO13.ANS:
+    mimetype: text/plain
+  RG-THO14.ANS:
+    mimetype: text/plain
+  RG-THOM5.GIF:
+    mimetype: image/gif
+  SS-FILEZ.ANS:
+    mimetype: text/plain
+  THOM.EXE:
+    mimetype: application/x-msdos-program
+  THOM.NFO:
+    mimetype: text/plain

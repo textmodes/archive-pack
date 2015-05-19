@@ -1,0 +1,64 @@
+name: used-666.zip
+hash: e385b7e60b1aced8dd8af3117794e21c
+year: 2000
+file:
+  -ANSI---.---:
+    mimetype: text/plain
+  -ASCII--.---:
+    mimetype: application/octet-stream
+  -INFO---.---:
+    mimetype: application/octet-stream
+  AVG-BM1.ANS:
+    mimetype: text/plain
+  AVG-KBS1.ANS:
+    mimetype: text/plain
+  AVG-TNA.ANS:
+    mimetype: text/plain
+  AVG-USE2.ANS:
+    mimetype: text/plain
+  CL!-PRVL.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  MR-FM01.ANS:
+    mimetype: text/plain
+  MR-ID01.ANS:
+    mimetype: text/plain
+  MR-PLF02.ANS:
+    mimetype: text/plain
+  PO-(P)ZT.ANS:
+    mimetype: text/plain
+  PO-P3PPR.ANS:
+    mimetype: text/plain
+  PO-YELOE.ANS:
+    mimetype: text/plain
+  PPE-ART2.ANS:
+    mimetype: text/plain
+  RM-ENSIG.ASC:
+    mimetype: text/plain
+  RM-HSEVE.ASC:
+    mimetype: text/plain
+  RM-MINIM.ASC:
+    mimetype: text/plain
+  RM-READI.ASC:
+    mimetype: text/plain
+  SP-DNT1.ANS:
+    mimetype: text/plain
+  TRIP-ED.ASC:
+    mimetype: text/plain
+  US-CIA!.ANS:
+    mimetype: text/plain
+  US-RZR01.ANS:
+    mimetype: text/plain
+  US-SPADE.ANS:
+    mimetype: text/plain
+  US-TUC1.ANS:
+    mimetype: text/plain
+  USED006.MEM:
+    mimetype: text/plain
+  USED006.NFO:
+    mimetype: text/plain
+  ZIP-HEY.ANS:
+    mimetype: text/plain
+  ZIP-USED.ANS:
+    mimetype: text/plain

@@ -1,0 +1,32 @@
+name: out-0398.zip
+hash: e274f090605f4473e7bfde8d62365d76
+year: 1998
+file:
+  D-DNGEON.ZIP:
+    mimetype: application/zip
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FILELIST.TXT:
+    mimetype: text/plain
+  FX_RIP02.ZIP:
+    mimetype: application/zip
+  OUT-AD.ANS:
+    mimetype: text/plain
+  OUT-AD.RIP:
+    mimetype: image/x-rip
+  OUT-DRAG.ANS:
+    mimetype: text/plain
+  OUT-FIRE.ANS:
+    mimetype: text/plain
+  OUT-FIRE.RIP:
+    mimetype: image/x-rip
+  OUT-LADY.ANS:
+    mimetype: text/plain
+  OUT-SDWM.ANS:
+    mimetype: text/plain
+  OUT-TRCH.ANS:
+    mimetype: text/plain
+  OUT.AD:
+    mimetype: text/plain
+  OUTWORLD.TXT:
+    mimetype: text/plain

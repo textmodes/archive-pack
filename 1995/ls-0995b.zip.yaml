@@ -1,0 +1,32 @@
+name: ls-0995b.zip
+hash: 88ad39f721e486b108c47c5d64bb06e6
+year: 1995
+file:
+  CK-RIPPD.ZIP:
+    mimetype: application/zip
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  LAPPLY.EXE:
+    mimetype: application/x-msdos-program
+  LAUGH.TXT:
+    mimetype: text/plain
+  LS-0995.MEM:
+    mimetype: text/plain
+  LS-0995.SIT:
+    mimetype: text/plain
+  LS-NOTES.ANS:
+    mimetype: text/plain
+  LVIEW.EXE:
+    mimetype: application/x-msdos-program
+  PP-ITCTR.ANS:
+    mimetype: text/plain
+  PP-VER0.ANS:
+    mimetype: text/plain
+  PS-1LNR.ANS:
+    mimetype: text/plain
+  PS-ITFNK.ANS:
+    mimetype: text/plain
+  PS-ITMEN.ANS:
+    mimetype: text/plain
+  PS-PALMA.ANS:
+    mimetype: text/plain

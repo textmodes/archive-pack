@@ -1,0 +1,26 @@
+name: ice-200202a.zip
+hash: dd65cd975a771fab6c79b3c9c818f3df
+year: 2002
+file:
+  _ansi___.___:
+    mimetype: text/plain
+  _cont'd_.___:
+    mimetype: text/plain
+  _stat___.___:
+    mimetype: text/plain
+  dt-bt2.ice:
+    mimetype: text/plain
+  dt-bt3.ice:
+    mimetype: text/plain
+  ice-0202.nfo:
+    mimetype: text/plain
+  ice-200202.dsc:
+    mimetype: text/plain
+  iceview.cnf:
+    mimetype: text/plain
+  iceview.doc:
+    mimetype: text/plain
+  iceview.exe:
+    mimetype: application/x-msdos-program
+  ti-gasf.ice:
+    mimetype: text/plain

@@ -1,0 +1,42 @@
+name: xmas03ac.zip
+hash: 673dee7847e8bdf10a3bcc9e4f620ed1
+year: 2003
+file:
+  ASCIIcompo.log:
+    mimetype: application/octet-stream
+  BL-SANTA01.ASC:
+    mimetype: text/plain
+  BL-SANTA02.ASC:
+    mimetype: text/plain
+  BL-SANTA03.ASC:
+    mimetype: text/plain
+  BL-SANTA04.ASC:
+    mimetype: text/plain
+  NS-SANTA01.ASC:
+    mimetype: text/plain
+  NS-SANTA02.ANS:
+    mimetype: text/plain
+  NS-SANTA03.ASC:
+    mimetype: text/plain
+  OS-SANTA01.ASC:
+    mimetype: text/plain
+  OS-SANTA02.ASC:
+    mimetype: text/plain
+  OS-SANTA03.ASC:
+    mimetype: text/plain
+  OS-SANTA04.ASC:
+    mimetype: text/plain
+  OS-SANTA05.ASC:
+    mimetype: text/plain
+  OS-SANTA06.ASC:
+    mimetype: text/plain
+  OS-SANTA07.ASC:
+    mimetype: text/plain
+  bl-results.txt:
+    mimetype: text/plain
+  ns-results.txt:
+    mimetype: text/plain
+  os-results.txt:
+    mimetype: text/plain
+  winners.txt:
+    mimetype: text/plain

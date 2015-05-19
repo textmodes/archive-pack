@@ -1,0 +1,24 @@
+name: crs-entr.zip
+hash: 1014737835fc85cf0be66fc682ae3aef
+year: 2005
+file:
+  _ENTROPY.ASC:
+    mimetype: text/plain
+  CRS-JUST.ASC:
+    mimetype: text/plain
+  CRS-LUV8.ANS:
+    mimetype: text/plain
+  CRS-NEUR.ANS:
+    mimetype: text/plain
+  crs-7fw.asc:
+    mimetype: text/plain
+  crs-beg.ans:
+    mimetype: text/plain
+  crs-entr.asc:
+    mimetype: text/plain
+  crs-j6yu.asc:
+    mimetype: text/plain
+  crs-reac.asc:
+    mimetype: text/plain
+  file_id.diz:
+    mimetype: text/plain

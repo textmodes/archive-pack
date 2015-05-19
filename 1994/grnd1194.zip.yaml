@@ -1,0 +1,68 @@
+name: grnd1194.zip
+hash: f32d3911e1e041d3c3e3ad5173a43400
+year: 1994
+file:
+  BA-AEONF.JPG:
+    mimetype: image/jpeg
+  BA-BSKL.JPG:
+    mimetype: image/jpeg
+  BA-CANN.JPG:
+    mimetype: image/jpeg
+  BA-GNAT.GIF:
+    mimetype: image/gif
+  BA-GRENS.JPG:
+    mimetype: image/jpeg
+  BA-LOGO.GIF:
+    mimetype: image/gif
+  BA-NAST2.JPG:
+    mimetype: image/jpeg
+  BA-PLASM.JPG:
+    mimetype: image/jpeg
+  BA-WARPS.JPG:
+    mimetype: image/jpeg
+  CS-BB1.ANS:
+    mimetype: text/plain
+  CS-DD2-1.ANS:
+    mimetype: text/plain
+  CS-GND1.ANS:
+    mimetype: text/plain
+  CS-HSA1.ANS:
+    mimetype: text/plain
+  CS-NN1.ANS:
+    mimetype: text/plain
+  CS-NW1.ANS:
+    mimetype: text/plain
+  CS-SBN1.ANS:
+    mimetype: text/plain
+  CS-TCB1.ANS:
+    mimetype: text/plain
+  CS-TUGW1.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GRINDNWZ.ANS:
+    mimetype: text/plain
+  GVIEW4B.ZIP:
+    mimetype: application/zip
+  MEMBER.ANS:
+    mimetype: text/plain
+  NO-BB1.ANS:
+    mimetype: text/plain
+  NO-BB2.ANS:
+    mimetype: text/plain
+  NO-GLOGO.ANS:
+    mimetype: text/plain
+  NO-S01.GIF:
+    mimetype: image/gif
+  NO-S02.GIF:
+    mimetype: image/gif
+  NO-S03.GIF:
+    mimetype: image/gif
+  NO-TS1.ANS:
+    mimetype: text/plain
+  README.TXT:
+    mimetype: text/plain
+  SOS-LOGO.ANS:
+    mimetype: text/plain
+  SOS-SAMH.ANS:
+    mimetype: text/plain

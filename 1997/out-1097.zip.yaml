@@ -1,0 +1,44 @@
+name: out-1097.zip
+hash: b44eeee30d09d9524e65b678cd3e37f6
+year: 1997
+file:
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FILEDESC.TXT:
+    mimetype: text/plain
+  FILELIST.TXT:
+    mimetype: text/plain
+  OUT-DIST.ANS:
+    mimetype: text/plain
+  OUT-DIST.RIP:
+    mimetype: image/x-rip
+  OUT-DIST.TXT:
+    mimetype: text/plain
+  OUT-FSHR.ANS:
+    mimetype: text/plain
+  OUT-H1.ANS:
+    mimetype: text/plain
+  OUT-H1.RIP:
+    mimetype: image/x-rip
+  OUT-H2.ANS:
+    mimetype: text/plain
+  OUT-H2.RIP:
+    mimetype: image/x-rip
+  OUT-H3.RIP:
+    mimetype: image/x-rip
+  OUT-SORC.ANS:
+    mimetype: text/plain
+  OUT-SYSF.ANS:
+    mimetype: text/plain
+  OUT-SYSM.ANS:
+    mimetype: text/plain
+  OUT-SYSO.ANS:
+    mimetype: text/plain
+  OUT-UNIC.RIP:
+    mimetype: image/x-rip
+  OUT-WOMN.ANS:
+    mimetype: text/plain
+  OUT.AD:
+    mimetype: text/plain
+  OUTWORLD.TXT:
+    mimetype: text/plain

@@ -1,0 +1,42 @@
+name: xrt-03.zip
+hash: ff1b5d15b20b453834746236c05713bc
+year: 1998
+file:
+  DRM-BYE.ANS:
+    mimetype: text/plain
+  DRM-E.ASC:
+    mimetype: text/plain
+  DRM-EVIL.ANS:
+    mimetype: text/plain
+  DRM-HRG.ASC:
+    mimetype: text/plain
+  DRM-JOIN.ANS:
+    mimetype: text/plain
+  DRM-LLA.ASC:
+    mimetype: text/plain
+  DRM-MAIN.ANS:
+    mimetype: text/plain
+  DRM-RIB.ANS:
+    mimetype: text/plain
+  DRM-S&S.ASC:
+    mimetype: text/plain
+  DRM-SL2.ANS:
+    mimetype: text/plain
+  DRM-SSDI.ASC:
+    mimetype: text/plain
+  DRM-VIH.ANS:
+    mimetype: text/plain
+  DRM-VIH.ASC:
+    mimetype: text/plain
+  DRM-VIP.ANS:
+    mimetype: text/plain
+  DRM-VMF2.ANS:
+    mimetype: text/plain
+  DRM-VMN.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  XRTNFO.EXE:
+    mimetype: application/x-msdos-program
+  drm-nrg.ans:
+    mimetype: text/plain

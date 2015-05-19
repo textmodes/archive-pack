@@ -1,0 +1,48 @@
+name: retro001.zip
+hash: 34925328a674e1b563db7444540a7460
+year: 2003
+file:
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  RETRO.EXE:
+    mimetype: application/x-msdos-program
+  RETRO.NFO:
+    mimetype: text/plain
+  rto/123RVEW2.RTO:
+    mimetype: text/plain
+  rto/123RVIEW.rto:
+    mimetype: application/octet-stream
+  rto/ARTICLES.RTO:
+    mimetype: application/octet-stream
+  rto/END.RTO:
+    mimetype: text/plain
+  rto/GLMRVIEW.RTO:
+    mimetype: application/octet-stream
+  rto/HEADER.rto:
+    mimetype: text/plain
+  rto/INTERVIE.RTO:
+    mimetype: text/plain
+  rto/INTRO.RTO:
+    mimetype: text/plain
+  rto/JASH.RTO:
+    mimetype: text/plain
+  rto/MAIN.rto:
+    mimetype: text/plain
+  rto/MMCRVIEW.RTO:
+    mimetype: text/plain
+  rto/PODSI.RTO:
+    mimetype: text/plain
+  rto/THAI.rto:
+    mimetype: text/plain
+  rto/about.rto:
+    mimetype: application/octet-stream
+  rto/oscomp.rto:
+    mimetype: text/plain
+  rto/packs.rto:
+    mimetype: text/plain
+  rto/reviews.rto:
+    mimetype: text/plain
+  rto/secrview.rto:
+    mimetype: application/octet-stream
+  rto/tum02.rto:
+    mimetype: application/octet-stream

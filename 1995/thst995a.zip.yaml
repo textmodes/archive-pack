@@ -1,0 +1,104 @@
+name: thst995a.zip
+hash: 428d057be59dafff7963bbd2d4882ee9
+year: 1995
+file:
+  !!binary +vnEQU5TRUUuxPn6:
+    mimetype: text/plain
+  !!binary +vnEQVNLRUUuxPn6:
+    mimetype: text/plain
+  !!binary +vnETUlIU0suxPn6:
+    mimetype: text/plain
+  !!binary +vnEUzNFSE0uxPn6:
+    mimetype: text/plain
+  !!binary +vnEVkdBWUUuxPn6:
+    mimetype: text/plain
+  BH-ACID.ASC:
+    mimetype: text/plain
+  BH-BLST.ASC:
+    mimetype: text/plain
+  BH-DISC.ASC:
+    mimetype: text/plain
+  BH-HUMA.ASC:
+    mimetype: text/plain
+  BH-II.ASC:
+    mimetype: text/plain
+  BH-II2.ASC:
+    mimetype: text/plain
+  BH-NUV1.ANS:
+    mimetype: text/plain
+  BH-SNC.ASC:
+    mimetype: text/plain
+  BH-THRST.S3M:
+    mimetype: audio/x-mod
+  BH-UNI.ASC:
+    mimetype: text/plain
+  CK-THRST.GIF:
+    mimetype: image/gif
+  CK-THRUS.ANS:
+    mimetype: text/plain
+  CK-UALOG.ANS:
+    mimetype: text/plain
+  CN-TV.EXE:
+    mimetype: application/x-msdos-program
+  DRHD-DEM.ZIP:
+    mimetype: application/zip
+  EE-INFO.ANS:
+    mimetype: text/plain
+  EE-MASS.ANS:
+    mimetype: text/plain
+  EE-PSYCH.ANS:
+    mimetype: text/plain
+  EE-STALK.ANS:
+    mimetype: text/plain
+  EE-THRST.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  KK-GODMX.ANS:
+    mimetype: text/plain
+  KK-IQMNU.ANS:
+    mimetype: text/plain
+  KK-LGO1.ANS:
+    mimetype: text/plain
+  KK-SMTX.ANS:
+    mimetype: text/plain
+  KK-TGMAD.ANS:
+    mimetype: text/plain
+  KK-TMSLG.ANS:
+    mimetype: text/plain
+  KK-WCLG.ANS:
+    mimetype: text/plain
+  MAX-CA.EXE:
+    mimetype: application/x-msdos-program
+  THRSTAPP.ZIP:
+    mimetype: application/zip
+  THST0995.MEM:
+    mimetype: text/plain
+  THST0995.NFO:
+    mimetype: text/plain
+  TI-AOS.ANS:
+    mimetype: text/plain
+  TI-AOSLG.ANS:
+    mimetype: text/plain
+  TI-CA.ANS:
+    mimetype: text/plain
+  TI-ED.ANS:
+    mimetype: text/plain
+  TI-FV.ANS:
+    mimetype: text/plain
+  TI-ILL.ANS:
+    mimetype: text/plain
+  TI-MF2.ANS:
+    mimetype: text/plain
+  TI-OBX.ANS:
+    mimetype: text/plain
+  TI-RHMT.ANS:
+    mimetype: text/plain
+  TI-SPECT.ANS:
+    mimetype: text/plain
+  TI-TGM.ANS:
+    mimetype: text/plain
+  TI-TMS.ANS:
+    mimetype: text/plain
+  TI-TWA2.ANS:
+    mimetype: text/plain

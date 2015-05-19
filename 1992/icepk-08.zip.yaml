@@ -1,0 +1,78 @@
+name: icepk-08.zip
+hash: ca315aa118612310544bb72469411445
+year: 1992
+file:
+  AV.EXE:
+    mimetype: application/x-msdos-program
+  CONFIG.DAT:
+    mimetype: application/octet-stream
+  CY-EYTD.ICE:
+    mimetype: text/plain
+  EB-BC.EXE:
+    mimetype: application/x-msdos-program
+  ED-BONER.EXE:
+    mimetype: application/x-msdos-program
+  ED-EITW.ICE:
+    mimetype: text/plain
+  ED-INFO.ICE:
+    mimetype: text/plain
+  ED-LOGO.ICE:
+    mimetype: text/plain
+  ED-LSD01.ICE:
+    mimetype: text/plain
+  ED-PSYC.ICE:
+    mimetype: text/plain
+  ED-RMAIN.ICE:
+    mimetype: text/plain
+  ED-RMSG.ICE:
+    mimetype: text/plain
+  ED-TLD.ICE:
+    mimetype: text/plain
+  ED-TUGO.ICE:
+    mimetype: text/plain
+  ED-UNKN.ICE:
+    mimetype: text/plain
+  ICE-8-92.ICE:
+    mimetype: text/plain
+  ICEPACK.NFO:
+    mimetype: text/plain
+  LM-CRUS2.ICE:
+    mimetype: text/plain
+  LM-ELDC.ICE:
+    mimetype: text/plain
+  LM-INSOC.ICE:
+    mimetype: text/plain
+  LM-OKC.ICE:
+    mimetype: text/plain
+  QS-JUNG.ICE:
+    mimetype: text/plain
+  QS-MEDC.ICE:
+    mimetype: text/plain
+  RI-TPE2.ICE:
+    mimetype: text/plain
+  TMT-CASP.ICE:
+    mimetype: text/plain
+  TMT-SANC.ICE:
+    mimetype: text/plain
+  TMT-TC.ICE:
+    mimetype: text/plain
+  TMT-TC2.ICE:
+    mimetype: text/plain
+  TT-CIT3.ICE:
+    mimetype: text/plain
+  TT-ICE3.ICE:
+    mimetype: text/plain
+  TT-ID4.ICE:
+    mimetype: text/plain
+  TT-LSD2.ICE:
+    mimetype: text/plain
+  TT-LTD.ICE:
+    mimetype: text/plain
+  TT-RAZ3.ICE:
+    mimetype: text/plain
+  TT-TBG.ICE:
+    mimetype: text/plain
+  TT-TNB.ICE:
+    mimetype: text/plain
+  TT-TNB2.ICE:
+    mimetype: text/plain

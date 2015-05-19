@@ -1,0 +1,66 @@
+name: rca-18a.zip
+hash: f313fe1831385dce7ca5d35c9d6752f6
+year: 1998
+file:
+  BD-1.ANS:
+    mimetype: text/plain
+  BD-2.ANS:
+    mimetype: text/plain
+  BD-3.ANS:
+    mimetype: text/plain
+  BD-4.ANS:
+    mimetype: text/plain
+  BD-5.ANS:
+    mimetype: text/plain
+  BD-6.ANS:
+    mimetype: text/plain
+  BD-7.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  HAZE2.ASC:
+    mimetype: text/plain
+  HX-BLOCK.ANS:
+    mimetype: text/plain
+  HX-FRM.ANS:
+    mimetype: text/plain
+  HX-HERO.ANS:
+    mimetype: text/plain
+  HX-NS.ANS:
+    mimetype: text/plain
+  HX-RCA.BIN:
+    mimetype: application/octet-stream
+  HX-WORD.ANS:
+    mimetype: text/plain
+  KT-FOS.ANS:
+    mimetype: text/plain
+  KT-SREAL.ANS:
+    mimetype: text/plain
+  LB-CA.RIP:
+    mimetype: image/x-rip
+  LB-LCKY4.ANS:
+    mimetype: text/plain
+  RB-VOOD.ANS:
+    mimetype: text/plain
+  RCA-B60.ANS:
+    mimetype: text/plain
+  RCAMEM98.ANS:
+    mimetype: text/plain
+  S4-EE.ANS:
+    mimetype: text/plain
+  TH-RCA1.ANS:
+    mimetype: text/plain
+  TR-COL.ANS:
+    mimetype: text/plain
+  US-BBOY2.RIP:
+    mimetype: image/x-rip
+  US-RCA.RIP:
+    mimetype: image/x-rip
+  US-SCENT.RIP:
+    mimetype: image/x-rip
+  US-SENT.ANS:
+    mimetype: text/plain
+  hx-frame.ans:
+    mimetype: text/plain
+  mc-bd.ans:
+    mimetype: text/plain

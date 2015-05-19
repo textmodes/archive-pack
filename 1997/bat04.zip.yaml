@@ -1,0 +1,82 @@
+name: bat04.zip
+hash: 1545fd31ea28290276e712f0e36a9fe5
+year: 1997
+file:
+  BAT.NFO:
+    mimetype: text/plain
+  BC-APPLY.ANS:
+    mimetype: text/plain
+  BC-ASCLY.ASC:
+    mimetype: text/plain
+  DAEMON.JPG:
+    mimetype: image/jpeg
+  DM_BAT.JPG:
+    mimetype: image/jpeg
+  DM_EARTH.JPG:
+    mimetype: image/jpeg
+  DM_LOGO.JPG:
+    mimetype: image/jpeg
+  DM_MOON.JPG:
+    mimetype: image/jpeg
+  DM_VAMP.JPG:
+    mimetype: image/jpeg
+  DQ-H0H0.ANS:
+    mimetype: text/plain
+  DQ-HAND.ANS:
+    mimetype: text/plain
+  DQ-NALLE.ANS:
+    mimetype: text/plain
+  DW-BAT.ANS:
+    mimetype: text/plain
+  DW-COL.ANS:
+    mimetype: text/plain
+  DW-DIST.ANS:
+    mimetype: text/plain
+  DW-DIZ.ASC:
+    mimetype: text/plain
+  DW-MEMBS.ANS:
+    mimetype: text/plain
+  DW-SKULL.ANS:
+    mimetype: text/plain
+  DW-SPAWN.ANS:
+    mimetype: text/plain
+  DW-XMAS.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FR-BAD1.ANS:
+    mimetype: text/plain
+  FR-DICT1.ANS:
+    mimetype: text/plain
+  FR-DICT2.ANS:
+    mimetype: text/plain
+  JV-BAD.GIF:
+    mimetype: image/gif
+  JV-BAT.JPG:
+    mimetype: image/jpeg
+  JV-DICT.GIF:
+    mimetype: image/gif
+  JV-TABLE.GIF:
+    mimetype: image/gif
+  SPANT0BI.COM:
+    mimetype: application/x-msdos-program
+  VDR-MAN.ANS:
+    mimetype: text/plain
+  VDR-UGLY.ANS:
+    mimetype: text/plain
+  VDR-VNM.ANS:
+    mimetype: text/plain
+  VDR_BAT.ANS:
+    mimetype: text/plain
+  VDR_BAT2.ANS:
+    mimetype: text/plain
+  VDR_BAT3.ANS:
+    mimetype: text/plain
+  VDR_BAT4.ANS:
+    mimetype: text/plain
+  ZT-ANSI.ANS:
+    mimetype: text/plain
+  ZT-ASS!!.ANS:
+    mimetype: text/plain
+  ZT-BAD2.ANS:
+    mimetype: text/plain

@@ -1,0 +1,18 @@
+name: rib-002.zip
+hash: fac988ad653a4f5efed420df6f5a78ca
+year: 1997
+file:
+  CPH-COL1.ASC:
+    mimetype: text/plain
+  CPH-COLL.ANS:
+    mimetype: text/plain
+  CPH-XCOL.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  RIB-PA14.JPG:
+    mimetype: image/jpeg
+  RIB.EXE:
+    mimetype: application/x-msdos-program
+  RIBREL.NFO:
+    mimetype: text/plain

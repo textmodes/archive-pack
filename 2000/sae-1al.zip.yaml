@@ -1,0 +1,56 @@
+name: sae-1al.zip
+hash: 71888896b961e9ec85024dabc92b4443
+year: 2000
+file:
+  DLT-ARC.ANS:
+    mimetype: text/plain
+  DLT-SAE.ANS:
+    mimetype: text/plain
+  DLT-SAE.NFO:
+    mimetype: text/plain
+  DLT-SAE2.ANS:
+    mimetype: text/plain
+  EB-420.ANS:
+    mimetype: text/plain
+  EB-DNMX.ANS:
+    mimetype: text/plain
+  EB-ECL1.ANS:
+    mimetype: text/plain
+  EB-ECL2.ANS:
+    mimetype: text/plain
+  EB-SAE.NFO:
+    mimetype: text/plain
+  EB-SION.ASC:
+    mimetype: text/plain
+  EB-SLWEL.ANS:
+    mimetype: text/plain
+  EB-STILE.ANS:
+    mimetype: text/plain
+  EB-TRED.ASC:
+    mimetype: text/plain
+  EB-TSR.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  M0D-BLD.ASC:
+    mimetype: text/plain
+  M0D-DGI.ASC:
+    mimetype: text/plain
+  M0D-MAGC.ASC:
+    mimetype: text/plain
+  M0D-ROBO.ASC:
+    mimetype: text/plain
+  M0D-THUG.ASC:
+    mimetype: text/plain
+  SAE.NFO:
+    mimetype: text/plain
+  SAELORES.NFO:
+    mimetype: text/plain
+  THUGLIFE.ORG:
+    mimetype: text/plain
+  US-SAE.ANS:
+    mimetype: text/plain
+  XZ-COLLY.TXT:
+    mimetype: text/plain
+  XZ-LCP.ASC:
+    mimetype: text/plain

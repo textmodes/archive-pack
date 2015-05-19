@@ -1,0 +1,84 @@
+name: grip0993.zip
+hash: 5cb45e27c521d5c905e6451acd41499b
+year: 1993
+file:
+  !!binary +vlBTlNJ+fou+vnt:
+    mimetype: application/octet-stream
+  !!binary +vlTVEFU+fou+vnt:
+    mimetype: application/octet-stream
+  !!binary +vlTVE1T+fou+vnt:
+    mimetype: application/octet-stream
+  AN-JP1.GRP:
+    mimetype: text/plain
+  AN-MARIO.GRP:
+    mimetype: text/plain
+  AN-MARV1.GRP:
+    mimetype: text/plain
+  AN-SNC01.GRP:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FUN!.COM:
+    mimetype: application/x-msdos-program
+  GRIP-APP.EXE:
+    mimetype: application/x-msdos-program
+  GRIP0993.NFO:
+    mimetype: text/plain
+  GRIPVIEW.EXE:
+    mimetype: application/x-msdos-program
+  JS-ABS1.GRP:
+    mimetype: text/plain
+  JS-ALP1.GRP:
+    mimetype: text/plain
+  JS-BLOOD.GRP:
+    mimetype: text/plain
+  JS-BUD1.GRP:
+    mimetype: text/plain
+  JS-BUD2.GRP:
+    mimetype: text/plain
+  JS-CA1.GRP:
+    mimetype: text/plain
+  JS-SON1.GRP:
+    mimetype: text/plain
+  JS-SON2.GRP:
+    mimetype: text/plain
+  JS-SUM1.GRP:
+    mimetype: text/plain
+  K-PRAIN.ZIP:
+    mimetype: application/zip
+  MM-BH1.GRP:
+    mimetype: text/plain
+  MM-BLIS1.GRP:
+    mimetype: text/plain
+  MM-TDRO1.GRP:
+    mimetype: text/plain
+  TD-BOTA.ZIP:
+    mimetype: application/zip
+  TD-DANGR.ZIP:
+    mimetype: application/zip
+  TNP-GRP1.GRP:
+    mimetype: text/plain
+  TNP-GRP2.GRP:
+    mimetype: text/plain
+  TNP-LM1.GRP:
+    mimetype: text/plain
+  TNP-NL1.GRP:
+    mimetype: text/plain
+  TNP-NL2.GRP:
+    mimetype: text/plain
+  TNP-SB1.GRP:
+    mimetype: text/plain
+  TNP-SB1.ZIP:
+    mimetype: application/zip
+  TNP-SB2.GRP:
+    mimetype: text/plain
+  TNP-TB1.GRP:
+    mimetype: text/plain
+  TNP-TMS1.GRP:
+    mimetype: text/plain
+  TNPORION.GRP:
+    mimetype: text/plain
+  ZOR-LOG.GRP:
+    mimetype: text/plain
+  ZOR-MEM.GRP:
+    mimetype: text/plain

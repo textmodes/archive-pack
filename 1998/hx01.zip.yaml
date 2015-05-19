@@ -1,0 +1,52 @@
+name: hx01.zip
+hash: ffdada32b592562262150bad0f1cc5b9
+year: 1998
+file:
+  AD4GOOP.COM:
+    mimetype: application/x-msdos-program
+  APPLY/HX001.DAT:
+    mimetype: text/plain
+  APPLY/HX002.DAT:
+    mimetype: text/plain
+  APPLY/HX003.DAT:
+    mimetype: text/plain
+  APPLY/HX004.DAT:
+    mimetype: text/plain
+  APPLY/HX005.DAT:
+    mimetype: text/plain
+  DIAL_ME.COM:
+    mimetype: application/x-msdos-program
+  EGGBERT.W3E:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  HX_INFO.ANS:
+    mimetype: text/plain
+  HXANS02.ANS:
+    mimetype: text/plain
+  HXANS03.ANS:
+    mimetype: text/plain
+  HXMX01.ANS:
+    mimetype: text/plain
+  HXMX02.ANS:
+    mimetype: text/plain
+  HXMX04.ANS:
+    mimetype: text/plain
+  HXRIP01.RIP:
+    mimetype: image/x-rip
+  HXRIP02.RIP:
+    mimetype: image/x-rip
+  HXRIP03.RIP:
+    mimetype: image/x-rip
+  HXRIP04.RIP:
+    mimetype: image/x-rip
+  HXRIP05.RIP:
+    mimetype: image/x-rip
+  HXVGA01.JPG:
+    mimetype: image/jpeg
+  HXVGA02.JPG:
+    mimetype: image/jpeg
+  HXVGA03.JPG:
+    mimetype: image/jpeg
+  TOASTER.TOA:
+    mimetype: text/plain

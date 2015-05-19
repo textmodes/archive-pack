@@ -1,0 +1,36 @@
+name: fsh-0993.zip
+hash: 2e8c71ff3da4572a4312a92fdf63971b
+year: 1993
+file:
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FSH-0993.MEM:
+    mimetype: text/plain
+  HM-DASL.ASC:
+    mimetype: text/plain
+  HM-PDAS.ASC:
+    mimetype: text/plain
+  HM-PL.ASC:
+    mimetype: text/plain
+  HMSC-DA.ANS:
+    mimetype: text/plain
+  LOGOS.ZIP:
+    mimetype: application/zip
+  NEOTOKYO.ANS:
+    mimetype: text/plain
+  RE-FTMN1.ZIP:
+    mimetype: application/zip
+  RE-MANIA.EXE:
+    mimetype: application/x-msdos-program
+  RE-MANIA.ZIP:
+    mimetype: application/zip
+  SC-DASY.ANS:
+    mimetype: text/plain
+  SC-FSH1.ANS:
+    mimetype: text/plain
+  SC-GODSP.ZIP:
+    mimetype: application/zip
+  SC-SET.ZIP:
+    mimetype: application/zip
+  SCHM-PD.ANS:
+    mimetype: text/plain

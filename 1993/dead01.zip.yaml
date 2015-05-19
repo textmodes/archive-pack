@@ -1,0 +1,48 @@
+name: dead01.zip
+hash: 59e0ffadd2fec90458edc3f1d4602b0d
+year: 1993
+file:
+  AN-8MILE.DEA:
+    mimetype: text/plain
+  AN-FUT.DEA:
+    mimetype: text/plain
+  AN-UTA.DEA:
+    mimetype: text/plain
+  AN-UTB.DEA:
+    mimetype: text/plain
+  CB-LOGO.DEA:
+    mimetype: text/plain
+  DEAD-ID3.EXE:
+    mimetype: application/x-msdos-program
+  DEAD1.EXE:
+    mimetype: application/x-msdos-program
+  DEADMEMB.EXE:
+    mimetype: application/x-msdos-program
+  DK-DRAG.DEA:
+    mimetype: text/plain
+  DK-HAR.DEA:
+    mimetype: text/plain
+  DK-PWA.DEA:
+    mimetype: text/plain
+  DK-RAM.DEA:
+    mimetype: text/plain
+  DK-SANC.DEA:
+    mimetype: text/plain
+  DK-TRACE.DEA:
+    mimetype: text/plain
+  DK-UT3.DEA:
+    mimetype: text/plain
+  EFFIX.NOW:
+    mimetype: text/plain
+  GOLD:
+    mimetype: text/plain
+  HY-DSITE.DEA:
+    mimetype: text/plain
+  HY-DUMP.DEA:
+    mimetype: text/plain
+  HY-NIV1.IAD:
+    mimetype: text/plain
+  HY-NIV2.IAD:
+    mimetype: text/plain
+  IADAPPS.EXE:
+    mimetype: application/x-msdos-program

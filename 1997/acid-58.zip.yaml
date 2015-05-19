@@ -1,0 +1,56 @@
+name: acid-58.zip
+hash: 67d1f1a3e28bc23ece22b290d6747975
+year: 1997
+file:
+  AcidView:
+    mimetype: text/x-shellscript
+  AcidView.bat:
+    mimetype: application/x-msdos-program
+  AcidView.class:
+    mimetype: application/x-java-applet
+  AcidView.faq:
+    mimetype: text/plain
+  AcidView.files:
+    mimetype: text/plain
+  AcidView.fnt:
+    mimetype: application/octet-stream
+  AcidView.jpg:
+    mimetype: image/jpeg
+  AcidView.nfo:
+    mimetype: text/plain
+  acid-58.xb:
+    mimetype: text/x-xbin
+  acidapp.exe:
+    mimetype: application/x-msdos-program
+  bm-pm1.gif:
+    mimetype: image/gif
+  cs-bman2.jpg:
+    mimetype: image/jpeg
+  cs-curio.jpg:
+    mimetype: image/jpeg
+  eg-nucle.jpg:
+    mimetype: image/jpeg
+  eg-vein.jpg:
+    mimetype: image/jpeg
+  file_id.diz:
+    mimetype: text/plain
+  j1-e.jpg:
+    mimetype: image/jpeg
+  ml-free.jpg:
+    mimetype: image/jpeg
+  pr-legnd.jpg:
+    mimetype: image/jpeg
+  release.nfo:
+    mimetype: text/plain
+  th-angel.jpg:
+    mimetype: image/jpeg
+  th-nasty.jpg:
+    mimetype: image/jpeg
+  th-sini.jpg:
+    mimetype: image/jpeg
+  us-alien.jpg:
+    mimetype: image/jpeg
+  us-na2c.jpg:
+    mimetype: image/jpeg
+  wc-outsd.jpg:
+    mimetype: image/jpeg

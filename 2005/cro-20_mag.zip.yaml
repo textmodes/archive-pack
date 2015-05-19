@@ -1,0 +1,10 @@
+name: cro-20_mag.zip
+hash: 9561040b0b5f33e29d193466e81b0c1e
+year: 2005
+file:
+  Install.exe:
+    mimetype: application/x-msdos-program
+  cro-20.rar:
+    mimetype: application/rar
+  unrar.dll:
+    mimetype: application/x-dosexec

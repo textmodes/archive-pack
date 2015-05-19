@@ -1,0 +1,50 @@
+name: ea_oct94.zip
+hash: 0bcc1175555ae7e005688501a73b3dde
+year: 1994
+file:
+  BADBRAIN.ANS:
+    mimetype: text/plain
+  CARTEL.ANS:
+    mimetype: text/plain
+  CHAOS.ANS:
+    mimetype: text/plain
+  CIS.ANS:
+    mimetype: text/plain
+  CIVIL1.ANS:
+    mimetype: text/plain
+  CYBLAND.ANS:
+    mimetype: text/plain
+  DEVILS.ANS:
+    mimetype: text/plain
+  ERROR.EXE:
+    mimetype: application/x-msdos-program
+  ERROR010.ANS:
+    mimetype: text/plain
+  ERROR011.ANS:
+    mimetype: text/plain
+  ERROR012.ANS:
+    mimetype: text/plain
+  ERRORLOG.ANS:
+    mimetype: text/plain
+  ERRORNFO.COM:
+    mimetype: application/x-msdos-program
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  MENTAL.ANS:
+    mimetype: text/plain
+  MICMANIA.ANS:
+    mimetype: text/plain
+  PEZ.ANS:
+    mimetype: text/plain
+  SADIST.ANS:
+    mimetype: text/plain
+  SPIRITS.ANS:
+    mimetype: text/plain
+  THECUBE.ANS:
+    mimetype: text/plain
+  THEWEB.ANS:
+    mimetype: text/plain
+  TXT-CMT.ASC:
+    mimetype: text/plain
+  ZIPCMT.CMT:
+    mimetype: text/plain

@@ -1,0 +1,104 @@
+name: prn-x010.zip
+hash: 9a2c1e2f3cf7e1052fe48800704eac8c
+year: 2003
+file:
+  '--------.---':
+    mimetype: application/octet-stream
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  MESSAGES.TXT:
+    mimetype: text/plain
+  PRN-APP2.TXT:
+    mimetype: text/plain
+  PRN-XO1O.NFO:
+    mimetype: text/plain
+  SK-ACID.ASC:
+    mimetype: text/plain
+  SK-AMEND.DOC:
+    mimetype: text/plain
+  SK-BLOTT.LIT:
+    mimetype: text/plain
+  SK-CHACO.ASC:
+    mimetype: text/plain
+  SK-COLE.ASC:
+    mimetype: text/plain
+  SK-DAYMA.LIT:
+    mimetype: text/plain
+  SK-EPIO1.LIT:
+    mimetype: text/plain
+  SK-EPIO2.LIT:
+    mimetype: text/plain
+  SK-EPIO3.LIT:
+    mimetype: text/plain
+  SK-EPIO4.LIT:
+    mimetype: text/plain
+  SK-EPIO5.LIT:
+    mimetype: text/plain
+  SK-EPIO6.LIT:
+    mimetype: text/plain
+  SK-EPIO7.LIT:
+    mimetype: text/plain
+  SK-EPIO8.LIT:
+    mimetype: text/plain
+  SK-EVAN.ASC:
+    mimetype: text/plain
+  SK-FOAMS.LIT:
+    mimetype: text/plain
+  SK-GHC.LIT:
+    mimetype: text/plain
+  SK-HAZES.LIT:
+    mimetype: text/plain
+  SK-IMPUR.ASC:
+    mimetype: text/plain
+  SK-JAM.ASC:
+    mimetype: text/plain
+  SK-MA.LIT:
+    mimetype: text/plain
+  SK-MAYA.ASC:
+    mimetype: text/plain
+  SK-MG2.ASC:
+    mimetype: text/plain
+  SK-MH.ASC:
+    mimetype: text/plain
+  SK-MH.LIT:
+    mimetype: text/plain
+  SK-MIST.ASC:
+    mimetype: text/plain
+  SK-PM.ASC:
+    mimetype: text/plain
+  SK-SWOF.TXT:
+    mimetype: text/plain
+  SK-THEST.LIT:
+    mimetype: text/plain
+  SK-TR.ASC:
+    mimetype: text/plain
+  SK-TRANK.ASC:
+    mimetype: text/plain
+  SK-WH.ASC:
+    mimetype: text/plain
+  THUGLIFE.ORG:
+    mimetype: text/plain
+  WH-RMX10.LIT:
+    mimetype: text/plain
+  WH-RMX11.LIT:
+    mimetype: text/plain
+  WH-RMX12.LIT:
+    mimetype: text/plain
+  WH-RMXO1.LIT:
+    mimetype: text/plain
+  WH-RMXO2.LIT:
+    mimetype: text/plain
+  WH-RMXO3.LIT:
+    mimetype: text/plain
+  WH-RMXO4.LIT:
+    mimetype: text/plain
+  WH-RMXO5.LIT:
+    mimetype: text/plain
+  WH-RMXO6.LIT:
+    mimetype: text/plain
+  WH-RMXO7.LIT:
+    mimetype: text/plain
+  WH-RMXO8.LIT:
+    mimetype: text/plain
+  WH-RMXO9.LIT:
+    mimetype: text/plain

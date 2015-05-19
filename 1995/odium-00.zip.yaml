@@ -1,0 +1,10 @@
+name: odium-00.zip
+hash: daa25a3509a162953c312646a473cf45
+year: 1995
+file:
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  ODIUM-00.NFO:
+    mimetype: text/plain
+  ODIUMAPP.EXE:
+    mimetype: application/x-msdos-program

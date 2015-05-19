@@ -1,0 +1,52 @@
+name: acid-79a.zip
+hash: d18a9985162eb480fb710482de1bbc8b
+year: 1999
+file:
+  AcidView/AVDialog.class:
+    mimetype: application/x-java-applet
+  AcidView/AcidAnsi.class:
+    mimetype: application/x-java-applet
+  AcidView/AcidText.class:
+    mimetype: application/x-java-applet
+  AcidView/AcidView:
+    mimetype: text/x-shellscript
+  AcidView/AcidView.bat:
+    mimetype: application/x-msdos-program
+  AcidView/AcidView.class:
+    mimetype: application/x-java-applet
+  AcidView/AcidView.faq:
+    mimetype: text/plain
+  AcidView/AcidView.files:
+    mimetype: text/plain
+  AcidView/AcidView.fnt:
+    mimetype: application/octet-stream
+  AcidView/AcidView.jpg:
+    mimetype: image/jpeg
+  AcidView/AcidView.nfo:
+    mimetype: text/plain
+  AcidView/AcidXBin.class:
+    mimetype: application/x-java-applet
+  AcidView/AnsiImage.class:
+    mimetype: application/x-java-applet
+  acid-79.xb:
+    mimetype: text/x-xbin
+  acidapp.exe:
+    mimetype: application/x-msdos-program
+  ass-promo.jpg:
+    mimetype: image/jpeg
+  axb-dream1.jpg:
+    mimetype: image/jpeg
+  axb-land1.jpg:
+    mimetype: image/jpeg
+  bed-zndr.jpg:
+    mimetype: image/jpeg
+  cat-my_head_feels_wrong.jpg:
+    mimetype: image/jpeg
+  file_id.diz:
+    mimetype: text/plain
+  grm-prague1.jpg:
+    mimetype: image/jpeg
+  our-copyright.txt:
+    mimetype: text/plain
+  release.nfo:
+    mimetype: text/plain

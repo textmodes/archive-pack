@@ -1,0 +1,66 @@
+name: corp0193.zip
+hash: f93bd118da72e706efcaab9cda77b91e
+year: 1993
+file:
+  -RUNME.COM:
+    mimetype: application/x-msdos-program
+  ANSIVIEW.EXE:
+    mimetype: application/x-msdos-program
+  CDXASCII.CRP:
+    mimetype: application/octet-stream
+  CORP1.EXE:
+    mimetype: application/x-msdos-program
+  CORP93!.CRP:
+    mimetype: text/plain
+  CORPDIST.CRP:
+    mimetype: text/plain
+  CORPWHQ.CRP:
+    mimetype: text/plain
+  CRPPACK1.CRP:
+    mimetype: application/octet-stream
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GEN-BAK1.CRP:
+    mimetype: text/plain
+  GEN-CRP1.CRP:
+    mimetype: text/plain
+  GEN-CRP2.CRP:
+    mimetype: text/plain
+  GEN-OK.CRP:
+    mimetype: text/plain
+  GEN-SOS1.CRP:
+    mimetype: text/plain
+  GEN-TAO1.CRP:
+    mimetype: text/plain
+  GEN-XTC1.CRP:
+    mimetype: text/plain
+  GEN-YAM1.CRP:
+    mimetype: text/plain
+  KILRATHI.CRP:
+    mimetype: text/plain
+  MICKEY.CRP:
+    mimetype: text/plain
+  PZA-CRP1.CRP:
+    mimetype: text/plain
+  PZA-DEEP.CRP:
+    mimetype: text/plain
+  PZA-POD1.CRP:
+    mimetype: text/plain
+  SPR-CRP1.CRP:
+    mimetype: text/plain
+  SPR-DEL1.CRP:
+    mimetype: text/plain
+  SPR-HST1.CRP:
+    mimetype: text/plain
+  SPR-RZR1.CRP:
+    mimetype: text/plain
+  WIZ-DEEP.CRP:
+    mimetype: text/plain
+  WIZ-HH1.CRP:
+    mimetype: text/plain
+  WIZ-PC1.CRP:
+    mimetype: text/plain
+  WIZ-POD1.CRP:
+    mimetype: text/plain
+  WIZ-STAT.CRP:
+    mimetype: text/plain

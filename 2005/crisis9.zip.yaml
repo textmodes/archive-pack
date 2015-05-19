@@ -1,0 +1,16 @@
+name: crisis9.zip
+hash: 4d744756aa8119c55744bc23f030c680
+year: 2005
+file:
+  crinfo9.ans:
+    mimetype: text/plain
+  gj-holdup.ans:
+    mimetype: text/plain
+  us-dist.ans:
+    mimetype: text/plain
+  us-mario.tnd:
+    mimetype: application/octet-stream
+  us-scar.ans:
+    mimetype: text/plain
+  us-synch.ans:
+    mimetype: text/plain

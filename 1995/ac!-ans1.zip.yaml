@@ -1,0 +1,16 @@
+name: ac!-ans1.zip
+hash: 1bf9994018ff3a43ef13d9e2c9e5f739
+year: 1995
+file:
+  AC!-05L.LHA:
+    mimetype: application/x-lha
+  AC!-AJFA.LHA:
+    mimetype: application/x-lha
+  AC!-BS1O.LHA:
+    mimetype: application/x-lha
+  AC!-SIC.LHA:
+    mimetype: application/x-lha
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  READ-DIS.NFO:
+    mimetype: text/plain

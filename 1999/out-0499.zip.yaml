@@ -1,0 +1,32 @@
+name: out-0499.zip
+hash: 3644bacac96525b2b427e411aca1e63a
+year: 1999
+file:
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FILELIST.TXT:
+    mimetype: text/plain
+  OUT-AD.ANS:
+    mimetype: text/plain
+  OUT-AD.RIP:
+    mimetype: image/x-rip
+  OUT-BRSH.ANS:
+    mimetype: text/plain
+  OUT-GRMN.ANS:
+    mimetype: text/plain
+  OUT-MNSW.ANS:
+    mimetype: text/plain
+  OUT-NEWS.ANS:
+    mimetype: text/plain
+  OUT-NSUR.ANS:
+    mimetype: text/plain
+  OUT-WIZD.ANS:
+    mimetype: text/plain
+  OUT-WMF1.ANS:
+    mimetype: text/plain
+  OUT-WMF2.ANS:
+    mimetype: text/plain
+  OUT.AD:
+    mimetype: text/plain
+  OUTWORLD.TXT:
+    mimetype: text/plain

@@ -1,0 +1,24 @@
+name: pen-002.zip
+hash: cd405c1d5e9aa2dd731c77c66ab12cee
+year: 1993
+file:
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FUN!.COM:
+    mimetype: application/x-msdos-program
+  PEN#2.EXE:
+    mimetype: application/x-msdos-program
+  PEN#2.NFO:
+    mimetype: text/plain
+  PEN1.DAT:
+    mimetype: text/plain
+  PEN2.DAT:
+    mimetype: application/x-dosexec
+  PEN3.DAT:
+    mimetype: image/gif
+  PEN4.DAT:
+    mimetype: image/gif
+  PEN5.DAT:
+    mimetype: image/gif
+  PEN6.DAT:
+    mimetype: image/gif

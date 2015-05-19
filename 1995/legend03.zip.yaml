@@ -1,0 +1,30 @@
+name: legend03.zip
+hash: c09d3e9a689ac8fd016eff6df98a9517
+year: 1995
+file:
+  EV-TRN1.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FONTS03.ZIP:
+    mimetype: application/zip
+  LEGEND03.BIN:
+    mimetype: text/x-binary
+  NC-PIR1.ANS:
+    mimetype: text/plain
+  NC-VOTB1.ANS:
+    mimetype: text/plain
+  NC3-SD1.ANS:
+    mimetype: text/plain
+  NCP-NHP1.ANS:
+    mimetype: text/plain
+  SG-NL1.ANS:
+    mimetype: text/plain
+  SO-HMP1.ANS:
+    mimetype: text/plain
+  SO-NHP1.ANS:
+    mimetype: text/plain
+  US-BHZRD.ANS:
+    mimetype: text/plain
+  US-HYP1.ANS:
+    mimetype: text/plain

@@ -1,0 +1,98 @@
+name: mtn-0695.zip
+hash: 10253d665b27236a965c148c64769e43
+year: 1995
+file:
+  (ANSI):
+    mimetype: text/plain
+  (ASKI):
+    mimetype: text/plain
+  (EXE):
+    mimetype: text/plain
+  (INFO):
+    mimetype: text/plain
+  (LIT):
+    mimetype: text/plain
+  (MISC):
+    mimetype: text/plain
+  (S3M):
+    mimetype: text/plain
+  (VGA):
+    mimetype: text/plain
+  0695INFO.ANS:
+    mimetype: text/plain
+  0695MEMB.ANS:
+    mimetype: text/plain
+  0695SITE.ANS:
+    mimetype: text/plain
+  AN-SOS.ANS:
+    mimetype: text/plain
+  BM!CV.ANS:
+    mimetype: text/plain
+  BM!ED.ANS:
+    mimetype: text/plain
+  BM!OG.ANS:
+    mimetype: text/plain
+  BM!P9.ANS:
+    mimetype: text/plain
+  BM!RBS.ANS:
+    mimetype: text/plain
+  BM!SK.ANS:
+    mimetype: text/plain
+  BM!TCE.ANS:
+    mimetype: text/plain
+  BM!WC.ANS:
+    mimetype: text/plain
+  D0-PARAD.ANS:
+    mimetype: text/plain
+  D0-PLAS.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  HF-BURN.S3M:
+    mimetype: audio/x-mod
+  KU-MADAK.GIF:
+    mimetype: image/gif
+  MOT-FNT1.BIN:
+    mimetype: application/octet-stream
+  MOT-FNT2.BIN:
+    mimetype: application/octet-stream
+  MOT-FNT3.BIN:
+    mimetype: application/octet-stream
+  MOT-MOD2.BAS:
+    mimetype: text/plain
+  MOTIONAP.EXE:
+    mimetype: application/x-msdos-program
+  MOTIONRQ.EXE:
+    mimetype: application/x-msdos-program
+  MOTIONVU.EXE:
+    mimetype: application/x-msdos-program
+  MR-MAG.S3M:
+    mimetype: audio/x-mod
+  MTN-ASKI.ZIP:
+    mimetype: application/zip
+  MTN-LOGO.ZIP:
+    mimetype: application/zip
+  MTN-POET.ZIP:
+    mimetype: application/zip
+  SE-DYSTO.ANS:
+    mimetype: text/plain
+  SP-CD1.ANS:
+    mimetype: text/plain
+  TR-BLAKS.ANS:
+    mimetype: text/plain
+  TR-CT.ANS:
+    mimetype: text/plain
+  TR-GS.ANS:
+    mimetype: text/plain
+  TR-SON.ANS:
+    mimetype: text/plain
+  WC-EI.ANS:
+    mimetype: text/plain
+  WC-SYS75.ANS:
+    mimetype: text/plain
+  WELCOME.1:
+    mimetype: text/plain
+  WELCOME.2:
+    mimetype: text/plain
+  WS-HDEAT.ANS:
+    mimetype: text/plain

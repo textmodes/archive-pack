@@ -1,0 +1,44 @@
+name: ciadsk01.zip
+hash: 71323a8397dfadc267761d650a6031dd
+year: 1994
+file:
+  --MISC--.---:
+    mimetype: text/plain
+  --MODS--.---:
+    mimetype: text/plain
+  -PLAYER-.---:
+    mimetype: text/plain
+  44411630.HLP:
+    mimetype: text/plain
+  CIA-AC1.MOD:
+    mimetype: audio/x-mod
+  CIA-AC3.MOD:
+    mimetype: audio/x-mod
+  CIA-AC4.MOD:
+    mimetype: audio/x-mod
+  CIA-AC5.MOD:
+    mimetype: audio/x-mod
+  CIA-AC6.MOD:
+    mimetype: audio/x-mod
+  CIA-AC7.MOD:
+    mimetype: audio/x-mod
+  CIA-AC8.MOD:
+    mimetype: audio/x-mod
+  CIA-AC9.MOD:
+    mimetype: audio/x-mod
+  CIA-APP.ZIP:
+    mimetype: application/zip
+  CIA-MOD.DOC:
+    mimetype: text/plain
+  CIA-MOD.EXE:
+    mimetype: application/x-msdos-program
+  CIA-PLAY.EXE:
+    mimetype: application/x-msdos-program
+  CIAMUSIC.NFO:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  NEOTOKYO.ANS:
+    mimetype: text/plain
+  SBLASTER.000:
+    mimetype: application/octet-stream

@@ -1,0 +1,42 @@
+name: out-1197.zip
+hash: 6766ae6b48151365fc86a5b09cb4f5a2
+year: 1997
+file:
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FILEDESC.TXT:
+    mimetype: text/plain
+  FILELIST.TXT:
+    mimetype: text/plain
+  OUT-CH1.ANS:
+    mimetype: text/plain
+  OUT-CH1.RIP:
+    mimetype: image/x-rip
+  OUT-CH1.RP2:
+    mimetype: text/plain
+  OUT-CH2.ANS:
+    mimetype: text/plain
+  OUT-CH2.RIP:
+    mimetype: image/x-rip
+  OUT-CH3.ANS:
+    mimetype: text/plain
+  OUT-CH3.RIP:
+    mimetype: image/x-rip
+  OUT-CH4.ANS:
+    mimetype: text/plain
+  OUT-CH4.RIP:
+    mimetype: image/x-rip
+  OUT-DIST.ANS:
+    mimetype: text/plain
+  OUT-DIST.RIP:
+    mimetype: image/x-rip
+  OUT-DIST.TXT:
+    mimetype: text/plain
+  OUT-HAN.ANS:
+    mimetype: text/plain
+  OUT-WINT.ANS:
+    mimetype: text/plain
+  OUT.AD:
+    mimetype: application/octet-stream
+  OUTWORLD.TXT:
+    mimetype: text/plain

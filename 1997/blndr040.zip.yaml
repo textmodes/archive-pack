@@ -1,0 +1,44 @@
+name: blndr040.zip
+hash: bb18ddf11925a240b5d9e4f0265e6ba1
+year: 1997
+file:
+  '--------.---':
+    mimetype: text/plain
+  ASNES.JPG:
+    mimetype: image/jpeg
+  BLENDER.040:
+    mimetype: text/plain
+  BLENDER.HOF:
+    mimetype: text/plain
+  BLENDER.NFO:
+    mimetype: text/plain
+  BLENDER.SUP:
+    mimetype: text/plain
+  BVIEW.DAT:
+    mimetype: application/octet-stream
+  BVIEW.EXE:
+    mimetype: application/x-msdos-program
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FIREFAT.JPG:
+    mimetype: image/jpeg
+  HBGUARD1.ANS:
+    mimetype: text/plain
+  KY-BD40.RIP:
+    mimetype: image/x-rip
+  LAZARUS.ANS:
+    mimetype: text/plain
+  MIDGET.GIF:
+    mimetype: image/gif
+  MSTBLEND.EXE:
+    mimetype: application/x-msdos-program
+  PK-BLND.ANS:
+    mimetype: text/plain
+  SOC-B40A.ANS:
+    mimetype: text/plain
+  SOCB40.ZIP:
+    mimetype: application/zip
+  TEXTGAME.ZIP:
+    mimetype: application/zip
+  WO-BLEND.ANS:
+    mimetype: text/plain

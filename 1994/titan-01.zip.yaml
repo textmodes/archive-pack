@@ -1,0 +1,42 @@
+name: titan-01.zip
+hash: 43beaa81cc8ef14ff19dcd9ff7e3aae6
+year: 1994
+file:
+  !!binary +S1BTlNJLfkurq6u:
+    mimetype: text/plain
+  !!binary +S1NSVNDLfkurq6u:
+    mimetype: text/plain
+  !!binary +S1WR0Et+fourq6u:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  KX-GALLY.TIT:
+    mimetype: text/plain
+  KX-PSYC.TIT:
+    mimetype: text/plain
+  KX-TITAN.GIF:
+    mimetype: image/gif
+  NEOTOKYO.ANS:
+    mimetype: text/plain
+  PZ-TIT1.LBM:
+    mimetype: application/octet-stream
+  SC-COD.TIT:
+    mimetype: text/plain
+  SC-CW.TIT:
+    mimetype: text/plain
+  SC-DIG.TIT:
+    mimetype: text/plain
+  SC-PAR.TIT:
+    mimetype: text/plain
+  SC-PSY1.TIT:
+    mimetype: text/plain
+  SC-PSY2.TIT:
+    mimetype: text/plain
+  SC-STAT.TIT:
+    mimetype: text/plain
+  TITAN.NFO:
+    mimetype: text/plain
+  TITVIEW.EXE:
+    mimetype: application/x-msdos-program
+  TITVIEW.TXT:
+    mimetype: text/plain

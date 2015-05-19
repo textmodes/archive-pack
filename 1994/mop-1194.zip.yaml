@@ -1,0 +1,36 @@
+name: mop-1194.zip
+hash: 739957dfda09321badcb6c6dab073165
+year: 1994
+file:
+  BR-MOP.MOD:
+    mimetype: audio/x-mod
+  BR-SWIRL.COM:
+    mimetype: application/x-msdos-program
+  BR-TLP.ANS:
+    mimetype: text/plain
+  CH-BALL.ANS:
+    mimetype: text/plain
+  CH-BAT.ANS:
+    mimetype: text/plain
+  CH-FACE.ANS:
+    mimetype: text/plain
+  CH-VAMP.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  KT-DARK.ANS:
+    mimetype: text/plain
+  KT-GEN1.RIP:
+    mimetype: image/x-rip
+  KT-GEN2.RIP:
+    mimetype: image/x-rip
+  KT-WLFLR.ANS:
+    mimetype: text/plain
+  MP-1094.NFO:
+    mimetype: text/plain
+  TR-BIG.COM:
+    mimetype: application/x-msdos-program
+  TR-INUTR.COM:
+    mimetype: application/x-msdos-program
+  TR-PROPH.COM:
+    mimetype: application/x-msdos-program

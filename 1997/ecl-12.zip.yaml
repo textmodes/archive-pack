@@ -1,0 +1,84 @@
+name: ecl-12.zip
+hash: 06744db61304253d75ea270edf72d683
+year: 1997
+file:
+  12-INFO.NFO:
+    mimetype: text/plain
+  12-MEM.NFO:
+    mimetype: text/plain
+  12-PHOTO.NFO:
+    mimetype: text/plain
+  12-TALES.NFO:
+    mimetype: text/plain
+  AC7-97.ASC:
+    mimetype: text/plain
+  AD-PLA.ANS:
+    mimetype: text/plain
+  AD-SKW2.ECL:
+    mimetype: text/plain
+  AD-SOUP.ECL:
+    mimetype: text/plain
+  AD-SP.ECL:
+    mimetype: text/plain
+  AD-SPO.ECL:
+    mimetype: text/plain
+  BMB_ID.DIZ:
+    mimetype: text/plain
+  CAMEFROM.ASC:
+    mimetype: text/plain
+  CH-BIOH.ECL:
+    mimetype: text/plain
+  CH-BLKSU.ECL:
+    mimetype: text/plain
+  CH-CEREA.ECL:
+    mimetype: text/plain
+  CH-DWMNU.ECL:
+    mimetype: text/plain
+  CH-ECL1.ECL:
+    mimetype: text/plain
+  CH-IMP.ECL:
+    mimetype: text/plain
+  CH-OREO.ECL:
+    mimetype: text/plain
+  CH-PH.ECL:
+    mimetype: text/plain
+  CH-PRE.ECL:
+    mimetype: text/plain
+  CZ-ABS1.ECL:
+    mimetype: text/plain
+  CZ-B.DAY:
+    mimetype: text/plain
+  DC-0397.LGO:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  H4-FOND.ASC:
+    mimetype: text/plain
+  LM-ZOD.ECL:
+    mimetype: text/plain
+  PAR-TRI.ASC:
+    mimetype: text/plain
+  PG-PROPZ.ASC:
+    mimetype: text/plain
+  PK-0397.LGO:
+    mimetype: text/plain
+  RN-AMN1.ECL:
+    mimetype: text/plain
+  RN-LGO1.LGO:
+    mimetype: text/plain
+  TX-ART.ECL:
+    mimetype: text/plain
+  TX-AUTO.ECL:
+    mimetype: text/plain
+  TX-BIO.ECL:
+    mimetype: text/plain
+  TX-EX3.ECL:
+    mimetype: text/plain
+  TX-ZERO.ECL:
+    mimetype: text/plain
+  US-EXILE.JNT:
+    mimetype: text/plain
+  US-INC.JNT:
+    mimetype: text/plain
+  WM-LOCK.ECL:
+    mimetype: text/plain

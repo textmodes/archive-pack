@@ -1,0 +1,82 @@
+name: riot-019.zip
+hash: da9398764c3dca00e1608acf092d1496
+year: 1998
+file:
+  (ansi):
+    mimetype: application/octet-stream
+  (ascii):
+    mimetype: application/octet-stream
+  (other):
+    mimetype: application/octet-stream
+  (rip):
+    mimetype: application/octet-stream
+  (vga):
+    mimetype: application/octet-stream
+  2M-BRT.ANS:
+    mimetype: text/plain
+  2M-SENSE.ANS:
+    mimetype: text/plain
+  DE-RT2.JPG:
+    mimetype: image/jpeg
+  DE-WARLO.JPG:
+    mimetype: image/jpeg
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  KM-NEOEM.JPG:
+    mimetype: image/jpeg
+  KM-NGCPS.JPG:
+    mimetype: image/jpeg
+  KM-STRNG.JPG:
+    mimetype: image/jpeg
+  PM-ASYLU.ANS:
+    mimetype: text/plain
+  PM-BBLL.ANS:
+    mimetype: text/plain
+  PM-DORE.ANS:
+    mimetype: text/plain
+  PM-DR.ANS:
+    mimetype: text/plain
+  PM-DRHDR.ANS:
+    mimetype: text/plain
+  PM-FIL00.ANS:
+    mimetype: text/plain
+  PM-MEDG.ANS:
+    mimetype: text/plain
+  PM-MGUY.ANS:
+    mimetype: text/plain
+  PM-PIGGY.ANS:
+    mimetype: text/plain
+  PM-VOD.ANS:
+    mimetype: text/plain
+  PM-WRLK.ANS:
+    mimetype: text/plain
+  PM-WRLK.ASC:
+    mimetype: text/plain
+  PM-WWH.ANS:
+    mimetype: text/plain
+  RG-ANGER.ANS:
+    mimetype: text/plain
+  RG-RIOT4.ANS:
+    mimetype: text/plain
+  RG-RIOT5.ANS:
+    mimetype: text/plain
+  RG-RIOT6.ANS:
+    mimetype: text/plain
+  RG-RIOT7.ANS:
+    mimetype: text/plain
+  RH-STA01.JPG:
+    mimetype: image/jpeg
+  RIOT-019.NFO:
+    mimetype: text/plain
+  RIOTAPP.EXE:
+    mimetype: application/x-msdos-program
+  Rh-life.jpg:
+    mimetype: image/jpeg
+  oi-riot.gif:
+    mimetype: image/gif
+  riotreq.exe:
+    mimetype: application/x-msdos-program
+  riotview.txt:
+    mimetype: text/plain
+  tr-riot.asc:
+    mimetype: text/plain

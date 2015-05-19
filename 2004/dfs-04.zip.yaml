@@ -1,0 +1,10 @@
+name: dfs-04.zip
+hash: 6d13fae1881a44056099df7ee5390b50
+year: 2004
+file:
+  dfs.nfo:
+    mimetype: text/plain
+  pack4.dfs:
+    mimetype: text/plain
+  pack4ins.exe:
+    mimetype: application/x-msdos-program

@@ -1,0 +1,70 @@
+name: pst-03.zip
+hash: 9f62b7d939e1c7d56da0c2b70bb68f63
+year: 1998
+file:
+  -(ANSI)-:
+    mimetype: text/plain
+  -(ASCI)-:
+    mimetype: text/plain
+  -(INFO)-:
+    mimetype: text/plain
+  -(MISC)-:
+    mimetype: text/plain
+  -(RIP)-:
+    mimetype: text/plain
+  -(VGA)-:
+    mimetype: text/plain
+  CYC-ISUC.ANS:
+    mimetype: text/plain
+  DS-POQ.ANS:
+    mimetype: text/plain
+  ESD-CBM.ASC:
+    mimetype: text/plain
+  ESD-NPLE.ASC:
+    mimetype: text/plain
+  ESD-PT98.ASC:
+    mimetype: text/plain
+  ESD-TE.ASC:
+    mimetype: text/plain
+  FAT-POLY.RIP:
+    mimetype: image/x-rip
+  FAT-PR.RIP:
+    mimetype: image/x-rip
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  H7-IMM.ASC:
+    mimetype: text/plain
+  H7-POLY.ASC:
+    mimetype: text/plain
+  MEMBERS.PST:
+    mimetype: text/plain
+  NEWS.PST:
+    mimetype: text/plain
+  P-STYLE.TXT:
+    mimetype: text/plain
+  PST-APP.EXE:
+    mimetype: application/x-msdos-program
+  PST-APP.NFO:
+    mimetype: text/plain
+  REVOLUTE.PSY:
+    mimetype: text/plain
+  RP-ORION.ASC:
+    mimetype: text/plain
+  RP-RISIN.ANS:
+    mimetype: text/plain
+  RP-SCENT.ANS:
+    mimetype: text/plain
+  RP-TFP.ANS:
+    mimetype: text/plain
+  RZ-POLY.ANS:
+    mimetype: text/plain
+  TAX-ALER.JPG:
+    mimetype: image/jpeg
+  TAX-HTEC.JPG:
+    mimetype: image/jpeg
+  TOW-LOST.JPG:
+    mimetype: image/jpeg
+  TRVJ-SGE.ANS:
+    mimetype: text/plain
+  ZZ-POLY.ASC:
+    mimetype: text/plain

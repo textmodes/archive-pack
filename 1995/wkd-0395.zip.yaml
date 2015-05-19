@@ -1,0 +1,130 @@
+name: wkd-0395.zip
+hash: d3256c9f6086aace1a1f399a1fde07a5
+year: 1995
+file:
+  BIT-BBS.WKD:
+    mimetype: application/octet-stream
+  BIT-MAIL.WKD:
+    mimetype: text/plain
+  BIT-READ.WKD:
+    mimetype: application/octet-stream
+  BIT-WHO.WKD:
+    mimetype: text/plain
+  BIT-WKD2.WKD:
+    mimetype: text/plain
+  BV-SILO.EXE:
+    mimetype: application/x-msdos-program
+  CK-TSD.WKD:
+    mimetype: text/plain
+  CROW.DAT:
+    mimetype: application/octet-stream
+  CS-ARC8.WKD:
+    mimetype: text/plain
+  CS-INS2.WKD:
+    mimetype: text/plain
+  DW-WKD.EXE:
+    mimetype: application/x-msdos-program
+  DWZ-FTE.WKD:
+    mimetype: text/plain
+  DWZ-ISG.WKD:
+    mimetype: text/plain
+  DWZ-MM.WKD:
+    mimetype: text/plain
+  DWZ-PNT.WKD:
+    mimetype: text/plain
+  DWZ-RUM.WKD:
+    mimetype: text/plain
+  DWZ-STH.WKD:
+    mimetype: text/plain
+  FB-CT.WKD:
+    mimetype: application/octet-stream
+  FB-MM.WKD:
+    mimetype: text/plain
+  FB-TYR.WKD:
+    mimetype: application/octet-stream
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FL-AW.EXE:
+    mimetype: application/x-msdos-program
+  FL-DV2.EXE:
+    mimetype: application/x-msdos-program
+  FL-SD.EXE:
+    mimetype: application/x-msdos-program
+  FL-STH.EXE:
+    mimetype: application/x-msdos-program
+  FL-WKD.EXE:
+    mimetype: application/x-msdos-program
+  FS-DGATE.WKD:
+    mimetype: text/plain
+  FS-DH1.WKD:
+    mimetype: text/plain
+  FS-MATRI.WKD:
+    mimetype: text/plain
+  FS-OVERK.WKD:
+    mimetype: text/plain
+  FS-PENT.WKD:
+    mimetype: text/plain
+  FS-WKD.WKD:
+    mimetype: text/plain
+  LF-BYE.WKD:
+    mimetype: application/octet-stream
+  LF-SEX2.WKD:
+    mimetype: text/plain
+  LHS-ARAC.WKD:
+    mimetype: text/plain
+  LHS-BUSH.WKD:
+    mimetype: text/plain
+  LHS-CROW.WKD:
+    mimetype: text/plain
+  LHS-PC.WKD:
+    mimetype: text/plain
+  LHS-ROSE.WKD:
+    mimetype: text/plain
+  LHS-STAT.WKD:
+    mimetype: text/plain
+  PBN.DAT:
+    mimetype: application/octet-stream
+  RM-DV.WKD:
+    mimetype: text/plain
+  RM-DVSLT.WKD:
+    mimetype: text/plain
+  SHADOW.DAT:
+    mimetype: application/octet-stream
+  SILO.DAT:
+    mimetype: application/octet-stream
+  SS-HARM.WKD:
+    mimetype: text/plain
+  STH_INT.EXE:
+    mimetype: application/x-msdos-program
+  TOKYO.DAT:
+    mimetype: application/octet-stream
+  TOKYO.EXE:
+    mimetype: application/x-msdos-program
+  TT!-DV2.WKD:
+    mimetype: text/plain
+  TT!-OD2.WKD:
+    mimetype: text/plain
+  TT!-OVL.WKD:
+    mimetype: application/octet-stream
+  TT!-PAGE.WKD:
+    mimetype: application/octet-stream
+  TT!-SILO.WKD:
+    mimetype: text/plain
+  TT!-TND8.WKD:
+    mimetype: text/plain
+  TT!-TSD.WKD:
+    mimetype: text/plain
+  TU.DAT:
+    mimetype: application/octet-stream
+  VOICES.TXT:
+    mimetype: text/plain
+  WKD-0395.NFO:
+    mimetype: text/plain
+  WKDAPP.WKD:
+    mimetype: text/plain
+  WVIEW.DAT:
+    mimetype: text/plain
+  WVIEW.EXE:
+    mimetype: application/x-msdos-program
+  WVIEW.GFX:
+    mimetype: application/octet-stream

@@ -1,0 +1,18 @@
+name: flare01.zip
+hash: 1be4ff77c03197835d5aa3d3a08ad6ad
+year: 1998
+file:
+  FLARE.NFO:
+    mimetype: text/plain
+  KLU-GOO.ANS:
+    mimetype: text/plain
+  KLU-WON.ANS:
+    mimetype: text/plain
+  NEWS.ANS:
+    mimetype: text/plain
+  klu-FLR1.ANS:
+    mimetype: text/plain
+  klu-sce.ANS:
+    mimetype: text/plain
+  tx-flare.ans:
+    mimetype: text/plain

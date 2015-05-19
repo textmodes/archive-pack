@@ -1,0 +1,12 @@
+name: boomgus.zip
+hash: 93dd765c842f5bd95d9a785d18387e06
+year: 1994
+file:
+  BOOGUS.NFO:
+    mimetype: text/plain
+  BOOMGUS.EXE:
+    mimetype: application/x-msdos-program
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FUN!.COM:
+    mimetype: application/x-msdos-program

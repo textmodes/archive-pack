@@ -1,0 +1,32 @@
+name: out-1098.zip
+hash: a0c183f8e0a346e75a783a6db9d405ac
+year: 1998
+file:
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FILELIST.TXT:
+    mimetype: text/plain
+  OUT-AD.ANS:
+    mimetype: text/plain
+  OUT-AD.RIP:
+    mimetype: image/x-rip
+  OUT-BAT.ANS:
+    mimetype: text/plain
+  OUT-BCAT.ANS:
+    mimetype: text/plain
+  OUT-GHST.ANS:
+    mimetype: text/plain
+  OUT-JACK.ANS:
+    mimetype: text/plain
+  OUT-KIDS.ANS:
+    mimetype: text/plain
+  OUT-SKEL.ANS:
+    mimetype: text/plain
+  OUT-WIT1.ANS:
+    mimetype: text/plain
+  OUT-WIT2.ANS:
+    mimetype: text/plain
+  OUT.AD:
+    mimetype: text/plain
+  OUTWORLD.TXT:
+    mimetype: text/plain

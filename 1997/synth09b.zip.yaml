@@ -1,0 +1,32 @@
+name: synth09b.zip
+hash: cd96daf4bac3a98e9e55d448f2edc15d
+year: 1997
+file:
+  0597NEWS.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  MSYS.EXE:
+    mimetype: application/x-msdos-program
+  MSYSTEM.NFO:
+    mimetype: text/plain
+  MUR.SYS:
+    mimetype: text/plain
+  SCAPP.DOC:
+    mimetype: text/plain
+  SCAPP.EXE:
+    mimetype: application/x-msdos-program
+  SYD-BARJ.JPG:
+    mimetype: image/jpeg
+  SYD-SPRL.JPG:
+    mimetype: image/jpeg
+  TR-AVBK.ANS:
+    mimetype: text/plain
+  TR-PCI!.ANS:
+    mimetype: text/plain
+  TR-SCWEB.JPG:
+    mimetype: image/jpeg
+  TR-TEMP.ANS:
+    mimetype: text/plain
+  TR-VOTE.ANS:
+    mimetype: text/plain

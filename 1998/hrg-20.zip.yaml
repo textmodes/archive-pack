@@ -1,0 +1,88 @@
+name: hrg-20.zip
+hash: 523337b5cc7ea8e53773f38b73c3a767
+year: 1998
+file:
+  '---20---.NFO':
+    mimetype: text/plain
+  -20-VGA-.NFO:
+    mimetype: text/plain
+  2001US.GIF:
+    mimetype: image/gif
+  2002SH.JPG:
+    mimetype: image/jpeg
+  2003I_L.GIF:
+    mimetype: image/gif
+  2004I_L.JPG:
+    mimetype: image/jpeg
+  2005I_L.GIF:
+    mimetype: image/gif
+  2006I_L.GIF:
+    mimetype: image/gif
+  2007I_L.GIF:
+    mimetype: image/gif
+  2008YOYO.JPG:
+    mimetype: image/jpeg
+  2009YOYO.JPG:
+    mimetype: image/jpeg
+  2010YOYO.JPG:
+    mimetype: image/jpeg
+  2011US.JPG:
+    mimetype: image/jpeg
+  2012HZ.JPG:
+    mimetype: image/jpeg
+  2013SPRO.JPG:
+    mimetype: image/jpeg
+  2014ATOM.JPG:
+    mimetype: image/jpeg
+  2015DH.JPG:
+    mimetype: image/jpeg
+  2016GD.GIF:
+    mimetype: image/gif
+  2017SPRO.JPG:
+    mimetype: image/jpeg
+  2018SPRO.JPG:
+    mimetype: image/jpeg
+  2019SPRO.JPG:
+    mimetype: image/jpeg
+  2020SPRO.GIF:
+    mimetype: image/gif
+  2021STR.JPG:
+    mimetype: image/jpeg
+  2022STR.JPG:
+    mimetype: image/jpeg
+  2023STR.JPG:
+    mimetype: image/jpeg
+  2024US.JPG:
+    mimetype: image/jpeg
+  2025SPRO.GIF:
+    mimetype: image/gif
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  HRG-NFO.EXE:
+    mimetype: application/x-msdos-program
+  I_L^DRS.ASC:
+    mimetype: text/plain
+  I_L^OCT.ASC:
+    mimetype: text/plain
+  I_L^PHSH.ASC:
+    mimetype: text/plain
+  I_L^SCH.ASC:
+    mimetype: text/plain
+  I_L^TAT.ASC:
+    mimetype: text/plain
+  OM!DEB.ASC:
+    mimetype: text/plain
+  OM!DF.ASC:
+    mimetype: text/plain
+  OM!JIM.ASC:
+    mimetype: text/plain
+  OM!NQ.ASC:
+    mimetype: text/plain
+  OM!UOM.ASC:
+    mimetype: text/plain
+  PHL-FAIR.ASC:
+    mimetype: text/plain
+  PHL-HARM.ASC:
+    mimetype: text/plain
+  PHL-TGMN.ANS:
+    mimetype: text/plain

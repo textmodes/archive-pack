@@ -1,0 +1,74 @@
+name: sadist02.zip
+hash: f97afd0f9c0ec8afe4597ba815ecc8c9
+year: 1999
+file:
+  -ANSI-:
+    mimetype: text/plain
+  -ASCII-:
+    mimetype: text/plain
+  -INFO-:
+    mimetype: text/plain
+  -RIP-:
+    mimetype: text/plain
+  AX_CODE1.ANS:
+    mimetype: text/plain
+  AX_G00P.ANS:
+    mimetype: text/plain
+  AX_PR2.ANS:
+    mimetype: text/plain
+  BEE-MAD.ANS:
+    mimetype: text/plain
+  BNE-SAD.RIP:
+    mimetype: image/x-rip
+  BZR-SADI.ANS:
+    mimetype: text/plain
+  CL!-SAD.ANS:
+    mimetype: text/plain
+  DME-SAD!.ANS:
+    mimetype: text/plain
+  DZ-99.ANS:
+    mimetype: text/plain
+  DZ-181.ANS:
+    mimetype: text/plain
+  DZ-CODE.ANS:
+    mimetype: text/plain
+  DZ-MANG.ANS:
+    mimetype: text/plain
+  DZ-USA.ANS:
+    mimetype: text/plain
+  E0-CARNA.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GS-SALT1.ANS:
+    mimetype: text/plain
+  IDL-!.ANS:
+    mimetype: text/plain
+  K!LINK.ASC:
+    mimetype: text/plain
+  K!RTHOME.ANS:
+    mimetype: text/plain
+  K!VILLAG.RIP:
+    mimetype: image/x-rip
+  LM-SDST.ANS:
+    mimetype: text/plain
+  MNC-DRG.ANS:
+    mimetype: text/plain
+  RP-SADIS.ASC:
+    mimetype: text/plain
+  SADIST.NFO:
+    mimetype: text/plain
+  SADMEM.ANS:
+    mimetype: text/plain
+  SPH_TRR.ANS:
+    mimetype: text/plain
+  SPH_TWI.ANS:
+    mimetype: text/plain
+  SPH_UNR.ANS:
+    mimetype: text/plain
+  US-BURN.BIN:
+    mimetype: application/octet-stream
+  US-PURG.ANS:
+    mimetype: text/plain
+  UU7-SAD.ANS:
+    mimetype: text/plain

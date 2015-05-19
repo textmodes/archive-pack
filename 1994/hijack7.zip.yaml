@@ -1,0 +1,30 @@
+name: hijack7.zip
+hash: 947c5a59a3139c8a038da362ded26c2f
+year: 1994
+file:
+  FASTER.BBS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  HIJACK.APP:
+    mimetype: text/plain
+  HIJACK.NFO:
+    mimetype: text/plain
+  HIJACK1.MOD:
+    mimetype: audio/x-mod
+  HIJACK2.MOD:
+    mimetype: audio/x-mod
+  KEYS.TXT:
+    mimetype: text/plain
+  MAGAZINE.DAT:
+    mimetype: text/plain
+  MAGAZINE.EXE:
+    mimetype: application/x-msdos-program
+  README.1ST:
+    mimetype: text/plain
+  S!POINT.EXE:
+    mimetype: application/x-msdos-program
+  SEARCH.TXT:
+    mimetype: text/plain
+  VESA.ZIP:
+    mimetype: application/zip

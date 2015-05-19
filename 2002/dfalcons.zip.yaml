@@ -1,0 +1,12 @@
+name: dfalcons.zip
+hash: 839426e3c456ce4f58e634c525c142f9
+year: 2002
+file:
+  Dfalcons.ace:
+    mimetype: text/plain
+  Install.exe:
+    mimetype: application/x-msdos-program
+  NfoViewer.exe:
+    mimetype: application/x-msdos-program
+  dfs.nfo:
+    mimetype: text/plain

@@ -1,0 +1,54 @@
+name: world3.zip
+hash: 5c25e4c827782e0766561011da7c828b
+year: 1997
+file:
+  WoRLD/PM-HEY2.ANS:
+    mimetype: text/plain
+  WoRLD/TN-HEY.ANS:
+    mimetype: text/plain
+  WoRLD/ansis/PM-ALIEN.ANS:
+    mimetype: text/plain
+  WoRLD/ansis/PM-COO1.ANS:
+    mimetype: text/plain
+  WoRLD/ansis/TN-WRLD.ANS:
+    mimetype: text/plain
+  WoRLD/ansis/TN-WRLD2.ANS:
+    mimetype: text/plain
+  WoRLD/ansis/pender_files.ans:
+    mimetype: text/plain
+  WoRLD/ansis/pender_games1.ans:
+    mimetype: text/plain
+  WoRLD/ansis/pender_games2.ans:
+    mimetype: text/plain
+  WoRLD/ansis/pender_logoff.ans:
+    mimetype: text/plain
+  WoRLD/ansis/pender_main.ans:
+    mimetype: text/plain
+  WoRLD/ansis/pender_msg.ans:
+    mimetype: text/plain
+  WoRLD/ansis/pender_online1.ans:
+    mimetype: text/plain
+  WoRLD/ansis/pender_online2.ans:
+    mimetype: text/plain
+  WoRLD/ansis/pender_online3.ans:
+    mimetype: text/plain
+  WoRLD/graphics/TML.ZIP:
+    mimetype: application/zip
+  WoRLD/lord2/L2_AT.ZIP:
+    mimetype: application/zip
+  WoRLD/pak-3.ans:
+    mimetype: text/plain
+  WoRLD/war2/FINAL.ZIP:
+    mimetype: application/zip
+  WoRLD/war2/GUINES.ZIP:
+    mimetype: application/zip
+  WoRLD/war2/RENIGADE.ZIP:
+    mimetype: application/zip
+  WoRLD/war2/TN-WATER.ZIP:
+    mimetype: application/zip
+  file_id.diz:
+    mimetype: text/plain
+  world/ansis/Pm-eleph.ans:
+    mimetype: text/plain
+  world/ansis/Pm-log1.ans:
+    mimetype: text/plain

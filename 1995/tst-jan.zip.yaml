@@ -1,0 +1,52 @@
+name: tst-jan.zip
+hash: ecc4db8f145a141cd605ce7723fe3812
+year: 1995
+file:
+  '{!LIFE!}.DOC':
+    mimetype: text/plain
+  ANSIM.EXE:
+    mimetype: application/x-msdos-program
+  BL-CONT.ANS:
+    mimetype: text/plain
+  BL-MDY.ANS:
+    mimetype: text/plain
+  BL-SFX_M.ANS:
+    mimetype: text/plain
+  BUSTED.EXE:
+    mimetype: application/x-msdos-program
+  DFRCE1.ANS:
+    mimetype: text/plain
+  DFRCE2.ANS:
+    mimetype: text/plain
+  DFRCE3.ANS:
+    mimetype: text/plain
+  DFRCE4.ANS:
+    mimetype: text/plain
+  EU-MENU.ANS:
+    mimetype: text/plain
+  EU-YOUTH.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  HOP1-ASC.ANS:
+    mimetype: text/plain
+  HOP2-ASC.ANS:
+    mimetype: text/plain
+  HS-CYBER.ANS:
+    mimetype: text/plain
+  IFS66MVD.NFO:
+    mimetype: text/plain
+  NEO.COM:
+    mimetype: application/x-msdos-program
+  TST-0195.ANS:
+    mimetype: text/plain
+  TST-APP.EXE:
+    mimetype: application/x-msdos-program
+  TST.NFO:
+    mimetype: text/plain
+  TST_BEST.EXE:
+    mimetype: application/x-msdos-program
+  TST_COOL.EXE:
+    mimetype: application/x-msdos-program
+  TST_RULZ.ZIP:
+    mimetype: application/zip

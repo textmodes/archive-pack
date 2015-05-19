@@ -1,0 +1,88 @@
+name: pur-0694.zip
+hash: 21f4994eb9cd74c15eb394ae9616614c
+year: 1994
+file:
+  !!binary xMTExMTExMQuxMTE:
+    mimetype: application/octet-stream
+  !!binary 8PDw8PDw8PAu8PDw:
+    mimetype: application/octet-stream
+  !!binary zc3Nzc3Nzc0uzc3N:
+    mimetype: application/octet-stream
+  AH-CULT1.PUR:
+    mimetype: text/plain
+  AH-DIMX2.PUR:
+    mimetype: text/plain
+  AH-LV1.PUR:
+    mimetype: text/plain
+  AH-SOE1.PUR:
+    mimetype: text/plain
+  AR-CRYPT.PUR:
+    mimetype: text/plain
+  AR-HMOON.PUR:
+    mimetype: text/plain
+  AR-LVENG.PUR:
+    mimetype: text/plain
+  AR-MOON2.PUR:
+    mimetype: text/plain
+  AR-PURS1.PUR:
+    mimetype: text/plain
+  AR-STAT1.PUR:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GE-DISR.PUR:
+    mimetype: text/plain
+  GN-CRIT.PUR:
+    mimetype: text/plain
+  GN-DAMAJ.PUR:
+    mimetype: text/plain
+  GN-DISR.PUR:
+    mimetype: text/plain
+  GN-LH.PUR:
+    mimetype: text/plain
+  GN-REVLT.PUR:
+    mimetype: text/plain
+  GN-STEEL.PUR:
+    mimetype: text/plain
+  HOP.DIS:
+    mimetype: text/plain
+  NEOTOKYO.ANS:
+    mimetype: text/plain
+  PS-CONF.PUR:
+    mimetype: text/plain
+  PS-DAMAJ.PUR:
+    mimetype: text/plain
+  PS-DAMJ2.PUR:
+    mimetype: text/plain
+  PS-FONT.PUR:
+    mimetype: text/plain
+  PS-KSTAT.PUR:
+    mimetype: text/plain
+  PS-LOGO.PUR:
+    mimetype: text/plain
+  PS-PURAF.PUR:
+    mimetype: text/plain
+  PS-REV.PUR:
+    mimetype: text/plain
+  PS-SCAM.PUR:
+    mimetype: text/plain
+  PS-TDC.PUR:
+    mimetype: text/plain
+  PS-TLCA.PUR:
+    mimetype: text/plain
+  PS-TLH.PUR:
+    mimetype: text/plain
+  PSY-LOGO.GIF:
+    mimetype: image/gif
+  PUR-APP.EXE:
+    mimetype: application/x-msdos-program
+  PURSUIT.LST:
+    mimetype: text/plain
+  PURSUIT.NFO:
+    mimetype: text/plain
+  PURSUIT.NWS:
+    mimetype: text/plain
+  US-CRIB.PUR:
+    mimetype: text/plain
+  WELCOME.1:
+    mimetype: text/plain

@@ -1,0 +1,24 @@
+name: synlast1.zip
+hash: af13cc55858946a131dabe57a31ac9ba
+year: 1999
+file:
+  DJ-RED.JPG:
+    mimetype: image/jpeg
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  JPG2GIF.EXE:
+    mimetype: application/x-msdos-program
+  PK20NEWS.ANS:
+    mimetype: text/plain
+  SCVIEW.DOC:
+    mimetype: text/plain
+  SCVIEW.EXE:
+    mimetype: application/x-msdos-program
+  STI-SC99.ANS:
+    mimetype: text/plain
+  WRP-SORG.JPG:
+    mimetype: image/jpeg
+  WRP-STRM.JPG:
+    mimetype: image/jpeg
+  WRP-VOID.JPG:
+    mimetype: image/jpeg

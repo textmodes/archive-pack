@@ -1,0 +1,94 @@
+name: acdu0993.zip
+hash: 908fc325441bed6f66500fc6194d93b2
+year: 1993
+file:
+  ACDU0993.NFO:
+    mimetype: text/plain
+  ACID0893.ANS:
+    mimetype: text/plain
+  ACIDAPP.EXE:
+    mimetype: application/x-msdos-program
+  AE-NTMD1.ANS:
+    mimetype: text/plain
+  CA-CORE.ANS:
+    mimetype: text/plain
+  CE-UNDR2.ANS:
+    mimetype: text/plain
+  DH-FJ1.ANS:
+    mimetype: text/plain
+  EX-RIP.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FR-STAT.ANS:
+    mimetype: text/plain
+  HO-MAN.ANS:
+    mimetype: text/plain
+  IC-COE.ANS:
+    mimetype: text/plain
+  IC-X.ANS:
+    mimetype: text/plain
+  IL-HOI.ANS:
+    mimetype: text/plain
+  IL-LIQ2.ANS:
+    mimetype: text/plain
+  IL-SUB.ANS:
+    mimetype: text/plain
+  IZ-ACID3.ANS:
+    mimetype: text/plain
+  IZ-MSTAT.ANS:
+    mimetype: text/plain
+  IZ-PWA.ANS:
+    mimetype: text/plain
+  KS-ACID1.ANS:
+    mimetype: text/plain
+  KS-ARISE.ANS:
+    mimetype: text/plain
+  KS-BLITZ.ANS:
+    mimetype: text/plain
+  KS-EXOD1.ANS:
+    mimetype: text/plain
+  KS-RGRK1.ANS:
+    mimetype: text/plain
+  KS-RPM1.ANS:
+    mimetype: text/plain
+  KS-TU01.ANS:
+    mimetype: text/plain
+  MX-CITAD.EXE:
+    mimetype: application/x-msdos-program
+  RD-ALPHA.EXE:
+    mimetype: application/x-msdos-program
+  RN-ACID1.ANS:
+    mimetype: text/plain
+  RN-ACID1.RIP:
+    mimetype: image/x-rip
+  RN-ACID2.RIP:
+    mimetype: image/x-rip
+  RN-ACID3.RIP:
+    mimetype: image/x-rip
+  RN-BC.RIP:
+    mimetype: image/x-rip
+  RN-DSOC1.RIP:
+    mimetype: image/x-rip
+  RN-DSUN1.RIP:
+    mimetype: image/x-rip
+  RN-NTG.RIP:
+    mimetype: image/x-rip
+  RS-ELUS.EXE:
+    mimetype: application/x-msdos-program
+  ST-ACID.ANS:
+    mimetype: text/plain
+  SW-CYC.EXE:
+    mimetype: application/x-msdos-program
+  SX-DSOC1.ANS:
+    mimetype: text/plain
+  SX-SK8.ANS:
+    mimetype: text/plain
+  TK-AV353.ZIP:
+    mimetype: application/zip
+  VN-PWA.EXE:
+    mimetype: application/x-msdos-program
+  VS-ACID1.RIP:
+    mimetype: image/x-rip
+  VS-RL1.ANS:
+    mimetype: text/plain

@@ -1,0 +1,96 @@
+name: srg-0195.zip
+hash: 3be8ab61033a891a65a2fd8f4cc28f9a
+year: 1995
+file:
+  !!binary Q0FMTPlBUE8uTk9X:
+    mimetype: text/plain
+  CD-GN.SRG:
+    mimetype: text/plain
+  CD-HF1.SRG:
+    mimetype: text/plain
+  CD-HF2.SRG:
+    mimetype: text/plain
+  CD-HF3.SRG:
+    mimetype: text/plain
+  CD-HF4.SRG:
+    mimetype: text/plain
+  CD-HF5.SRG:
+    mimetype: text/plain
+  CD-LHOR.SRG:
+    mimetype: text/plain
+  CD-NAM.SRG:
+    mimetype: text/plain
+  CD-SRG.SRG:
+    mimetype: text/plain
+  CD-SRG2.SRG:
+    mimetype: text/plain
+  CD-SRG3.SRG:
+    mimetype: text/plain
+  CONFIG.DAT:
+    mimetype: application/octet-stream
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  NC-PS.SRG:
+    mimetype: text/plain
+  NC-PS2.SRG:
+    mimetype: text/plain
+  NF-BEOND.SRG:
+    mimetype: text/plain
+  NF-DESES.SRG:
+    mimetype: text/plain
+  NF-DREAM.SRG:
+    mimetype: text/plain
+  NF-LOST.SRG:
+    mimetype: text/plain
+  NF-TEAR.SRG:
+    mimetype: text/plain
+  NF-VISI.SRG:
+    mimetype: text/plain
+  SAG.DAT:
+    mimetype: text/plain
+  SAG.EXE:
+    mimetype: application/x-msdos-program
+  SRG-0195.MEM:
+    mimetype: text/plain
+  SRG-0195.SIT:
+    mimetype: text/plain
+  SURGE.COM:
+    mimetype: application/x-msdos-program
+  SV.EXE:
+    mimetype: application/x-msdos-program
+  ZL-CSWEL.RIP:
+    mimetype: image/x-rip
+  ZL-DEATH.GIF:
+    mimetype: image/gif
+  ZL-DUCK.RIP:
+    mimetype: image/x-rip
+  ZL-HIGH.RIP:
+    mimetype: image/x-rip
+  ZL-IOTI1.SRG:
+    mimetype: text/plain
+  ZL-MATRX.SRG:
+    mimetype: text/plain
+  ZL-MEAD.SRG:
+    mimetype: text/plain
+  ZL-MTOLY.SRG:
+    mimetype: text/plain
+  ZL-NAM.SRG:
+    mimetype: text/plain
+  ZL-SRGLG.GIF:
+    mimetype: image/gif
+  ZL-SURGE.SRG:
+    mimetype: text/plain
+  ZL-SWORD.SRG:
+    mimetype: text/plain
+  ZL-WOLF.RIP:
+    mimetype: image/x-rip
+  ZS-CRIM.SRG:
+    mimetype: text/plain
+  ZS-DBY.SRG:
+    mimetype: text/plain
+  ZS-FB.SRG:
+    mimetype: text/plain
+  ZS-MH.SRG:
+    mimetype: text/plain
+  ZS-UTOPI.SRG:
+    mimetype: text/plain

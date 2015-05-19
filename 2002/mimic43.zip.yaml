@@ -1,0 +1,38 @@
+name: mimic43.zip
+hash: b6820bbba176b9731cf36bd9a2f09e55
+year: 2002
+file:
+  bilbo.jpg:
+    mimetype: image/jpeg
+  bjasc234.ans:
+    mimetype: text/plain
+  bjasc235.ans:
+    mimetype: text/plain
+  cd!tus.ans:
+    mimetype: text/plain
+  file_id.diz:
+    mimetype: text/plain
+  h7-mmc43.asc:
+    mimetype: text/plain
+  h7-rda2.asc:
+    mimetype: text/plain
+  jn-mmc09.ans:
+    mimetype: text/plain
+  ko-gasfm.ans:
+    mimetype: text/plain
+  ko-mune.ans:
+    mimetype: text/plain
+  ko-rand.asc:
+    mimetype: text/plain
+  m7m-sqd.ans:
+    mimetype: text/plain
+  members.txt:
+    mimetype: text/plain
+  quotes43.txt:
+    mimetype: text/plain
+  rph-melt.asc:
+    mimetype: text/plain
+  us-wind.asc:
+    mimetype: text/plain
+  workplce.gif:
+    mimetype: image/gif

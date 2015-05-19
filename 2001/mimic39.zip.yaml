@@ -1,0 +1,60 @@
+name: mimic39.zip
+hash: dfcebc4ee4202190f87a911cf369acfc
+year: 2001
+file:
+  anagram.txt:
+    mimetype: text/plain
+  asciiman.ans:
+    mimetype: text/plain
+  bjasc225.ans:
+    mimetype: text/plain
+  bjasc226.ans:
+    mimetype: text/plain
+  clubseal.jpg:
+    mimetype: image/jpeg
+  ct-mmc.asc:
+    mimetype: text/plain
+  file_id.diz:
+    mimetype: text/plain
+  h4-bird.ans:
+    mimetype: text/plain
+  h4-rock.asc:
+    mimetype: text/plain
+  jn-banan.ans:
+    mimetype: text/plain
+  jn-srb.rmx:
+    mimetype: text/plain
+  k!evill.asc:
+    mimetype: text/plain
+  ko-911.ans:
+    mimetype: text/plain
+  ko-angel.asc:
+    mimetype: text/plain
+  ko-eto.ans:
+    mimetype: text/plain
+  ko-para5.asc:
+    mimetype: text/plain
+  ko-regan.asc:
+    mimetype: text/plain
+  ko-twin.ans:
+    mimetype: text/plain
+  members.ans:
+    mimetype: text/plain
+  pro-0901.ans:
+    mimetype: text/plain
+  quotes.txt:
+    mimetype: text/plain
+  rko-jany.asc:
+    mimetype: text/plain
+  rko-klas.asc:
+    mimetype: text/plain
+  rko-knra.asc:
+    mimetype: text/plain
+  rko-koyd.asc:
+    mimetype: text/plain
+  rko-zppk.asc:
+    mimetype: text/plain
+  rph-atar.asc:
+    mimetype: text/plain
+  us-woss.asc:
+    mimetype: text/plain

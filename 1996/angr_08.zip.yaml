@@ -1,0 +1,114 @@
+name: angr_08.zip
+hash: bba5dd32e5ec5405920a94df2a055865
+year: 1996
+file:
+  -^ANGVU^.---:
+    mimetype: application/octet-stream
+  -^ANSI^-.---:
+    mimetype: application/octet-stream
+  -^ASCII^.---:
+    mimetype: application/octet-stream
+  -^CODE^-.---:
+    mimetype: application/octet-stream
+  -^CRAP^-.---:
+    mimetype: application/octet-stream
+  -^INFO^-.---:
+    mimetype: text/plain
+  -^RIP^-.---:
+    mimetype: application/octet-stream
+  -^VGA^--.---:
+    mimetype: application/octet-stream
+  9L-ANGER.ASC:
+    mimetype: text/plain
+  9L-KID.ANS:
+    mimetype: text/plain
+  0496-LGO.ANS:
+    mimetype: text/plain
+  0496-MEM.ANS:
+    mimetype: text/plain
+  0496-NFO.ANS:
+    mimetype: text/plain
+  ANGERAPP.EXE:
+    mimetype: application/x-msdos-program
+  AS-ED.GIF:
+    mimetype: image/gif
+  ASGENX.GIF:
+    mimetype: image/gif
+  BM-TOAST.RIP:
+    mimetype: image/x-rip
+  BORSTJES.EXE:
+    mimetype: application/x-msdos-program
+  BROEKJE.EXE:
+    mimetype: application/x-msdos-program
+  BT-BUMAT.ANS:
+    mimetype: text/plain
+  BT-COL#2.ASC:
+    mimetype: text/plain
+  BT-DIZZY.ASC:
+    mimetype: text/plain
+  BT-DUCK!.ANS:
+    mimetype: text/plain
+  CC-PITH.EXE:
+    mimetype: application/x-msdos-program
+  EM-ANGR.ASC:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  HALLU1ST.COM:
+    mimetype: application/x-msdos-program
+  HOSTESS.TXT:
+    mimetype: text/plain
+  NOTICE.ANS:
+    mimetype: text/plain
+  PD-ANGER.ANS:
+    mimetype: text/plain
+  PD-APOC.ANS:
+    mimetype: text/plain
+  PD-DC.ANS:
+    mimetype: text/plain
+  PD-PX.ANS:
+    mimetype: text/plain
+  PD-VOI.ANS:
+    mimetype: text/plain
+  PP-ANGR2.RIP:
+    mimetype: image/x-rip
+  PP-ANGR3.GIF:
+    mimetype: image/gif
+  PP-FERO1.ANS:
+    mimetype: text/plain
+  PP-SHROO.ANS:
+    mimetype: text/plain
+  PP-STRUM.ANS:
+    mimetype: text/plain
+  PX-ANGER.GIF:
+    mimetype: image/gif
+  PX-ANGR.ASC:
+    mimetype: text/plain
+  RV-H18.ANS:
+    mimetype: text/plain
+  RV-PLA.ANS:
+    mimetype: text/plain
+  SK!-CLIK.ANS:
+    mimetype: text/plain
+  SK!-DECY.ASC:
+    mimetype: text/plain
+  SK!-HLTK.ASC:
+    mimetype: text/plain
+  SK!-MD.ASC:
+    mimetype: text/plain
+  SK!-PIT2.ASC:
+    mimetype: text/plain
+  SK!-PZIP.ASC:
+    mimetype: text/plain
+  SK!-SOI.ANS:
+    mimetype: text/plain
+  SK!-SUAV.ASC:
+    mimetype: text/plain
+  SP-ASP.ASC:
+    mimetype: text/plain
+  SP-ESP.ASC:
+    mimetype: text/plain
+  US-DD1.ANS:
+    mimetype: text/plain
+  US-GEL1.ANS:
+    mimetype: text/plain

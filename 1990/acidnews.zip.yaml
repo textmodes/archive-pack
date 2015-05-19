@@ -1,0 +1,18 @@
+name: acidnews.zip
+hash: e1e7f1224412e7af1231cd885ae294a6
+year: 1990
+file:
+  ACIDNEWS.TXT:
+    mimetype: text/plain
+  CRACK.ANS:
+    mimetype: text/plain
+  ELM.ANS:
+    mimetype: text/plain
+  INN.ANS:
+    mimetype: text/plain
+  PEJOKE.ANS:
+    mimetype: text/plain
+  ULTIMATE.ANS:
+    mimetype: text/plain
+  XTC2.ANS:
+    mimetype: text/plain

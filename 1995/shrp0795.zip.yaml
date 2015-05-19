@@ -1,0 +1,70 @@
+name: shrp0795.zip
+hash: ee56001143c57be4b8311260797ca341
+year: 1995
+file:
+  !!binary +vlBTlNJ+fo=:
+    mimetype: text/plain
+  !!binary +vlNSVND+fo=:
+    mimetype: text/plain
+  !!binary +vlNT0RT+fo=:
+    mimetype: text/plain
+  !!binary +vlWR0H5+g==:
+    mimetype: text/plain
+  0795INDX.BMP:
+    mimetype: image/x-ms-bmp
+  0795MBRS.BMP:
+    mimetype: image/x-ms-bmp
+  0795NEWS.BMP:
+    mimetype: image/x-ms-bmp
+  0795SITE.BMP:
+    mimetype: image/x-ms-bmp
+  CON-NET.ZIP:
+    mimetype: application/zip
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  HC-PROMO.BMP:
+    mimetype: image/x-ms-bmp
+  IS-KAB1.ANS:
+    mimetype: text/plain
+  IS-SABO.LGO:
+    mimetype: text/plain
+  IS-SHRP1.LGO:
+    mimetype: text/plain
+  L.ZIP:
+    mimetype: application/zip
+  MD-APOC1.BMP:
+    mimetype: image/x-ms-bmp
+  MD-CONS.ANS:
+    mimetype: text/plain
+  MD-SHRP.ANS:
+    mimetype: text/plain
+  QD-SND.LIT:
+    mimetype: text/plain
+  SG-HOLIC.MOD:
+    mimetype: audio/x-mod
+  SG-KINKY.MOD:
+    mimetype: audio/x-mod
+  SG-PANZY.MOD:
+    mimetype: audio/x-mod
+  SG-PDM.MOD:
+    mimetype: audio/x-mod
+  SG-SECT.MOD:
+    mimetype: audio/x-mod
+  SG-T_4T.MOD:
+    mimetype: audio/x-mod
+  SHARP.EXE:
+    mimetype: application/x-msdos-program
+  SHARPAPP.ZIP:
+    mimetype: application/zip
+  SHRPVIEW.CFG:
+    mimetype: text/plain
+  SK-SAB1.BMP:
+    mimetype: image/x-ms-bmp
+  SK-SHRP1.BMP:
+    mimetype: image/x-ms-bmp
+  SK-TRIC.BMP:
+    mimetype: image/x-ms-bmp
+  SV.EXE:
+    mimetype: application/x-msdos-program
+  SV4W.ZIP:
+    mimetype: application/zip

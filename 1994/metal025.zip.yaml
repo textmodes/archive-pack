@@ -1,0 +1,12 @@
+name: metal025.zip
+hash: b96fdfaed716e7627834ee5574af8907
+year: 1994
+file:
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  METAL.DOC:
+    mimetype: text/plain
+  METAL.EXE:
+    mimetype: application/x-msdos-program
+  METAL.REV:
+    mimetype: text/plain

@@ -1,0 +1,276 @@
+name: cro0401.zip
+hash: fa4b57e3863f926eb0159527e602fd50
+year: 2001
+file:
+  ascii/CH-APEXP.ASC:
+    mimetype: text/plain
+  ascii/CH-CLUB.ASC:
+    mimetype: text/plain
+  ascii/PZ-CROID.NFO:
+    mimetype: text/plain
+  ascii/PZ-PZID.NFO:
+    mimetype: text/plain
+  ascii/ayl!NME.nfo:
+    mimetype: text/plain
+  ascii/ayl!QLT.NFO:
+    mimetype: text/plain
+  ascii/cg-Mewtwo_welcome.asc:
+    mimetype: text/plain
+  ascii/cg-OoD_welcome.asc:
+    mimetype: text/plain
+  ascii/cg-atl_welcome.asc:
+    mimetype: text/plain
+  ascii/cg-hom_logout.asc:
+    mimetype: text/plain
+  ascii/cg-hom_welcome.asc:
+    mimetype: text/plain
+  ascii/cg-iff_header.asc:
+    mimetype: text/plain
+  ascii/cg-mt_welcome.asc:
+    mimetype: text/plain
+  ascii/cg-phiso_welcome.asc:
+    mimetype: text/plain
+  ascii/cg-platin_nfo.asc:
+    mimetype: text/plain
+  ascii/cg-realm_nfo.asc:
+    mimetype: text/plain
+  ascii/cg-site163_welcome.asc:
+    mimetype: text/plain
+  ascii/cg-tt_nfo.asc:
+    mimetype: text/plain
+  ascii/pZ-cro1.nfo:
+    mimetype: text/plain
+  ascii/pZ-cro2.nfo:
+    mimetype: text/plain
+  ascii/pZ-insid.nfo:
+    mimetype: text/plain
+  ascii/tpk-AFD.DIZ:
+    mimetype: text/plain
+  ascii/tpk-CNC3.ASC:
+    mimetype: text/plain
+  ascii/tpk-CNC4.ASC:
+    mimetype: text/plain
+  ascii/tpk-CR1D.DIZ:
+    mimetype: text/plain
+  ascii/tpk-CR2D.DIZ:
+    mimetype: text/plain
+  ascii/tpk-CR3D.DIZ:
+    mimetype: text/plain
+  ascii/tpk-CYP2.ASC:
+    mimetype: text/plain
+  ascii/tpk-DC2D.ASC:
+    mimetype: text/plain
+  ascii/tpk-DC4D.ASC:
+    mimetype: text/plain
+  ascii/tpk-DS5.DIZ:
+    mimetype: text/plain
+  ascii/tpk-DSA.NFO:
+    mimetype: text/plain
+  ascii/tpk-DSA1.DIZ:
+    mimetype: text/plain
+  ascii/tpk-DSA2.DIZ:
+    mimetype: text/plain
+  ascii/tpk-DSF.DIZ:
+    mimetype: text/plain
+  ascii/tpk-EMB.DIZ:
+    mimetype: text/plain
+  ascii/tpk-EMB2.NFO:
+    mimetype: text/plain
+  ascii/tpk-EXC1.ASC:
+    mimetype: text/plain
+  ascii/tpk-EXC2.ASC:
+    mimetype: text/plain
+  ascii/tpk-FSN.DIZ:
+    mimetype: text/plain
+  ascii/tpk-FSN.NFO:
+    mimetype: text/plain
+  ascii/tpk-FYB.ASC:
+    mimetype: text/plain
+  ascii/tpk-GNS.NFO:
+    mimetype: text/plain
+  ascii/tpk-HBA1.ANS:
+    mimetype: text/plain
+  ascii/tpk-HBA3.ASC:
+    mimetype: text/plain
+  ascii/tpk-HBR2.ASC:
+    mimetype: text/plain
+  ascii/tpk-MF.ASC:
+    mimetype: text/plain
+  ascii/tpk-MYST.ASC:
+    mimetype: text/plain
+  ascii/tpk-NGF1.ASC:
+    mimetype: text/plain
+  ascii/tpk-NGF2.ASC:
+    mimetype: text/plain
+  ascii/tpk-NGF3.ASC:
+    mimetype: text/plain
+  ascii/tpk-OOD1.ASC:
+    mimetype: text/plain
+  ascii/tpk-OOD2.ASC:
+    mimetype: text/plain
+  ascii/tpk-PCD0.ASC:
+    mimetype: text/plain
+  ascii/tpk-PCD1.ASC:
+    mimetype: text/plain
+  ascii/tpk-PDAA.NFO:
+    mimetype: text/plain
+  ascii/tpk-PDDA.DIZ:
+    mimetype: text/plain
+  ascii/tpk-PHX1.ASC:
+    mimetype: text/plain
+  ascii/tpk-PHX2.ASC:
+    mimetype: text/plain
+  ascii/tpk-PLMP.ASC:
+    mimetype: text/plain
+  ascii/tpk-S8.DIZ:
+    mimetype: text/plain
+  ascii/tpk-S8.NFO:
+    mimetype: text/plain
+  ascii/tpk-SCT1.ASC:
+    mimetype: text/plain
+  ascii/tpk-SCT2.ASC:
+    mimetype: text/plain
+  ascii/tpk-SF2.ASC:
+    mimetype: text/plain
+  ascii/tpk-STK1.ASC:
+    mimetype: text/plain
+  ascii/tpk-STK2.ASC:
+    mimetype: text/plain
+  ascii/tpk-WLI1.ASC:
+    mimetype: text/plain
+  ascii/tpk-WLI2.ASC:
+    mimetype: text/plain
+  ascii/tpk-WLI3.ASC:
+    mimetype: text/plain
+  chemical.exe:
+    mimetype: application/x-msdos-program
+  chips/DT_CORE.XM:
+    mimetype: audio/x-mod
+  chips/DT_LOAD.XM:
+    mimetype: audio/x-mod
+  chips/DT_ORN#2.XM:
+    mimetype: audio/x-mod
+  chips/Dt&pd_wc.xm:
+    mimetype: audio/x-mod
+  chips/Dt_orion.xm:
+    mimetype: audio/x-mod
+  chips/Le&pd_ld.xm:
+    mimetype: audio/x-mod
+  chips/Pd-ri2k1.xm:
+    mimetype: audio/x-mod
+  chips/Pd-tft.xm:
+    mimetype: audio/x-mod
+  chips/pZ!-long.xm:
+    mimetype: audio/x-mod
+  chips/playit.m3u:
+    mimetype: audio/mpegurl
+  chips/pz!-dirt.xm:
+    mimetype: audio/x-mod
+  chips/pz!-race.xm:
+    mimetype: audio/x-mod
+  chips/pz!-tca1.xm:
+    mimetype: audio/x-mod
+  creaction.org:
+    mimetype: application/octet-stream
+  extra/(code) intro/distinct.rar:
+    mimetype: application/rar
+  extra/(handy) nokia logos/t!cro.gif:
+    mimetype: image/gif
+  extra/(handy) nokia logos/t!loser.gif:
+    mimetype: image/gif
+  extra/(handy) nokia logos/t!optik.gif:
+    mimetype: image/gif
+  flash/b!ball.swf:
+    mimetype: application/x-shockwave-flash
+  hirez/3D-Arts.jpg:
+    mimetype: image/jpeg
+  hirez/Blue-Emo.jpg:
+    mimetype: image/jpeg
+  hirez/DJ-Alex-Flex.jpg:
+    mimetype: image/jpeg
+  hirez/DM1.jpg:
+    mimetype: image/jpeg
+  hirez/Hp-Test.jpg:
+    mimetype: image/jpeg
+  hirez/New-Style.jpg:
+    mimetype: image/jpeg
+  hirez/ayl!bmi01.jpg:
+    mimetype: image/jpeg
+  hirez/ayl!croll.jpg:
+    mimetype: image/jpeg
+  hirez/ayl!heart.jpg:
+    mimetype: image/jpeg
+  hirez/ayl!knife.jpg:
+    mimetype: image/jpeg
+  hirez/ayl!moon.jpg:
+    mimetype: image/jpeg
+  hirez/ayl!sux.jpg:
+    mimetype: image/jpeg
+  hirez/b!ddb.gif:
+    mimetype: image/gif
+  hirez/berlin.cro.member.drinking.jpg:
+    mimetype: image/jpeg
+  hirez/burna1.jpg:
+    mimetype: image/jpeg
+  hirez/cRO.jpg:
+    mimetype: image/jpeg
+  hirez/ch-mr_niceguy.jpg:
+    mimetype: image/jpeg
+  hirez/flk!-codedasm_splash.jpg:
+    mimetype: image/jpeg
+  hirez/fluxflower.jpg:
+    mimetype: image/jpeg
+  hirez/h_sketch_02.jpg:
+    mimetype: image/jpeg
+  hirez/h_streamlogo01.jpg:
+    mimetype: image/jpeg
+  hirez/m!cRo-dust.jpg:
+    mimetype: image/jpeg
+  hirez/m!cRo-pix01.jpg:
+    mimetype: image/jpeg
+  hirez/mina.jpg:
+    mimetype: image/jpeg
+  hirez/mono_artint.gif:
+    mimetype: image/gif
+  hirez/mono_lat.jpg:
+    mimetype: image/jpeg
+  hirez/mono_maq.gif:
+    mimetype: image/gif
+  hirez/mono_twins.jpg:
+    mimetype: image/jpeg
+  hirez/rs.jpg:
+    mimetype: image/jpeg
+  hirez/sg1.jpg:
+    mimetype: image/jpeg
+  hirez/sketch.jpg:
+    mimetype: image/jpeg
+  hirez/sketch_01.jpg:
+    mimetype: image/jpeg
+  hirez/t!cro2k1.gif:
+    mimetype: image/gif
+  hirez/technophile_os.jpg:
+    mimetype: image/jpeg
+  hirez/tpk-IMD.PCX:
+    mimetype: image/pcx
+  hirez/tpk-R47.JPG:
+    mimetype: image/jpeg
+  hirez/tpk-cnc1.JPG:
+    mimetype: image/jpeg
+  hirez/trans.bmi!the_little_amni.jpg:
+    mimetype: image/jpeg
+  hirez/v666-BMi.CD-Cover-DJ.Jabdah_Back.jpg:
+    mimetype: image/jpeg
+  hirez/v666-BMi.CD-Cover-DJ.Jabdah_Front.jpg:
+    mimetype: image/jpeg
+  hirez/v666-BMi.Logo_02.jpg:
+    mimetype: image/jpeg
+  hirez/v666-BMi.wallpaper_01.jpg:
+    mimetype: image/jpeg
+  hirez/v666-CRS-keygentemplate_02.jpg:
+    mimetype: image/jpeg
+  hirez/v666-v!dtctd-HP.Layout.jpg:
+    mimetype: image/jpeg
+  hirez/wall_tagging.jpg:
+    mimetype: image/jpeg
+  hirez/watersky.jpg:
+    mimetype: image/jpeg

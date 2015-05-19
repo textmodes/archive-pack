@@ -1,0 +1,90 @@
+name: dox_07.zip
+hash: 82cec97bde0460ff48bb1ccac4b23b7f
+year: 1997
+file:
+  (ANSI):
+    mimetype: text/plain
+  (CODE):
+    mimetype: text/plain
+  (END!):
+    mimetype: text/plain
+  (LIT!):
+    mimetype: text/plain
+  (MISC):
+    mimetype: text/plain
+  (MODS):
+    mimetype: text/plain
+  APP1.DAT:
+    mimetype: text/plain
+  APP2.DAT:
+    mimetype: text/plain
+  APP3.DAT:
+    mimetype: text/plain
+  DOX-0397.NFO:
+    mimetype: text/plain
+  DOX-MLST.NFO:
+    mimetype: text/plain
+  DOX.EXE:
+    mimetype: application/x-msdos-program
+  DOXAPP41.EXE:
+    mimetype: application/x-msdos-program
+  DOXVIEW.DOC:
+    mimetype: text/plain
+  DOXVIEW.EXE:
+    mimetype: application/x-msdos-program
+  EN-FLUP.ANS:
+    mimetype: text/plain
+  EN-LEFT.LIT:
+    mimetype: text/plain
+  EN-STUCK.LIT:
+    mimetype: text/plain
+  EN-TRAP.LIT:
+    mimetype: text/plain
+  EN-UNTIT.LIT:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  NA-DS.MOD:
+    mimetype: audio/x-mod
+  NA-KAOS.ANS:
+    mimetype: text/plain
+  NA-LD.MOD:
+    mimetype: audio/x-mod
+  NA-LDR.MOD:
+    mimetype: audio/x-mod
+  NA-SI.ANS:
+    mimetype: text/plain
+  NA-STAR.MOD:
+    mimetype: audio/x-mod
+  NA-TPC.MOD:
+    mimetype: audio/x-mod
+  NA-WORD!.ANS:
+    mimetype: text/plain
+  SK-BIGGY.LIT:
+    mimetype: text/plain
+  SK-ESWE.LIT:
+    mimetype: text/plain
+  SK-MOTHR.LIT:
+    mimetype: text/plain
+  ST-DOX4.ANS:
+    mimetype: text/plain
+  ST-KA.ANS:
+    mimetype: text/plain
+  ST-SEX.ANS:
+    mimetype: text/plain
+  ST-SHA.ANS:
+    mimetype: text/plain
+  ST-TC.ANS:
+    mimetype: text/plain
+  ST-UC6.ANS:
+    mimetype: text/plain
+  WR-DOX4.ANS:
+    mimetype: text/plain
+  WR-DOX5.ANS:
+    mimetype: text/plain
+  WR-DOX6.ANS:
+    mimetype: text/plain
+  WR-SI3.ANS:
+    mimetype: text/plain
+  WR-THINK.ANS:
+    mimetype: text/plain

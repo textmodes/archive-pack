@@ -1,0 +1,32 @@
+name: jihad-6.zip
+hash: a938f9404ffd4674593be77c911b0d37
+year: 1995
+file:
+  file_id.diz:
+    mimetype: text/plain
+  hf-cspr.gif:
+    mimetype: image/gif
+  hf-fnut.gif:
+    mimetype: image/gif
+  hf-jdesl.gif:
+    mimetype: image/gif
+  manifest.jhd:
+    mimetype: text/plain
+  memlist.jhd:
+    mimetype: text/plain
+  pe-btsea.jpg:
+    mimetype: image/jpeg
+  pe-space.gif:
+    mimetype: image/gif
+  pe-swiss.gif:
+    mimetype: image/gif
+  pehf-wud.gif:
+    mimetype: image/gif
+  posk-vga.zip:
+    mimetype: application/zip
+  q&a.jhd:
+    mimetype: text/plain
+  qs-amnd4.gif:
+    mimetype: image/gif
+  random.jhd:
+    mimetype: text/plain

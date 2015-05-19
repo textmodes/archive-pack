@@ -1,0 +1,826 @@
+name: cro-dskmg0805.zip
+hash: 47b772b0b681645ff56358bb536610d1
+year: 2005
+file:
+  ARTPACK/CRO.nfo:
+    mimetype: text/plain
+  ARTPACK/OL-KAN3.ASC:
+    mimetype: text/plain
+  ARTPACK/aD-pay.banner.jpg:
+    mimetype: image/jpeg
+  ARTPACK/aD-pay.loader.jpg:
+    mimetype: image/jpeg
+  ARTPACK/amg-firstandlastever.jpg:
+    mimetype: image/jpeg
+  ARTPACK/ayl-7OF.asc:
+    mimetype: text/plain
+  ARTPACK/ayl-APC.asc:
+    mimetype: text/plain
+  ARTPACK/ayl-BUR.asc:
+    mimetype: text/plain
+  ARTPACK/ayl-DCC.asc:
+    mimetype: text/plain
+  ARTPACK/ayl-END.asc:
+    mimetype: text/plain
+  ARTPACK/ayl-ENE.asc:
+    mimetype: text/plain
+  ARTPACK/ayl-ESB.asc:
+    mimetype: text/plain
+  ARTPACK/ayl-FBE.asc:
+    mimetype: text/plain
+  ARTPACK/ayl-FLAW.asc:
+    mimetype: text/plain
+  ARTPACK/ayl-GIGA.asc:
+    mimetype: text/plain
+  ARTPACK/ayl-HB.asc:
+    mimetype: text/plain
+  ARTPACK/ayl-HSA.asc:
+    mimetype: text/plain
+  ARTPACK/ayl-HUL.asc:
+    mimetype: text/plain
+  ARTPACK/ayl-ILL.asc:
+    mimetype: text/plain
+  ARTPACK/ayl-INF.asc:
+    mimetype: text/plain
+  ARTPACK/ayl-IPC.asc:
+    mimetype: text/plain
+  ARTPACK/ayl-LOST.asc:
+    mimetype: text/plain
+  ARTPACK/ayl-LUN.asc:
+    mimetype: text/plain
+  ARTPACK/ayl-LzO.jpg:
+    mimetype: image/jpeg
+  ARTPACK/ayl-MINT.asc:
+    mimetype: text/plain
+  ARTPACK/ayl-MP.asc:
+    mimetype: text/plain
+  ARTPACK/ayl-MUS.asc:
+    mimetype: text/plain
+  ARTPACK/ayl-OXD.asc:
+    mimetype: text/plain
+  ARTPACK/ayl-PBY.asc:
+    mimetype: text/plain
+  ARTPACK/ayl-PHM.asc:
+    mimetype: text/plain
+  ARTPACK/ayl-PRI.asc:
+    mimetype: text/plain
+  ARTPACK/ayl-RRR.asc:
+    mimetype: text/plain
+  ARTPACK/ayl-SIL.asc:
+    mimetype: text/plain
+  ARTPACK/ayl-SMO.asc:
+    mimetype: text/plain
+  ARTPACK/ayl-SUB.asc:
+    mimetype: text/plain
+  ARTPACK/ayl-SWE.asc:
+    mimetype: text/plain
+  ARTPACK/ayl-TEND.asc:
+    mimetype: text/plain
+  ARTPACK/ayl-UNIT.asc:
+    mimetype: text/plain
+  ARTPACK/ayl-W3D.asc:
+    mimetype: text/plain
+  ARTPACK/ayl-ana1.jpg:
+    mimetype: image/jpeg
+  ARTPACK/ayl-ana2.jpg:
+    mimetype: image/jpeg
+  ARTPACK/ayl-graff.jpg:
+    mimetype: image/jpeg
+  ARTPACK/ayl-rain.jpg:
+    mimetype: image/jpeg
+  ARTPACK/ayl-salv.jpg:
+    mimetype: image/jpeg
+  ARTPACK/ayl-sigh.jpg:
+    mimetype: image/jpeg
+  ARTPACK/ayl-spac.jpg:
+    mimetype: image/jpeg
+  ARTPACK/ayl-sunset.jpg:
+    mimetype: image/jpeg
+  ARTPACK/ayl-town.jpg:
+    mimetype: image/jpeg
+  ARTPACK/bajskuk.xm:
+    mimetype: audio/x-mod
+  ARTPACK/bajsollon.xm:
+    mimetype: audio/x-mod
+  ARTPACK/bzl-bt01.xm:
+    mimetype: audio/x-mod
+  ARTPACK/bzl-bt02.xm:
+    mimetype: audio/x-mod
+  ARTPACK/bzl-bt03.xm:
+    mimetype: audio/x-mod
+  ARTPACK/bzl-bt04.xm:
+    mimetype: audio/x-mod
+  ARTPACK/bzl-dctr.xm:
+    mimetype: audio/x-mod
+  ARTPACK/bzl-dwys.xm:
+    mimetype: audio/x-mod
+  ARTPACK/bzl-grnd.xm:
+    mimetype: audio/x-mod
+  ARTPACK/bzl-nxtl.xm:
+    mimetype: audio/x-mod
+  ARTPACK/bzl-phs7.xm:
+    mimetype: audio/x-mod
+  ARTPACK/bzl-stnv.xm:
+    mimetype: audio/x-mod
+  ARTPACK/bzl-wfmd.mod:
+    mimetype: audio/x-mod
+  ARTPACK/cpn-amrc.asc:
+    mimetype: text/plain
+  ARTPACK/cpn-at.asc:
+    mimetype: text/plain
+  ARTPACK/cpn-bp.asc:
+    mimetype: text/plain
+  ARTPACK/cpn-dnl.asc:
+    mimetype: text/plain
+  ARTPACK/cpn-dtrx.bin:
+    mimetype: text/plain
+  ARTPACK/cpn-dvx.asc:
+    mimetype: text/plain
+  ARTPACK/cpn-flh.asc:
+    mimetype: text/plain
+  ARTPACK/cpn-ktn.asc:
+    mimetype: text/plain
+  ARTPACK/cpn-lgc.asc:
+    mimetype: text/plain
+  ARTPACK/cpn-mx.asc:
+    mimetype: text/plain
+  ARTPACK/cpn-nb.asc:
+    mimetype: text/plain
+  ARTPACK/cpn-nn.asc:
+    mimetype: text/plain
+  ARTPACK/cpn-nwo.asc:
+    mimetype: text/plain
+  ARTPACK/cpn-orn.asc:
+    mimetype: text/plain
+  ARTPACK/cpn-pal.asc:
+    mimetype: text/plain
+  ARTPACK/cpn-pat.asc:
+    mimetype: text/plain
+  ARTPACK/cpn-pi.asc:
+    mimetype: text/plain
+  ARTPACK/cpn-pk.asc:
+    mimetype: text/plain
+  ARTPACK/cpn-pls.asc:
+    mimetype: text/plain
+  ARTPACK/cpn-pot.asc:
+    mimetype: text/plain
+  ARTPACK/cpn-ps.asc:
+    mimetype: text/plain
+  ARTPACK/cpn-pti.asc:
+    mimetype: text/plain
+  ARTPACK/cpn-s6s.asc:
+    mimetype: text/plain
+  ARTPACK/cpn-sao.asc:
+    mimetype: text/plain
+  ARTPACK/cpn-sq.asc:
+    mimetype: text/plain
+  ARTPACK/cpn-stb.asc:
+    mimetype: text/plain
+  ARTPACK/cpn-tgf.asc:
+    mimetype: text/plain
+  ARTPACK/cpn-twc.asc:
+    mimetype: text/plain
+  ARTPACK/cpn-xds.asc:
+    mimetype: text/plain
+  ARTPACK/fStD(color)-oRzeCH(sketch)-warmachine.jpg:
+    mimetype: image/jpeg
+  ARTPACK/fStD-cro_font.jpg:
+    mimetype: image/jpeg
+  ARTPACK/fStD-fallen_angel_cdcover.jpg:
+    mimetype: image/jpeg
+  ARTPACK/fStD-gamebench.png:
+    mimetype: image/png
+  ARTPACK/fStD-pencils.jpg:
+    mimetype: image/jpeg
+  ARTPACK/fStD-pencils_2.jpg:
+    mimetype: image/jpeg
+  ARTPACK/fStD-vme.jpg:
+    mimetype: image/jpeg
+  ARTPACK/lolita cumshots.mod:
+    mimetype: audio/x-mod
+  ARTPACK/m0-aaf.asc:
+    mimetype: text/plain
+  ARTPACK/m0-adc.asc:
+    mimetype: text/plain
+  ARTPACK/m0-aftrb.asc:
+    mimetype: text/plain
+  ARTPACK/m0-bcc.asc:
+    mimetype: text/plain
+  ARTPACK/m0-bear.asc:
+    mimetype: text/plain
+  ARTPACK/m0-bf.asc:
+    mimetype: text/plain
+  ARTPACK/m0-bs.asc:
+    mimetype: text/plain
+  ARTPACK/m0-bsa.asc:
+    mimetype: text/plain
+  ARTPACK/m0-dark.asc:
+    mimetype: text/plain
+  ARTPACK/m0-dini.asc:
+    mimetype: text/plain
+  ARTPACK/m0-dlr.asc:
+    mimetype: text/plain
+  ARTPACK/m0-emp.asc:
+    mimetype: text/plain
+  ARTPACK/m0-epn.asc:
+    mimetype: text/plain
+  ARTPACK/m0-fbr.asc:
+    mimetype: text/plain
+  ARTPACK/m0-fnt.asc:
+    mimetype: text/plain
+  ARTPACK/m0-hated.asc:
+    mimetype: text/plain
+  ARTPACK/m0-hs.asc:
+    mimetype: text/plain
+  ARTPACK/m0-kzt.asc:
+    mimetype: text/plain
+  ARTPACK/m0-mdhs.asc:
+    mimetype: text/plain
+  ARTPACK/m0-mim.asc:
+    mimetype: text/plain
+  ARTPACK/m0-nfb.asc:
+    mimetype: text/plain
+  ARTPACK/m0-nite.asc:
+    mimetype: text/plain
+  ARTPACK/m0-pay.asc:
+    mimetype: text/plain
+  ARTPACK/m0-prd.asc:
+    mimetype: text/plain
+  ARTPACK/m0-pulse.asc:
+    mimetype: text/plain
+  ARTPACK/m0-rH.asc:
+    mimetype: text/plain
+  ARTPACK/m0-sgm.asc:
+    mimetype: text/plain
+  ARTPACK/m0-sgmdz.asc:
+    mimetype: text/plain
+  ARTPACK/m0-shl.asc:
+    mimetype: text/plain
+  ARTPACK/m0-sith.asc:
+    mimetype: text/plain
+  ARTPACK/m0-sod.asc:
+    mimetype: text/plain
+  ARTPACK/m0-spice.asc:
+    mimetype: text/plain
+  ARTPACK/m0-vortx.ans:
+    mimetype: text/plain
+  ARTPACK/m0-xpc.asc:
+    mimetype: text/plain
+  ARTPACK/o-frosty.xm:
+    mimetype: audio/x-mod
+  ARTPACK/o-ihdt.xm:
+    mimetype: audio/x-mod
+  ARTPACK/ogg-JD.xm:
+    mimetype: audio/x-mod
+  ARTPACK/ogg-bajsfitta.xm:
+    mimetype: audio/x-mod
+  ARTPACK/ogg-bb.xm:
+    mimetype: audio/x-mod
+  ARTPACK/ogg-bik.xm:
+    mimetype: audio/x-mod
+  ARTPACK/ogg-compdest.xm:
+    mimetype: audio/x-mod
+  ARTPACK/ogg-cumshot_lane.xm:
+    mimetype: audio/x-mod
+  ARTPACK/ogg-giant_crap.xm:
+    mimetype: audio/x-mod
+  ARTPACK/ogg-korv.xm:
+    mimetype: audio/x-mod
+  ARTPACK/ogg-kuken.xm:
+    mimetype: audio/x-mod
+  ARTPACK/ogg-samurai.xm:
+    mimetype: audio/x-mod
+  ARTPACK/ogg-smegma.xm:
+    mimetype: audio/x-mod
+  ARTPACK/ogg-ss.xm:
+    mimetype: audio/x-mod
+  ARTPACK/ogg-vaeder.xm:
+    mimetype: audio/x-mod
+  ARTPACK/ogg_dp.xm:
+    mimetype: audio/x-mod
+  ARTPACK/ol-abr.asc:
+    mimetype: text/plain
+  ARTPACK/ol-alife.asc:
+    mimetype: text/plain
+  ARTPACK/ol-bierk.asc:
+    mimetype: text/plain
+  ARTPACK/ol-bmi.asc:
+    mimetype: text/plain
+  ARTPACK/ol-chrm.asc:
+    mimetype: text/plain
+  ARTPACK/ol-corny.asc:
+    mimetype: text/plain
+  ARTPACK/ol-dlr.asc:
+    mimetype: text/plain
+  ARTPACK/ol-dns2.asc:
+    mimetype: text/plain
+  ARTPACK/ol-ego02.asc:
+    mimetype: text/plain
+  ARTPACK/ol-ente.asc:
+    mimetype: text/plain
+  ARTPACK/ol-fbt.asc:
+    mimetype: text/plain
+  ARTPACK/ol-freyr.asc:
+    mimetype: text/plain
+  ARTPACK/ol-gntc.asc:
+    mimetype: text/plain
+  ARTPACK/ol-kane1.ans:
+    mimetype: text/plain
+  ARTPACK/ol-kane2.ans:
+    mimetype: text/plain
+  ARTPACK/ol-kane3.ans:
+    mimetype: text/plain
+  ARTPACK/ol-lcd.asc:
+    mimetype: text/plain
+  ARTPACK/ol-lm.asc:
+    mimetype: text/plain
+  ARTPACK/ol-logo1.asc:
+    mimetype: text/plain
+  ARTPACK/ol-logo2.asc:
+    mimetype: text/plain
+  ARTPACK/ol-lv1.asc:
+    mimetype: text/plain
+  ARTPACK/ol-mgd.asc:
+    mimetype: text/plain
+  ARTPACK/ol-necro.asc:
+    mimetype: text/plain
+  ARTPACK/ol-nrw01.asc:
+    mimetype: text/plain
+  ARTPACK/ol-o1101.asc:
+    mimetype: text/plain
+  ARTPACK/ol-ocn.asc:
+    mimetype: text/plain
+  ARTPACK/ol-oo.ans:
+    mimetype: text/plain
+  ARTPACK/ol-rns.asc:
+    mimetype: text/plain
+  ARTPACK/ol-shice.asc:
+    mimetype: text/plain
+  ARTPACK/ol-sould.jpg:
+    mimetype: image/jpeg
+  ARTPACK/ol-sv2.asc:
+    mimetype: text/plain
+  ARTPACK/ol-tgsc.asc:
+    mimetype: text/plain
+  ARTPACK/ol-twh.ans:
+    mimetype: text/plain
+  ARTPACK/ol-wws.asc:
+    mimetype: text/plain
+  ARTPACK/rpseas.xm:
+    mimetype: audio/x-mod
+  ARTPACK/rzh-cfn.asc:
+    mimetype: text/plain
+  ARTPACK/rzh-genius.asc:
+    mimetype: text/plain
+  ARTPACK/rzh-hxc.asc:
+    mimetype: text/plain
+  ARTPACK/rzh-hysteria.asc:
+    mimetype: text/plain
+  ARTPACK/rzh-mid.asc:
+    mimetype: text/plain
+  ARTPACK/rzh-oft.asc:
+    mimetype: text/plain
+  ARTPACK/rzh-rhp.asc:
+    mimetype: text/plain
+  ARTPACK/rzh-sbn.asc:
+    mimetype: text/plain
+  ARTPACK/rzh-sibv.asc:
+    mimetype: text/plain
+  ARTPACK/rzh-ts.asc:
+    mimetype: text/plain
+  ARTPACK/rzh-wus.asc:
+    mimetype: text/plain
+  ARTPACK/rzh-ww3.asc:
+    mimetype: text/plain
+  ARTPACK/s-sin_is_in.xm:
+    mimetype: audio/x-mod
+  ARTPACK/shroom.xm:
+    mimetype: audio/x-mod
+  ARTPACK/t!-da.png:
+    mimetype: image/png
+  ARTPACK/t!-goet.png:
+    mimetype: image/png
+  ARTPACK/t!-roots.png:
+    mimetype: image/png
+  ARTPACK/zlf-aos.asc:
+    mimetype: text/plain
+  ARTPACK/zlf-cs.asc:
+    mimetype: text/plain
+  ARTPACK/zlf-mvn.asc:
+    mimetype: text/plain
+  ARTPACK/zlf-ndd.asc:
+    mimetype: text/plain
+  MAG/ASCII/aylien/ayl-7OF.png:
+    mimetype: image/png
+  MAG/ASCII/aylien/ayl-APC.png:
+    mimetype: image/png
+  MAG/ASCII/aylien/ayl-BUR.png:
+    mimetype: image/png
+  MAG/ASCII/aylien/ayl-DCC.png:
+    mimetype: image/png
+  MAG/ASCII/aylien/ayl-END.png:
+    mimetype: image/png
+  MAG/ASCII/aylien/ayl-ENE.png:
+    mimetype: image/png
+  MAG/ASCII/aylien/ayl-ESB.png:
+    mimetype: image/png
+  MAG/ASCII/aylien/ayl-FBE.png:
+    mimetype: image/png
+  MAG/ASCII/aylien/ayl-FLAW.png:
+    mimetype: image/png
+  MAG/ASCII/aylien/ayl-GIGA.png:
+    mimetype: image/png
+  MAG/ASCII/aylien/ayl-HB.png:
+    mimetype: image/png
+  MAG/ASCII/aylien/ayl-HSA.png:
+    mimetype: image/png
+  MAG/ASCII/aylien/ayl-HUL.png:
+    mimetype: image/png
+  MAG/ASCII/aylien/ayl-ILL.png:
+    mimetype: image/png
+  MAG/ASCII/aylien/ayl-INF.png:
+    mimetype: image/png
+  MAG/ASCII/aylien/ayl-IPC.png:
+    mimetype: image/png
+  MAG/ASCII/aylien/ayl-LOST.png:
+    mimetype: image/png
+  MAG/ASCII/aylien/ayl-LUN.png:
+    mimetype: image/png
+  MAG/ASCII/aylien/ayl-MINT.png:
+    mimetype: image/png
+  MAG/ASCII/aylien/ayl-MP.png:
+    mimetype: image/png
+  MAG/ASCII/aylien/ayl-MUS.png:
+    mimetype: image/png
+  MAG/ASCII/aylien/ayl-OXD.png:
+    mimetype: image/png
+  MAG/ASCII/aylien/ayl-PBY.png:
+    mimetype: image/png
+  MAG/ASCII/aylien/ayl-PHM.png:
+    mimetype: image/png
+  MAG/ASCII/aylien/ayl-PRI.png:
+    mimetype: image/png
+  MAG/ASCII/aylien/ayl-RRR.png:
+    mimetype: image/png
+  MAG/ASCII/aylien/ayl-SIL.png:
+    mimetype: image/png
+  MAG/ASCII/aylien/ayl-SMO.png:
+    mimetype: image/png
+  MAG/ASCII/aylien/ayl-SUB.png:
+    mimetype: image/png
+  MAG/ASCII/aylien/ayl-SWE.png:
+    mimetype: image/png
+  MAG/ASCII/aylien/ayl-TEND.png:
+    mimetype: image/png
+  MAG/ASCII/aylien/ayl-UNIT.png:
+    mimetype: image/png
+  MAG/ASCII/aylien/ayl-W3D.png:
+    mimetype: image/png
+  MAG/ASCII/cpn/cpn-amrc.png:
+    mimetype: image/png
+  MAG/ASCII/cpn/cpn-at.png:
+    mimetype: image/png
+  MAG/ASCII/cpn/cpn-bp.png:
+    mimetype: image/png
+  MAG/ASCII/cpn/cpn-dnl.png:
+    mimetype: image/png
+  MAG/ASCII/cpn/cpn-dtrx.png:
+    mimetype: image/png
+  MAG/ASCII/cpn/cpn-dvx.png:
+    mimetype: image/png
+  MAG/ASCII/cpn/cpn-flh.png:
+    mimetype: image/png
+  MAG/ASCII/cpn/cpn-ktn.png:
+    mimetype: image/png
+  MAG/ASCII/cpn/cpn-lgc.png:
+    mimetype: image/png
+  MAG/ASCII/cpn/cpn-mx.png:
+    mimetype: image/png
+  MAG/ASCII/cpn/cpn-nb.png:
+    mimetype: image/png
+  MAG/ASCII/cpn/cpn-nn.png:
+    mimetype: image/png
+  MAG/ASCII/cpn/cpn-nwo.png:
+    mimetype: image/png
+  MAG/ASCII/cpn/cpn-orn.png:
+    mimetype: image/png
+  MAG/ASCII/cpn/cpn-pal.png:
+    mimetype: image/png
+  MAG/ASCII/cpn/cpn-pat.png:
+    mimetype: image/png
+  MAG/ASCII/cpn/cpn-pi.png:
+    mimetype: image/png
+  MAG/ASCII/cpn/cpn-pk.png:
+    mimetype: image/png
+  MAG/ASCII/cpn/cpn-pls.png:
+    mimetype: image/png
+  MAG/ASCII/cpn/cpn-pot.png:
+    mimetype: image/png
+  MAG/ASCII/cpn/cpn-ps.png:
+    mimetype: image/png
+  MAG/ASCII/cpn/cpn-pti.png:
+    mimetype: image/png
+  MAG/ASCII/cpn/cpn-s6s.png:
+    mimetype: image/png
+  MAG/ASCII/cpn/cpn-sao.png:
+    mimetype: image/png
+  MAG/ASCII/cpn/cpn-sq.png:
+    mimetype: image/png
+  MAG/ASCII/cpn/cpn-stb.png:
+    mimetype: image/png
+  MAG/ASCII/cpn/cpn-tgf.png:
+    mimetype: image/png
+  MAG/ASCII/cpn/cpn-twc.png:
+    mimetype: image/png
+  MAG/ASCII/cpn/cpn-xds.png:
+    mimetype: image/png
+  MAG/ASCII/molo/m0-aaf.png:
+    mimetype: image/png
+  MAG/ASCII/molo/m0-adc.png:
+    mimetype: image/png
+  MAG/ASCII/molo/m0-aftrb.png:
+    mimetype: image/png
+  MAG/ASCII/molo/m0-bcc.png:
+    mimetype: image/png
+  MAG/ASCII/molo/m0-bear.png:
+    mimetype: image/png
+  MAG/ASCII/molo/m0-bf.png:
+    mimetype: image/png
+  MAG/ASCII/molo/m0-bs.png:
+    mimetype: image/png
+  MAG/ASCII/molo/m0-bsa.png:
+    mimetype: image/png
+  MAG/ASCII/molo/m0-dark.png:
+    mimetype: image/png
+  MAG/ASCII/molo/m0-dini.png:
+    mimetype: image/png
+  MAG/ASCII/molo/m0-dlr.png:
+    mimetype: image/png
+  MAG/ASCII/molo/m0-emp.png:
+    mimetype: image/png
+  MAG/ASCII/molo/m0-epn.png:
+    mimetype: image/png
+  MAG/ASCII/molo/m0-fbr.png:
+    mimetype: image/png
+  MAG/ASCII/molo/m0-fnt.png:
+    mimetype: image/png
+  MAG/ASCII/molo/m0-hated.png:
+    mimetype: image/png
+  MAG/ASCII/molo/m0-hs.png:
+    mimetype: image/png
+  MAG/ASCII/molo/m0-kzt.png:
+    mimetype: image/png
+  MAG/ASCII/molo/m0-mdhs.png:
+    mimetype: image/png
+  MAG/ASCII/molo/m0-mim.png:
+    mimetype: image/png
+  MAG/ASCII/molo/m0-nfb.png:
+    mimetype: image/png
+  MAG/ASCII/molo/m0-nite.png:
+    mimetype: image/png
+  MAG/ASCII/molo/m0-pay.png:
+    mimetype: image/png
+  MAG/ASCII/molo/m0-prd.png:
+    mimetype: image/png
+  MAG/ASCII/molo/m0-pulse.png:
+    mimetype: image/png
+  MAG/ASCII/molo/m0-rH.png:
+    mimetype: image/png
+  MAG/ASCII/molo/m0-sgm.png:
+    mimetype: image/png
+  MAG/ASCII/molo/m0-sgmdz.png:
+    mimetype: image/png
+  MAG/ASCII/molo/m0-shl.png:
+    mimetype: image/png
+  MAG/ASCII/molo/m0-sith.png:
+    mimetype: image/png
+  MAG/ASCII/molo/m0-sod.png:
+    mimetype: image/png
+  MAG/ASCII/molo/m0-spice.png:
+    mimetype: image/png
+  MAG/ASCII/molo/m0-vortx.png:
+    mimetype: image/png
+  MAG/ASCII/molo/m0-xpc.png:
+    mimetype: image/png
+  MAG/ASCII/olli/OL-KAN3.png:
+    mimetype: image/png
+  MAG/ASCII/olli/ol-abr.png:
+    mimetype: image/png
+  MAG/ASCII/olli/ol-alife.png:
+    mimetype: image/png
+  MAG/ASCII/olli/ol-bierk.png:
+    mimetype: image/png
+  MAG/ASCII/olli/ol-bmi.png:
+    mimetype: image/png
+  MAG/ASCII/olli/ol-chrm.png:
+    mimetype: image/png
+  MAG/ASCII/olli/ol-corny.png:
+    mimetype: image/png
+  MAG/ASCII/olli/ol-dlr.png:
+    mimetype: image/png
+  MAG/ASCII/olli/ol-dns2.png:
+    mimetype: image/png
+  MAG/ASCII/olli/ol-ego02.png:
+    mimetype: image/png
+  MAG/ASCII/olli/ol-ente.png:
+    mimetype: image/png
+  MAG/ASCII/olli/ol-fbt.png:
+    mimetype: image/png
+  MAG/ASCII/olli/ol-freyr.png:
+    mimetype: image/png
+  MAG/ASCII/olli/ol-gntc.png:
+    mimetype: image/png
+  MAG/ASCII/olli/ol-kane1.png:
+    mimetype: image/png
+  MAG/ASCII/olli/ol-kane2.png:
+    mimetype: image/png
+  MAG/ASCII/olli/ol-kane3.png:
+    mimetype: image/png
+  MAG/ASCII/olli/ol-lcd.png:
+    mimetype: image/png
+  MAG/ASCII/olli/ol-lm.png:
+    mimetype: image/png
+  MAG/ASCII/olli/ol-logo1.png:
+    mimetype: image/png
+  MAG/ASCII/olli/ol-logo2.png:
+    mimetype: image/png
+  MAG/ASCII/olli/ol-lv1.png:
+    mimetype: image/png
+  MAG/ASCII/olli/ol-mgd.png:
+    mimetype: image/png
+  MAG/ASCII/olli/ol-necro.png:
+    mimetype: image/png
+  MAG/ASCII/olli/ol-nrw01.png:
+    mimetype: image/png
+  MAG/ASCII/olli/ol-o1101.png:
+    mimetype: image/png
+  MAG/ASCII/olli/ol-ocn.png:
+    mimetype: image/png
+  MAG/ASCII/olli/ol-oo.png:
+    mimetype: image/png
+  MAG/ASCII/olli/ol-rns.png:
+    mimetype: image/png
+  MAG/ASCII/olli/ol-shice.png:
+    mimetype: image/png
+  MAG/ASCII/olli/ol-sv2.png:
+    mimetype: image/png
+  MAG/ASCII/olli/ol-tgsc.png:
+    mimetype: image/png
+  MAG/ASCII/olli/ol-twh.png:
+    mimetype: image/png
+  MAG/ASCII/olli/ol-wws.png:
+    mimetype: image/png
+  MAG/ASCII/orzech/rzh-cfn.png:
+    mimetype: image/png
+  MAG/ASCII/orzech/rzh-geni.png:
+    mimetype: image/png
+  MAG/ASCII/orzech/rzh-hxc.png:
+    mimetype: image/png
+  MAG/ASCII/orzech/rzh-hyst.png:
+    mimetype: image/png
+  MAG/ASCII/orzech/rzh-mid.png:
+    mimetype: image/png
+  MAG/ASCII/orzech/rzh-oft.png:
+    mimetype: image/png
+  MAG/ASCII/orzech/rzh-rhp.png:
+    mimetype: image/png
+  MAG/ASCII/orzech/rzh-sbn.png:
+    mimetype: image/png
+  MAG/ASCII/orzech/rzh-sibv.png:
+    mimetype: image/png
+  MAG/ASCII/orzech/rzh-ts.png:
+    mimetype: image/png
+  MAG/ASCII/orzech/rzh-wus.png:
+    mimetype: image/png
+  MAG/ASCII/orzech/rzh-ww3.png:
+    mimetype: image/png
+  MAG/ASCII/zlorfik/zlf-aos.png:
+    mimetype: image/png
+  MAG/ASCII/zlorfik/zlf-cs.png:
+    mimetype: image/png
+  MAG/ASCII/zlorfik/zlf-mvn.png:
+    mimetype: image/png
+  MAG/ASCII/zlorfik/zlf-ndd.png:
+    mimetype: image/png
+  MAG/HIRES/Adamo/aD-pay.banner.jpg:
+    mimetype: image/jpeg
+  MAG/HIRES/Adamo/aD-pay.loader.jpg:
+    mimetype: image/jpeg
+  MAG/HIRES/amgits/amg-firstandlastever.jpg:
+    mimetype: image/jpeg
+  MAG/HIRES/aylien/ayl-LzO.jpg:
+    mimetype: image/jpeg
+  MAG/HIRES/aylien/ayl-ana1.jpg:
+    mimetype: image/jpeg
+  MAG/HIRES/aylien/ayl-ana2.jpg:
+    mimetype: image/jpeg
+  MAG/HIRES/aylien/ayl-graff.jpg:
+    mimetype: image/jpeg
+  MAG/HIRES/aylien/ayl-rain.jpg:
+    mimetype: image/jpeg
+  MAG/HIRES/aylien/ayl-salv.jpg:
+    mimetype: image/jpeg
+  MAG/HIRES/aylien/ayl-sigh.jpg:
+    mimetype: image/jpeg
+  MAG/HIRES/aylien/ayl-spac.jpg:
+    mimetype: image/jpeg
+  MAG/HIRES/aylien/ayl-sunset.jpg:
+    mimetype: image/jpeg
+  MAG/HIRES/aylien/ayl-town.jpg:
+    mimetype: image/jpeg
+  MAG/HIRES/fStD/fStD(color)-oRzeCH(sketch)-warmachine.jpg:
+    mimetype: image/jpeg
+  MAG/HIRES/fStD/fStD-cro_font.jpg:
+    mimetype: image/jpeg
+  MAG/HIRES/fStD/fStD-fallen_angel_cdcover.jpg:
+    mimetype: image/jpeg
+  MAG/HIRES/fStD/fStD-gamebench.png:
+    mimetype: image/png
+  MAG/HIRES/fStD/fStD-pencils.jpg:
+    mimetype: image/jpeg
+  MAG/HIRES/fStD/fStD-pencils_2.jpg:
+    mimetype: image/jpeg
+  MAG/HIRES/fStD/fStD-vme.jpg:
+    mimetype: image/jpeg
+  MAG/HIRES/olli/ol-sould.jpg:
+    mimetype: image/jpeg
+  MAG/HIRES/targon/t!-da.png:
+    mimetype: image/png
+  MAG/HIRES/targon/t!-goet.png:
+    mimetype: image/png
+  MAG/HIRES/targon/t!-roots.png:
+    mimetype: image/png
+  MAG/MUSIC/bzl/bzl-bt01.xm:
+    mimetype: audio/x-mod
+  MAG/MUSIC/bzl/bzl-bt02.xm:
+    mimetype: audio/x-mod
+  MAG/MUSIC/bzl/bzl-bt03.xm:
+    mimetype: audio/x-mod
+  MAG/MUSIC/bzl/bzl-bt04.xm:
+    mimetype: audio/x-mod
+  MAG/MUSIC/bzl/bzl-dctr.xm:
+    mimetype: audio/x-mod
+  MAG/MUSIC/bzl/bzl-dwys.xm:
+    mimetype: audio/x-mod
+  MAG/MUSIC/bzl/bzl-grnd.xm:
+    mimetype: audio/x-mod
+  MAG/MUSIC/bzl/bzl-nxtl.xm:
+    mimetype: audio/x-mod
+  MAG/MUSIC/bzl/bzl-phs7.xm:
+    mimetype: audio/x-mod
+  MAG/MUSIC/bzl/bzl-stnv.xm:
+    mimetype: audio/x-mod
+  MAG/MUSIC/bzl/bzl-wfmd.mod:
+    mimetype: audio/x-mod
+  MAG/MUSIC/ogge/bajskuk.xm:
+    mimetype: audio/x-mod
+  MAG/MUSIC/ogge/bajsollon.xm:
+    mimetype: audio/x-mod
+  MAG/MUSIC/ogge/lolita cumshots.mod:
+    mimetype: audio/x-mod
+  MAG/MUSIC/ogge/o-frosty.xm:
+    mimetype: audio/x-mod
+  MAG/MUSIC/ogge/o-ihdt.xm:
+    mimetype: audio/x-mod
+  MAG/MUSIC/ogge/ogg-JD.xm:
+    mimetype: audio/x-mod
+  MAG/MUSIC/ogge/ogg-bajsfitta.xm:
+    mimetype: audio/x-mod
+  MAG/MUSIC/ogge/ogg-bb.xm:
+    mimetype: audio/x-mod
+  MAG/MUSIC/ogge/ogg-bik.xm:
+    mimetype: audio/x-mod
+  MAG/MUSIC/ogge/ogg-compdest.xm:
+    mimetype: audio/x-mod
+  MAG/MUSIC/ogge/ogg-cumshot_lane.xm:
+    mimetype: audio/x-mod
+  MAG/MUSIC/ogge/ogg-giant_crap.xm:
+    mimetype: audio/x-mod
+  MAG/MUSIC/ogge/ogg-korv.xm:
+    mimetype: audio/x-mod
+  MAG/MUSIC/ogge/ogg-kuken.xm:
+    mimetype: audio/x-mod
+  MAG/MUSIC/ogge/ogg-samurai.xm:
+    mimetype: audio/x-mod
+  MAG/MUSIC/ogge/ogg-smegma.xm:
+    mimetype: audio/x-mod
+  MAG/MUSIC/ogge/ogg-ss.xm:
+    mimetype: audio/x-mod
+  MAG/MUSIC/ogge/ogg-vaeder.xm:
+    mimetype: audio/x-mod
+  MAG/MUSIC/ogge/ogg_dp.xm:
+    mimetype: audio/x-mod
+  MAG/MUSIC/ogge/rpseas.xm:
+    mimetype: audio/x-mod
+  MAG/MUSIC/ogge/shroom.xm:
+    mimetype: audio/x-mod
+  MAG/MUSIC/sinny/s-sin_is_in.xm:
+    mimetype: audio/x-mod
+  bass.dll:
+    mimetype: application/x-dosexec
+  creaction.png:
+    mimetype: image/png
+  file_id.diz:
+    mimetype: text/plain
+  summerpack_viewer.exe:
+    mimetype: application/x-msdos-program

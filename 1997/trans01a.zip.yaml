@@ -1,0 +1,40 @@
+name: trans01a.zip
+hash: 9919948694a60b1b33753474ff8966f7
+year: 1997
+file:
+  EU-DIST.EXE:
+    mimetype: application/x-msdos-program
+  EU-TEOR.EXE:
+    mimetype: application/x-msdos-program
+  EU-THAN.EXE:
+    mimetype: application/x-msdos-program
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  JE-CHEM.EXE:
+    mimetype: application/x-msdos-program
+  JE-CORE.GIF:
+    mimetype: image/gif
+  JE-DOMN.EXE:
+    mimetype: application/x-msdos-program
+  JE-THAN.EXE:
+    mimetype: application/x-msdos-program
+  MO-66660.ZIP:
+    mimetype: application/zip
+  MO-NUD.ZIP:
+    mimetype: application/zip
+  PS-BLUE.EXE:
+    mimetype: application/x-msdos-program
+  PS-DIST.EXE:
+    mimetype: application/x-msdos-program
+  PS-LOST.EXE:
+    mimetype: application/x-msdos-program
+  PS-TM1.JPG:
+    mimetype: image/jpeg
+  QB-GOLD.JPG:
+    mimetype: image/jpeg
+  QB-LIGHT.JPG:
+    mimetype: image/jpeg
+  QB-ORACL.JPG:
+    mimetype: image/jpeg
+  QU-LIT01.EXE:
+    mimetype: application/x-msdos-program

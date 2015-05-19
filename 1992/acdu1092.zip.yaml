@@ -1,0 +1,70 @@
+name: acdu1092.zip
+hash: 74a9b6384690c2845e22edd2ff5326db
+year: 1992
+file:
+  ACDU1092.NFO:
+    mimetype: text/plain
+  ACID-SC.ANS:
+    mimetype: text/plain
+  ACID-TR.ANS:
+    mimetype: text/plain
+  ACID92.ANS:
+    mimetype: text/plain
+  ACIDART.APL:
+    mimetype: text/plain
+  ACQACID1.ANS:
+    mimetype: text/plain
+  ACQMENUS.ANS:
+    mimetype: text/plain
+  AF1ACID.ANS:
+    mimetype: text/plain
+  AF2ACID.ANS:
+    mimetype: text/plain
+  BCACID7.ANS:
+    mimetype: text/plain
+  BNTYACID.ANS:
+    mimetype: text/plain
+  BOGACID2.ANS:
+    mimetype: text/plain
+  BOGACID3.ANS:
+    mimetype: text/plain
+  BRTRACD2.ANS:
+    mimetype: text/plain
+  DSOCACD1.ANS:
+    mimetype: text/plain
+  EVILACD1.ANS:
+    mimetype: text/plain
+  FFACID1.EXE:
+    mimetype: application/x-msdos-program
+  FFACID5.ANS:
+    mimetype: text/plain
+  FLT-ACD3.ANS:
+    mimetype: text/plain
+  HG-ACID1.EXE:
+    mimetype: application/x-msdos-program
+  KOROVA.ANS:
+    mimetype: text/plain
+  KOROVA3.ANS:
+    mimetype: text/plain
+  KOROVA4.ANS:
+    mimetype: text/plain
+  LEXICON4.ANS:
+    mimetype: text/plain
+  MERCACID.ANS:
+    mimetype: text/plain
+  PMTACID1.ANS:
+    mimetype: text/plain
+  SC-ACID3.ANS:
+    mimetype: text/plain
+  SSACID4.ANS:
+    mimetype: text/plain
+  STIMPYBS.ANS:
+    mimetype: text/plain
+  TDT1ACID.ANS:
+    mimetype: text/plain
+  TEC2ACID.ANS:
+    mimetype: text/plain
+  TPL1ACID.ANS:
+    mimetype: text/plain
+  TSH2ACD.ANS:
+    mimetype: text/plain

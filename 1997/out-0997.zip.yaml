@@ -1,0 +1,36 @@
+name: out-0997.zip
+hash: 167bccc0ce522834f32dc02296c754bc
+year: 1997
+file:
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FILEDESC.TXT:
+    mimetype: text/plain
+  FILELIST.TXT:
+    mimetype: text/plain
+  OUT-AMAG.ANS:
+    mimetype: text/plain
+  OUT-DIST.ANS:
+    mimetype: text/plain
+  OUT-DIST.RIP:
+    mimetype: image/x-rip
+  OUT-DIST.TXT:
+    mimetype: text/plain
+  OUT-HF.ANS:
+    mimetype: text/plain
+  OUT-MAGE.ANS:
+    mimetype: text/plain
+  OUT-MIND.ANS:
+    mimetype: text/plain
+  OUT-MOON.ANS:
+    mimetype: text/plain
+  OUT-REPR.ANS:
+    mimetype: text/plain
+  OUT-RWAR.ANS:
+    mimetype: text/plain
+  OUT-WEB.ZIP:
+    mimetype: application/zip
+  OUT.AD:
+    mimetype: text/plain
+  OUTWORLD.TXT:
+    mimetype: text/plain

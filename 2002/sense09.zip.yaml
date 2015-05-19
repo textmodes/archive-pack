@@ -1,0 +1,78 @@
+name: sense09.zip
+hash: 83edb7c88aee5e2ba90b0480290f2ee4
+year: 2002
+file:
+  00-TSG1.ANS:
+    mimetype: text/plain
+  00-ZRD.ANS:
+    mimetype: text/plain
+  13-ACRO1.ANS:
+    mimetype: text/plain
+  43-SNS.ANS:
+    mimetype: text/plain
+  4300-ABO.ANS:
+    mimetype: text/plain
+  4300-EOD.ANS:
+    mimetype: text/plain
+  AVG-AUTO.ANS:
+    mimetype: text/plain
+  CG-ACRO2.ANS:
+    mimetype: text/plain
+  CG-CJ2.ANS:
+    mimetype: text/plain
+  CG-EOD01.ANS:
+    mimetype: text/plain
+  CG-GLUE2.ANS:
+    mimetype: text/plain
+  CG-HYST.ANS:
+    mimetype: text/plain
+  CG-SENSE.ANS:
+    mimetype: text/plain
+  CG-TMA.ANS:
+    mimetype: text/plain
+  CG-TMA2.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  INFO.ANS:
+    mimetype: text/plain
+  KS-COL1.ANS:
+    mimetype: text/plain
+  MEMBERS.ANS:
+    mimetype: text/plain
+  NOCHACRO.ANS:
+    mimetype: text/plain
+  NS-AVG1.RIP:
+    mimetype: image/x-rip
+  NS-BLAH.ANS:
+    mimetype: text/plain
+  NS-BT.RIP:
+    mimetype: image/x-rip
+  NS-DMAUL.ANS:
+    mimetype: text/plain
+  NS-FMONK.ANS:
+    mimetype: text/plain
+  NS-MONK.BIN:
+    mimetype: application/octet-stream
+  NS-SE.RIP:
+    mimetype: image/x-rip
+  NS-SENS1.RIP:
+    mimetype: image/x-rip
+  NS-WM.RIP:
+    mimetype: image/x-rip
+  PLZ-OREO.ANS:
+    mimetype: text/plain
+  PLZ-SNS!.ANS:
+    mimetype: text/plain
+  PLZ-TIR!.ANS:
+    mimetype: text/plain
+  PO-13FUK.ANS:
+    mimetype: text/plain
+  PO-COL2.ANS:
+    mimetype: text/plain
+  S&4-ANSC.ANS:
+    mimetype: text/plain
+  US-C22.ANS:
+    mimetype: text/plain
+  US-JASP.ANS:
+    mimetype: text/plain

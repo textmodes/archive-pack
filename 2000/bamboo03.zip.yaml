@@ -1,0 +1,48 @@
+name: bamboo03.zip
+hash: e2e323b4e5182ba801268b0dc49f0a29
+year: 2000
+file:
+  BAMBOO.NFO:
+    mimetype: text/plain
+  BAMBOO03.NFO:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FONT-13-.COM:
+    mimetype: application/x-msdos-program
+  FONT-17-.COM:
+    mimetype: application/x-msdos-program
+  GAS-APP.APP:
+    mimetype: application/octet-stream
+  GAS-APP.EXE:
+    mimetype: application/x-msdos-program
+  IMP-1203.ASC:
+    mimetype: text/plain
+  IMP-ACID.ASC:
+    mimetype: text/plain
+  IMP-GAS.ASC:
+    mimetype: text/plain
+  SUB-PFC4.ASC:
+    mimetype: text/plain
+  ZL-AMIGA.ASC:
+    mimetype: text/plain
+  ZL-BMB.BIN:
+    mimetype: text/x-binary
+  ZL-DIZ08.ASC:
+    mimetype: text/plain
+  ZL-GALZA.ASC:
+    mimetype: text/plain
+  ZL-GAS01.RIP:
+    mimetype: image/x-rip
+  ZL-GAS2.ASC:
+    mimetype: text/plain
+  ZL-HUDIZ.ASC:
+    mimetype: text/plain
+  ZL-HUNFO.ASC:
+    mimetype: text/plain
+  ZL-MSHRM.ASC:
+    mimetype: text/plain
+  ZL-MYDIZ.ASC:
+    mimetype: text/plain
+  ZL-UGLY.ASC:
+    mimetype: text/plain

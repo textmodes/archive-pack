@@ -1,0 +1,10 @@
+name: cro1200.zip
+hash: 8396446b1496825e3d55185f106f4280
+year: 2000
+file:
+  creaction.nfo:
+    mimetype: text/plain
+  installer.exe:
+    mimetype: application/x-msdos-program
+  xmas sounds.zip:
+    mimetype: application/zip

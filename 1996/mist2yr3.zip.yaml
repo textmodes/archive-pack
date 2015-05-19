@@ -1,0 +1,30 @@
+name: mist2yr3.zip
+hash: d2b98731200d0b7f9270d6b33ac124b5
+year: 1996
+file:
+  !!binary +k1VU0lD+S75+vk=:
+    mimetype: text/plain
+  !!binary +lRIQU5LU/ou+fr5:
+    mimetype: text/plain
+  E-CHMIST.S3M:
+    mimetype: audio/x-mod
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FR_TENTI.S3M:
+    mimetype: audio/x-mod
+  HB-NEBLA.IT:
+    mimetype: audio/x-mod
+  JB-HELL.XM:
+    mimetype: audio/x-mod
+  ONX_THON.S3M:
+    mimetype: audio/x-mod
+  S-DBMIST.S3M:
+    mimetype: audio/x-mod
+  SYL-LEMM.S3M:
+    mimetype: audio/x-mod
+  TG-TST1.ICE:
+    mimetype: text/plain
+  ZN-SLUSH.IT:
+    mimetype: audio/x-mod
+  ZN-TRIP2.IT:
+    mimetype: audio/x-mod

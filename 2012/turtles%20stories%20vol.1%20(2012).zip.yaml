@@ -1,0 +1,14 @@
+name: turtles%20stories%20vol.1%20(2012).zip
+hash: 527cb3390443ba3c0c40006821bf1a5e
+year: 2012
+file:
+  Turtles Stories Vol. 1 [.png]/turtles1.png:
+    mimetype: image/png
+  Turtles Stories Vol. 1 [.txt]/turtles1.txt:
+    mimetype: text/plain
+  Turtles Stories Vol. 1 [xbin]/turtles1.xb:
+    mimetype: text/x-xbin
+  file_id.diz:
+    mimetype: text/plain
+  ttitle.png:
+    mimetype: image/png

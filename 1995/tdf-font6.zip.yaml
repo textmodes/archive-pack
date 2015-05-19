@@ -1,0 +1,10 @@
+name: tdf-font6.zip
+hash: 0a0eaa5155126e5b1f4c8331b8e96411
+year: 1995
+file:
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FONT6.TDF:
+    mimetype: application/octet-stream
+  NEO.COM:
+    mimetype: application/x-msdos-program

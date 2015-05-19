@@ -1,0 +1,16 @@
+name: dkb_c01.zip
+hash: 655ababb066a15af0465fd85c067d3d5
+year: 1997
+file:
+  DKB.NFO:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  MORALES.NFO:
+    mimetype: text/plain
+  SN2-C01.ASC:
+    mimetype: text/plain
+  STEELTRA.INS:
+    mimetype: application/octet-stream
+  TUT.GUT:
+    mimetype: application/octet-stream

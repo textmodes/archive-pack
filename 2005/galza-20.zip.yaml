@@ -1,0 +1,68 @@
+name: galza-20.zip
+hash: 04f0ff5b67edbba08e5aa7599de4ba06
+year: 2005
+file:
+  file_id.diz:
+    mimetype: text/plain
+  i_L^bird.gif:
+    mimetype: image/gif
+  i_L^crestfallen.gif:
+    mimetype: image/gif
+  nase-say_goodbye.gif:
+    mimetype: image/gif
+  om-omar.gif:
+    mimetype: image/gif
+  shl-666.gif:
+    mimetype: image/gif
+  shl-flgt.jpg:
+    mimetype: image/jpeg
+  shl-forbidden_dreams.gif:
+    mimetype: image/gif
+  shl-gza_ns.gif:
+    mimetype: image/gif
+  shl-gza_os.gif:
+    mimetype: image/gif
+  shl-scene_ru.gif:
+    mimetype: image/gif
+  shl-sight.gif:
+    mimetype: image/gif
+  shl-tatoo.gif:
+    mimetype: image/gif
+  shl-up.gif:
+    mimetype: image/gif
+  shl-winter.gif:
+    mimetype: image/gif
+  source/i_l^bird.asc:
+    mimetype: text/plain
+  source/i_l^crfl.asc:
+    mimetype: text/plain
+  source/ns-gb.asc:
+    mimetype: text/plain
+  source/shl-666.ans:
+    mimetype: text/plain
+  source/shl-fd.ans:
+    mimetype: text/plain
+  source/shl-gza.asc:
+    mimetype: text/plain
+  source/shl-gza.txt:
+    mimetype: text/plain
+  source/shl-scn.asc:
+    mimetype: text/plain
+  source/shl-sght.asc:
+    mimetype: text/plain
+  source/shl-tatt.ans:
+    mimetype: text/plain
+  source/shl-up.asc:
+    mimetype: text/plain
+  source/shl-wntr.asc:
+    mimetype: text/plain
+  tribute2shadow/i_L^selfdestruction.jpg:
+    mimetype: image/jpeg
+  tribute2shadow/raz-meatcoloredsky.jpg:
+    mimetype: image/jpeg
+  tribute2shadow/ske-fahnentrager.gif:
+    mimetype: image/gif
+  tribute2shadow/ske-sx08.gif:
+    mimetype: image/gif
+  tribute2shadow/ske-sx10.gif:
+    mimetype: image/gif

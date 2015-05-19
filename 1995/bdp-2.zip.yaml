@@ -1,0 +1,24 @@
+name: bdp-2.zip
+hash: b34d8b8a0f55752d664458ec2b2da796
+year: 1995
+file:
+  BDPANS.ARJ:
+    mimetype: application/x-arj
+  BDPAPP2.ARJ:
+    mimetype: application/x-arj
+  BDPLIT.ARJ:
+    mimetype: application/x-arj
+  BDPMOD.ARJ:
+    mimetype: application/x-arj
+  BDPNFO.ARJ:
+    mimetype: application/x-arj
+  BDPVGA.ARJ:
+    mimetype: application/x-arj
+  DANCEWIT.HME:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GET_DA_R.AVE:
+    mimetype: text/plain
+  SUMMONER.EXE:
+    mimetype: application/x-msdos-program

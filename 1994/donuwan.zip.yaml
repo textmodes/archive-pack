@@ -1,0 +1,10 @@
+name: donuwan.zip
+hash: 8ac74bc87dd061572d2e0953028504ff
+year: 1994
+file:
+  DONUWAN.MOD:
+    mimetype: audio/x-mod
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FUN!.COM:
+    mimetype: application/x-msdos-program

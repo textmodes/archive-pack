@@ -1,0 +1,54 @@
+name: sense12j.zip
+hash: b5051fe4dd011e1838e90d5abf11c5c7
+year: 2003
+file:
+  43-PIR2.ANS:
+    mimetype: text/plain
+  43PS-L.ANS:
+    mimetype: text/plain
+  AVG-KNO1.ANS:
+    mimetype: text/plain
+  AVG-NOKT.ANS:
+    mimetype: text/plain
+  BA-SENSE.ANS:
+    mimetype: text/plain
+  BM-KWO.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  JN-NEMO.ANS:
+    mimetype: text/plain
+  MEMBERS.ANS:
+    mimetype: text/plain
+  NEWS.ANS:
+    mimetype: text/plain
+  PPE-25.ANS:
+    mimetype: text/plain
+  PPE-252.ANS:
+    mimetype: text/plain
+  PPE-253.ANS:
+    mimetype: text/plain
+  PPE-BUMP.ANS:
+    mimetype: text/plain
+  PPE-SENS.ANS:
+    mimetype: text/plain
+  SP43-S.ANS:
+    mimetype: text/plain
+  SPH_ILE.ANS:
+    mimetype: text/plain
+  SPH_RIX.ANS:
+    mimetype: text/plain
+  SPH_SIN.ANS:
+    mimetype: text/plain
+  TR.TXT:
+    mimetype: text/plain
+  US-DUN3.ANS:
+    mimetype: text/plain
+  US-LUR1.ANS:
+    mimetype: text/plain
+  ZS-OOPS.ANS:
+    mimetype: text/plain
+  ZS-SENSE.ANS:
+    mimetype: text/plain
+  ZSBM-IS.ANS:
+    mimetype: text/plain

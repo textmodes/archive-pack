@@ -1,0 +1,40 @@
+name: k-sztuka.zip
+hash: f2d4daa8283f9d87deec3d719e0e1c6e
+year: 1999
+file:
+  01_ZXCVB.ANS:
+    mimetype: text/plain
+  02_KLEXI.ANS:
+    mimetype: text/plain
+  03_PUREF.ANS:
+    mimetype: text/plain
+  04_ICEPH.ANS:
+    mimetype: text/plain
+  05_MYCON.ANS:
+    mimetype: text/plain
+  06_POPPI.ANS:
+    mimetype: text/plain
+  07_TOWER.ANS:
+    mimetype: text/plain
+  08_ESTR1.ANS:
+    mimetype: text/plain
+  09_ACHER.ANS:
+    mimetype: text/plain
+  10_BRAIN.ANS:
+    mimetype: text/plain
+  11_WWWDZ.ANS:
+    mimetype: text/plain
+  12_Q-BIC.ANS:
+    mimetype: text/plain
+  13_GLOW1.ANS:
+    mimetype: text/plain
+  14_GLOW2.ANS:
+    mimetype: text/plain
+  15_ANSIA.ANS:
+    mimetype: text/plain
+  16_ADIOS.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GLOW.EXE:
+    mimetype: application/x-msdos-program

@@ -1,0 +1,58 @@
+name: lbo-r4.zip
+hash: 3e10c9695f1d261eaa8e701d199b405c
+year: 1994
+file:
+  0894-LBO.ANS:
+    mimetype: text/plain
+  ANSIM.EXE:
+    mimetype: application/x-msdos-program
+  BS-DAE3.ANS:
+    mimetype: text/plain
+  BS-DOH.ANS:
+    mimetype: text/plain
+  BS-HAWKM.ANS:
+    mimetype: text/plain
+  BS-HST.ANS:
+    mimetype: text/plain
+  BS-NEOT.ANS:
+    mimetype: text/plain
+  BS-OTL.ANS:
+    mimetype: text/plain
+  BS-PHUN.ANS:
+    mimetype: text/plain
+  BS-REDAL.ANS:
+    mimetype: text/plain
+  BS-SOFT!.ANS:
+    mimetype: text/plain
+  BS-STAT0.ANS:
+    mimetype: text/plain
+  BS-TRAXX.ANS:
+    mimetype: text/plain
+  BS-TRIB1.ANS:
+    mimetype: text/plain
+  BS-TRIM.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  TOP-DEVL.ANS:
+    mimetype: text/plain
+  TOP-OTL.ANS:
+    mimetype: text/plain
+  TOP-OTL2.ANS:
+    mimetype: text/plain
+  TOP-PBRE.ANS:
+    mimetype: text/plain
+  TOP-TSC.ANS:
+    mimetype: text/plain
+  WHS-DOH.ANS:
+    mimetype: text/plain
+  WHS-IMG.ANS:
+    mimetype: text/plain
+  WHS-LBO.ANS:
+    mimetype: text/plain
+  WHS-LBO2.ANS:
+    mimetype: text/plain
+  WHS-OTLF.ANS:
+    mimetype: text/plain
+  ZONE-X.EXE:
+    mimetype: application/x-msdos-program

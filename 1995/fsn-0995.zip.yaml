@@ -1,0 +1,86 @@
+name: fsn-0995.zip
+hash: b681485c3fbd29ac6c6375f412b2da7f
+year: 1995
+file:
+  CZ-BLMA.ANS:
+    mimetype: text/plain
+  CZ-CAZLO.ANS:
+    mimetype: text/plain
+  CZ-FSNLO.ASC:
+    mimetype: text/plain
+  CZ-FUS.ANS:
+    mimetype: text/plain
+  CZ-ICEAD.ANS:
+    mimetype: text/plain
+  CZ-INFER.ANS:
+    mimetype: text/plain
+  CZ-LOCKO.ANS:
+    mimetype: text/plain
+  CZ-REASO.ANS:
+    mimetype: text/plain
+  CZ-SYNLO.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FSN-APPL.TXT:
+    mimetype: text/plain
+  FSN-BBS.GIF:
+    mimetype: image/gif
+  FSN-CARD.GIF:
+    mimetype: image/gif
+  FSN-MEMB.ANS:
+    mimetype: text/plain
+  FSN-SURF.GIF:
+    mimetype: image/gif
+  FSNBOARD.ASC:
+    mimetype: text/plain
+  FUSION.WHQ:
+    mimetype: text/plain
+  IND-DIS.ANS:
+    mimetype: text/plain
+  IND-FSN.ANS:
+    mimetype: text/plain
+  IND-LOG.ANS:
+    mimetype: text/plain
+  IND-RGB.ANS:
+    mimetype: text/plain
+  IND-WHQ.ANS:
+    mimetype: text/plain
+  IZ-LIGHT.ANS:
+    mimetype: text/plain
+  IZ-LOG.ANS:
+    mimetype: text/plain
+  JOS-BOOZ.ANS:
+    mimetype: text/plain
+  JOS-DEF.ANS:
+    mimetype: text/plain
+  JOS-FSN2.ANS:
+    mimetype: text/plain
+  JOS-IN1.ANS:
+    mimetype: text/plain
+  JOS-INS.ANS:
+    mimetype: text/plain
+  JOS-MAD.ANS:
+    mimetype: text/plain
+  JOS-NO1.ANS:
+    mimetype: text/plain
+  JOS-OCT.ANS:
+    mimetype: text/plain
+  JOS-SCUM.ANS:
+    mimetype: text/plain
+  JOS-UNIT.ANS:
+    mimetype: text/plain
+  PH-FSN.ANS:
+    mimetype: text/plain
+  PH-UCC.ANS:
+    mimetype: text/plain
+  PSY-BOT.GIF:
+    mimetype: image/gif
+  PSY-CHES.GIF:
+    mimetype: image/gif
+  PSY-LOGO.GIF:
+    mimetype: image/gif
+  PSY-MAGI.GIF:
+    mimetype: image/gif
+  PSY-MEAL.GIF:
+    mimetype: image/gif

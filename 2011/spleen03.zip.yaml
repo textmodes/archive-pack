@@ -1,0 +1,14 @@
+name: spleen03.zip
+hash: 2d2a1b5a8af09f1aaa644924ebb88c55
+year: 2011
+file:
+  CL!-ASMI.ANS:
+    mimetype: text/plain
+  CL!-IPAD.BIN:
+    mimetype: application/octet-stream
+  CL!-NCLD.BIN:
+    mimetype: application/octet-stream
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  SPLEEN03.NFO:
+    mimetype: text/plain

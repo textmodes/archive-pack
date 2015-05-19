@@ -1,0 +1,52 @@
+name: mimic20.zip
+hash: 2f4c3a96526f51a0efb6cdd69ebf2bbe
+year: 2000
+file:
+  aetluv.asc:
+    mimetype: text/plain
+  aetscii.asc:
+    mimetype: text/plain
+  bjasc170.ans:
+    mimetype: text/plain
+  bjasc180.ans:
+    mimetype: text/plain
+  bjasc181.ans:
+    mimetype: text/plain
+  bjasc183.ans:
+    mimetype: text/plain
+  cd!jeffy.ans:
+    mimetype: text/plain
+  cd!m2k.ans:
+    mimetype: text/plain
+  d0-dm.asc:
+    mimetype: text/plain
+  d0-esca.asc:
+    mimetype: text/plain
+  dr-chrst.asc:
+    mimetype: text/plain
+  en-ns.ans:
+    mimetype: text/plain
+  esc-mmc.asc:
+    mimetype: text/plain
+  file_id.diz:
+    mimetype: text/plain
+  k!drake.asc:
+    mimetype: text/plain
+  k!mmc6.asc:
+    mimetype: text/plain
+  m-dnkg.txt:
+    mimetype: text/plain
+  m-en-20.txt:
+    mimetype: text/plain
+  members.ans:
+    mimetype: text/plain
+  nas-dm.asc:
+    mimetype: text/plain
+  nas-scen.asc:
+    mimetype: text/plain
+  pro-0200.ans:
+    mimetype: text/plain
+  search.txt:
+    mimetype: text/plain
+  tr-tigimm.txt:
+    mimetype: text/plain

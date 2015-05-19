@@ -1,0 +1,42 @@
+name: cia64-a.zip
+hash: 8ffd91d1d6104aa6e23915f168ca2768
+year: 1999
+file:
+  '---CIA--.---':
+    mimetype: text/plain
+  '---ETC--.---':
+    mimetype: text/plain
+  --CNTD--.---:
+    mimetype: text/plain
+  --INFO--.---:
+    mimetype: text/plain
+  0699MEMB.XB:
+    mimetype: text/x-xbin
+  0699info.cia:
+    mimetype: text/plain
+  DE-CIA.ASC:
+    mimetype: text/plain
+  DE-CMS.ASC:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  N4-EB2.CIA:
+    mimetype: text/plain
+  N4-RDIUM.CIA:
+    mimetype: text/plain
+  NA-BISH1.CIA:
+    mimetype: text/plain
+  PHO-CIA9.CIA:
+    mimetype: text/plain
+  SP-CIA4.CIA:
+    mimetype: text/plain
+  SP-SC1.CIA:
+    mimetype: text/plain
+  VIEWER--.---:
+    mimetype: text/plain
+  WIRETAP.DOC:
+    mimetype: text/plain
+  WIRETAP.EXE:
+    mimetype: application/x-msdos-program
+  us-crisp.cia:
+    mimetype: text/plain

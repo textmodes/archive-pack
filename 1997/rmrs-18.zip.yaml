@@ -1,0 +1,96 @@
+name: rmrs-18.zip
+hash: a60586e075ef8702c88ff932a2d0db65
+year: 1997
+file:
+  2N-SON.ASC:
+    mimetype: text/plain
+  2N-VIN.ASC:
+    mimetype: text/plain
+  9L-HZRD.ASC:
+    mimetype: text/plain
+  ACK-81.ASC:
+    mimetype: text/plain
+  AXB-REEC.ASC:
+    mimetype: text/plain
+  BJ-ASC95.ANS:
+    mimetype: text/plain
+  BY-DMENT.ASC:
+    mimetype: text/plain
+  C4-CAIN.ASC:
+    mimetype: text/plain
+  C4-FALL.ASC:
+    mimetype: text/plain
+  C4-SPINS.ASC:
+    mimetype: text/plain
+  C4-TYRN.ASC:
+    mimetype: text/plain
+  CM-R81.ASC:
+    mimetype: text/plain
+  DEF-SPF1.ASC:
+    mimetype: text/plain
+  DEF-SPF2.ASC:
+    mimetype: text/plain
+  DEF-TOIL.ASC:
+    mimetype: text/plain
+  DS-COLY3.ASC:
+    mimetype: text/plain
+  DS-DRM1.ASC:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FR-ENM.ASC:
+    mimetype: text/plain
+  FR-PIC.ASC:
+    mimetype: text/plain
+  HP-BAND1.TXT:
+    mimetype: text/plain
+  NM-RMRS.ASC:
+    mimetype: text/plain
+  NM-SUB.ASC:
+    mimetype: text/plain
+  NN-ACID.ASC:
+    mimetype: text/plain
+  NN-ELE.ASC:
+    mimetype: text/plain
+  NN-RMRS.ANS:
+    mimetype: text/plain
+  OM-BB.ASC:
+    mimetype: text/plain
+  OM-OSO.ASC:
+    mimetype: text/plain
+  OM-RMRS.ASC:
+    mimetype: text/plain
+  PAR-ELD.ANS:
+    mimetype: text/plain
+  R-LIBERT.TXT:
+    mimetype: text/plain
+  R-MNFGT.TXT:
+    mimetype: text/plain
+  R3V-PIT2.ASC:
+    mimetype: text/plain
+  R3V-RMRS.ASC:
+    mimetype: text/plain
+  REMORSE.NFO:
+    mimetype: text/plain
+  RV.CFG:
+    mimetype: text/plain
+  RV.EXE:
+    mimetype: application/x-msdos-program
+  S1-1981.ASC:
+    mimetype: text/plain
+  S1-RMRS.ASC:
+    mimetype: text/plain
+  SP-DPS.ANS:
+    mimetype: text/plain
+  SP-WCSIG.ASC:
+    mimetype: text/plain
+  TUM-ACID.ASC:
+    mimetype: text/plain
+  TUM-CCI.ASC:
+    mimetype: text/plain
+  TUM-DRON.ANS:
+    mimetype: text/plain
+  US-ALIEN.ASC:
+    mimetype: text/plain
+  VOL-RMRS.ASC:
+    mimetype: text/plain

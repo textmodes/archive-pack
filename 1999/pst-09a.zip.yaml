@@ -1,0 +1,44 @@
+name: pst-09a.zip
+hash: e33424e0b95ed6c7f11675d970cded5a
+year: 1999
+file:
+  -ART-:
+    mimetype: text/plain
+  -CRAP-:
+    mimetype: text/plain
+  -INFO-:
+    mimetype: text/plain
+  0599NEWS.PLY:
+    mimetype: text/plain
+  0599SQD.PLY:
+    mimetype: text/plain
+  FAT-PST9.RIP:
+    mimetype: image/x-rip
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  IG-MEN.ANS:
+    mimetype: text/plain
+  IG-TOKYO.ANS:
+    mimetype: text/plain
+  KRL-BORG.ANS:
+    mimetype: text/plain
+  POLYVIEW.EXE:
+    mimetype: application/x-msdos-program
+  RP-BORG.ANS:
+    mimetype: text/plain
+  RP-SE7N1.ANS:
+    mimetype: text/plain
+  SP-CLY1.ANS:
+    mimetype: text/plain
+  US-BORG.ANS:
+    mimetype: text/plain
+  US-MIDN.ANS:
+    mimetype: text/plain
+  US-NUDE.ANS:
+    mimetype: text/plain
+  WE-DONTC.ARE:
+    mimetype: text/plain
+  ZS-ESC.ANS:
+    mimetype: text/plain
+  ZV-BORG.ANS:
+    mimetype: text/plain

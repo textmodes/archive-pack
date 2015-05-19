@@ -1,0 +1,76 @@
+name: pls-0795.zip
+hash: fb147f3d0aaddb0ff7a0df6bc5872797
+year: 1995
+file:
+  --ANSI--.---:
+    mimetype: application/octet-stream
+  --ASCII-.---:
+    mimetype: application/octet-stream
+  --INFO--.---:
+    mimetype: application/octet-stream
+  --JUNK--.---:
+    mimetype: application/octet-stream
+  --LIT---.---:
+    mimetype: application/octet-stream
+  --ZIPS--.---:
+    mimetype: application/octet-stream
+  -PLS0795.MEM:
+    mimetype: text/plain
+  -PLS0795.NFO:
+    mimetype: text/plain
+  CS-COMP.ASC:
+    mimetype: text/plain
+  CS-HVN1.ASC:
+    mimetype: text/plain
+  CS-NR.ASC:
+    mimetype: text/plain
+  CS-TFK.LIT:
+    mimetype: text/plain
+  CS-VOS1.ASC:
+    mimetype: text/plain
+  EE-DOUT3.LIT:
+    mimetype: text/plain
+  EE-EE.ASC:
+    mimetype: text/plain
+  EE-EEAS.ASC:
+    mimetype: text/plain
+  EE-FM.ASC:
+    mimetype: text/plain
+  EE-MASK.ASC:
+    mimetype: text/plain
+  EE-NSENS.LIT:
+    mimetype: text/plain
+  EE-RERUN.LIT:
+    mimetype: text/plain
+  EE-WYRM.ASC:
+    mimetype: text/plain
+  EX-DIST.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FR-FATAR.ASC:
+    mimetype: text/plain
+  FR-PLS.ASC:
+    mimetype: text/plain
+  HD-TCS1.EXE:
+    mimetype: application/x-msdos-program
+  MJ-2TC.ANS:
+    mimetype: text/plain
+  MJ-HALO.ANS:
+    mimetype: text/plain
+  MJ-HLX.ANS:
+    mimetype: text/plain
+  MJ-MAYO.ANS:
+    mimetype: text/plain
+  MJ-MR2.ANS:
+    mimetype: text/plain
+  MJ-OBV_2.ZIP:
+    mimetype: application/zip
+  MJ-PAN.ANS:
+    mimetype: text/plain
+  MJ-PLS1.ANS:
+    mimetype: text/plain
+  MJ-PLS2.ANS:
+    mimetype: text/plain
+  PLS-APP.ZIP:
+    mimetype: application/zip

@@ -1,0 +1,34 @@
+name: jtxa-05.zip
+hash: facab72b1c3b74afd248b6e4bef6128e
+year: 2002
+file:
+  CRS-000.ANS:
+    mimetype: text/plain
+  CRS-3D.ASC:
+    mimetype: text/plain
+  CRS-BLK.ANS:
+    mimetype: text/plain
+  CRS-FRG.ANS:
+    mimetype: text/plain
+  CRS-JULY.ANS:
+    mimetype: text/plain
+  CRS-MEJ.ANS:
+    mimetype: text/plain
+  CRS-QUE.ANS:
+    mimetype: text/plain
+  CRS-TSI.ANS:
+    mimetype: text/plain
+  CRS-TSI.ASC:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  JUST-X.NFO:
+    mimetype: text/plain
+  SRB^KIF.ANS:
+    mimetype: text/plain
+  XK!CIF.ANS:
+    mimetype: text/plain
+  XK!KEPI.ANS:
+    mimetype: text/plain
+  XR-OLGA.ASC:
+    mimetype: text/plain

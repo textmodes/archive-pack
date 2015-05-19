@@ -1,0 +1,64 @@
+name: dtd02.zip
+hash: 510a6d755fe0865b75db4a0209fe3c00
+year: 1997
+file:
+  !!binary LS0t/0FOU0kuLS0t:
+    mimetype: text/plain
+  !!binary LS0t/0NISVAuLS0t:
+    mimetype: text/plain
+  !!binary LS0t/1NISVQuLS0t:
+    mimetype: text/plain
+  !!binary LS3/QVNDSUkuLS0t:
+    mimetype: text/plain
+  !!binary LS3/T1RIRVIuLS0t:
+    mimetype: text/plain
+  DTD-APP.ASC:
+    mimetype: text/plain
+  DTD-LOGO.JPG:
+    mimetype: image/jpeg
+  DTD-NFO.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GL-BLACK.ANS:
+    mimetype: text/plain
+  GL-CABAL.ANS:
+    mimetype: text/plain
+  GL-DTD.ANS:
+    mimetype: text/plain
+  GL-MDVL.XM:
+    mimetype: audio/x-mod
+  GL-NYMPH.ANS:
+    mimetype: text/plain
+  GL-SRND.XM:
+    mimetype: audio/x-mod
+  GL-UPHLD.ANS:
+    mimetype: text/plain
+  LINUX.DOC:
+    mimetype: text/plain
+  POS-ANTI.ANS:
+    mimetype: text/plain
+  POS-ARMA.ASC:
+    mimetype: text/plain
+  POS-ATL.ANS:
+    mimetype: text/plain
+  POS-DELI.ANS:
+    mimetype: text/plain
+  POS-DIZC.ASC:
+    mimetype: text/plain
+  POS-DRAG.ANS:
+    mimetype: text/plain
+  POS-DRM1.ANS:
+    mimetype: text/plain
+  POS-DRM2.ASC:
+    mimetype: text/plain
+  POS-DTD.ASC:
+    mimetype: text/plain
+  POS-KIT4.ANS:
+    mimetype: text/plain
+  POS-PAGE.ANS:
+    mimetype: text/plain
+  POS-SMAL.ASC:
+    mimetype: text/plain
+  TU_ITR48.MOD:
+    mimetype: audio/x-mod

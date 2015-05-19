@@ -1,0 +1,62 @@
+name: acdu0195.zip
+hash: d16c99ff01dab9b6f37c53357c93d304
+year: 1995
+file:
+  ACDU0195.NFO:
+    mimetype: text/plain
+  ACID1294.ANS:
+    mimetype: text/plain
+  ACIDAPP.EXE:
+    mimetype: application/x-msdos-program
+  ACIDVIEW.CFG:
+    mimetype: text/plain
+  ACIDVIEW.EXE:
+    mimetype: application/x-msdos-program
+  ACIDVIEW.NFO:
+    mimetype: text/plain
+  AK-TDI.ANS:
+    mimetype: text/plain
+  AN-SEX1.RIP:
+    mimetype: image/x-rip
+  BD-LOKI.RIP:
+    mimetype: image/x-rip
+  BK-DOI.ANS:
+    mimetype: text/plain
+  BM-SE.RIP:
+    mimetype: image/x-rip
+  CE-ACD95.ANS:
+    mimetype: text/plain
+  CS-BADL1.GIF:
+    mimetype: image/gif
+  CS-TOAST.GIF:
+    mimetype: image/gif
+  CS-WNDRL.GIF:
+    mimetype: image/gif
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  P1-CC1.ANS:
+    mimetype: text/plain
+  SB-AGORA.ANS:
+    mimetype: text/plain
+  SI-BSUN1.ANS:
+    mimetype: text/plain
+  SI-TT1.ANS:
+    mimetype: text/plain
+  SM-CC1.RIP:
+    mimetype: image/x-rip
+  SS-DUNG2.RIP:
+    mimetype: image/x-rip
+  SS-GRAV4.GIF:
+    mimetype: image/gif
+  SS-LCH1.RIP:
+    mimetype: image/x-rip
+  SS-TF2.RIP:
+    mimetype: image/x-rip
+  SS-TR1.RIP:
+    mimetype: image/x-rip
+  STC-COM.ANS:
+    mimetype: text/plain
+  STC-DF.ANS:
+    mimetype: text/plain
+  STC-TF.ANS:
+    mimetype: text/plain

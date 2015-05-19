@@ -1,0 +1,38 @@
+name: out-1096.zip
+hash: 8fa66ecde0f788cacb89f372cc5de723
+year: 1996
+file:
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  OA-CSHIP.ANS:
+    mimetype: text/plain
+  OA-FACE.RIP:
+    mimetype: image/x-rip
+  OA-HOME.RIP:
+    mimetype: image/x-rip
+  OA-JACK.RIP:
+    mimetype: image/x-rip
+  OA-LITE5.ANS:
+    mimetype: text/plain
+  OA-LITE5.RIP:
+    mimetype: image/x-rip
+  OA-MERMA.RIP:
+    mimetype: image/x-rip
+  OA-REAPR.ANS:
+    mimetype: text/plain
+  OA-RIP.RIP:
+    mimetype: image/x-rip
+  OA-SWRDZ.ANS:
+    mimetype: text/plain
+  OA-TOL.ANS:
+    mimetype: text/plain
+  OA-WITCH.ANS:
+    mimetype: text/plain
+  OUT-DIST.ANS:
+    mimetype: text/plain
+  OUT-DIST.RIP:
+    mimetype: image/x-rip
+  OUT-DIST.TXT:
+    mimetype: text/plain
+  OUT.AD:
+    mimetype: text/plain

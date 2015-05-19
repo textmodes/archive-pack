@@ -1,0 +1,54 @@
+name: sf06.zip
+hash: 97b4bd12fb80c826c6dc1b895d86254d
+year: 2003
+file:
+  HI-REZ/leap - eye of darkness.png:
+    mimetype: image/png
+  HI-REZ/leap - firestarter.png:
+    mimetype: image/png
+  INFO/NFO.PNG:
+    mimetype: image/png
+  INFO/members.txt:
+    mimetype: text/plain
+  INFO/thnx.txt:
+    mimetype: text/plain
+  INTRO/leap - fire.exe:
+    mimetype: application/x-msdos-program
+  LITZ/leap - n1.txt:
+    mimetype: text/plain
+  LITZ/leap - n2.txt:
+    mimetype: text/plain
+  LITZ/leap - n3.txt:
+    mimetype: text/plain
+  LITZ/leap - n4.txt:
+    mimetype: text/plain
+  LITZ/leap - n5.txt:
+    mimetype: text/plain
+  LITZ/michael yudkovich - refuse bin.txt:
+    mimetype: text/plain
+  LO-REZ/gauss - deep.asc:
+    mimetype: text/plain
+  LO-REZ/gauss - smnlf.asc:
+    mimetype: text/plain
+  LO-REZ/leap - chaos.png:
+    mimetype: image/png
+  LO-REZ/leap - crag.ans:
+    mimetype: text/plain
+  LO-REZ/leap - earth.png:
+    mimetype: image/png
+  LO-REZ/leap - warm wind.png:
+    mimetype: image/png
+  bass.dll:
+    mimetype: application/x-dosexec
+  file_id.diz:
+    mimetype: text/plain
+  sf6.exe:
+    mimetype: application/x-msdos-program
+  sf6.filelist:
+    mimetype: text/plain
+  sf6.mo3:
+    mimetype: application/octet-stream
+  sf6.png:
+    mimetype: image/png
+  'somnolent flower #06.nfo':
+    mimetype: text/plain

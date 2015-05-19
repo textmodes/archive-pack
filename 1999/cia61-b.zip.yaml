@@ -1,0 +1,98 @@
+name: cia61-b.zip
+hash: 191515182621179dad9e14798a481098
+year: 1999
+file:
+  -ASCII-:
+    mimetype: text/plain
+  -GUEST-:
+    mimetype: text/plain
+  -INFO-:
+    mimetype: text/plain
+  CD!DG.ANS:
+    mimetype: text/plain
+  CD!DG2.ANS:
+    mimetype: text/plain
+  CD!DT.ANS:
+    mimetype: text/plain
+  CD!EB.ANS:
+    mimetype: text/plain
+  CD!GUTA.ANS:
+    mimetype: text/plain
+  CD!HR.ANS:
+    mimetype: text/plain
+  CD!HZPGE.ANS:
+    mimetype: text/plain
+  CD!ILL.ASC:
+    mimetype: text/plain
+  CD!MIM.ANS:
+    mimetype: text/plain
+  CD!PWR2.ANS:
+    mimetype: text/plain
+  DRM-HAZM.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  G1-CIA.ASC:
+    mimetype: text/plain
+  HAZMAT05.NFO:
+    mimetype: text/plain
+  JD-DS.ASC:
+    mimetype: text/plain
+  JP-COL16.ASC:
+    mimetype: text/plain
+  MB-BHC.ASC:
+    mimetype: text/plain
+  MB-CHRL.ASC:
+    mimetype: text/plain
+  MB-ERTH.ASC:
+    mimetype: text/plain
+  MB-HAZ.ASC:
+    mimetype: text/plain
+  MB-HOM.ASC:
+    mimetype: text/plain
+  MB-PW.ASC:
+    mimetype: text/plain
+  MB-TONE.ASC:
+    mimetype: text/plain
+  MID-DIL0.ASC:
+    mimetype: text/plain
+  MID-NEUR.ASC:
+    mimetype: text/plain
+  MIN-IDLE.ASC:
+    mimetype: text/plain
+  MIN-SCRL.ASC:
+    mimetype: text/plain
+  POWERR~1.EXE:
+    mimetype: application/x-msdos-program
+  RET-MMC.ANS:
+    mimetype: text/plain
+  RET-RA4.ASC:
+    mimetype: text/plain
+  TB-HAZMA.ANS:
+    mimetype: text/plain
+  TB-NNITE.RMX:
+    mimetype: text/plain
+  TS-1981.ASC:
+    mimetype: text/plain
+  TS-CHAM.ASC:
+    mimetype: text/plain
+  TS-KRYLO.ASC:
+    mimetype: text/plain
+  TS-M1M.ASC:
+    mimetype: text/plain
+  TS-MAKA.ASC:
+    mimetype: text/plain
+  TS-MIMIC.ASC:
+    mimetype: text/plain
+  TS-O9.ASC:
+    mimetype: text/plain
+  TS-PABLO.ASC:
+    mimetype: text/plain
+  TS-SIREN.ASC:
+    mimetype: text/plain
+  US!GUM.ANS:
+    mimetype: text/plain
+  US-ESE!.ASC:
+    mimetype: text/plain
+  VOL-HAZ.ASC:
+    mimetype: text/plain

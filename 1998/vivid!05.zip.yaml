@@ -1,0 +1,46 @@
+name: vivid!05.zip
+hash: 5172552ec5a84f191f2ca43d3eecb154
+year: 1998
+file:
+  BOB1.ZIP:
+    mimetype: application/zip
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FX-SP1.ASC:
+    mimetype: text/plain
+  JB-VIV.JPG:
+    mimetype: image/jpeg
+  LS-ANG.ANS:
+    mimetype: text/plain
+  LS-CPT1.ANS:
+    mimetype: text/plain
+  LS-DB1.ANS:
+    mimetype: text/plain
+  LS-DIG4.ANS:
+    mimetype: text/plain
+  LS-EYES.GIF:
+    mimetype: image/gif
+  LS-KILO.ANS:
+    mimetype: text/plain
+  LS-MAS6.ANS:
+    mimetype: text/plain
+  LS-ZG1.ANS:
+    mimetype: text/plain
+  MEMBER.LST:
+    mimetype: text/plain
+  MOL-SALT.ANS:
+    mimetype: text/plain
+  P1-HG.ANS:
+    mimetype: text/plain
+  P1-KILO.ANS:
+    mimetype: text/plain
+  P1-KILO2.ANS:
+    mimetype: text/plain
+  P1-ME.TXT:
+    mimetype: text/plain
+  VIVID!05.NFO:
+    mimetype: text/plain
+  VIVID.NFO:
+    mimetype: text/plain
+  WINAPP.EXE:
+    mimetype: application/x-msdos-program

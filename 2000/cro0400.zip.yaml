@@ -1,0 +1,242 @@
+name: cro0400.zip
+hash: 47109056a7cc329cf2ee9c877823e5e1
+year: 2000
+file:
+  ascii/ANSI/DNTPH2A.ANS:
+    mimetype: text/plain
+  ascii/ANSI/RAD001.ANS:
+    mimetype: text/plain
+  ascii/ANSI/RAD002.ANS:
+    mimetype: text/plain
+  ascii/ANSI/RAD003.ANS:
+    mimetype: text/plain
+  ascii/ANSI/RAD005.ANS:
+    mimetype: text/plain
+  ascii/BLITZ.DIZ:
+    mimetype: text/plain
+  ascii/CR-COS.ASC:
+    mimetype: text/plain
+  ascii/CR-DS9.ASC:
+    mimetype: text/plain
+  ascii/CR-PC.NFO:
+    mimetype: text/plain
+  ascii/CR-ROC.NFO:
+    mimetype: text/plain
+  ascii/CR-TTF.ASC:
+    mimetype: text/plain
+  ascii/CR-VOID.ASC:
+    mimetype: text/plain
+  ascii/DNARS2.ASC:
+    mimetype: text/plain
+  ascii/DNARS3.ASC:
+    mimetype: text/plain
+  ascii/DNDOS1.ASC:
+    mimetype: text/plain
+  ascii/DNE1.ASC:
+    mimetype: text/plain
+  ascii/DNGL1.ASC:
+    mimetype: text/plain
+  ascii/DNPD1.ASC:
+    mimetype: text/plain
+  ascii/DNPP4.ASC:
+    mimetype: text/plain
+  ascii/DNTPH2.ASC:
+    mimetype: text/plain
+  ascii/DNVKG2.ASC:
+    mimetype: text/plain
+  ascii/RAD004.ASC:
+    mimetype: text/plain
+  ascii/RAD006.ASC:
+    mimetype: text/plain
+  ascii/SOC-BLTZ.DIZ:
+    mimetype: text/plain
+  ascii/SOC-COTG.NFO:
+    mimetype: text/plain
+  ascii/SOC-DHQ.NFO:
+    mimetype: text/plain
+  ascii/SOC-FRST.NFO:
+    mimetype: text/plain
+  ascii/SOC-ISON.NFO:
+    mimetype: text/plain
+  ascii/SOC-SNPS.DIZ:
+    mimetype: text/plain
+  ascii/SOC-SNPS.NFO:
+    mimetype: text/plain
+  ascii/SRT-BLE.NFO:
+    mimetype: text/plain
+  ascii/SRT-BS2.NFO:
+    mimetype: text/plain
+  ascii/SRT-CON.NFO:
+    mimetype: text/plain
+  ascii/SRT-DS9.OLD:
+    mimetype: application/octet-stream
+  ascii/SRT-FBW.NFO:
+    mimetype: text/plain
+  ascii/SRT-GLO.NFO:
+    mimetype: text/plain
+  ascii/SRT-NW.WEL:
+    mimetype: application/octet-stream
+  ascii/SRT-PNH.NFO:
+    mimetype: text/plain
+  ascii/SRT-REVM.NFO:
+    mimetype: text/plain
+  ascii/SRT-SDM.NFO:
+    mimetype: text/plain
+  ascii/SRT-SER.NFO:
+    mimetype: text/plain
+  ascii/SRT-SOC.NFO:
+    mimetype: text/plain
+  ascii/SRT-SRC.DIZ:
+    mimetype: text/plain
+  ascii/SRT-THD.NFO:
+    mimetype: text/plain
+  ascii/TRG!CRO.NFO:
+    mimetype: text/plain
+  ascii/ZNT-GEN1.ASC:
+    mimetype: text/plain
+  ascii/ZNT-GEN2.ASC:
+    mimetype: text/plain
+  ascii/ZNT-GEN3.ASC:
+    mimetype: text/plain
+  ascii/ZNT-JOYR.ASC:
+    mimetype: text/plain
+  ascii/ZNT-KNID.ASC:
+    mimetype: text/plain
+  ascii/ZNT-NSD.ASC:
+    mimetype: text/plain
+  ascii/ZNT-RSCI.ASC:
+    mimetype: text/plain
+  ascii/ZNT-STYL.ASC:
+    mimetype: text/plain
+  ascii/ZNT-VKNG.ASC:
+    mimetype: text/plain
+  ascii/ZNT-XTC.ASC:
+    mimetype: text/plain
+  chiptunes/BLIND.XM:
+    mimetype: audio/x-mod
+  chiptunes/CIRCLE.XM:
+    mimetype: audio/x-mod
+  chiptunes/DFEEL.XM:
+    mimetype: audio/x-mod
+  chiptunes/DRUG.XM:
+    mimetype: audio/x-mod
+  chiptunes/MTC018.XM:
+    mimetype: audio/x-mod
+  chiptunes/MTC019.XM:
+    mimetype: audio/x-mod
+  chiptunes/MTC020.XM:
+    mimetype: audio/x-mod
+  chiptunes/PD-CITW.XM:
+    mimetype: audio/x-mod
+  chiptunes/PD-DAE.XM:
+    mimetype: audio/x-mod
+  chiptunes/PD-EN.XM:
+    mimetype: audio/x-mod
+  chiptunes/PD-GOLD.XM:
+    mimetype: audio/x-mod
+  chiptunes/PD-LOFC.XM:
+    mimetype: audio/x-mod
+  chiptunes/PD-LTTE.XM:
+    mimetype: audio/x-mod
+  chiptunes/PD-PMS.XM:
+    mimetype: audio/x-mod
+  chiptunes/PD-ZERO.XM:
+    mimetype: audio/x-mod
+  chiptunes/PDH020.XM:
+    mimetype: audio/x-mod
+  chiptunes/PDH023.XM:
+    mimetype: audio/x-mod
+  chiptunes/PDH024.XM:
+    mimetype: audio/x-mod
+  chiptunes/PDH025.XM:
+    mimetype: audio/x-mod
+  chiptunes/PDH027.XM:
+    mimetype: audio/x-mod
+  chiptunes/PDH028.XM:
+    mimetype: audio/x-mod
+  chiptunes/SDAYS.MOD:
+    mimetype: audio/x-mod
+  creaction.nfo:
+    mimetype: text/plain
+  file_id.diz:
+    mimetype: text/plain
+  hirez/ARTSOCIE.JPG:
+    mimetype: image/jpeg
+  hirez/CHAOTIC.JPG:
+    mimetype: image/jpeg
+  hirez/CLUBMIX7.JPG:
+    mimetype: image/jpeg
+  hirez/CLUBMIX8.JPG:
+    mimetype: image/jpeg
+  hirez/DJAX-LA.JPG:
+    mimetype: image/jpeg
+  hirez/DJAXBACK.JPG:
+    mimetype: image/jpeg
+  hirez/EX-MEM02.JPG:
+    mimetype: image/jpeg
+  hirez/GLOSS.JPG:
+    mimetype: image/jpeg
+  hirez/INF004.JPG:
+    mimetype: image/jpeg
+  hirez/LIQ-CHAO.BMP:
+    mimetype: image/x-ms-bmp
+  hirez/LIQ-CRO.JPG:
+    mimetype: image/jpeg
+  hirez/LIQ-ODDI.BMP:
+    mimetype: image/x-ms-bmp
+  hirez/MASN-BE.HPG:
+    mimetype: image/jpeg
+  hirez/MASN-CH.JPG:
+    mimetype: image/jpeg
+  hirez/MASN-CR.JPG:
+    mimetype: image/jpeg
+  hirez/MASN-CR2.JPG:
+    mimetype: image/jpeg
+  hirez/MASN-OD.JPG:
+    mimetype: image/jpeg
+  hirez/MASN-ODD.JPG:
+    mimetype: image/jpeg
+  hirez/MASN-PA.JPG:
+    mimetype: image/jpeg
+  hirez/MER004.GIF:
+    mimetype: image/gif
+  hirez/MO01.JPG:
+    mimetype: image/jpeg
+  hirez/MO02.JPG:
+    mimetype: image/jpeg
+  hirez/MO03.JPG:
+    mimetype: image/jpeg
+  hirez/SHOCK-KE.JPG:
+    mimetype: image/jpeg
+  hirez/SOC-CIAJ.JPG:
+    mimetype: image/jpeg
+  hirez/SOC-CROG.JPG:
+    mimetype: image/jpeg
+  hirez/SOC-DSIN.JPG:
+    mimetype: image/jpeg
+  hirez/SOC-ECLG.JPG:
+    mimetype: image/jpeg
+  hirez/SOC-PDMF.JPG:
+    mimetype: image/jpeg
+  hirez/SOC-PDMS.JPG:
+    mimetype: image/jpeg
+  hirez/SOC-RSCS.JPG:
+    mimetype: image/jpeg
+  hirez/SOC-SCBU.JPG:
+    mimetype: image/jpeg
+  hirez/SOC-SHKI.JPG:
+    mimetype: image/jpeg
+  hirez/SOC-SPIT.GIF:
+    mimetype: image/gif
+  hirez/SOCIETY.JPG:
+    mimetype: image/jpeg
+  hirez/T!BK.GIF:
+    mimetype: image/gif
+  hirez/T!FABLE.GIF:
+    mimetype: image/gif
+  hirez/T!INTEN.BMP:
+    mimetype: image/x-ms-bmp
+  hirez/T!RADWAR.GIF:
+    mimetype: image/gif
+  hirez/aae.jpg:
+    mimetype: image/jpeg

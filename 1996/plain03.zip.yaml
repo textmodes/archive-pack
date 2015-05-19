@@ -1,0 +1,106 @@
+name: plain03.zip
+hash: 31a70334197c8a97fc4aee6c2fd53738
+year: 1996
+file:
+  -ANSI---.---:
+    mimetype: text/plain
+  -ASCII--.---:
+    mimetype: text/plain
+  -BIN----.---:
+    mimetype: text/plain
+  -EXTRA--.---:
+    mimetype: text/plain
+  -INFO---.---:
+    mimetype: text/plain
+  -YOURS--.---:
+    mimetype: text/plain
+  -ZIP----.---:
+    mimetype: text/plain
+  AG7701.BIN:
+    mimetype: application/octet-stream
+  ANSI01.77:
+    mimetype: text/plain
+  ANSI01.CA:
+    mimetype: text/plain
+  ANSI01.EP:
+    mimetype: text/plain
+  ANSI01.PX:
+    mimetype: text/plain
+  ANSI02.77:
+    mimetype: text/plain
+  ANSI02.TE:
+    mimetype: text/plain
+  ANSI03.77:
+    mimetype: text/plain
+  ANSI03.HEX:
+    mimetype: text/plain
+  ANSI03.TE:
+    mimetype: text/plain
+  ANSI04.77:
+    mimetype: text/plain
+  ANSI05.AD:
+    mimetype: text/plain
+  ANSI05.EG:
+    mimetype: text/plain
+  ANSI06.AD:
+    mimetype: text/plain
+  ANSI06.EG:
+    mimetype: text/plain
+  ASKI01.AD:
+    mimetype: text/plain
+  ASKI01.EMP:
+    mimetype: text/plain
+  ASKI01.NR:
+    mimetype: text/plain
+  ASKI02.EMP:
+    mimetype: text/plain
+  ASKI03.EMP:
+    mimetype: text/plain
+  ASKI04.EMP:
+    mimetype: text/plain
+  ASKI04.RM:
+    mimetype: audio/x-pn-realaudio
+  ASKI05.EMP:
+    mimetype: text/plain
+  ASKI05.RM:
+    mimetype: audio/x-pn-realaudio
+  ASKI06.EMP:
+    mimetype: text/plain
+  ASKI06.RM:
+    mimetype: audio/x-pn-realaudio
+  ASKI07.EMP:
+    mimetype: text/plain
+  ASKI08.EMP:
+    mimetype: text/plain
+  ASKI09.EMP:
+    mimetype: text/plain
+  COLI01.WO:
+    mimetype: text/plain
+  COLI02.AD:
+    mimetype: text/plain
+  COLI03.AD:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  INFO.01:
+    mimetype: text/plain
+  INFO.02:
+    mimetype: text/plain
+  LOGO01.77:
+    mimetype: text/plain
+  LOGO01.FS:
+    mimetype: text/plain
+  LOGO01.S3:
+    mimetype: text/plain
+  LOGO02.77:
+    mimetype: text/plain
+  LOGO03.77:
+    mimetype: text/plain
+  ONE-LINE.ZIP:
+    mimetype: application/zip
+  PLAINAPP.EXE:
+    mimetype: application/x-msdos-program
+  PLASTIC.EXE:
+    mimetype: application/x-msdos-program
+  STAV.02:
+    mimetype: text/plain

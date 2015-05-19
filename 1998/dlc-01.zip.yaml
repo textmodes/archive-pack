@@ -1,0 +1,80 @@
+name: dlc-01.zip
+hash: 76e139c7dbfa9df7023d36fa570b3e29
+year: 1998
+file:
+  ART-01.NFO:
+    mimetype: text/plain
+  DLC.NFO:
+    mimetype: text/plain
+  DLC.REG:
+    mimetype: application/octet-stream
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  HA-BPG.ASC:
+    mimetype: text/plain
+  HA-BPRJ.ASC:
+    mimetype: text/plain
+  HA-CHEES.ASC:
+    mimetype: text/plain
+  HA-DDIZ.ASC:
+    mimetype: text/plain
+  HA-DLC.ASC:
+    mimetype: text/plain
+  HA-LN5.ASC:
+    mimetype: text/plain
+  HA-MW.ASC:
+    mimetype: text/plain
+  HA-ROSE.ASC:
+    mimetype: text/plain
+  HA-VMS3.ASC:
+    mimetype: text/plain
+  HA-VMS4.ASC:
+    mimetype: text/plain
+  HC-ART00.ASC:
+    mimetype: text/plain
+  HC-BBSOL.ANS:
+    mimetype: text/plain
+  HC-BYE.ANS:
+    mimetype: text/plain
+  HC-CHILL.ANS:
+    mimetype: text/plain
+  HC-COSA.ANS:
+    mimetype: text/plain
+  HC-FILE0.ANS:
+    mimetype: text/plain
+  HC-GAS.ANS:
+    mimetype: text/plain
+  HC-MNDWP.ANS:
+    mimetype: text/plain
+  HC-NEVER.ANS:
+    mimetype: text/plain
+  HC-QR.ANS:
+    mimetype: text/plain
+  HC-RCTR.ANS:
+    mimetype: text/plain
+  LOD^BDPR.ASC:
+    mimetype: text/plain
+  LOD^DLC.ASC:
+    mimetype: text/plain
+  LOD^DLC_.ASC:
+    mimetype: text/plain
+  LOD^DLC5.ASC:
+    mimetype: text/plain
+  LOD^ELEF.ASC:
+    mimetype: text/plain
+  LOD^SLR.ASC:
+    mimetype: text/plain
+  LOD^SLRS.ASC:
+    mimetype: text/plain
+  LOD^SOL7.ASC:
+    mimetype: text/plain
+  LOD^SOLS.ASC:
+    mimetype: text/plain
+  LOD^SOLZ.ASC:
+    mimetype: text/plain
+  LOD^YN.ASC:
+    mimetype: text/plain
+  LOD^YN^2.ASC:
+    mimetype: text/plain
+  REACTOR.NFO:
+    mimetype: text/plain

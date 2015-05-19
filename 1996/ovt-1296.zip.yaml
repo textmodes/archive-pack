@@ -1,0 +1,106 @@
+name: ovt-1296.zip
+hash: 482b64926d1d5b7b331d62e479a5a577
+year: 1996
+file:
+  -ANSI!-:
+    mimetype: text/plain
+  -ASCII!-:
+    mimetype: text/plain
+  -END!-:
+    mimetype: text/plain
+  -GFX!-:
+    mimetype: text/plain
+  -MISC!-:
+    mimetype: text/plain
+  BD-SG1.OVT:
+    mimetype: text/plain
+  BD-SOS.OVT:
+    mimetype: text/plain
+  BD-TLY.OVT:
+    mimetype: text/plain
+  BJ-OVT.JPG:
+    mimetype: image/jpeg
+  CD-ABUSE.OVT:
+    mimetype: text/plain
+  CD-AT1.OVT:
+    mimetype: text/plain
+  CD-AT2.OVT:
+    mimetype: text/plain
+  CD-BBSL.OVT:
+    mimetype: text/plain
+  CD-DCAG.OVT:
+    mimetype: text/plain
+  CD-FIHDR.OVT:
+    mimetype: text/plain
+  CD-FIL2.OVT:
+    mimetype: text/plain
+  CD-OTL.OVT:
+    mimetype: text/plain
+  CD-OUTMM.OVT:
+    mimetype: text/plain
+  CD-OVTH.OVT:
+    mimetype: text/plain
+  CD-SGRH1.OVT:
+    mimetype: text/plain
+  CD-ULTM.OVT:
+    mimetype: text/plain
+  CS-COD!.JPG:
+    mimetype: image/jpeg
+  CS-OUTTS.JPG:
+    mimetype: image/jpeg
+  CS-PST.JPG:
+    mimetype: image/jpeg
+  CS-RBRTH.JPG:
+    mimetype: image/jpeg
+  CS-SHIRT.JPG:
+    mimetype: image/jpeg
+  CS-TCZ.GIF:
+    mimetype: image/gif
+  CS-TFILE.JPG:
+    mimetype: image/jpeg
+  CS-VZONE.JPG:
+    mimetype: image/jpeg
+  CS-WAVE.JPG:
+    mimetype: image/jpeg
+  DANSLHE.EXE:
+    mimetype: application/x-msdos-program
+  DEFIANCE.NFO:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  HK-CODD.OVT:
+    mimetype: text/plain
+  HK-LOFF.OVT:
+    mimetype: text/plain
+  HK-TLY.OVT:
+    mimetype: text/plain
+  OPR-GLOW.JPG:
+    mimetype: image/jpeg
+  OPR-TLYB.JPG:
+    mimetype: image/jpeg
+  OVT-MEMB.NFO:
+    mimetype: text/plain
+  OVT-NEWS.NFO:
+    mimetype: text/plain
+  RESTRANK.IL!:
+    mimetype: text/plain
+  SF-CB!.OVT:
+    mimetype: text/plain
+  SF-CC.OVT:
+    mimetype: text/plain
+  SF-DD!.OVT:
+    mimetype: text/plain
+  SF-GLM!.OVT:
+    mimetype: text/plain
+  SF-PB.OVT:
+    mimetype: text/plain
+  SF-PIR.OVT:
+    mimetype: text/plain
+  SF-SOI.OVT:
+    mimetype: text/plain
+  SF-TRMA.OVT:
+    mimetype: text/plain
+  SF-ULT!.OVT:
+    mimetype: text/plain
+  SPW-DO.OVT:
+    mimetype: text/plain

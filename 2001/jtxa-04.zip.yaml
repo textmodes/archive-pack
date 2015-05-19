@@ -1,0 +1,106 @@
+name: jtxa-04.zip
+hash: 5b8610dcb80c59eca0260f909b94e779
+year: 2001
+file:
+  '!IN4.JTX':
+    mimetype: text/plain
+  '!INTRO.JTX':
+    mimetype: text/plain
+  B&S-CAV.ASC:
+    mimetype: text/plain
+  B&S-ZMIY.ASC:
+    mimetype: text/plain
+  BAB-PRIZ.ASC:
+    mimetype: text/plain
+  BAB-VOP.ASC:
+    mimetype: text/plain
+  CRS-AH.ASC:
+    mimetype: text/plain
+  CRS-ALIN.ANS:
+    mimetype: text/plain
+  CRS-DIZM.ASC:
+    mimetype: text/plain
+  CRS-EMS.ANS:
+    mimetype: text/plain
+  CRS-EXT.ANS:
+    mimetype: text/plain
+  CRS-HELL.ANS:
+    mimetype: text/plain
+  CRS-LARA.ANS:
+    mimetype: text/plain
+  CRS-LOVE.ASC:
+    mimetype: text/plain
+  CRS-META.ANS:
+    mimetype: text/plain
+  CRS-MIX.ANS:
+    mimetype: text/plain
+  CRS-MK'.ASC:
+    mimetype: text/plain
+  CRS-NOVE.ANS:
+    mimetype: text/plain
+  CRS-PLS.ASC:
+    mimetype: text/plain
+  CRS-PNB.ANS:
+    mimetype: text/plain
+  CRS-RELI.ANS:
+    mimetype: text/plain
+  CRS-SPA.ASC:
+    mimetype: text/plain
+  CRS-TWIS.ANS:
+    mimetype: text/plain
+  CRS-XTR.ANS:
+    mimetype: text/plain
+  DC-GUN.ASC:
+    mimetype: text/plain
+  DC-MASK.ASC:
+    mimetype: text/plain
+  DC-UFO.ASC:
+    mimetype: text/plain
+  DC-X.ASC:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  JUST-X.APP:
+    mimetype: application/octet-stream
+  JUST-X.NFO:
+    mimetype: text/plain
+  JUST.X:
+    mimetype: text/plain
+  KOR-EHE&.ASC:
+    mimetype: text/plain
+  KOR-J.ASC:
+    mimetype: text/plain
+  KOR-KOSM.ASC:
+    mimetype: text/plain
+  KOR-SMWH.ASC:
+    mimetype: text/plain
+  SHD-DRKS.ASC:
+    mimetype: text/plain
+  SHD-FR.ANS:
+    mimetype: text/plain
+  SHD-GUN.ASC:
+    mimetype: text/plain
+  SHD-IHVG.ASC:
+    mimetype: text/plain
+  SHD-N&D.ASC:
+    mimetype: text/plain
+  SHD-SR&F.ASC:
+    mimetype: text/plain
+  SRB-INCH.ASC:
+    mimetype: text/plain
+  SRB-RLST.ANS:
+    mimetype: text/plain
+  XR-AH.ASC:
+    mimetype: text/plain
+  XR-BD.ASC:
+    mimetype: text/plain
+  XR-BUGS.ASC:
+    mimetype: text/plain
+  XR-ELD.ASC:
+    mimetype: text/plain
+  XR-HLZ.ASC:
+    mimetype: text/plain
+  XR-JTX.ASC:
+    mimetype: text/plain
+  XR-PX.ASC:
+    mimetype: text/plain

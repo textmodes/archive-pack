@@ -1,0 +1,26 @@
+name: nbapak01.zip
+hash: 6e7b6d6e40d25a6757bd198a45316809
+year: 1993
+file:
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  HARSH.NFO:
+    mimetype: text/plain
+  LC-NBA.GIF:
+    mimetype: image/gif
+  NBA-APP.DAT:
+    mimetype: application/octet-stream
+  NBA-APP.EXE:
+    mimetype: application/x-msdos-program
+  NBA-ECHO.001:
+    mimetype: text/plain
+  NBA-ECHO.ASC:
+    mimetype: text/plain
+  NBA-INFO.NBA:
+    mimetype: text/plain
+  NBA-NODE.001:
+    mimetype: text/plain
+  NEOTOKYO.ANS:
+    mimetype: text/plain
+  SOD_AD.NFO:
+    mimetype: text/plain

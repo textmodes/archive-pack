@@ -1,0 +1,24 @@
+name: pnanews1.zip
+hash: 067660237d3b4b644d3a48fbee3b7f7e
+year: 1993
+file:
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FUN!.COM:
+    mimetype: application/x-msdos-program
+  PNANEWS1.EXE:
+    mimetype: application/x-msdos-program
+  PNATROUB.ZIP:
+    mimetype: application/zip
+  PNATVIEW.EXE:
+    mimetype: application/x-msdos-program
+  RDMENOW!.PNA:
+    mimetype: text/plain
+  RESOURCE.001:
+    mimetype: audio/x-mod
+  RESOURCE.002:
+    mimetype: image/x-pcx
+  RESOURCE.003:
+    mimetype: text/plain
+  WELCOME.1:
+    mimetype: text/plain

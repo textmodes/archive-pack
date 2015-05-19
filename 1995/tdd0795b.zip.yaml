@@ -1,0 +1,38 @@
+name: tdd0795b.zip
+hash: 3443f931e756aa7a441c88e0608d94ed
+year: 1995
+file:
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  IPLAY.EXE:
+    mimetype: application/x-msdos-program
+  ISETUP.EXE:
+    mimetype: application/x-msdos-program
+  TDD0795B.NFO:
+    mimetype: text/plain
+  TS-S3M11.S3M:
+    mimetype: audio/x-mod
+  TS-S3M14.S3M:
+    mimetype: audio/x-mod
+  VM-DMV1.MOD:
+    mimetype: audio/x-mod
+  VM-DMV2.MOD:
+    mimetype: audio/x-mod
+  VM-DMV3.S3M:
+    mimetype: audio/x-mod
+  VM-GORI.S3M:
+    mimetype: audio/x-mod
+  VM-LEFME.S3M:
+    mimetype: audio/x-mod
+  VM-LVL4.S3M:
+    mimetype: audio/x-mod
+  VM-NTO.S3M:
+    mimetype: audio/x-mod
+  VM-SADNS.S3M:
+    mimetype: audio/x-mod
+  VM-SCN1R.S3M:
+    mimetype: audio/x-mod
+  VOICES.TXT:
+    mimetype: text/plain
+  WELCOME.3:
+    mimetype: text/plain

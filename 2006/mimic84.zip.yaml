@@ -1,0 +1,60 @@
+name: mimic84.zip
+hash: d3d385638ef51915e5f04d3f0230e526
+year: 2006
+file:
+  bne_tpg.txt:
+    mimetype: text/plain
+  c-jeff.asc:
+    mimetype: text/plain
+  file_id.diz:
+    mimetype: text/plain
+  h7-bj.asc:
+    mimetype: text/plain
+  h7-mfx.asc:
+    mimetype: text/plain
+  h7-mfx2.asc:
+    mimetype: text/plain
+  h7-nasu.asc:
+    mimetype: text/plain
+  h7-reqs5.asc:
+    mimetype: text/plain
+  h7-sen30.asc:
+    mimetype: text/plain
+  jn-line2.ans:
+    mimetype: text/plain
+  jn-milk.ans:
+    mimetype: text/plain
+  jn-milk.gif:
+    mimetype: image/gif
+  jn-mmc.bin:
+    mimetype: application/octet-stream
+  jn-mmc.txt:
+    mimetype: text/plain
+  jn-q7.ans:
+    mimetype: text/plain
+  jn-tag.rmx:
+    mimetype: text/plain
+  members.ans:
+    mimetype: text/plain
+  mkk-lest.ans:
+    mimetype: text/plain
+  mkk-moly.ans:
+    mimetype: text/plain
+  no-burn1.asc:
+    mimetype: text/plain
+  no-sense.asc:
+    mimetype: text/plain
+  nrv-spln.asc:
+    mimetype: text/plain
+  quotes84.txt:
+    mimetype: text/plain
+  rm-hots.asc:
+    mimetype: text/plain
+  tf-mimic.asc:
+    mimetype: text/plain
+  us-dikom.ans:
+    mimetype: text/plain
+  us-sac06.ans:
+    mimetype: text/plain
+  us-shit.ans:
+    mimetype: text/plain

@@ -1,0 +1,62 @@
+name: tsd#3.zip
+hash: 872f16f5a930345647560b8381742005
+year: 1995
+file:
+  !!binary 3Nzc3Nzc3Nwu3Nzc:
+    mimetype: text/plain
+  BR-LOM.TSD:
+    mimetype: text/plain
+  BR-SYS.TSD:
+    mimetype: text/plain
+  BR-TEA3.TSD:
+    mimetype: text/plain
+  BR-TSD2.TSD:
+    mimetype: text/plain
+  DESCRIP.DAT:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  MN-FLT2.TSD:
+    mimetype: text/plain
+  MN-FLT3.TSD:
+    mimetype: text/plain
+  MN-TSD2.TSD:
+    mimetype: text/plain
+  MN-TSD4.TSD:
+    mimetype: text/plain
+  MN-VI1.TSD:
+    mimetype: text/plain
+  NEO.COM:
+    mimetype: application/x-msdos-program
+  PS-SPAWN.RIP:
+    mimetype: image/x-rip
+  PS-TSD.RIP:
+    mimetype: image/x-rip
+  README.TXT:
+    mimetype: text/plain
+  STR-FLT.TSD:
+    mimetype: text/plain
+  STR-TSD.TSD:
+    mimetype: text/plain
+  STR-TSD2.TSD:
+    mimetype: text/plain
+  STR-TSD3.TSD:
+    mimetype: text/plain
+  STR-TSU1.TSD:
+    mimetype: text/plain
+  TDF-BRX.TSD:
+    mimetype: text/plain
+  TDF-FLGH.TSD:
+    mimetype: text/plain
+  TSD0195.MEM:
+    mimetype: text/plain
+  TSD0195.NFO:
+    mimetype: text/plain
+  TSDAPP.EXE:
+    mimetype: application/x-msdos-program
+  TSDVIEW.EXE:
+    mimetype: application/x-msdos-program
+  VIR-AS.TSD:
+    mimetype: text/plain
+  VIR-TSD.TSD:
+    mimetype: text/plain

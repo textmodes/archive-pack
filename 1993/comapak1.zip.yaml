@@ -1,0 +1,32 @@
+name: comapak1.zip
+hash: 127efcc3571c180a3f8bae5f64a8a0ea
+year: 1993
+file:
+  --FAITHS.---:
+    mimetype: text/plain
+  COMALIST.CMA:
+    mimetype: text/plain
+  COMALOGO.CMA:
+    mimetype: text/plain
+  DESCRIPT.TXT:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  HISTORY.TXT:
+    mimetype: text/plain
+  MC-HALC1.CMA:
+    mimetype: text/plain
+  MC-KOTFS.CMA:
+    mimetype: text/plain
+  MC-MA1.CMA:
+    mimetype: text/plain
+  MC-TDP1.CMA:
+    mimetype: text/plain
+  MC-UNT1.CMA:
+    mimetype: text/plain
+  README.1ST:
+    mimetype: text/plain
+  SINDANCE.ZIP:
+    mimetype: application/zip
+  artpacks.txt:
+    mimetype: text/plain

@@ -1,0 +1,38 @@
+name: wax03.zip
+hash: 32bf7182d234449f8d76a85f57962692
+year: 1998
+file:
+  ARL-BANA.ANS:
+    mimetype: text/plain
+  ARL-COLL.ANS:
+    mimetype: text/plain
+  ARL-MORP.ASC:
+    mimetype: text/plain
+  COMPO1.ANS:
+    mimetype: text/plain
+  COMPO2.ANS:
+    mimetype: text/plain
+  DX-EVO4.ANS:
+    mimetype: text/plain
+  DX-PZPIC.ANS:
+    mimetype: text/plain
+  GDR-ALE.ANS:
+    mimetype: text/plain
+  GDR-CKL.ASC:
+    mimetype: text/plain
+  GDR-FILE.ANS:
+    mimetype: text/plain
+  GDR-KNOL.ANS:
+    mimetype: text/plain
+  GDR-RMRS.ASC:
+    mimetype: text/plain
+  GDR-WAX.ASC:
+    mimetype: text/plain
+  US-EVO.ANS:
+    mimetype: text/plain
+  US-SENSE.ANS:
+    mimetype: text/plain
+  WAX03.NFO:
+    mimetype: text/plain
+  ZZ-WAXX.ASC:
+    mimetype: text/plain

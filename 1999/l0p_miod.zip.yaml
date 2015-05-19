@@ -1,0 +1,20 @@
+name: l0p_miod.zip
+hash: 0acf0b95b046ea674796098f55b92f83
+year: 1999
+file:
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  L0P_MIOD.ANS:
+    mimetype: text/plain
+  L0P_NEWS.NFO:
+    mimetype: text/plain
+  SK!FILL.ASC:
+    mimetype: text/plain
+  SK!READ.ME!:
+    mimetype: application/octet-stream
+  THELO0P.APP:
+    mimetype: application/octet-stream
+  THELO0P.CTX:
+    mimetype: text/plain
+  THELO0P.NFO:
+    mimetype: text/plain

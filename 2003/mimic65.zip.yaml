@@ -1,0 +1,64 @@
+name: mimic65.zip
+hash: 25111205bf87cef953babc5b32d05db2
+year: 2003
+file:
+  07-mmc65.asc:
+    mimetype: text/plain
+  dip-mmc.asc:
+    mimetype: text/plain
+  file_id.diz:
+    mimetype: text/plain
+  gdr-firs.ans:
+    mimetype: text/plain
+  gdr-mmc.ans:
+    mimetype: text/plain
+  grm-rdnb.asc:
+    mimetype: text/plain
+  h7-ascne.asc:
+    mimetype: text/plain
+  h7-ashe2.asc:
+    mimetype: text/plain
+  h7-ashes.asc:
+    mimetype: text/plain
+  h7-mmc65.asc:
+    mimetype: text/plain
+  jf!colli.ans:
+    mimetype: text/plain
+  jf!kewl.ans:
+    mimetype: text/plain
+  jf!mugsy.ans:
+    mimetype: text/plain
+  jf!pxt.asc:
+    mimetype: text/plain
+  jf!rusas.ans:
+    mimetype: text/plain
+  jf!zelda.ans:
+    mimetype: text/plain
+  jn-_asin.rmx:
+    mimetype: text/plain
+  jn-akday.ans:
+    mimetype: text/plain
+  jn-speed.ans:
+    mimetype: text/plain
+  ko-agoth.ans:
+    mimetype: text/plain
+  ko-smmc.ans:
+    mimetype: text/plain
+  members.txt:
+    mimetype: text/plain
+  no-hacie.asc:
+    mimetype: text/plain
+  no-mmc01.ans:
+    mimetype: text/plain
+  no-mmc02.ans:
+    mimetype: text/plain
+  pro-1103.ans:
+    mimetype: text/plain
+  quotes65.txt:
+    mimetype: text/plain
+  rm-ascno.txt:
+    mimetype: text/plain
+  us-bmim3.ans:
+    mimetype: text/plain
+  us-odd.ans:
+    mimetype: text/plain

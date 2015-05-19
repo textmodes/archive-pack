@@ -1,0 +1,30 @@
+name: plain01.zip
+hash: 2afb4ab50b1fb3f548f3f09bca19c96e
+year: 1995
+file:
+  (ANSI):
+    mimetype: text/plain
+  (ASKI):
+    mimetype: text/plain
+  (EXTRA):
+    mimetype: text/plain
+  (INFO):
+    mimetype: text/plain
+  ANSI01.WO:
+    mimetype: text/plain
+  ANSI02.WO:
+    mimetype: text/plain
+  ANSI03.WO:
+    mimetype: text/plain
+  ANSI04.WO:
+    mimetype: text/plain
+  COLI01.WO:
+    mimetype: text/plain
+  COLI02.WO:
+    mimetype: text/plain
+  COLI03.WO:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  INFO.01:
+    mimetype: text/plain

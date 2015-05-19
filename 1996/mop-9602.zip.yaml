@@ -1,0 +1,44 @@
+name: mop-9602.zip
+hash: 50b56c78707fa9f16010673b08d116ce
+year: 1996
+file:
+  28-GYRO.ANS:
+    mimetype: text/plain
+  28-JL01.ANS:
+    mimetype: text/plain
+  28-MOPHH.RIP:
+    mimetype: image/x-rip
+  0295-NFO.ANS:
+    mimetype: text/plain
+  0296-MEM.ANS:
+    mimetype: text/plain
+  BB-LOGO5.ANS:
+    mimetype: text/plain
+  BM-ALIEN.RIP:
+    mimetype: image/x-rip
+  BM-HYP.RIP:
+    mimetype: image/x-rip
+  BM-MAJIK.GIF:
+    mimetype: image/gif
+  BM-NACHO.RIP:
+    mimetype: image/x-rip
+  BM-SYN.RIP:
+    mimetype: image/x-rip
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  IX-LOGO5.ANS:
+    mimetype: text/plain
+  MOPLOGO5.ANS:
+    mimetype: text/plain
+  TD-GYRO.GIF:
+    mimetype: image/gif
+  TD-MOP2.GIF:
+    mimetype: image/gif
+  TR-JI1.RIP:
+    mimetype: image/x-rip
+  US-ALD1.GIF:
+    mimetype: image/gif
+  WE-WONT.SUE:
+    mimetype: text/plain
+  WI-TST1.ANS:
+    mimetype: text/plain

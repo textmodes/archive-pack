@@ -1,0 +1,50 @@
+name: think003.zip
+hash: 20b83fe621a37c776b850defaeb4008b
+year: 1998
+file:
+  ANSI####.DIV:
+    mimetype: application/octet-stream
+  ASCII###.DIV:
+    mimetype: application/octet-stream
+  CODE####.DIV:
+    mimetype: application/octet-stream
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  INFO####.DIV:
+    mimetype: application/octet-stream
+  IR-PALIN.EXE:
+    mimetype: application/x-msdos-program
+  IR-PALIN.PAS:
+    mimetype: text/x-pascal
+  IR-PRIME.ANS:
+    mimetype: text/plain
+  IR-SLOTS.EXE:
+    mimetype: application/x-msdos-program
+  IR-SLOTS.PAS:
+    mimetype: text/x-pascal
+  IR-STUFF.TPU:
+    mimetype: application/octet-stream
+  IR-STUFF.TXT:
+    mimetype: text/plain
+  IR-THNK6.ANS:
+    mimetype: text/plain
+  IR-VOID1.ANS:
+    mimetype: text/plain
+  IR-VOID2.ANS:
+    mimetype: text/plain
+  IR-WORDS.EXE:
+    mimetype: application/x-msdos-program
+  IR-WORDS.PAS:
+    mimetype: text/x-pascal
+  MISC####.DIV:
+    mimetype: application/octet-stream
+  THINK003.MEM:
+    mimetype: text/plain
+  THINK003.NFO:
+    mimetype: text/plain
+  THINKAPP.EXE:
+    mimetype: application/x-msdos-program
+  THNKL102.ZIP:
+    mimetype: application/zip
+  VOID_1P1.ZIP:
+    mimetype: application/zip

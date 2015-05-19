@@ -1,0 +1,40 @@
+name: tnt-003.zip
+hash: 60d2867f50dace7cfa40be9ccc435697
+year: 2004
+file:
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  MIN-EAST.TNT:
+    mimetype: text/plain
+  MIN-N3K.TNT:
+    mimetype: text/plain
+  MKK-GOTH.TNT:
+    mimetype: text/plain
+  MKK-SPOS.TNT:
+    mimetype: text/plain
+  RE-CLUCKU.TNT:
+    mimetype: text/plain
+  RE-TIME.TNT:
+    mimetype: text/plain
+  SEO-TNT.TNT:
+    mimetype: text/plain
+  TNT-003.NFO:
+    mimetype: text/plain
+  US-911.TNT:
+    mimetype: text/plain
+  US-EUP01.TNT:
+    mimetype: text/plain
+  US-HARDB.tnt:
+    mimetype: text/plain
+  ZV-160.BIN:
+    mimetype: application/octet-stream
+  ZV-EC.TNT:
+    mimetype: text/plain
+  ZV-NAMI.TNT:
+    mimetype: text/plain
+  ZV-OW.TNT:
+    mimetype: text/plain
+  ZV-SCOL.TNT:
+    mimetype: text/plain
+  ZV-TNT.TNT:
+    mimetype: text/plain

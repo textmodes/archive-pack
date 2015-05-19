@@ -1,0 +1,404 @@
+name: upl02.zip
+hash: 1e305cdb68f9f8c35ed93c43a95289cf
+year: 1994
+file:
+  !!binary 7fkgRfdNQ/0u+e0=:
+    mimetype: text/plain
+  BASS/ACBASS.LNK:
+    mimetype: text/plain
+  BASS/FNGRBASS.LNK:
+    mimetype: text/plain
+  BASS/FRETLESS.LNK:
+    mimetype: text/plain
+  BASS/PICKBASS.LNK:
+    mimetype: text/plain
+  BASS/SLAPBAS1.LNK:
+    mimetype: text/plain
+  BASS/SLAPBAS2.LNK:
+    mimetype: text/plain
+  BASS/SYNBASS1.LNK:
+    mimetype: text/plain
+  BASS/SYNBASS2.LNK:
+    mimetype: text/plain
+  BRASS/FRENCHRN.LNK:
+    mimetype: text/plain
+  BRASS/HITBRASS.LNK:
+    mimetype: text/plain
+  BRASS/MUTETRUM.LNK:
+    mimetype: text/plain
+  BRASS/SYNBRAS1.LNK:
+    mimetype: text/plain
+  BRASS/SYNBRAS2.LNK:
+    mimetype: text/plain
+  BRASS/TROMBONE.LNK:
+    mimetype: text/plain
+  BRASS/TRUMPET.LNK:
+    mimetype: text/plain
+  BRASS/TUBA.LNK:
+    mimetype: text/plain
+  CHROMATI.C/CELESTE.LNK:
+    mimetype: text/plain
+  CHROMATI.C/GLOCKEN.LNK:
+    mimetype: text/plain
+  CHROMATI.C/MARIMBA.LNK:
+    mimetype: text/plain
+  CHROMATI.C/MUSICBOX.LNK:
+    mimetype: text/plain
+  CHROMATI.C/SANTUR.LNK:
+    mimetype: text/plain
+  CHROMATI.C/TUBEBELL.LNK:
+    mimetype: text/plain
+  CHROMATI.C/VIBES.LNK:
+    mimetype: text/plain
+  CHROMATI.C/XYLOPHON.LNK:
+    mimetype: text/plain
+  CTL3DV2.DLL:
+    mimetype: application/x-dosexec
+  ENSEMBLE/CHOIR.LNK:
+    mimetype: text/plain
+  ENSEMBLE/DOO.LNK:
+    mimetype: text/plain
+  ENSEMBLE/MARCATO.LNK:
+    mimetype: text/plain
+  ENSEMBLE/ORCHHIT.LNK:
+    mimetype: text/plain
+  ENSEMBLE/SLOWSTR.LNK:
+    mimetype: text/plain
+  ENSEMBLE/SYNSTR1.LNK:
+    mimetype: text/plain
+  ENSEMBLE/SYNSTR2.LNK:
+    mimetype: text/plain
+  ENSEMBLE/VOICES.LNK:
+    mimetype: text/plain
+  ETHNIC/BAGPIPES.LNK:
+    mimetype: text/plain
+  ETHNIC/BANJO.LNK:
+    mimetype: text/plain
+  ETHNIC/FIDDLE.LNK:
+    mimetype: text/plain
+  ETHNIC/KALIMBA.LNK:
+    mimetype: text/plain
+  ETHNIC/KOTO.LNK:
+    mimetype: text/plain
+  ETHNIC/SHAMISEN.LNK:
+    mimetype: text/plain
+  ETHNIC/SHANNAI.LNK:
+    mimetype: text/plain
+  ETHNIC/SITAR.LNK:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GM_DRUMS.UPL:
+    mimetype: text/plain
+  GM_DRUMS/AGOGOHI.LNK:
+    mimetype: text/plain
+  GM_DRUMS/AGOGOLO.LNK:
+    mimetype: text/plain
+  GM_DRUMS/BELLTREE.LNK:
+    mimetype: text/plain
+  GM_DRUMS/BONGOHI.LNK:
+    mimetype: text/plain
+  GM_DRUMS/BONGOLO.LNK:
+    mimetype: text/plain
+  GM_DRUMS/CABASA.LNK:
+    mimetype: text/plain
+  GM_DRUMS/CASTINET.LNK:
+    mimetype: text/plain
+  GM_DRUMS/CLAPS.LNK:
+    mimetype: text/plain
+  GM_DRUMS/CLAVE.LNK:
+    mimetype: text/plain
+  GM_DRUMS/CONGAHI1.LNK:
+    mimetype: text/plain
+  GM_DRUMS/CONGAHI2.LNK:
+    mimetype: text/plain
+  GM_DRUMS/CONGALO.LNK:
+    mimetype: text/plain
+  GM_DRUMS/COWBELL.LNK:
+    mimetype: text/plain
+  GM_DRUMS/CUICA1.LNK:
+    mimetype: text/plain
+  GM_DRUMS/CUICA2.LNK:
+    mimetype: text/plain
+  GM_DRUMS/CYMBELL.LNK:
+    mimetype: text/plain
+  GM_DRUMS/CYMCHINA.LNK:
+    mimetype: text/plain
+  GM_DRUMS/CYMCRSH1.LNK:
+    mimetype: text/plain
+  GM_DRUMS/CYMCRSH2.LNK:
+    mimetype: text/plain
+  GM_DRUMS/CYMRIDE1.LNK:
+    mimetype: text/plain
+  GM_DRUMS/CYMRIDE2.LNK:
+    mimetype: text/plain
+  GM_DRUMS/CYMSPLSH.LNK:
+    mimetype: text/plain
+  GM_DRUMS/GUIRO1.LNK:
+    mimetype: text/plain
+  GM_DRUMS/GUIRO2.LNK:
+    mimetype: text/plain
+  GM_DRUMS/HIGHQ.LNK:
+    mimetype: text/plain
+  GM_DRUMS/HIHATCL.LNK:
+    mimetype: text/plain
+  GM_DRUMS/HIHATOP.LNK:
+    mimetype: text/plain
+  GM_DRUMS/HIHATPD.LNK:
+    mimetype: text/plain
+  GM_DRUMS/JINGLES.LNK:
+    mimetype: text/plain
+  GM_DRUMS/KICK1.LNK:
+    mimetype: text/plain
+  GM_DRUMS/KICK2.LNK:
+    mimetype: text/plain
+  GM_DRUMS/MARACAS.LNK:
+    mimetype: text/plain
+  GM_DRUMS/METBELL.LNK:
+    mimetype: text/plain
+  GM_DRUMS/METCLICK.LNK:
+    mimetype: text/plain
+  GM_DRUMS/SCRATCH1.LNK:
+    mimetype: text/plain
+  GM_DRUMS/SCRATCH2.LNK:
+    mimetype: text/plain
+  GM_DRUMS/SHAKER.LNK:
+    mimetype: text/plain
+  GM_DRUMS/SLAP.LNK:
+    mimetype: text/plain
+  GM_DRUMS/SNARE1.LNK:
+    mimetype: text/plain
+  GM_DRUMS/SNARE2.LNK:
+    mimetype: text/plain
+  GM_DRUMS/SQRCLICK.LNK:
+    mimetype: text/plain
+  GM_DRUMS/STICKRIM.LNK:
+    mimetype: text/plain
+  GM_DRUMS/STICKS.LNK:
+    mimetype: text/plain
+  GM_DRUMS/SURDO1.LNK:
+    mimetype: text/plain
+  GM_DRUMS/SURDO2.LNK:
+    mimetype: text/plain
+  GM_DRUMS/TAMBORIN.LNK:
+    mimetype: text/plain
+  GM_DRUMS/TIMBALEH.LNK:
+    mimetype: text/plain
+  GM_DRUMS/TIMBALEL.LNK:
+    mimetype: text/plain
+  GM_DRUMS/TOMHI1.LNK:
+    mimetype: text/plain
+  GM_DRUMS/TOMHI2.LNK:
+    mimetype: text/plain
+  GM_DRUMS/TOMLO1.LNK:
+    mimetype: text/plain
+  GM_DRUMS/TOMLO2.LNK:
+    mimetype: text/plain
+  GM_DRUMS/TOMMID1.LNK:
+    mimetype: text/plain
+  GM_DRUMS/TOMMID2.LNK:
+    mimetype: text/plain
+  GM_DRUMS/TRIANGL1.LNK:
+    mimetype: text/plain
+  GM_DRUMS/TRIANGL2.LNK:
+    mimetype: text/plain
+  GM_DRUMS/VIBSLAP.LNK:
+    mimetype: text/plain
+  GM_DRUMS/WHISTLE1.LNK:
+    mimetype: text/plain
+  GM_DRUMS/WHISTLE2.LNK:
+    mimetype: text/plain
+  GM_DRUMS/WOODBLK1.LNK:
+    mimetype: text/plain
+  GM_DRUMS/WOODBLK2.LNK:
+    mimetype: text/plain
+  GUITAR/ACGUITAR.LNK:
+    mimetype: text/plain
+  GUITAR/CLEANGTR.LNK:
+    mimetype: text/plain
+  GUITAR/DISTGTR.LNK:
+    mimetype: text/plain
+  GUITAR/GTRHARM.LNK:
+    mimetype: text/plain
+  GUITAR/JAZZGTR.LNK:
+    mimetype: text/plain
+  GUITAR/MUTEGTR.LNK:
+    mimetype: text/plain
+  GUITAR/NYGUITAR.LNK:
+    mimetype: text/plain
+  GUITAR/ODGUITAR.LNK:
+    mimetype: text/plain
+  INSTALL.TXT:
+    mimetype: text/plain
+  NEWYEARS.MID:
+    mimetype: audio/midi
+  NEWYEARS.UPL:
+    mimetype: text/plain
+  ORGAN/ACCORDN.LNK:
+    mimetype: text/plain
+  ORGAN/CHURCH.LNK:
+    mimetype: text/plain
+  ORGAN/CONCRTNA.LNK:
+    mimetype: text/plain
+  ORGAN/HARMONCA.LNK:
+    mimetype: text/plain
+  ORGAN/HOMEORG.LNK:
+    mimetype: text/plain
+  ORGAN/PERCORG.LNK:
+    mimetype: text/plain
+  ORGAN/REEDORG.LNK:
+    mimetype: text/plain
+  ORGAN/ROCKORG.LNK:
+    mimetype: text/plain
+  PERCUSSI.VE/AGOGO.LNK:
+    mimetype: text/plain
+  PERCUSSI.VE/CARILLON.LNK:
+    mimetype: text/plain
+  PERCUSSI.VE/REVCYM.LNK:
+    mimetype: text/plain
+  PERCUSSI.VE/STEELDRM.LNK:
+    mimetype: text/plain
+  PERCUSSI.VE/SYNTOM.LNK:
+    mimetype: text/plain
+  PERCUSSI.VE/TAIKO.LNK:
+    mimetype: text/plain
+  PERCUSSI.VE/TOMS.LNK:
+    mimetype: text/plain
+  PERCUSSI.VE/WOODBLK.LNK:
+    mimetype: text/plain
+  PIANOS/ACPIANO.LNK:
+    mimetype: text/plain
+  PIANOS/BRITEPNO.LNK:
+    mimetype: text/plain
+  PIANOS/CLAVINET.LNK:
+    mimetype: text/plain
+  PIANOS/EPIANO1.LNK:
+    mimetype: text/plain
+  PIANOS/EPIANO2.LNK:
+    mimetype: text/plain
+  PIANOS/HONKY.LNK:
+    mimetype: text/plain
+  PIANOS/HRPSCHRD.LNK:
+    mimetype: text/plain
+  PIANOS/PISTOL1.LNK:
+    mimetype: text/plain
+  PIANOS/SYNPIANO.LNK:
+    mimetype: text/plain
+  PIPE/BOTTLE.LNK:
+    mimetype: text/plain
+  PIPE/FLUTE.LNK:
+    mimetype: text/plain
+  PIPE/OCARINA.LNK:
+    mimetype: text/plain
+  PIPE/PICCOLO.LNK:
+    mimetype: text/plain
+  PIPE/RECORDER.LNK:
+    mimetype: text/plain
+  PIPE/SHAKAZUL.LNK:
+    mimetype: text/plain
+  PIPE/WHISTLE.LNK:
+    mimetype: text/plain
+  PIPE/WOODFLUT.LNK:
+    mimetype: text/plain
+  READ-IT.TXT:
+    mimetype: text/plain
+  REED/ALTOSAX.LNK:
+    mimetype: text/plain
+  REED/BARISAX.LNK:
+    mimetype: text/plain
+  REED/BASSOON.LNK:
+    mimetype: text/plain
+  REED/CLARINET.LNK:
+    mimetype: text/plain
+  REED/ENGLHORN.LNK:
+    mimetype: text/plain
+  REED/OBOE.LNK:
+    mimetype: text/plain
+  REED/SPRNOSAX.LNK:
+    mimetype: text/plain
+  REED/TENORSAX.LNK:
+    mimetype: text/plain
+  SFX/APPLAUSE.LNK:
+    mimetype: text/plain
+  SFX/FX-BLOW.LNK:
+    mimetype: text/plain
+  SFX/FX-FRET.LNK:
+    mimetype: text/plain
+  SFX/HELICPTR.LNK:
+    mimetype: text/plain
+  SFX/JUNGLE.LNK:
+    mimetype: text/plain
+  SFX/RINGWHSL.LNK:
+    mimetype: text/plain
+  SFX/SEASHORE.LNK:
+    mimetype: text/plain
+  SFX/TELEPHON.LNK:
+    mimetype: text/plain
+  STRINGS&.ORC/CELLO.LNK:
+    mimetype: text/plain
+  STRINGS&.ORC/CONTRABA.LNK:
+    mimetype: text/plain
+  STRINGS&.ORC/HARP.LNK:
+    mimetype: text/plain
+  STRINGS&.ORC/PIZZCATO.LNK:
+    mimetype: text/plain
+  STRINGS&.ORC/TIMPANI.LNK:
+    mimetype: text/plain
+  STRINGS&.ORC/TREMSTR.LNK:
+    mimetype: text/plain
+  STRINGS&.ORC/VIOLA.LNK:
+    mimetype: text/plain
+  STRINGS&.ORC/VIOLIN.LNK:
+    mimetype: text/plain
+  SYNTH_LE.AD/BASSLEAD.LNK:
+    mimetype: text/plain
+  SYNTH_LE.AD/CALLIOPE.LNK:
+    mimetype: text/plain
+  SYNTH_LE.AD/CHARANG.LNK:
+    mimetype: text/plain
+  SYNTH_LE.AD/CHIFLEAD.LNK:
+    mimetype: text/plain
+  SYNTH_LE.AD/LEAD5TH.LNK:
+    mimetype: text/plain
+  SYNTH_LE.AD/SAWWAVE.LNK:
+    mimetype: text/plain
+  SYNTH_LE.AD/SQRWAVE.LNK:
+    mimetype: text/plain
+  SYNTH_LE.AD/VOXLEAD.LNK:
+    mimetype: text/plain
+  SYNTH_PA.D/BOWGLASS.LNK:
+    mimetype: text/plain
+  SYNTH_PA.D/FANTASIA.LNK:
+    mimetype: text/plain
+  SYNTH_PA.D/GHOSTIE.LNK:
+    mimetype: text/plain
+  SYNTH_PA.D/HALOPAD.LNK:
+    mimetype: text/plain
+  SYNTH_PA.D/METALPAD.LNK:
+    mimetype: text/plain
+  SYNTH_PA.D/POLYSYN.LNK:
+    mimetype: text/plain
+  SYNTH_PA.D/SWEEPER.LNK:
+    mimetype: text/plain
+  SYNTH_PA.D/WARMPAD.LNK:
+    mimetype: text/plain
+  SYNTH_SF.X/ATMOSPHR.LNK:
+    mimetype: text/plain
+  SYNTH_SF.X/AURORA.LNK:
+    mimetype: text/plain
+  SYNTH_SF.X/CRYSTAL.LNK:
+    mimetype: text/plain
+  SYNTH_SF.X/ECHOVOX.LNK:
+    mimetype: text/plain
+  SYNTH_SF.X/FRESHAIR.LNK:
+    mimetype: text/plain
+  SYNTH_SF.X/SOUNDTRK.LNK:
+    mimetype: text/plain
+  SYNTH_SF.X/STARTRAK.LNK:
+    mimetype: text/plain
+  SYNTH_SF.X/UNICORN.LNK:
+    mimetype: text/plain
+  UPL.EXE:
+    mimetype: application/x-msdos-program
+  UPL.HLP:
+    mimetype: application/octet-stream

@@ -1,0 +1,64 @@
+name: ali-0194.zip
+hash: 15da3051341b010845946c737b5f8c9a
+year: 1994
+file:
+  AAPVIEW.EXE:
+    mimetype: application/x-msdos-program
+  ALIVE.DAT:
+    mimetype: application/octet-stream
+  ALIVE.TRN:
+    mimetype: application/octet-stream
+  ALIVEAPP.EXE:
+    mimetype: application/x-msdos-program
+  DESPAIR.NFO:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  MD-CL.ALI:
+    mimetype: text/plain
+  MD-ELY2.ALI:
+    mimetype: text/plain
+  MD-RAGE.ALI:
+    mimetype: text/plain
+  MD-TL.ALI:
+    mimetype: text/plain
+  MDALIVE1.ALI:
+    mimetype: text/plain
+  MEMBER.LST:
+    mimetype: text/plain
+  NEO.COM:
+    mimetype: application/x-msdos-program
+  T3-ALIVE.ALI:
+    mimetype: text/plain
+  T3-ALOGO.ALI:
+    mimetype: text/plain
+  T3-IC.ALI:
+    mimetype: text/plain
+  T3-LOGO1.GIF:
+    mimetype: image/gif
+  T3-LOGO2.GIF:
+    mimetype: image/gif
+  T3-LOGO3.GIF:
+    mimetype: image/gif
+  T3-NEO3.ALI:
+    mimetype: text/plain
+  T3-OUIJ1.ALI:
+    mimetype: text/plain
+  VPIC.EXE:
+    mimetype: application/x-msdos-program
+  VR-ADC01.ALI:
+    mimetype: text/plain
+  VR-ALV01.ALI:
+    mimetype: text/plain
+  VR-ALV02.ALI:
+    mimetype: text/plain
+  VR-IRN01.ALI:
+    mimetype: text/plain
+  VR-SBZ01.ALI:
+    mimetype: text/plain
+  VR-SPW01.ALI:
+    mimetype: text/plain
+  WELCOME.1:
+    mimetype: text/plain
+  WELCOME.2:
+    mimetype: text/plain

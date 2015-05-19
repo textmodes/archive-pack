@@ -1,0 +1,82 @@
+name: wolf0995.zip
+hash: 98094176ff674aa200ad06067f52673c
+year: 1995
+file:
+  AMIGA!.GIF:
+    mimetype: image/gif
+  AMIGA!.TXT:
+    mimetype: text/plain
+  CRIMSON.S3M:
+    mimetype: audio/x-mod
+  DEFIANCE.NFO:
+    mimetype: text/plain
+  DV-PACK1.GIF:
+    mimetype: image/gif
+  DV-TOON.GIF:
+    mimetype: image/gif
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GT-STAFF.ANS:
+    mimetype: text/plain
+  JUFAZZ.ZIP:
+    mimetype: application/zip
+  LC-DOG3.GIF:
+    mimetype: image/gif
+  LC-ENERG.GIF:
+    mimetype: image/gif
+  LC-REN.GIF:
+    mimetype: image/gif
+  MK-BVMNU.ANS:
+    mimetype: text/plain
+  MK-CHAOS.ANS:
+    mimetype: text/plain
+  MK-COR1.ANS:
+    mimetype: text/plain
+  MK-GRFLD.ANS:
+    mimetype: text/plain
+  MK-IOI.ANS:
+    mimetype: text/plain
+  MK-MAX59.ANS:
+    mimetype: text/plain
+  MK-RAD59.ANS:
+    mimetype: text/plain
+  MK-TLC.ANS:
+    mimetype: text/plain
+  MK-TLC20.ANS:
+    mimetype: text/plain
+  MK-WOLF1.ANS:
+    mimetype: text/plain
+  MK-WOLF3.ANS:
+    mimetype: text/plain
+  MK-WOLF9.ANS:
+    mimetype: text/plain
+  MK-WOLV2.ANS:
+    mimetype: text/plain
+  MK-WOLV5.ANS:
+    mimetype: text/plain
+  MK-WPDOX.ANS:
+    mimetype: text/plain
+  OCT-ATOM.S3M:
+    mimetype: audio/x-mod
+  OCT-DRKS.MOD:
+    mimetype: audio/x-mod
+  OCT-WT2.MOD:
+    mimetype: audio/x-mod
+  SDREAMS.GIF:
+    mimetype: image/gif
+  SDREAMS.TXT:
+    mimetype: text/plain
+  SEALIFE.GIF:
+    mimetype: image/gif
+  SEALIFE.TXT:
+    mimetype: text/plain
+  SVGA256.BGI:
+    mimetype: application/octet-stream
+  VLA.COM:
+    mimetype: application/x-msdos-program
+  WOLFAPP.EXE:
+    mimetype: application/x-msdos-program
+  WOLFPACK.NFO:
+    mimetype: text/plain
+  WOLFVIEW.ZIP:
+    mimetype: application/zip

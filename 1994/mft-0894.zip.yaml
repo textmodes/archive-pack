@@ -1,0 +1,40 @@
+name: mft-0894.zip
+hash: 1ba0696722666113390476e5abd774d2
+year: 1994
+file:
+  BB-PHZIN.ANS:
+    mimetype: text/plain
+  CR-MFT1.RIP:
+    mimetype: image/x-rip
+  DA-HK.MOD:
+    mimetype: audio/x-mod
+  DA-VOL.MOD:
+    mimetype: audio/x-mod
+  DE-RAIN.EXE:
+    mimetype: application/x-msdos-program
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  LO-CH0.ANS:
+    mimetype: text/plain
+  LO-CONSO.ANS:
+    mimetype: text/plain
+  LO-MFT.ANS:
+    mimetype: text/plain
+  MFT-0894.MEM:
+    mimetype: text/plain
+  MFT-0894.NFO:
+    mimetype: text/plain
+  MFTAPP.EXE:
+    mimetype: application/x-msdos-program
+  MFTVIEW.EXE:
+    mimetype: application/x-msdos-program
+  PD-BABYL.ANS:
+    mimetype: text/plain
+  ZH-MF2.ANS:
+    mimetype: text/plain
+  ZH-MF3.ANS:
+    mimetype: text/plain
+  ZH-PCYD.ANS:
+    mimetype: text/plain
+  ZH-SOB3.ANS:
+    mimetype: text/plain

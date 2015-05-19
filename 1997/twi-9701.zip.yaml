@@ -1,0 +1,68 @@
+name: twi-9701.zip
+hash: d86790cb18981174b5c6a6860a311da7
+year: 1997
+file:
+  -ANSI---.---:
+    mimetype: text/plain
+  -GUEST--.---:
+    mimetype: text/plain
+  -INFO---.---:
+    mimetype: text/plain
+  -RIP----.---:
+    mimetype: text/plain
+  CG-MPMNU.ANS:
+    mimetype: text/plain
+  CO-CAFE.ANS:
+    mimetype: text/plain
+  DR-25.ANS:
+    mimetype: text/plain
+  DR-SBACK.ANS:
+    mimetype: text/plain
+  DR-TRN1.ANS:
+    mimetype: text/plain
+  DT-COL1.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FL-ACID.ANS:
+    mimetype: text/plain
+  FL-BTBB.ANS:
+    mimetype: text/plain
+  FL-FUZZ1.ANS:
+    mimetype: text/plain
+  FL-FUZZ3.ANS:
+    mimetype: text/plain
+  FL-JUNK.ANS:
+    mimetype: text/plain
+  FL-PIZZA.ANS:
+    mimetype: text/plain
+  MD-MADSK.ANS:
+    mimetype: text/plain
+  NWS-9701.EXE:
+    mimetype: application/x-msdos-program
+  NWS-9701.NFO:
+    mimetype: text/plain
+  PP-PITT1.BIN:
+    mimetype: application/octet-stream
+  PP-R666.ANS:
+    mimetype: text/plain
+  PP-TWI1.ANS:
+    mimetype: text/plain
+  RD-LGO1.ANS:
+    mimetype: text/plain
+  SG-SF2.ANS:
+    mimetype: text/plain
+  ST-ABYSS.RIP:
+    mimetype: image/x-rip
+  ST-SFISH.RIP:
+    mimetype: image/x-rip
+  ST-TWI1.RIP:
+    mimetype: image/x-rip
+  TK-TWILI.ANS:
+    mimetype: text/plain
+  TWI-MEM.NFO:
+    mimetype: text/plain
+  US-FRC.ANS:
+    mimetype: text/plain
+  US-FREAK.BIN:
+    mimetype: application/octet-stream

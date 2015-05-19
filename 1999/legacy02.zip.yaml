@@ -1,0 +1,30 @@
+name: legacy02.zip
+hash: 917d1fc9bbb2781c3e757d38f4dbf97a
+year: 1999
+file:
+  5Q.TXT:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  LEGACY02.ASC:
+    mimetype: text/plain
+  RP-5Q.ASC:
+    mimetype: text/plain
+  RP-ACY4.ASC:
+    mimetype: text/plain
+  RP-DEG65.ASC:
+    mimetype: text/plain
+  RP-KARMA.ASC:
+    mimetype: text/plain
+  RP-LEG.ASC:
+    mimetype: text/plain
+  RP-NRGSD.ASC:
+    mimetype: text/plain
+  RP-ODIZ.ASC:
+    mimetype: text/plain
+  RP-SEQ.ASC:
+    mimetype: text/plain
+  RP-SPICE.ASC:
+    mimetype: text/plain
+  RP-TALO.ASC:
+    mimetype: text/plain

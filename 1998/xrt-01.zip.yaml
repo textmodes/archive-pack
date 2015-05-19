@@ -1,0 +1,28 @@
+name: xrt-01.zip
+hash: 55468c20042dd915941c234941289cdf
+year: 1998
+file:
+  DRM-HMMM.ANS:
+    mimetype: text/plain
+  DRM-MM.ANS:
+    mimetype: text/plain
+  DRM-NN.ANS:
+    mimetype: text/plain
+  DRM-NRGN.ANS:
+    mimetype: text/plain
+  DRM-NRGN.BAK:
+    mimetype: text/plain
+  DRM-PAIN.ANS:
+    mimetype: text/plain
+  DRM-PNRD.ANS:
+    mimetype: text/plain
+  DRM-PRM.ANS:
+    mimetype: text/plain
+  DRM-UNV.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  XRT_REG.EXE:
+    mimetype: application/x-msdos-program
+  Xrt.nfo:
+    mimetype: text/plain

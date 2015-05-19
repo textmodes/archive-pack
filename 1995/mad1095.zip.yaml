@@ -1,0 +1,64 @@
+name: mad1095.zip
+hash: cf1c73c64c1e43ca499ba6a0e8192ef8
+year: 1995
+file:
+  -ANSI-:
+    mimetype: text/plain
+  -ASCII-:
+    mimetype: text/plain
+  -END-:
+    mimetype: text/plain
+  -MISC-:
+    mimetype: text/plain
+  ASH-EQ.MAD:
+    mimetype: text/plain
+  ASH-ISA.MAD:
+    mimetype: text/plain
+  CM-SAM.MAD:
+    mimetype: text/plain
+  D-BLAH.MAD:
+    mimetype: text/plain
+  D-DT.MAD:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  ICEVIEW.CNF:
+    mimetype: text/plain
+  ICEVIEW.DOC:
+    mimetype: text/plain
+  ICEVIEW.EXE:
+    mimetype: application/x-msdos-program
+  ICEVIEW.RPX:
+    mimetype: text/plain
+  LR-FPE1.ASC:
+    mimetype: text/plain
+  MADNEWS.TXT:
+    mimetype: text/plain
+  MEMBER.TXT:
+    mimetype: text/plain
+  MP-ILL1.MAD:
+    mimetype: text/plain
+  MP-TFH2.MAD:
+    mimetype: text/plain
+  RF-EF.MAD:
+    mimetype: text/plain
+  RF-EOC.MAD:
+    mimetype: text/plain
+  RF-ETER.MAD:
+    mimetype: text/plain
+  RF-FILD.MAD:
+    mimetype: text/plain
+  RF-IQ.MAD:
+    mimetype: text/plain
+  RF-LM.MAD:
+    mimetype: text/plain
+  RF-MAD.MAD:
+    mimetype: text/plain
+  SPICE-OJ.MAD:
+    mimetype: text/plain
+  ST-DWTKC.MAD:
+    mimetype: text/plain
+  ST-FPE.MAD:
+    mimetype: text/plain
+  ST-ILIAD.MAD:
+    mimetype: text/plain

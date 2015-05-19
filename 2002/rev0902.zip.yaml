@@ -1,0 +1,46 @@
+name: rev0902.zip
+hash: 16093f56402d6b9433e088188b4ca2b0
+year: 2002
+file:
+  BYM-DNB.ANS:
+    mimetype: text/plain
+  BYM-LD01.ANS:
+    mimetype: text/plain
+  BYM-LD02.ANS:
+    mimetype: text/plain
+  BYM-PI01.ANS:
+    mimetype: text/plain
+  BYM-PI02.ANS:
+    mimetype: text/plain
+  BYM-SEC7.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  LD-ELIX2.ANS:
+    mimetype: text/plain
+  LD-ELIX3.ANS:
+    mimetype: text/plain
+  LD-ELIX4.ANS:
+    mimetype: text/plain
+  LD-EMENU.ANS:
+    mimetype: text/plain
+  LD-MSGS.ANS:
+    mimetype: text/plain
+  LD-NEW.ANS:
+    mimetype: text/plain
+  LD-RANK.ANS:
+    mimetype: text/plain
+  MEM0902.ANS:
+    mimetype: text/plain
+  Md-under.ans:
+    mimetype: text/plain
+  NEWS0902.ANS:
+    mimetype: text/plain
+  SHOWDOWN.ANS:
+    mimetype: text/plain
+  TSK-CUR1.ANS:
+    mimetype: text/plain
+  ZII-IXLI.ANS:
+    mimetype: text/plain
+  Zii-demi.ans:
+    mimetype: text/plain

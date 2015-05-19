@@ -1,0 +1,10 @@
+name: blchnfo1.zip
+hash: 3bea2a06c7ec6d70f386b139aafceace
+year: 1995
+file:
+  BLCHNFO.001:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  HUMA.COM:
+    mimetype: application/x-msdos-program

@@ -1,0 +1,38 @@
+name: dmg-0795.zip
+hash: 8bf4437198f2922e3d25521af11726d0
+year: 1995
+file:
+  -CODEING.-:
+    mimetype: text/plain
+  -DIZZY-:
+    mimetype: text/plain
+  -INFO-:
+    mimetype: text/plain
+  -VGA-:
+    mimetype: text/plain
+  0795INFO.ANS:
+    mimetype: text/plain
+  0795MEMB.ANS:
+    mimetype: text/plain
+  DAMAGE1.GIF:
+    mimetype: image/gif
+  DMG-APP.EXE:
+    mimetype: application/x-msdos-program
+  DMGLOGO.GIF:
+    mimetype: image/gif
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  JE-DMG.EXE:
+    mimetype: application/x-msdos-program
+  LR-DS.GIF:
+    mimetype: image/gif
+  LR-TDZ.GIF:
+    mimetype: image/gif
+  SS-DAMG.GIF:
+    mimetype: image/gif
+  SS-SKARA.GIF:
+    mimetype: image/gif
+  ZEN-CTB.GIF:
+    mimetype: image/gif
+  ZEN-SU.GIF:
+    mimetype: image/gif

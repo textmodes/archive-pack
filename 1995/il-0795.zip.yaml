@@ -1,0 +1,58 @@
+name: il-0795.zip
+hash: 5f9678a4b91d91147508c0df0375578d
+year: 1995
+file:
+  AS-ARC1.ANS:
+    mimetype: text/plain
+  AS-ARC1.ASC:
+    mimetype: text/plain
+  AS-ARC2.ASC:
+    mimetype: text/plain
+  AS-ARC3.ASC:
+    mimetype: text/plain
+  AS-IL1.ASC:
+    mimetype: text/plain
+  AS-INT.ASC:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GD-ARC1.ASC:
+    mimetype: text/plain
+  GD-ARC2.ASC:
+    mimetype: text/plain
+  GD-ARC3.ASC:
+    mimetype: text/plain
+  GD-ARC4.ANS:
+    mimetype: text/plain
+  GD-IL1.ASC:
+    mimetype: text/plain
+  GD-IL2.ASC:
+    mimetype: text/plain
+  GD-ILLUM.ANS:
+    mimetype: text/plain
+  GD-OK.ASC:
+    mimetype: text/plain
+  GD-SOLAR.ANS:
+    mimetype: text/plain
+  GD-SPIDR.ASC:
+    mimetype: text/plain
+  IC-ILL01.ANS:
+    mimetype: text/plain
+  IC-PHOB1.ASC:
+    mimetype: text/plain
+  IL-0795.MEM:
+    mimetype: text/plain
+  IL-0795.NFO:
+    mimetype: text/plain
+  IL-APP.ZIP:
+    mimetype: application/zip
+  ON-AVGA.ANS:
+    mimetype: text/plain
+  ON-NAM1.ANS:
+    mimetype: text/plain
+  ON-SOL.ANS:
+    mimetype: text/plain
+  ON-VICE.ASC:
+    mimetype: text/plain
+  TBSCAN.ART:
+    mimetype: text/plain

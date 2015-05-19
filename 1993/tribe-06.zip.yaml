@@ -1,0 +1,62 @@
+name: tribe-06.zip
+hash: a63e0ae3e48c22ed3eea42a9f3b27bb6
+year: 1993
+file:
+  ANSIM10.ZIP:
+    mimetype: application/zip
+  ARCHIVE.NFO:
+    mimetype: text/plain
+  CA-TRG1.TRI:
+    mimetype: text/plain
+  CA-TSG1.TRI:
+    mimetype: text/plain
+  EMP-ALTN.MNU:
+    mimetype: text/plain
+  EMP-AMG.TRI:
+    mimetype: text/plain
+  EMP-DEM.TRI:
+    mimetype: text/plain
+  EMP-THD.TRI:
+    mimetype: text/plain
+  EMP-WR.EXE:
+    mimetype: application/x-msdos-program
+  FD-FOUND.TRI:
+    mimetype: text/plain
+  FD-MZ.TRI:
+    mimetype: text/plain
+  FD-SOH.TRI:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  HOP.DIS:
+    mimetype: text/plain
+  MT-F451.TRI:
+    mimetype: text/plain
+  MT-TCAN.TRI:
+    mimetype: text/plain
+  QZ-ADC1.TRI:
+    mimetype: text/plain
+  QZ-CCI1.TRI:
+    mimetype: text/plain
+  QZ-ENC1.TRI:
+    mimetype: text/plain
+  QZ-INFM1.TRI:
+    mimetype: text/plain
+  QZ-INFM2.TRI:
+    mimetype: text/plain
+  QZ-RGMNU.ZIP:
+    mimetype: application/zip
+  QZ-TAS1.TRI:
+    mimetype: text/plain
+  QZ-TE1.TRI:
+    mimetype: text/plain
+  QZ-TSG3.TRI:
+    mimetype: text/plain
+  TW-1193.TXT:
+    mimetype: text/plain
+  XN-FLT.TRI:
+    mimetype: text/plain
+  XN-TOS1.TRI:
+    mimetype: text/plain
+  XN-TSOD1.TRI:
+    mimetype: text/plain

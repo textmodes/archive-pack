@@ -1,0 +1,78 @@
+name: mskp-03.zip
+hash: 5e3a91ae0d55272d3c02b12eb84a830d
+year: 1996
+file:
+  BG-BIGO.ANS:
+    mimetype: text/plain
+  BG-HDR.ANS:
+    mimetype: text/plain
+  BG-MSKP.ASC:
+    mimetype: text/plain
+  BG-MUTT.ANS:
+    mimetype: text/plain
+  BG-WUD1.ANS:
+    mimetype: text/plain
+  BUENOSAI.RES:
+    mimetype: text/plain
+  BZ-ASN.ANS:
+    mimetype: text/plain
+  BZ-BYEC.ANS:
+    mimetype: text/plain
+  BZ-CAZ.ANS:
+    mimetype: text/plain
+  BZ-CAZI.ANS:
+    mimetype: text/plain
+  BZ-EXODW.ANS:
+    mimetype: text/plain
+  BZ-HDR.ANS:
+    mimetype: text/plain
+  BZ-RUM.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GUANCHOO.TRI:
+    mimetype: text/plain
+  GV-DIZ1.ASC:
+    mimetype: text/plain
+  GV-MASA1.ANS:
+    mimetype: text/plain
+  GV-MASA2.ANS:
+    mimetype: text/plain
+  LI-SKULL.ASC:
+    mimetype: text/plain
+  LM-ACDC.GIF:
+    mimetype: image/gif
+  LM-EGO.GIF:
+    mimetype: image/gif
+  MK-EGG.JPG:
+    mimetype: image/jpeg
+  MK-WALL.JPG:
+    mimetype: image/jpeg
+  MSKP.NFO:
+    mimetype: text/plain
+  RELEASES.DOC:
+    mimetype: text/plain
+  ROON-MEE.EXE:
+    mimetype: application/x-msdos-program
+  XO-APPLY.ANS:
+    mimetype: text/plain
+  XO-HOTT.ANS:
+    mimetype: text/plain
+  XO-MSK#1.RIP:
+    mimetype: image/x-rip
+  XO-MSKP1.ASC:
+    mimetype: text/plain
+  XO-NEBUL.GIF:
+    mimetype: image/gif
+  XO-NECRO.ASC:
+    mimetype: text/plain
+  XO-PAPER.GIF:
+    mimetype: image/gif
+  XO-QUASR.ASC:
+    mimetype: text/plain
+  XO-UCF.ANS:
+    mimetype: text/plain
+  YO-PASS.S3M:
+    mimetype: audio/x-mod
+  YO-ROAD.S3M:
+    mimetype: audio/x-mod

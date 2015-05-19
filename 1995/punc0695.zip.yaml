@@ -1,0 +1,42 @@
+name: punc0695.zip
+hash: 8b4cf177366c3369783420f649941ab8
+year: 1995
+file:
+  CA-BTMAN.GIF:
+    mimetype: image/gif
+  CA-SMOKY.ANS:
+    mimetype: text/plain
+  DK-ARE51.ANS:
+    mimetype: text/plain
+  DK-DDN1.ANS:
+    mimetype: text/plain
+  DK-DDN2.ANS:
+    mimetype: text/plain
+  DK-TAC.ANS:
+    mimetype: text/plain
+  DK-TBF.ANS:
+    mimetype: text/plain
+  DK-USDA.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GREETZ.LST:
+    mimetype: text/plain
+  LU-PUNC.ASC:
+    mimetype: text/plain
+  PUNC-WHO.ZIP:
+    mimetype: application/zip
+  PUNCAPP1.ZIP:
+    mimetype: application/zip
+  PUNCMEMB.ANS:
+    mimetype: text/plain
+  PUNCNFO.ANS:
+    mimetype: text/plain
+  PUNCSITE.ANS:
+    mimetype: text/plain
+  TOKYO.EXE:
+    mimetype: application/x-msdos-program
+  UN-DDN.EXE:
+    mimetype: application/x-msdos-program
+  VOICES.TXT:
+    mimetype: text/plain

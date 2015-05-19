@@ -1,0 +1,30 @@
+name: cpu-font.zip
+hash: 36bc625b8bf3368e98b7bc8b5a3ee0ef
+year: 1994
+file:
+  !!binary synuXujDsw==:
+    mimetype: application/octet-stream
+  !!binary +17AwO5Z:
+    mimetype: application/octet-stream
+  CPU-HEAD.TXT:
+    mimetype: text/plain
+  DEATH.COM:
+    mimetype: application/x-msdos-program
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FUTURE.TDF:
+    mimetype: application/octet-stream
+  MIDDLAGE.TDF:
+    mimetype: application/octet-stream
+  NEOTOKYO.ANS:
+    mimetype: text/plain
+  QWWHEQIT.POZ:
+    mimetype: application/octet-stream
+  RUNACE.COM:
+    mimetype: application/x-msdos-program
+  SPACELNK.TDF:
+    mimetype: application/octet-stream
+  TECH.TDF:
+    mimetype: application/octet-stream
+  WONDER!.WHY:
+    mimetype: text/plain

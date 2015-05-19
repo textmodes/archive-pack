@@ -1,0 +1,48 @@
+name: divine01.zip
+hash: a013a0faf6e915d1358f4f2d0fb1578b
+year: 1998
+file:
+  !!binary xMQoQU5TSSkuxMTE:
+    mimetype: text/plain
+  !!binary xMQoSU5GTykuxMTE:
+    mimetype: text/plain
+  !!binary xMQoTUlTQykuxMTE:
+    mimetype: text/plain
+  CPH-DL01.ANS:
+    mimetype: text/plain
+  DISTRO.ANS:
+    mimetype: text/plain
+  DIV-APP.EXE:
+    mimetype: application/x-msdos-program
+  DIVINE01.MEM:
+    mimetype: text/plain
+  DIVINE01.NFO:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  G1-DL01.ANS:
+    mimetype: text/plain
+  MTH-DIV1.ANS:
+    mimetype: text/plain
+  P5-DL01.ANS:
+    mimetype: text/plain
+  SPH-DL01.ANS:
+    mimetype: text/plain
+  SPH_CIDE.ANS:
+    mimetype: text/plain
+  SPH_HAZE.ANS:
+    mimetype: text/plain
+  SPH_SUSH.ANS:
+    mimetype: text/plain
+  TNT-DEV.ANS:
+    mimetype: text/plain
+  TOX-DL01.ANS:
+    mimetype: text/plain
+  TOX-LVE1.ANS:
+    mimetype: text/plain
+  TOX-REM1.ANS:
+    mimetype: text/plain
+  US-DEEP.ANS:
+    mimetype: text/plain
+  US-TKTH.ANS:
+    mimetype: text/plain

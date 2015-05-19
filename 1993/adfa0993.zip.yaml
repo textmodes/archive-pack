@@ -1,0 +1,52 @@
+name: adfa0993.zip
+hash: b625898acb978bd7cf2137873ca2e952
+year: 1993
+file:
+  ADFA0993.NFO:
+    mimetype: text/plain
+  ANSVIEW.DAT:
+    mimetype: text/plain
+  BA-ZONE.ANS:
+    mimetype: text/plain
+  CA-ADFA.EXE:
+    mimetype: application/x-msdos-program
+  CA-ADFA2.EXE:
+    mimetype: application/x-msdos-program
+  CC-ADFA.ANS:
+    mimetype: text/plain
+  CC-NOENT.ANS:
+    mimetype: text/plain
+  EX-ADFA.EXE:
+    mimetype: application/x-msdos-program
+  EX-POOL.EXE:
+    mimetype: application/x-msdos-program
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  NEOTOKYO.ANS:
+    mimetype: text/plain
+  RA-ADFA.EXE:
+    mimetype: application/x-msdos-program
+  RA-CEL.ANS:
+    mimetype: text/plain
+  RA-CITA.ANS:
+    mimetype: text/plain
+  RA-CRYPT.ANS:
+    mimetype: text/plain
+  RA-TERM.ANS:
+    mimetype: text/plain
+  REQUEST.FRM:
+    mimetype: text/plain
+  SE-ADFA.ANS:
+    mimetype: text/plain
+  SE-CI2.ANS:
+    mimetype: text/plain
+  SE-DCITY.ANS:
+    mimetype: text/plain
+  SE-DETHR.ANS:
+    mimetype: text/plain
+  SE-SATAN.ANS:
+    mimetype: text/plain
+  SE-STATS.ANS:
+    mimetype: text/plain
+  VIEWER.EXE:
+    mimetype: application/x-msdos-program

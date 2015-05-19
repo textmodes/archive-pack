@@ -1,0 +1,56 @@
+name: litt-04.zip
+hash: eea84f9430c44d814afdff54df86a28f
+year: 1999
+file:
+  04-litt.nfo:
+    mimetype: text/plain
+  article.bj:
+    mimetype: text/plain
+  article.h4:
+    mimetype: application/octet-stream
+  file_id.diz:
+    mimetype: text/plain
+  hlight01.g06:
+    mimetype: text/plain
+  hlight01.h06:
+    mimetype: application/octet-stream
+  hlight01.m15:
+    mimetype: text/plain
+  hlight01.m16:
+    mimetype: text/plain
+  hlight01.t02:
+    mimetype: application/octet-stream
+  hlight02.g06:
+    mimetype: text/plain
+  hlight02.h06:
+    mimetype: text/plain
+  hlight02.m15:
+    mimetype: text/plain
+  hlight02.m16:
+    mimetype: application/octet-stream
+  hlight02.t02:
+    mimetype: application/octet-stream
+  intrview.drs:
+    mimetype: application/octet-stream
+  intrview.sp:
+    mimetype: application/octet-stream
+  irclog01.txt:
+    mimetype: text/plain
+  irclog02.txt:
+    mimetype: text/plain
+  irclog03.txt:
+    mimetype: text/plain
+  irclog04.txt:
+    mimetype: text/plain
+  nsreview.g06:
+    mimetype: application/octet-stream
+  nsreview.h06:
+    mimetype: application/octet-stream
+  nsreview.m16:
+    mimetype: application/octet-stream
+  nsreview.t02:
+    mimetype: application/octet-stream
+  quotes04.txt:
+    mimetype: text/plain
+  review.m15:
+    mimetype: application/octet-stream

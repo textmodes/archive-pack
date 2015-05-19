@@ -1,0 +1,24 @@
+name: acidrip.zip
+hash: fb287c7135349ef9a311fe444e23d52d
+year: 1993
+file:
+  RN-ACID1.RIP:
+    mimetype: image/x-rip
+  RN-ACID2.RIP:
+    mimetype: image/x-rip
+  RN-ACID3.RIP:
+    mimetype: image/x-rip
+  RN-BC.RIP:
+    mimetype: image/x-rip
+  RN-DSOC1.RIP:
+    mimetype: image/x-rip
+  RN-DUSN1.RIP:
+    mimetype: image/x-rip
+  RN-FNBD1.RIP:
+    mimetype: image/x-rip
+  RN-NTG.RIP:
+    mimetype: image/x-rip
+  RN-TTG2.RIP:
+    mimetype: image/x-rip
+  VS-ACID1.RIP:
+    mimetype: image/x-rip

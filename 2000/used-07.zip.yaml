@@ -1,0 +1,38 @@
+name: used-07.zip
+hash: 04f0f93953464a6030240ee79f4dfd53
+year: 2000
+file:
+  -ANSI---.---:
+    mimetype: text/plain
+  -ASCII--.---:
+    mimetype: application/octet-stream
+  -INFO---.---:
+    mimetype: application/octet-stream
+  CL!-USED.ASC:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  MR-BVHC1.ANS:
+    mimetype: text/plain
+  MR-HG01.ANS:
+    mimetype: text/plain
+  MR-PRE01.ANS:
+    mimetype: text/plain
+  MR-USED6.ANS:
+    mimetype: text/plain
+  PO-AKIKO.ANS:
+    mimetype: text/plain
+  PO-IDLOB.ANS:
+    mimetype: text/plain
+  PO-KORO!.ANS:
+    mimetype: text/plain
+  US-BM01.ANS:
+    mimetype: text/plain
+  US-COMA1.ANS:
+    mimetype: text/plain
+  US-COMA2.ANS:
+    mimetype: text/plain
+  US-ST01.ANS:
+    mimetype: text/plain
+  USED007.NFO:
+    mimetype: text/plain

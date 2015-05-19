@@ -1,0 +1,16 @@
+name: omt-fli.zip
+hash: 31a58ac024de7dc6b22e61d9af4574ee
+year: 1994
+file:
+  FILE_ID.COL:
+    mimetype: application/octet-stream
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  !!binary SU1BR61ORS5FWEU=:
+    mimetype: application/x-msdos-program
+  NEO.COM:
+    mimetype: application/x-msdos-program
+  OMT-FLI.EXE:
+    mimetype: application/x-msdos-program
+  OMT.NFO:
+    mimetype: text/plain

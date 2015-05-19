@@ -1,0 +1,58 @@
+name: acid-74a.zip
+hash: 6b64ac8656215d835215db7d5ef4d402
+year: 1998
+file:
+  AcidView/AVDialog.class:
+    mimetype: application/x-java-applet
+  AcidView/AcidAnsi.class:
+    mimetype: application/x-java-applet
+  AcidView/AcidText.class:
+    mimetype: application/x-java-applet
+  AcidView/AcidView:
+    mimetype: text/x-shellscript
+  AcidView/AcidView.bat:
+    mimetype: application/x-msdos-program
+  AcidView/AcidView.class:
+    mimetype: application/x-java-applet
+  AcidView/AcidView.faq:
+    mimetype: text/plain
+  AcidView/AcidView.files:
+    mimetype: text/plain
+  AcidView/AcidView.fnt:
+    mimetype: application/octet-stream
+  AcidView/AcidView.jpg:
+    mimetype: image/jpeg
+  AcidView/AcidView.nfo:
+    mimetype: text/plain
+  AcidView/AcidXBin.class:
+    mimetype: application/x-java-applet
+  AcidView/AnsiImage.class:
+    mimetype: application/x-java-applet
+  acid-74.xb:
+    mimetype: text/x-xbin
+  acidapp.exe:
+    mimetype: application/x-msdos-program
+  aln-ger.jpg:
+    mimetype: image/jpeg
+  axb-baby.jpg:
+    mimetype: image/jpeg
+  bed-acidgear.jpg:
+    mimetype: image/jpeg
+  cat-sunset_on_the_bay.jpg:
+    mimetype: image/jpeg
+  f7_-sevens_sanctuary.jpg:
+    mimetype: image/jpeg
+  file_id.diz:
+    mimetype: text/plain
+  grm-bazookajoe.jpg:
+    mimetype: image/jpeg
+  jsn-elio.jpg:
+    mimetype: image/jpeg
+  lgv-bastile.gif:
+    mimetype: image/gif
+  lgv-irq001info.jpg:
+    mimetype: image/jpeg
+  our-copyright.txt:
+    mimetype: text/plain
+  release.nfo:
+    mimetype: text/plain

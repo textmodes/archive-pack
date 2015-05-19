@@ -1,0 +1,44 @@
+name: aplus310.zip
+hash: d5eee065a2ede6de81db6d2f80bd5e4f
+year: 1994
+file:
+  ANSICOM.EXE:
+    mimetype: application/x-msdos-program
+  ANSIPLUS.DOC:
+    mimetype: text/plain
+  ANSIPLUS.SYS:
+    mimetype: text/plain
+  APLUS.PIF:
+    mimetype: application/x-dosexec
+  APLUSLIB.EXE:
+    mimetype: application/x-msdos-program
+  CONSETUP.COM:
+    mimetype: application/x-msdos-program
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  INSTALL.EXE:
+    mimetype: application/x-msdos-program
+  INSTALL.INF:
+    mimetype: text/plain
+  LOCKPAL.COM:
+    mimetype: application/x-msdos-program
+  NEWAPLUS.EXE:
+    mimetype: application/x-msdos-program
+  POPVID.COM:
+    mimetype: application/x-msdos-program
+  PUSHVID.COM:
+    mimetype: application/x-msdos-program
+  README.PLS:
+    mimetype: audio/x-scpls
+  REGISTER.PLS:
+    mimetype: audio/x-scpls
+  SETAPLUS.EXE:
+    mimetype: application/x-msdos-program
+  SETCOLOR.EXE:
+    mimetype: application/x-msdos-program
+  SETCOLOR.SCH:
+    mimetype: application/octet-stream
+  UNLOKPAL.COM:
+    mimetype: application/x-msdos-program
+  WINVGA16.COM:
+    mimetype: application/x-msdos-program

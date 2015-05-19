@@ -1,0 +1,26 @@
+name: msx-01.zip
+hash: 1391a4543110b2cfe3bca42a5fd5219c
+year: 1998
+file:
+  msx/file_id.diz:
+    mimetype: text/plain
+  msx/hb-art.JPG:
+    mimetype: image/jpeg
+  msx/hb-best.JPG:
+    mimetype: image/jpeg
+  msx/hb-fire.JPG:
+    mimetype: image/jpeg
+  msx/hb-kick.JPG:
+    mimetype: image/jpeg
+  msx/hb-mesci.JPG:
+    mimetype: image/jpeg
+  msx/hb-mesox.JPG:
+    mimetype: image/jpeg
+  msx/hb-skl98.JPG:
+    mimetype: image/jpeg
+  msx/hb-wake.JPG:
+    mimetype: image/jpeg
+  msx/msx-nfo.JPG:
+    mimetype: image/jpeg
+  msx/msx.app:
+    mimetype: application/octet-stream

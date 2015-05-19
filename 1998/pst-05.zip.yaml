@@ -1,0 +1,60 @@
+name: pst-05.zip
+hash: 8e1cf4e2559a8952754be4f7f3e321de
+year: 1998
+file:
+  -(ANSI)-:
+    mimetype: text/plain
+  -(ASCI)-:
+    mimetype: text/plain
+  -(INFO)-:
+    mimetype: text/plain
+  -(MISC)-:
+    mimetype: text/plain
+  -(RIP)-:
+    mimetype: text/plain
+  -(VGA)-:
+    mimetype: text/plain
+  CG-SHAT.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  INC-AD3.ANS:
+    mimetype: text/plain
+  INC-SMCV.ANS:
+    mimetype: text/plain
+  KRL-GRR2.RIP:
+    mimetype: image/x-rip
+  KRL-PCK.RIP:
+    mimetype: image/x-rip
+  KRL-PLY.RIP:
+    mimetype: image/x-rip
+  MEMBERS.PST:
+    mimetype: text/plain
+  NEWS.PST:
+    mimetype: text/plain
+  RP-CYB.ASC:
+    mimetype: text/plain
+  RP-NEWS.ANS:
+    mimetype: text/plain
+  RP-SCNC.ANS:
+    mimetype: text/plain
+  TR-OUT2.RIP:
+    mimetype: image/x-rip
+  TR-PEAHH.ANS:
+    mimetype: text/plain
+  US-OOZE.ANS:
+    mimetype: text/plain
+  US-SILCN.ANS:
+    mimetype: text/plain
+  US-SYNTH.ANS:
+    mimetype: text/plain
+  US-TIRC.ASC:
+    mimetype: text/plain
+  VJ-BORG.JPG:
+    mimetype: image/jpeg
+  VJ-PST.JPG:
+    mimetype: image/jpeg
+  VJ-SARAH.PCX:
+    mimetype: image/pcx
+  VJ-TLKS.JPG:
+    mimetype: image/jpeg

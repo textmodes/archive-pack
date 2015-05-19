@@ -1,0 +1,110 @@
+name: bmbook17.zip
+hash: f9bd7822e941a05cc3111217600d4677
+year: 1998
+file:
+  '&COVER17.ANS':
+    mimetype: text/plain
+  (K)BEAMA.ANS:
+    mimetype: text/plain
+  (K)ICEB3.ANS:
+    mimetype: text/plain
+  (K)RAYE.ANS:
+    mimetype: text/plain
+  --ANSI--.---:
+    mimetype: application/octet-stream
+  --ASCII-.---:
+    mimetype: application/octet-stream
+  --BV---.---:
+    mimetype: application/octet-stream
+  --DIZ--.---:
+    mimetype: application/octet-stream
+  --EVOKE-.---:
+    mimetype: text/plain
+  --GUEST-.---:
+    mimetype: application/octet-stream
+  --NFO---.---:
+    mimetype: application/octet-stream
+  --VGA---.---:
+    mimetype: text/plain
+  -THE-END.---:
+    mimetype: application/octet-stream
+  AT-REG.JPG:
+    mimetype: image/jpeg
+  AVE-AWE5.ANS:
+    mimetype: text/plain
+  AVE-GUT.ANS:
+    mimetype: text/plain
+  AVE-H99.ANS:
+    mimetype: text/plain
+  AVE-ICAS.ANS:
+    mimetype: text/plain
+  AVE-IRIC.ANS:
+    mimetype: text/plain
+  AVE-IRIH.ANS:
+    mimetype: text/plain
+  AVE-IRIS.ANS:
+    mimetype: text/plain
+  BMBOOK17.MEM:
+    mimetype: text/plain
+  BMBOOK17.NFO:
+    mimetype: text/plain
+  BMTKKG17.MEM:
+    mimetype: text/plain
+  BV.DOC:
+    mimetype: text/plain
+  BV.EXE:
+    mimetype: application/x-msdos-program
+  BV.INI:
+    mimetype: application/octet-stream
+  EVOKE98.TXT:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  JR_DEADB.ANS:
+    mimetype: text/plain
+  JR_JERU0.ANS:
+    mimetype: text/plain
+  JR_MYST.ANS:
+    mimetype: text/plain
+  MA-ETERN.ASC:
+    mimetype: text/plain
+  MA-HOLOC.ASC:
+    mimetype: text/plain
+  MA-KNAST.ASC:
+    mimetype: text/plain
+  MA-MAIN.ASC:
+    mimetype: text/plain
+  MA-PAULE.ASC:
+    mimetype: text/plain
+  MA-POS!P.ASC:
+    mimetype: text/plain
+  MA-SIMPS.ASC:
+    mimetype: text/plain
+  PND-SCHN.ANS:
+    mimetype: text/plain
+  S3-9IN.TXT:
+    mimetype: text/plain
+  SHN-COLL.ANS:
+    mimetype: text/plain
+  SHN-CRIM.ANS:
+    mimetype: text/plain
+  SHN-KWST.ASC:
+    mimetype: text/plain
+  SHN-LADY.ASC:
+    mimetype: text/plain
+  SHN-PCB.ASC:
+    mimetype: text/plain
+  SHN-PCB2.ANS:
+    mimetype: text/plain
+  SHN-TI.JPG:
+    mimetype: image/jpeg
+  T-SOLOUK.ANS:
+    mimetype: text/plain
+  US-DENTL.ANS:
+    mimetype: text/plain
+  US-LAU.ANS:
+    mimetype: text/plain
+  US-SETUN.ANS:
+    mimetype: text/plain
+  ZZZZZZZZ.ANS:
+    mimetype: text/plain

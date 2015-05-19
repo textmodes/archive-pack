@@ -1,0 +1,92 @@
+name: rca01-96.zip
+hash: 6538d57e475e5197d6af8ac0af8ace22
+year: 1996
+file:
+  3D-AEGO2.RCA:
+    mimetype: text/plain
+  3D-DRKS.RCA:
+    mimetype: text/plain
+  3D-SZONE.RCA:
+    mimetype: text/plain
+  ALTEREGO.EXE:
+    mimetype: application/x-msdos-program
+  ANSI:
+    mimetype: application/octet-stream
+  ASCII:
+    mimetype: application/octet-stream
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GIF:
+    mimetype: application/octet-stream
+  GS-13.XM:
+    mimetype: audio/x-mod
+  GS-DARK.RCA:
+    mimetype: text/plain
+  GS-MED.XM:
+    mimetype: audio/x-mod
+  HEX-VAMP.RCA:
+    mimetype: text/plain
+  KIT-AE.RCA:
+    mimetype: text/plain
+  KIT-CALM.RCA:
+    mimetype: text/plain
+  KIT-SZLG.RCA:
+    mimetype: text/plain
+  KP-RCAUN.GIF:
+    mimetype: image/gif
+  KP-TIE.GIF:
+    mimetype: image/gif
+  LB-BARR.RCA:
+    mimetype: text/plain
+  LB-BTEAR.RCA:
+    mimetype: text/plain
+  LB-CNT.RCA:
+    mimetype: text/plain
+  LB-SWT.RCA:
+    mimetype: text/plain
+  LB-TREA.RCA:
+    mimetype: text/plain
+  LIT:
+    mimetype: application/octet-stream
+  MUSIC:
+    mimetype: application/octet-stream
+  MY-AOS.RCA:
+    mimetype: text/plain
+  MY-GBYE.RCA:
+    mimetype: text/plain
+  RCALETT.RCA:
+    mimetype: text/plain
+  RCASTUFF:
+    mimetype: application/octet-stream
+  RCAVIEW.EXE:
+    mimetype: application/x-msdos-program
+  RCAVIEW.MOD:
+    mimetype: audio/x-mod
+  RCAVIEW.RCA:
+    mimetype: application/octet-stream
+  RIP:
+    mimetype: application/octet-stream
+  SH-BL3.GIF:
+    mimetype: image/gif
+  SH-TWI1.GIF:
+    mimetype: image/gif
+  SH-WEIRD.GIF:
+    mimetype: image/gif
+  SL-AE.RCA:
+    mimetype: text/plain
+  SL-HMAG.RCA:
+    mimetype: text/plain
+  WC-1RIP.RIP:
+    mimetype: image/x-rip
+  WC-GRIDE.RCA:
+    mimetype: text/plain
+  WC-PROP2.RIP:
+    mimetype: image/x-rip
+  WC-PROPH.RCA:
+    mimetype: text/plain
+  WC-WOLV.RIP:
+    mimetype: image/x-rip
+  WM-RAT1.GIF:
+    mimetype: image/gif
+  ZIPTXT.TXT:
+    mimetype: text/plain

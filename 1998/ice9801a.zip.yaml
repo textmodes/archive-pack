@@ -1,0 +1,66 @@
+name: ice9801a.zip
+hash: 983b106fc9177c49fef6c48bfbf82540
+year: 1998
+file:
+  -ANSI---.---:
+    mimetype: text/plain
+  -CONT'D-.---:
+    mimetype: text/plain
+  -LOGO---.---:
+    mimetype: text/plain
+  -STAT---.---:
+    mimetype: text/plain
+  BOA-CCI.ICE:
+    mimetype: text/plain
+  C0-ICE.ICE:
+    mimetype: text/plain
+  C0-ICE2.ICE:
+    mimetype: text/plain
+  C0-ICE3.ICE:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GC-LAV.ICE:
+    mimetype: text/plain
+  ICE-9801.DSC:
+    mimetype: text/plain
+  ICE-9801.MEM:
+    mimetype: text/plain
+  ICE-9801.NFO:
+    mimetype: text/plain
+  ICE-9801.SIT:
+    mimetype: text/plain
+  ICEVIEW.CNF:
+    mimetype: text/plain
+  ICEVIEW.DOC:
+    mimetype: text/plain
+  ICEVIEW.EXE:
+    mimetype: application/x-msdos-program
+  IN-WINTR.ICE:
+    mimetype: text/plain
+  IV-PIF.DVP:
+    mimetype: application/octet-stream
+  K-NOSENS.ICE:
+    mimetype: text/plain
+  KA-FOS.ICE:
+    mimetype: text/plain
+  MI-TRI.ICE:
+    mimetype: text/plain
+  MM-23ARC.ICE:
+    mimetype: text/plain
+  MM-25NEO.ICE:
+    mimetype: text/plain
+  MM-NEO.ICE:
+    mimetype: text/plain
+  PV.EXE:
+    mimetype: application/x-msdos-program
+  SQ2-LG18.ICE:
+    mimetype: text/plain
+  US-FOS1.ICE:
+    mimetype: text/plain
+  US-FOS5.ICE:
+    mimetype: text/plain
+  US-FOS98.ICE:
+    mimetype: text/plain
+  US-ID98.ICE:
+    mimetype: text/plain

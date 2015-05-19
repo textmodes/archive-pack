@@ -1,0 +1,100 @@
+name: acme0196.zip
+hash: e836cce8c7fb19cc7a895e9967f2a8c6
+year: 1996
+file:
+  -TAB-.NFO:
+    mimetype: text/plain
+  ACME0196.ANS:
+    mimetype: text/plain
+  ACMENEWS.ANS:
+    mimetype: text/plain
+  ACMEPOLI.ANS:
+    mimetype: text/plain
+  AD-COLLY.ANS:
+    mimetype: text/plain
+  AD-ETERN.ANS:
+    mimetype: text/plain
+  AD-TSAMX.ANS:
+    mimetype: text/plain
+  AD-TSANU.ANS:
+    mimetype: text/plain
+  AMB.NFO:
+    mimetype: text/plain
+  BORSTJES.EXE:
+    mimetype: application/x-msdos-program
+  BROEKJE.EXE:
+    mimetype: application/x-msdos-program
+  CB-NIGHT.S3M:
+    mimetype: audio/x-mod
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  HK-VR.ASC:
+    mimetype: text/plain
+  HOSTESS.TXT:
+    mimetype: text/plain
+  KO-LOGO.ANS:
+    mimetype: text/plain
+  ML-FISH.ANS:
+    mimetype: text/plain
+  ML-LOGOS.ANS:
+    mimetype: text/plain
+  ML-TOSYS.ANS:
+    mimetype: text/plain
+  MM-0196.ANS:
+    mimetype: text/plain
+  MM-AJFA.ANS:
+    mimetype: text/plain
+  MM-PIT.GIF:
+    mimetype: image/gif
+  MR-DI1.ANS:
+    mimetype: text/plain
+  MR-TJT1.ANS:
+    mimetype: text/plain
+  MR-TO1.ANS:
+    mimetype: text/plain
+  O53#831.074:
+    mimetype: text/plain
+  PK-GUM.ANS:
+    mimetype: text/plain
+  PK-LUM.ANS:
+    mimetype: text/plain
+  PK-PO.ANS:
+    mimetype: text/plain
+  RH-COLLY.ASC:
+    mimetype: text/plain
+  RS-APMAT.ANS:
+    mimetype: text/plain
+  RS-ASC1.ASC:
+    mimetype: text/plain
+  RS-CAT.ANS:
+    mimetype: text/plain
+  RS-DUST1.ANS:
+    mimetype: text/plain
+  RS-T_OD1.ANS:
+    mimetype: text/plain
+  RS-TO_MX.ANS:
+    mimetype: text/plain
+  RS-TO3.ANS:
+    mimetype: text/plain
+  RS-UNMAT.ANS:
+    mimetype: text/plain
+  SD-ASCII.ANS:
+    mimetype: text/plain
+  SH-ASC1.ASC:
+    mimetype: text/plain
+  SH-SHACM.ASC:
+    mimetype: text/plain
+  SN-01961.ANS:
+    mimetype: text/plain
+  SN-01962.ANS:
+    mimetype: text/plain
+  SN-01963.ANS:
+    mimetype: text/plain
+  SN-ACM3.ANS:
+    mimetype: text/plain
+  SN-TPS2.ANS:
+    mimetype: text/plain
+  SV-TERM.GIF:
+    mimetype: image/gif
+  WB-SPAC2.GIF:
+    mimetype: image/gif

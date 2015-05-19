@@ -1,0 +1,30 @@
+name: sh-mnu1.zip
+hash: 0e570c4ac16bb1e1a38dbc0db7ac46c7
+year: 1994
+file:
+  ARCHIVE.ANS:
+    mimetype: text/plain
+  AUTOMENU.ANS:
+    mimetype: text/plain
+  BATCH.ANS:
+    mimetype: text/plain
+  BBSLIST.ANS:
+    mimetype: text/plain
+  EMAIL.ANS:
+    mimetype: text/plain
+  FILE.ANS:
+    mimetype: text/plain
+  MAIN.ANS:
+    mimetype: text/plain
+  MSG.ANS:
+    mimetype: text/plain
+  MYSTICAL.EXE:
+    mimetype: application/x-msdos-program
+  NEO.COM:
+    mimetype: application/x-msdos-program
+  SH-MNU1.DOC:
+    mimetype: text/plain
+  TIMEBANK.ANS:
+    mimetype: text/plain
+  VOTING.ANS:
+    mimetype: text/plain

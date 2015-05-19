@@ -1,0 +1,52 @@
+name: drop9709.zip
+hash: dece911866847bfdedc2eb0d58294754
+year: 1997
+file:
+  (ANSI).(-):
+    mimetype: text/plain
+  (ASCII).(-):
+    mimetype: text/plain
+  (MISC).(-):
+    mimetype: text/plain
+  (TRACK).(-):
+    mimetype: text/plain
+  (VGA).(-):
+    mimetype: text/plain
+  3_ice.it:
+    mimetype: audio/x-mod
+  bc-jewel.jpg:
+    mimetype: image/jpeg
+  dropapp.exe:
+    mimetype: application/x-msdos-program
+  el-mi2.jpg:
+    mimetype: image/jpeg
+  el-smch.jpg:
+    mimetype: image/jpeg
+  el-tee.jpg:
+    mimetype: image/jpeg
+  file_id.diz:
+    mimetype: text/plain
+  k1-drp1.asc:
+    mimetype: text/plain
+  ms-smc.asc:
+    mimetype: text/plain
+  mt-spawn.ans:
+    mimetype: text/plain
+  path-001.ans:
+    mimetype: text/plain
+  rr-dpic1.asc:
+    mimetype: text/plain
+  rr-dpic2.asc:
+    mimetype: text/plain
+  td-al2fl.mod:
+    mimetype: audio/x-mod
+  td-arcan.mod:
+    mimetype: audio/x-mod
+  td-beyon.mod:
+    mimetype: audio/x-mod
+  td-mi.s3m:
+    mimetype: audio/x-mod
+  td-mitec.mod:
+    mimetype: audio/x-mod
+  td-xfile.s3m:
+    mimetype: audio/x-mod

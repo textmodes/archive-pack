@@ -1,0 +1,102 @@
+name: impact_7.zip
+hash: b3d828763e0d936cf831a4589436511b
+year: 1997
+file:
+  '!IMPACT7.MEM':
+    mimetype: text/plain
+  '!IMPACT7.NFO':
+    mimetype: text/plain
+  ^AIR&IMP.BND:
+    mimetype: text/plain
+  3C-FK0.EXE:
+    mimetype: application/x-msdos-program
+  3C-MC.ANS:
+    mimetype: text/plain
+  3C-SE.ANS:
+    mimetype: text/plain
+  AN!BLEND.ASC:
+    mimetype: text/plain
+  AN!CEL.ASC:
+    mimetype: text/plain
+  AN!CHIC1.ASC:
+    mimetype: text/plain
+  AN!COLLY.ASC:
+    mimetype: text/plain
+  AN!CURBN.ASC:
+    mimetype: text/plain
+  AN!FK.ASC:
+    mimetype: text/plain
+  AN!GULP.ASC:
+    mimetype: text/plain
+  AN!LUN.ASC:
+    mimetype: text/plain
+  AN!MO1.ASC:
+    mimetype: text/plain
+  AN!MO2.ASC:
+    mimetype: text/plain
+  AN!SALT.ASC:
+    mimetype: text/plain
+  AN!SPOOF.ASC:
+    mimetype: text/plain
+  AN!SYSX.ASC:
+    mimetype: text/plain
+  ANMN-WP2.BND:
+    mimetype: text/plain
+  ANRB-WPG.BND:
+    mimetype: text/plain
+  ANSI.DIV:
+    mimetype: text/plain
+  ASCII.DIV:
+    mimetype: text/plain
+  BAK-FRON.ASC:
+    mimetype: text/plain
+  BAK-GOOD.ASC:
+    mimetype: text/plain
+  BLNDRS.DIV:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  IAVIEW.EXE:
+    mimetype: application/x-msdos-program
+  IM-BLN26.BND:
+    mimetype: text/plain
+  IM-BLNDR.BND:
+    mimetype: text/plain
+  IMPACT.BND:
+    mimetype: text/plain
+  INFO.DIV:
+    mimetype: text/plain
+  MA-BORG.ANS:
+    mimetype: text/plain
+  MA-COLLY.ANS:
+    mimetype: text/plain
+  MA-DREEM.ANS:
+    mimetype: text/plain
+  MA-TOWER.ANS:
+    mimetype: text/plain
+  OS-IMPCT.GIF:
+    mimetype: image/gif
+  OS-SNKRP.ZIP:
+    mimetype: application/zip
+  OTHER.DIV:
+    mimetype: text/plain
+  TF-ALTER.ANS:
+    mimetype: text/plain
+  TF-DARKP.ANS:
+    mimetype: text/plain
+  TF-FREEZ.ANS:
+    mimetype: text/plain
+  TF-KH0RE.ANS:
+    mimetype: text/plain
+  TF-MUSIC.ASC:
+    mimetype: text/plain
+  TF-MUTAL.ANS:
+    mimetype: text/plain
+  TF-PRESH.ANS:
+    mimetype: text/plain
+  TF-SQIRT.ANS:
+    mimetype: text/plain
+  TF-TOTAL.ANS:
+    mimetype: text/plain
+  US-PHU.ASC:
+    mimetype: text/plain

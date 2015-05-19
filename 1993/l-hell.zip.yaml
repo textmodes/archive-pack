@@ -1,0 +1,16 @@
+name: l-hell.zip
+hash: 8dfec5cd7f937381c6f66809587942e3
+year: 1993
+file:
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FUN!.COM:
+    mimetype: application/x-msdos-program
+  HELL.EXE:
+    mimetype: application/x-msdos-program
+  HELL1.DAT:
+    mimetype: image/x-pcx
+  HELL2.DAT:
+    mimetype: audio/x-mod
+  LITHIUM.NFO:
+    mimetype: text/plain

@@ -1,0 +1,52 @@
+name: sense08.zip
+hash: 8600a299d67efc9e0f744fbf49894d08
+year: 1998
+file:
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  HX-BM.ANS:
+    mimetype: text/plain
+  HX-NS1.ANS:
+    mimetype: text/plain
+  HX-NS2.ANS:
+    mimetype: text/plain
+  HX-ROSE.ANS:
+    mimetype: text/plain
+  HX-SNS.ANS:
+    mimetype: text/plain
+  HX-SPMN.ANS:
+    mimetype: text/plain
+  HX-WORLD.ANS:
+    mimetype: text/plain
+  IN-COLLY.ASC:
+    mimetype: text/plain
+  IN-EXTRE.ASC:
+    mimetype: text/plain
+  IN-NFL.ASC:
+    mimetype: text/plain
+  IN-NUC.ASC:
+    mimetype: text/plain
+  MR-WEB.JPG:
+    mimetype: image/jpeg
+  SC-COLL1.ANS:
+    mimetype: text/plain
+  SC-CRAP.ANS:
+    mimetype: text/plain
+  SC-DIGH1.ANS:
+    mimetype: text/plain
+  SC-DIGH2.ANS:
+    mimetype: text/plain
+  SC-MASCT.ANS:
+    mimetype: text/plain
+  SC-REQS.ANS:
+    mimetype: text/plain
+  SC-UMENU.ANS:
+    mimetype: text/plain
+  SENSE.APP:
+    mimetype: text/plain
+  SENSE08.MEM:
+    mimetype: text/plain
+  SENSE08.NFO:
+    mimetype: text/plain
+  ZN-JAMIX.ZIP:
+    mimetype: application/zip

@@ -1,0 +1,90 @@
+name: tly-1195.zip
+hash: 2bd4681adec18aa03269ad022e2301c5
+year: 1995
+file:
+  CD-BSM.TLY:
+    mimetype: text/plain
+  CD-BSMIN.TLY:
+    mimetype: text/plain
+  CD-COWS.TLY:
+    mimetype: text/plain
+  CD-FIL.TLY:
+    mimetype: text/plain
+  CD-FILOG.TLY:
+    mimetype: text/plain
+  CD-FIMS.TLY:
+    mimetype: text/plain
+  CD-HORR.TLY:
+    mimetype: text/plain
+  CD-HRINF.TLY:
+    mimetype: text/plain
+  CD-MIS.TLY:
+    mimetype: text/plain
+  CD-MK.TLY:
+    mimetype: text/plain
+  CD-MKMM.TLY:
+    mimetype: text/plain
+  CD-NZ.TLY:
+    mimetype: text/plain
+  CD-PI.TLY:
+    mimetype: text/plain
+  CD-REG.TLY:
+    mimetype: text/plain
+  CD-SEX.TLY:
+    mimetype: text/plain
+  CD-SF.TLY:
+    mimetype: text/plain
+  CD-SG1.TLY:
+    mimetype: text/plain
+  CD-SG2.TLY:
+    mimetype: text/plain
+  CD-SGMM.TLY:
+    mimetype: text/plain
+  CD-T4F.TLY:
+    mimetype: text/plain
+  CD-TBMM.TLY:
+    mimetype: text/plain
+  CD-TC.TLY:
+    mimetype: text/plain
+  CD-TLY.TLY:
+    mimetype: text/plain
+  CD-TUG2.TLY:
+    mimetype: text/plain
+  CRIME.EXE:
+    mimetype: application/x-msdos-program
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  MPH-TLY2.TLY:
+    mimetype: image/jpeg
+  SF-AGS3.TLY:
+    mimetype: text/plain
+  SF-CHS1.TLY:
+    mimetype: text/plain
+  SF-CHS2.TLY:
+    mimetype: text/plain
+  SF-FSN.TLY:
+    mimetype: text/plain
+  SF-GTN.TLY:
+    mimetype: text/plain
+  SF-GTNDZ.TLY:
+    mimetype: text/plain
+  SF-ML.TLY:
+    mimetype: text/plain
+  SF-ORP.TLY:
+    mimetype: text/plain
+  SF-SG3.TLY:
+    mimetype: text/plain
+  SUKKER.ASC:
+    mimetype: text/plain
+  TLY-APP.EXE:
+    mimetype: application/x-msdos-program
+  TLY-BRDS.COM:
+    mimetype: application/x-msdos-program
+  TLY-MBRS.COM:
+    mimetype: application/x-msdos-program
+  TLY-NEWS.NFO:
+    mimetype: text/plain
+  TLY-RELS.NFO:
+    mimetype: text/plain
+  TLY-VIEW.ZIP:
+    mimetype: application/zip

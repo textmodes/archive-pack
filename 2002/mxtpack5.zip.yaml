@@ -1,0 +1,48 @@
+name: mxtpack5.zip
+hash: eb2ed56a42adbca2250a6fc5b8d4ef88
+year: 2002
+file:
+  ASCII/MXT-DBZ.ASC:
+    mimetype: text/plain
+  ASCII/MXT-EOD.ASC:
+    mimetype: text/plain
+  ASCII/MXT-GBIS.ASC:
+    mimetype: text/plain
+  ASCII/MXT-KIR.ASC:
+    mimetype: text/plain
+  ASCII/MXT-PRA.ASC:
+    mimetype: text/plain
+  ASCII/MXT-PRC.ASC:
+    mimetype: text/plain
+  ASCII/MXT-RIV.ASC:
+    mimetype: text/plain
+  ASCII/MXT-SH.ASC:
+    mimetype: text/plain
+  ASCII/MXT-VND.ASC:
+    mimetype: text/plain
+  ASCII/MXT-XID.ASC:
+    mimetype: text/plain
+  ASCII/MXT-XORG.ASC:
+    mimetype: text/plain
+  ASCII/mxt-vf.asc:
+    mimetype: text/plain
+  HIREZ/mxt-bishep-tsrh-logo.jpg:
+    mimetype: image/jpeg
+  HIREZ/mxt-bytescrk-tsrh-logo.jpg:
+    mimetype: image/jpeg
+  HIREZ/mxt-database-logo.JPG:
+    mimetype: image/jpeg
+  HIREZ/mxt-dedicate-to-mr-nice.jpg:
+    mimetype: image/jpeg
+  HIREZ/mxt-energy-keygen-skin-bw-DEACTIVE.jpg:
+    mimetype: image/jpeg
+  HIREZ/mxt-nemizis-tsrh-logo.jpg:
+    mimetype: image/jpeg
+  HIREZ/mxt-nitrogen-graffiti.jpg:
+    mimetype: image/jpeg
+  HIREZ/mxt-oxen-tsrh-logo.jpg:
+    mimetype: image/jpeg
+  HIREZ/mxt-tsrh-interface-deactive.jpg:
+    mimetype: image/jpeg
+  MAXXTRO.NFO:
+    mimetype: text/plain

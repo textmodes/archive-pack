@@ -1,0 +1,74 @@
+name: mga-0296.zip
+hash: 2bd2ca5064689de16f3c02314f55df47
+year: 1996
+file:
+  ..LOGIC.SYS:
+    mimetype: application/octet-stream
+  CD-AA.ASC:
+    mimetype: text/plain
+  CD-ALBA.ASC:
+    mimetype: text/plain
+  CD-ASS.ASC:
+    mimetype: text/plain
+  CD-EMPTY.ANS:
+    mimetype: text/plain
+  CD-FICT.ASC:
+    mimetype: text/plain
+  CD-HF.ANS:
+    mimetype: text/plain
+  CD-JOINT.RIP:
+    mimetype: image/x-rip
+  CD-MGA.ASC:
+    mimetype: text/plain
+  CD-NAAAM.ASC:
+    mimetype: text/plain
+  CD-NAM.ASC:
+    mimetype: text/plain
+  CY-ALBA.ANS:
+    mimetype: text/plain
+  CY-EC.ANS:
+    mimetype: text/plain
+  CY-ELF.ANS:
+    mimetype: text/plain
+  CY-GE.ANS:
+    mimetype: text/plain
+  CY-HAV.ANS:
+    mimetype: text/plain
+  CY-HF.ANS:
+    mimetype: text/plain
+  CY-INSA.LGO:
+    mimetype: text/plain
+  CY-NAM.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GJ-ACID.ANS:
+    mimetype: text/plain
+  GJ-ANTI.ANS:
+    mimetype: text/plain
+  GJ-DDN.LGO:
+    mimetype: text/plain
+  GJ-FNT05.LGO:
+    mimetype: text/plain
+  GJ-HAZE.LGO:
+    mimetype: text/plain
+  GJ-REQST.ANS:
+    mimetype: text/plain
+  GZ-EMPTY.EXE:
+    mimetype: application/x-msdos-program
+  L-SYSTEM.ASC:
+    mimetype: text/plain
+  MGA-0296.NFO:
+    mimetype: text/plain
+  MM-MGA01.ASC:
+    mimetype: text/plain
+  MM-MGA04.ASC:
+    mimetype: text/plain
+  MMALB01.ASC:
+    mimetype: text/plain
+  MMHFRCE0.ASC:
+    mimetype: text/plain
+  MMKROM26.ASC:
+    mimetype: text/plain
+  ZL-MGA.GIF:
+    mimetype: image/gif

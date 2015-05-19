@@ -1,0 +1,40 @@
+name: xmasgalm12.zip
+hash: 8ca42fe3f739068f1ba2268c6c6e199e
+year: 2003
+file:
+  xmasgalm12/asc-ans/E-SaNTA.ASC:
+    mimetype: text/plain
+  xmasgalm12/asc-ans/XZ-QUICK.ASC:
+    mimetype: text/plain
+  xmasgalm12/asc-ans/galm.ans:
+    mimetype: text/plain
+  xmasgalm12/asc-ans/haschT.asc:
+    mimetype: text/plain
+  xmasgalm12/asc-ans/war.asc:
+    mimetype: text/plain
+  xmasgalm12/file_id.diz:
+    mimetype: text/plain
+  xmasgalm12/filelist.txt:
+    mimetype: text/plain
+  xmasgalm12/gALM.nfo:
+    mimetype: text/plain
+  xmasgalm12/gfx/Blood.gif:
+    mimetype: image/gif
+  xmasgalm12/gfx/Santan.gif:
+    mimetype: image/gif
+  xmasgalm12/zik/(dc)-kir.it:
+    mimetype: audio/x-mod
+  xmasgalm12/zik/chaleb-fulhack.xm:
+    mimetype: audio/x-mod
+  xmasgalm12/zik/chaleb-stenad_baever.xm:
+    mimetype: audio/x-mod
+  xmasgalm12/zik/moh-grot.xm:
+    mimetype: audio/x-mod
+  xmasgalm12/zik/moh-pepparkakshuset.xm:
+    mimetype: audio/x-mod
+  xmasgalm12/zik/moh-snabbpasta.xm:
+    mimetype: audio/x-mod
+  xmasgalm12/zik/moh-strumpan.xm:
+    mimetype: audio/x-mod
+  xmasgalm12/zik/moh-tomterakare.xm:
+    mimetype: audio/x-mod

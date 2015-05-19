@@ -1,0 +1,90 @@
+name: ecl-pak9.zip
+hash: 61bb143f33dff341e62c5b999b218b6a
+year: 1998
+file:
+  CPL!BIRD.ANS:
+    mimetype: text/plain
+  CPL!KUD.ANS:
+    mimetype: text/plain
+  CPL!PUTO.ANS:
+    mimetype: text/plain
+  DLS-303O.ANS:
+    mimetype: text/plain
+  DLS-BYTE.ANS:
+    mimetype: text/plain
+  DLS-COR.ASC:
+    mimetype: text/plain
+  DLS-IDLE.ANS:
+    mimetype: text/plain
+  ECL-APP.EXE:
+    mimetype: application/x-msdos-program
+  ECL-MEMB.ANS:
+    mimetype: text/plain
+  ECL-NFO9.ANS:
+    mimetype: text/plain
+  ECL-VIEW.EXE:
+    mimetype: application/x-msdos-program
+  EX%AVE!.ANS:
+    mimetype: text/plain
+  EX%BC.ANS:
+    mimetype: text/plain
+  EX%MEL.ANS:
+    mimetype: text/plain
+  EX%SEPT.ANS:
+    mimetype: text/plain
+  FB-RASH.ASC:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  INC-ARGH.ANS:
+    mimetype: text/plain
+  L44_ARTS.ANS:
+    mimetype: text/plain
+  L44_ECL.ANS:
+    mimetype: text/plain
+  L44_L44.ANS:
+    mimetype: text/plain
+  L44_RVL.ANS:
+    mimetype: text/plain
+  L44_SUMA.ANS:
+    mimetype: text/plain
+  L44_UFO.ANS:
+    mimetype: text/plain
+  PR_BEAM.ANS:
+    mimetype: text/plain
+  PR_TREBL.ANS:
+    mimetype: text/plain
+  PRCPLALL.ANS:
+    mimetype: text/plain
+  PRSN!SHF.ANS:
+    mimetype: text/plain
+  SN!DUH.ANS:
+    mimetype: text/plain
+  SN!FEAR.ANS:
+    mimetype: text/plain
+  SOS-MANG.ANS:
+    mimetype: text/plain
+  SOS-REQ.ANS:
+    mimetype: text/plain
+  TA-DMA.ANS:
+    mimetype: text/plain
+  TG-ALU~1.GIF:
+    mimetype: image/gif
+  TG-R!A.GIF:
+    mimetype: image/gif
+  TG-TFD.GIF:
+    mimetype: image/gif
+  US-BIZ98.ANS:
+    mimetype: text/plain
+  US-FUCK!.ANS:
+    mimetype: text/plain
+  US-NRG98.ANS:
+    mimetype: text/plain
+  VLD-DIZZ.ANS:
+    mimetype: text/plain
+  VLD-OFFL.ANS:
+    mimetype: text/plain
+  VLD-SLID.ANS:
+    mimetype: text/plain
+  VLD-TMB!.ANS:
+    mimetype: text/plain

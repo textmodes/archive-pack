@@ -1,0 +1,44 @@
+name: kbsvga01.zip
+hash: 1eeeb114967a435c3a0edfd4a282ce2c
+year: 2000
+file:
+  file_id.diz:
+    mimetype: text/plain
+  html/header.jpg:
+    mimetype: image/jpeg
+  kbsvga01.htm:
+    mimetype: text/html
+  kbsvga01.txt:
+    mimetype: text/plain
+  ktz-barn.jpg:
+    mimetype: image/jpeg
+  ktz-cndr.jpg:
+    mimetype: image/jpeg
+  ktz-mang.jpg:
+    mimetype: image/jpeg
+  scene.org:
+    mimetype: text/plain
+  sic-169.jpg:
+    mimetype: image/jpeg
+  sic-blue.jpg:
+    mimetype: image/jpeg
+  sic-face.jpg:
+    mimetype: image/jpeg
+  sic-fles.jpg:
+    mimetype: image/jpeg
+  sic-hick.jpg:
+    mimetype: image/jpeg
+  sic-kbs.jpg:
+    mimetype: image/jpeg
+  sic-kbsb.jpg:
+    mimetype: image/jpeg
+  sic-pain.jpg:
+    mimetype: image/jpeg
+  sic-red.jpg:
+    mimetype: image/jpeg
+  sic-site.jpg:
+    mimetype: image/jpeg
+  var-hand.jpg:
+    mimetype: image/jpeg
+  var-silh.jpg:
+    mimetype: image/jpeg

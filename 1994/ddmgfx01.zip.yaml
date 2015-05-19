@@ -1,0 +1,12 @@
+name: ddmgfx01.zip
+hash: 7d6f8d497646c13b1b035a7ffb5d23c7
+year: 1994
+file:
+  DDM.COM:
+    mimetype: application/x-msdos-program
+  DDM01.GIF:
+    mimetype: image/gif
+  DDM01.NFO:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain

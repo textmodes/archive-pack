@@ -1,0 +1,42 @@
+name: bfg-liz.zip
+hash: 1b2febc230ee0a45ec876957540e59e8
+year: 1998
+file:
+  ANSI.APP:
+    mimetype: text/plain
+  CODER.APP:
+    mimetype: text/plain
+  DISTRO.APP:
+    mimetype: text/plain
+  GFX.APP:
+    mimetype: text/plain
+  LIZ-CRAZ.JPG:
+    mimetype: image/jpeg
+  LIZ-DIE.JPG:
+    mimetype: image/jpeg
+  LIZ-GLE.JPG:
+    mimetype: image/jpeg
+  LIZ-JUNG.JPG:
+    mimetype: image/jpeg
+  LIZ-LOG.JPG:
+    mimetype: image/jpeg
+  LIZ-PC.JPG:
+    mimetype: image/jpeg
+  LIZ-RBBL.JPG:
+    mimetype: image/jpeg
+  LIZ-SAND.JPG:
+    mimetype: image/jpeg
+  LIZ-TREE.JPG:
+    mimetype: image/jpeg
+  LIZ-WAR.JPG:
+    mimetype: image/jpeg
+  LIZ-WORD.JPG:
+    mimetype: image/jpeg
+  SITE.APP:
+    mimetype: text/plain
+  bfgbrief.nfo:
+    mimetype: text/plain
+  file_id.diz:
+    mimetype: text/plain
+  pack.nfo:
+    mimetype: text/plain

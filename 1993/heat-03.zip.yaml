@@ -1,0 +1,52 @@
+name: heat-03.zip
+hash: d375da1a7f2e353bd0a0001657f744e4
+year: 1993
+file:
+  APPGEN.EXE:
+    mimetype: application/x-msdos-program
+  APPLY.DAT:
+    mimetype: audio/x-mod
+  AZ-HEAT.EXE:
+    mimetype: application/x-msdos-program
+  BH-CRAS.ANS:
+    mimetype: text/plain
+  BH-GETWE.ANS:
+    mimetype: text/plain
+  BH-MAIN.ANS:
+    mimetype: text/plain
+  BH-MEMLI.ANS:
+    mimetype: text/plain
+  BH-SILWA.ANS:
+    mimetype: text/plain
+  BH-SKULL.ANS:
+    mimetype: text/plain
+  BH-STRAN.ANS:
+    mimetype: text/plain
+  CH-FATAL.ANS:
+    mimetype: text/plain
+  CH-SNAKE.MNU:
+    mimetype: text/plain
+  CH-SPAWN.MNU:
+    mimetype: text/plain
+  CH-SPIDE.MNU:
+    mimetype: text/plain
+  CH-STORM.ANS:
+    mimetype: text/plain
+  CH-VINE.MNU:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  HEAT.DAT:
+    mimetype: application/octet-stream
+  MG-LOD.ANS:
+    mimetype: text/plain
+  MG-PHARC.ANS:
+    mimetype: text/plain
+  MG-SCLOG.ANS:
+    mimetype: text/plain
+  MG-SPAWN.ANS:
+    mimetype: text/plain
+  MG-SYSCR.ANS:
+    mimetype: text/plain
+  MG-WET.ANS:
+    mimetype: text/plain

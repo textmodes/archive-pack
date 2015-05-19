@@ -1,0 +1,80 @@
+name: acdu0294.zip
+hash: 850b9fda7c602139cc2bcee35c528065
+year: 1994
+file:
+  ACDU0294.NFO:
+    mimetype: text/plain
+  ACID0194.ANS:
+    mimetype: text/plain
+  ACIDAPP.EXE:
+    mimetype: application/x-msdos-program
+  ACIDVIEW.EXE:
+    mimetype: application/x-msdos-program
+  ACIDVIEW.NFO:
+    mimetype: text/plain
+  AE-VUDU.ANS:
+    mimetype: text/plain
+  AN-CAESR.ANS:
+    mimetype: text/plain
+  BE-OBV2.ZIP:
+    mimetype: application/zip
+  BK-CH02.ANS:
+    mimetype: text/plain
+  BK-CP1.ANS:
+    mimetype: text/plain
+  BK-DD1.ANS:
+    mimetype: text/plain
+  DR-BAUD.ANS:
+    mimetype: text/plain
+  DT-DOD2.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  IM-AMBER.ANS:
+    mimetype: text/plain
+  JD-CH01.ANS:
+    mimetype: text/plain
+  KP-ALPHA.ANS:
+    mimetype: text/plain
+  KS-IC1.ANS:
+    mimetype: text/plain
+  RN-ACID4.RIP:
+    mimetype: image/x-rip
+  RN-KAXIS.RIP:
+    mimetype: image/x-rip
+  RN-PNTH1.RIP:
+    mimetype: image/x-rip
+  RN-TS1.RIP:
+    mimetype: image/x-rip
+  RS-DREAM.EXE:
+    mimetype: application/x-msdos-program
+  SD-DIST1.ANS:
+    mimetype: text/plain
+  SM-ACID1.RIP:
+    mimetype: image/x-rip
+  SN-PAL1.ANS:
+    mimetype: text/plain
+  SO-CH01.ANS:
+    mimetype: text/plain
+  SP-AE1.RIP:
+    mimetype: image/x-rip
+  SP-TED1.RIP:
+    mimetype: image/x-rip
+  T2-ADC1.ANS:
+    mimetype: text/plain
+  T2-CTDL1.ANS:
+    mimetype: text/plain
+  T2-DIST1.ANS:
+    mimetype: text/plain
+  T2-DNTOX.ANS:
+    mimetype: text/plain
+  T2-FUN1.ANS:
+    mimetype: text/plain
+  T2-TEH1.ANS:
+    mimetype: text/plain
+  TC-BV2.ANS:
+    mimetype: text/plain
+  TC-GOD.ANS:
+    mimetype: text/plain
+  US-TEH1.RIP:
+    mimetype: image/x-rip

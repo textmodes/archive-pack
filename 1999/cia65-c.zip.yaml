@@ -1,0 +1,32 @@
+name: cia65-c.zip
+hash: 80d8c7db8539d16980b627798af46b34
+year: 1999
+file:
+  '---END--.---':
+    mimetype: text/plain
+  --CNTD--.---:
+    mimetype: text/plain
+  --INFO--.---:
+    mimetype: text/plain
+  0799INFO.CIA:
+    mimetype: text/plain
+  0799MEMB.XB:
+    mimetype: text/x-xbin
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  p-fooore.jpg:
+    mimetype: image/jpeg
+  pk_myata.jpg:
+    mimetype: image/jpeg
+  sc_2000.jpg:
+    mimetype: image/jpeg
+  sc_cool.jpg:
+    mimetype: image/jpeg
+  su_pjs.jpg:
+    mimetype: image/jpeg
+  zb_lqdcr.jpg:
+    mimetype: image/jpeg
+  zk_swars.jpg:
+    mimetype: image/jpeg
+  zl_far.jpg:
+    mimetype: image/jpeg

@@ -1,0 +1,100 @@
+name: plain10.zip
+hash: 629350ef56a3b7295d8fd06dd062752e
+year: 1996
+file:
+  '--------.---':
+    mimetype: text/plain
+  -A------.---:
+    mimetype: text/plain
+  -C------.---:
+    mimetype: text/plain
+  -E------.---:
+    mimetype: text/plain
+  -G------.---:
+    mimetype: text/plain
+  -J------.---:
+    mimetype: text/plain
+  -L------.---:
+    mimetype: text/plain
+  -Y------.---:
+    mimetype: text/plain
+  ANSI01.DA:
+    mimetype: text/plain
+  ANSI01.DD:
+    mimetype: text/plain
+  ANSI01.K1:
+    mimetype: text/plain
+  ANSI01.OS:
+    mimetype: text/plain
+  ANSI02.DD:
+    mimetype: text/plain
+  ANSI02.K1:
+    mimetype: text/plain
+  ANSI02.WI:
+    mimetype: text/plain
+  ANSI03.NRC:
+    mimetype: text/plain
+  ANSI03.WI:
+    mimetype: text/plain
+  ANSI04.KS!:
+    mimetype: text/plain
+  ANSI05.KS!:
+    mimetype: text/plain
+  ANSI06.KS!:
+    mimetype: text/plain
+  ANSI07.PT:
+    mimetype: text/plain
+  ANSI16.WO:
+    mimetype: text/plain
+  ANSI17.WO:
+    mimetype: text/plain
+  ANSI18.WO:
+    mimetype: text/plain
+  ANSI19.EG:
+    mimetype: text/plain
+  COLI01.K1:
+    mimetype: text/plain
+  COLI01.LOI:
+    mimetype: text/plain
+  COLI01.RD:
+    mimetype: text/plain
+  COLI01.SK:
+    mimetype: text/plain
+  COLI03.CZ:
+    mimetype: text/plain
+  COLI03.NRC:
+    mimetype: text/plain
+  COLI04.CZ:
+    mimetype: text/plain
+  COLI04.WO:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GUEST.001:
+    mimetype: text/plain
+  GUEST.002:
+    mimetype: text/plain
+  INFO01.DD:
+    mimetype: text/plain
+  JOINT11.GRP:
+    mimetype: text/plain
+  JOINT12.GRP:
+    mimetype: text/plain
+  JOINT13.GRP:
+    mimetype: text/plain
+  LIQUID.ZIP:
+    mimetype: application/zip
+  LOGO01.LOI:
+    mimetype: text/plain
+  LOGO06.GT:
+    mimetype: text/plain
+  LOGO07.GT:
+    mimetype: text/plain
+  PLASTIC.EXE:
+    mimetype: application/x-msdos-program
+  SPAMAPP.EXE:
+    mimetype: application/x-msdos-program
+  TOONPLN.MEM:
+    mimetype: text/plain
+  TOONPLN.NFO:
+    mimetype: text/plain

@@ -1,0 +1,86 @@
+name: roc-1295.zip
+hash: ae0618bf012fbf4a09707421df70dc2c
+year: 1995
+file:
+  '--------':
+    mimetype: text/plain
+  --ANSI--:
+    mimetype: text/plain
+  --LIT---:
+    mimetype: text/plain
+  --MISC--:
+    mimetype: text/plain
+  --MUSIC-:
+    mimetype: text/plain
+  --RIP---:
+    mimetype: text/plain
+  --VGA---:
+    mimetype: text/plain
+  BG-A1S02.RIP:
+    mimetype: image/x-rip
+  BG-BP05.RIP:
+    mimetype: image/x-rip
+  BG-CD01.RIP:
+    mimetype: image/x-rip
+  BG-CT01A.RIP:
+    mimetype: image/x-rip
+  BG-NN01.RIP:
+    mimetype: image/x-rip
+  BG-PLNB0.RIP:
+    mimetype: image/x-rip
+  BP-36.ANS:
+    mimetype: text/plain
+  BP-A1S01.ANS:
+    mimetype: text/plain
+  BP-ROC01.ANS:
+    mimetype: text/plain
+  BP-ROC02.ANS:
+    mimetype: text/plain
+  BP-SPACE.ANS:
+    mimetype: text/plain
+  BP-TRIB.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  LC-SANTA.GIF:
+    mimetype: image/gif
+  MD-AMY.LIT:
+    mimetype: text/plain
+  MG-SEAL.RIP:
+    mimetype: image/x-rip
+  NMB-HADE.ANS:
+    mimetype: text/plain
+  NMB-IH1.ANS:
+    mimetype: text/plain
+  PN-CODER.ANS:
+    mimetype: text/plain
+  ROC-1295.MEM:
+    mimetype: text/plain
+  ROC-1295.NFO:
+    mimetype: text/plain
+  ROC-APP.COM:
+    mimetype: application/x-msdos-program
+  RZA-36C.ANS:
+    mimetype: text/plain
+  SMI-A1S.ANS:
+    mimetype: text/plain
+  SMI-SG.ANS:
+    mimetype: text/plain
+  SR-RCAGE.ANS:
+    mimetype: text/plain
+  TSH-ALB.ANS:
+    mimetype: text/plain
+  TSH-TIOM.ANS:
+    mimetype: text/plain
+  US-BABP.ANS:
+    mimetype: text/plain
+  US-ROC.COM:
+    mimetype: application/x-msdos-program
+  US-ROC0.ANS:
+    mimetype: text/plain
+  VOICES.TXT:
+    mimetype: text/plain
+  WELCOME.3:
+    mimetype: text/plain
+  XC-SLOW2.S3M:
+    mimetype: audio/x-mod

@@ -1,0 +1,54 @@
+name: fl-pack4.zip
+hash: ee700f78e426e1f5197dad33e7add3a8
+year: 1995
+file:
+  AV11.DOC:
+    mimetype: text/plain
+  AV11.EXE:
+    mimetype: application/x-msdos-program
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FL-APPLY.EXE:
+    mimetype: application/x-msdos-program
+  FL-RLSES.INF:
+    mimetype: text/plain
+  IE-DIGIT.ANS:
+    mimetype: text/plain
+  LITTLE.ZIP:
+    mimetype: application/zip
+  LUIGI.COM:
+    mimetype: application/x-msdos-program
+  NF-MONST.ANS:
+    mimetype: text/plain
+  NF-REN.ANS:
+    mimetype: text/plain
+  NF-STIMP.ANS:
+    mimetype: text/plain
+  PHEWL.EXE:
+    mimetype: application/x-msdos-program
+  PHEWL.NFO:
+    mimetype: text/plain
+  TH-SEX.ANS:
+    mimetype: text/plain
+  TH-VADER.ANS:
+    mimetype: text/plain
+  TK-ANARC.ANS:
+    mimetype: text/plain
+  TK-BATMA.ANS:
+    mimetype: text/plain
+  TK-BIKER.ANS:
+    mimetype: text/plain
+  TK-FILES.ANS:
+    mimetype: text/plain
+  TK-FLGON.ANS:
+    mimetype: text/plain
+  TK-FREDD.ANS:
+    mimetype: text/plain
+  TK-HACK.ANS:
+    mimetype: text/plain
+  TK-ZABE.ANS:
+    mimetype: text/plain
+  VN-REVEL.LIT:
+    mimetype: text/plain
+  WORDLAST.ANS:
+    mimetype: text/plain

@@ -1,0 +1,40 @@
+name: fog04.zip
+hash: 173c5600a5235930bb161d2ada33358b
+year: 1996
+file:
+  CRM-IMN.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FOG#4.ANS:
+    mimetype: text/plain
+  IF-B&P!.ANS:
+    mimetype: text/plain
+  IF-BINGE.ANS:
+    mimetype: text/plain
+  IF-BINGE.GIF:
+    mimetype: image/gif
+  IF-BOOM!.ANS:
+    mimetype: text/plain
+  IF-GYROM.ANS:
+    mimetype: text/plain
+  IF-HACKE.PCX:
+    mimetype: image/pcx
+  IF-LOGOS.ANS:
+    mimetype: text/plain
+  IF-LOGOS.ASC:
+    mimetype: text/plain
+  IF-STILL.ANS:
+    mimetype: text/plain
+  IF-TECHN.ANS:
+    mimetype: text/plain
+  IF-TORT.ANS:
+    mimetype: text/plain
+  IF-WALL.ANS:
+    mimetype: text/plain
+  MZ-BFIRE.ANS:
+    mimetype: text/plain
+  MZ-LOGO1.ANS:
+    mimetype: text/plain
+  MZ-LOGO1.ASC:
+    mimetype: text/plain

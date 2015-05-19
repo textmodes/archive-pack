@@ -1,0 +1,582 @@
+name: cro0402.zip
+hash: bbb13b323aa6bc13f2519555a2c3d4a4
+year: 2002
+file:
+  MAG/DATA/ASCII/AYLIEN/ayl!CAS.NFO:
+    mimetype: text/plain
+  MAG/DATA/ASCII/AYLIEN/ayl!CLIX.NFO:
+    mimetype: text/plain
+  MAG/DATA/ASCII/AYLIEN/ayl!DB-2.NFO:
+    mimetype: text/plain
+  MAG/DATA/ASCII/AYLIEN/ayl!DDX.NFO:
+    mimetype: text/plain
+  MAG/DATA/ASCII/AYLIEN/ayl!FWYH.NFO:
+    mimetype: text/plain
+  MAG/DATA/ASCII/AYLIEN/ayl!HIF.NFO:
+    mimetype: text/plain
+  MAG/DATA/ASCII/AYLIEN/ayl!HMS.NFO:
+    mimetype: text/plain
+  MAG/DATA/ASCII/AYLIEN/ayl!HYN6.NFO:
+    mimetype: text/plain
+  MAG/DATA/ASCII/AYLIEN/ayl!JFF.NFO:
+    mimetype: text/plain
+  MAG/DATA/ASCII/AYLIEN/ayl!KNIGHT.NFO:
+    mimetype: text/plain
+  MAG/DATA/ASCII/AYLIEN/ayl!LOG.NFO:
+    mimetype: text/plain
+  MAG/DATA/ASCII/AYLIEN/ayl!MIP.NFO:
+    mimetype: text/plain
+  MAG/DATA/ASCII/AYLIEN/ayl!MMP3.NFO:
+    mimetype: text/plain
+  MAG/DATA/ASCII/AYLIEN/ayl!OPT.NFO:
+    mimetype: text/plain
+  MAG/DATA/ASCII/AYLIEN/ayl!PULSE.NFO:
+    mimetype: text/plain
+  MAG/DATA/ASCII/AYLIEN/ayl!SCOW.NFO:
+    mimetype: text/plain
+  MAG/DATA/ASCII/AYLIEN/ayl!SID.NFO:
+    mimetype: text/plain
+  MAG/DATA/ASCII/AYLIEN/ayl!SMURF.NFO:
+    mimetype: text/plain
+  MAG/DATA/ASCII/AYLIEN/ayl!SOR.NFO:
+    mimetype: text/plain
+  MAG/DATA/ASCII/AYLIEN/ayl!SPLATT.NFO:
+    mimetype: text/plain
+  MAG/DATA/ASCII/AYLIEN/ayl!TBC.NFO:
+    mimetype: text/plain
+  MAG/DATA/ASCII/AYLIEN/ayl!THORN.NFO:
+    mimetype: text/plain
+  MAG/DATA/ASCII/AYLIEN/ayl!ZOO.NFO:
+    mimetype: text/plain
+  MAG/DATA/ASCII/AYLIEN/ayl!ZPD.NFO:
+    mimetype: text/plain
+  MAG/DATA/ASCII/AYLIEN/ayl!wWw.NFO:
+    mimetype: text/plain
+  MAG/DATA/ASCII/CG/cg-ssh_welcome.asc:
+    mimetype: text/plain
+  MAG/DATA/ASCII/OLLI/ol-Arrakis_welcome.asc:
+    mimetype: text/plain
+  MAG/DATA/ASCII/OLLI/ol-Labyrinth_welcome.asc:
+    mimetype: text/plain
+  MAG/DATA/ASCII/OLLI/ol-Renegade_nfo.asc:
+    mimetype: text/plain
+  MAG/DATA/ASCII/OLLI/ol-Variance_nfo.asc:
+    mimetype: text/plain
+  MAG/DATA/ASCII/OLLI/ol-ae_welcome.asc:
+    mimetype: text/plain
+  MAG/DATA/ASCII/OLLI/ol-bvcyp_header.asc:
+    mimetype: text/plain
+  MAG/DATA/ASCII/OLLI/ol-c4_welcome.asc:
+    mimetype: text/plain
+  MAG/DATA/ASCII/OLLI/ol-cky_nfo.asc:
+    mimetype: text/plain
+  MAG/DATA/ASCII/OLLI/ol-cky_welcome.asc:
+    mimetype: text/plain
+  MAG/DATA/ASCII/OLLI/ol-dia_nfo.asc:
+    mimetype: text/plain
+  MAG/DATA/ASCII/OLLI/ol-dyd_header.asc:
+    mimetype: text/plain
+  MAG/DATA/ASCII/OLLI/ol-gds_nfo.asc:
+    mimetype: text/plain
+  MAG/DATA/ASCII/OLLI/ol-highlands_welcome.asc:
+    mimetype: text/plain
+  MAG/DATA/ASCII/OLLI/ol-mmp_nfo.asc:
+    mimetype: text/plain
+  MAG/DATA/ASCII/OLLI/ol-nasi_welcome.asc:
+    mimetype: text/plain
+  MAG/DATA/ASCII/OLLI/ol-nbd_header.asc:
+    mimetype: text/plain
+  MAG/DATA/ASCII/OLLI/ol-o11_welcome.asc:
+    mimetype: text/plain
+  MAG/DATA/ASCII/OLLI/ol-palazzo_welcome.asc:
+    mimetype: text/plain
+  MAG/DATA/ASCII/OLLI/ol-php_welcome.asc:
+    mimetype: text/plain
+  MAG/DATA/ASCII/OLLI/ol-tgsc_nfo.asc:
+    mimetype: text/plain
+  MAG/DATA/ASCII/OLLI/ol-ti_welcome.asc:
+    mimetype: text/plain
+  MAG/DATA/ASCII/TROSS/100real.nfo:
+    mimetype: text/plain
+  MAG/DATA/ASCII/TROSS/ETI.NFO:
+    mimetype: text/plain
+  MAG/DATA/ASCII/TROSS/Seize.nfo:
+    mimetype: text/plain
+  MAG/DATA/ASCII/TROSS/bloodlust.nfo:
+    mimetype: text/plain
+  MAG/DATA/ASCII/TROSS/cmc.nfo:
+    mimetype: text/plain
+  MAG/DATA/ASCII/TROSS/deepimpact.nfo:
+    mimetype: text/plain
+  MAG/DATA/ASCII/TROSS/panda.nfo:
+    mimetype: text/plain
+  MAG/DATA/BONUS/COREUTiL.NFO:
+    mimetype: text/plain
+  MAG/DATA/BONUS/Core.exe:
+    mimetype: application/x-msdos-program
+  MAG/DATA/BONUS/Nbd.exe:
+    mimetype: application/x-msdos-program
+  MAG/DATA/HIREZ/BORDEN/bd-cok!.jpg:
+    mimetype: image/jpeg
+  MAG/DATA/HIREZ/BR00K/bR-cro-mindwork.tk.jpg:
+    mimetype: image/jpeg
+  MAG/DATA/HIREZ/BR00K/br-coderipper-keygen.jpg:
+    mimetype: image/jpeg
+  MAG/DATA/HIREZ/BR00K/br-night-inspiration-at-4.07.jpg:
+    mimetype: image/jpeg
+  MAG/DATA/HIREZ/BR00K/br-xtreeme-bart.jpg:
+    mimetype: image/jpeg
+  MAG/DATA/HIREZ/BR00K/br-xtreeme-smola.jpg:
+    mimetype: image/jpeg
+  MAG/DATA/HIREZ/BR00K/br-xtreeme-whiteg.jpg:
+    mimetype: image/jpeg
+  MAG/DATA/HIREZ/DRAGANOS/dgs!-asb-logo-1-b.jpg:
+    mimetype: image/jpeg
+  MAG/DATA/HIREZ/DRAGANOS/dgs!-blh-logo1.jpg:
+    mimetype: image/jpeg
+  MAG/DATA/HIREZ/DRAGANOS/dgs!-bmi-logo2b.jpg:
+    mimetype: image/jpeg
+  MAG/DATA/HIREZ/DRAGANOS/dgs!-bmi-logo3.jpg:
+    mimetype: image/jpeg
+  MAG/DATA/HIREZ/DRAGANOS/dgs!-boc-logo2.jpg:
+    mimetype: image/jpeg
+  MAG/DATA/HIREZ/DRAGANOS/dgs!-core-keygen1.jpg:
+    mimetype: image/jpeg
+  MAG/DATA/HIREZ/DRAGANOS/dgs!-cro-logo-7.jpg:
+    mimetype: image/jpeg
+  MAG/DATA/HIREZ/DRAGANOS/dgs!-cro-logo1.jpg:
+    mimetype: image/jpeg
+  MAG/DATA/HIREZ/DRAGANOS/dgs!-cro-logo3.jpg:
+    mimetype: image/jpeg
+  MAG/DATA/HIREZ/DRAGANOS/dgs!-cro-logo6.jpg:
+    mimetype: image/jpeg
+  MAG/DATA/HIREZ/DRAGANOS/dgs!-dgs-logo1.jpg:
+    mimetype: image/jpeg
+  MAG/DATA/HIREZ/DRAGANOS/dgs!-insight-keygen-1.jpg:
+    mimetype: image/jpeg
+  MAG/DATA/HIREZ/DRAGANOS/dgs!-kdog-logo1.jpg:
+    mimetype: image/jpeg
+  MAG/DATA/HIREZ/DRAGANOS/dgs!-question.jpg:
+    mimetype: image/jpeg
+  MAG/DATA/HIREZ/FUSSIE/fu!10min.gif:
+    mimetype: image/gif
+  MAG/DATA/HIREZ/FUSSIE/fu!atl1.gif:
+    mimetype: image/gif
+  MAG/DATA/HIREZ/FUSSIE/fu!atl2.gif:
+    mimetype: image/gif
+  MAG/DATA/HIREZ/FUSSIE/fu!atlnew.gif:
+    mimetype: image/gif
+  MAG/DATA/HIREZ/FUSSIE/fu!atlvcd.gif:
+    mimetype: image/gif
+  MAG/DATA/HIREZ/FUSSIE/fu!back.gif:
+    mimetype: image/gif
+  MAG/DATA/HIREZ/FUSSIE/fu!c4-1.gif:
+    mimetype: image/gif
+  MAG/DATA/HIREZ/FUSSIE/fu!core.bmp:
+    mimetype: image/x-ms-bmp
+  MAG/DATA/HIREZ/FUSSIE/fu!core2.gif:
+    mimetype: image/gif
+  MAG/DATA/HIREZ/FUSSIE/fu!cro.gif:
+    mimetype: image/gif
+  MAG/DATA/HIREZ/FUSSIE/fu!crobuilding.gif:
+    mimetype: image/gif
+  MAG/DATA/HIREZ/FUSSIE/fu!crolympia.gif:
+    mimetype: image/gif
+  MAG/DATA/HIREZ/FUSSIE/fu!cromodul.gif:
+    mimetype: image/gif
+  MAG/DATA/HIREZ/FUSSIE/fu!deep.gif:
+    mimetype: image/gif
+  MAG/DATA/HIREZ/FUSSIE/fu!desp.gif:
+    mimetype: image/gif
+  MAG/DATA/HIREZ/FUSSIE/fu!fuss.gif:
+    mimetype: image/gif
+  MAG/DATA/HIREZ/FUSSIE/fu!fuss1.gif:
+    mimetype: image/gif
+  MAG/DATA/HIREZ/FUSSIE/fu!ins.gif:
+    mimetype: image/gif
+  MAG/DATA/HIREZ/FUSSIE/fu!insmp3.gif:
+    mimetype: image/gif
+  MAG/DATA/HIREZ/FUSSIE/fu!key2.jpg:
+    mimetype: image/jpeg
+  MAG/DATA/HIREZ/FUSSIE/fu!mp3.gif:
+    mimetype: image/gif
+  MAG/DATA/HIREZ/FUSSIE/fu!nada.gif:
+    mimetype: image/gif
+  MAG/DATA/HIREZ/FUSSIE/fu!nbd.gif:
+    mimetype: image/gif
+  MAG/DATA/HIREZ/FUSSIE/fu!nutty.gif:
+    mimetype: image/gif
+  MAG/DATA/HIREZ/FUSSIE/fu!orion.gif:
+    mimetype: image/gif
+  MAG/DATA/HIREZ/FUSSIE/fu!patch.jpg:
+    mimetype: image/jpeg
+  MAG/DATA/HIREZ/FUSSIE/fu!radi.gif:
+    mimetype: image/gif
+  MAG/DATA/HIREZ/FUSSIE/fu!snake.gif:
+    mimetype: image/gif
+  MAG/DATA/HIREZ/FUSSIE/fu!tlt.gif:
+    mimetype: image/gif
+  MAG/DATA/HIREZ/FUSSIE/fu!tno.gif:
+    mimetype: image/gif
+  MAG/DATA/HIREZ/FUSSIE/fu!trainer.gif:
+    mimetype: image/gif
+  MAG/DATA/HIREZ/FUSSIE/fu!wish.gif:
+    mimetype: image/gif
+  MAG/DATA/HIREZ/MONOLITH/mono_cow.gif:
+    mimetype: image/gif
+  MAG/DATA/HIREZ/MONOLITH/mono_ship.gif:
+    mimetype: image/gif
+  MAG/DATA/HIREZ/MONOLITH/mono_smack.gif:
+    mimetype: image/gif
+  MAG/DATA/HIREZ/NICE/n!_c4.jpg:
+    mimetype: image/jpeg
+  MAG/DATA/HIREZ/NICE/n!_cover_alexK_back.jpg:
+    mimetype: image/jpeg
+  MAG/DATA/HIREZ/NICE/n!_cover_alexK_front.jpg:
+    mimetype: image/jpeg
+  MAG/DATA/HIREZ/NICE/n!_cover_dj_rollex_front.jpg:
+    mimetype: image/jpeg
+  MAG/DATA/HIREZ/NICE/n!_cover_fantastique_back.jpg:
+    mimetype: image/jpeg
+  MAG/DATA/HIREZ/NICE/n!_cover_fantastique_front.jpg:
+    mimetype: image/jpeg
+  MAG/DATA/HIREZ/NICE/n!_flyer_trance_night.jpg:
+    mimetype: image/jpeg
+  MAG/DATA/HIREZ/NICE/n!_nbd_5th_anniversary.jpg:
+    mimetype: image/jpeg
+  MAG/DATA/HIREZ/NICE/n!_nbd_5th_anniversary_intr.jpg:
+    mimetype: image/jpeg
+  MAG/DATA/HIREZ/NICE/n!_orion_kg.gif:
+    mimetype: image/gif
+  MAG/DATA/HIREZ/NICE/n!_paradox_kg.gif:
+    mimetype: image/gif
+  MAG/DATA/HIREZ/NICE/n!_poster_trance_night.jpg:
+    mimetype: image/jpeg
+  MAG/DATA/HIREZ/NICE/n!_rock__fuck_u.gif:
+    mimetype: image/gif
+  MAG/DATA/HIREZ/NICE/n!_rocking_arrows.jpg:
+    mimetype: image/jpeg
+  MAG/DATA/HIREZ/NICE/n!_roko.jpg:
+    mimetype: image/jpeg
+  MAG/DATA/HIREZ/NICE/n!_tribute_2_radiators.jpg:
+    mimetype: image/jpeg
+  MAG/DATA/HIREZ/NICE/n!_yellyFiSH.jpg:
+    mimetype: image/jpeg
+  MAG/DATA/HIREZ/TARGON/b!-t!-cro.gif:
+    mimetype: image/gif
+  MAG/DATA/HIREZ/TARGON/t!-tlogo.gif:
+    mimetype: image/gif
+  MAG/DATA/HIREZ/TS/ts!chemowns-graffiti.jpg:
+    mimetype: image/jpeg
+  MAG/DATA/HIREZ/TS/ts!nbd.jpg:
+    mimetype: image/jpeg
+  MAG/DATA/HIREZ/TS/ts!nx01.jpg:
+    mimetype: image/jpeg
+  MAG/DATA/HIREZ/TS/ts!paraiso.jpg:
+    mimetype: image/jpeg
+  MAG/DATA/HIREZ/VIRUZ666/v666-insight.logo.jpg:
+    mimetype: image/jpeg
+  MAG/DATA/HIREZ/VIRUZ666/v666-insight.trainer.jpg:
+    mimetype: image/jpeg
+  MAG/DATA/HIREZ/VIRUZ666/v666-orion.keygentemplate.10.jpg:
+    mimetype: image/jpeg
+  MAG/DATA/HIREZ/VIRUZ666/v666-orion.keygentemplate.11.jpg:
+    mimetype: image/jpeg
+  MAG/DATA/HIREZ/splash.jpg:
+    mimetype: image/jpeg
+  MAG/DATA/MUSIC/BEGINNIN.XM:
+    mimetype: audio/x-mod
+  MAG/DATA/MUSIC/DT_ORNSF.XM:
+    mimetype: audio/x-mod
+  MAG/DATA/MUSIC/PRETKI.XM:
+    mimetype: audio/x-mod
+  MAG/DATA/MUSIC/dd-piano.xm:
+    mimetype: audio/x-mod
+  MAG/DATA/MUSIC/dt_radi.xm:
+    mimetype: audio/x-mod
+  MAG/DATA/MUSIC/malmen-flowers.xm:
+    mimetype: audio/x-mod
+  MAG/DATA/MUSIC/malmen-unicorn_glade.xm:
+    mimetype: audio/x-mod
+  MAG/DATA/MUSIC/neo-hz.xm:
+    mimetype: audio/x-mod
+  MAG/DATA/MUSIC/neo-ram3x.xm:
+    mimetype: audio/x-mod
+  MAG/DATA/MUSIC/pd-cf.xm:
+    mimetype: audio/x-mod
+  MAG/DATA/MUSIC/pd-gb.xm:
+    mimetype: audio/x-mod
+  MAG/DATA/MUSIC/pd-ha.xm:
+    mimetype: audio/x-mod
+  MAG/DATA/MUSIC/pd-ll3.xm:
+    mimetype: audio/x-mod
+  MAG/DATA/MUSIC/pd-mh.xm:
+    mimetype: audio/x-mod
+  MAG/DATA/MUSIC/pd-sa.xm:
+    mimetype: audio/x-mod
+  MAG/DATA/SYS/Ascii.ttf:
+    mimetype: application/x-dosexec
+  MAG/DATA/SYS/LCD.ttf:
+    mimetype: application/x-font-ttf
+  MAG/DATA/SYS/Pixel.ttf:
+    mimetype: application/x-font-ttf
+  MAG/DATA/SYS/download.exe:
+    mimetype: application/x-msdos-program
+  MAG/DATA/SYS/gte437.FON:
+    mimetype: application/x-dosexec
+  MAG/HTML/ASCII/ascii.html:
+    mimetype: text/html
+  MAG/HTML/ASCII/ascii_Aylien.html:
+    mimetype: text/html
+  MAG/HTML/ASCII/ascii_Aylien_ayl!4HM.html:
+    mimetype: text/html
+  MAG/HTML/ASCII/ascii_Aylien_ayl!CAS.html:
+    mimetype: text/html
+  MAG/HTML/ASCII/ascii_Aylien_ayl!CHC.html:
+    mimetype: text/html
+  MAG/HTML/ASCII/ascii_Aylien_ayl!CLIX.html:
+    mimetype: text/html
+  MAG/HTML/ASCII/ascii_Aylien_ayl!CUBE.html:
+    mimetype: text/html
+  MAG/HTML/ASCII/ascii_Aylien_ayl!DB-2.html:
+    mimetype: text/html
+  MAG/HTML/ASCII/ascii_Aylien_ayl!DBSMALL.html:
+    mimetype: text/html
+  MAG/HTML/ASCII/ascii_Aylien_ayl!DDX.html:
+    mimetype: text/html
+  MAG/HTML/ASCII/ascii_Aylien_ayl!FWYH.html:
+    mimetype: text/html
+  MAG/HTML/ASCII/ascii_Aylien_ayl!HIF.html:
+    mimetype: text/html
+  MAG/HTML/ASCII/ascii_Aylien_ayl!HMS.html:
+    mimetype: text/html
+  MAG/HTML/ASCII/ascii_Aylien_ayl!HUM.html:
+    mimetype: text/html
+  MAG/HTML/ASCII/ascii_Aylien_ayl!HYN6.html:
+    mimetype: text/html
+  MAG/HTML/ASCII/ascii_Aylien_ayl!JAR.html:
+    mimetype: text/html
+  MAG/HTML/ASCII/ascii_Aylien_ayl!JFF.html:
+    mimetype: text/html
+  MAG/HTML/ASCII/ascii_Aylien_ayl!KNIGHT.html:
+    mimetype: text/html
+  MAG/HTML/ASCII/ascii_Aylien_ayl!L2L.html:
+    mimetype: text/html
+  MAG/HTML/ASCII/ascii_Aylien_ayl!LOG.html:
+    mimetype: text/html
+  MAG/HTML/ASCII/ascii_Aylien_ayl!MIP.html:
+    mimetype: text/html
+  MAG/HTML/ASCII/ascii_Aylien_ayl!MMP3.html:
+    mimetype: text/html
+  MAG/HTML/ASCII/ascii_Aylien_ayl!OPT.html:
+    mimetype: text/html
+  MAG/HTML/ASCII/ascii_Aylien_ayl!PD.html:
+    mimetype: text/html
+  MAG/HTML/ASCII/ascii_Aylien_ayl!PULSE.html:
+    mimetype: text/html
+  MAG/HTML/ASCII/ascii_Aylien_ayl!SCOW.html:
+    mimetype: text/html
+  MAG/HTML/ASCII/ascii_Aylien_ayl!SID.html:
+    mimetype: text/html
+  MAG/HTML/ASCII/ascii_Aylien_ayl!SMURF.html:
+    mimetype: text/html
+  MAG/HTML/ASCII/ascii_Aylien_ayl!SOR.html:
+    mimetype: text/html
+  MAG/HTML/ASCII/ascii_Aylien_ayl!SPLATT.html:
+    mimetype: text/html
+  MAG/HTML/ASCII/ascii_Aylien_ayl!TBC.html:
+    mimetype: text/html
+  MAG/HTML/ASCII/ascii_Aylien_ayl!TGX.html:
+    mimetype: text/html
+  MAG/HTML/ASCII/ascii_Aylien_ayl!THORN.html:
+    mimetype: text/html
+  MAG/HTML/ASCII/ascii_Aylien_ayl!ZOO.html:
+    mimetype: text/html
+  MAG/HTML/ASCII/ascii_Aylien_ayl!ZPD.html:
+    mimetype: text/html
+  MAG/HTML/ASCII/ascii_Aylien_ayl!wWw.html:
+    mimetype: text/html
+  MAG/HTML/ASCII/ascii_Borden.html:
+    mimetype: text/html
+  MAG/HTML/ASCII/ascii_Borden_bd-g4.html:
+    mimetype: text/html
+  MAG/HTML/ASCII/ascii_Borden_bd-rafs.html:
+    mimetype: text/html
+  MAG/HTML/ASCII/ascii_Borden_bd-tony.html:
+    mimetype: text/html
+  MAG/HTML/ASCII/ascii_Olli.html:
+    mimetype: text/html
+  MAG/HTML/ASCII/ascii_Olli_ol-Arrakis_welcome.html:
+    mimetype: text/html
+  MAG/HTML/ASCII/ascii_Olli_ol-Distinct_nfo.html:
+    mimetype: text/html
+  MAG/HTML/ASCII/ascii_Olli_ol-Labyrinth_welcome.html:
+    mimetype: text/html
+  MAG/HTML/ASCII/ascii_Olli_ol-Renegade_nfo.html:
+    mimetype: text/html
+  MAG/HTML/ASCII/ascii_Olli_ol-Variance_nfo.html:
+    mimetype: text/html
+  MAG/HTML/ASCII/ascii_Olli_ol-ae_welcome.html:
+    mimetype: text/html
+  MAG/HTML/ASCII/ascii_Olli_ol-bvcyp_header.html:
+    mimetype: text/html
+  MAG/HTML/ASCII/ascii_Olli_ol-c4_welcome.html:
+    mimetype: text/html
+  MAG/HTML/ASCII/ascii_Olli_ol-cky_nfo.html:
+    mimetype: text/html
+  MAG/HTML/ASCII/ascii_Olli_ol-cky_welcome.html:
+    mimetype: text/html
+  MAG/HTML/ASCII/ascii_Olli_ol-dia_nfo.html:
+    mimetype: text/html
+  MAG/HTML/ASCII/ascii_Olli_ol-dyd_header.html:
+    mimetype: text/html
+  MAG/HTML/ASCII/ascii_Olli_ol-gds_nfo.html:
+    mimetype: text/html
+  MAG/HTML/ASCII/ascii_Olli_ol-highlands_welcome.html:
+    mimetype: text/html
+  MAG/HTML/ASCII/ascii_Olli_ol-mmp_nfo.html:
+    mimetype: text/html
+  MAG/HTML/ASCII/ascii_Olli_ol-nasi_welcome.html:
+    mimetype: text/html
+  MAG/HTML/ASCII/ascii_Olli_ol-nbd_header.html:
+    mimetype: text/html
+  MAG/HTML/ASCII/ascii_Olli_ol-o11_welcome.html:
+    mimetype: text/html
+  MAG/HTML/ASCII/ascii_Olli_ol-palazzo_welcome.html:
+    mimetype: text/html
+  MAG/HTML/ASCII/ascii_Olli_ol-php_welcome.html:
+    mimetype: text/html
+  MAG/HTML/ASCII/ascii_Olli_ol-tgsc_nfo.html:
+    mimetype: text/html
+  MAG/HTML/ASCII/ascii_Olli_ol-ti_welcome.html:
+    mimetype: text/html
+  MAG/HTML/ASCII/ascii_Tross.html:
+    mimetype: text/html
+  MAG/HTML/ASCII/ascii_Tross_100real.html:
+    mimetype: text/html
+  MAG/HTML/ASCII/ascii_Tross_ETI.html:
+    mimetype: text/html
+  MAG/HTML/ASCII/ascii_Tross_Seize.html:
+    mimetype: text/html
+  MAG/HTML/ASCII/ascii_Tross_bloodlust.html:
+    mimetype: text/html
+  MAG/HTML/ASCII/ascii_Tross_cmc.html:
+    mimetype: text/html
+  MAG/HTML/ASCII/ascii_Tross_deepimpact.html:
+    mimetype: text/html
+  MAG/HTML/ASCII/ascii_Tross_panda.html:
+    mimetype: text/html
+  MAG/HTML/ASCII/ascii_cg.html:
+    mimetype: text/html
+  MAG/HTML/ASCII/ascii_cg_cg-ssh_welcome.html:
+    mimetype: text/html
+  MAG/HTML/ASCII/ascii_content.html:
+    mimetype: text/html
+  MAG/HTML/ASCII/ascii_select.html:
+    mimetype: text/html
+  MAG/HTML/BONUS/bonus.html:
+    mimetype: text/html
+  MAG/HTML/BONUS/core.jpg:
+    mimetype: image/jpeg
+  MAG/HTML/BONUS/nbd.jpg:
+    mimetype: image/jpeg
+  MAG/HTML/HIREZ/hirez.html:
+    mimetype: text/html
+  MAG/HTML/HIREZ/hirez_BR00k.html:
+    mimetype: text/html
+  MAG/HTML/HIREZ/hirez_Borden.html:
+    mimetype: text/html
+  MAG/HTML/HIREZ/hirez_Draganos.html:
+    mimetype: text/html
+  MAG/HTML/HIREZ/hirez_FuSSiE.html:
+    mimetype: text/html
+  MAG/HTML/HIREZ/hirez_Monolith.html:
+    mimetype: text/html
+  MAG/HTML/HIREZ/hirez_NiCE.html:
+    mimetype: text/html
+  MAG/HTML/HIREZ/hirez_Targon.html:
+    mimetype: text/html
+  MAG/HTML/HIREZ/hirez_Ts.html:
+    mimetype: text/html
+  MAG/HTML/HIREZ/hirez_Viruz666.html:
+    mimetype: text/html
+  MAG/HTML/HIREZ/hirez_content.html:
+    mimetype: text/html
+  MAG/HTML/HIREZ/hirez_select.html:
+    mimetype: text/html
+  MAG/HTML/INFO/info.html:
+    mimetype: text/html
+  MAG/HTML/MUSIC/left_dualtrax.gif:
+    mimetype: image/gif
+  MAG/HTML/MUSIC/left_dusodril.gif:
+    mimetype: image/gif
+  MAG/HTML/MUSIC/left_malmen.gif:
+    mimetype: image/gif
+  MAG/HTML/MUSIC/left_minn0x.gif:
+    mimetype: image/gif
+  MAG/HTML/MUSIC/left_myssy.gif:
+    mimetype: image/gif
+  MAG/HTML/MUSIC/left_neoman.gif:
+    mimetype: image/gif
+  MAG/HTML/MUSIC/left_paledeth.gif:
+    mimetype: image/gif
+  MAG/HTML/MUSIC/music.html:
+    mimetype: text/html
+  MAG/HTML/MUSIC/music_Dualtrax.html:
+    mimetype: text/html
+  MAG/HTML/MUSIC/music_Dusodril.html:
+    mimetype: text/html
+  MAG/HTML/MUSIC/music_Malmen.html:
+    mimetype: text/html
+  MAG/HTML/MUSIC/music_Minn0x.html:
+    mimetype: text/html
+  MAG/HTML/MUSIC/music_Myssy.html:
+    mimetype: text/html
+  MAG/HTML/MUSIC/music_Neoman.html:
+    mimetype: text/html
+  MAG/HTML/MUSIC/music_PaleDeth.html:
+    mimetype: text/html
+  MAG/HTML/MUSIC/music_background.jpg:
+    mimetype: image/jpeg
+  MAG/HTML/MUSIC/music_background_dualtrax.jpg:
+    mimetype: image/jpeg
+  MAG/HTML/MUSIC/music_background_dusodril.jpg:
+    mimetype: image/jpeg
+  MAG/HTML/MUSIC/music_background_malmen.jpg:
+    mimetype: image/jpeg
+  MAG/HTML/MUSIC/music_background_minn0x.jpg:
+    mimetype: image/jpeg
+  MAG/HTML/MUSIC/music_background_myssy.jpg:
+    mimetype: image/jpeg
+  MAG/HTML/MUSIC/music_background_neoman.jpg:
+    mimetype: image/jpeg
+  MAG/HTML/MUSIC/music_background_paledeth.jpg:
+    mimetype: image/jpeg
+  MAG/HTML/MUSIC/music_content.html:
+    mimetype: text/html
+  MAG/HTML/MUSIC/music_select.html:
+    mimetype: text/html
+  MAG/HTML/MUSIC/right_dualtrax.gif:
+    mimetype: image/gif
+  MAG/HTML/MUSIC/right_dusodril.gif:
+    mimetype: image/gif
+  MAG/HTML/MUSIC/right_malmen.gif:
+    mimetype: image/gif
+  MAG/HTML/MUSIC/right_minn0x.gif:
+    mimetype: image/gif
+  MAG/HTML/MUSIC/right_myssy.gif:
+    mimetype: image/gif
+  MAG/HTML/MUSIC/right_neoman.gif:
+    mimetype: image/gif
+  MAG/HTML/MUSIC/right_paledeth.gif:
+    mimetype: image/gif
+  MAG/HTML/style.css:
+    mimetype: text/css
+  bass.dll:
+    mimetype: application/x-dosexec
+  creaction.org:
+    mimetype: text/plain
+  discmag.exe:
+    mimetype: application/x-msdos-program
+  diskmag.ini:
+    mimetype: text/plain

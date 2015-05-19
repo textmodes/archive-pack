@@ -1,0 +1,16 @@
+name: dkb_was.zip
+hash: 850e3c07df18762bde074d60e639faa4
+year: 1997
+file:
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  STEELTRA.INS:
+    mimetype: application/octet-stream
+  dkb.nfo:
+    mimetype: text/plain
+  misk-was.jpg:
+    mimetype: image/jpeg
+  was01.jpg:
+    mimetype: image/jpeg
+  was02.jpg:
+    mimetype: image/jpeg

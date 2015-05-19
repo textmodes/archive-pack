@@ -1,0 +1,16 @@
+name: ddmgfx08.zip
+hash: 734858ef6683fd53a4fa636ba8d29ad6
+year: 1994
+file:
+  DDM.COM:
+    mimetype: application/x-msdos-program
+  DDM08_A.GIF:
+    mimetype: image/gif
+  DDM08_A.NFO:
+    mimetype: text/plain
+  DDM08_B.GIF:
+    mimetype: image/gif
+  DDM08_B.NFO:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain

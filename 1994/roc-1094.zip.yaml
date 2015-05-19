@@ -1,0 +1,64 @@
+name: roc-1094.zip
+hash: f0888e47f1c21f338915deac86664352
+year: 1994
+file:
+  1094BORD.LST:
+    mimetype: text/plain
+  1094MEM.LST:
+    mimetype: text/plain
+  1094ROC.NFO:
+    mimetype: text/plain
+  BG-2FHP.RIP:
+    mimetype: image/x-rip
+  BG-OVTKL.RIP:
+    mimetype: image/x-rip
+  BP-JOURN.ANS:
+    mimetype: text/plain
+  BP-LEGCY.ANS:
+    mimetype: text/plain
+  BP-OOF.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GD-OBV2.ZIP:
+    mimetype: application/zip
+  GD-ROS2.ANS:
+    mimetype: text/plain
+  GD-SIH.ANS:
+    mimetype: text/plain
+  GD-TNC.ANS:
+    mimetype: text/plain
+  GS-BS2.ANS:
+    mimetype: text/plain
+  GS-ROS.ANS:
+    mimetype: text/plain
+  GS-SHCK.ZIP:
+    mimetype: application/zip
+  GS-TFH.ANS:
+    mimetype: text/plain
+  GSGD-UL.ANS:
+    mimetype: text/plain
+  MG-INFIN.ANS:
+    mimetype: text/plain
+  MG-IWRLD.ANS:
+    mimetype: text/plain
+  MG-OMNIV.ANS:
+    mimetype: text/plain
+  MG-SPAWN.ANS:
+    mimetype: text/plain
+  MG-UFO.ANS:
+    mimetype: text/plain
+  MK-GOLGO.LIT:
+    mimetype: text/plain
+  MK-ROC.LIT:
+    mimetype: text/plain
+  MK-TNC.LIT:
+    mimetype: text/plain
+  NEO.COM:
+    mimetype: application/x-msdos-program
+  ROCAPP.EXE:
+    mimetype: application/x-msdos-program
+  S-ROCLG2.PCX:
+    mimetype: image/pcx
+  TNC.EXE:
+    mimetype: application/x-msdos-program

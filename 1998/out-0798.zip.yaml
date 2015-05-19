@@ -1,0 +1,26 @@
+name: out-0798.zip
+hash: 45d2bae5f2768464891e1ce76e8095e5
+year: 1998
+file:
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FILELIST.TXT:
+    mimetype: text/plain
+  FX_RIP04.ZIP:
+    mimetype: application/zip
+  OUT-AD.ANS:
+    mimetype: text/plain
+  OUT-AD.RIP:
+    mimetype: image/x-rip
+  OUT-ANGL.ANS:
+    mimetype: text/plain
+  OUT-MANP.ANS:
+    mimetype: text/plain
+  OUT-ROSE.ANS:
+    mimetype: text/plain
+  OUT-WARR.ANS:
+    mimetype: text/plain
+  OUT.AD:
+    mimetype: text/plain
+  OUTWORLD.TXT:
+    mimetype: text/plain

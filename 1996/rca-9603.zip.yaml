@@ -1,0 +1,82 @@
+name: rca-9603.zip
+hash: 6bbc1c5442d09c0aba36a3fef2f8a7e5
+year: 1996
+file:
+  ANSI:
+    mimetype: application/octet-stream
+  ASCII:
+    mimetype: application/octet-stream
+  CODE:
+    mimetype: application/octet-stream
+  DH-CONT.RCA:
+    mimetype: text/plain
+  DH-EGO.ZIP:
+    mimetype: application/zip
+  DH-PCON.ZIP:
+    mimetype: application/zip
+  DH-RCA.ZIP:
+    mimetype: application/zip
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GIF:
+    mimetype: application/octet-stream
+  KIT-PP.RCA:
+    mimetype: text/plain
+  LB&KIT_1.RCA:
+    mimetype: text/plain
+  LB&KIT_2.RCA:
+    mimetype: text/plain
+  LB-AE.RCA:
+    mimetype: text/plain
+  LB-AM.RCA:
+    mimetype: text/plain
+  LB-LUCKY.RCA:
+    mimetype: text/plain
+  LB-MP.RCA:
+    mimetype: text/plain
+  LB-SZ.RCA:
+    mimetype: text/plain
+  LIT:
+    mimetype: application/octet-stream
+  MULTI:
+    mimetype: application/octet-stream
+  RCA-LIST.RCA:
+    mimetype: text/plain
+  RCANEWS.RCA:
+    mimetype: text/plain
+  RCASTUFF:
+    mimetype: application/octet-stream
+  RCAVIEW.EXE:
+    mimetype: application/x-msdos-program
+  RCAVIEW.MOD:
+    mimetype: audio/x-mod
+  RCAVIEW.RCA:
+    mimetype: application/octet-stream
+  RIP:
+    mimetype: application/octet-stream
+  SL-AM.RCA:
+    mimetype: text/plain
+  TEK-CYAN.RCA:
+    mimetype: text/plain
+  TEK-RCA.RCA:
+    mimetype: text/plain
+  TEK-WE.RCA:
+    mimetype: text/plain
+  WC-A&D.RIP:
+    mimetype: image/x-rip
+  WC-AM.RIP:
+    mimetype: image/x-rip
+  WC-NEX.RIP:
+    mimetype: image/x-rip
+  WC-NEXUS.RIP:
+    mimetype: image/x-rip
+  WC-PYRO.RIP:
+    mimetype: image/x-rip
+  WC-SKEL.RIP:
+    mimetype: image/x-rip
+  WC-STRWS.RCA:
+    mimetype: text/plain
+  WC-WOM.GIF:
+    mimetype: image/gif
+  WM-NEXUS.RCA:
+    mimetype: text/plain

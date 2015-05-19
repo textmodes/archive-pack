@@ -1,0 +1,184 @@
+name: ioa_1295.zip
+hash: 6c3caf7276064c73c0342f4b49633ac5
+year: 1995
+file:
+  BM-IOA.MOD:
+    mimetype: audio/x-mod
+  CK-DWR.IOA:
+    mimetype: text/plain
+  CK-HARMN.IOA:
+    mimetype: text/plain
+  CK-IOA1.IOA:
+    mimetype: text/plain
+  CK-IOA2.IOA:
+    mimetype: text/plain
+  CK-IOA4.IOA:
+    mimetype: text/plain
+  CK-NIN.IOA:
+    mimetype: text/plain
+  CK-TBP.IOA:
+    mimetype: text/plain
+  CK-TV.IOA:
+    mimetype: text/plain
+  CK-WD.IOA:
+    mimetype: text/plain
+  DP-DWR.IOA:
+    mimetype: text/plain
+  DP-GOD1.IOA:
+    mimetype: text/plain
+  DP-GOD2.IOA:
+    mimetype: text/plain
+  DP-IOA1.IOA:
+    mimetype: text/plain
+  DP-IOA2.IOA:
+    mimetype: text/plain
+  DP-IOA3.IOA:
+    mimetype: text/plain
+  DP-LOGON.ZIP:
+    mimetype: application/zip
+  DP-NUP.ZIP:
+    mimetype: application/zip
+  DP-UNDWL.IOA:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GOD-NET.ZIP:
+    mimetype: application/zip
+  HM-ANAR.IOA:
+    mimetype: text/plain
+  HM-CODE2.IOA:
+    mimetype: text/plain
+  HM-CODER.IOA:
+    mimetype: text/plain
+  HM-CONGO.IOA:
+    mimetype: text/plain
+  HM-DWR.EXE:
+    mimetype: application/x-msdos-program
+  HM-FLUID.IOA:
+    mimetype: text/plain
+  HM-IOA.EXE:
+    mimetype: application/x-msdos-program
+  HM-IOAF.PCX:
+    mimetype: image/pcx
+  HM-JUGGP.EXE:
+    mimetype: application/x-msdos-program
+  HM-MENAC.EXE:
+    mimetype: application/x-msdos-program
+  HM-ONEW2.EXE:
+    mimetype: application/x-msdos-program
+  HM-POWER.IOA:
+    mimetype: text/plain
+  HM-PROPH.PCX:
+    mimetype: image/pcx
+  HM-RAGEF.IOA:
+    mimetype: text/plain
+  HM-RAGF2.IOA:
+    mimetype: text/plain
+  HM-RAGIN.EXE:
+    mimetype: application/x-msdos-program
+  HM-VORTX.EXE:
+    mimetype: application/x-msdos-program
+  HP-THEVO.IOA:
+    mimetype: text/plain
+  HP-TSS.IOA:
+    mimetype: text/plain
+  HP-TSSL.IOA:
+    mimetype: text/plain
+  IOA-APP.ZIP:
+    mimetype: application/zip
+  IOA-VIEW.DAT:
+    mimetype: audio/x-mod
+  IOA-VIEW.DOC:
+    mimetype: text/plain
+  IOA-VIEW.EXE:
+    mimetype: application/x-msdos-program
+  JG-LOGON.ZIP:
+    mimetype: application/zip
+  JG-MTRX.ZIP:
+    mimetype: application/zip
+  LC-IOA.PCX:
+    mimetype: image/pcx
+  LC-MID1.MID:
+    mimetype: audio/midi
+  MEMLST08.IOA:
+    mimetype: text/plain
+  NEWS0895.IOA:
+    mimetype: text/plain
+  SE-EXCL.IOA:
+    mimetype: text/plain
+  SE-IOA.IOA:
+    mimetype: text/plain
+  SE-UNDWL.IOA:
+    mimetype: text/plain
+  SH-OW.IOA:
+    mimetype: text/plain
+  SP-DWRL.IOA:
+    mimetype: text/plain
+  SP-GOD1.IOA:
+    mimetype: text/plain
+  SP-GOD2.IOA:
+    mimetype: text/plain
+  SP-ONLR1.IOA:
+    mimetype: text/plain
+  SP-ONLR2.IOA:
+    mimetype: text/plain
+  SP-PRM.ZIP:
+    mimetype: application/zip
+  SP-TBP1.IOA:
+    mimetype: text/plain
+  SP-TBP2.IOA:
+    mimetype: text/plain
+  SP-TELE.IOA:
+    mimetype: text/plain
+  SP-TSL.IOA:
+    mimetype: text/plain
+  SP-USER.IOA:
+    mimetype: text/plain
+  SS-ASC.IOA:
+    mimetype: text/plain
+  SS-CHAT.IOA:
+    mimetype: text/plain
+  SS-CHAT2.IOA:
+    mimetype: text/plain
+  SS-CONGO.IOA:
+    mimetype: text/plain
+  SS-DR.IOA:
+    mimetype: text/plain
+  SS-DWR.EXE:
+    mimetype: application/x-msdos-program
+  SS-DWR2.IOA:
+    mimetype: text/plain
+  SS-DWR3.IOA:
+    mimetype: text/plain
+  SS-IOA.EXE:
+    mimetype: application/x-msdos-program
+  SS-IOA.IOA:
+    mimetype: text/plain
+  SS-IOA2.IOA:
+    mimetype: text/plain
+  SS-KT.EXE:
+    mimetype: application/x-msdos-program
+  SS-OW.IOA:
+    mimetype: text/plain
+  SS-RF.IOA:
+    mimetype: text/plain
+  SS-STAT.IOA:
+    mimetype: text/plain
+  SS-TBP.IOA:
+    mimetype: text/plain
+  SS-TDK.IOA:
+    mimetype: text/plain
+  SS-UNDWL.IOA:
+    mimetype: text/plain
+  TN-AFIX.ZIP:
+    mimetype: application/zip
+  TN-SIT.IOA:
+    mimetype: text/plain
+  ZJ-BLND.IOA:
+    mimetype: text/plain
+  ZJ-DCI.IOA:
+    mimetype: text/plain
+  ZJ-GOD.IOA:
+    mimetype: text/plain
+  ZJ-IOA1.IOA:
+    mimetype: text/plain

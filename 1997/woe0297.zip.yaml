@@ -1,0 +1,204 @@
+name: woe0297.zip
+hash: c0942f1261c4d9195856695d944bc1fd
+year: 1997
+file:
+  !!binary Ic0hV09FLiHNIQ==:
+    mimetype: text/plain
+  !!binary QU5TSS8hzSFBTlNFRS4hzSE=:
+    mimetype: text/plain
+  ANSI/AT-ARCNE.ANS:
+    mimetype: text/plain
+  ANSI/AT-COC.ANS:
+    mimetype: text/plain
+  ANSI/AT-INS.ANS:
+    mimetype: text/plain
+  ANSI/AT-MD#3.ANS:
+    mimetype: text/plain
+  ANSI/AT-TPP1.ANS:
+    mimetype: text/plain
+  ANSI/BC-WOE.ANS:
+    mimetype: text/plain
+  ANSI/CRONO.ANS:
+    mimetype: text/plain
+  ANSI/DN!-WOEZ.ANS:
+    mimetype: text/plain
+  ANSI/DN!-WOZ1.ANS:
+    mimetype: text/plain
+  ANSI/DN!-WOZ2.ANS:
+    mimetype: text/plain
+  ANSI/DRT-BRK.ANS:
+    mimetype: text/plain
+  ANSI/DRT-COL.ANS:
+    mimetype: text/plain
+  ANSI/DRT-HCK.ANS:
+    mimetype: text/plain
+  ANSI/DRT-SNC.ANS:
+    mimetype: text/plain
+  ANSI/MI-UNK.ANS:
+    mimetype: text/plain
+  ANSI/MS!0297A.ANS:
+    mimetype: text/plain
+  ANSI/MS!0297B.ANS:
+    mimetype: text/plain
+  ANSI/MS-ETER.ANS:
+    mimetype: text/plain
+  ANSI/MS-FILES.ANS:
+    mimetype: text/plain
+  ANSI/MS-HELL.ANS:
+    mimetype: text/plain
+  ANSI/MS-NCODE.ANS:
+    mimetype: text/plain
+  ANSI/MS-ONELN.ANS:
+    mimetype: text/plain
+  ANSI/MS-OZ.ANS:
+    mimetype: text/plain
+  ANSI/MS-TORT.ANS:
+    mimetype: text/plain
+  ANSI/MS-TRIC.ANS:
+    mimetype: text/plain
+  ANSI/MS-TUTOR.ANS:
+    mimetype: text/plain
+  ANSI/OR-EMI1.ANS:
+    mimetype: text/plain
+  ANSI/OR-PNT2.ANS:
+    mimetype: text/plain
+  ANSI/OR-PNTMB.ANS:
+    mimetype: text/plain
+  ANSI/OR-RED.ANS:
+    mimetype: text/plain
+  ANSI/OR-WOE1.ANS:
+    mimetype: text/plain
+  ANSI/PR-ALDER.ANS:
+    mimetype: text/plain
+  ANSI/PR-BLADE.ANS:
+    mimetype: text/plain
+  ANSI/PR-ICENT.ANS:
+    mimetype: text/plain
+  ANSI/PR-OXLGU.ANS:
+    mimetype: text/plain
+  ANSI/PR-PODSC.ANS:
+    mimetype: text/plain
+  ANSI/PR-SOM.ANS:
+    mimetype: text/plain
+  ANSI/PR-STOBL.ANS:
+    mimetype: text/plain
+  ANSI/SHY-CMTX.ANS:
+    mimetype: text/plain
+  ANSI/SHY-COLL.ANS:
+    mimetype: text/plain
+  ANSI/SHY-EPOC.ANS:
+    mimetype: text/plain
+  ANSI/SHY-NUV.ANS:
+    mimetype: text/plain
+  ANSI/X!-0297.ANS:
+    mimetype: text/plain
+  ANSI/X!-ONELN.ANS:
+    mimetype: text/plain
+  !!binary QVNDSUkvIc0hQVNLRUUuIc0h:
+    mimetype: text/plain
+  ASCII/AT-SCRIB.ASC:
+    mimetype: text/plain
+  ASCII/DRT-KOL.ASC:
+    mimetype: text/plain
+  ASCII/MS-PRC3.ASC:
+    mimetype: text/plain
+  ASCII/OR-DIZ1.ASC:
+    mimetype: text/plain
+  ASCII/UO-0297.ASC:
+    mimetype: text/plain
+  ASCII/UO-ELUS.ASC:
+    mimetype: text/plain
+  ASCII/UO-ZINE.ASC:
+    mimetype: text/plain
+  ASCII/X!-ESS.ASC:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  LINKWOE.ZIP:
+    mimetype: application/zip
+  !!binary TU9EUy8hzSFNT0RTLiHNIQ==:
+    mimetype: text/plain
+  MODS/RELEASES.WOE:
+    mimetype: application/octet-stream
+  MODS/WOE-CHAT.ZIP:
+    mimetype: application/zip
+  MODS/WOE-DRML.ZIP:
+    mimetype: application/zip
+  MODS/WOE-LAST.ZIP:
+    mimetype: application/zip
+  MODS/WOE-MATX.ZIP:
+    mimetype: application/zip
+  MODS/WOE-MTRX.ZIP:
+    mimetype: application/zip
+  MODS/WOE-ONLE.ZIP:
+    mimetype: application/zip
+  MODS/WOE-UL1.ZIP:
+    mimetype: application/zip
+  MODS/WOEDMO2.ZIP:
+    mimetype: application/zip
+  MODS/WOEFLOGN.ZIP:
+    mimetype: application/zip
+  MODS/WOEIQEM1.ZIP:
+    mimetype: application/zip
+  MODS/WOEIQFRQ.ZIP:
+    mimetype: application/zip
+  MODS/WOEIQFS1.ZIP:
+    mimetype: application/zip
+  MODS/WOEIQFTP.ZIP:
+    mimetype: application/zip
+  MODS/WOEIQMSG.ZIP:
+    mimetype: application/zip
+  MODS/WOEIQTRB.ZIP:
+    mimetype: application/zip
+  MODS/WOELB_UI.ZIP:
+    mimetype: application/zip
+  MODS/WOELINR1.ZIP:
+    mimetype: application/zip
+  MODS/WOELOCKO.ZIP:
+    mimetype: application/zip
+  MODS/WOETGFTL.ZIP:
+    mimetype: application/zip
+  MODS/WOETGRUM.ZIP:
+    mimetype: application/zip
+  MODS/WOETGUN1.ZIP:
+    mimetype: application/zip
+  MODS/WOETURB1.ZIP:
+    mimetype: application/zip
+  MODS/WOEXAP15.ZIP:
+    mimetype: application/zip
+  !!binary TVVTSUMvIc1NVVNJQy4hzSE=:
+    mimetype: text/plain
+  MUSIC/SURFAH.ZIP:
+    mimetype: application/zip
+  !!binary VkdBLyHNIVZHQS4hzSE=:
+    mimetype: text/plain
+  VGA/BS-RNS1.JPG:
+    mimetype: image/jpeg
+  VGA/BS-WOE1.JPG:
+    mimetype: image/jpeg
+  VGA/BS-WOE2.JPG:
+    mimetype: image/jpeg
+  VGA/EJ-W0E.JPG:
+    mimetype: image/jpeg
+  VGA/FL-RNS2.JPG:
+    mimetype: image/jpeg
+  VGA/FL-RNS3.JPG:
+    mimetype: image/jpeg
+  VGA/FL-WOE1.JPG:
+    mimetype: image/jpeg
+  VGA/GE-SONIC.JPG:
+    mimetype: image/jpeg
+  VGA/GE-SURF.JPG:
+    mimetype: image/jpeg
+  VGA/GE-WOE3.JPG:
+    mimetype: image/jpeg
+  VGA/PR-WOEZ.JPG:
+    mimetype: image/jpeg
+  WOE0297.INQ:
+    mimetype: text/plain
+  WOE0297.MEM:
+    mimetype: text/plain
+  WOEAPP.EXE:
+    mimetype: application/x-msdos-program
+  WOEVIEW.EXE:
+    mimetype: application/x-msdos-program

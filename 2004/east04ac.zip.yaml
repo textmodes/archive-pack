@@ -1,0 +1,36 @@
+name: east04ac.zip
+hash: 0d0875647aba4742e5f5d82b07a24ed8
+year: 2004
+file:
+  BL-1.TXT:
+    mimetype: text/plain
+  NS-1.TXT:
+    mimetype: text/plain
+  NS-2.ANS:
+    mimetype: text/plain
+  NS-3.ANS:
+    mimetype: text/plain
+  NS-4.ANS:
+    mimetype: text/plain
+  OS-1.txt:
+    mimetype: text/plain
+  OS-2.txt:
+    mimetype: text/plain
+  OS-3.txt:
+    mimetype: text/plain
+  OS-4.txt:
+    mimetype: text/plain
+  OS-5.txt:
+    mimetype: text/plain
+  OS-6.txt:
+    mimetype: text/plain
+  OS-7.txt:
+    mimetype: text/plain
+  OS-8.txt:
+    mimetype: text/plain
+  file_id.diz:
+    mimetype: text/plain
+  report.txt:
+    mimetype: text/plain
+  winners.txt:
+    mimetype: text/plain

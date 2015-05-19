@@ -1,0 +1,34 @@
+name: rca-19a.zip
+hash: 47ce72b62511d2e30f11f2b90b3a6750
+year: 1998
+file:
+  E7-KO-HD.ANS:
+    mimetype: text/plain
+  GP-IY.ANS:
+    mimetype: text/plain
+  IY-01A.ANS:
+    mimetype: text/plain
+  IY-01C.ANS:
+    mimetype: text/plain
+  IY-AMA.ANS:
+    mimetype: text/plain
+  KT-TSL.ANS:
+    mimetype: text/plain
+  KTLB-POD.RIP:
+    mimetype: image/x-rip
+  LB4JAMIE.RIP:
+    mimetype: image/x-rip
+  RCA-NEWS.ANS:
+    mimetype: text/plain
+  RCAMEM98.ANS:
+    mimetype: text/plain
+  S4-HG.ANS:
+    mimetype: text/plain
+  TR-RCA.ANS:
+    mimetype: text/plain
+  US-FOS1.RIP:
+    mimetype: image/x-rip
+  US-LB.RIP:
+    mimetype: image/x-rip
+  US-MAT~1.ANS:
+    mimetype: text/plain

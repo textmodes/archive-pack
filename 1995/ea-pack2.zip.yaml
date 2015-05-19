@@ -1,0 +1,12 @@
+name: ea-pack2.zip
+hash: ca705a9db9e2da23c0c1ea96375fa86e
+year: 1995
+file:
+  AMIGA.EXE:
+    mimetype: application/x-msdos-program
+  CHEM.GEN:
+    mimetype: application/octet-stream
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FK-PACK2.EA:
+    mimetype: application/octet-stream

@@ -1,0 +1,28 @@
+name: tdd1195b.zip
+hash: 76fdbedbdd7b2eee475f13051db632e2
+year: 1995
+file:
+  FD-CRASH.XM:
+    mimetype: audio/x-mod
+  FD-LOST.XM:
+    mimetype: audio/x-mod
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FT2.CFG:
+    mimetype: application/octet-stream
+  PMP.EXE:
+    mimetype: application/x-msdos-program
+  README!.TDD:
+    mimetype: text/plain
+  VM-AIRF.S3M:
+    mimetype: audio/x-mod
+  VM-BOSS1.S3M:
+    mimetype: audio/x-mod
+  VM-LAST.S3M:
+    mimetype: audio/x-mod
+  VM-TUF.TDD:
+    mimetype: text/plain
+  VOICES.TXT:
+    mimetype: text/plain
+  WELCOME.3:
+    mimetype: text/plain

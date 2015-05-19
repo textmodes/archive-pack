@@ -1,0 +1,84 @@
+name: pls-0695.zip
+hash: 4f963c6ac76fc62b578a209998eb85a5
+year: 1995
+file:
+  !!binary +vr6+kxJVPou+vr6:
+    mimetype: application/octet-stream
+  !!binary +vr6+lZHQfou+vr6:
+    mimetype: application/octet-stream
+  !!binary +vr6QU5TSfou+vr6:
+    mimetype: application/octet-stream
+  !!binary +vr6QVNDSUku+vr6:
+    mimetype: application/octet-stream
+  !!binary +vr6SlVOS/ou+vr6:
+    mimetype: application/octet-stream
+  !!binary +vr6TUlTQ/ou+vr6:
+    mimetype: application/octet-stream
+  !!binary +vr6TVVTSUMu+vr6:
+    mimetype: application/octet-stream
+  !!binary +vr6WklQU/ou+vr6:
+    mimetype: application/octet-stream
+  CS-BT1.ASC:
+    mimetype: text/plain
+  CS-CW1.ASC:
+    mimetype: text/plain
+  CS-GRAD.LIT:
+    mimetype: text/plain
+  CS-KOTS.LIT:
+    mimetype: text/plain
+  CS-MI.GIF:
+    mimetype: image/gif
+  CS-MW1.ASC:
+    mimetype: text/plain
+  CS-PULSE.ASC:
+    mimetype: text/plain
+  CS-STC.ASC:
+    mimetype: text/plain
+  CS-TCS.ASC:
+    mimetype: text/plain
+  CS-THOTH.ASC:
+    mimetype: text/plain
+  CS-UNTIT.LIT:
+    mimetype: text/plain
+  EE-4N4N.ASC:
+    mimetype: text/plain
+  EE-BFGUS.ASC:
+    mimetype: text/plain
+  EE-CLAW.ASC:
+    mimetype: text/plain
+  EE-DDANG.LIT:
+    mimetype: text/plain
+  EE-FM1.ASC:
+    mimetype: text/plain
+  EE-FM2.ASC:
+    mimetype: text/plain
+  EE-MUSH.ASC:
+    mimetype: text/plain
+  EE-OUBT4.LIT:
+    mimetype: text/plain
+  EE-STION.LIT:
+    mimetype: text/plain
+  EE-YSELF.LIT:
+    mimetype: text/plain
+  EEYORE.NFO:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  MJ-BF2.ANS:
+    mimetype: text/plain
+  MJ-MR1.ANS:
+    mimetype: text/plain
+  MJ-OBV_1.ZIP:
+    mimetype: application/zip
+  MJ-PACNT.NFO:
+    mimetype: text/plain
+  MJ-TCS3.ANS:
+    mimetype: text/plain
+  PLS-0695.MEM:
+    mimetype: text/plain
+  PLS-0695.NFO:
+    mimetype: text/plain
+  PLS-APP.ZIP:
+    mimetype: application/zip
+  PO-OJ.XM:
+    mimetype: audio/x-mod

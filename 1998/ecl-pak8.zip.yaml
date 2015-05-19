@@ -1,0 +1,86 @@
+name: ecl-pak8.zip
+hash: 3af3eb7d0a6b1736c170c1d78a001b9e
+year: 1998
+file:
+  CNS(DA).ANS:
+    mimetype: text/plain
+  CNS(SYS).ANS:
+    mimetype: text/plain
+  CNS(UP).ANS:
+    mimetype: text/plain
+  ECL-APP.EXE:
+    mimetype: application/x-msdos-program
+  ECL-NFO8.ANS:
+    mimetype: text/plain
+  ECL-VIEW.EXE:
+    mimetype: application/x-msdos-program
+  FB-EDIZ.ANS:
+    mimetype: text/plain
+  FB-SHIT.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  NBM-ALUM.ANS:
+    mimetype: text/plain
+  PR_DUHZ.ANS:
+    mimetype: text/plain
+  PR_EMAIL.ANS:
+    mimetype: text/plain
+  PR_MACOR.ANS:
+    mimetype: text/plain
+  PR_OROPA.ANS:
+    mimetype: text/plain
+  PR_RVL.ANS:
+    mimetype: text/plain
+  SN!ALL.ANS:
+    mimetype: text/plain
+  SN!COL.ANS:
+    mimetype: text/plain
+  SN!FRANK.ANS:
+    mimetype: text/plain
+  SN!MAIL.ANS:
+    mimetype: text/plain
+  SN!SNFU.ANS:
+    mimetype: text/plain
+  SN!ZIG.ANS:
+    mimetype: text/plain
+  SNPR!IND.ANS:
+    mimetype: text/plain
+  TA-ABYSS.ANS:
+    mimetype: text/plain
+  TA-CP.ANS:
+    mimetype: text/plain
+  TA-PAGE.ANS:
+    mimetype: text/plain
+  TG-ECL.RIP:
+    mimetype: image/x-rip
+  TG-JESTE.GIF:
+    mimetype: image/gif
+  TL!AREA.ANS:
+    mimetype: text/plain
+  TL!DA.ANS:
+    mimetype: text/plain
+  TL!FOOTB.ANS:
+    mimetype: text/plain
+  TL!HOME.ANS:
+    mimetype: text/plain
+  TL!LOSTD.ANS:
+    mimetype: text/plain
+  TL!MAIN.ANS:
+    mimetype: text/plain
+  TL!MAINM.ANS:
+    mimetype: text/plain
+  TL!ORO.ANS:
+    mimetype: text/plain
+  TL!OROPA.ANS:
+    mimetype: text/plain
+  TL!THUIS.ANS:
+    mimetype: text/plain
+  TL!USERS.ANS:
+    mimetype: text/plain
+  TL!VISIO.ANS:
+    mimetype: text/plain
+  US-NLS.ANS:
+    mimetype: text/plain
+  US-RVL!.ANS:
+    mimetype: text/plain

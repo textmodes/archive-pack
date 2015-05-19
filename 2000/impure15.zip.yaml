@@ -1,0 +1,36 @@
+name: impure15.zip
+hash: 2ce8f883c5098def73f35881f24d51b4
+year: 2000
+file:
+  ESD-EPS9.ASC:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  IMP15.INF:
+    mimetype: text/plain
+  IMP15.MEM:
+    mimetype: text/plain
+  M0D-DVL.ASC:
+    mimetype: text/plain
+  M0D-GSIS.ASC:
+    mimetype: text/plain
+  M0D-M0D.ASC:
+    mimetype: text/plain
+  M0D-OS.ASC:
+    mimetype: text/plain
+  M0D-RDNR.ASC:
+    mimetype: text/plain
+  PO-IMP.ASC:
+    mimetype: text/plain
+  PO-SOULS.TXT:
+    mimetype: text/plain
+  PO-TRX3.ASC:
+    mimetype: text/plain
+  XZ-ARC.ASC:
+    mimetype: text/plain
+  XZ-COLLY.TXT:
+    mimetype: text/plain
+  XZ-IMP2.ASC:
+    mimetype: text/plain
+  XZ-TRNX2.ASC:
+    mimetype: text/plain

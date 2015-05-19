@@ -1,0 +1,20 @@
+name: tpy0895b.zip
+hash: 8cf438b14b1ae9604e9a4071112835a4
+year: 1995
+file:
+  ART.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  MENOVER.COM:
+    mimetype: application/x-msdos-program
+  !!binary TU8u2sK/:
+    mimetype: application/octet-stream
+  TPY-0895.ASC:
+    mimetype: text/plain
+  TPY.APP:
+    mimetype: application/octet-stream
+  TPY.NFO:
+    mimetype: text/plain
+  TPY.RQT:
+    mimetype: application/octet-stream

@@ -1,0 +1,70 @@
+name: punc0795.zip
+hash: 36985930c052e4df1f7c8e4f09f8dfde
+year: 1995
+file:
+  BM-PUNC1.ANS:
+    mimetype: text/plain
+  DAYDREAM.DAT:
+    mimetype: audio/x-mod
+  DAYDREAM.EXE:
+    mimetype: application/x-msdos-program
+  DK-NEXUS.ANS:
+    mimetype: text/plain
+  DK-PLANB.ANS:
+    mimetype: text/plain
+  DK-PLANB.BAK:
+    mimetype: text/plain
+  DK-UNST.ANS:
+    mimetype: text/plain
+  EVOL-APP.EXE:
+    mimetype: application/x-msdos-program
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  JC-DDN1.ANS:
+    mimetype: text/plain
+  JC-TBF1.ANS:
+    mimetype: text/plain
+  LASTON10.ZIP:
+    mimetype: application/zip
+  LU-DDN.ASC:
+    mimetype: text/plain
+  LU-MUTIN.ASC:
+    mimetype: text/plain
+  LU-PUNC.ASC:
+    mimetype: text/plain
+  PUNC0795.GRT:
+    mimetype: text/plain
+  PUNC0795.MEM:
+    mimetype: text/plain
+  PUNC0795.NFO:
+    mimetype: text/plain
+  PUNC0795.SIT:
+    mimetype: text/plain
+  PUNCAPP1.ZIP:
+    mimetype: application/zip
+  PUNCDIST.ANS:
+    mimetype: text/plain
+  PUNCMORE.ZIP:
+    mimetype: application/zip
+  RIP-APP.EXE:
+    mimetype: application/x-msdos-program
+  ST-BALZK.TXT:
+    mimetype: text/plain
+  ST-IROC.ANS:
+    mimetype: text/plain
+  TBF.DAT:
+    mimetype: audio/x-mod
+  TBF.EXE:
+    mimetype: application/x-msdos-program
+  TOKYO.EXE:
+    mimetype: application/x-msdos-program
+  UN-INTEN.S3M:
+    mimetype: audio/x-mod
+  UN-PEACE.S3M:
+    mimetype: audio/x-mod
+  UNSTABLE.EXE:
+    mimetype: application/x-msdos-program
+  VOICES.TXT:
+    mimetype: text/plain
+  WELCOME.3:
+    mimetype: text/plain

@@ -1,0 +1,92 @@
+name: scar0494.zip
+hash: 6e4b1825efab2781f7e4250a54d3c685
+year: 1994
+file:
+  BS-CAESR.SCA:
+    mimetype: text/plain
+  BS-GUY.SCA:
+    mimetype: text/plain
+  BS-PROMO.SCA:
+    mimetype: text/plain
+  BS-START.SCA:
+    mimetype: text/plain
+  CA-FD.SCA:
+    mimetype: text/plain
+  CA-RACE.SCA:
+    mimetype: text/plain
+  CA-SCAR1.GIF:
+    mimetype: image/gif
+  DAZED1.GIF:
+    mimetype: image/gif
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  HOTKEY.ZIP:
+    mimetype: application/zip
+  NEOTOKYO.ANS:
+    mimetype: text/plain
+  NM-DVL.SCA:
+    mimetype: text/plain
+  NM-TGM.SCA:
+    mimetype: text/plain
+  SCAR-APP.ZIP:
+    mimetype: application/zip
+  SCAR1.SCA:
+    mimetype: text/plain
+  SCAR2.SCA:
+    mimetype: text/plain
+  SCAR4.SCA:
+    mimetype: text/plain
+  SCAR5.SCA:
+    mimetype: text/plain
+  SCAR6.SCA:
+    mimetype: text/plain
+  SCAR7.SCA:
+    mimetype: text/plain
+  SCAR8.SCA:
+    mimetype: text/plain
+  SCAR9.SCA:
+    mimetype: text/plain
+  SCAR10.SCA:
+    mimetype: text/plain
+  SCAR11.SCA:
+    mimetype: text/plain
+  SCAR12.SCA:
+    mimetype: text/plain
+  SCAR13.SCA:
+    mimetype: text/plain
+  SCAR0494.NFO:
+    mimetype: text/plain
+  SCARVIEW.EXE:
+    mimetype: application/x-msdos-program
+  SITES.BAK:
+    mimetype: text/plain
+  SITES.SCA:
+    mimetype: text/plain
+  SP-BHOLE.SCA:
+    mimetype: text/plain
+  SP-SCAR1.SCA:
+    mimetype: text/plain
+  SP-SCAR2.SCA:
+    mimetype: text/plain
+  THEDRAW.PCK:
+    mimetype: application/octet-stream
+  TP-AOD.SCA:
+    mimetype: text/plain
+  TP-DCAD2.SCA:
+    mimetype: text/plain
+  TP-FU.SCA:
+    mimetype: text/plain
+  TP-NITDI.SCA:
+    mimetype: text/plain
+  TP-POT.SCA:
+    mimetype: text/plain
+  TP-PROM1.SCA:
+    mimetype: text/plain
+  TP-PROM2.SCA:
+    mimetype: text/plain
+  TP-SOAD.SCA:
+    mimetype: text/plain
+  TP-TGM.SCA:
+    mimetype: text/plain
+  TP-VP.SCA:
+    mimetype: text/plain

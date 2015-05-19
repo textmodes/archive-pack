@@ -1,0 +1,86 @@
+name: rca-9512.zip
+hash: 33ec2d285f04ac5424a794c53947970d
+year: 1995
+file:
+  ALTEREGO.EXE:
+    mimetype: application/x-msdos-program
+  APPGEN2.EXE:
+    mimetype: application/x-msdos-program
+  DK-OBVM.RCA:
+    mimetype: text/plain
+  DK-SKULL.RCA:
+    mimetype: text/plain
+  DMARCH.XM:
+    mimetype: audio/x-mod
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GREYST3.XM:
+    mimetype: audio/x-mod
+  GREYST4.XM:
+    mimetype: audio/x-mod
+  KILLERB.XM:
+    mimetype: audio/x-mod
+  KIT-BTE.RCA:
+    mimetype: text/plain
+  KIT-KIDS.RCA:
+    mimetype: text/plain
+  KIT-OBVM.RCA:
+    mimetype: text/plain
+  KIT-PR.RCA:
+    mimetype: text/plain
+  KIT-SZ.RCA:
+    mimetype: text/plain
+  KIT-XMAS.RCA:
+    mimetype: text/plain
+  KP-DP.RCA:
+    mimetype: text/plain
+  KP-POR.RCA:
+    mimetype: text/plain
+  KP-RCA.GIF:
+    mimetype: image/gif
+  KP-RCAAE.ANS:
+    mimetype: text/plain
+  LAZE.XM:
+    mimetype: audio/x-mod
+  PRESENT.XM:
+    mimetype: audio/x-mod
+  RCALIST.RCA:
+    mimetype: text/plain
+  RCANEWS.RCA:
+    mimetype: text/plain
+  RCAVIEW.EXE:
+    mimetype: application/x-msdos-program
+  RCAVIEW.MOD:
+    mimetype: audio/x-mod
+  SL-OBVM.RCA:
+    mimetype: text/plain
+  SL-POR.GIF:
+    mimetype: image/gif
+  SL-TDH.RCA:
+    mimetype: text/plain
+  VIEW.DOC:
+    mimetype: text/plain
+  WC-DIVA.RCA:
+    mimetype: text/plain
+  WC-NEXUS.RCA:
+    mimetype: text/plain
+  WC-PRACP.RCA:
+    mimetype: text/plain
+  WC-RIPCW.RCA:
+    mimetype: text/plain
+  WC-SPART.RCA:
+    mimetype: text/plain
+  WILDCAT.XM:
+    mimetype: audio/x-mod
+  WM-CAUSE.RCA:
+    mimetype: text/plain
+  WM-EPIT.RCA:
+    mimetype: text/plain
+  WM-HIGH.RCA:
+    mimetype: text/plain
+  WM-LOGO.RCA:
+    mimetype: text/plain
+  WM-LUNI.RCA:
+    mimetype: text/plain
+  WM-VELOC.RCA:
+    mimetype: text/plain

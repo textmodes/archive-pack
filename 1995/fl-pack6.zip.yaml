@@ -1,0 +1,62 @@
+name: fl-pack6.zip
+hash: 84296a0ff5d3f007a57a329cb0b0f4c9
+year: 1995
+file:
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FL-REQ.ANS:
+    mimetype: text/plain
+  FUEL.APP:
+    mimetype: application/octet-stream
+  FUEL.NFO:
+    mimetype: text/plain
+  NF-JBR.ANS:
+    mimetype: text/plain
+  NF-REN.ANS:
+    mimetype: text/plain
+  NF-RIDLE.ANS:
+    mimetype: text/plain
+  NF-TB.ANS:
+    mimetype: text/plain
+  NF-VENOM.ANS:
+    mimetype: text/plain
+  NF-VIX.ANS:
+    mimetype: text/plain
+  NF-ZALUT.ANS:
+    mimetype: text/plain
+  RELEASES.TXT:
+    mimetype: text/plain
+  ST-RABBI.ANS:
+    mimetype: text/plain
+  TH-AEM.ANS:
+    mimetype: text/plain
+  TH-ALIEN.ANS:
+    mimetype: text/plain
+  TH-HETF.ANS:
+    mimetype: text/plain
+  TH-JAB.ANS:
+    mimetype: text/plain
+  TH-MAXX.ANS:
+    mimetype: text/plain
+  TH-MICK.ANS:
+    mimetype: text/plain
+  TH-TLDY.ANS:
+    mimetype: text/plain
+  TH-UNH.ANS:
+    mimetype: text/plain
+  TK-BLACK.ANS:
+    mimetype: text/plain
+  TK-CYBER.ANS:
+    mimetype: text/plain
+  TK-CYBLA.ANS:
+    mimetype: text/plain
+  TK-CYBLS.ANS:
+    mimetype: text/plain
+  TK-HATCH.ANS:
+    mimetype: text/plain
+  TK-POINT.ANS:
+    mimetype: text/plain
+  TK-SMCOL.ANS:
+    mimetype: text/plain
+  WRDLST.ANS:
+    mimetype: text/plain

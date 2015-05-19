@@ -1,0 +1,54 @@
+name: bm-pack2.zip
+hash: 6cec00cabc95c69d3f5046cf53770f1a
+year: 1995
+file:
+  --ANSI--.---:
+    mimetype: text/plain
+  --EXE---.---:
+    mimetype: text/plain
+  --OTHER-.---:
+    mimetype: text/plain
+  --VGA---.---:
+    mimetype: text/plain
+  BM-ADD.EXE:
+    mimetype: application/x-msdos-program
+  BMAPP.ASC:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  !!binary RklMRV9JRP8uREla:
+    mimetype: text/plain
+  LH-DARK.GIF:
+    mimetype: image/gif
+  LH-JEANS.GIF:
+    mimetype: image/gif
+  LH-JNNIE.ANS:
+    mimetype: text/plain
+  LH-RINGS.ANS:
+    mimetype: text/plain
+  LH-SAVA.ANS:
+    mimetype: text/plain
+  LH-SHADE.ANS:
+    mimetype: text/plain
+  LH-SIGN.GIF:
+    mimetype: image/gif
+  LISTING.ANS:
+    mimetype: text/plain
+  PROLOGUE:
+    mimetype: text/plain
+  TX-LOBW2.JPG:
+    mimetype: image/jpeg
+  TX-LOGO.GIF:
+    mimetype: image/gif
+  VC-BAT.GIF:
+    mimetype: image/gif
+  VC-DNGER.ANS:
+    mimetype: text/plain
+  VC-DZONE.ANS:
+    mimetype: text/plain
+  VC-HORIZ.GIF:
+    mimetype: image/gif
+  VC-SWEEP.GIF:
+    mimetype: image/gif
+  VC-WOLF.ANS:
+    mimetype: text/plain

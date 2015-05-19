@@ -1,0 +1,64 @@
+name: phat0296.zip
+hash: 8d28620398355853843ef434b9d21565
+year: 1996
+file:
+  BK-CLUST.ANS:
+    mimetype: text/plain
+  BK-PROTO.ANS:
+    mimetype: text/plain
+  BLD-SICK.LIT:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FLN-ABST.ANS:
+    mimetype: text/plain
+  FLN-BLUE.ANS:
+    mimetype: text/plain
+  FLN-COLL.ANS:
+    mimetype: text/plain
+  LRY-CL02.ANS:
+    mimetype: text/plain
+  LRY-CL03.ANS:
+    mimetype: text/plain
+  LRY-DE01.ANS:
+    mimetype: text/plain
+  LRY-PH02.ANS:
+    mimetype: text/plain
+  LRY-PR01.ANS:
+    mimetype: text/plain
+  LRY-SB01.ANS:
+    mimetype: text/plain
+  LRY-SW03.ANS:
+    mimetype: text/plain
+  MAS_PHT3.ANS:
+    mimetype: text/plain
+  MX-PAFIL.ANS:
+    mimetype: text/plain
+  MX-PROTO.ANS:
+    mimetype: text/plain
+  MX-PTYPE.ANS:
+    mimetype: text/plain
+  PHAT0296.NFO:
+    mimetype: text/plain
+  PHAT0296.NWS:
+    mimetype: text/plain
+  PHATAPP.EXE:
+    mimetype: application/x-msdos-program
+  PHATVIEW.EXE:
+    mimetype: application/x-msdos-program
+  RD-COL1.ANS:
+    mimetype: text/plain
+  RD-WKDCT.ANS:
+    mimetype: text/plain
+  SF-COL2.ANS:
+    mimetype: text/plain
+  SYN-COL2.ANS:
+    mimetype: text/plain
+  TR-DIGAD.ANS:
+    mimetype: text/plain
+  TR-DIGNI.ANS:
+    mimetype: text/plain
+  TR-NTERR.ANS:
+    mimetype: text/plain
+  TR-PHAT.ANS:
+    mimetype: text/plain

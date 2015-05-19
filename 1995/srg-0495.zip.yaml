@@ -1,0 +1,82 @@
+name: srg-0495.zip
+hash: b0e7744221f9c4618e0d0cc26293caaf
+year: 1995
+file:
+  EN-FS.ANS:
+    mimetype: text/plain
+  FC-BARZ.SRG:
+    mimetype: text/plain
+  FC-CRM01.ASC:
+    mimetype: text/plain
+  FC-CRM01.SRG:
+    mimetype: text/plain
+  FC-HELLS.SRG:
+    mimetype: text/plain
+  FC-HIGH1.SRG:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GJ-ALC.SRG:
+    mimetype: text/plain
+  GJ-EI.SRG:
+    mimetype: text/plain
+  GJ-GAMMA.SRG:
+    mimetype: text/plain
+  GJ-GRAPE.SRG:
+    mimetype: text/plain
+  GJ-HF.SRG:
+    mimetype: text/plain
+  GJ-NAM.SRG:
+    mimetype: text/plain
+  GJ-REDAV.MOD:
+    mimetype: audio/x-mod
+  GJ-RIDER.LIT:
+    mimetype: text/plain
+  GJ-SEERS.SRG:
+    mimetype: text/plain
+  GJ-SURGE.SRG:
+    mimetype: text/plain
+  GJ-TGO.SRG:
+    mimetype: text/plain
+  NB-MAT.ANS:
+    mimetype: text/plain
+  NI-COP.LIT:
+    mimetype: text/plain
+  NI-CROW.LIT:
+    mimetype: text/plain
+  NI-NAM.LIT:
+    mimetype: text/plain
+  NI-SURGE.LIT:
+    mimetype: text/plain
+  NI-THF.LIT:
+    mimetype: text/plain
+  PHONT.COM:
+    mimetype: application/x-msdos-program
+  SRG-0495.BRD:
+    mimetype: text/plain
+  SRG-0495.MEM:
+    mimetype: text/plain
+  SRG-0495.NWS:
+    mimetype: text/plain
+  SRG-APP.ZIP:
+    mimetype: application/zip
+  TOKYO.EXE:
+    mimetype: application/x-msdos-program
+  ZL-ESTAT.GIF:
+    mimetype: image/gif
+  ZL-HF.ANS:
+    mimetype: text/plain
+  ZL-HF.GIF:
+    mimetype: image/gif
+  ZL-IMP.RIP:
+    mimetype: image/x-rip
+  ZL-OBV.ZIP:
+    mimetype: application/zip
+  ZL-REBS.RIP:
+    mimetype: image/x-rip
+  ZL-ROB.RIP:
+    mimetype: image/x-rip
+  ZL-SURGE.RIP:
+    mimetype: image/x-rip
+  ZL-VIPER.RIP:
+    mimetype: image/x-rip

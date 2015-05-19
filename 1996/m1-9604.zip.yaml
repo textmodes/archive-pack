@@ -1,0 +1,80 @@
+name: m1-9604.zip
+hash: a9adaba25b2600906d4ae39543af8bff
+year: 1996
+file:
+  -!~ANSI~.!--:
+    mimetype: application/octet-stream
+  -!~ASCII.~!-:
+    mimetype: text/plain
+  -!~INFO~.!--:
+    mimetype: text/plain
+  -!~LIT~!.---:
+    mimetype: text/plain
+  -!~MODS~.!--:
+    mimetype: text/plain
+  -!~VGA~!.---:
+    mimetype: text/plain
+  BG-CYPHP.ASC:
+    mimetype: text/plain
+  BG-POO1.ASC:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GT-EUPH1.ANS:
+    mimetype: text/plain
+  GT-MAIT1.ANS:
+    mimetype: text/plain
+  GT-MAIT1.ASC:
+    mimetype: text/plain
+  HW-DDN2.ASC:
+    mimetype: text/plain
+  HW-TSS.ASC:
+    mimetype: text/plain
+  JU-EUPH1.ANS:
+    mimetype: text/plain
+  JU-FLIES.ANS:
+    mimetype: text/plain
+  JU-JACKI.LIT:
+    mimetype: text/plain
+  JU-LINDS.LIT:
+    mimetype: text/plain
+  JU-NOTA#.LIT:
+    mimetype: text/plain
+  JU-PIG.ANS:
+    mimetype: text/plain
+  M1-9604.APP:
+    mimetype: application/octet-stream
+  M1-9604.MEM:
+    mimetype: text/plain
+  M1-9604.NFO:
+    mimetype: text/plain
+  MU-EUPH1.ANS:
+    mimetype: text/plain
+  MU-EUPH2.ANS:
+    mimetype: text/plain
+  MU-EUPH3.ANS:
+    mimetype: text/plain
+  MU-INGOD.JPG:
+    mimetype: image/jpeg
+  MU-MAIT1.ANS:
+    mimetype: text/plain
+  MU-MAIT1.JPG:
+    mimetype: image/jpeg
+  SI-DICE.ASC:
+    mimetype: text/plain
+  SI-MAIT1.ASC:
+    mimetype: text/plain
+  SI-SPRNG.S3M:
+    mimetype: audio/x-mod
+  SI-VTKW.S3M:
+    mimetype: audio/x-mod
+  TG-EUPH1.ASC:
+    mimetype: text/plain
+  TG-LOGOS.ANS:
+    mimetype: text/plain
+  TG-MAIT1.ANS:
+    mimetype: text/plain
+  US-EFFIG.ANS:
+    mimetype: text/plain
+  US-IONOS.ANS:
+    mimetype: text/plain

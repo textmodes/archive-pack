@@ -1,0 +1,60 @@
+name: acdu1095.zip
+hash: d2673ddef720c8932a3bb3c66c1b2dc9
+year: 1995
+file:
+  ACDU1095.NFO:
+    mimetype: text/plain
+  ACID-TEE.GIF:
+    mimetype: image/gif
+  ACID-TEE.NFO:
+    mimetype: text/plain
+  ACID0995.ANS:
+    mimetype: text/plain
+  ACIDAPP.EXE:
+    mimetype: application/x-msdos-program
+  ACIDVIEW.CFG:
+    mimetype: text/plain
+  ACIDVIEW.EXE:
+    mimetype: application/x-msdos-program
+  ACIDVIEW.NFO:
+    mimetype: text/plain
+  ALC1095.ANS:
+    mimetype: text/plain
+  ASC1095.ASC:
+    mimetype: text/plain
+  BG-COC3.EXE:
+    mimetype: application/x-msdos-program
+  BM-PIA.RIP:
+    mimetype: image/x-rip
+  BM-SAGA.RIP:
+    mimetype: image/x-rip
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GS-BSUN1.ANS:
+    mimetype: text/plain
+  GS-VOS1.ANS:
+    mimetype: text/plain
+  KO-GC01.GIF:
+    mimetype: image/gif
+  P1-ST2.ANS:
+    mimetype: text/plain
+  P1-TR7.GIF:
+    mimetype: image/gif
+  SA-ACID.BIN:
+    mimetype: text/x-binary
+  SE-UGTEN.ANS:
+    mimetype: text/plain
+  SL-SUCCO.EXE:
+    mimetype: application/x-msdos-program
+  STC-ACID.GIF:
+    mimetype: image/gif
+  STC-INF.ANS:
+    mimetype: text/plain
+  STC-INF.RIP:
+    mimetype: image/x-rip
+  TR-SUCCO.ANS:
+    mimetype: text/plain
+  WE-WILL.SUE:
+    mimetype: text/plain
+  ZV-KEEEN.RIP:
+    mimetype: image/x-rip

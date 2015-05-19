@@ -1,0 +1,68 @@
+name: nrg-art1.zip
+hash: d161367577a5c625f1d9f5ac57601801
+year: 1999
+file:
+  ART1.MP3:
+    mimetype: audio/mpeg
+  BSW-FUN.JPG:
+    mimetype: image/jpeg
+  BSW-GRN.JPG:
+    mimetype: image/jpeg
+  BSW-MIL.JPG:
+    mimetype: image/jpeg
+  DE-BATT.JPG:
+    mimetype: image/jpeg
+  DE-DAFT.JPG:
+    mimetype: image/jpeg
+  DE-EVIL.JPG:
+    mimetype: image/jpeg
+  DE-EVIL2.JPG:
+    mimetype: image/jpeg
+  DE-SSTAR.JPG:
+    mimetype: image/jpeg
+  DRM-B.ANS:
+    mimetype: text/plain
+  DRM-BEEP.ANS:
+    mimetype: text/plain
+  DRM-BEP2.ANS:
+    mimetype: text/plain
+  DRM-DIZ.ANS:
+    mimetype: text/plain
+  DRM-NRG.ANS:
+    mimetype: text/plain
+  DRM-PEP.ANS:
+    mimetype: text/plain
+  DRM-PN.ANS:
+    mimetype: text/plain
+  DRM-SSDZ.ANS:
+    mimetype: text/plain
+  DRM-SSDZ.ASC:
+    mimetype: text/plain
+  DZ-EVGRP.ASC:
+    mimetype: text/plain
+  DZ-GSOFT.ANS:
+    mimetype: text/plain
+  DZ-MCDIZ.ASC:
+    mimetype: text/plain
+  DZ-NRGBD.ASC:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  KAM-DON.JPG:
+    mimetype: image/jpeg
+  KAM-EV2.JPG:
+    mimetype: image/jpeg
+  KAM-EVIL.JPG:
+    mimetype: image/jpeg
+  KAM-GRAF.JPG:
+    mimetype: image/jpeg
+  KAM-NRG.JPG:
+    mimetype: image/jpeg
+  KAM-POW2.JPG:
+    mimetype: image/jpeg
+  KAM-XFL.JPG:
+    mimetype: image/jpeg
+  NRG-ART1.NFO:
+    mimetype: text/plain
+  NRG.NFO:
+    mimetype: text/plain

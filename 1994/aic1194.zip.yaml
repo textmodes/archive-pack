@@ -1,0 +1,44 @@
+name: aic1194.zip
+hash: c7a5b28d08bc6a4ac6bfed8f29e329eb
+year: 1994
+file:
+  A$-CITY.WAD:
+    mimetype: application/octet-stream
+  A$ANARCY.LIT:
+    mimetype: text/plain
+  A$BEDR.ANS:
+    mimetype: text/plain
+  A$CROADS.ANS:
+    mimetype: text/plain
+  A$EVIL.ANS:
+    mimetype: text/plain
+  A$HARMN.LIT:
+    mimetype: text/plain
+  A$HMOON.ANS:
+    mimetype: text/plain
+  A$ICE.LIT:
+    mimetype: text/plain
+  A$LOGO.GIF:
+    mimetype: image/gif
+  AIC1194.MEM:
+    mimetype: text/plain
+  AIC1194.NWZ:
+    mimetype: text/plain
+  APPLICAT.ANS:
+    mimetype: text/plain
+  COP.EXE:
+    mimetype: application/x-msdos-program
+  D&-HELL2.WAD:
+    mimetype: application/octet-stream
+  D&-SPAWN.GIF:
+    mimetype: image/gif
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GJHARM.ANS:
+    mimetype: text/plain
+  LRHMOON.GIF:
+    mimetype: image/gif
+  LRTREE.LIT:
+    mimetype: text/plain
+  MSGHH.LIT:
+    mimetype: text/plain

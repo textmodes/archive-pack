@@ -1,0 +1,32 @@
+name: shao0498.zip
+hash: cb791f3e75a6c007d64432146493c520
+year: 1998
+file:
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  IBZ-ANSI.ANS:
+    mimetype: text/plain
+  ISO-SF.ANS:
+    mimetype: text/plain
+  MEM-0498.ANS:
+    mimetype: text/plain
+  MYUTOPIA.EXE:
+    mimetype: application/x-msdos-program
+  NEWS0498.ANS:
+    mimetype: text/plain
+  ODB-0498.ANS:
+    mimetype: text/plain
+  SHAO-APP.EXE:
+    mimetype: application/x-msdos-program
+  TOW-FLIK.ANS:
+    mimetype: text/plain
+  TOW-KOF.AVI:
+    mimetype: video/x-msvideo
+  TOW-KOF.EXE:
+    mimetype: application/x-msdos-program
+  WOG-COLL.ANS:
+    mimetype: text/plain
+  WOG-CRNS.ANS:
+    mimetype: text/plain
+  WOG-MAGE.ANS:
+    mimetype: text/plain

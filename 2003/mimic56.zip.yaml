@@ -1,0 +1,34 @@
+name: mimic56.zip
+hash: 161cf0dc0df95bf53cebe7d47cdd43f1
+year: 2003
+file:
+  bjasc258.ans:
+    mimetype: text/plain
+  file_id.diz:
+    mimetype: text/plain
+  h7-pfft.asc:
+    mimetype: text/plain
+  jn-noc-f.ans:
+    mimetype: text/plain
+  ko-jflow.rmx:
+    mimetype: text/plain
+  ko-khome.asc:
+    mimetype: text/plain
+  ko-priss.ans:
+    mimetype: text/plain
+  ko-valen.ans:
+    mimetype: text/plain
+  m7m-elec.ans:
+    mimetype: text/plain
+  members.ans:
+    mimetype: text/plain
+  ncksiklo.ans:
+    mimetype: text/plain
+  quotes56.txt:
+    mimetype: text/plain
+  zs-deadl.ans:
+    mimetype: text/plain
+  zs-tp1.ans:
+    mimetype: text/plain
+  zs-tp2.ans:
+    mimetype: text/plain

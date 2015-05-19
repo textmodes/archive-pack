@@ -1,0 +1,62 @@
+name: acid-66.zip
+hash: 42a2851725d3c15d615d7cfba0fad2de
+year: 1998
+file:
+  ACID-66.XB:
+    mimetype: text/x-xbin
+  AVDialog.class:
+    mimetype: application/x-java-applet
+  AcidAnsi.class:
+    mimetype: application/x-java-applet
+  AcidText.class:
+    mimetype: application/x-java-applet
+  AcidView:
+    mimetype: text/x-shellscript
+  AcidView.bat:
+    mimetype: application/x-msdos-program
+  AcidView.class:
+    mimetype: application/x-java-applet
+  AcidView.faq:
+    mimetype: text/plain
+  AcidView.files:
+    mimetype: text/plain
+  AcidView.fnt:
+    mimetype: application/octet-stream
+  AcidView.jpg:
+    mimetype: image/jpeg
+  AcidView.nfo:
+    mimetype: text/plain
+  AcidXBin.class:
+    mimetype: application/x-java-applet
+  AnsiImage.class:
+    mimetype: application/x-java-applet
+  GR-Kerberos3.jpg:
+    mimetype: image/jpeg
+  If-dod1.jpg:
+    mimetype: image/jpeg
+  JN-BS2030.jpg:
+    mimetype: image/jpeg
+  acidapp.exe:
+    mimetype: application/x-msdos-program
+  cs-azteKborG.jpg:
+    mimetype: image/jpeg
+  cs-puzzle_arcanum.jpg:
+    mimetype: image/jpeg
+  file_id.diz:
+    mimetype: text/plain
+  release.nfo:
+    mimetype: text/plain
+  th-spice.jpg:
+    mimetype: image/jpeg
+  us-badgirl.jpg:
+    mimetype: image/jpeg
+  us-bio_igneouscence.jpg:
+    mimetype: image/jpeg
+  us-iron_and_stone1.jpg:
+    mimetype: image/jpeg
+  vn-666.jpg:
+    mimetype: image/jpeg
+  wc-escher.jpg:
+    mimetype: image/jpeg
+  we-will.sue:
+    mimetype: text/plain

@@ -1,0 +1,20 @@
+name: hijack3.zip
+hash: d0694af4955b2c3d7d8dcd8ac68ce3bf
+year: 1993
+file:
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FUN!.COM:
+    mimetype: application/x-msdos-program
+  HIJACK.EXE:
+    mimetype: application/x-msdos-program
+  HIJACK.MGX:
+    mimetype: application/octet-stream
+  HIJACK.MOD:
+    mimetype: audio/x-mod
+  HIJACK.NFO:
+    mimetype: text/plain
+  MAGAZINE.DAT:
+    mimetype: text/plain
+  SEARCH.TXT:
+    mimetype: text/plain

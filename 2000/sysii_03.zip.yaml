@@ -1,0 +1,88 @@
+name: sysii_03.zip
+hash: f038047c4de18c2eb33388b335498dd0
+year: 2000
+file:
+  D0-ENIG.ASC:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  LASTMINU.TE:
+    mimetype: text/plain
+  Pt-iou.ans:
+    mimetype: text/plain
+  SM-DF1.ANS:
+    mimetype: text/plain
+  SM-DF2.ANS:
+    mimetype: text/plain
+  SM-DF3.ANS:
+    mimetype: text/plain
+  SM-S7.ANS:
+    mimetype: text/plain
+  SM-VD.ANS:
+    mimetype: text/plain
+  US-FUCKU.ASC:
+    mimetype: text/plain
+  US-PLEX.ANS:
+    mimetype: text/plain
+  US-WM.ANS:
+    mimetype: text/plain
+  ZS-BBS.ANS:
+    mimetype: text/plain
+  ZS-DECIE.ADF:
+    mimetype: application/octet-stream
+  ZS-DENY.ASC:
+    mimetype: text/plain
+  ZS-EK.ASC:
+    mimetype: text/plain
+  ZS-ELEVN.ANS:
+    mimetype: text/plain
+  ZS-EXALT.ANS:
+    mimetype: text/plain
+  ZS-EXSTC.ADF:
+    mimetype: application/octet-stream
+  ZS-FREE.ANS:
+    mimetype: text/plain
+  ZS-INSO5.ASC:
+    mimetype: text/plain
+  ZS-MMM.ASC:
+    mimetype: text/plain
+  ZS-RMRS.ADF:
+    mimetype: application/octet-stream
+  ZS-S210.TXT:
+    mimetype: text/plain
+  ZS-S211.ASC:
+    mimetype: text/plain
+  ZS-SII9.ADF:
+    mimetype: application/octet-stream
+  ZS-TRIP.ASC:
+    mimetype: text/plain
+  ZS-WICKD.ANS:
+    mimetype: text/plain
+  ZS-WORM.ANS:
+    mimetype: text/plain
+  Zs-inso6.asc:
+    mimetype: text/plain
+  Zs-sii8.asc:
+    mimetype: text/plain
+  Zs-voice.asc:
+    mimetype: text/plain
+  aets2.asc:
+    mimetype: text/plain
+  sm-Glue5.ans:
+    mimetype: text/plain
+  sm-venm.asc:
+    mimetype: text/plain
+  sysII_03.NFO:
+    mimetype: text/plain
+  us-bone.ans:
+    mimetype: text/plain
+  us-girl.ans:
+    mimetype: text/plain
+  zs-halo.png:
+    mimetype: image/png
+  zs-mind.png:
+    mimetype: image/png
+  zs-mmc1.png:
+    mimetype: image/png
+  zs-mmc2.png:
+    mimetype: image/png

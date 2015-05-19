@@ -1,0 +1,26 @@
+name: dlc-03.zip
+hash: 5d7f50bcc41d002e3d44b3a228a4a0d2
+year: 1999
+file:
+  1999.JPG:
+    mimetype: image/jpeg
+  ART-02.NFO:
+    mimetype: text/plain
+  BONUS/100SECS.XM:
+    mimetype: audio/x-mod
+  DLC.NFO:
+    mimetype: text/plain
+  DLC.REG:
+    mimetype: application/octet-stream
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  HC-GBBR.ANS:
+    mimetype: text/plain
+  HC-MERRY.ASC:
+    mimetype: text/plain
+  SECTOR34.JPG:
+    mimetype: image/jpeg
+  STARLITE.BRD:
+    mimetype: application/octet-stream
+  STORM.JPG:
+    mimetype: image/jpeg

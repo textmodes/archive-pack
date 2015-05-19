@@ -1,0 +1,102 @@
+name: srg-0295.zip
+hash: 524f0142ee64fd362b46f2964cc3838f
+year: 1995
+file:
+  BEAT.NIK:
+    mimetype: text/plain
+  CORNOLI2.WAV:
+    mimetype: audio/x-wav
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  NB-BLKHL.SRG:
+    mimetype: text/plain
+  NB-DERRL.SRG:
+    mimetype: text/plain
+  NB-DON.SRG:
+    mimetype: text/plain
+  NB-EYEZ.SRG:
+    mimetype: text/plain
+  NB-ITG.SRG:
+    mimetype: text/plain
+  NB-LOG2.SRG:
+    mimetype: text/plain
+  NB-LOGIN.SRG:
+    mimetype: text/plain
+  NB-MAT.SRG:
+    mimetype: text/plain
+  NB-MNU1.SRG:
+    mimetype: text/plain
+  NB-MNU2.SRG:
+    mimetype: text/plain
+  NB-NV.SRG:
+    mimetype: text/plain
+  NB-TERRA.SRG:
+    mimetype: text/plain
+  NB-TRRA1.SRG:
+    mimetype: text/plain
+  NB-TRRA2.SRG:
+    mimetype: text/plain
+  NB-TRRA4.SRG:
+    mimetype: text/plain
+  NC-DIZ.SRG:
+    mimetype: text/plain
+  NC-SRG.SRG:
+    mimetype: text/plain
+  NC-TBH.SRG:
+    mimetype: text/plain
+  NF-DYING.LIT:
+    mimetype: text/plain
+  NF-GOS0.LIT:
+    mimetype: text/plain
+  NF-GOS1.LIT:
+    mimetype: text/plain
+  NF-GOS2.LIT:
+    mimetype: text/plain
+  NF-GOS3.LIT:
+    mimetype: text/plain
+  NF-GOS4.LIT:
+    mimetype: text/plain
+  SRG-0295.BRD:
+    mimetype: text/plain
+  SRG-0295.MEM:
+    mimetype: text/plain
+  SRG-0295.NWS:
+    mimetype: text/plain
+  SRG-APP.ZIP:
+    mimetype: application/zip
+  SV.EXE:
+    mimetype: application/x-msdos-program
+  ZL-ADD.RIP:
+    mimetype: image/x-rip
+  ZL-CAVE.SRG:
+    mimetype: text/plain
+  ZL-CRIM.RIP:
+    mimetype: image/x-rip
+  ZL-DOM.SRG:
+    mimetype: text/plain
+  ZL-GOBLN.RIP:
+    mimetype: image/x-rip
+  ZL-HF.GIF:
+    mimetype: image/gif
+  ZL-HFADD.RIP:
+    mimetype: image/x-rip
+  ZL-INFTY.GIF:
+    mimetype: image/gif
+  ZL-MERLN.RIP:
+    mimetype: image/x-rip
+  ZL-MNNO1.SRG:
+    mimetype: text/plain
+  ZL-MNNO2.SRG:
+    mimetype: text/plain
+  ZL-PENT.SRG:
+    mimetype: text/plain
+  ZL-SRG.GIF:
+    mimetype: image/gif
+  ZL-SRG2.GIF:
+    mimetype: image/gif
+  ZL-SUN.SRG:
+    mimetype: text/plain
+  ZL-WKEDG.SRG:
+    mimetype: text/plain
+  ZS-GM.LIT:
+    mimetype: text/plain

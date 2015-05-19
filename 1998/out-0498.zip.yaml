@@ -1,0 +1,26 @@
+name: out-0498.zip
+hash: c7d3d3bdb5034188de9cdca2da029577
+year: 1998
+file:
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FILELIST.TXT:
+    mimetype: text/plain
+  FX_RIP03.ZIP:
+    mimetype: application/zip
+  OUT-AD.ANS:
+    mimetype: text/plain
+  OUT-AD.RIP:
+    mimetype: image/x-rip
+  OUT-HAND.ANS:
+    mimetype: text/plain
+  OUT-LION.ANS:
+    mimetype: text/plain
+  OUT-WF1.ANS:
+    mimetype: text/plain
+  OUT-WF2.ANS:
+    mimetype: text/plain
+  OUT.AD:
+    mimetype: text/plain
+  OUTWORLD.TXT:
+    mimetype: text/plain

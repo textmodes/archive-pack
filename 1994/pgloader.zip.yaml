@@ -1,0 +1,42 @@
+name: pgloader.zip
+hash: 8d0050a1434324dc1f344b0b315cc6bd
+year: 1994
+file:
+  AD_DATA.DAT:
+    mimetype: text/plain
+  ADLIB.ASM:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  LENS.ASM:
+    mimetype: text/plain
+  LENS.DAT:
+    mimetype: text/plain
+  NEO.COM:
+    mimetype: application/x-msdos-program
+  NEWFONT.DAT:
+    mimetype: text/plain
+  P3.GIF:
+    mimetype: image/gif
+  PG_FINAL.DAT:
+    mimetype: text/plain
+  PGFIX.BAT:
+    mimetype: application/x-msdos-program
+  PGRID.ANS:
+    mimetype: text/plain
+  PGRID.ASM:
+    mimetype: text/plain
+  PGRID.EXE:
+    mimetype: application/x-msdos-program
+  PGRID_SC.DAT:
+    mimetype: text/plain
+  PKLITE.EXE:
+    mimetype: application/x-msdos-program
+  PKLMOD.EXE:
+    mimetype: application/x-msdos-program
+  README:
+    mimetype: text/plain
+  SC256.DAT:
+    mimetype: text/plain
+  WR.ASM:
+    mimetype: text/plain

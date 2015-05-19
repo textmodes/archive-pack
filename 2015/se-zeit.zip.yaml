@@ -1,0 +1,8 @@
+name: se-zeit.zip
+hash: e88b99e99474685124bcbf009c3f48c2
+year: 2015
+file:
+  zeit/file_id.diz:
+    mimetype: text/plain
+  zeit/se-zeit.txt:
+    mimetype: text/plain

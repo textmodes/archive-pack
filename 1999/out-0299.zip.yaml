@@ -1,0 +1,28 @@
+name: out-0299.zip
+hash: a364b035b8748015dbf91cf9e3357927
+year: 1999
+file:
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FILELIST.TXT:
+    mimetype: text/plain
+  OUT-AD.ANS:
+    mimetype: text/plain
+  OUT-AD.RIP:
+    mimetype: image/x-rip
+  OUT-BBS.ANS:
+    mimetype: text/plain
+  OUT-BMNU.ANS:
+    mimetype: text/plain
+  OUT-EAGL.ANS:
+    mimetype: text/plain
+  OUT-INPR.ANS:
+    mimetype: text/plain
+  OUT-KNDM.ANS:
+    mimetype: text/plain
+  OUT-WMNF.ANS:
+    mimetype: text/plain
+  OUT.AD:
+    mimetype: text/plain
+  OUTWORLD.TXT:
+    mimetype: text/plain

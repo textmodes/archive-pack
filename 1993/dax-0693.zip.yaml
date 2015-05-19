@@ -1,0 +1,16 @@
+name: dax-0693.zip
+hash: d0c1f91bb5165e7be24bd842b44d0439
+year: 1993
+file:
+  TZ-MEM06.DAX:
+    mimetype: text/plain
+  TZ-WARP.DAX:
+    mimetype: text/plain
+  V-DAX.DAX:
+    mimetype: text/plain
+  V-EVB.DAX:
+    mimetype: text/plain
+  V-EVB2.DAX:
+    mimetype: text/plain
+  V-SRUN.DAX:
+    mimetype: text/plain

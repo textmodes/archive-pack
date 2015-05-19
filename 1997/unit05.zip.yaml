@@ -1,0 +1,90 @@
+name: unit05.zip
+hash: 23c6756d5dbd27212799011c7197429e
+year: 1997
+file:
+  '!ANSI!.___':
+    mimetype: text/plain
+  '!ASCII!.___':
+    mimetype: text/plain
+  '!HIREZ!.___':
+    mimetype: text/plain
+  '!INFO!.___':
+    mimetype: text/plain
+  '!OTHER!.___':
+    mimetype: text/plain
+  '#05MEMB.NFO':
+    mimetype: text/plain
+  '#05UNIT.NFO':
+    mimetype: text/plain
+  AXB-CH01.ANS:
+    mimetype: text/plain
+  AXB-HV20.ANS:
+    mimetype: text/plain
+  AXB-MP01.ANS:
+    mimetype: text/plain
+  AXB-NC01.ANS:
+    mimetype: text/plain
+  AXB-NC05.ANS:
+    mimetype: text/plain
+  AXB-UN09.ANS:
+    mimetype: text/plain
+  B-#01.ANS:
+    mimetype: text/plain
+  B-CG.ANS:
+    mimetype: text/plain
+  B-WHY.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FK-HIREZ.ZIP:
+    mimetype: application/zip
+  FLU-HVN1.ANS:
+    mimetype: text/plain
+  FLU-LST.ANS:
+    mimetype: text/plain
+  GDR-BL.ANS:
+    mimetype: text/plain
+  GDR-FLPH.ANS:
+    mimetype: text/plain
+  GDR-HVN6.ANS:
+    mimetype: text/plain
+  GDR-HZD.ASC:
+    mimetype: text/plain
+  GDR-NC0.ASC:
+    mimetype: text/plain
+  GFK-HVN1.ASC:
+    mimetype: text/plain
+  GFK-HVN2.ASC:
+    mimetype: text/plain
+  GFK-SE1.ASC:
+    mimetype: text/plain
+  GFK-SE2.ASC:
+    mimetype: text/plain
+  GFK-SH.ASC:
+    mimetype: text/plain
+  GFK-UNT1.ASC:
+    mimetype: text/plain
+  GFK-UNT2.ASC:
+    mimetype: text/plain
+  PF-CODE1.ASC:
+    mimetype: text/plain
+  PF-CODE2.ASC:
+    mimetype: text/plain
+  PF-CODE3.ASC:
+    mimetype: text/plain
+  PF-DIGI.ASC:
+    mimetype: text/plain
+  PF-DIGI2.ASC:
+    mimetype: text/plain
+  PF-HVN.ASC:
+    mimetype: text/plain
+  PF-HVN2.ASC:
+    mimetype: text/plain
+  PF-STAT.ASC:
+    mimetype: text/plain
+  PF-UNIT.ASC:
+    mimetype: text/plain
+  PF-WHY.ASC:
+    mimetype: text/plain
+  UNIT.ART:
+    mimetype: text/plain

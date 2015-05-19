@@ -1,0 +1,66 @@
+name: ord-02.zip
+hash: 167aac7ab4205ee815a1dfd5c186d620
+year: 1996
+file:
+  !!binary 2i3ZQU5TSQ==:
+    mimetype: text/plain
+  !!binary 2i3ZQVNDSUk=:
+    mimetype: text/plain
+  !!binary 2i3ZREla:
+    mimetype: text/plain
+  !!binary 2i3ZRVhUUkE=:
+    mimetype: text/plain
+  !!binary 2i3ZSU5GTw==:
+    mimetype: text/plain
+  45-ORDER.ASC:
+    mimetype: text/plain
+  AP-DAMTX.ANS:
+    mimetype: text/plain
+  AP-ORDE5.ANS:
+    mimetype: text/plain
+  AP-TBIN.ANS:
+    mimetype: text/plain
+  CG-E2B1.ANS:
+    mimetype: text/plain
+  CG-NEGRO.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  LN-COLLY.ASC:
+    mimetype: text/plain
+  M7-COLLY.ANS:
+    mimetype: text/plain
+  M7-ORD1.ANS:
+    mimetype: text/plain
+  M7-ORD2.ANS:
+    mimetype: text/plain
+  MD-PIC.ANS:
+    mimetype: text/plain
+  MY-AS1.ANS:
+    mimetype: text/plain
+  MY-LD1.ANS:
+    mimetype: text/plain
+  MY-LD2.ANS:
+    mimetype: text/plain
+  MY-NN1.ANS:
+    mimetype: text/plain
+  MY-TP1.ANS:
+    mimetype: text/plain
+  MY-TP2.ANS:
+    mimetype: text/plain
+  ORD-INFO.ANS:
+    mimetype: text/plain
+  ORD-MEM.ANS:
+    mimetype: text/plain
+  PP-ORDR1.ANS:
+    mimetype: text/plain
+  SMS-CAM.ASC:
+    mimetype: text/plain
+  SMS-DUPE.ASC:
+    mimetype: text/plain
+  SMS-HIGH.ASC:
+    mimetype: text/plain
+  SMS-MAIN.ASC:
+    mimetype: text/plain
+  US-INS.ANS:
+    mimetype: text/plain

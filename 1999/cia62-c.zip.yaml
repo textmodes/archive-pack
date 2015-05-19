@@ -1,0 +1,40 @@
+name: cia62-c.zip
+hash: dcb3dd9fdfb62da44359f2bb1f6a8ae9
+year: 1999
+file:
+  --CNTD--.---:
+    mimetype: text/plain
+  --INFO--.---:
+    mimetype: text/plain
+  --READ--.---:
+    mimetype: text/plain
+  -HIRES--.---:
+    mimetype: text/plain
+  0499INFO.CIA:
+    mimetype: text/plain
+  0499MEMB.CIA:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  dn_cia.jpg:
+    mimetype: image/jpeg
+  ds_cia.jpg:
+    mimetype: image/jpeg
+  gf-nuked.jpg:
+    mimetype: image/jpeg
+  ik_bliss.jpg:
+    mimetype: image/jpeg
+  ik_merge.jpg:
+    mimetype: image/jpeg
+  ik_raid.jpg:
+    mimetype: image/jpeg
+  jv_1.jpg:
+    mimetype: image/jpeg
+  jv_85.jpg:
+    mimetype: image/jpeg
+  jv_bugen.jpg:
+    mimetype: image/jpeg
+  jv_ghm.jpg:
+    mimetype: image/jpeg
+  jv_jvs.jpg:
+    mimetype: image/jpeg

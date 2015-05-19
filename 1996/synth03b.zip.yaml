@@ -1,0 +1,44 @@
+name: synth03b.zip
+hash: a6531c90744088cadf6214213379c362
+year: 1996
+file:
+  DECAY.ANS:
+    mimetype: text/plain
+  DECAY.NFO:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  SCFWORKS.EXE:
+    mimetype: application/x-msdos-program
+  SCPLASM.EXE:
+    mimetype: application/x-msdos-program
+  SCWAVEY.EXE:
+    mimetype: application/x-msdos-program
+  TR-COLLY.ANS:
+    mimetype: text/plain
+  TR-EFC!.ANS:
+    mimetype: text/plain
+  TR-FACE.ANS:
+    mimetype: text/plain
+  TR-LIT1!.ANS:
+    mimetype: text/plain
+  TR-LOST!.ANS:
+    mimetype: text/plain
+  TR-SYND.ANS:
+    mimetype: text/plain
+  ZIPCOMM.TXT:
+    mimetype: text/plain
+  syd-relf.jpg:
+    mimetype: image/jpeg
+  syd-syn4.jpg:
+    mimetype: image/jpeg
+  syd-trip.jpg:
+    mimetype: image/jpeg
+  syd-trvl.jpg:
+    mimetype: image/jpeg
+  tr-scweb.jpg:
+    mimetype: image/jpeg
+  tr-syn!.jpg:
+    mimetype: image/jpeg
+  tr-vga!.jpg:
+    mimetype: image/jpeg

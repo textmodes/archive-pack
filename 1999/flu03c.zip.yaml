@@ -1,0 +1,40 @@
+name: flu03c.zip
+hash: 479254c696f8a2dcc9090c827404cc32
+year: 1999
+file:
+  -fluid-.---:
+    mimetype: application/octet-stream
+  Aetc81.asc:
+    mimetype: text/plain
+  Aetinter.asc:
+    mimetype: text/plain
+  FLU-03.MEM:
+    mimetype: text/plain
+  File_id.diz:
+    mimetype: text/plain
+  Flu-03.nfo:
+    mimetype: text/plain
+  Is-digi.asc:
+    mimetype: text/plain
+  Is-idle.ans:
+    mimetype: text/plain
+  Is-idscr.ans:
+    mimetype: text/plain
+  Is-milan.asc:
+    mimetype: text/plain
+  Ma-natan.ans:
+    mimetype: text/plain
+  Spf-chos.asc:
+    mimetype: text/plain
+  Spf-chs.asc:
+    mimetype: text/plain
+  Spf-dsd!.asc:
+    mimetype: text/plain
+  Spf-flud.asc:
+    mimetype: text/plain
+  Spf-stln.asc:
+    mimetype: text/plain
+  Us-ext99.asc:
+    mimetype: text/plain
+  YB-SONIC.ASC:
+    mimetype: text/plain

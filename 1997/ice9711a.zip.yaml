@@ -1,0 +1,40 @@
+name: ice9711a.zip
+hash: 8053c918cac291f308f4bb6f26fd2689
+year: 1997
+file:
+  -ANSI---.---:
+    mimetype: text/plain
+  -CONT'D-.---:
+    mimetype: text/plain
+  -LOGO---.---:
+    mimetype: text/plain
+  -STAT---.---:
+    mimetype: text/plain
+  09-DLM.ICE:
+    mimetype: text/plain
+  09-ICE.ICE:
+    mimetype: text/plain
+  DN-ICE02.ICE:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  ICE-9711.DSC:
+    mimetype: text/plain
+  ICE-9711.MEM:
+    mimetype: text/plain
+  ICE-9711.NFO:
+    mimetype: text/plain
+  ICE-9711.SIT:
+    mimetype: text/plain
+  ICEVIEW.CNF:
+    mimetype: text/plain
+  ICEVIEW.DOC:
+    mimetype: text/plain
+  ICEVIEW.EXE:
+    mimetype: application/x-msdos-program
+  IN-DECAY.ICE:
+    mimetype: text/plain
+  IV-PIF.DVP:
+    mimetype: application/octet-stream
+  PV.EXE:
+    mimetype: application/x-msdos-program

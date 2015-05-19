@@ -1,0 +1,102 @@
+name: wkd-0295.zip
+hash: 682a7f99b3116a2ccf0b52cb59b1df01
+year: 1995
+file:
+  BIT-ANON.WKD:
+    mimetype: text/plain
+  BIT-LOGN.WKD:
+    mimetype: text/plain
+  BIT-PROT.WKD:
+    mimetype: text/plain
+  BIT-STAT.WKD:
+    mimetype: text/plain
+  BIT-UPLD.WKD:
+    mimetype: text/plain
+  BIT-WKD4.WKD:
+    mimetype: text/plain
+  BIT-WRIT.WKD:
+    mimetype: application/octet-stream
+  BV-TND.EXE:
+    mimetype: application/x-msdos-program
+  CW-BLOWN.EXE:
+    mimetype: application/x-msdos-program
+  CW-DVCE.EXE:
+    mimetype: application/x-msdos-program
+  DQ-BLOWN.EXE:
+    mimetype: application/x-msdos-program
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FILE_ID.WKD:
+    mimetype: text/plain
+  FS-COP.WKD:
+    mimetype: text/plain
+  FS-CV.GIF:
+    mimetype: image/gif
+  FS-CYC95.WKD:
+    mimetype: text/plain
+  FS-MIX.WKD:
+    mimetype: text/plain
+  FS-VOICE.WKD:
+    mimetype: text/plain
+  LHS-MID.WKD:
+    mimetype: text/plain
+  LHS-MIX.WKD:
+    mimetype: text/plain
+  LHS-SM.WKD:
+    mimetype: text/plain
+  NH-SNOW.EXE:
+    mimetype: application/x-msdos-program
+  NH-WKD2.EXE:
+    mimetype: application/x-msdos-program
+  OC-ACDC.MOD:
+    mimetype: audio/x-mod
+  PM-DEMON.MOD:
+    mimetype: audio/x-mod
+  README.1ST:
+    mimetype: text/plain
+  SC-ADULT.GIF:
+    mimetype: image/gif
+  SC-GAME.GIF:
+    mimetype: image/gif
+  SC-MENU.BMP:
+    mimetype: image/x-ms-bmp
+  SK-OVD.WKD:
+    mimetype: text/plain
+  SK-PRMF!.WKD:
+    mimetype: text/plain
+  SK-SEX!.WKD:
+    mimetype: text/plain
+  SK-SEX.GIF:
+    mimetype: image/gif
+  SK-TAG!.WKD:
+    mimetype: text/plain
+  TT!-IBM.WKD:
+    mimetype: text/plain
+  TT!-SMAI.WKD:
+    mimetype: text/plain
+  TT!-SNES.WKD:
+    mimetype: text/plain
+  TT!-TND1.EXE:
+    mimetype: application/x-msdos-program
+  TT!-TSL.WKD:
+    mimetype: text/plain
+  TT!-UL.WKD:
+    mimetype: text/plain
+  TT!SSBUL.WKD:
+    mimetype: text/plain
+  VOICES.TXT:
+    mimetype: text/plain
+  WKD-0295.NFO:
+    mimetype: text/plain
+  WKD-0295.WKD:
+    mimetype: text/plain
+  WKD-MOD.EXE:
+    mimetype: application/x-msdos-program
+  WKD-SVGA.EXE:
+    mimetype: application/x-msdos-program
+  WKDAPP.EXE:
+    mimetype: application/x-msdos-program
+  WKDVIEW.DAT:
+    mimetype: application/octet-stream
+  WKDVIEW.EXE:
+    mimetype: application/x-msdos-program

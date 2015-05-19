@@ -1,0 +1,68 @@
+name: twst-04.zip
+hash: e22a62ad9b0a68582685d2abdbfd7f08
+year: 1997
+file:
+  '-------L.---':
+    mimetype: application/octet-stream
+  '------C-.---':
+    mimetype: application/octet-stream
+  '----A---.---':
+    mimetype: application/octet-stream
+  '---S----.---':
+    mimetype: application/octet-stream
+  --I-----.---:
+    mimetype: application/octet-stream
+  -M------.---:
+    mimetype: application/octet-stream
+  BDEM-01.ASC:
+    mimetype: text/plain
+  BDEM-01.COL:
+    mimetype: text/plain
+  BMAJ-01.LOG:
+    mimetype: text/plain
+  FILE-ID.ASC:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GRPP-01.ANS:
+    mimetype: text/plain
+  GRPP-01.COL:
+    mimetype: text/plain
+  GRPP-02.COL:
+    mimetype: text/plain
+  JYNX-01.ASC:
+    mimetype: text/plain
+  JYNX-02.ASC:
+    mimetype: text/plain
+  MALF-01.ANS:
+    mimetype: text/plain
+  MALF-01.COL:
+    mimetype: text/plain
+  MALF-02.ANS:
+    mimetype: text/plain
+  ORGR-01.ASC:
+    mimetype: text/plain
+  PCEA-01.ANS:
+    mimetype: text/plain
+  PCEA-01.COL:
+    mimetype: text/plain
+  PCEA-01.LOG:
+    mimetype: text/plain
+  RUIN-01.COL:
+    mimetype: text/plain
+  RUIN-02.ANS:
+    mimetype: text/plain
+  RUIN-02.COL:
+    mimetype: text/plain
+  SHAD-01.ANS:
+    mimetype: text/plain
+  SILA-01.LOG:
+    mimetype: text/plain
+  TWISTED.DAT:
+    mimetype: application/octet-stream
+  TWISTED.EXE:
+    mimetype: application/x-msdos-program
+  TWST-04.MEM:
+    mimetype: text/plain
+  TWST-04.NFO:
+    mimetype: text/plain

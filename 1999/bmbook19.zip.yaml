@@ -1,0 +1,104 @@
+name: bmbook19.zip
+hash: 0d8af5536afdb80d247e3f280839bb76
+year: 1999
+file:
+  '&cover19.ans':
+    mimetype: text/plain
+  --ans---.---:
+    mimetype: text/plain
+  --ascii-.---:
+    mimetype: application/octet-stream
+  --diz---.---:
+    mimetype: text/plain
+  --nfo---.---:
+    mimetype: application/octet-stream
+  --theend.---:
+    mimetype: application/octet-stream
+  --vga---.---:
+    mimetype: image/x-pcx
+  --viewer.---:
+    mimetype: application/octet-stream
+  72-bm.asc:
+    mimetype: text/plain
+  arl-blac.ans:
+    mimetype: text/plain
+  ave-boom.ans:
+    mimetype: text/plain
+  ave-cl17.ans:
+    mimetype: text/plain
+  ave-h103.ans:
+    mimetype: text/plain
+  ave-hoth.ans:
+    mimetype: text/plain
+  ave-ic2.ans:
+    mimetype: text/plain
+  ave-ooze.ans:
+    mimetype: text/plain
+  ave-s$2.ans:
+    mimetype: text/plain
+  bm-holly.txt:
+    mimetype: text/plain
+  bmbook19.html:
+    mimetype: text/html
+  bmbook19.nfo:
+    mimetype: text/plain
+  bmview.jar:
+    mimetype: application/zip
+  bv.doc:
+    mimetype: text/plain
+  bv.exe:
+    mimetype: application/x-msdos-program
+  bv.ini:
+    mimetype: application/octet-stream
+  file_id.diz:
+    mimetype: text/plain
+  k-salt.ans:
+    mimetype: text/plain
+  ko-dream.ans:
+    mimetype: text/plain
+  ko-scent.ans:
+    mimetype: text/plain
+  pn-go4.ans:
+    mimetype: text/plain
+  pn-kol7.gif:
+    mimetype: image/gif
+  po-beaut.jpg:
+    mimetype: image/jpeg
+  po-toco.jpg:
+    mimetype: image/jpeg
+  s3-ds.txt:
+    mimetype: text/plain
+  s3-eld.ans:
+    mimetype: text/plain
+  shn-burn.jpg:
+    mimetype: image/jpeg
+  shn-dead.asc:
+    mimetype: text/plain
+  shn-kypo.jpg:
+    mimetype: image/jpeg
+  shn-lava.ans:
+    mimetype: text/plain
+  shn-life.jpg:
+    mimetype: image/jpeg
+  shn-snow.ans:
+    mimetype: text/plain
+  shn-styl.ans:
+    mimetype: text/plain
+  st-xmas.txt:
+    mimetype: text/plain
+  t-fire.ans:
+    mimetype: text/plain
+  us-238.ans:
+    mimetype: text/plain
+  us-form1.ans:
+    mimetype: text/plain
+  us-lost.ans:
+    mimetype: text/plain
+  us-np2h.ans:
+    mimetype: text/plain
+  us-ztrip.ans:
+    mimetype: text/plain
+  zip-grts.ans:
+    mimetype: text/plain
+  zzzzzzzz.ans:
+    mimetype: text/plain

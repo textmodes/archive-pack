@@ -1,0 +1,70 @@
+name: glue-03.zip
+hash: b59f7f7068f7f926eed949826584b837
+year: 1997
+file:
+  --ANSI--.---:
+    mimetype: text/plain
+  --INFO--.---:
+    mimetype: text/plain
+  00-GLUE.ANS:
+    mimetype: text/plain
+  22-HDRS.ANS:
+    mimetype: text/plain
+  22-HEMP2.ANS:
+    mimetype: text/plain
+  22-KINK1.ANS:
+    mimetype: text/plain
+  22-SEP.ANS:
+    mimetype: text/plain
+  22-TEN.ANS:
+    mimetype: text/plain
+  22-TEN2.ANS:
+    mimetype: text/plain
+  DS-HB.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GLUE-SEP.MEM:
+    mimetype: text/plain
+  GLUE-SEP.NFO:
+    mimetype: text/plain
+  INT-C&C.ANS:
+    mimetype: text/plain
+  INT-ECL.ANS:
+    mimetype: text/plain
+  INT-FLM.ANS:
+    mimetype: text/plain
+  INT-KINK.ANS:
+    mimetype: text/plain
+  INT-KNK2.ANS:
+    mimetype: text/plain
+  JDGENIE.BIN:
+    mimetype: application/octet-stream
+  JDROGUE.ANS:
+    mimetype: text/plain
+  PLZ-CXC.ANS:
+    mimetype: text/plain
+  RN-HDRS.ANS:
+    mimetype: text/plain
+  RN-NEO.ANS:
+    mimetype: text/plain
+  RN-SEP.ANS:
+    mimetype: text/plain
+  TAI-KINK.ANS:
+    mimetype: text/plain
+  US-AFRO.ANS:
+    mimetype: text/plain
+  US-GLUE2.ANS:
+    mimetype: text/plain
+  US-GLUE4.ANS:
+    mimetype: text/plain
+  US-ILLB.ANS:
+    mimetype: text/plain
+  US-KP.ANS:
+    mimetype: text/plain
+  US-LF.ANS:
+    mimetype: text/plain
+  US-OPIV.ANS:
+    mimetype: text/plain
+  US-THIN.ANS:
+    mimetype: text/plain

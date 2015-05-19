@@ -1,0 +1,40 @@
+name: 02adment.zip
+hash: 121e00886870c457f696a80175d14ed7
+year: 1996
+file:
+  02ADMENT.MEM:
+    mimetype: text/plain
+  02ADMENT.NFO:
+    mimetype: text/plain
+  ADMENT.HIS:
+    mimetype: text/plain
+  BORSTJES.EXE:
+    mimetype: application/x-msdos-program
+  BROEKJE.EXE:
+    mimetype: application/x-msdos-program
+  DESC.SDI:
+    mimetype: text/plain
+  EQ-COMP1.ANS:
+    mimetype: text/plain
+  EQ-IMPU2.ANS:
+    mimetype: text/plain
+  EQ-LOGO5.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  HALLU1ST.COM:
+    mimetype: application/x-msdos-program
+  HOSTESS.TXT:
+    mimetype: text/plain
+  KB-ACITY.JPG:
+    mimetype: image/jpeg
+  KB-CUFO.JPG:
+    mimetype: image/jpeg
+  KB-GDSS.JPG:
+    mimetype: image/jpeg
+  KB-IFSX.JPG:
+    mimetype: image/jpeg
+  RP-DAFNK.S3M:
+    mimetype: audio/x-mod
+  SHIMERIK.TXT:
+    mimetype: text/plain

@@ -1,0 +1,38 @@
+name: cia64-b.zip
+hash: 3c12cfad57acaa76fb59cb1ec788811f
+year: 1999
+file:
+  '---ETC--.---':
+    mimetype: text/plain
+  --CNTD--.---:
+    mimetype: text/plain
+  --INFO--.---:
+    mimetype: text/plain
+  -HIRES--.---:
+    mimetype: text/plain
+  0699MEMB.XB:
+    mimetype: text/x-xbin
+  0699info.cia:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  VIEWER--.---:
+    mimetype: text/plain
+  WIRETAP.DOC:
+    mimetype: text/plain
+  WIRETAP.EXE:
+    mimetype: application/x-msdos-program
+  db_cfman.jpg:
+    mimetype: image/jpeg
+  ik_avshr.jpg:
+    mimetype: image/jpeg
+  ik_crts.jpg:
+    mimetype: image/jpeg
+  ik_deny.jpg:
+    mimetype: image/jpeg
+  ik_just.jpg:
+    mimetype: image/jpeg
+  lk_bd_np.jpg:
+    mimetype: image/jpeg
+  ml_rmx.jpg:
+    mimetype: image/jpeg

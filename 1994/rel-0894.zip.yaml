@@ -1,0 +1,82 @@
+name: rel-0894.zip
+hash: 38c73f00d0a3e6b496eecccdaced4907
+year: 1994
+file:
+  !!binary xMTEQU5TScQuxMTE:
+    mimetype: application/octet-stream
+  !!binary xMTEUklQxMQuxMTE:
+    mimetype: application/octet-stream
+  !!binary xMTEVkdBxMQuxMTE:
+    mimetype: application/octet-stream
+  !!binary xMRNVVNJQ8QuxMTE:
+    mimetype: application/octet-stream
+  !!binary xMRPVEhFUsQuxMTE:
+    mimetype: application/octet-stream
+  !!binary xMRWSUVXRVIuxMTE:
+    mimetype: application/octet-stream
+  BMR-NET.REL:
+    mimetype: text/plain
+  BMR-SS1.REL:
+    mimetype: text/plain
+  BMR-TCG2.REL:
+    mimetype: text/plain
+  BS-NOWHR.GIF:
+    mimetype: image/gif
+  CO-REL1.BIN:
+    mimetype: text/x-binary
+  CO-ROD.REL:
+    mimetype: text/plain
+  DP-CATH.GIF:
+    mimetype: image/gif
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FL-CS1.REL:
+    mimetype: text/plain
+  FL-TERB2.REL:
+    mimetype: text/plain
+  GW-SKULL.RIP:
+    mimetype: image/x-rip
+  HU-NC1.REL:
+    mimetype: text/plain
+  HU-REL2.BIN:
+    mimetype: text/x-binary
+  HU-RELIC.BIN:
+    mimetype: text/x-binary
+  I2-TSP.REL:
+    mimetype: text/plain
+  INFO.REL:
+    mimetype: text/plain
+  JD-ACE11.REL:
+    mimetype: text/plain
+  KT-DO.REL:
+    mimetype: text/plain
+  LQ-FTRA.S3M:
+    mimetype: audio/x-mod
+  MEMBERS.REL:
+    mimetype: text/plain
+  MNX-SOD.GIF:
+    mimetype: image/gif
+  MNX-THA.GIF:
+    mimetype: image/gif
+  MO-AESIR.PCX:
+    mimetype: image/pcx
+  RELICVU.CFG:
+    mimetype: text/plain
+  RELICVU.DOC:
+    mimetype: text/plain
+  RELICVU.EXE:
+    mimetype: application/x-msdos-program
+  SH-AOTM.REL:
+    mimetype: text/plain
+  SH-VIM.REL:
+    mimetype: text/plain
+  SS-RADI.RIP:
+    mimetype: image/x-rip
+  SS-REC2.RIP:
+    mimetype: image/x-rip
+  SS-SWORD.RIP:
+    mimetype: image/x-rip
+  SS-WET2.RIP:
+    mimetype: image/x-rip
+  SS-WET3.RIP:
+    mimetype: image/x-rip

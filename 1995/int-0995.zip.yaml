@@ -1,0 +1,36 @@
+name: int-0995.zip
+hash: dc4fcf74ce2cef45dd2c12471eb82f5a
+year: 1995
+file:
+  DF-IOM1.ANS:
+    mimetype: text/plain
+  DF-NCHL1.ANS:
+    mimetype: text/plain
+  DF-ST1.ANS:
+    mimetype: text/plain
+  EAS-IAPP.ZIP:
+    mimetype: application/zip
+  EO-VOS.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GL-NC.ANS:
+    mimetype: text/plain
+  GS-TERM1.ANS:
+    mimetype: text/plain
+  INT-0995.MEM:
+    mimetype: text/plain
+  INT-0995.NFO:
+    mimetype: text/plain
+  MA-FORCE.ANS:
+    mimetype: text/plain
+  QT-SOAS.ANS:
+    mimetype: text/plain
+  TRE-IOM2.ANS:
+    mimetype: text/plain
+  TRE-IOM3.ANS:
+    mimetype: text/plain
+  US-DCS.ANS:
+    mimetype: text/plain
+  US-IOM.ANS:
+    mimetype: text/plain

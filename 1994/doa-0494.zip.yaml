@@ -1,0 +1,42 @@
+name: doa-0494.zip
+hash: 41d97447e1bda6bbb80d7da805b2884c
+year: 1994
+file:
+  !!binary +k9SSUdJTvouVEhF:
+    mimetype: text/plain
+  2NOWHERE:
+    mimetype: text/plain
+  AB-BSMAS.EXE:
+    mimetype: application/x-msdos-program
+  AB-BYTE.ANS:
+    mimetype: text/plain
+  AB-DOAAD.ANS:
+    mimetype: text/plain
+  AB-FISH.ANS:
+    mimetype: text/plain
+  AB-GATOH.ANS:
+    mimetype: text/plain
+  AB-PRIMA.ANS:
+    mimetype: text/plain
+  AB-PROFD.ANS:
+    mimetype: text/plain
+  AB-THORN.FLI:
+    mimetype: video/fli
+  AB-THRAX.ANS:
+    mimetype: text/plain
+  ARTWORK.APL:
+    mimetype: text/plain
+  BK-NITE.GIF:
+    mimetype: image/gif
+  BS-TOOL.ANS:
+    mimetype: text/plain
+  COMPUTER.ANS:
+    mimetype: text/plain
+  DOA.APL:
+    mimetype: text/plain
+  DOAF.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  ROSTER.EXE:
+    mimetype: application/x-msdos-program

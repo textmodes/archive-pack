@@ -1,0 +1,14 @@
+name: ice_sr.zip
+hash: 62d2d1db9e81034c0372b5716a831cdf
+year: 1994
+file:
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FUN!.COM:
+    mimetype: application/x-msdos-program
+  README.ICE:
+    mimetype: text/plain
+  REAL.ICE:
+    mimetype: audio/x-mod
+  SORTA.EXE:
+    mimetype: application/x-msdos-program

@@ -1,0 +1,86 @@
+name: die-pk4.zip
+hash: d0e4741e405d204ebdeaa599fbb92e3a
+year: 1993
+file:
+  CX-MF#1.DIE:
+    mimetype: text/plain
+  CX-YS#1.DIE:
+    mimetype: text/plain
+  CY-DIE#1.FLI:
+    mimetype: video/fli
+  CY-DIE#1.GIF:
+    mimetype: image/gif
+  CY-DIE#2.GIF:
+    mimetype: image/gif
+  CY-DIE#3.GIF:
+    mimetype: image/gif
+  CY-DIE#4.GIF:
+    mimetype: image/gif
+  CY-DIE#5.JPG:
+    mimetype: image/jpeg
+  CY-DIE#6.JPG:
+    mimetype: image/jpeg
+  CY-VC#1.GIF:
+    mimetype: image/gif
+  DIE-PK#4.NFO:
+    mimetype: text/plain
+  DIEVIEW.EXE:
+    mimetype: application/x-msdos-program
+  EL-MAG#1.MOD:
+    mimetype: audio/x-mod
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FK-AD#1.DIE:
+    mimetype: text/plain
+  FK-AD#2.EXE:
+    mimetype: application/x-msdos-program
+  FK-AD#3.EXE:
+    mimetype: application/x-msdos-program
+  FK-IN#1.DIE:
+    mimetype: text/plain
+  FK-LM#1.DIE:
+    mimetype: text/plain
+  FK-NC#1.DIE:
+    mimetype: text/plain
+  FK-PIL#1.DIE:
+    mimetype: text/plain
+  FK-VC#11.DIE:
+    mimetype: text/plain
+  FK-VC#12.DIE:
+    mimetype: text/plain
+  FUN!.COM:
+    mimetype: application/x-msdos-program
+  LG-AG#1.DIE:
+    mimetype: text/plain
+  LG-DC#1.DIE:
+    mimetype: text/plain
+  LG-DRG#1.DIE:
+    mimetype: text/plain
+  LG-DRG#2.DIE:
+    mimetype: text/plain
+  LG-HX#1.DIE:
+    mimetype: text/plain
+  LG-M7#1.DIE:
+    mimetype: text/plain
+  LG-MD#1.DIE:
+    mimetype: text/plain
+  LG-XM#1.GIF:
+    mimetype: image/gif
+  MEMBERS.DIE:
+    mimetype: text/plain
+  PROMPT.BAT:
+    mimetype: application/x-msdos-program
+  TS-CD#1.DIE:
+    mimetype: text/plain
+  TS-DIE#6.ANS:
+    mimetype: text/plain
+  TS-VAN#1.ANS:
+    mimetype: text/plain
+  TS-ZG#1.ANS:
+    mimetype: text/plain
+  VIOLENT.BBS:
+    mimetype: text/plain
+  WELCOME.1:
+    mimetype: text/plain
+  XMAS#1.DIE:
+    mimetype: text/plain

@@ -1,0 +1,104 @@
+name: blde9407.zip
+hash: 8eaf90040839b346b8d83fcad64f49a0
+year: 1994
+file:
+  '#2-PASOL.PIK':
+    mimetype: text/plain
+  !!binary +vr6+kFOU/ou+vr6:
+    mimetype: text/plain
+  !!binary +vr6+kxJVPou+vr6:
+    mimetype: text/plain
+  !!binary +vr6+k5GT/ou+vr6:
+    mimetype: text/plain
+  BLADEAPP.ZIP:
+    mimetype: application/zip
+  BLDE9407.MEM:
+    mimetype: text/plain
+  BLDE9407.NFO:
+    mimetype: text/plain
+  BLDE9407.SIT:
+    mimetype: text/plain
+  EQ-DSIDE.LIT:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FLX-RBRT.LIT:
+    mimetype: text/plain
+  MC-EI2.ANS:
+    mimetype: text/plain
+  MC-MTRX.ANS:
+    mimetype: text/plain
+  MC-STAT2.ANS:
+    mimetype: text/plain
+  MC-SYNDX.ANS:
+    mimetype: text/plain
+  MC-TF.LIT:
+    mimetype: text/plain
+  ME-BLADE.ANS:
+    mimetype: text/plain
+  MP-DUNGN.LIT:
+    mimetype: text/plain
+  MP-LIGHT.LIT:
+    mimetype: text/plain
+  MP-MENT.LIT:
+    mimetype: text/plain
+  PS-ALF1.ANS:
+    mimetype: text/plain
+  PS-BLUR1.ANS:
+    mimetype: text/plain
+  PS-XPRES.ANS:
+    mimetype: text/plain
+  REQUEST.EXE:
+    mimetype: application/x-msdos-program
+  SHELL100.ZIP:
+    mimetype: application/zip
+  SS-CFM.ANS:
+    mimetype: text/plain
+  SS-CTCM.ANS:
+    mimetype: text/plain
+  SS-FRND.LIT:
+    mimetype: text/plain
+  SS-JO.LIT:
+    mimetype: text/plain
+  SS-STRS.LIT:
+    mimetype: text/plain
+  SS-VP.ANS:
+    mimetype: text/plain
+  TP-BDAD.ANS:
+    mimetype: text/plain
+  TP-BLADE.ANS:
+    mimetype: text/plain
+  TP-BLD1.ANS:
+    mimetype: text/plain
+  TP-CYBH2.ANS:
+    mimetype: text/plain
+  TP-ENIGM.ANS:
+    mimetype: text/plain
+  TP-INT1.ANS:
+    mimetype: text/plain
+  TP-INT2.ANS:
+    mimetype: text/plain
+  TP-LIME.ANS:
+    mimetype: text/plain
+  TP-NOAD.ANS:
+    mimetype: text/plain
+  TP-REAL.ANS:
+    mimetype: text/plain
+  TP-SSAD.ANS:
+    mimetype: text/plain
+  TPH-COL.LIT:
+    mimetype: text/plain
+  TPH-ECLP.LIT:
+    mimetype: text/plain
+  TPH-IND.LIT:
+    mimetype: text/plain
+  TPH-STAR.LIT:
+    mimetype: text/plain
+  TPH-WLDN.LIT:
+    mimetype: text/plain
+  ZY-PITT.ANS:
+    mimetype: text/plain
+  ZY-PITT2.ANS:
+    mimetype: text/plain
+  ZY-RG.ANS:
+    mimetype: text/plain

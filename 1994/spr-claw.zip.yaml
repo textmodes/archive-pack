@@ -1,0 +1,22 @@
+name: spr-claw.zip
+hash: 837d6fc1de5ea411a4c32f1ab6d33b7e
+year: 1994
+file:
+  !!binary /kH6Q/pF/i5DT00=:
+    mimetype: application/x-msdos-program
+  DGINFO15.ZIP:
+    mimetype: application/zip
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  MAGICRUL.ES!:
+    mimetype: text/plain
+  NEOTOKYO.ANS:
+    mimetype: text/plain
+  SPR-CLAW.ANS:
+    mimetype: text/plain
+  SSTXOKK.BIH:
+    mimetype: application/octet-stream
+  THECOURT.EXE:
+    mimetype: application/x-msdos-program
+  WONDER!.WHY:
+    mimetype: text/plain

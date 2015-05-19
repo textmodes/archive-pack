@@ -1,0 +1,608 @@
+name: noir1199.zip
+hash: 88ef5bf538e75b3b1e1087a3b63baec3
+year: 1999
+file:
+  file_id.diz:
+    mimetype: text/plain
+  html/art.html:
+    mimetype: text/html
+  html/image01.html:
+    mimetype: text/html
+  html/image02.html:
+    mimetype: text/html
+  html/image03.html:
+    mimetype: text/html
+  html/image04.html:
+    mimetype: text/html
+  html/image05.html:
+    mimetype: text/html
+  html/image06.html:
+    mimetype: text/html
+  html/image07.html:
+    mimetype: text/html
+  html/image08.html:
+    mimetype: text/html
+  html/image09.html:
+    mimetype: text/html
+  html/image10.html:
+    mimetype: text/html
+  html/image11.html:
+    mimetype: text/html
+  html/image12.html:
+    mimetype: text/html
+  html/image13.html:
+    mimetype: text/html
+  html/image14.html:
+    mimetype: text/html
+  html/image15.html:
+    mimetype: text/html
+  html/image16.html:
+    mimetype: text/html
+  html/image17.html:
+    mimetype: text/html
+  html/image18.html:
+    mimetype: text/html
+  html/image19.html:
+    mimetype: text/html
+  html/image20.html:
+    mimetype: text/html
+  html/image21.html:
+    mimetype: text/html
+  html/image22.html:
+    mimetype: text/html
+  html/image23.html:
+    mimetype: text/html
+  html/image24.html:
+    mimetype: text/html
+  html/image25.html:
+    mimetype: text/html
+  html/image26.html:
+    mimetype: text/html
+  html/image27.html:
+    mimetype: text/html
+  html/image28.html:
+    mimetype: text/html
+  html/image29.html:
+    mimetype: text/html
+  html/image30.html:
+    mimetype: text/html
+  html/image31.html:
+    mimetype: text/html
+  html/image32.html:
+    mimetype: text/html
+  html/image33.html:
+    mimetype: text/html
+  html/members.html:
+    mimetype: text/html
+  html/news.html:
+    mimetype: text/html
+  html/packart.html:
+    mimetype: text/html
+  html/packart2.html:
+    mimetype: text/html
+  html/switch.html:
+    mimetype: text/html
+  images/artpage.jpg:
+    mimetype: image/jpeg
+  images/members-1.gif:
+    mimetype: image/gif
+  images/members-2-over.gif:
+    mimetype: image/gif
+  images/members-2.gif:
+    mimetype: image/gif
+  images/members-3.jpg:
+    mimetype: image/jpeg
+  images/members-4-over.gif:
+    mimetype: image/gif
+  images/members-4.gif:
+    mimetype: image/gif
+  images/members-5-over.gif:
+    mimetype: image/gif
+  images/members-5.gif:
+    mimetype: image/gif
+  images/members-6-over.gif:
+    mimetype: image/gif
+  images/members-6.gif:
+    mimetype: image/gif
+  images/members-7-over.gif:
+    mimetype: image/gif
+  images/members-7.gif:
+    mimetype: image/gif
+  images/members-8-over.gif:
+    mimetype: image/gif
+  images/members-8.gif:
+    mimetype: image/gif
+  images/members-9-over.gif:
+    mimetype: image/gif
+  images/members-9.gif:
+    mimetype: image/gif
+  images/members-10-over.gif:
+    mimetype: image/gif
+  images/members-10.gif:
+    mimetype: image/gif
+  images/members-11-over.gif:
+    mimetype: image/gif
+  images/members-11.gif:
+    mimetype: image/gif
+  images/members-12-over.gif:
+    mimetype: image/gif
+  images/members-12.gif:
+    mimetype: image/gif
+  images/members-13-over.gif:
+    mimetype: image/gif
+  images/members-13.gif:
+    mimetype: image/gif
+  images/members-14-over.gif:
+    mimetype: image/gif
+  images/members-14.gif:
+    mimetype: image/gif
+  images/members-15-over.gif:
+    mimetype: image/gif
+  images/members-15.gif:
+    mimetype: image/gif
+  images/members-16-over.gif:
+    mimetype: image/gif
+  images/members-16.gif:
+    mimetype: image/gif
+  images/members-17-over.gif:
+    mimetype: image/gif
+  images/members-17.gif:
+    mimetype: image/gif
+  images/members-18-over.gif:
+    mimetype: image/gif
+  images/members-18.gif:
+    mimetype: image/gif
+  images/members-19-over.gif:
+    mimetype: image/gif
+  images/members-19.gif:
+    mimetype: image/gif
+  images/members-20-over.gif:
+    mimetype: image/gif
+  images/members-20.gif:
+    mimetype: image/gif
+  images/members-21-over.gif:
+    mimetype: image/gif
+  images/members-21.gif:
+    mimetype: image/gif
+  images/members-22.gif:
+    mimetype: image/gif
+  images/members-23-over.gif:
+    mimetype: image/gif
+  images/members-23.gif:
+    mimetype: image/gif
+  images/members-24-over.gif:
+    mimetype: image/gif
+  images/members-24.gif:
+    mimetype: image/gif
+  images/members-25-over.gif:
+    mimetype: image/gif
+  images/members-25.gif:
+    mimetype: image/gif
+  images/members-26-over.gif:
+    mimetype: image/gif
+  images/members-26.gif:
+    mimetype: image/gif
+  images/members-27-over.gif:
+    mimetype: image/gif
+  images/members-27.gif:
+    mimetype: image/gif
+  images/members-28.gif:
+    mimetype: image/gif
+  images/noir_news.jpg:
+    mimetype: image/jpeg
+  images/noir_pack_01.jpg:
+    mimetype: image/jpeg
+  images/noir_pack_02.jpg:
+    mimetype: image/jpeg
+  images/noir_pack_03.gif:
+    mimetype: image/gif
+  images/noir_pack_04.gif:
+    mimetype: image/gif
+  images/noir_pack_05.gif:
+    mimetype: image/gif
+  images/noir_pack_06.gif:
+    mimetype: image/gif
+  images/noir_pack_07-over.gif:
+    mimetype: image/gif
+  images/noir_pack_07.gif:
+    mimetype: image/gif
+  images/packart-1.jpg:
+    mimetype: image/jpeg
+  images/packart-2.jpg:
+    mimetype: image/jpeg
+  images/packart-3-over.jpg:
+    mimetype: image/jpeg
+  images/packart-3.jpg:
+    mimetype: image/jpeg
+  images/packart-4.jpg:
+    mimetype: image/jpeg
+  images/packart-5-over.jpg:
+    mimetype: image/jpeg
+  images/packart-5.jpg:
+    mimetype: image/jpeg
+  images/packart-6.jpg:
+    mimetype: image/jpeg
+  images/packart-7-over.jpg:
+    mimetype: image/jpeg
+  images/packart-7.jpg:
+    mimetype: image/jpeg
+  images/packart-8.jpg:
+    mimetype: image/jpeg
+  images/packart-9-over.jpg:
+    mimetype: image/jpeg
+  images/packart-9.jpg:
+    mimetype: image/jpeg
+  images/packart-10.jpg:
+    mimetype: image/jpeg
+  images/packart-11-over.jpg:
+    mimetype: image/jpeg
+  images/packart-11.jpg:
+    mimetype: image/jpeg
+  images/packart-12.jpg:
+    mimetype: image/jpeg
+  images/packart-13-over.jpg:
+    mimetype: image/jpeg
+  images/packart-13.jpg:
+    mimetype: image/jpeg
+  images/packart-14.jpg:
+    mimetype: image/jpeg
+  images/packart-15-over.jpg:
+    mimetype: image/jpeg
+  images/packart-15.jpg:
+    mimetype: image/jpeg
+  images/packart-16.jpg:
+    mimetype: image/jpeg
+  images/packart-17-over.jpg:
+    mimetype: image/jpeg
+  images/packart-17.jpg:
+    mimetype: image/jpeg
+  images/packart-18.jpg:
+    mimetype: image/jpeg
+  images/packart-19.jpg:
+    mimetype: image/jpeg
+  images/packart-20-over.jpg:
+    mimetype: image/jpeg
+  images/packart-20.jpg:
+    mimetype: image/jpeg
+  images/packart-21.jpg:
+    mimetype: image/jpeg
+  images/packart-22.jpg:
+    mimetype: image/jpeg
+  images/packart-23-over.jpg:
+    mimetype: image/jpeg
+  images/packart-23.jpg:
+    mimetype: image/jpeg
+  images/packart-24-over.jpg:
+    mimetype: image/jpeg
+  images/packart-24.jpg:
+    mimetype: image/jpeg
+  images/packart-25.jpg:
+    mimetype: image/jpeg
+  images/packart-26.jpg:
+    mimetype: image/jpeg
+  images/packart-27.jpg:
+    mimetype: image/jpeg
+  images/packart-28-over.jpg:
+    mimetype: image/jpeg
+  images/packart-28.jpg:
+    mimetype: image/jpeg
+  images/packart-29-over.jpg:
+    mimetype: image/jpeg
+  images/packart-29.jpg:
+    mimetype: image/jpeg
+  images/packart-30-over.jpg:
+    mimetype: image/jpeg
+  images/packart-30.jpg:
+    mimetype: image/jpeg
+  images/packart-31.jpg:
+    mimetype: image/jpeg
+  images/packart-32-over.jpg:
+    mimetype: image/jpeg
+  images/packart-32.jpg:
+    mimetype: image/jpeg
+  images/packart-33.jpg:
+    mimetype: image/jpeg
+  images/packart-34-over.jpg:
+    mimetype: image/jpeg
+  images/packart-34.jpg:
+    mimetype: image/jpeg
+  images/packart-35.jpg:
+    mimetype: image/jpeg
+  images/packart-36.jpg:
+    mimetype: image/jpeg
+  images/packart-37.jpg:
+    mimetype: image/jpeg
+  images/packart-38-over.jpg:
+    mimetype: image/jpeg
+  images/packart-38.jpg:
+    mimetype: image/jpeg
+  images/packart-39-over.jpg:
+    mimetype: image/jpeg
+  images/packart-39.jpg:
+    mimetype: image/jpeg
+  images/packart-40-over.jpg:
+    mimetype: image/jpeg
+  images/packart-40.jpg:
+    mimetype: image/jpeg
+  images/packart-41.jpg:
+    mimetype: image/jpeg
+  images/packart-42-over.jpg:
+    mimetype: image/jpeg
+  images/packart-42.jpg:
+    mimetype: image/jpeg
+  images/packart-43.jpg:
+    mimetype: image/jpeg
+  images/packart-44-over.jpg:
+    mimetype: image/jpeg
+  images/packart-44.jpg:
+    mimetype: image/jpeg
+  images/packart-45-over.jpg:
+    mimetype: image/jpeg
+  images/packart-45-over2.jpg:
+    mimetype: image/jpeg
+  images/packart-45.jpg:
+    mimetype: image/jpeg
+  images/packart-46.jpg:
+    mimetype: image/jpeg
+  images/packart-47.jpg:
+    mimetype: image/jpeg
+  images/packart-48-over.jpg:
+    mimetype: image/jpeg
+  images/packart-48.jpg:
+    mimetype: image/jpeg
+  images/packart-49.jpg:
+    mimetype: image/jpeg
+  images/packart-50-over.jpg:
+    mimetype: image/jpeg
+  images/packart-50.jpg:
+    mimetype: image/jpeg
+  images/packart-51.jpg:
+    mimetype: image/jpeg
+  images/packart-52.jpg:
+    mimetype: image/jpeg
+  images/packart-53.jpg:
+    mimetype: image/jpeg
+  images/packart-54.jpg:
+    mimetype: image/jpeg
+  images/packart-55.jpg:
+    mimetype: image/jpeg
+  images/packart2-1.jpg:
+    mimetype: image/jpeg
+  images/packart2-2.jpg:
+    mimetype: image/jpeg
+  images/packart2-3-over.jpg:
+    mimetype: image/jpeg
+  images/packart2-3.jpg:
+    mimetype: image/jpeg
+  images/packart2-4.jpg:
+    mimetype: image/jpeg
+  images/packart2-5-over.jpg:
+    mimetype: image/jpeg
+  images/packart2-5.jpg:
+    mimetype: image/jpeg
+  images/packart2-6.jpg:
+    mimetype: image/jpeg
+  images/packart2-7-over.jpg:
+    mimetype: image/jpeg
+  images/packart2-7.jpg:
+    mimetype: image/jpeg
+  images/packart2-8.jpg:
+    mimetype: image/jpeg
+  images/packart2-9-over.jpg:
+    mimetype: image/jpeg
+  images/packart2-9.jpg:
+    mimetype: image/jpeg
+  images/packart2-10.jpg:
+    mimetype: image/jpeg
+  images/packart2-11-over.jpg:
+    mimetype: image/jpeg
+  images/packart2-11.jpg:
+    mimetype: image/jpeg
+  images/packart2-12.jpg:
+    mimetype: image/jpeg
+  images/packart2-13-over.jpg:
+    mimetype: image/jpeg
+  images/packart2-13.jpg:
+    mimetype: image/jpeg
+  images/packart2-14.jpg:
+    mimetype: image/jpeg
+  images/packart2-15-over.jpg:
+    mimetype: image/jpeg
+  images/packart2-15.jpg:
+    mimetype: image/jpeg
+  images/packart2-16.jpg:
+    mimetype: image/jpeg
+  images/packart2-17.jpg:
+    mimetype: image/jpeg
+  images/packart2-18-over.jpg:
+    mimetype: image/jpeg
+  images/packart2-18.jpg:
+    mimetype: image/jpeg
+  images/packart2-19.jpg:
+    mimetype: image/jpeg
+  images/packart2-20.jpg:
+    mimetype: image/jpeg
+  images/packart2-21.jpg:
+    mimetype: image/jpeg
+  images/packart2-22.jpg:
+    mimetype: image/jpeg
+  images/packart2-23.jpg:
+    mimetype: image/jpeg
+  images/packart2-24-over.jpg:
+    mimetype: image/jpeg
+  images/packart2-24.jpg:
+    mimetype: image/jpeg
+  images/packart2-25.jpg:
+    mimetype: image/jpeg
+  images/packart2-26-over.jpg:
+    mimetype: image/jpeg
+  images/packart2-26.jpg:
+    mimetype: image/jpeg
+  images/packart2-27.jpg:
+    mimetype: image/jpeg
+  images/packart2-28.jpg:
+    mimetype: image/jpeg
+  images/packart2-29.jpg:
+    mimetype: image/jpeg
+  images/packart2-30.jpg:
+    mimetype: image/jpeg
+  images/packart2-31.jpg:
+    mimetype: image/jpeg
+  images/packart2-32-packart2-3_over.jpg:
+    mimetype: image/jpeg
+  images/packart2-32.jpg:
+    mimetype: image/jpeg
+  images/spacer.gif:
+    mimetype: image/gif
+  images/switch-1-over.gif:
+    mimetype: image/gif
+  images/switch-1.gif:
+    mimetype: image/gif
+  images/switch-2-over.gif:
+    mimetype: image/gif
+  images/switch-2.gif:
+    mimetype: image/gif
+  images/switch-3-over.gif:
+    mimetype: image/gif
+  images/switch-3.gif:
+    mimetype: image/gif
+  images/switch-4-over.gif:
+    mimetype: image/gif
+  images/switch-4.gif:
+    mimetype: image/gif
+  index.html:
+    mimetype: text/html
+  noir.nfo:
+    mimetype: text/plain
+  pictures/SM_deathbringer-01.jpg:
+    mimetype: image/jpeg
+  pictures/SM_deathbringer-02.jpg:
+    mimetype: image/jpeg
+  pictures/SM_deathbringer-03.jpg:
+    mimetype: image/jpeg
+  pictures/SM_deathbringer-04.jpg:
+    mimetype: image/jpeg
+  pictures/SM_deathbringer-05.jpg:
+    mimetype: image/jpeg
+  pictures/SM_deathbringer-06.jpg:
+    mimetype: image/jpeg
+  pictures/SM_deathbringer-07.jpg:
+    mimetype: image/jpeg
+  pictures/SM_levixeux-Smoker.jpg:
+    mimetype: image/jpeg
+  pictures/SM_levixeux-cyborg.jpg:
+    mimetype: image/jpeg
+  pictures/SM_levixeux-space.jpg:
+    mimetype: image/jpeg
+  pictures/SM_levixeux-urashima.jpg:
+    mimetype: image/jpeg
+  pictures/SM_merchant-ecto.jpg:
+    mimetype: image/jpeg
+  pictures/SM_merchant-scribe.jpg:
+    mimetype: image/jpeg
+  pictures/SM_merchant-sonic.jpg:
+    mimetype: image/jpeg
+  pictures/SM_plexcus-vatosy.jpg:
+    mimetype: image/jpeg
+  pictures/SM_plexcus-walik.jpg:
+    mimetype: image/jpeg
+  pictures/SM_port-bbmof.jpg:
+    mimetype: image/jpeg
+  pictures/SM_port-liveapple.jpg:
+    mimetype: image/jpeg
+  pictures/SM_port-ninjaz.jpg:
+    mimetype: image/jpeg
+  pictures/SM_rival-noircharacter.jpg:
+    mimetype: image/jpeg
+  pictures/SM_rival-noirchurch.jpg:
+    mimetype: image/jpeg
+  pictures/SM_ryan-mountain.jpg:
+    mimetype: image/jpeg
+  pictures/SM_ryan-terrabot.jpg:
+    mimetype: image/jpeg
+  pictures/SM_ryan-zark.jpg:
+    mimetype: image/jpeg
+  pictures/SM_ryan-zat.jpg:
+    mimetype: image/jpeg
+  pictures/SM_shea-gp_design.jpg:
+    mimetype: image/jpeg
+  pictures/SM_shea-land.jpg:
+    mimetype: image/jpeg
+  pictures/SM_xrx-carin.jpg:
+    mimetype: image/jpeg
+  pictures/SM_xrx-maelstrom.jpg:
+    mimetype: image/jpeg
+  pictures/SM_xrx-polymorph.jpg:
+    mimetype: image/jpeg
+  pictures/SM_xrx-the_shadow_rising.jpg:
+    mimetype: image/jpeg
+  pictures/SM_xrx-watching_u.jpg:
+    mimetype: image/jpeg
+  pictures/SM_xrx_carin_reality_mix.jpg:
+    mimetype: image/jpeg
+  pictures/deathbringer-01.jpg:
+    mimetype: image/jpeg
+  pictures/deathbringer-02.jpg:
+    mimetype: image/jpeg
+  pictures/deathbringer-03.jpg:
+    mimetype: image/jpeg
+  pictures/deathbringer-04.jpg:
+    mimetype: image/jpeg
+  pictures/deathbringer-05.jpg:
+    mimetype: image/jpeg
+  pictures/deathbringer-06.jpg:
+    mimetype: image/jpeg
+  pictures/deathbringer-07.jpg:
+    mimetype: image/jpeg
+  pictures/levixeux-Smoker.jpg:
+    mimetype: image/jpeg
+  pictures/levixeux-cyborg.jpg:
+    mimetype: image/jpeg
+  pictures/levixeux-space.jpg:
+    mimetype: image/jpeg
+  pictures/levixeux-urashima.jpg:
+    mimetype: image/jpeg
+  pictures/merchant-ecto.jpg:
+    mimetype: image/jpeg
+  pictures/merchant-scribe.jpg:
+    mimetype: image/jpeg
+  pictures/merchant-sonic.jpg:
+    mimetype: image/jpeg
+  pictures/plexcus-vatosy.jpg:
+    mimetype: image/jpeg
+  pictures/plexcus-walik.jpg:
+    mimetype: image/jpeg
+  pictures/port-bbmof.jpg:
+    mimetype: image/jpeg
+  pictures/port-liveapple.jpg:
+    mimetype: image/jpeg
+  pictures/port-ninjaz.jpg:
+    mimetype: image/jpeg
+  pictures/rival-noircharacter.jpg:
+    mimetype: image/jpeg
+  pictures/rival-noirchurch.jpg:
+    mimetype: image/jpeg
+  pictures/ryan-mountain.jpg:
+    mimetype: image/jpeg
+  pictures/ryan-terrabot.jpg:
+    mimetype: image/jpeg
+  pictures/ryan-zark.jpg:
+    mimetype: image/jpeg
+  pictures/ryan-zat.jpg:
+    mimetype: image/jpeg
+  pictures/shea-gp_design.jpg:
+    mimetype: image/jpeg
+  pictures/shea-land.jpg:
+    mimetype: image/jpeg
+  pictures/xrx-carin.jpg:
+    mimetype: image/jpeg
+  pictures/xrx-maelstrom.jpg:
+    mimetype: image/jpeg
+  pictures/xrx-polymorph.jpg:
+    mimetype: image/jpeg
+  pictures/xrx-the_shadow_rising.jpg:
+    mimetype: image/jpeg
+  pictures/xrx-watching_u.jpg:
+    mimetype: image/jpeg
+  pictures/xrx_carin_reality_mix.jpg:
+    mimetype: image/jpeg

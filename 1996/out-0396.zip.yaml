@@ -1,0 +1,34 @@
+name: out-0396.zip
+hash: a1b1b809c8446b7a366e0969d711bcd0
+year: 1996
+file:
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  OUT-AZRL.RIP:
+    mimetype: image/x-rip
+  OUT-DIST.ANS:
+    mimetype: text/plain
+  OUT-DIST.RIP:
+    mimetype: image/x-rip
+  OUT-DIST.TXT:
+    mimetype: text/plain
+  OUT-FLSH.ANS:
+    mimetype: text/plain
+  OUT-GRID.ANS:
+    mimetype: text/plain
+  OUT-JIMI.TXT:
+    mimetype: text/plain
+  OUT-PIRA.ANS:
+    mimetype: text/plain
+  OUT-SHI1.RIP:
+    mimetype: image/x-rip
+  OUT-SPN1.ANS:
+    mimetype: text/plain
+  OUT-SPN1.RIP:
+    mimetype: image/x-rip
+  OUT-THNG.RIP:
+    mimetype: image/x-rip
+  OUT.AD:
+    mimetype: text/plain
+  OUTWORLD.TXT:
+    mimetype: text/plain

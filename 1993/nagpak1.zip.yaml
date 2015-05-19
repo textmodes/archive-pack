@@ -1,0 +1,50 @@
+name: nagpak1.zip
+hash: d80598e23c6e7d0d2331a56b8eab25a4
+year: 1993
+file:
+  BBS.TXT:
+    mimetype: text/plain
+  BO-NEB.NAG:
+    mimetype: text/plain
+  CRAK.NAG:
+    mimetype: text/plain
+  DARKD.CMT:
+    mimetype: text/plain
+  FR-HN.NAG:
+    mimetype: text/plain
+  FR-NAG.NAG:
+    mimetype: text/plain
+  FUCK.NAG:
+    mimetype: text/plain
+  FY-DRAG.NAG:
+    mimetype: text/plain
+  HN.NAG:
+    mimetype: text/plain
+  INFERNO.NAG:
+    mimetype: text/plain
+  LIQU.NAG:
+    mimetype: text/plain
+  LOGO.NAG:
+    mimetype: text/plain
+  MV.EXE:
+    mimetype: application/x-msdos-program
+  NAG.NAG:
+    mimetype: text/plain
+  NAG.ZIP:
+    mimetype: application/zip
+  NAGAPP.ZIP:
+    mimetype: application/zip
+  NAGMNU.ZIP:
+    mimetype: application/zip
+  NG.EXE:
+    mimetype: application/x-msdos-program
+  PKZIP.EXE:
+    mimetype: application/x-msdos-program
+  PLAD.NAG:
+    mimetype: text/plain
+  REAP.NAG:
+    mimetype: text/plain
+  RGMENUS.ARJ:
+    mimetype: application/x-arj
+  UT.NAG:
+    mimetype: text/plain

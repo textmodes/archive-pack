@@ -1,0 +1,60 @@
+name: nitro01.zip
+hash: f9ab8055eb1410c7762d8d5433f7906e
+year: 1999
+file:
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  NITRO01.MEM:
+    mimetype: text/plain
+  PG-ATK.ASC:
+    mimetype: text/plain
+  PG-CAVR.ASC:
+    mimetype: text/plain
+  PG-FLPFL.ASC:
+    mimetype: text/plain
+  PG-NTR.ASC:
+    mimetype: text/plain
+  PG-SODAP.ASC:
+    mimetype: text/plain
+  SPF-COLY.ASC:
+    mimetype: text/plain
+  SPF-IDRK.ASC:
+    mimetype: text/plain
+  SPF-NONE.ASC:
+    mimetype: text/plain
+  SPF-SLKA.ASC:
+    mimetype: text/plain
+  SPF-ZOOP.ASC:
+    mimetype: text/plain
+  SPF-ZPLG.ASC:
+    mimetype: text/plain
+  US-RUS.ASC:
+    mimetype: text/plain
+  US-SMURF.ASC:
+    mimetype: text/plain
+  VOL-GBYE.TXT:
+    mimetype: text/plain
+  WE-WACK.ASC:
+    mimetype: text/plain
+  WKZ-BOM.ASC:
+    mimetype: text/plain
+  WKZ-FMS.ASC:
+    mimetype: text/plain
+  WKZ-PG.ASC:
+    mimetype: text/plain
+  WKZ-PHR.ASC:
+    mimetype: text/plain
+  WKZ-RMRS.ASC:
+    mimetype: text/plain
+  WKZ-STX.ASC:
+    mimetype: text/plain
+  WKZ-TUP.ASC:
+    mimetype: text/plain
+  dwf-sig.txt:
+    mimetype: text/plain
+  iph-dlr.ans:
+    mimetype: text/plain
+  nitro01.nfo:
+    mimetype: text/plain
+  vol-back.txt:
+    mimetype: text/plain

@@ -1,0 +1,66 @@
+name: acid-71a.zip
+hash: 6148aab4512929aaffffea6a8f2ee29c
+year: 1998
+file:
+  AcidView/AVDialog.class:
+    mimetype: application/x-java-applet
+  AcidView/AcidAnsi.class:
+    mimetype: application/x-java-applet
+  AcidView/AcidText.class:
+    mimetype: application/x-java-applet
+  AcidView/AcidView:
+    mimetype: text/x-shellscript
+  AcidView/AcidView.bat:
+    mimetype: application/x-msdos-program
+  AcidView/AcidView.class:
+    mimetype: application/x-java-applet
+  AcidView/AcidView.faq:
+    mimetype: text/plain
+  AcidView/AcidView.files:
+    mimetype: text/plain
+  AcidView/AcidView.fnt:
+    mimetype: application/octet-stream
+  AcidView/AcidView.jpg:
+    mimetype: image/jpeg
+  AcidView/AcidView.nfo:
+    mimetype: text/plain
+  AcidView/AcidXBin.class:
+    mimetype: application/x-java-applet
+  AcidView/AnsiImage.class:
+    mimetype: application/x-java-applet
+  acid-71.xb:
+    mimetype: text/x-xbin
+  ass-ourscene.jpg:
+    mimetype: image/jpeg
+  axb-space2.jpg:
+    mimetype: image/jpeg
+  axb-space4.jpg:
+    mimetype: image/jpeg
+  cat-self2.jpg:
+    mimetype: image/jpeg
+  cat-where_the_hell.jpg:
+    mimetype: image/jpeg
+  file_id.diz:
+    mimetype: text/plain
+  grm-hellogod.jpg:
+    mimetype: image/jpeg
+  grm-lookma.jpg:
+    mimetype: image/jpeg
+  grm-twominutesbefore.jpg:
+    mimetype: image/jpeg
+  inf-acid5.jpg:
+    mimetype: image/jpeg
+  inf-www_flames_org.jpg:
+    mimetype: image/jpeg
+  lgv-m31promo1.jpg:
+    mimetype: image/jpeg
+  lgv-m31promo2.jpg:
+    mimetype: image/jpeg
+  mcx-acid.jpg:
+    mimetype: image/jpeg
+  news-71.asc:
+    mimetype: text/plain
+  our-copyright.txt:
+    mimetype: text/plain
+  release.nfo:
+    mimetype: text/plain

@@ -1,0 +1,22 @@
+name: cia63-d.zip
+hash: 109ff64bc76024f1a037331dd686a5f8
+year: 1999
+file:
+  '---END--.---':
+    mimetype: text/plain
+  '---ETC--.---':
+    mimetype: text/plain
+  --INFO--.---:
+    mimetype: text/plain
+  -SPECIAL.---:
+    mimetype: text/plain
+  0599info.cia:
+    mimetype: text/plain
+  0599memb.cia:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  na_monk.avi:
+    mimetype: video/x-msvideo
+  na_monk.txt:
+    mimetype: text/plain

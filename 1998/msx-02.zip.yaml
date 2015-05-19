@@ -1,0 +1,26 @@
+name: msx-02.zip
+hash: a6070a052987f4802f6ffe9b06f35d1c
+year: 1998
+file:
+  Acdc3220.exe:
+    mimetype: application/x-msdos-program
+  descript.ion:
+    mimetype: text/plain
+  file_id.diz:
+    mimetype: text/plain
+  hb-band.JPG:
+    mimetype: image/jpeg
+  hb-c4.JPG:
+    mimetype: image/jpeg
+  hb-msx.jpg:
+    mimetype: image/jpeg
+  hb-sol.JPG:
+    mimetype: image/jpeg
+  msx.app:
+    mimetype: application/octet-stream
+  msx2-nfo.JPG:
+    mimetype: image/jpeg
+  rs-msx.gif:
+    mimetype: image/gif
+  serial.txt:
+    mimetype: text/plain

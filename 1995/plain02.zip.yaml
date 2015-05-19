@@ -1,0 +1,84 @@
+name: plain02.zip
+hash: 3f904d0487a1baacff6fa80c8e3ebf61
+year: 1995
+file:
+  -ANSI---.---:
+    mimetype: text/plain
+  -ASCII--.---:
+    mimetype: text/plain
+  -EXE----.---:
+    mimetype: text/plain
+  -EXTRA--.---:
+    mimetype: text/plain
+  -INFO---.---:
+    mimetype: text/plain
+  -YOURS--.---:
+    mimetype: text/plain
+  ANSI01.AD:
+    mimetype: text/plain
+  ANSI01.CA:
+    mimetype: text/plain
+  ANSI01.EG:
+    mimetype: text/plain
+  ANSI01.HX:
+    mimetype: text/plain
+  ANSI01.TE:
+    mimetype: text/plain
+  ANSI01.WO:
+    mimetype: text/plain
+  ANSI02.AD:
+    mimetype: text/plain
+  ANSI02.EG:
+    mimetype: text/plain
+  ANSI02.HX:
+    mimetype: text/plain
+  ANSI02.WO:
+    mimetype: text/plain
+  ANSI03.AD:
+    mimetype: text/plain
+  ANSI03.EG:
+    mimetype: text/plain
+  ANSI03.WO:
+    mimetype: text/plain
+  ANSI04.AD:
+    mimetype: text/plain
+  ANSI04.EG:
+    mimetype: text/plain
+  ANSI04.WO:
+    mimetype: text/plain
+  ASKI01.HO:
+    mimetype: application/octet-stream
+  ASKI01.RM:
+    mimetype: audio/x-pn-realaudio
+  ASKI02.HO:
+    mimetype: application/octet-stream
+  ASKI02.RM:
+    mimetype: audio/x-pn-realaudio
+  ASKI03.HO:
+    mimetype: application/octet-stream
+  ASKI03.RM:
+    mimetype: audio/x-pn-realaudio
+  ASKI04.HO:
+    mimetype: application/octet-stream
+  ASKI05.HO:
+    mimetype: application/octet-stream
+  ASKI06.HO:
+    mimetype: application/octet-stream
+  COLI01.AD:
+    mimetype: text/plain
+  CR-PLAIN.EXE:
+    mimetype: application/x-msdos-program
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  INFO.01:
+    mimetype: text/plain
+  INFO.02:
+    mimetype: text/plain
+  LOGO01.NR:
+    mimetype: text/plain
+  PLAINAPP.EXE:
+    mimetype: application/x-msdos-program
+  PLASTIC.ZIP:
+    mimetype: application/zip
+  STAV.01:
+    mimetype: text/plain

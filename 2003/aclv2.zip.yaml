@@ -1,0 +1,68 @@
+name: aclv2.zip
+hash: bb02145e9600b0973738ef15cc48eec7
+year: 2003
+file:
+  aclv2/acl -  read this.txt:
+    mimetype: text/plain
+  aclv2/black background/caciq/caciq - anthill.ASC:
+    mimetype: text/plain
+  aclv2/black background/caciq/caciq - neruda.ASC:
+    mimetype: text/plain
+  aclv2/black background/caciq/caciq - sop.bmp:
+    mimetype: image/x-ms-bmp
+  aclv2/black background/mastm/einstein.asc:
+    mimetype: text/plain
+  aclv2/black background/mastm/girl.asc:
+    mimetype: text/plain
+  aclv2/black background/mastm/marylin.asc:
+    mimetype: text/plain
+  aclv2/black background/mastm/me.asc:
+    mimetype: text/plain
+  aclv2/black background/mastm/shark.asc:
+    mimetype: text/plain
+  aclv2/white background/caciq/caciq - -anhtrax.ASC:
+    mimetype: text/plain
+  aclv2/white background/caciq/caciq - bi.ASC:
+    mimetype: text/plain
+  aclv2/white background/caciq/caciq - koach.ASC:
+    mimetype: text/plain
+  aclv2/white background/caciq/caciq - lion.ASC:
+    mimetype: text/plain
+  aclv2/white background/caciq/caciq - msg me if u like it.ASC:
+    mimetype: text/plain
+  aclv2/white background/caciq/caciq - pp.ASC:
+    mimetype: text/plain
+  aclv2/white background/caciq/caciq - tpb.ASC:
+    mimetype: text/plain
+  aclv2/white background/caciq/caciq - zc.ASC:
+    mimetype: text/plain
+  aclv2/white background/guest/acl.nfo:
+    mimetype: text/plain
+  aclv2/white background/klosk/NORFI.ASC:
+    mimetype: text/plain
+  aclv2/white background/mastm/cm.nfo:
+    mimetype: text/plain
+  aclv2/white background/mastm/devil.asc:
+    mimetype: text/plain
+  aclv2/white background/mastm/fbh.nfo:
+    mimetype: text/plain
+  aclv2/white background/mastm/gt.asc:
+    mimetype: text/plain
+  aclv2/white background/mastm/nos.asc:
+    mimetype: text/plain
+  aclv2/white background/mastm/samurai.asc:
+    mimetype: text/plain
+  aclv2/white background/mastm/snn.asc:
+    mimetype: text/plain
+  aclv2/white background/mastm/tsn.asc:
+    mimetype: text/plain
+  aclv2/white background/mastm/xec.asc:
+    mimetype: text/plain
+  aclv2/white background/orzech/hungry_immortal_soul.nfo:
+    mimetype: text/plain
+  aclv2/white background/orzech/rnx.nfo:
+    mimetype: text/plain
+  aclv2/white background/orzech/taste_my_scythe.nfo:
+    mimetype: text/plain
+  aclv2/white background/orzech/the_voyager.nfo:
+    mimetype: text/plain

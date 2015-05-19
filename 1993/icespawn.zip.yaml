@@ -1,0 +1,16 @@
+name: icespawn.zip
+hash: 2043b4fd2d82d6e5b2448f8ff9d3f780
+year: 1993
+file:
+  !!binary kk9GLkJCUw==:
+    mimetype: text/plain
+  BUSTER.TXT:
+    mimetype: text/plain
+  CHECK.DIZ:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FUN!.COM:
+    mimetype: application/x-msdos-program
+  SPAWN.EXE:
+    mimetype: application/x-msdos-program

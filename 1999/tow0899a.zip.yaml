@@ -1,0 +1,18 @@
+name: tow0899a.zip
+hash: 78aa34cec5e68d3603bed683c5c6ad9e
+year: 1999
+file:
+  __TOW__:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  MUZAK/__MUZX__:
+    mimetype: text/plain
+  MUZAK/PS-CONST.IT:
+    mimetype: audio/x-mod
+  MUZAK/SHADGUNN.IT:
+    mimetype: audio/x-mod
+  TOW1999.NFO:
+    mimetype: text/plain
+  TOWAPP.EXE:
+    mimetype: application/x-msdos-program

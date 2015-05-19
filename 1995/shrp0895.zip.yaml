@@ -1,0 +1,50 @@
+name: shrp0895.zip
+hash: 68e825353e5c85b9097395e63b1cf695
+year: 1995
+file:
+  !!binary +g==:
+    mimetype: text/plain
+  !!binary +vlBTlNJ+fo=:
+    mimetype: text/plain
+  !!binary +vlMT0dP+fo=:
+    mimetype: text/plain
+  !!binary +vlNSVND+fo=:
+    mimetype: text/plain
+  !!binary +vlNT0RT+fo=:
+    mimetype: text/plain
+  !!binary +vlWR0H5+g==:
+    mimetype: text/plain
+  CON-NET.ZIP:
+    mimetype: application/zip
+  DA-DISCO.MOD:
+    mimetype: audio/x-mod
+  DA-NEESE.MOD:
+    mimetype: audio/x-mod
+  DA-WACO.MOD:
+    mimetype: audio/x-mod
+  DIGITAL.BAK:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  IS-CUM1.ANS:
+    mimetype: text/plain
+  NS-SABO.LGO:
+    mimetype: text/plain
+  SHARP895.BMP:
+    mimetype: image/x-ms-bmp
+  SHARPAPP.ZIP:
+    mimetype: application/zip
+  SHRPVIEW.CFG:
+    mimetype: text/plain
+  SK-CRMSN.BMP:
+    mimetype: image/x-ms-bmp
+  SK-EN.BMP:
+    mimetype: image/x-ms-bmp
+  SK-SHRP2.BMP:
+    mimetype: image/x-ms-bmp
+  SV.EXE:
+    mimetype: application/x-msdos-program
+  SV4W.ZIP:
+    mimetype: application/zip
+  THENEWZ!.BMP:
+    mimetype: image/x-ms-bmp

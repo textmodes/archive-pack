@@ -1,0 +1,16 @@
+name: d-grp1.zip
+hash: 95a053bbc974fb38657a3bb74e512d92
+year: 1994
+file:
+  -D-GRP1.TXT:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  HAPPYJ0Y.J0Y:
+    mimetype: text/plain
+  !!binary SU1BR61ORS5FWEU=:
+    mimetype: application/x-msdos-program
+  NEO.COM:
+    mimetype: application/x-msdos-program
+  WONDER!.WHY:
+    mimetype: text/plain

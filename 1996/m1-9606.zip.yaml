@@ -1,0 +1,66 @@
+name: m1-9606.zip
+hash: f9b6f5ff50b7008d89f86510e828f574
+year: 1996
+file:
+  -!~ANSI~.!--:
+    mimetype: application/octet-stream
+  -!~ASCII.~!-:
+    mimetype: text/plain
+  -!~INFO~.!--:
+    mimetype: text/plain
+  -!~VGA~!.---:
+    mimetype: text/plain
+  BG-EUPH2.ANS:
+    mimetype: text/plain
+  BG-ZINF1.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GT-BUSH.ANS:
+    mimetype: text/plain
+  GT-FINI.ANS:
+    mimetype: text/plain
+  GT-SNDMN.ANS:
+    mimetype: text/plain
+  GT-TORI.ANS:
+    mimetype: text/plain
+  JU-DEMON.ANS:
+    mimetype: text/plain
+  JU-DREW.ANS:
+    mimetype: text/plain
+  JU-LOGOS.ANS:
+    mimetype: text/plain
+  JU-MECH.ANS:
+    mimetype: text/plain
+  JU-REV.ANS:
+    mimetype: text/plain
+  JU-SHWIN.ANS:
+    mimetype: text/plain
+  JU-TRENT.ANS:
+    mimetype: text/plain
+  M1-9606.APP:
+    mimetype: text/plain
+  M1-9606.MEM:
+    mimetype: text/plain
+  M1-9606.NFO:
+    mimetype: text/plain
+  MU-1.JPG:
+    mimetype: image/jpeg
+  MU-2.JPG:
+    mimetype: image/jpeg
+  MU-3.JPG:
+    mimetype: image/jpeg
+  MU-CD.ANS:
+    mimetype: text/plain
+  MU-HATE.ANS:
+    mimetype: text/plain
+  TS-HERE.ASC:
+    mimetype: text/plain
+  TS-ICE.ASC:
+    mimetype: text/plain
+  TS-ZG.ASC:
+    mimetype: text/plain
+  ZK-FLUID.ANS:
+    mimetype: text/plain
+  ZK-M1.ANS:
+    mimetype: text/plain

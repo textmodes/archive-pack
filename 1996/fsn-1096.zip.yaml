@@ -1,0 +1,40 @@
+name: fsn-1096.zip
+hash: 14010892317b837939f12b25517f69b1
+year: 1996
+file:
+  '!PREVAN!':
+    mimetype: application/octet-stream
+  1096FSN.MEM:
+    mimetype: text/plain
+  1096FSN.NFO:
+    mimetype: text/plain
+  C1_CLUS.ASC:
+    mimetype: text/plain
+  DE-IZE.JPG:
+    mimetype: image/jpeg
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  IZ-BONE.ANS:
+    mimetype: text/plain
+  IZ-FLASH.ANS:
+    mimetype: text/plain
+  IZ-MISSI.ANS:
+    mimetype: text/plain
+  IZ-PLAST.ANS:
+    mimetype: text/plain
+  IZ-PREVA.ANS:
+    mimetype: text/plain
+  IZ-PUDDN.ANS:
+    mimetype: text/plain
+  IZ-TRAUM.ANS:
+    mimetype: text/plain
+  PH-PREV.ASC:
+    mimetype: text/plain
+  PREVAIL:
+    mimetype: text/plain
+  UT-ORANG.ANS:
+    mimetype: text/plain
+  UT-PREV2.ANS:
+    mimetype: text/plain
+  UT-SHKYE.ANS:
+    mimetype: text/plain

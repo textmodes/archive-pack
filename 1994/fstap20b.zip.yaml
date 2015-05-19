@@ -1,0 +1,32 @@
+name: fstap20b.zip
+hash: 2c310bd32da3a2a7ff1e014512e125e7
+year: 1994
+file:
+  C00LNESS.COM:
+    mimetype: application/x-msdos-program
+  FAP2PACK.001:
+    mimetype: application/zip
+  FAP2PACK.002:
+    mimetype: application/x-dosexec
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  INSTALL.EXE:
+    mimetype: application/x-msdos-program
+  NEO.COM:
+    mimetype: application/x-msdos-program
+  !!binary UJJIWi5DT00=:
+    mimetype: application/x-msdos-program
+  PAHZANSI.TXT:
+    mimetype: text/plain
+  PEVRRESC.NFO:
+    mimetype: text/plain
+  !!binary UFdB/0VIUf8u//8=:
+    mimetype: application/octet-stream
+  README.DOC:
+    mimetype: text/plain
+  README.TXT:
+    mimetype: text/plain
+  RUN-ME.EXE:
+    mimetype: application/x-msdos-program
+  TXT2BAS.EXE:
+    mimetype: application/x-msdos-program

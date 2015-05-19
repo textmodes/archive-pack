@@ -1,0 +1,80 @@
+name: spin04.zip
+hash: 838a9fffa60f8a79ec727b26c62bb742
+year: 1998
+file:
+  '#MEMB-04.ANS':
+    mimetype: text/plain
+  APPLY/APPLY.DAT:
+    mimetype: audio/x-mod
+  APPLY/APPLY.TXT:
+    mimetype: text/plain
+  APPLY/SPIN-APP.EXE:
+    mimetype: application/x-msdos-program
+  ARX_FDUD.ASC:
+    mimetype: text/plain
+  ARX_MTRO.ASC:
+    mimetype: text/plain
+  ARX_PTRA.ASC:
+    mimetype: text/plain
+  BRI-MUD.ASC:
+    mimetype: text/plain
+  EMK-DLR3.ANS:
+    mimetype: text/plain
+  EMK-ESE3.ANS:
+    mimetype: text/plain
+  EMK-KAB.ANS:
+    mimetype: text/plain
+  EMK-OD!.ANS:
+    mimetype: text/plain
+  EMK-S7.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  IPH-LOO.ANS:
+    mimetype: text/plain
+  IPH-NWW.ANS:
+    mimetype: text/plain
+  IPH-S33K.ANS:
+    mimetype: text/plain
+  IPH-SECS.ANS:
+    mimetype: text/plain
+  IPH-SWEA.ANS:
+    mimetype: text/plain
+  JX-BF2.ASC:
+    mimetype: text/plain
+  JX-HLR1.ANS:
+    mimetype: text/plain
+  MA-2IN1.ANS:
+    mimetype: text/plain
+  PPE-DODL.ANS:
+    mimetype: text/plain
+  PPE-DOZE.ANS:
+    mimetype: text/plain
+  PPE-LAND.ANS:
+    mimetype: text/plain
+  PPE-NAT2.ANS:
+    mimetype: text/plain
+  RG-FRC.ANS:
+    mimetype: text/plain
+  SPIN.ANS:
+    mimetype: text/plain
+  US-3SE.ANS:
+    mimetype: text/plain
+  US-PE1.ANS:
+    mimetype: text/plain
+  US-PE2.ANS:
+    mimetype: text/plain
+  US-PIC.ANS:
+    mimetype: text/plain
+  US-RIS.ANS:
+    mimetype: text/plain
+  XZ-DLR2.ASC:
+    mimetype: text/plain
+  ZB!JNGLE.ASC:
+    mimetype: text/plain
+  ZB!SPIN.ASC:
+    mimetype: text/plain
+  ZB!SPIN.DIZ:
+    mimetype: text/plain
+  ZB!TDD.DIZ:
+    mimetype: text/plain

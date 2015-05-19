@@ -1,0 +1,74 @@
+name: roc-0995.zip
+hash: 295d790e948ee425bcfdef219e9b9904
+year: 1995
+file:
+  '--------.---':
+    mimetype: application/octet-stream
+  --ANSI--.---:
+    mimetype: application/octet-stream
+  --MISC--.---:
+    mimetype: application/octet-stream
+  --MUSIC-.---:
+    mimetype: application/octet-stream
+  --RIP---.---:
+    mimetype: application/octet-stream
+  --VGA---.---:
+    mimetype: application/octet-stream
+  BP-LOGIN.ANS:
+    mimetype: text/plain
+  BP-PLANB.ANS:
+    mimetype: text/plain
+  BP-PLNB!.ANS:
+    mimetype: text/plain
+  BP-TFH.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  LC-SKULL.GIF:
+    mimetype: image/gif
+  MG-BDAY.RIP:
+    mimetype: image/x-rip
+  MG-LDETH.RIP:
+    mimetype: image/x-rip
+  NMB-DETH.ANS:
+    mimetype: text/plain
+  NMB-DIGP.ANS:
+    mimetype: text/plain
+  NMB-STM2.ANS:
+    mimetype: text/plain
+  ROC-0995.MEM:
+    mimetype: text/plain
+  ROC-0995.NFO:
+    mimetype: text/plain
+  RZA-BDA2.ANS:
+    mimetype: text/plain
+  RZA-BDAY.ANS:
+    mimetype: text/plain
+  RZA-PG.ANS:
+    mimetype: text/plain
+  RZA-ROC.ANS:
+    mimetype: text/plain
+  SFR-BAT.GIF:
+    mimetype: image/gif
+  SFR-ROC.GIF:
+    mimetype: image/gif
+  SR-CWS01.GIF:
+    mimetype: image/gif
+  SR-GNFAB.ANS:
+    mimetype: text/plain
+  US-BEAR.ANS:
+    mimetype: text/plain
+  US-BR.ANS:
+    mimetype: text/plain
+  US-GROUN.ANS:
+    mimetype: text/plain
+  VG-BS.ANS:
+    mimetype: text/plain
+  VG-PG01.ANS:
+    mimetype: text/plain
+  VG-ROCBD.ANS:
+    mimetype: text/plain
+  WV-ROC01.ANS:
+    mimetype: text/plain
+  XC-XENAC.MOD:
+    mimetype: audio/x-mod

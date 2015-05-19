@@ -1,0 +1,86 @@
+name: rmrs-15.zip
+hash: 73c7f2b3f565d7a5c659586511573ced
+year: 1997
+file:
+  AXB-CCI1.ASC:
+    mimetype: text/plain
+  AXB-LOG9.ASC:
+    mimetype: text/plain
+  AXB-MSG1.ASC:
+    mimetype: text/plain
+  AXB-MTRX.ASC:
+    mimetype: text/plain
+  AXB-TOIL.ANS:
+    mimetype: text/plain
+  BDS-K2.ASC:
+    mimetype: text/plain
+  BDS-SB1.ASC:
+    mimetype: text/plain
+  C4-997.TXT:
+    mimetype: text/plain
+  DY-FILE.ANS:
+    mimetype: text/plain
+  DY-MAIL.ANS:
+    mimetype: text/plain
+  DY-REMO.ASC:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GDR-MD.ASC:
+    mimetype: text/plain
+  MA-OCT1.ASC:
+    mimetype: text/plain
+  MA-RMRS3.ASC:
+    mimetype: text/plain
+  MH-DELR.ASC:
+    mimetype: text/plain
+  NL-IB6.ANS:
+    mimetype: text/plain
+  NM-RMRS.ASC:
+    mimetype: text/plain
+  NN-ACID2.ASC:
+    mimetype: text/plain
+  PAR-LIFE.ANS:
+    mimetype: text/plain
+  R-STORY.TXT:
+    mimetype: text/plain
+  REMORSE.NFO:
+    mimetype: text/plain
+  RV.CFG:
+    mimetype: text/plain
+  RV.EXE:
+    mimetype: application/x-msdos-program
+  SMC-ASC.TXT:
+    mimetype: text/plain
+  TK-RMRS.ASC:
+    mimetype: text/plain
+  TM-BLIND.ASC:
+    mimetype: text/plain
+  TR-MONST.ANS:
+    mimetype: text/plain
+  TR-OXYGN.ANS:
+    mimetype: text/plain
+  TR-PHANT.ANS:
+    mimetype: text/plain
+  TR-RISK.ANS:
+    mimetype: text/plain
+  TUM-ABST.ASC:
+    mimetype: text/plain
+  TUM-HEAV.ASC:
+    mimetype: text/plain
+  TUM-PURG.ASC:
+    mimetype: text/plain
+  TUM-RDLR.ANS:
+    mimetype: text/plain
+  TUM-RMRS.ASC:
+    mimetype: text/plain
+  TUM-RMX.ASC:
+    mimetype: text/plain
+  TUM-SALE.ASC:
+    mimetype: text/plain
+  TUM-ULTR.ASC:
+    mimetype: text/plain
+  US-JUST.ASC:
+    mimetype: text/plain
+  WD-MC.TXT:
+    mimetype: text/plain

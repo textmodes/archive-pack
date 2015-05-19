@@ -1,0 +1,20 @@
+name: usail310.zip
+hash: f080a9697675049c0486de1d19792767
+year: 1994
+file:
+  CUSTOM.GUS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GI-FIRST.EXE:
+    mimetype: application/x-msdos-program
+  NEO.COM:
+    mimetype: application/x-msdos-program
+  README:
+    mimetype: text/plain
+  README.EXE:
+    mimetype: application/x-msdos-program
+  ULTRA.DIG:
+    mimetype: application/octet-stream
+  ULTRA.MDI:
+    mimetype: application/octet-stream

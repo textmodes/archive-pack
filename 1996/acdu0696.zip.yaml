@@ -1,0 +1,84 @@
+name: acdu0696.zip
+hash: 8e74580772f7f1913b3c4d81aa257a12
+year: 1996
+file:
+  ACDU0696.NFO:
+    mimetype: text/plain
+  ACID0696.ANS:
+    mimetype: text/plain
+  ACIDAPP.EXE:
+    mimetype: application/x-msdos-program
+  ACIDVIEW.DAT:
+    mimetype: application/octet-stream
+  ACIDVIEW.EXE:
+    mimetype: application/x-msdos-program
+  ACIDVIEW.NFO:
+    mimetype: text/plain
+  ASC0696.ASC:
+    mimetype: text/plain
+  BG-NAID1.GIF:
+    mimetype: image/gif
+  BN-ACID1.GIF:
+    mimetype: image/gif
+  BS-TWST1.ANS:
+    mimetype: text/plain
+  CB-ACHRN.GIF:
+    mimetype: image/gif
+  CS-ANKH2.GIF:
+    mimetype: image/gif
+  CS-ARAC1.GIF:
+    mimetype: image/gif
+  CS-LIQU1.GIF:
+    mimetype: image/gif
+  CT-AOS.ANS:
+    mimetype: text/plain
+  DG-BTH.RIP:
+    mimetype: image/x-rip
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  IF-STILL.ANS:
+    mimetype: text/plain
+  JD-SUCCO.ANS:
+    mimetype: text/plain
+  KH-PIR2.ANS:
+    mimetype: text/plain
+  KO-AVATA.GIF:
+    mimetype: image/gif
+  KO-NAID1.GIF:
+    mimetype: image/gif
+  NEWS0696.ANS:
+    mimetype: text/plain
+  PH-SUCCO.ANS:
+    mimetype: text/plain
+  PR-LORE.GIF:
+    mimetype: image/gif
+  RA-MAGNO.ANS:
+    mimetype: text/plain
+  RA-SUCCO.ANS:
+    mimetype: text/plain
+  RA-TP1.ANS:
+    mimetype: text/plain
+  RC-MORBD.ANS:
+    mimetype: text/plain
+  SA-DEMNC.GIF:
+    mimetype: image/gif
+  SB-FREE.ANS:
+    mimetype: text/plain
+  SB-GOMO.ANS:
+    mimetype: text/plain
+  SH-ACID.RIP:
+    mimetype: image/x-rip
+  SI-ACID1.ANS:
+    mimetype: text/plain
+  SI-CDI1.ANS:
+    mimetype: text/plain
+  SX-SADIS.BIN:
+    mimetype: text/x-binary
+  TH-ACID2.GIF:
+    mimetype: image/gif
+  TH-FISH1.GIF:
+    mimetype: image/gif
+  US-XPAK3.GIF:
+    mimetype: image/gif
+  WE-WILL.SUE:
+    mimetype: text/plain

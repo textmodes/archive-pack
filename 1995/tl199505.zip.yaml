@@ -1,0 +1,250 @@
+name: tl199505.zip
+hash: aee9a10a021abf727a85060e85a03dec
+year: 1995
+file:
+  0595MEM.ANS:
+    mimetype: text/plain
+  AL-TRIP.LIT:
+    mimetype: text/plain
+  AM-ATICA.ASC:
+    mimetype: text/plain
+  AM-D2.ANS:
+    mimetype: text/plain
+  AM-EBASC.ANS:
+    mimetype: text/plain
+  AM-PDASC.ANS:
+    mimetype: text/plain
+  AM-TFASC.ANS:
+    mimetype: text/plain
+  AM-TL.ASC:
+    mimetype: text/plain
+  AM-TRDIZ.ASC:
+    mimetype: text/plain
+  BD-ASIA.ASC:
+    mimetype: text/plain
+  BD-DFT1.ASC:
+    mimetype: text/plain
+  BD-DMTN1.ANS:
+    mimetype: text/plain
+  BD-IMRTL.ASC:
+    mimetype: text/plain
+  BD-PMPVL.ASC:
+    mimetype: text/plain
+  BD-SCTSH.ASC:
+    mimetype: text/plain
+  BD-TCS.ASC:
+    mimetype: text/plain
+  BD-TF1.ANS:
+    mimetype: text/plain
+  BD-UNKN1.ASC:
+    mimetype: text/plain
+  BD-UNKN2.ANS:
+    mimetype: text/plain
+  CA-AW1.ANS:
+    mimetype: text/plain
+  CA-BITCH.ANS:
+    mimetype: text/plain
+  CA-CIA.ANS:
+    mimetype: text/plain
+  CA-DOOM1.ANS:
+    mimetype: text/plain
+  CA-IP.ANS:
+    mimetype: text/plain
+  CA-JELL0.ANS:
+    mimetype: text/plain
+  CA-JONA3.ANS:
+    mimetype: text/plain
+  CA-PI1.ANS:
+    mimetype: text/plain
+  CA-PI2.ANS:
+    mimetype: text/plain
+  CA-PI3.ANS:
+    mimetype: text/plain
+  CA-TLORA.ANS:
+    mimetype: text/plain
+  CA-TLZ.ANS:
+    mimetype: text/plain
+  CC-4JULY.S3M:
+    mimetype: audio/x-mod
+  CC-REDS.MOD:
+    mimetype: audio/x-mod
+  CC-SAPOC.S3M:
+    mimetype: audio/x-mod
+  CE-D2.ANS:
+    mimetype: text/plain
+  CE-NOTB.ASC:
+    mimetype: text/plain
+  CE-TF.ANS:
+    mimetype: text/plain
+  CR-ASCII.ASC:
+    mimetype: text/plain
+  CR-KFC.ANS:
+    mimetype: text/plain
+  CR-OD.GIF:
+    mimetype: image/gif
+  CR-PRJ.ANS:
+    mimetype: text/plain
+  CR-TL.GIF:
+    mimetype: image/gif
+  DB-D2.GIF:
+    mimetype: image/gif
+  DB-NOTB.EXE:
+    mimetype: application/x-msdos-program
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  KAT-CHOI.LIT:
+    mimetype: text/plain
+  KAT-CHRI.LIT:
+    mimetype: text/plain
+  KAT-DANC.LIT:
+    mimetype: text/plain
+  KAT-FALL.LIT:
+    mimetype: text/plain
+  KAT-FRE2.LIT:
+    mimetype: text/plain
+  KAT-INAD.LIT:
+    mimetype: text/plain
+  KAT-LIES.LIT:
+    mimetype: text/plain
+  KAT-REAL.LIT:
+    mimetype: text/plain
+  KAT-SCRU.LIT:
+    mimetype: text/plain
+  KAT-SKY.LIT:
+    mimetype: text/plain
+  KEWLIO.EXE:
+    mimetype: application/x-msdos-program
+  KT-DGEN.ANS:
+    mimetype: text/plain
+  KT-FONT1.ANS:
+    mimetype: text/plain
+  KT-SN.ANS:
+    mimetype: text/plain
+  KT-TKLZ.ANS:
+    mimetype: text/plain
+  KT-VTI!.ANS:
+    mimetype: text/plain
+  KTDN-DG.ANS:
+    mimetype: text/plain
+  M-TEK.GIF:
+    mimetype: image/gif
+  M-TEK2.GIF:
+    mimetype: image/gif
+  PL-TFRST.GIF:
+    mimetype: image/gif
+  PL-TL.GIF:
+    mimetype: image/gif
+  RP-KRAK.ASC:
+    mimetype: text/plain
+  RP-LI.ASC:
+    mimetype: text/plain
+  RP-PEP.ASC:
+    mimetype: text/plain
+  RP-REM.ASC:
+    mimetype: text/plain
+  RP-TURM.ASC:
+    mimetype: text/plain
+  SM-HH.ANS:
+    mimetype: text/plain
+  SM-HHT.ANS:
+    mimetype: text/plain
+  SM-SHBN.ANS:
+    mimetype: text/plain
+  SV-AOD.ASC:
+    mimetype: text/plain
+  SV-D2.ASC:
+    mimetype: text/plain
+  SV-DS.ASC:
+    mimetype: text/plain
+  SV-POI.ASC:
+    mimetype: text/plain
+  SV-REF.ASC:
+    mimetype: text/plain
+  SV-SOD.ASC:
+    mimetype: text/plain
+  SV-TU.ASC:
+    mimetype: text/plain
+  T1_DIA2.ANS:
+    mimetype: text/plain
+  T1_DOF2.ANS:
+    mimetype: text/plain
+  T1_FINL.ANS:
+    mimetype: text/plain
+  T1_IMC2.ANS:
+    mimetype: text/plain
+  T1_IMCA.ANS:
+    mimetype: text/plain
+  T1_INST.ANS:
+    mimetype: text/plain
+  T1_KNFC.GIF:
+    mimetype: image/gif
+  T1_OUTR.ANS:
+    mimetype: text/plain
+  T1_TEFR.GIF:
+    mimetype: image/gif
+  T1_TEKL.GIF:
+    mimetype: image/gif
+  T1_TOCL.GIF:
+    mimetype: image/gif
+  T1_WHWO.ANS:
+    mimetype: text/plain
+  T1_WIC2.ANS:
+    mimetype: text/plain
+  T1_WICK.ANS:
+    mimetype: text/plain
+  T1_XEN2.ANS:
+    mimetype: text/plain
+  T1_XENT.ANS:
+    mimetype: text/plain
+  TM-ANTI.ANS:
+    mimetype: text/plain
+  TM-AVGA.ANS:
+    mimetype: text/plain
+  TM-BECHH.ANS:
+    mimetype: text/plain
+  TM-BLKLS.ANS:
+    mimetype: text/plain
+  TM-DDAT.ANS:
+    mimetype: text/plain
+  TM-DNG2.ANS:
+    mimetype: text/plain
+  TM-FROST.ANS:
+    mimetype: text/plain
+  TM-GALAG.ANS:
+    mimetype: text/plain
+  TM-IB.ANS:
+    mimetype: text/plain
+  TM-KNOWN.ANS:
+    mimetype: text/plain
+  TM-MEMBR.ANS:
+    mimetype: text/plain
+  TM-PCITY.ANS:
+    mimetype: text/plain
+  TM-PRTMP.ANS:
+    mimetype: text/plain
+  TM-QUESO.ANS:
+    mimetype: text/plain
+  TM-SOMNU.ANS:
+    mimetype: text/plain
+  TM-TGMTX.ANS:
+    mimetype: text/plain
+  TM-TULG.ANS:
+    mimetype: text/plain
+  TM-TULG2.ANS:
+    mimetype: text/plain
+  TM-UFATE.ANS:
+    mimetype: text/plain
+  TM-YOU.LIT:
+    mimetype: text/plain
+  TS-DS1.ANS:
+    mimetype: text/plain
+  TS-NBMEN.ANS:
+    mimetype: text/plain
+  TS-ST.ANS:
+    mimetype: text/plain
+  TS-UF.ANS:
+    mimetype: text/plain
+  TS-UGINT.ANS:
+    mimetype: text/plain
+  US-FAR.GIF:
+    mimetype: image/gif

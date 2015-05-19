@@ -1,0 +1,40 @@
+name: ascii-01.zip
+hash: 540788163e3d26ae14c890b46a9dd0df
+year: 1996
+file:
+  '!README.1ST':
+    mimetype: text/plain
+  AN-COMP2.ASC:
+    mimetype: text/plain
+  DMYYDMMD.COM:
+    mimetype: application/x-msdos-program
+  DMYYDMMD.YMY:
+    mimetype: text/plain
+  DT-UNIT.ASC:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FR-UNITY.ASC:
+    mimetype: text/plain
+  KAL-COMP.ASC:
+    mimetype: text/plain
+  LOI-UNIT.ASC:
+    mimetype: text/plain
+  MD-SPEED.ASC:
+    mimetype: text/plain
+  NO-UNITY.ASC:
+    mimetype: text/plain
+  NT-UNIT1.ASC:
+    mimetype: text/plain
+  NT-UNIT2.ASC:
+    mimetype: text/plain
+  PRM-UNTY.ASC:
+    mimetype: text/plain
+  R3-U2.ASC:
+    mimetype: text/plain
+  SF-SIS.COM:
+    mimetype: application/x-msdos-program
+  SP-UNITY.ASC:
+    mimetype: text/plain
+  TMM-UNI1.ASC:
+    mimetype: text/plain

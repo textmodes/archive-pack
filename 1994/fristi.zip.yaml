@@ -1,0 +1,16 @@
+name: fristi.zip
+hash: d2e33bd4a8e78f6e07d62c3e0a291470
+year: 1994
+file:
+  -C-O-B-:
+    mimetype: application/octet-stream
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FRETTEN.COM:
+    mimetype: application/x-msdos-program
+  FRISTI.DOC:
+    mimetype: text/plain
+  FRISTI.TDF:
+    mimetype: application/octet-stream
+  NEOTOKYO.ANS:
+    mimetype: text/plain

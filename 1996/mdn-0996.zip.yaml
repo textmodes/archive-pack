@@ -1,0 +1,22 @@
+name: mdn-0996.zip
+hash: ee2192c3fa40e2d0af160d07c538793e
+year: 1996
+file:
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  MDN-0996.NFO:
+    mimetype: text/plain
+  MDN-APP.EXE:
+    mimetype: application/x-msdos-program
+  MLC-0996.ANS:
+    mimetype: text/plain
+  RS-DISTR.ANS:
+    mimetype: text/plain
+  RS-MAID2.ANS:
+    mimetype: text/plain
+  RS-SANDM.ANS:
+    mimetype: text/plain
+  RS-SPAW2.ANS:
+    mimetype: text/plain
+  RS-SPAW4.ANS:
+    mimetype: text/plain

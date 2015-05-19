@@ -1,0 +1,62 @@
+name: litt-03.zip
+hash: a307e9045b3b6557216da8fa3c640f26
+year: 1999
+file:
+  03-litt.nfo:
+    mimetype: text/plain
+  file_id.diz:
+    mimetype: text/plain
+  hlight01.g02:
+    mimetype: text/plain
+  hlight01.g03:
+    mimetype: text/plain
+  hlight01.m10:
+    mimetype: text/plain
+  hlight01.r32:
+    mimetype: text/plain
+  hlight01.u02:
+    mimetype: text/plain
+  hlight02.g02:
+    mimetype: text/plain
+  hlight02.g03:
+    mimetype: text/plain
+  hlight02.m10:
+    mimetype: application/octet-stream
+  hlight02.r32:
+    mimetype: text/plain
+  hlight02.u02:
+    mimetype: text/plain
+  intrview.gwd:
+    mimetype: application/octet-stream
+  intrview.par:
+    mimetype: application/octet-stream
+  irclog01.txt:
+    mimetype: text/plain
+  irclog02.txt:
+    mimetype: text/plain
+  irclog03.txt:
+    mimetype: text/plain
+  irclog04.txt:
+    mimetype: text/plain
+  nsreview.g02:
+    mimetype: application/octet-stream
+  nsreview.g03:
+    mimetype: application/octet-stream
+  nsreview.m10:
+    mimetype: text/plain
+  nsreview.r32:
+    mimetype: application/octet-stream
+  nsreview.u02:
+    mimetype: application/octet-stream
+  nsrip.hs:
+    mimetype: text/x-haskell
+  nsrview2.r32:
+    mimetype: text/plain
+  osreview.s01:
+    mimetype: text/plain
+  quotes03.txt:
+    mimetype: text/plain
+  scene.txt:
+    mimetype: text/plain
+  tutorial.bj:
+    mimetype: application/octet-stream

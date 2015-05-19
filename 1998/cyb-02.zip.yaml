@@ -1,0 +1,12 @@
+name: cyb-02.zip
+hash: e3f8d1c65fb86284b03c725ee794c139
+year: 1998
+file:
+  Cyb-02.exe:
+    mimetype: application/x-msdos-program
+  Cyberia2.dsm:
+    mimetype: application/octet-stream
+  File_id.diz:
+    mimetype: text/plain
+  cyberia2.dat:
+    mimetype: text/plain

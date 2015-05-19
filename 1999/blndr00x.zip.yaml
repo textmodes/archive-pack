@@ -1,0 +1,32 @@
+name: blndr00x.zip
+hash: 2ce695cf848107a976487241128c5507
+year: 1999
+file:
+  BLENDER.00X:
+    mimetype: text/plain
+  BLENDER.HOF:
+    mimetype: text/plain
+  BLENDER.NFO:
+    mimetype: text/plain
+  BLENDER.SUP:
+    mimetype: text/plain
+  CC-FIRE.ANS:
+    mimetype: text/plain
+  CT-SAUD.IT:
+    mimetype: audio/x-mod
+  GL!_FMFN.ANS:
+    mimetype: text/plain
+  HEN-MSTR.S3M:
+    mimetype: audio/x-mod
+  MEH.BMP:
+    mimetype: image/x-ms-bmp
+  RET-BLND.ANS:
+    mimetype: text/plain
+  SMI-SALT.ANS:
+    mimetype: text/plain
+  THEXT-F1.ANS:
+    mimetype: text/plain
+  US-DIE!@.CIA:
+    mimetype: text/plain
+  UUSI.EXE:
+    mimetype: application/x-msdos-program

@@ -1,0 +1,58 @@
+name: wac-0294.zip
+hash: 3fc4446ac2d1ff5d7e3226c02383b0c8
+year: 1994
+file:
+  (BUSTER).(!):
+    mimetype: text/plain
+  02200325.NFO:
+    mimetype: text/plain
+  C!P-WAC1.LBM:
+    mimetype: application/octet-stream
+  C!P-WAC2.LBM:
+    mimetype: application/octet-stream
+  CPR-ADRM.ANS:
+    mimetype: text/plain
+  CPR-CAND.ANS:
+    mimetype: text/plain
+  CPR-DARK.ANS:
+    mimetype: text/plain
+  CPR-DAT1.ANS:
+    mimetype: text/plain
+  CPR-SAV1.ASC:
+    mimetype: text/plain
+  CPR-SOCI.ANS:
+    mimetype: text/plain
+  CPR-SVG1.ANS:
+    mimetype: text/plain
+  CPR-WLGO.ANS:
+    mimetype: text/plain
+  DOC-SOCI.ASC:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FIRM_L7(.EXE:
+    mimetype: application/x-msdos-program
+  FUN!.COM:
+    mimetype: application/x-msdos-program
+  RST-DAT1.ANS:
+    mimetype: text/plain
+  RST-HELL.ANS:
+    mimetype: text/plain
+  RST-HONY.ANS:
+    mimetype: text/plain
+  RST-HUMA.ANS:
+    mimetype: text/plain
+  RST-LOI1.ANS:
+    mimetype: text/plain
+  RST-METC.ANS:
+    mimetype: text/plain
+  RST-POLI.ANS:
+    mimetype: text/plain
+  RST-SAND.ANS:
+    mimetype: text/plain
+  !!binary U09DSUVUWf8uTkZP:
+    mimetype: text/plain
+  WAC-INFO.ANS:
+    mimetype: text/plain
+  WACAPPLY.FRM:
+    mimetype: text/plain

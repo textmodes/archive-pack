@@ -1,0 +1,30 @@
+name: out-0100.zip
+hash: 988ecc49738cf670d1c36d3f5d289fc0
+year: 2000
+file:
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FILELIST.TXT:
+    mimetype: text/plain
+  OUT-AD.ANS:
+    mimetype: text/plain
+  OUT-AD.RIP:
+    mimetype: image/x-rip
+  OUT-CHKR.ANS:
+    mimetype: text/plain
+  OUT-DMAG.ANS:
+    mimetype: text/plain
+  OUT-MPAD.ANS:
+    mimetype: text/plain
+  OUT-REDM.RIP:
+    mimetype: image/x-rip
+  OUT-UC.ANS:
+    mimetype: text/plain
+  OUT-WDRG.ANS:
+    mimetype: text/plain
+  OUT-WELC.ANS:
+    mimetype: text/plain
+  OUT.AD:
+    mimetype: text/plain
+  OUTWORLD.TXT:
+    mimetype: text/plain

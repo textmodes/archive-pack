@@ -1,0 +1,54 @@
+name: ice9902a.zip
+hash: e65655097c5dc9df9fd053e11ce31b66
+year: 1999
+file:
+  -ANSI---.---:
+    mimetype: text/plain
+  -CONT'D-.---:
+    mimetype: text/plain
+  -LOGO---.---:
+    mimetype: text/plain
+  -STAT---.---:
+    mimetype: text/plain
+  09-ICE.BIN:
+    mimetype: application/octet-stream
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  G1-SANC.ICE:
+    mimetype: text/plain
+  ICE-9902.DSC:
+    mimetype: text/plain
+  ICE-9902.MEM:
+    mimetype: text/plain
+  ICE-9902.NFO:
+    mimetype: text/plain
+  ICEVIEW.CNF:
+    mimetype: text/plain
+  ICEVIEW.DOC:
+    mimetype: text/plain
+  ICEVIEW.EXE:
+    mimetype: application/x-msdos-program
+  IN-ID1.ICE:
+    mimetype: text/plain
+  MD-IDRAW.ICE:
+    mimetype: text/plain
+  PV.EXE:
+    mimetype: application/x-msdos-program
+  SQ2-LG24.ICE:
+    mimetype: text/plain
+  TI-BLINE.ICE:
+    mimetype: text/plain
+  TI-GDRAW.ICE:
+    mimetype: text/plain
+  TI-HOTHS.ICE:
+    mimetype: text/plain
+  TI-INDK.ICE:
+    mimetype: text/plain
+  US-CICK.ICE:
+    mimetype: text/plain
+  US-NQICE.ICE:
+    mimetype: text/plain
+  V9-911.ICE:
+    mimetype: text/plain
+  V9-ICE4.ICE:
+    mimetype: text/plain

@@ -1,0 +1,36 @@
+name: nc-17.zip
+hash: 556dd78d2decedc92593326220c56b38
+year: 1992
+file:
+  NC-CHAIR.ANS:
+    mimetype: text/plain
+  NC-EDDI.ANS:
+    mimetype: text/plain
+  NC-FC.ANS:
+    mimetype: text/plain
+  NC-FC2.ANS:
+    mimetype: text/plain
+  NC-GOH.ANS:
+    mimetype: text/plain
+  NC-LOGO.ANS:
+    mimetype: text/plain
+  NC-TBG.ANS:
+    mimetype: text/plain
+  NC-TUGO.ANS:
+    mimetype: text/plain
+  RA-BARC.ANS:
+    mimetype: text/plain
+  RA-CYC.ANS:
+    mimetype: text/plain
+  RA-FISH.ANS:
+    mimetype: text/plain
+  RA-LOGO.ANS:
+    mimetype: text/plain
+  RA-OPUS.ANS:
+    mimetype: text/plain
+  RA-SB.ANS:
+    mimetype: text/plain
+  RA-TROLL.ANS:
+    mimetype: text/plain
+  RA-TUGO.ANS:
+    mimetype: text/plain

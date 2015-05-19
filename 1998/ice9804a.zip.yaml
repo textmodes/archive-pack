@@ -1,0 +1,46 @@
+name: ice9804a.zip
+hash: 59fadb74902b56e9aa5f087faaf1e4c9
+year: 1998
+file:
+  -ANSI---.---:
+    mimetype: text/plain
+  -CONT'D-.---:
+    mimetype: text/plain
+  -LOGO---.---:
+    mimetype: text/plain
+  -STAT---.---:
+    mimetype: text/plain
+  AX-CLASS.ICE:
+    mimetype: text/plain
+  C0-COLLY.ICE:
+    mimetype: text/plain
+  C0-HAZE.ICE:
+    mimetype: text/plain
+  C0-LOB.ICE:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  ICE-9804.DSC:
+    mimetype: text/plain
+  ICE-9804.MEM:
+    mimetype: text/plain
+  ICE-9804.NFO:
+    mimetype: text/plain
+  ICE-9804.SIT:
+    mimetype: text/plain
+  ICEVIEW.CNF:
+    mimetype: text/plain
+  ICEVIEW.DOC:
+    mimetype: text/plain
+  ICEVIEW.EXE:
+    mimetype: application/x-msdos-program
+  IN-TGCH.ICE:
+    mimetype: text/plain
+  IV-PIF.DVP:
+    mimetype: application/octet-stream
+  MI-FOS7.ICE:
+    mimetype: text/plain
+  PV.EXE:
+    mimetype: application/x-msdos-program
+  SQ2-LG20.ICE:
+    mimetype: text/plain

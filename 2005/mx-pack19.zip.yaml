@@ -1,0 +1,72 @@
+name: mx-pack19.zip
+hash: 826c2b2bfee7695f4d2d20d0dd35a6e3
+year: 2005
+file:
+  ASCII/MX-CCH.ASC:
+    mimetype: text/plain
+  ASCII/MX-CRL1.ASC:
+    mimetype: text/plain
+  ASCII/MX-DAWN.ASC:
+    mimetype: text/plain
+  ASCII/MX-DES.ASC:
+    mimetype: text/plain
+  ASCII/MX-DFC.ASC:
+    mimetype: text/plain
+  ASCII/MX-PR.ASC:
+    mimetype: text/plain
+  ASCII/MX-RIT.ASC:
+    mimetype: text/plain
+  ASCII/MX-SLAM1.ASC:
+    mimetype: text/plain
+  ASCII/MX-TB.ASC:
+    mimetype: text/plain
+  ASCII/MX-TLTV.ASC:
+    mimetype: text/plain
+  ASCII/MX-UL.ASC:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  HIREZ/mx-asciiscene-forums-logo4.jpg:
+    mimetype: image/jpeg
+  HIREZ/mx-asom-logo.jpg:
+    mimetype: image/jpeg
+  HIREZ/mx-asphyx-logo2.jpg:
+    mimetype: image/jpeg
+  HIREZ/mx-bug-cracktro-logo.jpg:
+    mimetype: image/jpeg
+  HIREZ/mx-clansman-weblogo.jpg:
+    mimetype: image/jpeg
+  HIREZ/mx-ensign-logo.jpg:
+    mimetype: image/jpeg
+  HIREZ/mx-hardbase-wall2-blue.png:
+    mimetype: image/png
+  HIREZ/mx-kontakt-logo1.jpg:
+    mimetype: image/jpeg
+  HIREZ/mx-mx-logo-misc.jpg:
+    mimetype: image/jpeg
+  HIREZ/mx-myth-logo-misc2.jpg:
+    mimetype: image/jpeg
+  HIREZ/mx-oldpunk.jpg:
+    mimetype: image/jpeg
+  HIREZ/mx-pablodraw-logo1.jpg:
+    mimetype: image/jpeg
+  HIREZ/mx-pcs-psp-logo.png:
+    mimetype: image/png
+  HIREZ/mx-rituel-trainer-ui1.jpg:
+    mimetype: image/jpeg
+  HIREZ/mx-shimmergloom-logo.jpg:
+    mimetype: image/jpeg
+  HIREZ/mx-sp4.jpg:
+    mimetype: image/jpeg
+  HIREZ/mx-whaddup.png:
+    mimetype: image/png
+  HIREZ/mx-witeg-keygen-logo2.png:
+    mimetype: image/png
+  ICONS/document.ico:
+    mimetype: image/x-icon
+  ICONS/mx-pablodraw-icon1.ico:
+    mimetype: image/x-icon
+  ICONS/mx-rituel-icon1.ico:
+    mimetype: image/x-icon
+  MAXXTRO.NFO:
+    mimetype: text/plain

@@ -1,0 +1,26 @@
+name: cia59-h.zip
+hash: 420fcf275c5b2a6b8d5a1d4df907f187
+year: 1999
+file:
+  !!binary xMRDSUHExC7ExMQ=:
+    mimetype: text/plain
+  1298INFO.CIA:
+    mimetype: text/plain
+  1298MEMB.CIA:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  LZ_TEMP.JPG:
+    mimetype: image/jpeg
+  ME_CIADE.JPG:
+    mimetype: image/jpeg
+  PK_TRPIC.JPG:
+    mimetype: image/jpeg
+  SP_FETAL.JPG:
+    mimetype: image/jpeg
+  WIRETAP.DOC:
+    mimetype: text/plain
+  WIRETAP.EXE:
+    mimetype: application/x-msdos-program
+  cwsdpmi.exe:
+    mimetype: application/x-msdos-program

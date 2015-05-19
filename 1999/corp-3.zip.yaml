@@ -1,0 +1,90 @@
+name: corp-3.zip
+hash: e73158aff95ac99d1e824a78ecd7ec6d
+year: 1999
+file:
+  AN-C9E.ANS:
+    mimetype: text/plain
+  AN-CHNL0.ANS:
+    mimetype: text/plain
+  AN-FREDM.ANS:
+    mimetype: text/plain
+  AN-LOST1.ANS:
+    mimetype: text/plain
+  AN-PROJ1.ANS:
+    mimetype: text/plain
+  AN-PX1.ANS:
+    mimetype: text/plain
+  APPLICAT.FRM:
+    mimetype: text/plain
+  CORP#3.MEM:
+    mimetype: text/plain
+  CORP#3.NWS:
+    mimetype: text/plain
+  CORP#3.SIT:
+    mimetype: text/plain
+  CORPVIEW.EXE:
+    mimetype: application/x-msdos-program
+  DD-IZGAY.GIF:
+    mimetype: image/gif
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FIN-FROG.LBM:
+    mimetype: application/octet-stream
+  FIN-POP!.LBM:
+    mimetype: application/octet-stream
+  FIN-SKUL.LBM:
+    mimetype: application/octet-stream
+  GEN-BOR.ANS:
+    mimetype: text/plain
+  GEN-DNI.ANS:
+    mimetype: text/plain
+  GEN-FAT1.ANS:
+    mimetype: text/plain
+  GEN-GLT.ANS:
+    mimetype: text/plain
+  GEN-MAIN.ANS:
+    mimetype: text/plain
+  GEN-MT1.ANS:
+    mimetype: text/plain
+  GEN-PSYC.ANS:
+    mimetype: text/plain
+  GEN-UWE.ANS:
+    mimetype: text/plain
+  MXM-CORP.ASC:
+    mimetype: text/plain
+  PZA-ASB.ANS:
+    mimetype: text/plain
+  PZA-DOOR.ANS:
+    mimetype: text/plain
+  RFX-UWE.ANS:
+    mimetype: text/plain
+  RNX-PRO.AMY:
+    mimetype: text/plain
+  SC-CORP.ANS:
+    mimetype: text/plain
+  SC-PROX.ANS:
+    mimetype: text/plain
+  SC-SANCT.ANS:
+    mimetype: text/plain
+  SP-ACREA.ANS:
+    mimetype: text/plain
+  SP-ASSAU.ASC:
+    mimetype: text/plain
+  SP-CRP1.ANS:
+    mimetype: text/plain
+  SP-JOINT.ANS:
+    mimetype: text/plain
+  SP-PCTOP.ANS:
+    mimetype: text/plain
+  SP-RAGNR.ANS:
+    mimetype: text/plain
+  SP-SNCLG.ANS:
+    mimetype: text/plain
+  SP-VENTU.ANS:
+    mimetype: text/plain
+  TOTAL.COM:
+    mimetype: application/x-msdos-program
+  WARN.STD:
+    mimetype: text/plain
+  WELCOME.1:
+    mimetype: text/plain

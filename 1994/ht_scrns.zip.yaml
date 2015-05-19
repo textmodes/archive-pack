@@ -1,0 +1,30 @@
+name: ht_scrns.zip
+hash: 5b460830fa68cf1daeccd8f1fa2144ef
+year: 1994
+file:
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  HERET00.PCX:
+    mimetype: image/pcx
+  HERET01.PCX:
+    mimetype: image/pcx
+  HERET02.PCX:
+    mimetype: image/pcx
+  HERET03.PCX:
+    mimetype: image/pcx
+  HERET04.PCX:
+    mimetype: image/pcx
+  HERET05.PCX:
+    mimetype: image/pcx
+  HERET06.PCX:
+    mimetype: image/pcx
+  HERET07.PCX:
+    mimetype: image/pcx
+  HERET08.PCX:
+    mimetype: image/pcx
+  HERET09.PCX:
+    mimetype: image/pcx
+  HERET10.PCX:
+    mimetype: image/pcx
+  README.TXT:
+    mimetype: text/plain

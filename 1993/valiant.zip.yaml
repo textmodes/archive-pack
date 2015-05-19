@@ -1,0 +1,66 @@
+name: valiant.zip
+hash: 9ca2940e79b9e7ae225212079cb8326b
+year: 1993
+file:
+  '!README.NFO':
+    mimetype: text/plain
+  DE-EXODU.VNT:
+    mimetype: text/plain
+  DE-FILE.VNT:
+    mimetype: text/plain
+  DE-GS.VNT:
+    mimetype: text/plain
+  DE-MAIN.VNT:
+    mimetype: text/plain
+  DE-MSG.VNT:
+    mimetype: text/plain
+  DE-STAT.VNT:
+    mimetype: text/plain
+  DE-STAT2.VNT:
+    mimetype: text/plain
+  EL-SANCT.VNT:
+    mimetype: text/plain
+  EL-UNXD1.VNT:
+    mimetype: text/plain
+  FW-HOOD.VNT:
+    mimetype: text/plain
+  IC-CA2.VNT:
+    mimetype: text/plain
+  IC-M&M!.VNT:
+    mimetype: text/plain
+  IC-VNT.VNT:
+    mimetype: text/plain
+  INTHEEND.MEM:
+    mimetype: text/plain
+  LC-EMRIC.VNT:
+    mimetype: text/plain
+  LC-MUDNT.VNT:
+    mimetype: text/plain
+  LC-TNT.VNT:
+    mimetype: text/plain
+  LI-BB5.VNT:
+    mimetype: text/plain
+  LI-ICE.VNT:
+    mimetype: text/plain
+  LI-TCM.VNT:
+    mimetype: text/plain
+  LI-WT.VNT:
+    mimetype: text/plain
+  QS-BE.VNT:
+    mimetype: text/plain
+  QS-IOT.VNT:
+    mimetype: text/plain
+  QS-SIERR.VNT:
+    mimetype: text/plain
+  QS-VNT.VNT:
+    mimetype: text/plain
+  TES-JC.VNT:
+    mimetype: text/plain
+  TRW-DE.VNT:
+    mimetype: text/plain
+  TRW-PSY.VNT:
+    mimetype: text/plain
+  TRW-TEC.VNT:
+    mimetype: text/plain
+  VN-INTRP.VNT:
+    mimetype: text/plain

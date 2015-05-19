@@ -1,0 +1,90 @@
+name: bmb-0597.zip
+hash: 5adf0b984ac45126bd7c771a7fbb5697
+year: 1997
+file:
+  --ANS--:
+    mimetype: application/octet-stream
+  --ASC--:
+    mimetype: application/octet-stream
+  --DIZ--:
+    mimetype: application/octet-stream
+  --EXE--:
+    mimetype: application/octet-stream
+  --NFO--:
+    mimetype: application/octet-stream
+  --VGA--:
+    mimetype: application/octet-stream
+  ANM-LECH.ANS:
+    mimetype: text/plain
+  ANM-X.ANS:
+    mimetype: text/plain
+  ANM-ZENT.ANS:
+    mimetype: text/plain
+  BMB-0597.NFO:
+    mimetype: text/plain
+  BMB-0597.NWS:
+    mimetype: text/plain
+  BMB-APP.EXE:
+    mimetype: application/x-msdos-program
+  DKL-BMB.ASC:
+    mimetype: text/plain
+  DKL-BMB1.ASC:
+    mimetype: text/plain
+  DKL-SPD.ASC:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FX-BMBNE.ANS:
+    mimetype: text/plain
+  FX-DIZ.ASC:
+    mimetype: text/plain
+  FX-DL.ANS:
+    mimetype: text/plain
+  FX-DOWN.ANS:
+    mimetype: text/plain
+  FX-LAST.ANS:
+    mimetype: text/plain
+  FX-UP.ANS:
+    mimetype: text/plain
+  NOH-BMB.ANS:
+    mimetype: text/plain
+  NOH-FE.ANS:
+    mimetype: text/plain
+  NOH-ICE.ANS:
+    mimetype: text/plain
+  NOH-RABB.ANS:
+    mimetype: text/plain
+  PHN-CALV.ANS:
+    mimetype: text/plain
+  PHN-MAIN.ANS:
+    mimetype: text/plain
+  PHN-QICK.ANS:
+    mimetype: text/plain
+  PYX-ACID.ANS:
+    mimetype: text/plain
+  PYX-ALI.ANS:
+    mimetype: text/plain
+  PYX-BALO.ANS:
+    mimetype: text/plain
+  PYX-FILE.ANS:
+    mimetype: text/plain
+  PYX-MOOM.ANS:
+    mimetype: text/plain
+  PYX-MT2.ANS:
+    mimetype: text/plain
+  PYX-OI3.ANS:
+    mimetype: text/plain
+  PYX-ONLN.ANS:
+    mimetype: text/plain
+  PYX-SID.ANS:
+    mimetype: text/plain
+  PYX-SKEV.ANS:
+    mimetype: text/plain
+  SLAMCITY:
+    mimetype: text/plain
+  ST-BMB1.JPG:
+    mimetype: image/jpeg
+  ST-BMB2.JPG:
+    mimetype: image/jpeg
+  US!ICE.ANS:
+    mimetype: text/plain

@@ -1,0 +1,42 @@
+name: sf05.zip
+hash: 2ec966cd14d0861f88de0276fb328520
+year: 2003
+file:
+  'Somnolent Flower #05.nfo':
+    mimetype: text/plain
+  add-ons/leap - stupid.txt:
+    mimetype: text/plain
+  add-ons/leap - time to write.txt:
+    mimetype: text/plain
+  add-ons/leap - to critics.txt:
+    mimetype: text/plain
+  file_id.diz:
+    mimetype: text/plain
+  hi-rez/leap - impossible.png:
+    mimetype: image/png
+  hi-rez/leap - karma.jpg:
+    mimetype: image/jpeg
+  hi-rez/leap - tea.png:
+    mimetype: image/png
+  hi-rez/leap - waves.png:
+    mimetype: image/png
+  leap - cow.ans:
+    mimetype: text/plain
+  leap - end.ans:
+    mimetype: text/plain
+  leap - heart.ans:
+    mimetype: text/plain
+  leap - sf.ans:
+    mimetype: text/plain
+  leap - you are defective.ans:
+    mimetype: text/plain
+  lyric/leap - again.txt:
+    mimetype: text/plain
+  lyric/leap - great.txt:
+    mimetype: text/plain
+  lyric/leap - peak.txt:
+    mimetype: text/plain
+  lyric/leap - question.txt:
+    mimetype: text/plain
+  lyric/leap - soul.txt:
+    mimetype: text/plain

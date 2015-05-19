@@ -1,0 +1,78 @@
+name: gas-02.zip
+hash: d4fe8003e9a82b155070552becb20419
+year: 1996
+file:
+  -ANSI---.---:
+    mimetype: application/octet-stream
+  -ASCII--.---:
+    mimetype: application/octet-stream
+  -INFO---.---:
+    mimetype: application/octet-stream
+  -MISC---.---:
+    mimetype: application/octet-stream
+  -VGA----.---:
+    mimetype: application/octet-stream
+  BM-LOGO1.ANS:
+    mimetype: text/plain
+  DE-DA#1.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GAS-02.ANS:
+    mimetype: text/plain
+  GAS-02.ASC:
+    mimetype: text/plain
+  GASMEM02.ANS:
+    mimetype: text/plain
+  GASNFO02.ANS:
+    mimetype: text/plain
+  HC-#GAS.JPG:
+    mimetype: image/jpeg
+  HC-GAS#1.JPG:
+    mimetype: image/jpeg
+  IN-GAS#1.ANS:
+    mimetype: text/plain
+  JC-ARC#1.ANS:
+    mimetype: text/plain
+  JC-FSO#1.ANS:
+    mimetype: text/plain
+  JC-NEC#1.ANS:
+    mimetype: text/plain
+  JC-NEC#2.ANS:
+    mimetype: text/plain
+  JC-NEC#3.ANS:
+    mimetype: text/plain
+  JC-NEC#4.ANS:
+    mimetype: text/plain
+  JC-NEC#5.ANS:
+    mimetype: text/plain
+  OC-HACK.ANS:
+    mimetype: text/plain
+  OC-SATAN.ANS:
+    mimetype: text/plain
+  OK-VIO.ANS:
+    mimetype: text/plain
+  SS-GAS#1.JPG:
+    mimetype: image/jpeg
+  SS-GAS#1.RIP:
+    mimetype: image/x-rip
+  TB-BM#1.ANS:
+    mimetype: text/plain
+  TB-SD#1.ANS:
+    mimetype: text/plain
+  US-1984.JPG:
+    mimetype: image/jpeg
+  US-GAS#1.ANS:
+    mimetype: text/plain
+  US-GAS#2.ANS:
+    mimetype: text/plain
+  US-GAS#3.ANS:
+    mimetype: text/plain
+  WB-ELEME.JPG:
+    mimetype: image/jpeg
+  WB-GAS#2.JPG:
+    mimetype: image/jpeg
+  WB-SITU.JPG:
+    mimetype: image/jpeg
+  YK-FEARF.ANS:
+    mimetype: text/plain

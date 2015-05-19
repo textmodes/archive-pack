@@ -1,0 +1,40 @@
+name: clepack1.zip
+hash: 75604246e87a4538c6b0692e1fe89c50
+year: 1999
+file:
+  BULLETIN.ASC:
+    mimetype: text/plain
+  CLERIA.ASC:
+    mimetype: text/plain
+  CLERIA.NFO:
+    mimetype: text/plain
+  CONFEREN.ASC:
+    mimetype: text/plain
+  DARM.ASC:
+    mimetype: text/plain
+  DARM.NFO:
+    mimetype: text/plain
+  DOWNLOAD.ASC:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  HOCKEY.PLS:
+    mimetype: audio/x-scpls
+  MCI.CCS:
+    mimetype: text/plain
+  MENU.ASC:
+    mimetype: text/plain
+  PRIMAL.604:
+    mimetype: text/plain
+  SNES.ASC:
+    mimetype: text/plain
+  SUSAN.ASC:
+    mimetype: text/plain
+  SYSTEM.ASC:
+    mimetype: text/plain
+  TIME.ASC:
+    mimetype: text/plain
+  UPLOAD.ASC:
+    mimetype: text/plain
+  WALL.ASC:
+    mimetype: text/plain

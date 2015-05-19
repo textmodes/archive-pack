@@ -1,0 +1,76 @@
+name: acdu1192.zip
+hash: 244c3353f8c6a42ede45b740296fb123
+year: 1992
+file:
+  ACDU1192.NFO:
+    mimetype: text/plain
+  ACID-MS2.ANS:
+    mimetype: text/plain
+  ACID-TR2.ANS:
+    mimetype: text/plain
+  ACID-VN.ANS:
+    mimetype: text/plain
+  ACID92.ANS:
+    mimetype: text/plain
+  ACIDART.APL:
+    mimetype: text/plain
+  ACIDCOUR.APL:
+    mimetype: text/plain
+  ACIDWOLF.EXE:
+    mimetype: application/x-msdos-program
+  AIRACID1.ANS:
+    mimetype: text/plain
+  AIRACID2.ANS:
+    mimetype: text/plain
+  BADLACD1.ANS:
+    mimetype: text/plain
+  BADLACD2.ANS:
+    mimetype: text/plain
+  BCACID8.ANS:
+    mimetype: text/plain
+  CCIACID1.ANS:
+    mimetype: text/plain
+  CN1ACID.ANS:
+    mimetype: text/plain
+  DEEPACID.ANS:
+    mimetype: text/plain
+  DSOCACD2.ANS:
+    mimetype: text/plain
+  DSOCACD3.ANS:
+    mimetype: text/plain
+  DSOCACD4.ANS:
+    mimetype: text/plain
+  IMPACID2.ANS:
+    mimetype: text/plain
+  IODZNACD.ANS:
+    mimetype: text/plain
+  KINDACID.ANS:
+    mimetype: text/plain
+  KOROVA5.ANS:
+    mimetype: text/plain
+  LABZNACD.ANS:
+    mimetype: text/plain
+  LM1ACID.ANS:
+    mimetype: text/plain
+  LM3ACID.ANS:
+    mimetype: text/plain
+  MERC2ACD.ANS:
+    mimetype: text/plain
+  MNO3ACD2.ANS:
+    mimetype: text/plain
+  PSYCACID.ANS:
+    mimetype: text/plain
+  RICK-SC.ANS:
+    mimetype: text/plain
+  SANCACD1.EXE:
+    mimetype: application/x-msdos-program
+  SANCACD3.ANS:
+    mimetype: text/plain
+  SC-ACID4.ANS:
+    mimetype: text/plain
+  SC-ACID5.ANS:
+    mimetype: text/plain
+  SC-ACID6.ANS:
+    mimetype: text/plain
+  SNKPACD1.ANS:
+    mimetype: text/plain

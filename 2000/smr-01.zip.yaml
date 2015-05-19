@@ -1,0 +1,64 @@
+name: smr-01.zip
+hash: ee0c45598c11532fad1e8b21722aa96a
+year: 2000
+file:
+  AS-INI.ASC:
+    mimetype: text/plain
+  AS-LOAD_.ASC:
+    mimetype: text/plain
+  AS-SAHS.ASC:
+    mimetype: text/plain
+  DOGGY.GIF:
+    mimetype: image/gif
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GROOVY.NFO:
+    mimetype: text/plain
+  MJ_GOTH.JPG:
+    mimetype: image/jpeg
+  MJ_HUR.JPG:
+    mimetype: image/jpeg
+  MJ_NG.JPG:
+    mimetype: image/jpeg
+  MJ_SMR01.JPG:
+    mimetype: image/jpeg
+  MJ_SMR02.JPG:
+    mimetype: image/jpeg
+  MJ_SMR03.JPG:
+    mimetype: image/jpeg
+  MJ_SMR04.JPG:
+    mimetype: image/jpeg
+  MPH-AHB.ANS:
+    mimetype: text/plain
+  MPH-AS.ANS:
+    mimetype: text/plain
+  MPH-GB.ANS:
+    mimetype: text/plain
+  MPH-GM.ANS:
+    mimetype: text/plain
+  MPH-GRV.ANS:
+    mimetype: text/plain
+  MPH-LOG.ANS:
+    mimetype: text/plain
+  MPH-LUX.ANS:
+    mimetype: text/plain
+  MPH-MAIN.ANS:
+    mimetype: text/plain
+  MPH-NF.ANS:
+    mimetype: text/plain
+  MPH-TOON.ANS:
+    mimetype: text/plain
+  MPH-UL.ANS:
+    mimetype: text/plain
+  MPH-UR.ANS:
+    mimetype: text/plain
+  RMK-SMR.ASC:
+    mimetype: text/plain
+  SHAMAN.JPG:
+    mimetype: image/jpeg
+  SMR.APP:
+    mimetype: application/octet-stream
+  SMR_NFO.ASC:
+    mimetype: text/plain
+  URBAN.NFO:
+    mimetype: text/plain

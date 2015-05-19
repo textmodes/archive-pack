@@ -1,0 +1,14 @@
+name: satwar02.zip
+hash: 1b209fe2363adea5b4c7306b8ba0c8d9
+year: 1998
+file:
+  INFO.WAR:
+    mimetype: application/octet-stream
+  NS_R_2.ASC:
+    mimetype: text/plain
+  NS_R_2.ZIP:
+    mimetype: application/zip
+  OS_R_2.ASC:
+    mimetype: text/plain
+  SW_OS_2.ZIP:
+    mimetype: application/zip

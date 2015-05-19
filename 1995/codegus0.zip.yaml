@@ -1,0 +1,24 @@
+name: codegus0.zip
+hash: e92d3c64340e808f9f24300a4e6711da
+year: 1995
+file:
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GUSLIB.ALL:
+    mimetype: application/octet-stream
+  GUSLIB.ASM:
+    mimetype: text/plain
+  GUSLIB.LIB:
+    mimetype: application/octet-stream
+  GUSLIB.NFO:
+    mimetype: text/plain
+  GUSLIB.OBJ:
+    mimetype: application/octet-stream
+  NEO.COM:
+    mimetype: application/x-msdos-program
+  PLAYVOC.ASM:
+    mimetype: text/plain
+  PLAYVOC.EXE:
+    mimetype: application/x-msdos-program
+  TRIP1401.COM:
+    mimetype: application/x-msdos-program

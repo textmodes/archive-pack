@@ -1,0 +1,16 @@
+name: tpy1195.zip
+hash: a31351b0701becceadb990b721b5fb0b
+year: 1995
+file:
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GS-MTNT.ASC:
+    mimetype: text/plain
+  TPY.APP:
+    mimetype: application/octet-stream
+  TPY.NFO:
+    mimetype: text/plain
+  TPY.RQT:
+    mimetype: application/octet-stream
+  TPY1195.ASC:
+    mimetype: text/plain

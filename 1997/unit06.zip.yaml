@@ -1,0 +1,68 @@
+name: unit06.zip
+hash: 6f11dd4554e481580c9ad9562ab65bfc
+year: 1997
+file:
+  '!ANSI!.___':
+    mimetype: text/plain
+  '!APP!.___':
+    mimetype: application/octet-stream
+  '!ASCII!.___':
+    mimetype: text/plain
+  '!HAVEN!.NFO':
+    mimetype: text/plain
+  '!INFO!.___':
+    mimetype: text/plain
+  '!MODS!.___':
+    mimetype: text/plain
+  '!OTHER!.___':
+    mimetype: text/plain
+  '#06UNIT.MEM':
+    mimetype: text/plain
+  '#06UNIT.NFO':
+    mimetype: text/plain
+  AXB-AXB3.ASC:
+    mimetype: text/plain
+  AXB-BE.ASC:
+    mimetype: text/plain
+  AXB-FUCK.ASC:
+    mimetype: text/plain
+  AXB-HV21.ASC:
+    mimetype: text/plain
+  AXB-NC05.ASC:
+    mimetype: text/plain
+  AXB-UN13.ASC:
+    mimetype: text/plain
+  B3-ART1.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FLU-CLY1.ANS:
+    mimetype: text/plain
+  FLU-CLY2.ASC:
+    mimetype: text/plain
+  GDR-APH.ASC:
+    mimetype: text/plain
+  GDR-FE.ASC:
+    mimetype: text/plain
+  GFK-DI.ASC:
+    mimetype: text/plain
+  GFK-UNIT.ASC:
+    mimetype: text/plain
+  PF-COD.ASC:
+    mimetype: text/plain
+  PF-FRO.ASC:
+    mimetype: text/plain
+  PS-MODS.ZIP:
+    mimetype: application/zip
+  SHP-COLL.ASC:
+    mimetype: text/plain
+  SHP-MP.ASC:
+    mimetype: text/plain
+  TUT02.UNT:
+    mimetype: text/plain
+  UNIT.ART:
+    mimetype: text/plain
+  UNITAPP.EXE:
+    mimetype: application/x-msdos-program
+  UNITAPP.TXT:
+    mimetype: text/plain

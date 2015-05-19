@@ -1,0 +1,94 @@
+name: asciiance_artpack_1__2004_.zip
+hash: d4837c70e8fa1e307507d14e75e09593
+year: 2004
+file:
+  AiiA_Viewer.exe:
+    mimetype: application/x-msdos-program
+  asciiance.nfo:
+    mimetype: text/plain
+  cassio/cas_ale.asc:
+    mimetype: text/plain
+  cassio/cas_awa.asc:
+    mimetype: text/plain
+  cassio/cas_cade.asc:
+    mimetype: text/plain
+  cassio/cas_cons.asc:
+    mimetype: text/plain
+  cassio/cas_deev.asc:
+    mimetype: text/plain
+  cassio/cas_exib.asc:
+    mimetype: text/plain
+  cassio/cas_ffn.asc:
+    mimetype: text/plain
+  cassio/cas_hide.asc:
+    mimetype: text/plain
+  cassio/cas_phx.asc:
+    mimetype: text/plain
+  cassio/cas_tnc.asc:
+    mimetype: text/plain
+  cassio/cas_xvn.asc:
+    mimetype: text/plain
+  fmod.dll:
+    mimetype: application/x-dosexec
+  jered/jer-wol.asc:
+    mimetype: text/plain
+  muffin/mfn_BFH.asc:
+    mimetype: text/plain
+  muffin/mfn_NLTV.asc:
+    mimetype: text/plain
+  muffin/mfn_TZ.asc:
+    mimetype: text/plain
+  muffin/mfn_bbc.asc:
+    mimetype: text/plain
+  muffin/mfn_bnk.asc:
+    mimetype: text/plain
+  muffin/mfn_brut.asc:
+    mimetype: text/plain
+  muffin/mfn_ch.asc:
+    mimetype: text/plain
+  muffin/mfn_chib.asc:
+    mimetype: text/plain
+  muffin/mfn_esp.asc:
+    mimetype: text/plain
+  muffin/mfn_hoka.asc:
+    mimetype: text/plain
+  muffin/mfn_merx.asc:
+    mimetype: text/plain
+  muffin/mfn_miwo.asc:
+    mimetype: text/plain
+  muffin/mfn_ndx.asc:
+    mimetype: text/plain
+  muffin/mfn_noes.asc:
+    mimetype: text/plain
+  muffin/mfn_nox.asc:
+    mimetype: text/plain
+  muffin/mfn_nya.ASC:
+    mimetype: text/plain
+  muffin/mfn_oss.asc:
+    mimetype: text/plain
+  muffin/mfn_skr.asc:
+    mimetype: text/plain
+  muffin/mfn_star.asc:
+    mimetype: text/plain
+  muffin/mfn_tf24.ASC:
+    mimetype: text/plain
+  s-cure.XM:
+    mimetype: audio/x-mod
+  xmr/xmr_bb.asc:
+    mimetype: text/plain
+  xmr/xmr_bb2.asc:
+    mimetype: text/plain
+  xmr/xmr_co.asc:
+    mimetype: text/plain
+  xmr/xmr_cop.asc:
+    mimetype: text/plain
+  xmr/xmr_dope.asc:
+    mimetype: text/plain
+  xmr/xmr_gmam.asc:
+    mimetype: text/plain
+  xmr/xmr_lion.asc:
+    mimetype: text/plain
+  xmr/xmr_rvl.asc:
+    mimetype: text/plain
+  xmr/xmr_xxx.asc:
+    mimetype: text/plain

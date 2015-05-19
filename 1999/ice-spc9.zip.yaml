@@ -1,0 +1,10 @@
+name: ice-spc9.zip
+hash: 40a889f1fa47a21f06fb0c4d626686be
+year: 1999
+file:
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  JM-PNT08.MOV:
+    mimetype: video/quicktime
+  JM-PNT08.TXT:
+    mimetype: text/plain

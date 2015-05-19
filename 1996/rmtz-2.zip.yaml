@@ -1,0 +1,76 @@
+name: rmtz-2.zip
+hash: bae361f0bbe589d4c9f819508104da26
+year: 1996
+file:
+  APPLY.FRM:
+    mimetype: text/plain
+  CW-RMTZL.ANS:
+    mimetype: text/plain
+  CW-SPLOG.ANS:
+    mimetype: text/plain
+  CW-VINYL.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GOLDBOB.RAW:
+    mimetype: application/octet-stream
+  NVZ-AFAS.ANS:
+    mimetype: text/plain
+  NVZ-BOBS.EXE:
+    mimetype: application/x-msdos-program
+  NVZ-FLAT.EXE:
+    mimetype: application/x-msdos-program
+  NVZ-FLAT.TEX:
+    mimetype: text/x-tex
+  NVZ-FUSC.ASC:
+    mimetype: text/plain
+  NVZ-INFO.ANS:
+    mimetype: text/plain
+  NVZ-LGFF.ANS:
+    mimetype: text/plain
+  NVZ-MENU.ANS:
+    mimetype: text/plain
+  NVZ-POWH.ANS:
+    mimetype: text/plain
+  NVZ-SHDB.EXE:
+    mimetype: application/x-msdos-program
+  NVZ-TDI.ANS:
+    mimetype: text/plain
+  NVZ-VIEW.ANS:
+    mimetype: text/plain
+  NVZ-ZAUB.ANS:
+    mimetype: text/plain
+  NVZ-ZOOM.EXE:
+    mimetype: application/x-msdos-program
+  NVZ-ZOOM.TEX:
+    mimetype: text/x-tex
+  SF-AB.ANS:
+    mimetype: text/plain
+  SF-ANIME.ANS:
+    mimetype: text/plain
+  SF-BCBO.ANS:
+    mimetype: text/plain
+  SF-BCEYE.ANS:
+    mimetype: text/plain
+  SF-BREAD.ASC:
+    mimetype: text/plain
+  SF-DDCAN.ANS:
+    mimetype: text/plain
+  SF-DIZS.ASC:
+    mimetype: text/plain
+  SF-GRAF.ASC:
+    mimetype: text/plain
+  SF-LOGO.ASC:
+    mimetype: text/plain
+  SF-MENU2.ANS:
+    mimetype: text/plain
+  SF-OLD.ANS:
+    mimetype: text/plain
+  SF-RMTA.ANS:
+    mimetype: text/plain
+  SF-SIG.ASC:
+    mimetype: text/plain
+  SF-SURP.ASC:
+    mimetype: text/plain
+  SF-TOOST.ASC:
+    mimetype: text/plain

@@ -1,0 +1,56 @@
+name: zeit_01.zip
+hash: 0377eeec0614628742c84ed731a601c7
+year: 2002
+file:
+  demo/Torro.exe:
+    mimetype: application/x-msdos-program
+  demo/Y-hello.com:
+    mimetype: application/x-msdos-program
+  hirez/c-buffy.gif:
+    mimetype: image/gif
+  hirez/c-dao.gif:
+    mimetype: image/gif
+  hirez/z-cifra.gif:
+    mimetype: image/gif
+  hirez/z-just.gif:
+    mimetype: image/gif
+  lit/as-lit.ans:
+    mimetype: text/plain
+  lit/n406-lit.ans:
+    mimetype: text/plain
+  lowrez/0x-RGB.asc:
+    mimetype: text/plain
+  lowrez/0x-anim.asc:
+    mimetype: text/plain
+  lowrez/0x-csc.asc:
+    mimetype: text/plain
+  lowrez/0x-heli.asc:
+    mimetype: text/plain
+  lowrez/0x-puzzl.asc:
+    mimetype: text/plain
+  lowrez/0x-rotat.asc:
+    mimetype: text/plain
+  lowrez/0x-sup.asc:
+    mimetype: text/plain
+  lowrez/0x-zeit.asc:
+    mimetype: text/plain
+  lowrez/Y-army.asc:
+    mimetype: text/plain
+  lowrez/Y-mongol.asc:
+    mimetype: text/plain
+  lowrez/c-Grafit.ans:
+    mimetype: text/plain
+  lowrez/nl-silen.ans:
+    mimetype: text/plain
+  lowrez/z-domin.asc:
+    mimetype: text/plain
+  lowrez/z-virgin.rip:
+    mimetype: image/x-rip
+  lowrez/z-zebro.ans:
+    mimetype: text/plain
+  music/audiofx.exe:
+    mimetype: application/x-msdos-program
+  music/z-bdown.mid:
+    mimetype: audio/midi
+  rgb-pack.nfo:
+    mimetype: text/plain

@@ -1,0 +1,104 @@
+name: twst0496.zip
+hash: f22093df59845f71754f90c1650f210f
+year: 1996
+file:
+  AN-INSO.ANS:
+    mimetype: text/plain
+  AN-TW.ANS:
+    mimetype: text/plain
+  AN-TWIST.ANS:
+    mimetype: text/plain
+  BX-BF.ANS:
+    mimetype: text/plain
+  BX-CG.ANS:
+    mimetype: text/plain
+  BX-FB.ANS:
+    mimetype: text/plain
+  BX-IMPUL.ANS:
+    mimetype: text/plain
+  BX-PURGE.ANS:
+    mimetype: text/plain
+  FA-BF.RIP:
+    mimetype: image/x-rip
+  FA-CG.RIP:
+    mimetype: image/x-rip
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GR-ACE.ANS:
+    mimetype: text/plain
+  GR-AXIS.ANS:
+    mimetype: text/plain
+  GR-DCS.ANS:
+    mimetype: text/plain
+  GR-DES.RIP:
+    mimetype: image/x-rip
+  GR-DL.ANS:
+    mimetype: text/plain
+  GR-DZ.ANS:
+    mimetype: text/plain
+  GR-H&H.ANS:
+    mimetype: text/plain
+  GR-KG2.ANS:
+    mimetype: text/plain
+  GR-MATRI.ANS:
+    mimetype: text/plain
+  GR-MC.ANS:
+    mimetype: text/plain
+  GR-NUV.ANS:
+    mimetype: text/plain
+  GR-OUTL.ANS:
+    mimetype: text/plain
+  GR-OVERT.RIP:
+    mimetype: image/x-rip
+  GR-RAW.ANS:
+    mimetype: text/plain
+  GR-SC.ANS:
+    mimetype: text/plain
+  GR-SIL.ANS:
+    mimetype: text/plain
+  GR-SPAWN.RIP:
+    mimetype: image/x-rip
+  GR-SPIN.ANS:
+    mimetype: text/plain
+  GR-TDS.ANS:
+    mimetype: text/plain
+  GR-THU.ANS:
+    mimetype: text/plain
+  GR-TWST1.ANS:
+    mimetype: text/plain
+  GR-TWST2.ANS:
+    mimetype: text/plain
+  HALLU1ST.COM:
+    mimetype: application/x-msdos-program
+  MEMBERS.ANS:
+    mimetype: text/plain
+  NEWS.ANS:
+    mimetype: text/plain
+  PC-BD.ANS:
+    mimetype: text/plain
+  PC-ERN.ANS:
+    mimetype: text/plain
+  PC-KOLLY.ANS:
+    mimetype: text/plain
+  PC-KRONI.ANS:
+    mimetype: text/plain
+  PC-PISSM.ANS:
+    mimetype: text/plain
+  PC-RI!!.ANS:
+    mimetype: text/plain
+  PC-YINFO.ANS:
+    mimetype: text/plain
+  SH-BAD.ANS:
+    mimetype: text/plain
+  SH-BLEAK.ANS:
+    mimetype: text/plain
+  SH-CYCL.ANS:
+    mimetype: text/plain
+  SH-MAYO.ANS:
+    mimetype: text/plain
+  SH-STIMP.ANS:
+    mimetype: text/plain
+  SITES.ASC:
+    mimetype: text/plain
+  TWVIEW.EXE:
+    mimetype: application/x-msdos-program

@@ -1,0 +1,32 @@
+name: b2k-010.zip
+hash: 3a8057fc28bbba8904f93c63f6b4157d
+year: 1999
+file:
+  B2K.010:
+    mimetype: text/plain
+  DR-GNORM.ANS:
+    mimetype: text/plain
+  ENTRY.TXT:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  PK!BNRXA.RIP:
+    mimetype: image/x-rip
+  PK!BNRXB.RIP:
+    mimetype: image/x-rip
+  SL-B2K08.ASC:
+    mimetype: text/plain
+  U3-SMAN.ANS:
+    mimetype: text/plain
+  goat2k.ans:
+    mimetype: text/plain
+  henb2k10.bmp:
+    mimetype: image/x-ms-bmp
+  lc-fosters.gif:
+    mimetype: image/gif
+  p-superblender10d.jpg:
+    mimetype: image/jpeg
+  superduper002.bmp:
+    mimetype: image/x-ms-bmp
+  vaklumz.ans:
+    mimetype: text/plain

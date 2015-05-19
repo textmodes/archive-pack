@@ -1,0 +1,84 @@
+name: 604 music disk.zip
+hash: ebabc46111b74f1df1c27e58fc6558d2
+year: 1996
+file:
+  604.EXE:
+    mimetype: application/x-msdos-program
+  604.HLP:
+    mimetype: text/plain
+  604.NFO:
+    mimetype: text/plain
+  604.TXT:
+    mimetype: text/plain
+  AS-AWE32.S3M:
+    mimetype: audio/x-mod
+  BI-EOE.S3M:
+    mimetype: audio/x-mod
+  BI-ROSES.S3M:
+    mimetype: audio/x-mod
+  DA-SPG.S3M:
+    mimetype: audio/x-mod
+  DGTLLUSN.NFO:
+    mimetype: text/plain
+  DIGITRON.NFO:
+    mimetype: text/plain
+  E-FUTURE.S3M:
+    mimetype: audio/x-mod
+  EUPHONIX.NFO:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FR-INDRM.S3M:
+    mimetype: audio/x-mod
+  ID-PAAPA.S3M:
+    mimetype: audio/x-mod
+  ID-TDOFS.S3M:
+    mimetype: audio/x-mod
+  IS.NFO:
+    mimetype: text/plain
+  LI-EXLFT.S3M:
+    mimetype: audio/x-mod
+  LI-GUITA.S3M:
+    mimetype: audio/x-mod
+  MIST.NFO:
+    mimetype: text/plain
+  ONX_GHOS.S3M:
+    mimetype: audio/x-mod
+  ONX_HUFL.S3M:
+    mimetype: audio/x-mod
+  ONX_RIFR.S3M:
+    mimetype: audio/x-mod
+  ONX_TWTE.S3M:
+    mimetype: audio/x-mod
+  P3-BREAD.S3M:
+    mimetype: audio/x-mod
+  P3-EASTV.S3M:
+    mimetype: audio/x-mod
+  P3-VANGE.S3M:
+    mimetype: audio/x-mod
+  RADIANCE.NFO:
+    mimetype: text/plain
+  RD-PHONE.MOD:
+    mimetype: audio/x-mod
+  S-FULL.S3M:
+    mimetype: audio/x-mod
+  SE-SEREN.MOD:
+    mimetype: audio/x-mod
+  SE.NFO:
+    mimetype: text/plain
+  SI-CIYNA.MOD:
+    mimetype: audio/x-mod
+  SI-ETEMP.MOD:
+    mimetype: audio/x-mod
+  SI-FADED.MOD:
+    mimetype: audio/x-mod
+  SI-SWIFT.MOD:
+    mimetype: audio/x-mod
+  TS-MODU3.MOD:
+    mimetype: audio/x-mod
+  WHATSNEW.NFO:
+    mimetype: text/plain
+  ZN-TRUST.S3M:
+    mimetype: audio/x-mod
+  ZNC-SIR.S3M:
+    mimetype: audio/x-mod

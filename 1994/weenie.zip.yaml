@@ -1,0 +1,12 @@
+name: weenie.zip
+hash: 00c82be673b502a81e272e62e41116c6
+year: 1994
+file:
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  KHYRON.NFO:
+    mimetype: text/plain
+  NEOTOKYO.ANS:
+    mimetype: text/plain
+  WEENIE.S3M:
+    mimetype: audio/x-mod

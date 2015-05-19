@@ -1,0 +1,92 @@
+name: image001.zip
+hash: 331f3ee8ea43e65f44ba7c57085ad002
+year: 1994
+file:
+  --ANSI--.IMG:
+    mimetype: text/plain
+  --MISC--.IMG:
+    mimetype: text/plain
+  --VGA--.IMG:
+    mimetype: text/plain
+  CH-BYE1.ANS:
+    mimetype: text/plain
+  CH-CROSS.GIF:
+    mimetype: image/gif
+  CH-IMAG1.EXE:
+    mimetype: application/x-msdos-program
+  CH-IMG.ANS:
+    mimetype: text/plain
+  CH-INFO1.ANS:
+    mimetype: text/plain
+  CH-LOTE3.EXE:
+    mimetype: application/x-msdos-program
+  CH-MAIN.ANS:
+    mimetype: text/plain
+  CH-NARC.ANS:
+    mimetype: text/plain
+  CH-ROT.ANS:
+    mimetype: text/plain
+  CH-SK0.ZIP:
+    mimetype: application/zip
+  CH-SKIN7.ANS:
+    mimetype: text/plain
+  CH-ZIPCM.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GH-MENUS.ZIP:
+    mimetype: application/zip
+  GHOST.EXE:
+    mimetype: application/x-msdos-program
+  GRIM-CNK.ANS:
+    mimetype: text/plain
+  GRIM-HEA.ANS:
+    mimetype: text/plain
+  GRIM-ROT.ANS:
+    mimetype: text/plain
+  HEAVENS.GIF:
+    mimetype: image/gif
+  IGLOO.TXT:
+    mimetype: text/plain
+  IMAGE.GIF:
+    mimetype: image/gif
+  IMAGEAPP.ZIP:
+    mimetype: application/zip
+  IMAGENFO.ANS:
+    mimetype: text/plain
+  IMAGEVIE.EXE:
+    mimetype: application/x-msdos-program
+  JST-GH2.ANS:
+    mimetype: text/plain
+  JST-IMG.ANS:
+    mimetype: text/plain
+  JST-TIA.ANS:
+    mimetype: text/plain
+  JST-TIAM.ANS:
+    mimetype: text/plain
+  MM-ACE.ANS:
+    mimetype: text/plain
+  MM-FCC.ANS:
+    mimetype: text/plain
+  MM-RC.ANS:
+    mimetype: text/plain
+  MM-TOP.ANS:
+    mimetype: text/plain
+  ROT.EXE:
+    mimetype: application/x-msdos-program
+  RP-IMAGE.ANS:
+    mimetype: text/plain
+  RP-INI2.ANS:
+    mimetype: text/plain
+  WS-COOL.ANS:
+    mimetype: text/plain
+  WS-EUPH.ANS:
+    mimetype: text/plain
+  WS-FCC.ANS:
+    mimetype: text/plain
+  WS-IMG.ANS:
+    mimetype: text/plain
+  WS-NARC.ANS:
+    mimetype: text/plain
+  WS-ROT.ANS:
+    mimetype: text/plain

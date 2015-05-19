@@ -1,0 +1,12 @@
+name: ansis-k.zip
+hash: d005341cc701c73c58629fb003ed417d
+year: 1993
+file:
+  -RUNME.COM:
+    mimetype: application/x-msdos-program
+  KEWL.ANS:
+    mimetype: text/plain
+  KINGTUT.ANS:
+    mimetype: text/plain
+  KOROVA5.ANS:
+    mimetype: text/plain

@@ -1,0 +1,16 @@
+name: blistr02.zip
+hash: 1dc83f553775580816537c146612317e
+year: 1996
+file:
+  APP.ANS:
+    mimetype: text/plain
+  BLISTER.DAT:
+    mimetype: application/octet-stream
+  BLISTER.EXE:
+    mimetype: application/x-msdos-program
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  MAIN.DAT:
+    mimetype: application/octet-stream
+  TXT.DAT:
+    mimetype: application/octet-stream

@@ -1,0 +1,10 @@
+name: zovirax.zip
+hash: d31ff8c42aff87a6962bbedca6134792
+year: 1995
+file:
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  NEO.COM:
+    mimetype: application/x-msdos-program
+  ZOVIRAX.ASC:
+    mimetype: text/plain

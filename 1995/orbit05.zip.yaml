@@ -1,0 +1,46 @@
+name: orbit05.zip
+hash: d8724b3d266501951e28659940e96f96
+year: 1995
+file:
+  CH-DI.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  M-KF1.PCX:
+    mimetype: image/pcx
+  M-NC1.ASC:
+    mimetype: text/plain
+  M-TRN1.PCX:
+    mimetype: image/pcx
+  M-TRNDIZ.ASC:
+    mimetype: text/plain
+  MG-DPRES.LIT:
+    mimetype: text/plain
+  MG-LETTR.LIT:
+    mimetype: text/plain
+  MG-SHARE.LIT:
+    mimetype: text/plain
+  ORB0895.MEM:
+    mimetype: text/plain
+  ORB0895.SIT:
+    mimetype: text/plain
+  ORBNEWS.ANS:
+    mimetype: text/plain
+  TA-ORB2.PCX:
+    mimetype: image/pcx
+  TA-ORB2.TXT:
+    mimetype: text/plain
+  TAB-VX.TGA:
+    mimetype: application/octet-stream
+  VD-ACMTX.ANS:
+    mimetype: text/plain
+  VD-NCLOG.ANS:
+    mimetype: text/plain
+  VD-OBV2.ANS:
+    mimetype: text/plain
+  VD-ORB5.ANS:
+    mimetype: text/plain
+  VD-ORB6.ANS:
+    mimetype: text/plain
+  VD-TOF.ANS:
+    mimetype: text/plain

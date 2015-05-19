@@ -1,0 +1,44 @@
+name: mad0494.zip
+hash: 6c5276afa813423e4110c9fb6325d810
+year: 1994
+file:
+  (-TP-).NOW:
+    mimetype: text/plain
+  APPGEN.EXE:
+    mimetype: application/x-msdos-program
+  ASPHYXE8.MOD:
+    mimetype: audio/x-mod
+  CO-MAIN.RIP:
+    mimetype: image/x-rip
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FK-SOE.MAD:
+    mimetype: text/plain
+  LM-30FT.GIF:
+    mimetype: image/gif
+  LM-PACK4.FLI:
+    mimetype: video/fli
+  MADNEW04.MAD:
+    mimetype: text/plain
+  MADSITE.MAD:
+    mimetype: text/plain
+  MEMBERS.MAD:
+    mimetype: text/plain
+  MNDSTORM.MOD:
+    mimetype: audio/x-mod
+  MP-PI.MAD:
+    mimetype: text/plain
+  MP-SP.MAD:
+    mimetype: text/plain
+  RP-ABS.MAD:
+    mimetype: text/plain
+  SZ-HAPPY.MOD:
+    mimetype: audio/x-mod
+  TSD-FRM2.MAD:
+    mimetype: text/plain
+  TSD-SFRM.MAD:
+    mimetype: text/plain
+  TW-DIEHD.GIF:
+    mimetype: image/gif
+  WS-DXLDR.ZIP:
+    mimetype: application/zip

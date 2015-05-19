@@ -1,0 +1,40 @@
+name: umid108.zip
+hash: a1a008d2f531758f3b9a18924a177910
+year: 1994
+file:
+  !!binary +VX5Q09WRVIu+SH5:
+    mimetype: text/plain
+  DEVELOPR.TXT:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GF166.COM:
+    mimetype: application/x-msdos-program
+  GF1DIGI.ADV:
+    mimetype: application/octet-stream
+  GF1MIDI.ADV:
+    mimetype: application/octet-stream
+  GRAVNODE.TXT:
+    mimetype: text/plain
+  GROOVIE.INI:
+    mimetype: text/plain
+  GV.EXE:
+    mimetype: application/x-msdos-program
+  MT32.INI:
+    mimetype: text/plain
+  PUPDATE.EXE:
+    mimetype: application/x-msdos-program
+  README:
+    mimetype: application/octet-stream
+  SDKORDER.FRM:
+    mimetype: text/plain
+  ULTRAMID.EXE:
+    mimetype: application/x-msdos-program
+  UM200.INI:
+    mimetype: text/plain
+  UM206.INI:
+    mimetype: text/plain
+  UM206A.INI:
+    mimetype: text/plain
+  UMINSTAL.EXE:
+    mimetype: application/x-msdos-program

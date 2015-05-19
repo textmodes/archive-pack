@@ -1,0 +1,34 @@
+name: hbg-cc00.zip
+hash: b468da79d28a3c86f08316957676805e
+year: 2000
+file:
+  !!binary /lBBU1NFRP4uVEhS:
+    mimetype: text/plain
+  CC00^01.JPG:
+    mimetype: image/jpeg
+  CC00^02.JPG:
+    mimetype: image/jpeg
+  CC00^03.JPG:
+    mimetype: image/jpeg
+  CC00^04.JPG:
+    mimetype: image/jpeg
+  CC00^05.JPG:
+    mimetype: image/jpeg
+  CC00^06.JPG:
+    mimetype: image/jpeg
+  CC00^07.JPG:
+    mimetype: image/jpeg
+  CC00^08.JPG:
+    mimetype: image/jpeg
+  CC00^09.JPG:
+    mimetype: image/jpeg
+  CC00^10.JPG:
+    mimetype: image/jpeg
+  CC00^11.JPG:
+    mimetype: image/jpeg
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  HBG.NFO:
+    mimetype: text/plain
+  scene.org:
+    mimetype: text/plain

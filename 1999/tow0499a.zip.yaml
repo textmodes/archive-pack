@@ -1,0 +1,18 @@
+name: tow0499a.zip
+hash: 6c3fb29dd6d45aef814cb04882776538
+year: 1999
+file:
+  ((TOW)):
+    mimetype: text/plain
+  EVIEW.EXE:
+    mimetype: application/x-msdos-program
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  MUSIC/(MUZAX):
+    mimetype: text/plain
+  MUSIC/PS-SLGSH.IT:
+    mimetype: audio/x-mod
+  TOW.NFO:
+    mimetype: text/plain
+  TOWAPP.EXE:
+    mimetype: application/x-msdos-program

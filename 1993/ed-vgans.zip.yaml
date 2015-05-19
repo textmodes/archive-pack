@@ -1,0 +1,12 @@
+name: ed-vgans.zip
+hash: e3f1ea9357f84913d8056775d526ae00
+year: 1993
+file:
+  ED-ANSI1.GIF:
+    mimetype: image/gif
+  ED-ANSI2.GIF:
+    mimetype: image/gif
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FUN!.COM:
+    mimetype: application/x-msdos-program

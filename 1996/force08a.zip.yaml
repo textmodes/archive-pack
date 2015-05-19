@@ -1,0 +1,64 @@
+name: force08a.zip
+hash: b3786a69ef96c45143a0a57142238ec2
+year: 1996
+file:
+  '`DESTE.NFO':
+    mimetype: text/plain
+  '`XPS.NFO':
+    mimetype: text/plain
+  AK-DOOD3.ANS:
+    mimetype: text/plain
+  AN-CURRY.ANS:
+    mimetype: text/plain
+  AN-PRIM1.ANS:
+    mimetype: text/plain
+  AN-TPL#3.ANS:
+    mimetype: text/plain
+  CHECK_IT.OUT:
+    mimetype: text/plain
+  FC-FORCE.ANS:
+    mimetype: text/plain
+  FC-WAR1.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FRC-ANSI.ANS:
+    mimetype: text/plain
+  FRC-APP.EXE:
+    mimetype: application/x-msdos-program
+  FRC-MEM.ANS:
+    mimetype: text/plain
+  FRC-NEWS.ANS:
+    mimetype: text/plain
+  FV.DOC:
+    mimetype: text/plain
+  FV.EXE:
+    mimetype: application/x-msdos-program
+  GEHENNA.EXE:
+    mimetype: application/x-msdos-program
+  KARNAGE.FUN:
+    mimetype: text/plain
+  KT-OK7.ANS:
+    mimetype: text/plain
+  MIDAS.CFG:
+    mimetype: application/octet-stream
+  NME-GD#2.ANS:
+    mimetype: text/plain
+  NME-GHST.ANS:
+    mimetype: text/plain
+  NME-MATX.ANS:
+    mimetype: text/plain
+  NME-NF#1.ANS:
+    mimetype: text/plain
+  NME-OKAY.ANS:
+    mimetype: text/plain
+  NME-TPL1.ANS:
+    mimetype: text/plain
+  NME-XP!.ANS:
+    mimetype: text/plain
+  VOTING.FRM:
+    mimetype: text/plain
+  WARHAMME.NFO:
+    mimetype: text/plain
+  WH-PSALM.ANS:
+    mimetype: text/plain

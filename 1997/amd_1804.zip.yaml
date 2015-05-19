@@ -1,0 +1,48 @@
+name: amd_1804.zip
+hash: 1d33370fa330e759e1dd999a0d63adb0
+year: 1997
+file:
+  AMD.APP:
+    mimetype: text/plain
+  AMD_INFO.NFO:
+    mimetype: text/plain
+  AMD_MEMB.MEM:
+    mimetype: text/plain
+  AVALE!!!.!!!:
+    mimetype: text/plain
+  DEFIANCE.NFO:
+    mimetype: text/plain
+  DNS-LOGI.ANS:
+    mimetype: text/plain
+  DNS-LOWO.ANS:
+    mimetype: text/plain
+  DNS-PT.ANS:
+    mimetype: text/plain
+  DNS-WALL.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  PERREMD.EXE:
+    mimetype: application/x-msdos-program
+  SF-ASYM.ANS:
+    mimetype: text/plain
+  SF-CALLS.ANS:
+    mimetype: text/plain
+  SF-CONFS.ANS:
+    mimetype: text/plain
+  SF-INSAN.ANS:
+    mimetype: text/plain
+  SF-MAIN1.ANS:
+    mimetype: text/plain
+  SF-MAIN2.ANS:
+    mimetype: text/plain
+  SF-MAN.ANS:
+    mimetype: text/plain
+  SF-PIDS.ANS:
+    mimetype: text/plain
+  SF-PL.ANS:
+    mimetype: text/plain
+  SF-TRSH.ANS:
+    mimetype: text/plain
+  SF-UPLD.ANS:
+    mimetype: text/plain

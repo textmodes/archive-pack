@@ -1,0 +1,10 @@
+name: ice-spc1.zip
+hash: fbd11756e4ca47edcc7f4ae3cf576c12
+year: 1995
+file:
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  MS-ROBOT.FLI:
+    mimetype: video/fli
+  XV.EXE:
+    mimetype: application/x-msdos-program

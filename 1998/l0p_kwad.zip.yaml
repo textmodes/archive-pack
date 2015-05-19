@@ -1,0 +1,18 @@
+name: l0p_kwad.zip
+hash: eed65d949a254fb041d138fa9126ddd2
+year: 1998
+file:
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  L0P_KWAD.ASC:
+    mimetype: text/plain
+  L0P_NEWS.NFO:
+    mimetype: text/plain
+  THELO0P.APP:
+    mimetype: application/octet-stream
+  THELO0P.CTX:
+    mimetype: text/plain
+  THELO0P.NFO:
+    mimetype: text/plain
+  THELOOP.LVE:
+    mimetype: application/octet-stream

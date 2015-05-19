@@ -1,0 +1,48 @@
+name: ice9803a.zip
+hash: 74776c1957685429f93099f5619736f9
+year: 1998
+file:
+  -ANSI---.---:
+    mimetype: text/plain
+  -CONT'D-.---:
+    mimetype: text/plain
+  -LOGO---.---:
+    mimetype: text/plain
+  -STAT---.---:
+    mimetype: text/plain
+  C0-COLLY.ANS:
+    mimetype: text/plain
+  C0-GIRL.ANS:
+    mimetype: text/plain
+  C0-GP.ANS:
+    mimetype: text/plain
+  C0-ID.ANS:
+    mimetype: text/plain
+  C0-LI.ANS:
+    mimetype: text/plain
+  C0-PW.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FR-LOGO.ANS:
+    mimetype: text/plain
+  ICE-9803.DSC:
+    mimetype: text/plain
+  ICE-9803.MEM:
+    mimetype: text/plain
+  ICE-9803.NFO:
+    mimetype: text/plain
+  ICE-9803.SIT:
+    mimetype: text/plain
+  ICEVIEW.CNF:
+    mimetype: text/plain
+  ICEVIEW.DOC:
+    mimetype: text/plain
+  ICEVIEW.EXE:
+    mimetype: application/x-msdos-program
+  IV-PIF.DVP:
+    mimetype: application/octet-stream
+  PV.EXE:
+    mimetype: application/x-msdos-program
+  US-ICE.ICE:
+    mimetype: text/plain

@@ -1,0 +1,74 @@
+name: bleach02.zip
+hash: 643add95f1267a63b43493380b234bc5
+year: 1995
+file:
+  '%ANSI%':
+    mimetype: text/plain
+  '%APP%':
+    mimetype: text/plain
+  '%ASCII%':
+    mimetype: text/plain
+  '%INFO%':
+    mimetype: text/plain
+  '%OTHER%':
+    mimetype: text/plain
+  BLCHAPP.DAT:
+    mimetype: text/plain
+  BLCHAPP.EXE:
+    mimetype: application/x-msdos-program
+  BLEACH.OBJ:
+    mimetype: application/octet-stream
+  BLEACH02.MEM:
+    mimetype: text/plain
+  BLEACH02.NFO:
+    mimetype: text/plain
+  FA-BLCH.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  HUMA.COM:
+    mimetype: application/x-msdos-program
+  LD-BLCH1.ANS:
+    mimetype: text/plain
+  LD-BLCH2.ANS:
+    mimetype: text/plain
+  LD-BLCH3.ANS:
+    mimetype: text/plain
+  LD-CIA1.ANS:
+    mimetype: text/plain
+  LD-HUMA1.ANS:
+    mimetype: text/plain
+  LD-IC1.ANS:
+    mimetype: text/plain
+  LD-II1.ANS:
+    mimetype: text/plain
+  LD-POOP1.ANS:
+    mimetype: text/plain
+  LD-PSY1.ANS:
+    mimetype: text/plain
+  LD-QUE1.ANS:
+    mimetype: text/plain
+  LD-SF1.ANS:
+    mimetype: text/plain
+  LD-SPE1.ANS:
+    mimetype: text/plain
+  LD-SPE2.ANS:
+    mimetype: text/plain
+  LD-TNV1.ANS:
+    mimetype: text/plain
+  US-HAR.ASC:
+    mimetype: text/plain
+  UT-IC1.ASC:
+    mimetype: text/plain
+  VG-AQUA.ANS:
+    mimetype: text/plain
+  VG-HUMA.ANS:
+    mimetype: text/plain
+  VG-MIST.ANS:
+    mimetype: text/plain
+  VG-MIST2.ANS:
+    mimetype: text/plain
+  VG-MIST3.ANS:
+    mimetype: text/plain
+  VG-TCP.ANS:
+    mimetype: text/plain

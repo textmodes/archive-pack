@@ -1,0 +1,60 @@
+name: fuel17v.zip
+hash: 5e5602531fe8b5554c4b7142dee0fd15
+year: 1998
+file:
+  '---2D---.---':
+    mimetype: text/plain
+  '---3D---.---':
+    mimetype: text/plain
+  --INFO--.---:
+    mimetype: text/plain
+  ASS-ELEC.JPG:
+    mimetype: image/jpeg
+  CT-LOGOS.JPG:
+    mimetype: image/jpeg
+  EM-DINO.JPG:
+    mimetype: image/jpeg
+  EM-PSHAI.JPG:
+    mimetype: image/jpeg
+  EM-ROACH.JPG:
+    mimetype: image/jpeg
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FUEL17.MEM:
+    mimetype: text/plain
+  FUEL17.NFO:
+    mimetype: text/plain
+  G_ALIEN.JPG:
+    mimetype: image/jpeg
+  G_DOC.JPG:
+    mimetype: image/jpeg
+  G_PAIN.JPG:
+    mimetype: image/jpeg
+  G_SCREAM.JPG:
+    mimetype: image/jpeg
+  G_TWO.JPG:
+    mimetype: image/jpeg
+  GT-SHIP.JPG:
+    mimetype: image/jpeg
+  MK-BB.JPG:
+    mimetype: image/jpeg
+  MK-PGIRL.JPG:
+    mimetype: image/jpeg
+  MK-ROOM.JPG:
+    mimetype: image/jpeg
+  NF-FAKKE.JPG:
+    mimetype: image/jpeg
+  NF-FREAK.PCX:
+    mimetype: image/pcx
+  RE-COLLY.JPG:
+    mimetype: image/jpeg
+  RE-PHONE.JPG:
+    mimetype: image/jpeg
+  RE-T3D.JPG:
+    mimetype: image/jpeg
+  RE-VIPER.JPG:
+    mimetype: image/jpeg
+  WX-PYRMD.JPG:
+    mimetype: image/jpeg
+  WX-VLG.JPG:
+    mimetype: image/jpeg

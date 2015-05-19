@@ -1,0 +1,158 @@
+name: rmrs-05.zip
+hash: eb3b8d9c6bf361861029a66e5cdea866
+year: 1995
+file:
+  AS-ACID.ASC:
+    mimetype: text/plain
+  AS-AM.ASC:
+    mimetype: text/plain
+  AS-FUZE.ASC:
+    mimetype: text/plain
+  AS-G9.ASC:
+    mimetype: text/plain
+  CA-AGONY.ANS:
+    mimetype: text/plain
+  CA-EI2.ANS:
+    mimetype: text/plain
+  CA-ELEK1.ANS:
+    mimetype: text/plain
+  CA-HV2.ANS:
+    mimetype: text/plain
+  CA-NFO1.ANS:
+    mimetype: text/plain
+  CA-PRAY1.ANS:
+    mimetype: text/plain
+  CA-RMRS.ASC:
+    mimetype: text/plain
+  CA-TDS1.ANS:
+    mimetype: text/plain
+  CR-ALIEN.ASC:
+    mimetype: text/plain
+  CR-BN.ASC:
+    mimetype: text/plain
+  CR-INT.ASC:
+    mimetype: text/plain
+  CR-LW.ASC:
+    mimetype: text/plain
+  CR-LW2.ASC:
+    mimetype: text/plain
+  CR-RMRS.ASC:
+    mimetype: text/plain
+  CR-RW.ASC:
+    mimetype: text/plain
+  CR-SOS.ASC:
+    mimetype: text/plain
+  CR-SWCHA.ASC:
+    mimetype: text/plain
+  CR-SYNTH.ANS:
+    mimetype: text/plain
+  CR-UNI.ASC:
+    mimetype: text/plain
+  EP-ALTER.ANS:
+    mimetype: text/plain
+  EP-EVOL.ANS:
+    mimetype: text/plain
+  EP-NEORE.ANS:
+    mimetype: text/plain
+  EP-PARAL.ANS:
+    mimetype: text/plain
+  EP-THEIF.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FS-FAIL.ASC:
+    mimetype: text/plain
+  FS-HOTH.ASC:
+    mimetype: text/plain
+  FS-REBEL.ASC:
+    mimetype: text/plain
+  FS-TBR.ASC:
+    mimetype: text/plain
+  FS-TIME.ASC:
+    mimetype: text/plain
+  FS-TRA.ASC:
+    mimetype: text/plain
+  FS-UFATE.ASC:
+    mimetype: text/plain
+  FS-WHO.ANS:
+    mimetype: text/plain
+  HP-AVGA1.ANS:
+    mimetype: text/plain
+  HP-CARP1.ASC:
+    mimetype: text/plain
+  HP-TSS1.ANS:
+    mimetype: text/plain
+  KK-BAR.ASC:
+    mimetype: text/plain
+  KK-CANT.ASC:
+    mimetype: text/plain
+  KK-RMRS.ASC:
+    mimetype: text/plain
+  MK-HUMA.ASC:
+    mimetype: text/plain
+  MP-RMRS1.ANS:
+    mimetype: text/plain
+  NO-BARA1.ANS:
+    mimetype: text/plain
+  NO-BARA2.ANS:
+    mimetype: text/plain
+  NO-RMRS1.ANS:
+    mimetype: text/plain
+  NO-RMRS2.ANS:
+    mimetype: text/plain
+  NO-RMRS3.ANS:
+    mimetype: text/plain
+  NO-RMRS4.ANS:
+    mimetype: text/plain
+  NO-TJ1.ANS:
+    mimetype: text/plain
+  NO-TJ2.ASC:
+    mimetype: text/plain
+  NO-TRM.ASC:
+    mimetype: text/plain
+  REMORSE.NFO:
+    mimetype: text/plain
+  SK-AD!.ASC:
+    mimetype: text/plain
+  SK-DH.ASC:
+    mimetype: text/plain
+  SK-SCONF.ASC:
+    mimetype: text/plain
+  SS-HARM.ASC:
+    mimetype: text/plain
+  SS-POD.ASC:
+    mimetype: text/plain
+  ST-GP.ANS:
+    mimetype: text/plain
+  ST-TP.ANS:
+    mimetype: text/plain
+  WD-AC.ASC:
+    mimetype: text/plain
+  WD-BE.ASC:
+    mimetype: text/plain
+  WD-DIZ.ASC:
+    mimetype: text/plain
+  WD-DV.ANS:
+    mimetype: text/plain
+  WD-DV.ASC:
+    mimetype: text/plain
+  WD-EN.ASC:
+    mimetype: text/plain
+  WD-ENUN.ASC:
+    mimetype: text/plain
+  WD-IT.ASC:
+    mimetype: text/plain
+  WD-KTS.ASC:
+    mimetype: text/plain
+  WD-LICE.ASC:
+    mimetype: text/plain
+  WD-ML.ASC:
+    mimetype: text/plain
+  WD-MNU.ASC:
+    mimetype: text/plain
+  WD-RMRS.ASC:
+    mimetype: text/plain
+  WD-STIG.ASC:
+    mimetype: text/plain
+  WD-TRM.ASC:
+    mimetype: text/plain

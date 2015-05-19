@@ -1,0 +1,48 @@
+name: pfc-3.zip
+hash: 29a357ad73e6e379df8c627cb3d10206
+year: 1999
+file:
+  --PACK--.NFO:
+    mimetype: text/plain
+  --PFC--.APL:
+    mimetype: text/plain
+  --PFC--.NFO:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GD-1.JPG:
+    mimetype: image/jpeg
+  GD-2.JPG:
+    mimetype: image/jpeg
+  GD-3.JPG:
+    mimetype: image/jpeg
+  GD-4.JPG:
+    mimetype: image/jpeg
+  GD-69.JPG:
+    mimetype: image/jpeg
+  KPN-FUK.RIP:
+    mimetype: image/x-rip
+  LEM-FONT.JPG:
+    mimetype: image/jpeg
+  SUB^DAFT.ASC:
+    mimetype: text/plain
+  SUB^DP.DIZ:
+    mimetype: text/plain
+  SUB^HARM.ASC:
+    mimetype: text/plain
+  SUB^HRM2.ASC:
+    mimetype: text/plain
+  SUB^PP.DIZ:
+    mimetype: text/plain
+  SUB^VDP.ASC:
+    mimetype: text/plain
+  ZM-B&B.GIF:
+    mimetype: image/gif
+  ZM-HEAD.GIF:
+    mimetype: image/gif
+  ZM-INTRO.GIF:
+    mimetype: image/gif
+  ZM-SMR.GIF:
+    mimetype: image/gif
+  ZM-SPDRS.GIF:
+    mimetype: image/gif

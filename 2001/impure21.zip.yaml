@@ -1,0 +1,42 @@
+name: impure21.zip
+hash: da822327879f7d8cbcc9794d020ac413
+year: 2001
+file:
+  AB-ASKY.TXT:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  IMPURE21.INF:
+    mimetype: text/plain
+  IMPURE21.MEM:
+    mimetype: text/plain
+  IMPURE21.REL:
+    mimetype: text/plain
+  PO-APLAN.TXT:
+    mimetype: text/plain
+  PO-IMP.ASC:
+    mimetype: text/plain
+  PO-SMILE.ASC:
+    mimetype: text/plain
+  SLO-9TH.ZIP:
+    mimetype: application/zip
+  SLO-GLP.ASC:
+    mimetype: text/plain
+  SPF-IMPS.ASC:
+    mimetype: text/plain
+  SPF-INSO.ASC:
+    mimetype: text/plain
+  US-IMP.ASC:
+    mimetype: text/plain
+  US-MIMIC.ASC:
+    mimetype: text/plain
+  US-REQ.ASC:
+    mimetype: text/plain
+  US-SPRL.ASC:
+    mimetype: text/plain
+  US-ZULO.ASC:
+    mimetype: text/plain
+  ZI-ADV.ASC:
+    mimetype: text/plain
+  ZI-IMP.ASC:
+    mimetype: text/plain

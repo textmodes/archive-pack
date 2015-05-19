@@ -1,0 +1,12 @@
+name: aaa-vol2.zip
+hash: 0cc9b9389e54b6cca4bb7e7d8e8c35c6
+year: 1992
+file:
+  AAA-iNFO.TXT:
+    mimetype: text/plain
+  INTSTACK.ANS:
+    mimetype: text/plain
+  LASA-AAA.ANS:
+    mimetype: text/plain
+  NUCWASTE.ANS:
+    mimetype: text/plain

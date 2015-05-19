@@ -1,0 +1,86 @@
+name: gs_art03.zip
+hash: d5bd3b9bdbeec68efec694ebcf936d0c
+year: 1999
+file:
+  ANG-LOG1.JPG:
+    mimetype: image/jpeg
+  ANG-MANW.ASC:
+    mimetype: text/plain
+  ANG-NRAY.ASC:
+    mimetype: text/plain
+  ANG-SAND.ASC:
+    mimetype: text/plain
+  ANG-SPRO.ASC:
+    mimetype: text/plain
+  AS-APOF.JPG:
+    mimetype: image/jpeg
+  AS-KOSMO.JPG:
+    mimetype: image/jpeg
+  AS-LAVRA.JPG:
+    mimetype: image/jpeg
+  AS-PRIV.JPG:
+    mimetype: image/jpeg
+  BZ-4APP.JPG:
+    mimetype: image/jpeg
+  BZ-B0NER.ASC:
+    mimetype: text/plain
+  BZ-BIRD.ASC:
+    mimetype: text/plain
+  BZ-BIRTH.ASC:
+    mimetype: text/plain
+  BZ-E^T_G.JPG:
+    mimetype: image/jpeg
+  BZ-GINNY.JPG:
+    mimetype: image/jpeg
+  BZ-HEE.ASC:
+    mimetype: text/plain
+  BZ-HIREZ.JPG:
+    mimetype: image/jpeg
+  BZ-HRG.ANS:
+    mimetype: text/plain
+  BZ-HRG.ASC:
+    mimetype: text/plain
+  BZ-ID.ASC:
+    mimetype: text/plain
+  BZ-IGGG.ASC:
+    mimetype: text/plain
+  BZ-KELT.ASC:
+    mimetype: text/plain
+  BZ-KIDS.JPG:
+    mimetype: image/jpeg
+  BZ-KRAFT.JPG:
+    mimetype: image/jpeg
+  BZ-MISS.ASC:
+    mimetype: text/plain
+  BZ-OFFMI.JPG:
+    mimetype: image/jpeg
+  BZ-OOPS.JPG:
+    mimetype: image/jpeg
+  BZ-PUZZL.JPG:
+    mimetype: image/jpeg
+  BZ-RUHRG.JPG:
+    mimetype: image/jpeg
+  BZ-SMP_T.ASC:
+    mimetype: text/plain
+  BZ-US.ASC:
+    mimetype: text/plain
+  BZ-WOOH_.JPG:
+    mimetype: image/jpeg
+  BZ-ZOMB.JPG:
+    mimetype: image/jpeg
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GRUNGE.NFO:
+    mimetype: text/plain
+  GRUNGE_R.NFO:
+    mimetype: text/plain
+  GS-ART03.NFO:
+    mimetype: text/plain
+  GS_FONT.COM:
+    mimetype: application/x-msdos-program
+  IDL-SOAP.JPG:
+    mimetype: image/jpeg
+  IDL-WRKP.JPG:
+    mimetype: image/jpeg
+  WIN98.FNT:
+    mimetype: application/octet-stream

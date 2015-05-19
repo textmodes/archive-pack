@@ -1,0 +1,58 @@
+name: aart25.zip
+hash: 5884d5fc372b8473ada258481e920970
+year: 1993
+file:
+  ARTIST.DAT:
+    mimetype: application/octet-stream
+  ARTIST.DOC:
+    mimetype: text/plain
+  ARTIST.EXE:
+    mimetype: application/x-msdos-program
+  ARTIST.HLP:
+    mimetype: application/octet-stream
+  ARTIST.OVR:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FLASH2.ANS:
+    mimetype: text/plain
+  FORMATS.DOC:
+    mimetype: text/plain
+  GREEKMAT.SET:
+    mimetype: application/octet-stream
+  GUIDE.DOC:
+    mimetype: text/plain
+  HISTORY.DOC:
+    mimetype: text/plain
+  HOTKEYS.DOC:
+    mimetype: text/plain
+  MONITOR1.COM:
+    mimetype: application/x-msdos-program
+  ORDER.FRM:
+    mimetype: text/plain
+  PACKAGE.LST:
+    mimetype: text/plain
+  PRINTDOC.EXE:
+    mimetype: application/x-msdos-program
+  README.DOC:
+    mimetype: text/plain
+  README.EXE:
+    mimetype: application/x-msdos-program
+  SMURF.ANS:
+    mimetype: text/plain
+  STANDARD.SET:
+    mimetype: application/octet-stream
+  STANDARD.TAB:
+    mimetype: application/octet-stream
+  TEN.TAB:
+    mimetype: application/octet-stream
+  TEST.VAR:
+    mimetype: application/octet-stream
+  TOUCH.ANS:
+    mimetype: text/plain
+  VOGUE.ANS:
+    mimetype: text/plain
+  WC2.DFF:
+    mimetype: text/plain
+  WC3.DFF:
+    mimetype: application/octet-stream

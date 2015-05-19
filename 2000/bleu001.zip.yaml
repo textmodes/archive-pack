@@ -1,0 +1,54 @@
+name: bleu001.zip
+hash: 6a9ad97829d8e03e51134d2e21976bd2
+year: 2000
+file:
+  BLEU-MEM.ANS:
+    mimetype: text/plain
+  BLEUNEWS.ANS:
+    mimetype: text/plain
+  CG-MONO.ANS:
+    mimetype: text/plain
+  D0-BLEU.ASC:
+    mimetype: text/plain
+  D0-JUDAS.ASC:
+    mimetype: text/plain
+  D0-PRST.ASC:
+    mimetype: text/plain
+  DD-BLEU1.ANS:
+    mimetype: text/plain
+  DR-BLEU.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GO-BLEU.ANS:
+    mimetype: text/plain
+  HEHHE.JPG:
+    mimetype: image/jpeg
+  KTPR-ICE.ANS:
+    mimetype: text/plain
+  MAY-INHL.ANS:
+    mimetype: text/plain
+  MAY-PREV.ANS:
+    mimetype: text/plain
+  MAY-VOD.ANS:
+    mimetype: text/plain
+  MAY-WM.ANS:
+    mimetype: text/plain
+  NS-BLUE1.ANS:
+    mimetype: text/plain
+  NS-FAMVA.ASC:
+    mimetype: text/plain
+  PR-22OWN.ANS:
+    mimetype: text/plain
+  PR-HELL4.ANS:
+    mimetype: text/plain
+  PR-XTC.ANS:
+    mimetype: text/plain
+  US-BLEU.ANS:
+    mimetype: text/plain
+  US-EX1.ANS:
+    mimetype: text/plain
+  US-ND.ANS:
+    mimetype: text/plain
+  WO-TCOAT.ANS:
+    mimetype: text/plain

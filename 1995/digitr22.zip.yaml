@@ -1,0 +1,42 @@
+name: digitr22.zip
+hash: 60feb351ca5ee44c494c5ef28912daba
+year: 1995
+file:
+  3DREALMS.EXE:
+    mimetype: application/x-msdos-program
+  BUGJES.TXT:
+    mimetype: text/plain
+  DIGITRAK.CFG:
+    mimetype: application/octet-stream
+  DIGITRAK.EXE:
+    mimetype: application/x-msdos-program
+  DIGITRAK.HLP:
+    mimetype: application/octet-stream
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FORMAT.TXT:
+    mimetype: text/plain
+  FREEPUKE.EXE:
+    mimetype: application/x-msdos-program
+  GET-DOWN.NOW:
+    mimetype: text/plain
+  IMAGINAT.ION:
+    mimetype: text/plain
+  N-F'95.NFO:
+    mimetype: text/plain
+  NEO.COM:
+    mimetype: application/x-msdos-program
+  REGISTER.TXT:
+    mimetype: text/plain
+  ST-1ST.COM:
+    mimetype: application/x-msdos-program
+  STARGATE.EXE:
+    mimetype: application/x-msdos-program
+  ULTRA.MDL:
+    mimetype: audio/x-mod
+  WAXME.COM:
+    mimetype: application/x-msdos-program
+  WHATSNEW.TXT:
+    mimetype: text/plain
+  WHOTRADE.COM:
+    mimetype: application/x-msdos-program

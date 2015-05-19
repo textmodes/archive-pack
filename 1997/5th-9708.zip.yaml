@@ -1,0 +1,30 @@
+name: 5th-9708.zip
+hash: 2427f2421009b3bf3e1f3bf8451027fe
+year: 1997
+file:
+  5TH-9708.NFO:
+    mimetype: text/plain
+  5THAPP.EXE:
+    mimetype: application/x-msdos-program
+  EM-PMASK.ANS:
+    mimetype: text/plain
+  EM-PMOON.ANS:
+    mimetype: text/plain
+  EM-PRED.ANS:
+    mimetype: text/plain
+  EM-PVIEW.ANS:
+    mimetype: text/plain
+  EMPTY.VEE:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FRIKADEL.LE:
+    mimetype: text/plain
+  IRIDIUM.NFO:
+    mimetype: text/plain
+  LK-FRT01.JPG:
+    mimetype: image/jpeg
+  LK-PRD01.JPG:
+    mimetype: image/jpeg
+  MOLEST.ME:
+    mimetype: text/plain

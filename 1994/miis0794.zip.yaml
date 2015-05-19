@@ -1,0 +1,62 @@
+name: miis0794.zip
+hash: 02790b5bfb95ce21ad58ebede4747a75
+year: 1994
+file:
+  CH-MOUNT.MOD:
+    mimetype: audio/x-mod
+  CH-TOEJM.MOD:
+    mimetype: audio/x-mod
+  CH-WEIRD.MOD:
+    mimetype: audio/x-mod
+  DISTRO.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  LA-D&C.ANS:
+    mimetype: text/plain
+  LA-PR.ANS:
+    mimetype: text/plain
+  LA-T8N.ANS:
+    mimetype: text/plain
+  LA-TS2.ANS:
+    mimetype: text/plain
+  MEMBER.ANS:
+    mimetype: text/plain
+  MIISAPP.ZIP:
+    mimetype: application/zip
+  MIISVIEW.EXE:
+    mimetype: application/x-msdos-program
+  MK-DR1.ANS:
+    mimetype: text/plain
+  MK-EVE.ANS:
+    mimetype: text/plain
+  MK-HM1.DBL:
+    mimetype: text/plain
+  MK-MIIS1.ANS:
+    mimetype: text/plain
+  MK-SHDW1.ANS:
+    mimetype: text/plain
+  MK-SR3.DBL:
+    mimetype: text/plain
+  NEOTOKYO.ANS:
+    mimetype: text/plain
+  TE-BAB.ANS:
+    mimetype: text/plain
+  TE-CYAN.ANS:
+    mimetype: text/plain
+  TE-NEUR.ANS:
+    mimetype: text/plain
+  TE-TDS.ANS:
+    mimetype: text/plain
+  TE-TGT.ANS:
+    mimetype: text/plain
+  TE-TRAM.ANS:
+    mimetype: text/plain
+  TE-TSA.ANS:
+    mimetype: text/plain
+  TH-CREAM.MTM:
+    mimetype: audio/x-mod
+  TH-MIIS.EXE:
+    mimetype: application/x-msdos-program
+  VIEWER.NFO:
+    mimetype: text/plain

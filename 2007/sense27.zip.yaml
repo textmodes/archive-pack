@@ -1,0 +1,56 @@
+name: sense27.zip
+hash: 111e08d497a214ba92c3f36fcb5a40e9
+year: 2007
+file:
+  43-alove.ans:
+    mimetype: text/plain
+  43-e251.ans:
+    mimetype: text/plain
+  43-nooz.ans:
+    mimetype: text/plain
+  avg-27ic1.ans:
+    mimetype: text/plain
+  avg-250wide.bin:
+    mimetype: application/octet-stream
+  avg-owned.ans:
+    mimetype: text/plain
+  avg-pc1.ans:
+    mimetype: text/plain
+  avg-sen27.ans:
+    mimetype: text/plain
+  cg_pic.ans:
+    mimetype: text/plain
+  cg_real.ans:
+    mimetype: text/plain
+  cg_sc.ans:
+    mimetype: text/plain
+  del-sns.ans:
+    mimetype: text/plain
+  file_id.diz:
+    mimetype: text/plain
+  k1-sense.ans:
+    mimetype: text/plain
+  news27.ans:
+    mimetype: text/plain
+  smi-ar.ans:
+    mimetype: text/plain
+  us-27tri.ans:
+    mimetype: text/plain
+  us-alov.ans:
+    mimetype: text/plain
+  us-drugz.ans:
+    mimetype: text/plain
+  us-dsorro.ans:
+    mimetype: text/plain
+  us-join.ans:
+    mimetype: text/plain
+  us-nsigma.ans:
+    mimetype: text/plain
+  us-poly.ans:
+    mimetype: text/plain
+  us-rmrs1.ans:
+    mimetype: text/plain
+  us-spleen.ans:
+    mimetype: text/plain
+  us-world.ans:
+    mimetype: text/plain

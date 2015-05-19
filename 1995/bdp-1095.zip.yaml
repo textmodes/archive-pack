@@ -1,0 +1,106 @@
+name: bdp-1095.zip
+hash: 415b6cfea16156470d0eeb600f0a755b
+year: 1995
+file:
+  AC-FAINT.LIT:
+    mimetype: text/plain
+  AC-STND.LIT:
+    mimetype: text/plain
+  BDP-1095.MEM:
+    mimetype: text/plain
+  BDP-1095.NWS:
+    mimetype: text/plain
+  BDPAPP.EXE:
+    mimetype: application/x-msdos-program
+  BDPREQ.EXE:
+    mimetype: application/x-msdos-program
+  BE-1995.LIT:
+    mimetype: text/plain
+  BE-CONV1.LIT:
+    mimetype: text/plain
+  BE-NITE.LIT:
+    mimetype: text/plain
+  BE-NOTE.LIT:
+    mimetype: text/plain
+  BE-SIOUX.LIT:
+    mimetype: text/plain
+  BE-TRIAN.LIT:
+    mimetype: text/plain
+  BE-WISH.LIT:
+    mimetype: text/plain
+  BEFFEN.ANS:
+    mimetype: text/plain
+  CO-BSR.ANS:
+    mimetype: text/plain
+  CO-CATS1.ANS:
+    mimetype: text/plain
+  CO-CATS2.ANS:
+    mimetype: text/plain
+  CO-CATSX.ANS:
+    mimetype: text/plain
+  CO-CHAT.ANS:
+    mimetype: text/plain
+  CO-COW.ANS:
+    mimetype: text/plain
+  CO-MAIN.ANS:
+    mimetype: text/plain
+  CO-MG.LIT:
+    mimetype: text/plain
+  CO-MP.ANS:
+    mimetype: text/plain
+  CO-NAS.LIT:
+    mimetype: text/plain
+  CO-PC.ANS:
+    mimetype: text/plain
+  CO-PL.ANS:
+    mimetype: text/plain
+  CO-RAE.ANS:
+    mimetype: text/plain
+  CO-SG.ANS:
+    mimetype: text/plain
+  CO-SHAOL.ANS:
+    mimetype: text/plain
+  CO-WU.ANS:
+    mimetype: text/plain
+  CRIME.EXE:
+    mimetype: application/x-msdos-program
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GS-TPY.ASC:
+    mimetype: text/plain
+  MK-ACID.LIT:
+    mimetype: text/plain
+  MK-FUCK.LIT:
+    mimetype: text/plain
+  MK-RMNA.LIT:
+    mimetype: text/plain
+  !!binary UCRZQ0itQy5DT00=:
+    mimetype: application/x-msdos-program
+  PSYCHIC.EXE:
+    mimetype: application/x-msdos-program
+  PSYCHIC.NFO:
+    mimetype: text/plain
+  RC-CITY.ANS:
+    mimetype: text/plain
+  RC-CYBER.ANS:
+    mimetype: text/plain
+  RC-DOPE.ANS:
+    mimetype: text/plain
+  RC-NYC.ANS:
+    mimetype: text/plain
+  RC-PROM3.ANS:
+    mimetype: text/plain
+  RC-SIND2.ANS:
+    mimetype: text/plain
+  RC-SINDR.ANS:
+    mimetype: text/plain
+  READ-DOX.COM:
+    mimetype: application/x-msdos-program
+  SETUP.TXT:
+    mimetype: text/plain
+  SUKKER.ASC:
+    mimetype: text/plain
+  US-BYTE.ANS:
+    mimetype: text/plain
+  WELCO.ANS:
+    mimetype: text/plain

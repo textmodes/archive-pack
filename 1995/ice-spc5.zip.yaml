@@ -1,0 +1,16 @@
+name: ice-spc5.zip
+hash: 2c799eabb4881e7110d2b4c556a9aed4
+year: 1995
+file:
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  HEAVEN.ANS:
+    mimetype: text/plain
+  REBLSHIP.SMK:
+    mimetype: text/plain
+  REBLSHIP.TXT:
+    mimetype: text/plain
+  RUNME.BAT:
+    mimetype: application/x-msdos-program
+  SMACKPLY.EXE:
+    mimetype: application/x-msdos-program

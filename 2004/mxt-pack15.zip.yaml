@@ -1,0 +1,52 @@
+name: mxt-pack15.zip
+hash: 76ffb192d65e001086c3a36dc33ad63f
+year: 2004
+file:
+  ASCII/MX-DECEP.ASC:
+    mimetype: text/plain
+  ASCII/MX-GITS2.ASC:
+    mimetype: text/plain
+  ASCII/MX-LNDI2.ASC:
+    mimetype: text/plain
+  ASCII/MX-NCAT.ASC:
+    mimetype: text/plain
+  ASCII/MX-NTECH.ASC:
+    mimetype: text/plain
+  ASCII/MX-PHXIS.ASC:
+    mimetype: text/plain
+  ASCII/MX-RADMA.ASC:
+    mimetype: text/plain
+  ASCII/MX-RDEMO.ASC:
+    mimetype: text/plain
+  ASCII/MX-SAL1.ASC:
+    mimetype: text/plain
+  ASCII/MX-SYMPA.ASC:
+    mimetype: text/plain
+  FILE-ID.DIZ:
+    mimetype: text/plain
+  HIREZ/mx-api-logo-small.gif:
+    mimetype: image/gif
+  HIREZ/mx-dreamerx-logo.gif:
+    mimetype: image/gif
+  HIREZ/mx-idiana-logo.jpg:
+    mimetype: image/jpeg
+  HIREZ/mx-idiana-logo2.jpg:
+    mimetype: image/jpeg
+  HIREZ/mx-myth-installer-2004.JPG:
+    mimetype: image/jpeg
+  HIREZ/mx-projectx-trainer-logo.JPG:
+    mimetype: image/jpeg
+  HIREZ/mx-quartex-bwlogo.gif:
+    mimetype: image/gif
+  HIREZ/mx-razor-misc-logo.jpg:
+    mimetype: image/jpeg
+  HIREZ/mx-razor-tree-logo.jpg:
+    mimetype: image/jpeg
+  HIREZ/mx-razordemo-wall1.jpg:
+    mimetype: image/jpeg
+  HIREZ/mx-rising-sun-logo1.gif:
+    mimetype: image/gif
+  HIREZ/mx-vengeance-trainer-ui-main.gif:
+    mimetype: image/gif
+  MAXXTRO.NFO:
+    mimetype: text/plain

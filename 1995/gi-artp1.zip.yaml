@@ -1,0 +1,40 @@
+name: gi-artp1.zip
+hash: 9bef14cb4510f535f791340c31e64b44
+year: 1995
+file:
+  BBS_ADDY.COM:
+    mimetype: application/x-msdos-program
+  BROEKJE.EXE:
+    mimetype: application/x-msdos-program
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GI-3AM4L.ANS:
+    mimetype: text/plain
+  GI-3AMCL.ANS:
+    mimetype: text/plain
+  GI-3AMLG.ANS:
+    mimetype: text/plain
+  GI-BOOM.ANS:
+    mimetype: text/plain
+  GI-DSCEN.ANS:
+    mimetype: text/plain
+  GI-EXPRD.ANS:
+    mimetype: text/plain
+  GI-FLYHI.ANS:
+    mimetype: text/plain
+  GI-GOLD1.ANS:
+    mimetype: text/plain
+  GI-MODHE.ANS:
+    mimetype: text/plain
+  GI-MOMLG.ANS:
+    mimetype: text/plain
+  GI-OCTBL.ANS:
+    mimetype: text/plain
+  GI-OCTRD.ANS:
+    mimetype: text/plain
+  GI-SBIA.ANS:
+    mimetype: text/plain
+  GI-VENUS.ANS:
+    mimetype: text/plain
+  GI_ARTP1.NFO:
+    mimetype: text/plain

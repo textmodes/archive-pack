@@ -1,0 +1,24 @@
+name: refusal.zip
+hash: 2a66d7e56aeb0570f03ca13ab0bee52e
+year: 1999
+file:
+  00.ANS:
+    mimetype: text/plain
+  01.BIN:
+    mimetype: text/x-binary
+  02.ANS:
+    mimetype: text/plain
+  03.ANS:
+    mimetype: text/plain
+  04.ANS:
+    mimetype: text/plain
+  05.ANS:
+    mimetype: text/plain
+  06.ANS:
+    mimetype: text/plain
+  07.ANS:
+    mimetype: text/plain
+  08.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain

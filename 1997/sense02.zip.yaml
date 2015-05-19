@@ -1,0 +1,42 @@
+name: sense02.zip
+hash: 315206a628bd3881933220ef15169f3a
+year: 1997
+file:
+  CAUSTIC.ZIP:
+    mimetype: application/zip
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  PC-COLY2.ANS:
+    mimetype: text/plain
+  PC-DOODL.ANS:
+    mimetype: text/plain
+  PC-DUCKY.ANS:
+    mimetype: text/plain
+  PC-FROG.ANS:
+    mimetype: text/plain
+  PC-FUNKY.ANS:
+    mimetype: text/plain
+  PC-LOGIN.ANS:
+    mimetype: text/plain
+  PC-TRANS.ANS:
+    mimetype: text/plain
+  PC-URANU.ANS:
+    mimetype: text/plain
+  PX-A51.ANS:
+    mimetype: text/plain
+  PX-LOGO.ANS:
+    mimetype: text/plain
+  PX-NIN.ANS:
+    mimetype: text/plain
+  PX-PEPSI.ANS:
+    mimetype: text/plain
+  PX-TSPO.ANS:
+    mimetype: text/plain
+  PX_COLLY.ANS:
+    mimetype: text/plain
+  RZ-INFO.ANS:
+    mimetype: text/plain
+  SENSE02.NEW:
+    mimetype: text/plain
+  WARP.RIP:
+    mimetype: image/x-rip

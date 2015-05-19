@@ -1,0 +1,112 @@
+name: insm0496.zip
+hash: 2d493679ac0968613a6ce4e4b752c72a
+year: 1996
+file:
+  ALL-INS3.ANS:
+    mimetype: text/plain
+  APP.EXE:
+    mimetype: application/x-msdos-program
+  DH-ALMAD.ANS:
+    mimetype: text/plain
+  DH-ALMEN.ANS:
+    mimetype: text/plain
+  DH-CYLIN.ANS:
+    mimetype: text/plain
+  DH-FORB1.ANS:
+    mimetype: text/plain
+  DH-FORB2.ANS:
+    mimetype: text/plain
+  DH-FORB3.ANS:
+    mimetype: text/plain
+  DH-FORB4.ANS:
+    mimetype: text/plain
+  DH-HELL.ANS:
+    mimetype: text/plain
+  DH-HELL2.ANS:
+    mimetype: text/plain
+  DH-HELL3.ANS:
+    mimetype: text/plain
+  DH-HOME2.ANS:
+    mimetype: text/plain
+  DH-INS2.ANS:
+    mimetype: text/plain
+  DH-MOUSE.ANS:
+    mimetype: text/plain
+  DH-TRILO.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  INSM0496.ANS:
+    mimetype: text/plain
+  INSOMNIA.NFO:
+    mimetype: text/plain
+  JP-FSW1.ANS:
+    mimetype: text/plain
+  JP-INS2.ANS:
+    mimetype: text/plain
+  JP-INS3.ANS:
+    mimetype: text/plain
+  JP-LI1.ASC:
+    mimetype: text/plain
+  JP-LI2.ANS:
+    mimetype: text/plain
+  JP-MA.ANS:
+    mimetype: text/plain
+  MJ-ES.ASC:
+    mimetype: text/plain
+  MJ-HTENT.ANS:
+    mimetype: text/plain
+  MJ-HTENT.ASC:
+    mimetype: text/plain
+  MJ-INS.ASC:
+    mimetype: text/plain
+  MJ-NOTE.ASC:
+    mimetype: text/plain
+  MJ-SIG.ASC:
+    mimetype: text/plain
+  MJ-TDSS.ASC:
+    mimetype: text/plain
+  MJ-TDSS2.ASC:
+    mimetype: text/plain
+  MJ-TDSS3.ASC:
+    mimetype: text/plain
+  MX-UNDRG.ANS:
+    mimetype: text/plain
+  REQUEST.INS:
+    mimetype: application/octet-stream
+  SS-BAD.RIP:
+    mimetype: image/x-rip
+  SS-BOO!.RIP:
+    mimetype: image/x-rip
+  SS-INS.ASC:
+    mimetype: text/plain
+  SS-INS1.ANS:
+    mimetype: text/plain
+  SS-INS2.JPG:
+    mimetype: image/jpeg
+  SS-INS3.GIF:
+    mimetype: image/gif
+  SS-INS10.GIF:
+    mimetype: image/gif
+  SS-INS11.GIF:
+    mimetype: image/gif
+  SS-INS12.GIF:
+    mimetype: image/gif
+  SS-INS13.GIF:
+    mimetype: image/gif
+  SS-INSO9.GIF:
+    mimetype: image/gif
+  SS-INSOM.GIF:
+    mimetype: image/gif
+  SS-MESS.RIP:
+    mimetype: image/x-rip
+  SS-MZK.ANS:
+    mimetype: text/plain
+  SS-SAGA!.ANS:
+    mimetype: text/plain
+  SS-SMILE.ANS:
+    mimetype: text/plain
+  SS-STMP.GIF:
+    mimetype: image/gif
+  TP-INS.JPG:
+    mimetype: image/jpeg

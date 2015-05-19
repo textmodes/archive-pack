@@ -1,0 +1,40 @@
+name: rbt003.zip
+hash: 4149cdc83a0ea5702f079ef45a63e0b1
+year: 2005
+file:
+  file_id.diz:
+    mimetype: text/plain
+  hi-rez/nf-2k5hr.jpg:
+    mimetype: image/jpeg
+  hi-rez/ra-dgtl.jpg:
+    mimetype: image/jpeg
+  hi-rez/ra-dstar.png:
+    mimetype: image/png
+  litz/astery-strange.lit:
+    mimetype: text/plain
+  litz/fd-autumn.lit:
+    mimetype: text/plain
+  low-rez/nf-2k5-2.ans:
+    mimetype: text/plain
+  low-rez/nf-2k5-3.ans:
+    mimetype: text/plain
+  low-rez/nf-2k5.ans:
+    mimetype: text/plain
+  low-rez/nf_2k5_4.ans:
+    mimetype: text/plain
+  low-rez/pp-gzagrt.ans:
+    mimetype: text/plain
+  low-rez/pp-satisf.ans:
+    mimetype: text/plain
+  low-rez/ra-antic.ans:
+    mimetype: text/plain
+  low-rez/ra-koob.ans:
+    mimetype: text/plain
+  low-rez/s$-rbt.asc:
+    mimetype: text/plain
+  low-rez/s&-rbtnfo.asc:
+    mimetype: text/plain
+  low-rez/s&-scru.asc:
+    mimetype: text/plain
+  rebirth.nfo:
+    mimetype: text/plain

@@ -1,0 +1,66 @@
+name: ete-1193.zip
+hash: 08e413c76e198fe0d26655d7a47194cd
+year: 1993
+file:
+  APPLY.COM:
+    mimetype: application/x-msdos-program
+  ARCHIVE.NFO:
+    mimetype: text/plain
+  ETE-1193.NFO:
+    mimetype: text/plain
+  ETE-APP.DOC:
+    mimetype: text/plain
+  ETE-APP.EXE:
+    mimetype: application/x-msdos-program
+  ETE_DESC.DAT:
+    mimetype: text/plain
+  ETE1193.ETE:
+    mimetype: text/plain
+  EV.DOC:
+    mimetype: text/plain
+  EV.EXE:
+    mimetype: application/x-msdos-program
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FUN!.COM:
+    mimetype: application/x-msdos-program
+  HOP.DIS:
+    mimetype: text/plain
+  LI-ETE1.ETE:
+    mimetype: text/plain
+  LI-ETE2.ETE:
+    mimetype: text/plain
+  LI-ETE3.ETE:
+    mimetype: text/plain
+  LNET004.ZIP:
+    mimetype: application/zip
+  LUPUS.NFO:
+    mimetype: text/plain
+  MA-CD.ETE:
+    mimetype: text/plain
+  MA-COR.ETE:
+    mimetype: text/plain
+  MA-DH.ETE:
+    mimetype: text/plain
+  MA-EAD.ETE:
+    mimetype: text/plain
+  MA-ELGO1.ETE:
+    mimetype: text/plain
+  MA-ELGO2.ETE:
+    mimetype: text/plain
+  MA-HP.ETE:
+    mimetype: text/plain
+  MA-MIND.ETE:
+    mimetype: text/plain
+  MA-TC.ETE:
+    mimetype: text/plain
+  MA-VI.ETE:
+    mimetype: text/plain
+  SOI-CHEM.ETE:
+    mimetype: text/plain
+  SOI-GP.ETE:
+    mimetype: text/plain
+  TXT2COM.DOC:
+    mimetype: text/plain
+  TXT2COM.EXE:
+    mimetype: application/x-msdos-program

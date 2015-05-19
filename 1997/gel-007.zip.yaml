@@ -1,0 +1,44 @@
+name: gel-007.zip
+hash: 95aeee687131fc365919c05e10d03ba2
+year: 1997
+file:
+  D5-CD.ANS:
+    mimetype: text/plain
+  D5-GEL.ANS:
+    mimetype: text/plain
+  D5-HADES.ANS:
+    mimetype: text/plain
+  D5-HEYMN.ANS:
+    mimetype: text/plain
+  D5-INCCL.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GEL.MEM:
+    mimetype: text/plain
+  GEL.NFO:
+    mimetype: text/plain
+  GEL.SIT:
+    mimetype: text/plain
+  GELAPP.EXE:
+    mimetype: application/x-msdos-program
+  GELVIEW.EXE:
+    mimetype: application/x-msdos-program
+  IC-BLIND.DIZ:
+    mimetype: text/plain
+  IC-BRDR.ANS:
+    mimetype: text/plain
+  IC-BYE.ANS:
+    mimetype: text/plain
+  IC-CFG.ANS:
+    mimetype: text/plain
+  IC-CHAT.ANS:
+    mimetype: text/plain
+  IC-DIZ.ANS:
+    mimetype: text/plain
+  IC-LASTC.ANS:
+    mimetype: text/plain
+  IC-LOGFF.ANS:
+    mimetype: text/plain
+  IC-PROT.ANS:
+    mimetype: text/plain

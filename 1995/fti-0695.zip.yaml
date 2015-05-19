@@ -1,0 +1,110 @@
+name: fti-0695.zip
+hash: 750c5c712ab3e7e91bfdb192e515aadb
+year: 1995
+file:
+  ^ART^:
+    mimetype: text/plain
+  ^LIT^:
+    mimetype: text/plain
+  ^MISC^:
+    mimetype: text/plain
+  ^MUSIC^:
+    mimetype: text/plain
+  AR-CNDX.LIT:
+    mimetype: text/plain
+  AR-CON.LIT:
+    mimetype: text/plain
+  AR-DM.LIT:
+    mimetype: text/plain
+  AR-DOH.LIT:
+    mimetype: text/plain
+  AR-KT2.LIT:
+    mimetype: text/plain
+  AR-ME.LIT:
+    mimetype: text/plain
+  AR-OBV1.LIT:
+    mimetype: text/plain
+  AR-RR.LIT:
+    mimetype: text/plain
+  AR-TAN.LIT:
+    mimetype: text/plain
+  AR-TI.LIT:
+    mimetype: text/plain
+  BETA_1-2.S3M:
+    mimetype: audio/x-mod
+  BUGJES.TXT:
+    mimetype: text/plain
+  CNDX-KT.ANS:
+    mimetype: text/plain
+  CZ-APEX.ANS:
+    mimetype: text/plain
+  CZ-CNDA.ANS:
+    mimetype: text/plain
+  DEATHOD.S3M:
+    mimetype: audio/x-mod
+  DS-REAS.LIT:
+    mimetype: text/plain
+  EEBRDM.PCB:
+    mimetype: text/plain
+  FDR-LP.ANS:
+    mimetype: text/plain
+  FDR-LTR.LIT:
+    mimetype: text/plain
+  FDR-LVPM.LIT:
+    mimetype: text/plain
+  FDR-RN.LIT:
+    mimetype: text/plain
+  FDR-SPZ.LIT:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FREEPUKE.EXE:
+    mimetype: application/x-msdos-program
+  FTI-0695.NFO:
+    mimetype: text/plain
+  FTI0695.MEM:
+    mimetype: text/plain
+  FTIAPP.EXE:
+    mimetype: application/x-msdos-program
+  FTIDEMO.ZIP:
+    mimetype: application/zip
+  FUTUREI.DAT:
+    mimetype: audio/x-mod
+  FUTUREI.EXE:
+    mimetype: application/x-msdos-program
+  GET-DOWN.NOW:
+    mimetype: text/plain
+  IMAGINAT.ION:
+    mimetype: text/plain
+  MEDMUSH.S3M:
+    mimetype: audio/x-mod
+  MH-BE.ANS:
+    mimetype: text/plain
+  MINUS.ANS:
+    mimetype: text/plain
+  NEO.COM:
+    mimetype: application/x-msdos-program
+  NEWBASS.S3M:
+    mimetype: audio/x-mod
+  PY-DM1.ANS:
+    mimetype: text/plain
+  PY-EDGE.ANS:
+    mimetype: text/plain
+  PY-FTID.ANS:
+    mimetype: text/plain
+  PY-KILL2.ANS:
+    mimetype: text/plain
+  PY-KTECH.ANS:
+    mimetype: text/plain
+  SD-DOH2.ANS:
+    mimetype: text/plain
+  SD-KT.ANS:
+    mimetype: text/plain
+  TDA1.S3M:
+    mimetype: audio/x-mod
+  TDA3.S3M:
+    mimetype: audio/x-mod
+  WAXME.COM:
+    mimetype: application/x-msdos-program
+  WHOTRADE.COM:
+    mimetype: application/x-msdos-program

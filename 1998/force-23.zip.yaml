@@ -1,0 +1,82 @@
+name: force-23.zip
+hash: 2ff7d4c7abeeb47215b67a6d17402646
+year: 1998
+file:
+  -ANSI-:
+    mimetype: text/plain
+  -ASCII-:
+    mimetype: text/plain
+  -END-:
+    mimetype: text/plain
+  -INFO-:
+    mimetype: text/plain
+  AVE-AM1.ANS:
+    mimetype: text/plain
+  AVE-AM2.ANS:
+    mimetype: text/plain
+  AVE-AUSC.ANS:
+    mimetype: text/plain
+  AVE-DEG.ANS:
+    mimetype: text/plain
+  AVE-MIN1.ANS:
+    mimetype: text/plain
+  AVE-POLY.ANS:
+    mimetype: text/plain
+  AVE-SHTR.ANS:
+    mimetype: text/plain
+  CG-DRKS.ANS:
+    mimetype: text/plain
+  CG-FACE.ANS:
+    mimetype: text/plain
+  CG-OLD.ANS:
+    mimetype: text/plain
+  CL!-BZ98.ANS:
+    mimetype: text/plain
+  CL!-EQZ.ANS:
+    mimetype: text/plain
+  CRX-AWE.ANS:
+    mimetype: text/plain
+  CRX-EVIL.ANS:
+    mimetype: text/plain
+  CX-SECT.TXT:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FORCE-23.MEM:
+    mimetype: text/plain
+  FORCE-23.NFO:
+    mimetype: text/plain
+  FX_AWE.ANS:
+    mimetype: text/plain
+  FX_NAP.ANS:
+    mimetype: text/plain
+  IO-CLY-3.ANS:
+    mimetype: text/plain
+  IO-HRNY2.ANS:
+    mimetype: text/plain
+  IO-HRNY3.ANS:
+    mimetype: text/plain
+  ND!-XPD.ANS:
+    mimetype: text/plain
+  P7-FRC.ASC:
+    mimetype: text/plain
+  RZ-ASTRO.ANS:
+    mimetype: text/plain
+  RZ-FORCE.ANS:
+    mimetype: text/plain
+  RZ-FRC.TXT:
+    mimetype: text/plain
+  RZ-OOZEM.ANS:
+    mimetype: text/plain
+  RZ-PROV.TXT:
+    mimetype: text/plain
+  US-CAPT.ANS:
+    mimetype: text/plain
+  US-ETZIA.ANS:
+    mimetype: text/plain
+  US-OLD.ANS:
+    mimetype: text/plain
+  US-SALT.ANS:
+    mimetype: text/plain
+  US-SLCN.ANS:
+    mimetype: text/plain

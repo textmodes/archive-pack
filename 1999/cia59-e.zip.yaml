@@ -1,0 +1,38 @@
+name: cia59-e.zip
+hash: 11a35e596f1bd2e361470da4fa54c3e4
+year: 1999
+file:
+  !!binary xMRDSUHExC7ExMQ=:
+    mimetype: text/plain
+  1298INFO.CIA:
+    mimetype: text/plain
+  1298MEMB.CIA:
+    mimetype: text/plain
+  BDF7BE~1.JPG:
+    mimetype: image/jpeg
+  BDMGCIA.JPG:
+    mimetype: image/jpeg
+  BDSUCR~1.JPG:
+    mimetype: image/jpeg
+  DB_BAT.JPG:
+    mimetype: image/jpeg
+  DN_EYE.JPG:
+    mimetype: image/jpeg
+  DO_BDRM.JPG:
+    mimetype: image/jpeg
+  DO_DLOAN.JPG:
+    mimetype: image/jpeg
+  FH_CON2.JPG:
+    mimetype: image/jpeg
+  FH_CON3.JPG:
+    mimetype: image/jpeg
+  FH_GUY.JPG:
+    mimetype: image/jpeg
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  WIRETAP.DOC:
+    mimetype: text/plain
+  WIRETAP.EXE:
+    mimetype: application/x-msdos-program
+  cwsdpmi.exe:
+    mimetype: application/x-msdos-program

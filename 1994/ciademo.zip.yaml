@@ -1,0 +1,40 @@
+name: ciademo.zip
+hash: 207509d0bd2161654a71954b178bbbda
+year: 1994
+file:
+  '!!READ!!.1ST':
+    mimetype: text/plain
+  BLANK.COM:
+    mimetype: application/x-msdos-program
+  CIA.NFO:
+    mimetype: text/plain
+  CIAROUND.EXE:
+    mimetype: application/x-msdos-program
+  CLEAR:
+    mimetype: text/plain
+  DEMO.EXE:
+    mimetype: application/x-msdos-program
+  FONT2.COM:
+    mimetype: application/x-msdos-program
+  FONT5.COM:
+    mimetype: application/x-msdos-program
+  INTROMOD.EXE:
+    mimetype: application/x-msdos-program
+  MEGADEMO:
+    mimetype: text/plain
+  MUSIC1.MOD:
+    mimetype: audio/x-mod
+  MUSIC2.MOD:
+    mimetype: audio/x-mod
+  NEO.COM:
+    mimetype: application/x-msdos-program
+  NNANSI.COM:
+    mimetype: application/x-msdos-program
+  NORMAL.COM:
+    mimetype: application/x-msdos-program
+  RUNME.BAT:
+    mimetype: application/x-msdos-program
+  THE-END:
+    mimetype: text/plain
+  TMC.NFO:
+    mimetype: text/plain

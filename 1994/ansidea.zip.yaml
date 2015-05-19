@@ -1,0 +1,10 @@
+name: ansidea.zip
+hash: f5f4bbff3594e874a03e5ef300a90c23
+year: 1994
+file:
+  ANSIDEA.EXE:
+    mimetype: application/x-msdos-program
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  NEOTOKYO.ANS:
+    mimetype: text/plain

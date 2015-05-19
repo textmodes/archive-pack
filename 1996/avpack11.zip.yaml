@@ -1,0 +1,72 @@
+name: avpack11.zip
+hash: 64b33babeb49c0582f70d541b4978428
+year: 1996
+file:
+  -ANSI---.---:
+    mimetype: text/plain
+  -INFO---.---:
+    mimetype: text/plain
+  -VGA----.---:
+    mimetype: application/octet-stream
+  AV-BBQ.JPG:
+    mimetype: image/jpeg
+  AV-REF1.ANS:
+    mimetype: text/plain
+  AV96.EXE:
+    mimetype: application/x-msdos-program
+  CONTENTS.AV:
+    mimetype: text/plain
+  CR_COLLY.ANS:
+    mimetype: text/plain
+  CR_HILT1.ANS:
+    mimetype: text/plain
+  CR_INDU1.ANS:
+    mimetype: text/plain
+  CR_TRIBE.ANS:
+    mimetype: text/plain
+  EN-NN.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FK-BA.ANS:
+    mimetype: text/plain
+  FRG-CF!.ANS:
+    mimetype: text/plain
+  HQ-HOWL.GIF:
+    mimetype: image/gif
+  HQ-MSG.GIF:
+    mimetype: image/gif
+  HQ-VAMP.GIF:
+    mimetype: image/gif
+  IG-CF.ANS:
+    mimetype: text/plain
+  INFO.AV:
+    mimetype: text/plain
+  JC-AVCL1.ANS:
+    mimetype: text/plain
+  JC-NN#1.ANS:
+    mimetype: text/plain
+  KARNAGE.FUN:
+    mimetype: text/plain
+  KRL-ANSI.ANS:
+    mimetype: text/plain
+  KRL-CHZ1.ANS:
+    mimetype: text/plain
+  KRL-HMM2.ANS:
+    mimetype: text/plain
+  KRL-REF.RIP:
+    mimetype: image/x-rip
+  KRL-SNAG.ANS:
+    mimetype: text/plain
+  MEMBERS.AV:
+    mimetype: text/plain
+  NEO-CMPU.ANS:
+    mimetype: text/plain
+  NEO-INTS.ANS:
+    mimetype: text/plain
+  PSALM#0.ZIP:
+    mimetype: application/zip
+  TR-COLLY.ANS:
+    mimetype: text/plain
+  VOTING.FRM:
+    mimetype: text/plain

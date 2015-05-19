@@ -1,0 +1,54 @@
+name: lbo-r1.zip
+hash: 20c47785c7490a42a29886e5022afcf0
+year: 1993
+file:
+  ANSIM.EXE:
+    mimetype: application/x-msdos-program
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  LBO.NFO:
+    mimetype: text/plain
+  TOP-ATL.ANS:
+    mimetype: text/plain
+  TOP-ATL2.ANS:
+    mimetype: text/plain
+  TOP-BERS.ANS:
+    mimetype: text/plain
+  TOP-INTR.ANS:
+    mimetype: text/plain
+  TOP-LG2.ANS:
+    mimetype: text/plain
+  TOP-LGZ.ANS:
+    mimetype: text/plain
+  TOP-LIT.ANS:
+    mimetype: text/plain
+  TOP-NFF.ANS:
+    mimetype: text/plain
+  TOP-OTL.ANS:
+    mimetype: text/plain
+  TOP-TDN.ANS:
+    mimetype: text/plain
+  TOP-THD.ANS:
+    mimetype: text/plain
+  TOP-TKS.ANS:
+    mimetype: text/plain
+  WHS-ATL.ANS:
+    mimetype: text/plain
+  WHS-HST.ANS:
+    mimetype: text/plain
+  WHS-HST2.ANS:
+    mimetype: text/plain
+  WHS-LBBS.ANS:
+    mimetype: text/plain
+  WHS-LOG.ANS:
+    mimetype: text/plain
+  WHS-TBP.ANS:
+    mimetype: text/plain
+  WHS-TDV.ANS:
+    mimetype: text/plain
+  WHS-TWB.ANS:
+    mimetype: text/plain
+  WHS-TWB.ASC:
+    mimetype: text/plain
+  WHS-TWB2.ANS:
+    mimetype: text/plain

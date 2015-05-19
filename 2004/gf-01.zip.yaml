@@ -1,0 +1,42 @@
+name: gf-01.zip
+hash: 00ed1790ea751900bbd090e6b48b3930
+year: 2004
+file:
+  Ascii/gf-LK.nfo:
+    mimetype: text/plain
+  Ascii/gf-Tkc.nfo:
+    mimetype: text/plain
+  Ascii/gf-bb.nfo:
+    mimetype: text/plain
+  Ascii/gf-dizm.diz:
+    mimetype: text/plain
+  Ascii/gf-heart.asc:
+    mimetype: text/plain
+  Ascii/gf-ika.ASC:
+    mimetype: text/plain
+  Ascii/gf-rev.nfo:
+    mimetype: text/plain
+  Ascii/gf-skull.nfo:
+    mimetype: text/plain
+  Ascii/gf-t53.diz:
+    mimetype: text/plain
+  Ascii/gf-tA!.nfo:
+    mimetype: text/plain
+  Ascii/gf-tds.nfo:
+    mimetype: text/plain
+  Ascii/gf-tds2.nfo:
+    mimetype: text/plain
+  File_id.diz:
+    mimetype: text/plain
+  GF.nfo:
+    mimetype: text/plain
+  Hirez/gf-Al.One.bb.gif:
+    mimetype: image/gif
+  Hirez/gf-DarkSiDE.keygen.gif:
+    mimetype: image/gif
+  Hirez/gf-DarkSiDE.logo.gif:
+    mimetype: image/gif
+  Hirez/gf-DotFix.New.Red-Orange-Dark.gif:
+    mimetype: image/gif
+  Hirez/gf-SnowBit.Patcher.gif:
+    mimetype: image/gif

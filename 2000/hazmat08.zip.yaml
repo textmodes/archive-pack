@@ -1,0 +1,62 @@
+name: hazmat08.zip
+hash: 91261aec74b7027fd357e0699b557dfd
+year: 2000
+file:
+  DWF-HAZ.TXT:
+    mimetype: text/plain
+  Dwf-dtnn.txt:
+    mimetype: text/plain
+  Dwf-neon.txt:
+    mimetype: text/plain
+  Dwf-repe.txt:
+    mimetype: text/plain
+  Dwf-riv.txt:
+    mimetype: text/plain
+  EN-Z1.ANS:
+    mimetype: text/plain
+  En-dnfo.txt:
+    mimetype: text/plain
+  En-drkst.ans:
+    mimetype: text/plain
+  Jr-inso.asc:
+    mimetype: text/plain
+  Lc!areal.ans:
+    mimetype: text/plain
+  Lc!hazm.ans:
+    mimetype: text/plain
+  Lc!mmc.asc:
+    mimetype: text/plain
+  Lc!remix.ans:
+    mimetype: text/plain
+  P-hazmat.asc:
+    mimetype: text/plain
+  TB-HAZ.ANS:
+    mimetype: text/plain
+  TB-TRUE.ASC:
+    mimetype: text/plain
+  daterape.txt:
+    mimetype: text/plain
+  file_id.diz:
+    mimetype: text/plain
+  hazmat08.nfo:
+    mimetype: text/plain
+  jp-df1.ans:
+    mimetype: text/plain
+  jp-mh1.ans:
+    mimetype: text/plain
+  ko!-asc.asc:
+    mimetype: text/plain
+  po-bitc2.asc:
+    mimetype: text/plain
+  po-hzmt2.asc:
+    mimetype: text/plain
+  po-iq.asc:
+    mimetype: text/plain
+  po-minds.asc:
+    mimetype: text/plain
+  quote.txt:
+    mimetype: text/plain
+  vp-jnt.ans:
+    mimetype: text/plain
+  wackie.log:
+    mimetype: text/plain

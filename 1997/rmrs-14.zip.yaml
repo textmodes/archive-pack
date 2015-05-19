@@ -1,0 +1,82 @@
+name: rmrs-14.zip
+hash: 2b4a63b4a1a866f7b3ba58f35cbee828
+year: 1997
+file:
+  2N-RMRS1.ASC:
+    mimetype: text/plain
+  74-CEO.ASC:
+    mimetype: text/plain
+  74-CIA2.ASC:
+    mimetype: text/plain
+  74-ELDNO.ASC:
+    mimetype: text/plain
+  74-EXILE.ASC:
+    mimetype: text/plain
+  AXB-AC01.ASC:
+    mimetype: text/plain
+  AXB-COL8.ASC:
+    mimetype: text/plain
+  AXB-PORT.ASC:
+    mimetype: text/plain
+  BDS-HDS1.ASC:
+    mimetype: text/plain
+  BJ-ASC93.ANS:
+    mimetype: text/plain
+  BJ-CLUS.ANS:
+    mimetype: text/plain
+  CG-AUG.TXT:
+    mimetype: text/plain
+  D13-RMRS.ASC:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FR-1337.ASC:
+    mimetype: text/plain
+  FR-KWEST.ASC:
+    mimetype: text/plain
+  FR-PIC2.ASC:
+    mimetype: text/plain
+  GDR-RMRS.ASC:
+    mimetype: text/plain
+  GDR-SNF.ASC:
+    mimetype: text/plain
+  GDR-SPF.ASC:
+    mimetype: text/plain
+  GDR-TICK.ASC:
+    mimetype: text/plain
+  JAK-ACD8.ASC:
+    mimetype: text/plain
+  JAK-INTR.ASC:
+    mimetype: text/plain
+  MA-RMRS1.ASC:
+    mimetype: text/plain
+  MK-PRIM.ASC:
+    mimetype: text/plain
+  NL-BZR.ASC:
+    mimetype: text/plain
+  NL-TLC.ASC:
+    mimetype: text/plain
+  NM-DEAD.ASC:
+    mimetype: text/plain
+  NN-IOM.ASC:
+    mimetype: text/plain
+  PAR-DOE.ANS:
+    mimetype: text/plain
+  PAR-ENT.ANS:
+    mimetype: text/plain
+  PAR-FT2.ANS:
+    mimetype: text/plain
+  R-MHZTGI.TXT:
+    mimetype: text/plain
+  REMORSE.NFO:
+    mimetype: text/plain
+  RV.CFG:
+    mimetype: text/plain
+  RV.EXE:
+    mimetype: application/x-msdos-program
+  SMC-ASC.TXT:
+    mimetype: text/plain
+  SP-TECHN.ASC:
+    mimetype: text/plain
+  TR-STONE.ANS:
+    mimetype: text/plain

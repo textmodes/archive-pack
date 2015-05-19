@@ -1,0 +1,58 @@
+name: fat-0694.zip
+hash: 5685c690dc40de5c6334f2c66faaf133
+year: 1994
+file:
+  CD-FONT1.FAT:
+    mimetype: text/plain
+  CD-FONT2.FAT:
+    mimetype: text/plain
+  CD-LOGO.FAT:
+    mimetype: text/plain
+  DP-CCHOP.FAT:
+    mimetype: text/plain
+  DP-CHOP1.FAT:
+    mimetype: text/plain
+  DP-CLOWN.FAT:
+    mimetype: text/plain
+  DP-HAWK.FAT:
+    mimetype: text/plain
+  DT-LOGO.FAT:
+    mimetype: text/plain
+  FAT-0694.MEM:
+    mimetype: text/plain
+  FAT-0694.NFO:
+    mimetype: text/plain
+  FATLOAD.ZIP:
+    mimetype: application/zip
+  FATVIEW.ZIP:
+    mimetype: application/zip
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  MS-BLAZE.FAT:
+    mimetype: text/plain
+  MS-CIA.LIT:
+    mimetype: text/plain
+  MS-DEATH.LIT:
+    mimetype: text/plain
+  MS-EOD.FAT:
+    mimetype: text/plain
+  MS-GATES.LIT:
+    mimetype: text/plain
+  MS-INTRU.LIT:
+    mimetype: text/plain
+  MS-KEEP.LIT:
+    mimetype: text/plain
+  MS-MORT.LIT:
+    mimetype: text/plain
+  MS-SHAD.LIT:
+    mimetype: text/plain
+  NC-CIA.GIF:
+    mimetype: image/gif
+  NC-COII.GIF:
+    mimetype: image/gif
+  NC-EOD.GIF:
+    mimetype: image/gif
+  NC-FAT.GIF:
+    mimetype: image/gif
+  NEOTOKYO.ANS:
+    mimetype: text/plain

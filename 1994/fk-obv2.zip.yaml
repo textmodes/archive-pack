@@ -1,0 +1,44 @@
+name: fk-obv2.zip
+hash: 97001c9f61522636294ad8fbf49bfbb8
+year: 1994
+file:
+  BBSLIST.ANS:
+    mimetype: text/plain
+  CONFMAN.ANS:
+    mimetype: text/plain
+  EMAIL.ANS:
+    mimetype: text/plain
+  FILE.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FSPONSOR.ANS:
+    mimetype: text/plain
+  !!binary SU1BR61ORS5FWEU=:
+    mimetype: application/x-msdos-program
+  MAIN.ANS:
+    mimetype: text/plain
+  MESSAGE.ANS:
+    mimetype: text/plain
+  MESSPON.ANS:
+    mimetype: text/plain
+  MULTINOD.ANS:
+    mimetype: text/plain
+  NEO.COM:
+    mimetype: application/x-msdos-program
+  QWKMAIL.ANS:
+    mimetype: text/plain
+  RUMOR.ANS:
+    mimetype: text/plain
+  SDATA.ANS:
+    mimetype: text/plain
+  SHELTER.NFO:
+    mimetype: text/plain
+  SYSOP.ANS:
+    mimetype: text/plain
+  THEDRAW.PCK:
+    mimetype: application/octet-stream
+  VOTING.ANS:
+    mimetype: text/plain
+  WONDER!.WHY:
+    mimetype: text/plain

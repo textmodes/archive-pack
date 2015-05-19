@@ -1,0 +1,20 @@
+name: ansis-o.zip
+hash: 1d7b394c813a628539af169c324a84d5
+year: 1993
+file:
+  -RUNME.COM:
+    mimetype: application/x-msdos-program
+  OBLIV.ANS:
+    mimetype: text/plain
+  ONEFORYA.ANS:
+    mimetype: text/plain
+  OOIITYPE.ANS:
+    mimetype: text/plain
+  OORACID1.ANS:
+    mimetype: text/plain
+  OPUS.ANS:
+    mimetype: text/plain
+  OUTHOUSE.ANS:
+    mimetype: text/plain
+  OVIDS.ANS:
+    mimetype: text/plain

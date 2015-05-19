@@ -1,0 +1,66 @@
+name: jasper06.zip
+hash: dda05360c3ae079102b429470f1f0bf4
+year: 2002
+file:
+  '#ART#':
+    mimetype: image/jpeg
+  '#INFO#':
+    mimetype: application/octet-stream
+  43-A1.ANS:
+    mimetype: text/plain
+  43-E2.ANS:
+    mimetype: text/plain
+  43-NETRU.ANS:
+    mimetype: text/plain
+  43-enzo.ans:
+    mimetype: text/plain
+  AVG-LUR1.ANS:
+    mimetype: text/plain
+  BM-ABO1.ANS:
+    mimetype: text/plain
+  BM-NAMI.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  H7-EQ.ANS:
+    mimetype: text/plain
+  JMEMB.NFO:
+    mimetype: text/plain
+  JNEWS.NFO:
+    mimetype: text/plain
+  No-nmsta.ans:
+    mimetype: text/plain
+  RA-IDLE.ANS:
+    mimetype: text/plain
+  US-BOOBS.ANS:
+    mimetype: text/plain
+  US-DOGGY.ANS:
+    mimetype: text/plain
+  US-F01.ANS:
+    mimetype: text/plain
+  US-ND.ANS:
+    mimetype: text/plain
+  US-PRLOG.ANS:
+    mimetype: text/plain
+  VLD-JASP.ANS:
+    mimetype: text/plain
+  ZS-JSP02.ANS:
+    mimetype: text/plain
+  ZS-LG01.ANS:
+    mimetype: text/plain
+  ZS-LG02.ANS:
+    mimetype: text/plain
+  ZS-NAMI.ANS:
+    mimetype: text/plain
+  ZS-PNA1.ANS:
+    mimetype: text/plain
+  ZS-PNA2.ANS:
+    mimetype: text/plain
+  ZS-PNA3.ANS:
+    mimetype: text/plain
+  ack-jsp1.ans:
+    mimetype: text/plain
+  to-brain.rip:
+    mimetype: image/x-rip
+  to-mdknt.ans:
+    mimetype: text/plain

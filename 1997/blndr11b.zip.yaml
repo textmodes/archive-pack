@@ -1,0 +1,40 @@
+name: blndr11b.zip
+hash: e2a64cc6fa15b1ab68be46070e4061f3
+year: 1997
+file:
+  BLENDER.011:
+    mimetype: text/plain
+  BLENDER.HOF:
+    mimetype: text/plain
+  BLENDER.NFO:
+    mimetype: text/plain
+  DF-EEE2.ANS:
+    mimetype: text/plain
+  FILE_ID.CLR:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  IS-BLEND.ANS:
+    mimetype: text/plain
+  MFS-COMI.ANS:
+    mimetype: text/plain
+  MFS-GUBM.ANS:
+    mimetype: text/plain
+  MFS-HULK.ANS:
+    mimetype: text/plain
+  N4-BLNDR.ZIP:
+    mimetype: application/zip
+  OX-BLN10.ASC:
+    mimetype: text/plain
+  SMI-OOO.ANS:
+    mimetype: text/plain
+  SMURF.BMP:
+    mimetype: image/x-ms-bmp
+  TE-RED.LIT:
+    mimetype: text/plain
+  UH-HEN.LOG:
+    mimetype: text/plain
+  US-BLD11.ANS:
+    mimetype: text/plain
+  US-TIEBL.S3M:
+    mimetype: audio/x-mod

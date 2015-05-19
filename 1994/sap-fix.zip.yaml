@@ -1,0 +1,10 @@
+name: sap-fix.zip
+hash: 175478701fff87a51bba5ca904a41bd1
+year: 1994
+file:
+  DS-LEP1.SAP:
+    mimetype: text/plain
+  THK-KIS.ANS:
+    mimetype: text/plain
+  WELCOME.1:
+    mimetype: text/plain

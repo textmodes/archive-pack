@@ -1,0 +1,46 @@
+name: synth03a.zip
+hash: 9330723cc77a09461e01744e05920360
+year: 1996
+file:
+  1196CONT.ANS:
+    mimetype: text/plain
+  1196MEMB.ANS:
+    mimetype: text/plain
+  1196NEWS.ANS:
+    mimetype: text/plain
+  AV96.EXE:
+    mimetype: application/x-msdos-program
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  PH-COLLY.ANS:
+    mimetype: text/plain
+  PH-MSYS.ANS:
+    mimetype: text/plain
+  SC-APP.EXE:
+    mimetype: application/x-msdos-program
+  SCFADE.EXE:
+    mimetype: application/x-msdos-program
+  TR&PH-LG.ANS:
+    mimetype: text/plain
+  ZIPCOMM.TXT:
+    mimetype: text/plain
+  ph-drm!.ans:
+    mimetype: text/plain
+  ph-krgn.jpg:
+    mimetype: image/jpeg
+  ph-slogo.ans:
+    mimetype: text/plain
+  ph-snews.ans:
+    mimetype: text/plain
+  syd-bath.jpg:
+    mimetype: image/jpeg
+  syd-drm.jpg:
+    mimetype: image/jpeg
+  syd-para.jpg:
+    mimetype: image/jpeg
+  syd-prod.jpg:
+    mimetype: image/jpeg
+  syd-tblr.jpg:
+    mimetype: image/jpeg
+  tr-chez!.ans:
+    mimetype: text/plain

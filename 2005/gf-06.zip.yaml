@@ -1,0 +1,60 @@
+name: gf-06.zip
+hash: 1ef0f1b305b6b25b10edc9cf78782924
+year: 2005
+file:
+  Ascii/gf-clus.asc:
+    mimetype: text/plain
+  Ascii/gf-cpy.nfo:
+    mimetype: text/plain
+  Ascii/gf-dscrm.asc:
+    mimetype: text/plain
+  Ascii/gf-fff.nfo:
+    mimetype: text/plain
+  Ascii/gf-glx.nfo:
+    mimetype: text/plain
+  Ascii/gf-hugi.asc:
+    mimetype: text/plain
+  Ascii/gf-hugi.diz:
+    mimetype: text/plain
+  Ascii/gf-illa.asc:
+    mimetype: text/plain
+  Ascii/gf-lgs.asc:
+    mimetype: text/plain
+  Ascii/gf-lwk.nfo:
+    mimetype: text/plain
+  Ascii/gf-mnmnc.asc:
+    mimetype: text/plain
+  Ascii/gf-ors.asc:
+    mimetype: text/plain
+  Ascii/gf-riot.nfo:
+    mimetype: text/plain
+  Ascii/gf-smtc.asc:
+    mimetype: text/plain
+  Ascii/gf-uki.asc:
+    mimetype: text/plain
+  File_id.diz:
+    mimetype: text/plain
+  GF.nfo:
+    mimetype: text/plain
+  Hirez/gf-Hugi.logo.jpg:
+    mimetype: image/jpeg
+  Hirez/gf-LGS.1st.release.logo.jpg:
+    mimetype: image/jpeg
+  Hirez/gf-PLAGNNED.logo.jpg:
+    mimetype: image/jpeg
+  Hirez/gf-again.logo.jpg:
+    mimetype: image/jpeg
+  Hirez/gf-archie.5.minut.do.solnca.logo.jpg:
+    mimetype: image/jpeg
+  Hirez/gf-cheaters.logo.jpg:
+    mimetype: image/jpeg
+  Hirez/gf-hugi.ascii.logo.jpg:
+    mimetype: image/jpeg
+  Hirez/gf-oceanyk.logo.jpg:
+    mimetype: image/jpeg
+  Hirez/gf-pizza.trainer.ui.jpg:
+    mimetype: image/jpeg
+  Hirez/gf-slv.logo.jpg:
+    mimetype: image/jpeg
+  Soundtrack.mp3:
+    mimetype: audio/mpeg

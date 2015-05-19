@@ -1,0 +1,28 @@
+name: hacker08.zip
+hash: 7b22513c36bdff7f717f69cccc847249
+year: 1998
+file:
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  HACKDATA.DAT:
+    mimetype: text/plain
+  HACKER8.EXE:
+    mimetype: application/x-msdos-program
+  HACKER8.XM:
+    mimetype: audio/x-mod
+  HACKER8A.XM:
+    mimetype: audio/x-mod
+  HACKMAIN.DAT:
+    mimetype: application/octet-stream
+  HCK-AD.APP:
+    mimetype: application/octet-stream
+  HCK-DST.APP:
+    mimetype: text/plain
+  HCK-GRP.APP:
+    mimetype: text/plain
+  HCK-ME.APP:
+    mimetype: text/plain
+  HCK-VOTE.APP:
+    mimetype: application/octet-stream
+  README.TXT:
+    mimetype: text/plain

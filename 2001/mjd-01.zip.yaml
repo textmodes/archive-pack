@@ -1,0 +1,72 @@
+name: mjd-01.zip
+hash: b66144ae108d76e0a408199380c7c2fa
+year: 2001
+file:
+  CL!-EPS.ASC:
+    mimetype: text/plain
+  CL!-HRS.ASC:
+    mimetype: text/plain
+  CL!-LBT.ASC:
+    mimetype: text/plain
+  CL!-LBT2.ASC:
+    mimetype: text/plain
+  CL!-MRL.ASC:
+    mimetype: text/plain
+  DIP-DRUC.ASC:
+    mimetype: text/plain
+  DIP-EDAM.ASC:
+    mimetype: text/plain
+  DIP-EURO.ASC:
+    mimetype: text/plain
+  DIP-GORE.ASC:
+    mimetype: text/plain
+  DIP-YARD.ASC:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  MJD-01.NFO:
+    mimetype: text/plain
+  SLY-FTS.JPG:
+    mimetype: image/jpeg
+  THR-BLZ.DIZ:
+    mimetype: text/plain
+  THR-BS.DIZ:
+    mimetype: text/plain
+  THR-CDRS.ASC:
+    mimetype: text/plain
+  THR-EPS.DIZ:
+    mimetype: text/plain
+  THR-JOE.ASC:
+    mimetype: text/plain
+  THR-LZ0.DIZ:
+    mimetype: text/plain
+  THR-S8!.DIZ:
+    mimetype: text/plain
+  THR-TCM.ASC:
+    mimetype: text/plain
+  THR-TH.ASC:
+    mimetype: text/plain
+  THR-TH2.ASC:
+    mimetype: text/plain
+  THR-UT.ASC:
+    mimetype: text/plain
+  TL-HADES.ASC:
+    mimetype: text/plain
+  TL-PSM.ASC:
+    mimetype: text/plain
+  TL-WOW.ASC:
+    mimetype: text/plain
+  U3-BT.ASC:
+    mimetype: text/plain
+  U3-CRT.ASC:
+    mimetype: text/plain
+  U3-MJD.ASC:
+    mimetype: text/plain
+  U3-OD.ASC:
+    mimetype: text/plain
+  U3-SW.ASC:
+    mimetype: text/plain
+  WBR-HRS.ASC:
+    mimetype: text/plain
+  WBR-TRIP.ASC:
+    mimetype: text/plain

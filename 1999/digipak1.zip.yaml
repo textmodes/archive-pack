@@ -1,0 +1,48 @@
+name: digipak1.zip
+hash: 366af73892331c1e62d1aab12b752f57
+year: 1999
+file:
+  BB-3ROG1.EXE:
+    mimetype: application/x-msdos-program
+  BB-CN1.EXE:
+    mimetype: application/x-msdos-program
+  BB-DSOH1.EXE:
+    mimetype: application/x-msdos-program
+  BB-DSOH2.EXE:
+    mimetype: application/x-msdos-program
+  BB-LOA1.EXE:
+    mimetype: application/x-msdos-program
+  BB-STYX1.GIF:
+    mimetype: image/gif
+  !!binary Q5JTVEzkIS7h4VM=:
+    mimetype: text/plain
+  DIGIPAK1.NFO:
+    mimetype: text/plain
+  DN-DOA1.ANS:
+    mimetype: text/plain
+  DOA-APLY.TXT:
+    mimetype: text/plain
+  DOAMMBRS.ANS:
+    mimetype: text/plain
+  ELYCID1.EXE:
+    mimetype: application/x-msdos-program
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  LAIRCID1.EXE:
+    mimetype: application/x-msdos-program
+  MS-3ROG1.EXE:
+    mimetype: application/x-msdos-program
+  MS-DSOH1.EXE:
+    mimetype: application/x-msdos-program
+  MS-STYX!.EXE:
+    mimetype: application/x-msdos-program
+  SN_STYX1.ZIP:
+    mimetype: application/zip
+  SN_STYX2.ZIP:
+    mimetype: application/zip
+  STYX!.COM:
+    mimetype: application/x-msdos-program
+  TSU-TAZ1.ANS:
+    mimetype: text/plain
+  WOW1CID.EXE:
+    mimetype: application/x-msdos-program

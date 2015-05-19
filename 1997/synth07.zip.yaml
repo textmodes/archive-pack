@@ -1,0 +1,44 @@
+name: synth07.zip
+hash: 7bb577cd3e7137596ca7cd1cb90d8920
+year: 1997
+file:
+  0397CONT.ANS:
+    mimetype: text/plain
+  0397MEMB.ANS:
+    mimetype: text/plain
+  0397NEWS.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  JPG2GIF.EXE:
+    mimetype: application/x-msdos-program
+  PF-CYBER.ANS:
+    mimetype: text/plain
+  PF-ID.ASC:
+    mimetype: text/plain
+  PF-SIG.ANS:
+    mimetype: text/plain
+  PH-CLNE.ASC:
+    mimetype: text/plain
+  PH-DGR.ANS:
+    mimetype: text/plain
+  PH-WINK.ASC:
+    mimetype: text/plain
+  SCAPP.DOC:
+    mimetype: text/plain
+  SCAPP.EXE:
+    mimetype: application/x-msdos-program
+  SCVIEW.DOC:
+    mimetype: text/plain
+  SCVIEW.EXE:
+    mimetype: application/x-msdos-program
+  SYD-PIPN.JPG:
+    mimetype: image/jpeg
+  TR-BLBRD.JPG:
+    mimetype: image/jpeg
+  TR-COLLY.ANS:
+    mimetype: text/plain
+  TR-MUR.ASC:
+    mimetype: text/plain
+  TR-SC.RIP:
+    mimetype: image/x-rip

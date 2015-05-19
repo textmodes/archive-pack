@@ -1,0 +1,142 @@
+name: mft-0494.zip
+hash: 919a88d23a01f004ab5089c5c68adad7
+year: 1994
+file:
+  --ANSI--.MFT:
+    mimetype: application/octet-stream
+  --LIT---.MFT:
+    mimetype: application/octet-stream
+  --MISC--.MFT:
+    mimetype: application/octet-stream
+  --MUSIC-.MFT:
+    mimetype: application/octet-stream
+  --RIP---.MFT:
+    mimetype: application/octet-stream
+  --VGA---.MFT:
+    mimetype: application/octet-stream
+  BH-BLUE.LIT:
+    mimetype: text/plain
+  BH-CRMSN.LIT:
+    mimetype: text/plain
+  BH-F2B.LIT:
+    mimetype: text/plain
+  BH-HCH.LIT:
+    mimetype: text/plain
+  BH-LOVE.LIT:
+    mimetype: text/plain
+  BH-MFUK.LIT:
+    mimetype: text/plain
+  BH-NIGHT.LIT:
+    mimetype: text/plain
+  BH-NN.LIT:
+    mimetype: text/plain
+  BH-PHIRE.LIT:
+    mimetype: text/plain
+  BH-SHIT.LIT:
+    mimetype: text/plain
+  BH-USA.LIT:
+    mimetype: text/plain
+  BH-WAR.LIT:
+    mimetype: text/plain
+  BO-GTH.ANS:
+    mimetype: text/plain
+  BO-GTH2.ANS:
+    mimetype: text/plain
+  BO-MFT.ANS:
+    mimetype: text/plain
+  BO-THB.ANS:
+    mimetype: text/plain
+  DP-EVINT.RIP:
+    mimetype: image/x-rip
+  DP-MFT.RIP:
+    mimetype: image/x-rip
+  ETC-11HR.LIT:
+    mimetype: text/plain
+  ETC-EI.LIT:
+    mimetype: text/plain
+  ETC-EI2.LIT:
+    mimetype: text/plain
+  ETC-FV.LIT:
+    mimetype: text/plain
+  ETC-GV.LIT:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GB-CRYST.ANS:
+    mimetype: text/plain
+  GB-CZERO.ANS:
+    mimetype: text/plain
+  GB-DGLIM.ANS:
+    mimetype: text/plain
+  GB-PRILL.ANS:
+    mimetype: text/plain
+  GB-REV9.ANS:
+    mimetype: text/plain
+  GB-SONIC.ANS:
+    mimetype: text/plain
+  GB-TAC.RIP:
+    mimetype: image/x-rip
+  HALO-BST.669:
+    mimetype: audio/x-mod
+  MFT-0494.NFO:
+    mimetype: text/plain
+  MFTDAT.EXE:
+    mimetype: application/x-msdos-program
+  MFTVIEW.EXE:
+    mimetype: application/x-msdos-program
+  MM-MADAC.ANS:
+    mimetype: text/plain
+  NN-CH0.ANS:
+    mimetype: text/plain
+  NN-INET.ANS:
+    mimetype: text/plain
+  NN-K9.ANS:
+    mimetype: text/plain
+  NN-LATE.ANS:
+    mimetype: text/plain
+  NN-SNET.ANS:
+    mimetype: text/plain
+  NQ-DNA.ANS:
+    mimetype: text/plain
+  OF-EI.RIP:
+    mimetype: image/x-rip
+  OF-MFUK.RIP:
+    mimetype: image/x-rip
+  OF-RAVEN.RIP:
+    mimetype: image/x-rip
+  PD-CDC1.ANS:
+    mimetype: text/plain
+  PD-CDC2.ANS:
+    mimetype: text/plain
+  PD-DIS1.ANS:
+    mimetype: text/plain
+  PD-KISS.LIT:
+    mimetype: text/plain
+  QX-ANSCT.ANS:
+    mimetype: text/plain
+  QX-CRNK1.ANS:
+    mimetype: text/plain
+  QX-CRNK2.ANS:
+    mimetype: text/plain
+  QX-CRNK3.ANS:
+    mimetype: text/plain
+  QX-EOTU.ANS:
+    mimetype: text/plain
+  QX-HCH.ANS:
+    mimetype: text/plain
+  QX-SONIC.ANS:
+    mimetype: text/plain
+  QX-SUCKM.ANS:
+    mimetype: text/plain
+  QX-VBBSW.ANS:
+    mimetype: text/plain
+  SW-RETRO.STM:
+    mimetype: application/octet-stream
+  SZ-DANGR.GIF:
+    mimetype: image/gif
+  SZ-EI.GIF:
+    mimetype: image/gif
+  SZ-EOE.GIF:
+    mimetype: image/gif
+  SZ-THB.GIF:
+    mimetype: image/gif

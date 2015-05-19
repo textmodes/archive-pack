@@ -1,0 +1,12 @@
+name: ansis-j.zip
+hash: 3bc2cfce1e14534f2cc581b71090af59
+year: 1993
+file:
+  -RUNME.COM:
+    mimetype: application/x-msdos-program
+  JALKEHI.ANS:
+    mimetype: text/plain
+  JBION.ANS:
+    mimetype: text/plain
+  JUMP#2.ANS:
+    mimetype: text/plain

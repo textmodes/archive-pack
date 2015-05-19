@@ -1,0 +1,66 @@
+name: opx-1095.zip
+hash: bd0e1ca08d4d01ce8bb61a667308f55d
+year: 1995
+file:
+  $ECTOR.7:
+    mimetype: application/octet-stream
+  ACIDVIEW.EXE:
+    mimetype: application/x-msdos-program
+  ACIDVIEW.INI:
+    mimetype: text/plain
+  CS:
+    mimetype: application/octet-stream
+  CYBERSEX.EXE:
+    mimetype: application/x-msdos-program
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FUNZONE.JPG:
+    mimetype: image/jpeg
+  OP_0195!.LST:
+    mimetype: text/plain
+  OP_0195!.NFO:
+    mimetype: text/plain
+  RL-BRAIN.ANS:
+    mimetype: text/plain
+  RL-CRPTS.ANS:
+    mimetype: text/plain
+  RL-CRTSY.ANS:
+    mimetype: text/plain
+  RL-CSBZL.ASC:
+    mimetype: text/plain
+  RL-DIPHB.ANS:
+    mimetype: text/plain
+  RL-DISPH.ANS:
+    mimetype: text/plain
+  RL-DSGNF.ASC:
+    mimetype: text/plain
+  RL-ERROR.ANS:
+    mimetype: text/plain
+  RL-EVDMS.ANS:
+    mimetype: text/plain
+  RL-EVDMS.ASC:
+    mimetype: text/plain
+  RL-HIGLS.ANS:
+    mimetype: text/plain
+  RL-IDIUM.ASC:
+    mimetype: text/plain
+  RL-IRIDM.ASC:
+    mimetype: text/plain
+  RL-MUIL1.ANS:
+    mimetype: text/plain
+  RL-MUIL2.ANS:
+    mimetype: text/plain
+  RL-OGLOG.ANS:
+    mimetype: text/plain
+  RL-OGSYN.ANS:
+    mimetype: text/plain
+  RL-RAISH.ASC:
+    mimetype: text/plain
+  RL-RIDSP.ANS:
+    mimetype: text/plain
+  RL-SLIME.ANS:
+    mimetype: text/plain
+  RL-SLIMW.ANS:
+    mimetype: text/plain
+  RL-TWIOT.ANS:
+    mimetype: text/plain

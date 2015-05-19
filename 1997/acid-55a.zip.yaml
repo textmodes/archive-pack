@@ -1,0 +1,42 @@
+name: acid-55a.zip
+hash: deafb268deaf58b31507df8f7df2feae
+year: 1997
+file:
+  ACID-55.NFO:
+    mimetype: text/plain
+  ACID-55.XB:
+    mimetype: text/x-xbin
+  ACIDAPP.EXE:
+    mimetype: application/x-msdos-program
+  ACIDVIEW.DAT:
+    mimetype: application/octet-stream
+  ACIDVIEW.EXE:
+    mimetype: application/x-msdos-program
+  ACIDVIEW.NFO:
+    mimetype: text/plain
+  AL-HAVEN.GIF:
+    mimetype: image/gif
+  B1-TBG.JPG:
+    mimetype: image/jpeg
+  B2-PREVL.ANS:
+    mimetype: text/plain
+  BN-CSI.JPG:
+    mimetype: image/jpeg
+  CS-ABRAX.JPG:
+    mimetype: image/jpeg
+  CS-BRAND.JPG:
+    mimetype: image/jpeg
+  CS-DEVIL.JPG:
+    mimetype: image/jpeg
+  CS-MSRY1.JPG:
+    mimetype: image/jpeg
+  EG-ARTPX.JPG:
+    mimetype: image/jpeg
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  US-NCG2.ANS:
+    mimetype: text/plain
+  VN-GAS.GIF:
+    mimetype: image/gif
+  WE-WILL.SUE:
+    mimetype: text/plain

@@ -1,0 +1,10 @@
+name: lth-outp.zip
+hash: 0073e31261f62daa5f678731685c851c
+year: 1994
+file:
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  NEOTOKYO.ANS:
+    mimetype: text/plain
+  OUTPUT.MOD:
+    mimetype: audio/x-mod

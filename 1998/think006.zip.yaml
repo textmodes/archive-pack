@@ -1,0 +1,32 @@
+name: think006.zip
+hash: ed4288096522184bfe3119b405f3b09a
+year: 1998
+file:
+  ANSI####.DIV:
+    mimetype: application/octet-stream
+  ASCII###.DIV:
+    mimetype: application/octet-stream
+  CODE####.DIV:
+    mimetype: application/octet-stream
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  INFO####.DIV:
+    mimetype: application/octet-stream
+  MISC####.DIV:
+    mimetype: application/octet-stream
+  TANSI012.ZIP:
+    mimetype: application/zip
+  THINK006.MEM:
+    mimetype: text/plain
+  THINK006.NFO:
+    mimetype: text/plain
+  THINKAPP.EXE:
+    mimetype: application/x-msdos-program
+  ZO-CREEP.ANS:
+    mimetype: text/plain
+  ZO-ML100.ZIP:
+    mimetype: application/zip
+  ZO-RATHM.ANS:
+    mimetype: text/plain
+  ZO-TAPPS.ZIP:
+    mimetype: application/zip

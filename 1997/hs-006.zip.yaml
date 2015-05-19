@@ -1,0 +1,34 @@
+name: hs-006.zip
+hash: f5d40f73bc0235d904361161a14a313a
+year: 1997
+file:
+  --DIZ!--.---:
+    mimetype: text/plain
+  --JPG!--.---:
+    mimetype: text/plain
+  --NFO!--.---:
+    mimetype: text/plain
+  GFX(NFO).NFO:
+    mimetype: text/plain
+  GFX(O5A).JPG:
+    mimetype: image/jpeg
+  GFX(O5B).JPG:
+    mimetype: image/jpeg
+  GFX(O5C).JPG:
+    mimetype: image/jpeg
+  GFX(O5D).JPG:
+    mimetype: image/jpeg
+  GFX(O5E).JPG:
+    mimetype: image/jpeg
+  GFX(O5F).JPG:
+    mimetype: image/jpeg
+  GFX(O5G).JPG:
+    mimetype: image/jpeg
+  GFX(O5H).JPG:
+    mimetype: image/jpeg
+  GFX(O5I).JPG:
+    mimetype: image/jpeg
+  GFX(O5J).JPG:
+    mimetype: image/jpeg
+  HS!APPLY.FRM:
+    mimetype: text/plain

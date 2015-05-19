@@ -1,0 +1,38 @@
+name: out-0197.zip
+hash: 274c106afd913479cecab13ce25172cd
+year: 1997
+file:
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FILELIST.TXT:
+    mimetype: text/plain
+  OUT-BLUF.ANS:
+    mimetype: text/plain
+  OUT-CITY.ANS:
+    mimetype: text/plain
+  OUT-DIST.ANS:
+    mimetype: text/plain
+  OUT-DIST.RIP:
+    mimetype: image/x-rip
+  OUT-DIST.TXT:
+    mimetype: text/plain
+  OUT-FAIR.ANS:
+    mimetype: text/plain
+  OUT-MIST.RIP:
+    mimetype: image/x-rip
+  OUT-NWHR.RIP:
+    mimetype: image/x-rip
+  OUT-PEGS.ANS:
+    mimetype: text/plain
+  OUT-SPCE.ANS:
+    mimetype: text/plain
+  OUT-TOUC.ANS:
+    mimetype: text/plain
+  OUT-VALN.ANS:
+    mimetype: text/plain
+  OUT-WARW.RIP:
+    mimetype: image/x-rip
+  OUT-WIDW.RIP:
+    mimetype: image/x-rip
+  OUT.AD:
+    mimetype: text/plain

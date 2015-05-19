@@ -1,0 +1,138 @@
+name: ovt-0496.zip
+hash: c1f9eb04405b4af6c53dd0a509108732
+year: 1996
+file:
+  '---ANSI.---':
+    mimetype: text/plain
+  '---ASCII.---':
+    mimetype: text/plain
+  '---INFO.---':
+    mimetype: text/plain
+  '---OTHER.---':
+    mimetype: text/plain
+  '---VGA.---':
+    mimetype: text/plain
+  CD-BLSTR.OVT:
+    mimetype: text/plain
+  CD-CCLOG.OVT:
+    mimetype: text/plain
+  CD-EQUL.OVT:
+    mimetype: text/plain
+  CD-FIL2.OVT:
+    mimetype: text/plain
+  CD-OVT1.OVT:
+    mimetype: text/plain
+  CD-OVTVW.OVT:
+    mimetype: text/plain
+  CD-SB.OVT:
+    mimetype: text/plain
+  CD-SGSCR.OVT:
+    mimetype: text/plain
+  CD-TLY.OVT:
+    mimetype: text/plain
+  CD-TRBO.OVT:
+    mimetype: text/plain
+  CD-UB.OVT:
+    mimetype: text/plain
+  CD-UL.OVT:
+    mimetype: text/plain
+  DD-CHAB.OVT:
+    mimetype: text/plain
+  DD-CONF.OVT:
+    mimetype: text/plain
+  DD-FILES.OVT:
+    mimetype: text/plain
+  DD-LEVIA.OVT:
+    mimetype: text/plain
+  DD-MAS.OVT:
+    mimetype: text/plain
+  DD-OVER.OVT:
+    mimetype: text/plain
+  DD-OVER1.OVT:
+    mimetype: text/plain
+  DD-OVER2.OVT:
+    mimetype: text/plain
+  DD-OVER3.OVT:
+    mimetype: text/plain
+  DD-OVT1.OVT:
+    mimetype: text/plain
+  DD-OVT2.OVT:
+    mimetype: text/plain
+  DD-STAR.OVT:
+    mimetype: text/plain
+  DD-TLY1.OVT:
+    mimetype: text/plain
+  DD-UNN.OVT:
+    mimetype: text/plain
+  DD-UNNCO.OVT:
+    mimetype: text/plain
+  DD-XPA.OVT:
+    mimetype: text/plain
+  DEVIOUS.BDP:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  HC-ASLM2.OVT:
+    mimetype: text/plain
+  HC-CC.OVT:
+    mimetype: text/plain
+  HC-LOD.OVT:
+    mimetype: text/plain
+  HC-PINT.OVT:
+    mimetype: text/plain
+  HC-VOR1.OVT:
+    mimetype: text/plain
+  HC-VOR2.OVT:
+    mimetype: text/plain
+  KARTING.LC:
+    mimetype: text/plain
+  OVT-NEWS.NFO:
+    mimetype: text/plain
+  OVT-RELS.NFO:
+    mimetype: text/plain
+  PC-KSL.OVT:
+    mimetype: text/plain
+  PC-OUTPO.OVT:
+    mimetype: text/plain
+  PS-ASCI1.OVT:
+    mimetype: text/plain
+  PS-ASCI2.OVT:
+    mimetype: text/plain
+  PS-PONY.COM:
+    mimetype: application/x-msdos-program
+  SF-DIMD.OVT:
+    mimetype: text/plain
+  SF-EL.OVT:
+    mimetype: text/plain
+  SF-SG.OVT:
+    mimetype: text/plain
+  SF-SW.OVT:
+    mimetype: text/plain
+  SR-INLOG.OVT:
+    mimetype: text/plain
+  SR-OUTP.OVT:
+    mimetype: text/plain
+  SR-TRBO.OVT:
+    mimetype: text/plain
+  TLY-APP.EXE:
+    mimetype: application/x-msdos-program
+  TLY-BRDS.COM:
+    mimetype: application/x-msdos-program
+  TLY-GRTZ.COM:
+    mimetype: application/x-msdos-program
+  TLY-LOG1.JPG:
+    mimetype: image/jpeg
+  TLY-LOG2.JPG:
+    mimetype: image/jpeg
+  TLY-LOG3.JPG:
+    mimetype: image/jpeg
+  TLY-MEMB.COM:
+    mimetype: application/x-msdos-program
+  TLY-VIEW.ZIP:
+    mimetype: application/zip
+  XS-CODFI.OVT:
+    mimetype: text/plain
+  XS-OVT.OVT:
+    mimetype: text/plain
+  XS-TLY.OVT:
+    mimetype: text/plain

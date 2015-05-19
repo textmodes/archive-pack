@@ -1,0 +1,18 @@
+name: assault.zip
+hash: e05a31a6b004bb83a52348d23dee4a6a
+year: 1993
+file:
+  ANSI.ZIP:
+    mimetype: application/zip
+  ASLINFO.TXT:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  LIT.ZIP:
+    mimetype: application/zip
+  LUPUS.NFO:
+    mimetype: text/plain
+  RECRUIT.ANS:
+    mimetype: text/plain
+  VGA.ZIP:
+    mimetype: application/zip

@@ -1,0 +1,54 @@
+name: kbsart04.zip
+hash: 2da2f4240d90b543196fcdbaf24a0ada
+year: 2000
+file:
+  CP-B02.ANS:
+    mimetype: text/plain
+  File_id.ans:
+    mimetype: text/plain
+  GO-BLEU.ANS:
+    mimetype: text/plain
+  GO-CL.ANS:
+    mimetype: text/plain
+  Go-sdiz.asc:
+    mimetype: text/plain
+  Inc-kvw.ans:
+    mimetype: text/plain
+  KBSNFO.EXE:
+    mimetype: application/x-msdos-program
+  KTZ-CORI.ANS:
+    mimetype: text/plain
+  KTZ-EB.ANS:
+    mimetype: text/plain
+  KTZ-MAD!.ANS:
+    mimetype: text/plain
+  KTZ-UNF.ANS:
+    mimetype: text/plain
+  Kbsart04.mem:
+    mimetype: text/plain
+  Kbsart04.nfo:
+    mimetype: text/plain
+  Ktz-elvs.ans:
+    mimetype: text/plain
+  Lm-ewa.ans:
+    mimetype: text/plain
+  Lm-metal.ans:
+    mimetype: text/plain
+  NS-COLL1.ANS:
+    mimetype: text/plain
+  NS-GUMFU.ANS:
+    mimetype: text/plain
+  NS-LOST.ANS:
+    mimetype: text/plain
+  SOB-DE.ANS:
+    mimetype: text/plain
+  SOB-LOR.ANS:
+    mimetype: text/plain
+  SOB-MCF.ANS:
+    mimetype: text/plain
+  SOB-P.ANS:
+    mimetype: text/plain
+  Us-what.ans:
+    mimetype: text/plain
+  file_id.diz:
+    mimetype: text/plain

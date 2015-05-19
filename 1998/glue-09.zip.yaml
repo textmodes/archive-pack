@@ -1,0 +1,62 @@
+name: glue-09.zip
+hash: a81c0db4482dfdcb10d758ec209a3ad0
+year: 1998
+file:
+  15-ETH.ANS:
+    mimetype: text/plain
+  ANSI.---:
+    mimetype: text/plain
+  BF-OVNI1.ANS:
+    mimetype: text/plain
+  BF-SCNT1.ANS:
+    mimetype: text/plain
+  BF-TRY1.ANS:
+    mimetype: text/plain
+  BF-TRY2.ANS:
+    mimetype: text/plain
+  DIS-SCNT.ANS:
+    mimetype: text/plain
+  DS-GPMAI.ANS:
+    mimetype: text/plain
+  DS-QUAD.ANS:
+    mimetype: text/plain
+  DS-TSLO.ANS:
+    mimetype: text/plain
+  DS-TSMAT.ANS:
+    mimetype: text/plain
+  DS-TSMEN.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GLUE-09.MEM:
+    mimetype: text/plain
+  GLUE-09.NFO:
+    mimetype: text/plain
+  INFO.---:
+    mimetype: text/plain
+  IO-GLUE.ANS:
+    mimetype: text/plain
+  P5-NLOGO.ANS:
+    mimetype: text/plain
+  P5-S.ANS:
+    mimetype: text/plain
+  P5-USELE.ANS:
+    mimetype: text/plain
+  RH-CLLY1.ANS:
+    mimetype: text/plain
+  RN-SURR.ANS:
+    mimetype: text/plain
+  S1-PEG.ANS:
+    mimetype: text/plain
+  S1-TS.ANS:
+    mimetype: text/plain
+  SM-ZERO.ANS:
+    mimetype: text/plain
+  TC-BIG.ANS:
+    mimetype: text/plain
+  TNT-ACO.ANS:
+    mimetype: text/plain
+  TNT-DEV.ANS:
+    mimetype: text/plain
+  TNT-SALT.ANS:
+    mimetype: text/plain

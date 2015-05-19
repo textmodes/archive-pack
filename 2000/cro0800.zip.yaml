@@ -1,0 +1,210 @@
+name: cro0800.zip
+hash: 4b2d78c567276b0768a0615c5602d175
+year: 2000
+file:
+  Ascii/CR-AUDO.ASC:
+    mimetype: text/plain
+  Ascii/CR-BL.NFO:
+    mimetype: text/plain
+  Ascii/CR-DC.ASC:
+    mimetype: text/plain
+  Ascii/CR-DC.NFO:
+    mimetype: text/plain
+  Ascii/CR-DJREC.ASC:
+    mimetype: text/plain
+  Ascii/CR-DJREC.NFO:
+    mimetype: text/plain
+  Ascii/CR-DNT.NFO:
+    mimetype: text/plain
+  Ascii/CR-DST.ASC:
+    mimetype: text/plain
+  Ascii/CR-DST.DIZ:
+    mimetype: text/plain
+  Ascii/CR-DST.NFO:
+    mimetype: text/plain
+  Ascii/CR-ENV.ASC:
+    mimetype: text/plain
+  Ascii/CR-FIP.NFO:
+    mimetype: text/plain
+  Ascii/CR-GVD.ASC:
+    mimetype: text/plain
+  Ascii/CR-GVD.NFO:
+    mimetype: text/plain
+  Ascii/CR-HTDJ.ASC:
+    mimetype: text/plain
+  Ascii/CR-IRC.ASC:
+    mimetype: text/plain
+  Ascii/CR-LKT.ASC:
+    mimetype: text/plain
+  Ascii/CR-LKT.NFO:
+    mimetype: text/plain
+  Ascii/CR-LXL.DIZ:
+    mimetype: text/plain
+  Ascii/CR-NIG.ASC:
+    mimetype: text/plain
+  Ascii/CR-PS.ASC:
+    mimetype: text/plain
+  Ascii/CR-RING.NFO:
+    mimetype: text/plain
+  Ascii/CR-SW.ASC:
+    mimetype: text/plain
+  Ascii/CR-TCP.ASC:
+    mimetype: text/plain
+  Ascii/CR-TCP1.NFO:
+    mimetype: text/plain
+  Ascii/CR-TOD.ASC:
+    mimetype: text/plain
+  Ascii/CR-TRP.NFO:
+    mimetype: text/plain
+  Ascii/CR-TWC.ASC:
+    mimetype: text/plain
+  Ascii/CR-TWC.NFO:
+    mimetype: text/plain
+  Ascii/CR-UNI.ASC:
+    mimetype: text/plain
+  Ascii/CR-UNI1.ASC:
+    mimetype: text/plain
+  Ascii/CR-VCDPL.ASC:
+    mimetype: text/plain
+  Ascii/CR-WAF.NFO:
+    mimetype: text/plain
+  Ascii/CR-WIND.ASC:
+    mimetype: text/plain
+  Ascii/SRT-ALA.WEL:
+    mimetype: application/octet-stream
+  Ascii/SRT-AOW.WEL:
+    mimetype: application/octet-stream
+  Ascii/SRT-CRE.WEL:
+    mimetype: application/octet-stream
+  Ascii/SRT-EH.WEL:
+    mimetype: application/octet-stream
+  Ascii/SRT-LUCY.WEL:
+    mimetype: application/octet-stream
+  Ascii/SRT-MS.NFO:
+    mimetype: text/plain
+  Ascii/SRT-RIC.WEL:
+    mimetype: application/octet-stream
+  Ascii/SRT-SAN.WEL:
+    mimetype: application/octet-stream
+  Ascii/SRT-TMD.WEL:
+    mimetype: application/octet-stream
+  Ascii/SRT-WIWO.OLD:
+    mimetype: application/octet-stream
+  Ascii/ZNT-ADIZ.ASC:
+    mimetype: text/plain
+  Ascii/ZNT-AOI.ASC:
+    mimetype: text/plain
+  Ascii/ZNT-AVT.ASC:
+    mimetype: text/plain
+  Ascii/ZNT-BLIT.ASC:
+    mimetype: text/plain
+  Ascii/ZNT-DREA.ASC:
+    mimetype: text/plain
+  Ascii/ZNT-DRID.ASC:
+    mimetype: text/plain
+  Ascii/ZNT-DST.ASC:
+    mimetype: text/plain
+  Ascii/ZNT-EILI.ASC:
+    mimetype: text/plain
+  Ascii/ZNT-EILO.ASC:
+    mimetype: text/plain
+  Ascii/ZNT-EVN.ASC:
+    mimetype: text/plain
+  Ascii/ZNT-FCID.ASC:
+    mimetype: text/plain
+  Ascii/ZNT-FCNF.ASC:
+    mimetype: text/plain
+  Ascii/ZNT-GRPS.ASC:
+    mimetype: text/plain
+  Ascii/ZNT-HERC.ASC:
+    mimetype: text/plain
+  Ascii/ZNT-IPAD.ASC:
+    mimetype: text/plain
+  Ascii/ZNT-IPAN.ASC:
+    mimetype: text/plain
+  Ascii/ZNT-ONEL.ASC:
+    mimetype: text/plain
+  Ascii/ZNT-PHX.ASC:
+    mimetype: text/plain
+  Ascii/ZNT-PMN.ASC:
+    mimetype: text/plain
+  Ascii/ZNT-RTP.ASC:
+    mimetype: text/plain
+  Ascii/ZNT-SLK.ASC:
+    mimetype: text/plain
+  Ascii/ZNT-TOGB.ASC:
+    mimetype: text/plain
+  Ascii/ZNT-UPLO.ASC:
+    mimetype: text/plain
+  Ascii/znt-tali.asc:
+    mimetype: text/plain
+  Chiptunes/Mtc-obsessio.xm:
+    mimetype: audio/x-mod
+  Chiptunes/PD-ISRY.XM:
+    mimetype: audio/x-mod
+  Chiptunes/PD-LOST.XM:
+    mimetype: audio/x-mod
+  Chiptunes/PD-LR.XM:
+    mimetype: audio/x-mod
+  Chiptunes/Pd-bet.xm:
+    mimetype: audio/x-mod
+  Chiptunes/Pd-hell.xm:
+    mimetype: audio/x-mod
+  Chiptunes/Way-cath.xm:
+    mimetype: audio/x-mod
+  Chiptunes/Way-dayb.xm:
+    mimetype: audio/x-mod
+  Chiptunes/Way-env.xm:
+    mimetype: audio/x-mod
+  Chiptunes/Way-milk.xm:
+    mimetype: audio/x-mod
+  Chiptunes/Way-sue.xm:
+    mimetype: audio/x-mod
+  Flash/anime1.exe:
+    mimetype: application/x-msdos-program
+  Flash/anime2.exe:
+    mimetype: application/x-msdos-program
+  Flash/cool.swf:
+    mimetype: application/x-shockwave-flash
+  Flash/halm.swf:
+    mimetype: application/x-shockwave-flash
+  Flash/moto.swf:
+    mimetype: application/x-shockwave-flash
+  Flash/reinsberg.swf:
+    mimetype: application/x-shockwave-flash
+  Flash/start.exe:
+    mimetype: application/x-msdos-program
+  Hirez/Ay-app.jpg:
+    mimetype: image/jpeg
+  Hirez/Ay-cro.jpg:
+    mimetype: image/jpeg
+  Hirez/Ba-core.jpg:
+    mimetype: image/jpeg
+  Hirez/Iz-cro.gif:
+    mimetype: image/gif
+  Hirez/Iz-drink.jpg:
+    mimetype: image/jpeg
+  Hirez/Iz-nsty.jpg:
+    mimetype: image/jpeg
+  Hirez/Iz-rzr1.gif:
+    mimetype: image/gif
+  Hirez/Iz-rzr2.gif:
+    mimetype: image/gif
+  Hirez/Iz-rzr3.gif:
+    mimetype: image/gif
+  Hirez/Ma-cro04.jpg:
+    mimetype: image/jpeg
+  Hirez/Ma-wet.jpg:
+    mimetype: image/jpeg
+  Hirez/So-dragon.jpg:
+    mimetype: image/jpeg
+  Hirez/T!-inv.gif:
+    mimetype: image/gif
+  Hirez/T!-trsi.gif:
+    mimetype: image/gif
+  Mpeg/Eve-CroSword.mpeg:
+    mimetype: video/mpeg
+  creaction.nfo:
+    mimetype: text/plain
+  file_id.diz:
+    mimetype: text/plain

@@ -1,0 +1,234 @@
+name: cro0801.zip
+hash: 53131fd4707a49febdf81178ec6b531a
+year: 2001
+file:
+  ascii/SRT-GB.ASC:
+    mimetype: text/plain
+  ascii/Srt-dc.asc:
+    mimetype: text/plain
+  ascii/Srt-go.asc:
+    mimetype: text/plain
+  ascii/Srt-gs.asc:
+    mimetype: text/plain
+  ascii/Srt-mrc.asc:
+    mimetype: text/plain
+  ascii/Srt-out.asc:
+    mimetype: text/plain
+  ascii/Srt-sd.asc:
+    mimetype: text/plain
+  ascii/Srt-sui.asc:
+    mimetype: text/plain
+  ascii/TPK-AFD4.DIZ:
+    mimetype: text/plain
+  ascii/TPK-CKOS.ASC:
+    mimetype: text/plain
+  ascii/TPK-CNC9.DIZ:
+    mimetype: text/plain
+  ascii/TPK-RVHS.ASC:
+    mimetype: text/plain
+  ascii/TPK-TGX.ASC:
+    mimetype: text/plain
+  ascii/Tpk-mim2.nfo:
+    mimetype: text/plain
+  ascii/Tpk-osc.nfo:
+    mimetype: text/plain
+  ascii/ZNT-MIND.ASC:
+    mimetype: text/plain
+  ascii/cg-atl_logout.asc:
+    mimetype: text/plain
+  ascii/cg-atlvcd_logout.asc:
+    mimetype: text/plain
+  ascii/cg-atlvcd_welcome.asc:
+    mimetype: text/plain
+  ascii/cg-bb-ftp_welcome.asc:
+    mimetype: text/plain
+  ascii/cg-enc_welcome.asc:
+    mimetype: text/plain
+  ascii/cg-genesis_nfo.asc:
+    mimetype: text/plain
+  ascii/cg-ood_welcome_addon.asc:
+    mimetype: text/plain
+  ascii/cg-pwh_welcome.asc:
+    mimetype: text/plain
+  ascii/cg-tn_welcome.asc:
+    mimetype: text/plain
+  ascii/tpk-lxd1.diz:
+    mimetype: text/plain
+  ascii/tpk-lxd2.diz:
+    mimetype: text/plain
+  ascii/tpk-lxd3.diz:
+    mimetype: text/plain
+  ascii/tpk-lxd5.diz:
+    mimetype: text/plain
+  ascii/tpk-lxd6.diz:
+    mimetype: text/plain
+  ascii/tpk-lxt2.nfo:
+    mimetype: text/plain
+  ascii/tpk-tgx2.nfo:
+    mimetype: text/plain
+  ascii/tpk-tjaw.asc:
+    mimetype: text/plain
+  ascii/tpk-tlr1.asc:
+    mimetype: text/plain
+  ascii/znt-ocid.asc:
+    mimetype: text/plain
+  chips/DT_BLH.XM:
+    mimetype: audio/x-mod
+  chips/DT_FIELD.XM:
+    mimetype: audio/x-mod
+  chips/DT_ORN#4.XM:
+    mimetype: audio/x-mod
+  chips/DT_WHAT.XM:
+    mimetype: audio/x-mod
+  chips/DZ_SMFMX.IT:
+    mimetype: audio/x-mod
+  chips/Dt_nmx.xm:
+    mimetype: audio/x-mod
+  chips/JL-POLKA.MOD:
+    mimetype: audio/x-mod
+  chips/Mtc-tmind.xm:
+    mimetype: audio/x-mod
+  chips/NEO-FF.XM:
+    mimetype: audio/x-mod
+  chips/NEO-UCF.XM:
+    mimetype: audio/x-mod
+  chips/PD&NEOGC.XM:
+    mimetype: audio/x-mod
+  chips/PD-JENS.XM:
+    mimetype: audio/x-mod
+  chips/PD-LMF.XM:
+    mimetype: audio/x-mod
+  chips/PD-LW.XM:
+    mimetype: audio/x-mod
+  chips/Pd-ra.xm:
+    mimetype: audio/x-mod
+  chips/Pd-ss.xm:
+    mimetype: audio/x-mod
+  chips/Pd-tlntw.xm:
+    mimetype: audio/x-mod
+  chips/Sau-wankin.it:
+    mimetype: audio/x-mod
+  chips/Sau-whore.s3m:
+    mimetype: audio/x-mod
+  creaction.org:
+    mimetype: application/octet-stream
+  extra/Cro_Amp 1.0b/Skin/btnbw.bmp:
+    mimetype: image/x-ms-bmp
+  extra/Cro_Amp 1.0b/Skin/btncan.bmp:
+    mimetype: image/x-ms-bmp
+  extra/Cro_Amp 1.0b/Skin/btncb.bmp:
+    mimetype: image/x-ms-bmp
+  extra/Cro_Amp 1.0b/Skin/btncbd.bmp:
+    mimetype: image/x-ms-bmp
+  extra/Cro_Amp 1.0b/Skin/btncbu.bmp:
+    mimetype: image/x-ms-bmp
+  extra/Cro_Amp 1.0b/Skin/btnext.bmp:
+    mimetype: image/x-ms-bmp
+  extra/Cro_Amp 1.0b/Skin/btnfw.bmp:
+    mimetype: image/x-ms-bmp
+  extra/Cro_Amp 1.0b/Skin/btnmin.bmp:
+    mimetype: image/x-ms-bmp
+  extra/Cro_Amp 1.0b/Skin/btnpdw.bmp:
+    mimetype: image/x-ms-bmp
+  extra/Cro_Amp 1.0b/Skin/btnply.bmp:
+    mimetype: image/x-ms-bmp
+  extra/Cro_Amp 1.0b/Skin/btnpue.bmp:
+    mimetype: image/x-ms-bmp
+  extra/Cro_Amp 1.0b/Skin/btnpup.bmp:
+    mimetype: image/x-ms-bmp
+  extra/Cro_Amp 1.0b/Skin/btnsdw.bmp:
+    mimetype: image/x-ms-bmp
+  extra/Cro_Amp 1.0b/Skin/btnstp.bmp:
+    mimetype: image/x-ms-bmp
+  extra/Cro_Amp 1.0b/Skin/btnsup.bmp:
+    mimetype: image/x-ms-bmp
+  extra/Cro_Amp 1.0b/Skin/btnsve.bmp:
+    mimetype: image/x-ms-bmp
+  extra/Cro_Amp 1.0b/Skin/plskin.png:
+    mimetype: image/png
+  extra/Cro_Amp 1.0b/Skin/skin.png:
+    mimetype: image/png
+  extra/Cro_Amp 1.0b/artists.lst:
+    mimetype: text/plain
+  extra/Cro_Amp 1.0b/croamp.exe:
+    mimetype: application/x-msdos-program
+  extra/Cro_Amp 1.0b/readme.txt:
+    mimetype: text/plain
+  extra/S35_Logos/bR-digital.bmp:
+    mimetype: image/x-ms-bmp
+  hirez/bR-Freestyle.jpg:
+    mimetype: image/jpeg
+  hirez/bR-Old_Pixel-Core.jpg:
+    mimetype: image/jpeg
+  hirez/bR-Senimilia.jpg:
+    mimetype: image/jpeg
+  hirez/bR-cro_install-finish.jpg:
+    mimetype: image/jpeg
+  hirez/flk!-core_intro_logo(5).jpg:
+    mimetype: image/jpeg
+  hirez/flk!-df-keygentemplate_just_another_df_keygen.jpg:
+    mimetype: image/jpeg
+  hirez/flk!-psf_main_logo-3_1.jpg:
+    mimetype: image/jpeg
+  hirez/flk!-qlimax_installer-2-final.jpg:
+    mimetype: image/jpeg
+  hirez/flk!-wasted_keygenlogo-3.jpg:
+    mimetype: image/jpeg
+  hirez/fu!back.gif:
+    mimetype: image/gif
+  hirez/fu!back2.gif:
+    mimetype: image/gif
+  hirez/fu!blood.gif:
+    mimetype: image/gif
+  hirez/fu!cordos.gif:
+    mimetype: image/gif
+  hirez/fu!cro.gif:
+    mimetype: image/gif
+  hirez/fu!croaka.gif:
+    mimetype: image/gif
+  hirez/fu!skin.gif:
+    mimetype: image/gif
+  hirez/fu!skinna.gif:
+    mimetype: image/gif
+  hirez/fu!wesa.gif:
+    mimetype: image/gif
+  hirez/gr!cro.liquidfire-logo.jpg:
+    mimetype: image/jpeg
+  hirez/gr!link.str-keygenlogo.jpg:
+    mimetype: image/jpeg
+  hirez/gr!orion2-keygenlogo.jpg:
+    mimetype: image/jpeg
+  hirez/gr!tnp-logo.jpg:
+    mimetype: image/jpeg
+  hirez/m!creation.jpg:
+    mimetype: image/jpeg
+  hirez/m!starscro.jpg:
+    mimetype: image/jpeg
+  hirez/mono_eetzbeetz.gif:
+    mimetype: image/gif
+  hirez/mono_grabbot.gif:
+    mimetype: image/gif
+  hirez/mono_hed1.gif:
+    mimetype: image/gif
+  hirez/mono_hed2.gif:
+    mimetype: image/gif
+  hirez/mono_vlms.jpg:
+    mimetype: image/jpeg
+  hirez/nice-cro.jpg:
+    mimetype: image/jpeg
+  hirez/nice-rocks.jpg:
+    mimetype: image/jpeg
+  hirez/nice-roko.jpg:
+    mimetype: image/jpeg
+  hirez/nice_cube.jpg:
+    mimetype: image/jpeg
+  hirez/t!-gmf.gif:
+    mimetype: image/gif
+  hirez/t!-mars.gif:
+    mimetype: image/gif
+  hirez/tab-croka.jpg:
+    mimetype: image/jpeg
+  hirez/v666-BMi.homepage.interface.jpg:
+    mimetype: image/jpeg
+  hirez/v666-PLE.HP.MENUE.jpg:
+    mimetype: image/jpeg

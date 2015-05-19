@@ -1,0 +1,30 @@
+name: m-9806-b.zip
+hash: 0611c3294610437d2bcd005295b63b7b
+year: 1998
+file:
+  !!binary +vpWLkdB+g==:
+    mimetype: text/plain
+  ED-SUN.JPG:
+    mimetype: image/jpeg
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  KT-0001.JPG:
+    mimetype: image/jpeg
+  M-9806.MEM:
+    mimetype: text/plain
+  M-9806.NFO:
+    mimetype: text/plain
+  RZ-CIN.JPG:
+    mimetype: image/jpeg
+  RZ-DD.JPG:
+    mimetype: image/jpeg
+  RZ-MW1.JPG:
+    mimetype: image/jpeg
+  RZ-MW19.JPG:
+    mimetype: image/jpeg
+  RZ-MW21.JPG:
+    mimetype: image/jpeg
+  RZ-YF19.JPG:
+    mimetype: image/jpeg
+  SYNTIME.JPG:
+    mimetype: image/jpeg

@@ -1,0 +1,48 @@
+name: ild9610.zip
+hash: 090ea0f19678a1531969049de2e55884
+year: 1996
+file:
+  '!F_S01.JPG':
+    mimetype: image/jpeg
+  '!ILD-DR1.JPG':
+    mimetype: image/jpeg
+  '!O_D05.JPG':
+    mimetype: image/jpeg
+  '!TWS.JPG':
+    mimetype: image/jpeg
+  CUNTKRIS.JPG:
+    mimetype: image/jpeg
+  DIFF01.JPG:
+    mimetype: image/jpeg
+  FILE_ID.COM:
+    mimetype: application/x-msdos-program
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FUBAR02.JPG:
+    mimetype: image/jpeg
+  ILD-APP.EXE:
+    mimetype: application/x-msdos-program
+  ILD-BAD.JPG:
+    mimetype: image/jpeg
+  ILD-CROW.JPG:
+    mimetype: image/jpeg
+  ILD-F_M.JPG:
+    mimetype: image/jpeg
+  ILD-TOD1.JPG:
+    mimetype: image/jpeg
+  ILD-VENM.JPG:
+    mimetype: image/jpeg
+  ILDFROST.JPG:
+    mimetype: image/jpeg
+  NOC_DSR.JPG:
+    mimetype: image/jpeg
+  PLEKTRUM.JPG:
+    mimetype: image/jpeg
+  PUX1.GIF:
+    mimetype: image/gif
+  PUX2.GIF:
+    mimetype: image/gif
+  README!.COM:
+    mimetype: application/x-msdos-program
+  SLIMFAC3.JPG:
+    mimetype: image/jpeg

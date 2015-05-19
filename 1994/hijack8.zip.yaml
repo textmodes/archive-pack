@@ -1,0 +1,30 @@
+name: hijack8.zip
+hash: 2dc39ab268e79f0ff97494bb60cf0642
+year: 1994
+file:
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  HIJACK.APP:
+    mimetype: text/plain
+  HIJACK1.MOD:
+    mimetype: audio/x-mod
+  HIJACK2.MOD:
+    mimetype: audio/x-mod
+  HIJACK3.MOD:
+    mimetype: audio/x-mod
+  HJWHQ.COM:
+    mimetype: application/x-msdos-program
+  KEYS.TXT:
+    mimetype: text/plain
+  MAGAZINE.DAT:
+    mimetype: application/octet-stream
+  MAGAZINE.EXE:
+    mimetype: application/x-msdos-program
+  README.1ST:
+    mimetype: text/plain
+  SEARCH.TXT:
+    mimetype: text/plain
+  VESA.ZIP:
+    mimetype: application/zip
+  WCHART.VOT:
+    mimetype: text/plain

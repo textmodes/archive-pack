@@ -1,0 +1,60 @@
+name: galza-22.zip
+hash: c7420a46cb43e6364ae46e94c923654b
+year: 2014
+file:
+  file_id.diz:
+    mimetype: text/plain
+  png/galza-22.nfo.png:
+    mimetype: image/png
+  png/magazine.jpg:
+    mimetype: image/jpeg
+  png/om-hestpony.png:
+    mimetype: image/png
+  png/om-onoda.png:
+    mimetype: image/png
+  png/om-redhut.png:
+    mimetype: image/png
+  png/om-rietveld.png:
+    mimetype: image/png
+  png/om-skrolli.png:
+    mimetype: image/png
+  png/us-bureaucracy.png:
+    mimetype: image/png
+  png/us-collateral.png:
+    mimetype: image/png
+  png/us-egypt.png:
+    mimetype: image/png
+  png/us-masks.png:
+    mimetype: image/png
+  png/us-orwell.png:
+    mimetype: image/png
+  png/us-path-ru.png:
+    mimetype: image/png
+  png/us-path.png:
+    mimetype: image/png
+  txt/galza-22.nfo:
+    mimetype: text/plain
+  txt/om-hestpony.ans:
+    mimetype: text/plain
+  txt/om-onoda.ans:
+    mimetype: text/plain
+  txt/om-redhut.ans:
+    mimetype: text/plain
+  txt/om-rietveld.ans:
+    mimetype: text/plain
+  txt/om-skrolli.ans:
+    mimetype: text/plain
+  txt/us-bureaucracy.ans:
+    mimetype: text/plain
+  txt/us-collateral.ans:
+    mimetype: text/plain
+  txt/us-egypt.ans:
+    mimetype: text/plain
+  txt/us-masks.ans:
+    mimetype: text/plain
+  txt/us-orwell.ans:
+    mimetype: text/plain
+  txt/us-path-ru.ans:
+    mimetype: text/plain
+  txt/us-path.ans:
+    mimetype: text/plain

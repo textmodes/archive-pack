@@ -1,0 +1,76 @@
+name: spin03.zip
+hash: 352ccd3c98740fb2cb89434585f5b24f
+year: 1998
+file:
+  '#INFO-03.ANS':
+    mimetype: text/plain
+  '#MEMB-03.ANS':
+    mimetype: text/plain
+  3EQU7HRY.EXE:
+    mimetype: application/x-msdos-program
+  APPLY/APPLY.DAT:
+    mimetype: audio/x-mod
+  APPLY/APPLY.TXT:
+    mimetype: text/plain
+  APPLY/SPIN-APP.EXE:
+    mimetype: application/x-msdos-program
+  ARX_BUT.ANS:
+    mimetype: text/plain
+  ARX_FIN.ANS:
+    mimetype: text/plain
+  ARX_UFO.ASC:
+    mimetype: text/plain
+  BL-BLAMM.ANS:
+    mimetype: text/plain
+  DS-S.ANS:
+    mimetype: text/plain
+  DZ-SPIN.ASC:
+    mimetype: text/plain
+  EMK-BANA.ANS:
+    mimetype: text/plain
+  EMK-BLUE.ANS:
+    mimetype: text/plain
+  EMK-ESE1.ANS:
+    mimetype: text/plain
+  EMK-ESE2.ANS:
+    mimetype: text/plain
+  EMK-MEL.ANS:
+    mimetype: text/plain
+  EMK-SPIN.ANS:
+    mimetype: text/plain
+  EZU-OLD.ASC:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  IPH-%.ANS:
+    mimetype: text/plain
+  IPH-DIZ5.ANS:
+    mimetype: text/plain
+  M_A-SPIN.ANS:
+    mimetype: text/plain
+  PPE-DH.ANS:
+    mimetype: text/plain
+  PPE-S4.ANS:
+    mimetype: text/plain
+  RG_SER.ANS:
+    mimetype: text/plain
+  US-DEEP.ANS:
+    mimetype: text/plain
+  US-DV8.ANS:
+    mimetype: text/plain
+  US-PPEMK.ANS:
+    mimetype: text/plain
+  US-RGEMK.ASC:
+    mimetype: text/plain
+  XS-FIRE.ANS:
+    mimetype: text/plain
+  XS-FREE.ANS:
+    mimetype: text/plain
+  XZ-LOGON.ASC:
+    mimetype: text/plain
+  XZ-MAIN.ANS:
+    mimetype: text/plain
+  ZS-EYES.ANS:
+    mimetype: text/plain
+  ZS-GOHAN.ASC:
+    mimetype: text/plain

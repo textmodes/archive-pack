@@ -1,0 +1,108 @@
+name: ecl-pak7.zip
+hash: 695dab05087234110c63b217ad50babb
+year: 1998
+file:
+  ECL-APP.EXE:
+    mimetype: application/x-msdos-program
+  ECL-NFO7.ANS:
+    mimetype: text/plain
+  ECL-VIEW.EXE:
+    mimetype: application/x-msdos-program
+  EX-GUEST.ANS:
+    mimetype: text/plain
+  EX-JOINA.ANS:
+    mimetype: text/plain
+  EX-SUM.ANS:
+    mimetype: text/plain
+  FB-ECLPR.ANS:
+    mimetype: text/plain
+  FB-INFO!.ANS:
+    mimetype: text/plain
+  FB-QUEST.ANS:
+    mimetype: text/plain
+  FB-RVLIN.ANS:
+    mimetype: text/plain
+  FB-SUMAT.ANS:
+    mimetype: text/plain
+  FB-TMAIN.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  IC-EWZE.ANS:
+    mimetype: text/plain
+  IC-LP.ANS:
+    mimetype: text/plain
+  IC-PROPH.ANS:
+    mimetype: text/plain
+  LZ%ECL.ANS:
+    mimetype: text/plain
+  PR_HECTI.ANS:
+    mimetype: text/plain
+  PR_TGZLO.ANS:
+    mimetype: text/plain
+  PRCPLCAL.ANS:
+    mimetype: text/plain
+  PRCPLDOG.ANS:
+    mimetype: text/plain
+  PRCPLELI.ANS:
+    mimetype: text/plain
+  PRSNBZLO.ANS:
+    mimetype: text/plain
+  SN!APL.ANS:
+    mimetype: text/plain
+  SN!DEL.ANS:
+    mimetype: text/plain
+  SN!PLUSH.ANS:
+    mimetype: text/plain
+  SN!TRING.ANS:
+    mimetype: text/plain
+  SN!VLC.ANS:
+    mimetype: text/plain
+  SN!WRT.ANS:
+    mimetype: text/plain
+  SN!XAM.ANS:
+    mimetype: text/plain
+  SN!ZZZ.ANS:
+    mimetype: text/plain
+  TA-CAFF.ANS:
+    mimetype: text/plain
+  TA-GONE.ANS:
+    mimetype: text/plain
+  TG-COLLY.ANS:
+    mimetype: text/plain
+  TG-DAWN.RIP:
+    mimetype: image/x-rip
+  TG-ECL.ASC:
+    mimetype: text/plain
+  TL!BLIST.ANS:
+    mimetype: text/plain
+  TL!CHOOS.ANS:
+    mimetype: text/plain
+  TL!LISTE.ANS:
+    mimetype: text/plain
+  TL!READ.ANS:
+    mimetype: text/plain
+  TS#DWAR.ANS:
+    mimetype: text/plain
+  US-DWAR2.ANS:
+    mimetype: text/plain
+  US-HEJS.ANS:
+    mimetype: text/plain
+  US-TFE.ANS:
+    mimetype: text/plain
+  VLD%DIST.ANS:
+    mimetype: text/plain
+  VLD%LGON.ANS:
+    mimetype: text/plain
+  VLD%PASS.ANS:
+    mimetype: text/plain
+  VLD%SUMA.ANS:
+    mimetype: text/plain
+  VLD%SUX.ANS:
+    mimetype: text/plain
+  VLD%TALN.ANS:
+    mimetype: text/plain
+  VLD%TOL.ANS:
+    mimetype: text/plain
+  VLD%WMSG.ANS:
+    mimetype: text/plain

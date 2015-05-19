@@ -1,0 +1,16 @@
+name: ecl-13.zip
+hash: 7eed3b60f87038750b374aaf616438a0
+year: 1997
+file:
+  13-INTRO.NFO:
+    mimetype: text/plain
+  13-MEM.NFO:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  LM-NEOS2.ANS:
+    mimetype: text/plain
+  LM-RAD.ANS:
+    mimetype: text/plain
+  RAD_015.ZIP:
+    mimetype: application/zip

@@ -1,0 +1,44 @@
+name: arsin!01.zip
+hash: d86acb3cf0099b10c089ec26c493da41
+year: 1996
+file:
+  '!README!.TXT':
+    mimetype: text/plain
+  _ART_:
+    mimetype: text/plain
+  _SHTUFF_:
+    mimetype: text/plain
+  ARSINAPP.ANS:
+    mimetype: text/plain
+  DOHVIEW.EXE:
+    mimetype: application/x-msdos-program
+  DOHVIEW.TXT:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  MH!A51.ANS:
+    mimetype: text/plain
+  MH!BONE1.ANS:
+    mimetype: text/plain
+  MH!CANDL.ANS:
+    mimetype: text/plain
+  MH!CWIND.ANS:
+    mimetype: text/plain
+  MH!MHFAQ.ASC:
+    mimetype: text/plain
+  MH!PERVP.ANS:
+    mimetype: text/plain
+  MH!PGAN0.ANS:
+    mimetype: text/plain
+  MH!PGAN1.ANS:
+    mimetype: text/plain
+  MH!REQST.ANS:
+    mimetype: text/plain
+  MH!RSN01.ANS:
+    mimetype: text/plain
+  MH!SS.ANS:
+    mimetype: text/plain
+  MH!TAGLN.ANS:
+    mimetype: text/plain
+  MH!VAMP.ANS:
+    mimetype: text/plain

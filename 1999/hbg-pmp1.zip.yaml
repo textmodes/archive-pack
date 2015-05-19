@@ -1,0 +1,20 @@
+name: hbg-pmp1.zip
+hash: ee52a9ed27737b838da598b6798340e4
+year: 1999
+file:
+  !!binary /lBBU1NFRP4uVEhS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  HBG.NFO:
+    mimetype: text/plain
+  PMP99^01.JPG:
+    mimetype: image/jpeg
+  PMP99^02.JPG:
+    mimetype: image/jpeg
+  PMP99^03.JPG:
+    mimetype: image/jpeg
+  PMP99^04.JPG:
+    mimetype: image/jpeg
+  PMP99^05.JPG:
+    mimetype: image/jpeg

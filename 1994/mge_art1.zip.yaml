@@ -1,0 +1,42 @@
+name: mge_art1.zip
+hash: 995cf094e78fc7a51a0493f7a0e431c7
+year: 1994
+file:
+  CEPHYR0.ANS:
+    mimetype: text/plain
+  CEPHYR1.ANS:
+    mimetype: text/plain
+  CEPHYR2.ANS:
+    mimetype: text/plain
+  DATEIEN.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  HYPE1.ANS:
+    mimetype: text/plain
+  LUNATIC.ANS:
+    mimetype: text/plain
+  MAIN.ANS:
+    mimetype: text/plain
+  MGE.NFO:
+    mimetype: text/plain
+  MGE1.ANS:
+    mimetype: text/plain
+  MGE2.ANS:
+    mimetype: text/plain
+  NORMAHL.ANS:
+    mimetype: text/plain
+  NORMAHL1.ANS:
+    mimetype: text/plain
+  SHIT.ANS:
+    mimetype: text/plain
+  SHIT.EXE:
+    mimetype: application/x-msdos-program
+  UNCLE1.ANS:
+    mimetype: text/plain
+  UNCLE2.ANS:
+    mimetype: text/plain
+  UNCLE3.ANS:
+    mimetype: text/plain
+  WELCOME.ANS:
+    mimetype: text/plain

@@ -1,0 +1,28 @@
+name: mimic80.zip
+hash: c27b0814fc7625fc8549df3b673d4133
+year: 2005
+file:
+  aetval.ans:
+    mimetype: text/plain
+  bjasc276.bin:
+    mimetype: application/octet-stream
+  cbn-funk.asc:
+    mimetype: text/plain
+  file_id.diz:
+    mimetype: text/plain
+  h7-pcgam.asc:
+    mimetype: text/plain
+  members.txt:
+    mimetype: text/plain
+  rm-banan.asc:
+    mimetype: text/plain
+  tcf-002.ans:
+    mimetype: text/plain
+  tcf-003.ans:
+    mimetype: text/plain
+  us-mmca1.ans:
+    mimetype: text/plain
+  us-mmca1.rmx:
+    mimetype: text/plain
+  us-mmca2.ans:
+    mimetype: text/plain

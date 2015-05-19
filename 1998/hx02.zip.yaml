@@ -1,0 +1,54 @@
+name: hx02.zip
+hash: dab78d77835031b863b855053dc1d149
+year: 1998
+file:
+  AD4GOOP.COM:
+    mimetype: application/x-msdos-program
+  APPLY/HX001.DAT:
+    mimetype: text/plain
+  APPLY/HX002.DAT:
+    mimetype: text/plain
+  APPLY/HX003.DAT:
+    mimetype: text/plain
+  APPLY/HX004.DAT:
+    mimetype: text/plain
+  APPLY/HX005.DAT:
+    mimetype: text/plain
+  CR-ANS01.ANS:
+    mimetype: text/plain
+  CR-ANS02.ANS:
+    mimetype: text/plain
+  CR-ANS03.ANS:
+    mimetype: text/plain
+  CR-ANS04.ANS:
+    mimetype: text/plain
+  CR-ANS05.ANS:
+    mimetype: text/plain
+  CR-ANS06.ANS:
+    mimetype: text/plain
+  CR-RIP01.RIP:
+    mimetype: image/x-rip
+  CR-RIP02.RIP:
+    mimetype: image/x-rip
+  DIAL_ME.COM:
+    mimetype: application/x-msdos-program
+  EGGBERT.W3E:
+    mimetype: text/plain
+  EV-VGA01.GIF:
+    mimetype: image/gif
+  EV-VGA02.JPG:
+    mimetype: image/jpeg
+  EV-VGA03.JPG:
+    mimetype: image/jpeg
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  HX-INFO.ANS:
+    mimetype: text/plain
+  JE-VGA01.JPG:
+    mimetype: image/jpeg
+  NI-VGA01.JPG:
+    mimetype: image/jpeg
+  TD-VGA01.JPG:
+    mimetype: image/jpeg
+  TOASTER.TOA:
+    mimetype: text/plain

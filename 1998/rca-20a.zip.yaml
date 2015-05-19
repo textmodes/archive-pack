@@ -1,0 +1,26 @@
+name: rca-20a.zip
+hash: d524b7b8c912a7766340f8e2f8985047
+year: 1998
+file:
+  Djl-jwce.asc:
+    mimetype: text/plain
+  Djl-orbt.asc:
+    mimetype: text/plain
+  Us-juice.ans:
+    mimetype: text/plain
+  Zv-blah.ans:
+    mimetype: text/plain
+  en-2a_2.it:
+    mimetype: audio/x-mod
+  en-m2.it:
+    mimetype: audio/x-mod
+  file_id.diz:
+    mimetype: text/plain
+  kt-rush.ans:
+    mimetype: text/plain
+  lb-sprt2.rip:
+    mimetype: image/x-rip
+  rcanews.asc:
+    mimetype: text/plain
+  us-hyst.ans:
+    mimetype: text/plain

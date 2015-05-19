@@ -1,0 +1,14 @@
+name: satwar04.zip
+hash: d91248ccc113a00655efe102686b7b4d
+year: 1998
+file:
+  INFO.WAR:
+    mimetype: application/octet-stream
+  NS-RES4.ASC:
+    mimetype: text/plain
+  OS-RES4.ASC:
+    mimetype: text/plain
+  SW4-NS.ZIP:
+    mimetype: application/zip
+  SW4-OS.ZIP:
+    mimetype: application/zip

@@ -1,0 +1,90 @@
+name: acdu0896.zip
+hash: f0b09c6eafe3853796ea92f01b90f2e2
+year: 1996
+file:
+  ACDU0896.NFO:
+    mimetype: text/plain
+  ACID0896.ANS:
+    mimetype: text/plain
+  ACIDAPP.EXE:
+    mimetype: application/x-msdos-program
+  ACIDVIEW.DAT:
+    mimetype: application/octet-stream
+  ACIDVIEW.EXE:
+    mimetype: application/x-msdos-program
+  ACIDVIEW.NFO:
+    mimetype: text/plain
+  ADF2XBIN.EXE:
+    mimetype: application/x-msdos-program
+  ADF2XBIN.PAS:
+    mimetype: text/x-pascal
+  BIN2XBIN.EXE:
+    mimetype: application/x-msdos-program
+  BIN2XBIN.PAS:
+    mimetype: text/x-pascal
+  BN-OUTLA.JPG:
+    mimetype: image/jpeg
+  BN-RAZOR.GIF:
+    mimetype: image/gif
+  CS-MALE1.JPG:
+    mimetype: image/jpeg
+  CS-ROCK1.JPG:
+    mimetype: image/jpeg
+  CT-XBIN.XB:
+    mimetype: text/x-xbin
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GD-SPYDR.ANS:
+    mimetype: text/plain
+  IF-HLPB.ANS:
+    mimetype: text/plain
+  IF-TAWTL.ANS:
+    mimetype: text/plain
+  KO-ED209.JPG:
+    mimetype: image/jpeg
+  QS-ACID.JPG:
+    mimetype: image/jpeg
+  SIMPLEXB.EXE:
+    mimetype: application/x-msdos-program
+  SIMPLEXB.PAS:
+    mimetype: text/x-pascal
+  SM-WHARF.ANS:
+    mimetype: text/plain
+  SPOON.EXE:
+    mimetype: application/x-msdos-program
+  SPOON.INI:
+    mimetype: text/plain
+  STM.PAS:
+    mimetype: text/x-pascal
+  T1-ANKH.JPG:
+    mimetype: image/jpeg
+  T1-XBIN.XB:
+    mimetype: text/x-xbin
+  TH-KOIRR.JPG:
+    mimetype: image/jpeg
+  TH-MOPPY.JPG:
+    mimetype: image/jpeg
+  UN-ACID.XB:
+    mimetype: text/x-xbin
+  UN-ACID2.XB:
+    mimetype: text/x-xbin
+  US-ABST2.JPG:
+    mimetype: image/jpeg
+  US-MYST.RIP:
+    mimetype: image/x-rip
+  US-ROCK.ANS:
+    mimetype: text/plain
+  US-XBIN.XB:
+    mimetype: text/x-xbin
+  VG-PROJE.JPG:
+    mimetype: image/jpeg
+  VGA.PAS:
+    mimetype: text/x-pascal
+  WE-WILL.SUE:
+    mimetype: text/plain
+  XBIN.HIS:
+    mimetype: text/plain
+  XBIN.TUT:
+    mimetype: text/plain
+  XBIN.TXT:
+    mimetype: text/plain

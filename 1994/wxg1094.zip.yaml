@@ -1,0 +1,96 @@
+name: wxg1094.zip
+hash: 1811de259ad521fd935342b3df063c0f
+year: 1994
+file:
+  ADAM/BATCAVE.ANS:
+    mimetype: text/plain
+  ADAM/CYCLOPS.ANS:
+    mimetype: text/plain
+  ADAM/FISH.ANS:
+    mimetype: text/plain
+  ADAM/MAGNETO.ANS:
+    mimetype: text/plain
+  ADAM/S&A.ANS:
+    mimetype: text/plain
+  ALLIANCE.ZIP:
+    mimetype: application/zip
+  AMPRO/AMP-FANT.ANS:
+    mimetype: text/plain
+  AMPRO/AMPRO101.MOD:
+    mimetype: audio/x-mod
+  AMPRO/AMPRO102.MOD:
+    mimetype: audio/x-mod
+  AMPRO/AMPRO107.MOD:
+    mimetype: audio/x-mod
+  AMPRO/AMPRO109.MOD:
+    mimetype: audio/x-mod
+  AMUSIC/ADAM1.MUS:
+    mimetype: text/plain
+  AMUSIC/POLICE.MUS:
+    mimetype: text/plain
+  AMUSIC/ROAM.MUS:
+    mimetype: text/plain
+  AMUSIC/SANDMAN.MUS:
+    mimetype: text/plain
+  AMUSIC/STAIRWAY.MUS:
+    mimetype: text/plain
+  DEADVIEW.EXE:
+    mimetype: application/x-msdos-program
+  DOMINO/DM-CYC.ANS:
+    mimetype: text/plain
+  DOMINO/DM-GREEN.ANS:
+    mimetype: text/plain
+  DOMINO/DM-HELM.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  MAX/AVALON1.RIP:
+    mimetype: image/x-rip
+  MAX/AVALON2.RIP:
+    mimetype: image/x-rip
+  MAX/AVALON3.RIP:
+    mimetype: image/x-rip
+  MAX/WIZARD.ANS:
+    mimetype: text/plain
+  PATCH/ALIEN1.ANS:
+    mimetype: text/plain
+  PATCH/BART1.ANS:
+    mimetype: text/plain
+  PATCH/BATMAN2.ANS:
+    mimetype: text/plain
+  PATCH/BISHOP2.ANS:
+    mimetype: text/plain
+  PATCH/CFD2.ANS:
+    mimetype: text/plain
+  PATCH/CHERRY.ANS:
+    mimetype: text/plain
+  PATCH/CHERRY14.ANS:
+    mimetype: text/plain
+  PATCH/KNIGHT1.ANS:
+    mimetype: text/plain
+  PATCH/LOBO1.ANS:
+    mimetype: text/plain
+  PATCH/NENE4.ANS:
+    mimetype: text/plain
+  PATCH/NINJA5.ANS:
+    mimetype: text/plain
+  PATCH/NORMAN1.ANS:
+    mimetype: text/plain
+  PATCH/PHANTOM1.ANS:
+    mimetype: text/plain
+  PATCH/TEACHER1.ANS:
+    mimetype: text/plain
+  PATCH/VOODOO1.ANS:
+    mimetype: text/plain
+  PATCH/WOLV8.ANS:
+    mimetype: text/plain
+  SHATTER/SH-WRLD.GIF:
+    mimetype: image/gif
+  SHATTER/SUPERNOV.ANS:
+    mimetype: text/plain
+  WXAGV10.EXE:
+    mimetype: application/x-msdos-program
+  WXG1094.MAG:
+    mimetype: text/plain
+  WXVV10.EXE:
+    mimetype: application/x-msdos-program

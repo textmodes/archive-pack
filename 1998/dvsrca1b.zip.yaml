@@ -1,0 +1,40 @@
+name: dvsrca1b.zip
+hash: ef5c8b80f4883482173b9d1a53acfe5c
+year: 1998
+file:
+  DVS-RCA.MEM:
+    mimetype: text/plain
+  DVSCON.JPG:
+    mimetype: image/jpeg
+  DVSCON2.JPG:
+    mimetype: image/jpeg
+  DVSRCA.NFO:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  I1-DEVS.JPG:
+    mimetype: image/jpeg
+  I1-DVSN.JPG:
+    mimetype: image/jpeg
+  I1-END~1.JPG:
+    mimetype: image/jpeg
+  I1-ETH.JPG:
+    mimetype: image/jpeg
+  I1-HZ.JPG:
+    mimetype: image/jpeg
+  I1-RUCK.JPG:
+    mimetype: image/jpeg
+  I1-TELCO.JPG:
+    mimetype: image/jpeg
+  INF-AN~1.JPG:
+    mimetype: image/jpeg
+  INF-DA~1.JPG:
+    mimetype: image/jpeg
+  INF-SITE.JPG:
+    mimetype: image/jpeg
+  INF-VA~1.JPG:
+    mimetype: image/jpeg
+  RA-LGTHS.JPG:
+    mimetype: image/jpeg
+  WC-PWR.JPG:
+    mimetype: image/jpeg

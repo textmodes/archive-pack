@@ -1,0 +1,104 @@
+name: dcp0102.zip
+hash: b99d58fd0fe22f09a618f48061da3c13
+year: 1994
+file:
+  BBS.APP:
+    mimetype: text/plain
+  BN-DC3.DCP:
+    mimetype: text/plain
+  DCP.APP:
+    mimetype: text/plain
+  DRE-DOGG.DCP:
+    mimetype: text/plain
+  DRE-FATA.DCP:
+    mimetype: text/plain
+  DRE-LOCO.DCP:
+    mimetype: text/plain
+  DRE-MERG.DCP:
+    mimetype: text/plain
+  EK-DCP.DCP:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GND-1.DCP:
+    mimetype: text/plain
+  GND-2.DCP:
+    mimetype: text/plain
+  JR-2SITE.DCP:
+    mimetype: text/plain
+  JR-SITE.DCP:
+    mimetype: text/plain
+  LD-AD94.DCP:
+    mimetype: text/plain
+  LD-BSH.DCP:
+    mimetype: text/plain
+  LD-CRDC.DCP:
+    mimetype: text/plain
+  LD-DB.DCP:
+    mimetype: text/plain
+  LD-DBZ.DCP:
+    mimetype: text/plain
+  LD-DCP2.DCP:
+    mimetype: text/plain
+  LD-DCPII.DCP:
+    mimetype: text/plain
+  LD-FRZ.DCP:
+    mimetype: text/plain
+  LD-GBLN.DCP:
+    mimetype: text/plain
+  LD-JKTN.DCP:
+    mimetype: text/plain
+  LD-MG.DCP:
+    mimetype: text/plain
+  LD-RUSH.DCP:
+    mimetype: text/plain
+  LD-SF.DCP:
+    mimetype: text/plain
+  LD-SIN.DCP:
+    mimetype: text/plain
+  LD-SKL.DCP:
+    mimetype: text/plain
+  LD-SRA.DCP:
+    mimetype: text/plain
+  LD-TCQ.DCP:
+    mimetype: text/plain
+  LD-UNION.DCP:
+    mimetype: text/plain
+  LD-VENOM.DCP:
+    mimetype: text/plain
+  LD-VIO.DCP:
+    mimetype: text/plain
+  RD-4NGAD.DCP:
+    mimetype: text/plain
+  RD-BUGS2.DCP:
+    mimetype: text/plain
+  RD-CYLP.DCP:
+    mimetype: text/plain
+  RD-EYE.DCP:
+    mimetype: text/plain
+  RD-RAIN.DCP:
+    mimetype: text/plain
+  TR-DCP1.DCP:
+    mimetype: text/plain
+  TR-DDS2.DCP:
+    mimetype: text/plain
+  TR-DDS3.DCP:
+    mimetype: text/plain
+  TR-DDS5.DCP:
+    mimetype: text/plain
+  TR-EIS.DCP:
+    mimetype: text/plain
+  TR-JAWS.DCP:
+    mimetype: text/plain
+  TR-MCITY.DCP:
+    mimetype: text/plain
+  TR-PROG.DCP:
+    mimetype: text/plain
+  TR-PYRA.DCP:
+    mimetype: text/plain
+  TR-RAIN3.DCP:
+    mimetype: text/plain
+  TR-RAIN4.DCP:
+    mimetype: text/plain
+  TR-SWORD.DCP:
+    mimetype: text/plain

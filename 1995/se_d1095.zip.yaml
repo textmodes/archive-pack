@@ -1,0 +1,30 @@
+name: se_d1095.zip
+hash: 71c6b92f34df3f91542e5807b5211be4
+year: 1995
+file:
+  BI-AAB.S3M:
+    mimetype: audio/x-mod
+  BI-IPOD.S3M:
+    mimetype: audio/x-mod
+  DA-WDCT.S3M:
+    mimetype: audio/x-mod
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  HX-IDK.MOD:
+    mimetype: audio/x-mod
+  LI-CHAIN.S3M:
+    mimetype: audio/x-mod
+  LI-LOSME.S3M:
+    mimetype: audio/x-mod
+  ONX-CAST.PCX:
+    mimetype: image/pcx
+  ONX-CAST.S3M:
+    mimetype: audio/x-mod
+  SE_APP.EXE:
+    mimetype: application/x-msdos-program
+  SE_INFO.TXT:
+    mimetype: text/plain
+  TR-PREM.S3M:
+    mimetype: audio/x-mod
+  se_d1095.frm:
+    mimetype: text/plain

@@ -1,0 +1,66 @@
+name: world4.zip
+hash: ecb6033fc4c4c620681183247535ee6f
+year: 1997
+file:
+  File_id.diz:
+    mimetype: text/plain
+  world/nov/File_id.diz:
+    mimetype: text/plain
+  world/nov/PAK-4.ANS:
+    mimetype: text/plain
+  world/nov/PM-HEY3.ANS:
+    mimetype: text/plain
+  world/nov/TN-HEY2.ANS:
+    mimetype: text/plain
+  world/nov/ansis/PM-TAR3.ANS:
+    mimetype: text/plain
+  world/nov/ansis/TN-APPLY.ANS:
+    mimetype: text/plain
+  world/nov/ansis/TN-BMAN.ANS:
+    mimetype: text/plain
+  world/nov/ansis/TN-BYE.ANS:
+    mimetype: text/plain
+  world/nov/ansis/TN-DISCO.ANS:
+    mimetype: text/plain
+  world/nov/ansis/TN-FILE.ANS:
+    mimetype: text/plain
+  world/nov/ansis/TN-HELP.ANS:
+    mimetype: text/plain
+  world/nov/ansis/TN-VOTE.ANS:
+    mimetype: text/plain
+  world/nov/ansis/TN-WRLD3.ANS:
+    mimetype: text/plain
+  world/nov/ansis/TN-WRLD4.ANS:
+    mimetype: text/plain
+  world/nov/ansis/pe-shark.ans:
+    mimetype: text/plain
+  world/nov/ansis/pm-login.ans:
+    mimetype: text/plain
+  world/nov/ansis/pm-snake.ans:
+    mimetype: text/plain
+  world/nov/ansis/vx-bulls.ans:
+    mimetype: text/plain
+  world/nov/ansis/vx-bye.ans:
+    mimetype: text/plain
+  world/nov/ansis/vx-world.ans:
+    mimetype: text/plain
+  world/nov/ansis/vx-wrld2.ans:
+    mimetype: text/plain
+  world/nov/graphics/vx-guy.jpg:
+    mimetype: image/jpeg
+  world/nov/graphics/vx-wrld2.jpg:
+    mimetype: image/jpeg
+  world/nov/puds/gravy.pud:
+    mimetype: application/octet-stream
+  world/nov/puds/gravy.txt:
+    mimetype: text/plain
+  world/nov/puds/vx-goo.pud:
+    mimetype: application/octet-stream
+  world/nov/puds/vx-goo.txt:
+    mimetype: text/plain
+  world/nov/readme.1st:
+    mimetype: text/plain
+  world/nov/wads/robot.txt:
+    mimetype: text/plain
+  world/nov/wads/robot.wad:
+    mimetype: application/octet-stream

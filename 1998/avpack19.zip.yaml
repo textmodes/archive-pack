@@ -1,0 +1,58 @@
+name: avpack19.zip
+hash: a03222c8af52db64f3061292447a6d32
+year: 1998
+file:
+  -ANSI---.---:
+    mimetype: image/jpeg
+  -NFO----.---:
+    mimetype: text/plain
+  -RIP----.---:
+    mimetype: text/plain
+  -VGA----.---:
+    mimetype: text/plain
+  AV-MIDN.ANS:
+    mimetype: text/plain
+  AV-NEWS.NFO:
+    mimetype: text/plain
+  AV-NEWS2.NFO:
+    mimetype: text/plain
+  BL-FWELL.JPG:
+    mimetype: image/jpeg
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GH-APOC.JPG:
+    mimetype: image/jpeg
+  GH-GASHA.ANS:
+    mimetype: text/plain
+  GH-GSH97.JPG:
+    mimetype: image/jpeg
+  GH-GSH98.JPG:
+    mimetype: image/jpeg
+  GH-PHASE.JPG:
+    mimetype: image/jpeg
+  IG-CF#2.ANS:
+    mimetype: text/plain
+  IG-OZE2.ANS:
+    mimetype: text/plain
+  KRL-CF#2.ANS:
+    mimetype: text/plain
+  KRL-CFMA.ANS:
+    mimetype: text/plain
+  KRL-MEMS.RIP:
+    mimetype: image/x-rip
+  KRL-NEW.RIP:
+    mimetype: image/x-rip
+  KRL-OOSE.ANS:
+    mimetype: text/plain
+  KRL-PSYR.RIP:
+    mimetype: image/x-rip
+  KRL-SOAP.RIP:
+    mimetype: image/x-rip
+  SQ2-AV.JPG:
+    mimetype: image/jpeg
+  US-MIDAN.RIP:
+    mimetype: image/x-rip
+  VJ-ANDRW.JPG:
+    mimetype: image/jpeg
+  VJ-BYEAV.JPG:
+    mimetype: image/jpeg

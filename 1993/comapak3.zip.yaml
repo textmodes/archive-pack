@@ -1,0 +1,72 @@
+name: comapak3.zip
+hash: 626f0057e24aba4c69ad6565c6bfc3c9
+year: 1993
+file:
+  '--------.---':
+    mimetype: application/octet-stream
+  ________.___:
+    mimetype: application/octet-stream
+  ~~~~~~~~.~~~:
+    mimetype: application/octet-stream
+  AS-AGENT.CMA:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  MC-ICE1.CMA:
+    mimetype: text/plain
+  MC-POIS1.CMA:
+    mimetype: text/plain
+  MC-SOT1.CMA:
+    mimetype: text/plain
+  NZ-AO1.CMA:
+    mimetype: text/plain
+  NZ-AO2.CMA:
+    mimetype: text/plain
+  NZ-ARISE.CMA:
+    mimetype: text/plain
+  NZ-COMA1.ZIP:
+    mimetype: application/zip
+  NZ-COMA2.CMA:
+    mimetype: text/plain
+  NZ-CVC2.CMA:
+    mimetype: text/plain
+  NZ-DEMON.CMA:
+    mimetype: text/plain
+  NZ-PAND1.CMA:
+    mimetype: text/plain
+  NZ-PAND2.CMA:
+    mimetype: text/plain
+  NZ-PAND3.CMA:
+    mimetype: text/plain
+  NZ-PDMD2.CMA:
+    mimetype: text/plain
+  NZ-SAN1.CMA:
+    mimetype: text/plain
+  NZ-SONIC.CMA:
+    mimetype: text/plain
+  NZ-STS1.CMA:
+    mimetype: text/plain
+  ONLY.IF:
+    mimetype: text/plain
+  PAN.EXE:
+    mimetype: application/x-msdos-program
+  PAN2.ZIP:
+    mimetype: application/zip
+  RUNME.BAT:
+    mimetype: application/x-msdos-program
+  THEEND.ANS:
+    mimetype: text/plain
+  TNP-GRIP.CMA:
+    mimetype: text/plain
+  TNP-MOR1.CMA:
+    mimetype: text/plain
+  TNP-MOR1.EXE:
+    mimetype: application/x-msdos-program
+  TNP-MOR1.ZIP:
+    mimetype: application/zip
+  TNP-NL1.ZIP:
+    mimetype: application/zip
+  TNP-UP1.CMA:
+    mimetype: text/plain
+  artpacks.txt:
+    mimetype: text/plain

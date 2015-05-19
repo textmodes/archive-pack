@@ -1,0 +1,14 @@
+name: dkb_swf1.zip
+hash: 3350eab88640c9b6adc7958200eb6b59
+year: 1997
+file:
+  DKB.NFO:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  STEELTRA.INS:
+    mimetype: text/plain
+  SWF-C.JPG:
+    mimetype: image/jpeg
+  SWF.JPG:
+    mimetype: image/jpeg

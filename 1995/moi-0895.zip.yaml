@@ -1,0 +1,86 @@
+name: moi-0895.zip
+hash: ba6f36398c4b8d040e18a1a9f8ad99ff
+year: 1995
+file:
+  -ANSI-:
+    mimetype: text/plain
+  -ASCII-:
+    mimetype: text/plain
+  -LIT-:
+    mimetype: text/plain
+  -OTHER-:
+    mimetype: text/plain
+  -RIP-:
+    mimetype: text/plain
+  -VGA-:
+    mimetype: text/plain
+  0895INFO.NFO:
+    mimetype: text/plain
+  0895LIST.MEM:
+    mimetype: text/plain
+  BK-MST1.ASC:
+    mimetype: text/plain
+  CI-AB1.ANS:
+    mimetype: text/plain
+  CI-BLIND.LIT:
+    mimetype: text/plain
+  CI-DIS.LIT:
+    mimetype: text/plain
+  CI-FUT1.ANS:
+    mimetype: text/plain
+  CI-JABY1.ANS:
+    mimetype: text/plain
+  CI-MST1.COM:
+    mimetype: application/x-msdos-program
+  CI-MST1.RIP:
+    mimetype: image/x-rip
+  CI-NCAR1.ANS:
+    mimetype: text/plain
+  CI-SAGA1.GIF:
+    mimetype: image/gif
+  CI-STAY.LIT:
+    mimetype: text/plain
+  DF-MST1.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  LX-GENT3.EXE:
+    mimetype: application/x-msdos-program
+  MOISTAPP.ZIP:
+    mimetype: application/zip
+  MOISTREQ.ZIP:
+    mimetype: application/zip
+  PH-MST1.ANS:
+    mimetype: text/plain
+  PH-MST2.ANS:
+    mimetype: text/plain
+  PH-MST3.ANS:
+    mimetype: text/plain
+  PH-TAC0.ANS:
+    mimetype: text/plain
+  PI-JABY1.ANS:
+    mimetype: text/plain
+  PI-MOIST.GIF:
+    mimetype: image/gif
+  PI-MSGST.ANS:
+    mimetype: text/plain
+  PI-RGST.ANS:
+    mimetype: text/plain
+  PI-SECRT.LIT:
+    mimetype: text/plain
+  SP-EVIL1.ANS:
+    mimetype: text/plain
+  SP-LD!.ANS:
+    mimetype: text/plain
+  SP-RGMNU.ANS:
+    mimetype: text/plain
+  VIEWER.ZIP:
+    mimetype: application/zip
+  WE-CIDE.LIT:
+    mimetype: text/plain
+  WE-FUTR.LIT:
+    mimetype: text/plain
+  WE-HAPY.LIT:
+    mimetype: text/plain
+  WE-WWIV!.LIT:
+    mimetype: text/plain

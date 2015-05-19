@@ -1,0 +1,46 @@
+name: shv-0695.zip
+hash: df92228f629a692794661fa01ba033f4
+year: 1995
+file:
+  !!binary +fn5+fn5+fku+fn5:
+    mimetype: text/plain
+  !!binary +flBTlNJ+fku+fn5:
+    mimetype: text/plain
+  !!binary +flJTkZP+fku+fn5:
+    mimetype: text/plain
+  !!binary +flPVEhFUvku+fn5:
+    mimetype: text/plain
+  0695INFO.ANS:
+    mimetype: text/plain
+  0695MEMB.ANS:
+    mimetype: text/plain
+  EL-VOS.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  ID-SUCCO.ANS:
+    mimetype: text/plain
+  PB-PRX1.ANS:
+    mimetype: text/plain
+  RA-FUCT.ANS:
+    mimetype: text/plain
+  RA-UFATE.ANS:
+    mimetype: text/plain
+  SHIVAPP.EXE:
+    mimetype: application/x-msdos-program
+  SK-SE3.ANS:
+    mimetype: text/plain
+  ST-PARA1.ANS:
+    mimetype: text/plain
+  ST-SOT2.ANS:
+    mimetype: text/plain
+  ST-SUB0.ANS:
+    mimetype: text/plain
+  ST-UNION.ANS:
+    mimetype: text/plain
+  SV.CFG:
+    mimetype: application/octet-stream
+  SV.EXE:
+    mimetype: application/x-msdos-program
+  WY-COCYC.ANS:
+    mimetype: text/plain

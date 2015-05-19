@@ -1,0 +1,56 @@
+name: acdl1293.zip
+hash: 33b3524ca904271397e9abe165cf01c4
+year: 1993
+file:
+  ACDL1293.NFO:
+    mimetype: text/plain
+  ACID1193.ANS:
+    mimetype: text/plain
+  ACIDAPP.EXE:
+    mimetype: application/x-msdos-program
+  ACIDVIEW.EXE:
+    mimetype: application/x-msdos-program
+  ACIDVIEW.NFO:
+    mimetype: text/plain
+  DGTLRIFT.EXE:
+    mimetype: application/x-msdos-program
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FN-DSUN1.ANS:
+    mimetype: text/plain
+  HL-ACID3.ANS:
+    mimetype: text/plain
+  HL-COC1.ANS:
+    mimetype: text/plain
+  HL-NSA.ANS:
+    mimetype: text/plain
+  HL-RP1.ANS:
+    mimetype: text/plain
+  HL-TDS4.ANS:
+    mimetype: text/plain
+  IM-REICH.ANS:
+    mimetype: text/plain
+  JD-HWY1.ANS:
+    mimetype: text/plain
+  JD-PENT1.ANS:
+    mimetype: text/plain
+  KS-AMBER.ANS:
+    mimetype: text/plain
+  KS-V2.ANS:
+    mimetype: text/plain
+  PSYCHO.TIC:
+    mimetype: text/plain
+  QR-CRTC1.ANS:
+    mimetype: text/plain
+  QR-DWEL9.ANS:
+    mimetype: text/plain
+  QR-PH1.ANS:
+    mimetype: text/plain
+  QR-TC.ANS:
+    mimetype: text/plain
+  QR-V21.ANS:
+    mimetype: text/plain
+  VP-DW2.ANS:
+    mimetype: text/plain
+  VP-MI1.ANS:
+    mimetype: text/plain

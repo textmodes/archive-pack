@@ -1,0 +1,252 @@
+name: sac-36.zip
+hash: 33daae1e067f0a287166b4cfe102fc4f
+year: 2009
+file:
+  DA-Des.png:
+    mimetype: image/png
+  DA-DesWP.png:
+    mimetype: image/png
+  DA-FakeReality.png:
+    mimetype: image/png
+  DA-Ocean5.png:
+    mimetype: image/png
+  HKU-ACTP.png:
+    mimetype: image/png
+  HKU-BLKN.asc:
+    mimetype: text/plain
+  HKU-KIF2.asc:
+    mimetype: text/plain
+  HKU-NTY.ASC:
+    mimetype: text/plain
+  HKU-PNZR.asc:
+    mimetype: text/plain
+  HKU-PWK.ASC:
+    mimetype: text/plain
+  HKU-ROT1.png:
+    mimetype: image/png
+  HKU-TRRA.asc:
+    mimetype: text/plain
+  M1-PWM.MOD:
+    mimetype: audio/x-mod
+  M1-RIP_ALEX.MOD:
+    mimetype: audio/x-mod
+  M1-SOCKERKA.MOD:
+    mimetype: audio/x-mod
+  M1-THINKING.MOD:
+    mimetype: audio/x-mod
+  S!+b5-pk.asc:
+    mimetype: text/plain
+  S!+cH-bu.asc:
+    mimetype: text/plain
+  S!-adr.asc:
+    mimetype: text/plain
+  S!-adr1l.txt:
+    mimetype: text/plain
+  S!-bast.asc:
+    mimetype: text/plain
+  S!-bast2.asc:
+    mimetype: text/plain
+  S!-bof.asc:
+    mimetype: text/plain
+  S!-br.asc:
+    mimetype: text/plain
+  S!-brdn.txt:
+    mimetype: text/plain
+  S!-brup.txt:
+    mimetype: text/plain
+  S!-cogn.asc:
+    mimetype: text/plain
+  S!-emb.asc:
+    mimetype: text/plain
+  S!-emb.nfo:
+    mimetype: text/plain
+  S!-emb6k.nfo:
+    mimetype: text/plain
+  S!-en.asc:
+    mimetype: text/plain
+  S!-jerry.asc:
+    mimetype: text/plain
+  S!-outla.diz:
+    mimetype: text/plain
+  S!-outla.nfo:
+    mimetype: text/plain
+  S!-p.nfo:
+    mimetype: text/plain
+  S!-rab.asc:
+    mimetype: text/plain
+  S!-rldox.nfo:
+    mimetype: text/plain
+  S!-rocks.asc:
+    mimetype: text/plain
+  S!-tpc.asc:
+    mimetype: text/plain
+  S!-vend.asc:
+    mimetype: text/plain
+  S!-vint.nfo:
+    mimetype: text/plain
+  asx-annie.jpg:
+    mimetype: image/jpeg
+  asx-asphyx.jpg:
+    mimetype: image/jpeg
+  asx-beLIEve.jpg:
+    mimetype: image/jpeg
+  asx-da_vibes-gba.png:
+    mimetype: image/png
+  asx-daemon.jpg:
+    mimetype: image/jpeg
+  asx-elven.jpg:
+    mimetype: image/jpeg
+  asx-faerie.jpg:
+    mimetype: image/jpeg
+  asx-gob.jpg:
+    mimetype: image/jpeg
+  asx-grotesq.jpg:
+    mimetype: image/jpeg
+  asx-haze.txt:
+    mimetype: text/plain
+  asx-imp.txt:
+    mimetype: text/plain
+  asx-kif.txt:
+    mimetype: text/plain
+  asx-kiki.png:
+    mimetype: image/png
+  asx-nonne.jpg:
+    mimetype: image/jpeg
+  asx-scep.txt:
+    mimetype: text/plain
+  asx-st_anne1.jpg:
+    mimetype: image/jpeg
+  asx-st_anne2.jpg:
+    mimetype: image/jpeg
+  asx-wildstyle.jpg:
+    mimetype: image/jpeg
+  asx-xmas_pinup.png:
+    mimetype: image/png
+  asx-yr_darkn.jpg:
+    mimetype: image/jpeg
+  b5+S!-msm.asc:
+    mimetype: text/plain
+  b5-001a.fon:
+    mimetype: application/x-dosexec
+  b5-ajnes.bin:
+    mimetype: application/octet-stream
+  b5-ans01.ans:
+    mimetype: text/plain
+  b5-arob2.asc:
+    mimetype: text/plain
+  b5-awd.asc:
+    mimetype: text/plain
+  b5-cnvoy.asc:
+    mimetype: text/plain
+  b5-fih.asc:
+    mimetype: text/plain
+  b5-foad.asc:
+    mimetype: text/plain
+  b5-gp.asc:
+    mimetype: text/plain
+  b5-mighty.asc:
+    mimetype: text/plain
+  b5-mrx.asc:
+    mimetype: text/plain
+  b5-omt.jpg:
+    mimetype: image/jpeg
+  b5-pd.asc:
+    mimetype: text/plain
+  b5-sacoc.ans:
+    mimetype: text/plain
+  b5-ska.asc:
+    mimetype: text/plain
+  b5-tibak.asc:
+    mimetype: text/plain
+  b5-vinci.asc:
+    mimetype: text/plain
+  b5-xmf.asc:
+    mimetype: text/plain
+  cH-wus1.nfo:
+    mimetype: text/plain
+  cH-wus2.nfo:
+    mimetype: text/plain
+  cH-wus3.nfo:
+    mimetype: text/plain
+  crm-morning_dew.xm:
+    mimetype: audio/x-mod
+  crm-reborn.xm:
+    mimetype: audio/x-mod
+  dip-stra.txt:
+    mimetype: text/plain
+  dip-thou.txt:
+    mimetype: text/plain
+  dip-tita.diz:
+    mimetype: text/plain
+  dip-wasa.diz:
+    mimetype: text/plain
+  don-rp.asc:
+    mimetype: text/plain
+  don-thf.asc:
+    mimetype: text/plain
+  ee-ae.asc:
+    mimetype: text/plain
+  ee-cl.ans:
+    mimetype: text/plain
+  ee-spt.asc:
+    mimetype: text/plain
+  ee-untitleda.asc:
+    mimetype: text/plain
+  ee-untitledb.asc:
+    mimetype: text/plain
+  file_id.diz:
+    mimetype: text/plain
+  nerv-aarena.txt:
+    mimetype: text/plain
+  nerv-crctna.txt:
+    mimetype: text/plain
+  nerv-crctnb.txt:
+    mimetype: text/plain
+  nerv-fntsy.txt:
+    mimetype: text/plain
+  nerv-haze.txt:
+    mimetype: text/plain
+  nerv-intrvn.txt:
+    mimetype: text/plain
+  nerv-isi.txt:
+    mimetype: text/plain
+  nerv-null.txt:
+    mimetype: text/plain
+  nerv-razor.txt:
+    mimetype: text/plain
+  nerv-rfined.txt:
+    mimetype: text/plain
+  nerv-sac.txt:
+    mimetype: text/plain
+  nerv-sitrls.txt:
+    mimetype: text/plain
+  nerv-tmln.txt:
+    mimetype: text/plain
+  nerv-white.txt:
+    mimetype: text/plain
+  nerv-xpedia.txt:
+    mimetype: text/plain
+  opi-desa.asc:
+    mimetype: text/plain
+  opi-ecco.asc:
+    mimetype: text/plain
+  opi-ndvx.asc:
+    mimetype: text/plain
+  opi-opi4u.asc:
+    mimetype: text/plain
+  opi-rebels.asc:
+    mimetype: text/plain
+  opi-sb.asc:
+    mimetype: text/plain
+  opi-thanks.asc:
+    mimetype: text/plain
+  opi-unlshd.asc:
+    mimetype: text/plain
+  pOLe-abstract.jpg:
+    mimetype: image/jpeg
+  pOLe-msm.png:
+    mimetype: image/png
+  pOLe-rogue.jpg:
+    mimetype: image/jpeg
+  sac.nfo:
+    mimetype: text/plain

@@ -1,0 +1,40 @@
+name: mtx-03.zip
+hash: cc55c03adc19720954b52af35e911454
+year: 1995
+file:
+  !!binary xMRBTlNJxMQuxMTE:
+    mimetype: text/plain
+  !!binary xMRFWEVTxMQuxMTE:
+    mimetype: text/plain
+  !!binary xMRJTkZPxMQuxMTE:
+    mimetype: text/plain
+  !!binary xMRNT0RTxMQuxMTE:
+    mimetype: text/plain
+  BA-DEEP!.S3M:
+    mimetype: audio/x-mod
+  BA-FREAK.S3M:
+    mimetype: audio/x-mod
+  BA-OARTP.S3M:
+    mimetype: audio/x-mod
+  BA-PHASE.S3M:
+    mimetype: audio/x-mod
+  BA-PIANO.S3M:
+    mimetype: audio/x-mod
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GE-LOOSE.S3M:
+    mimetype: audio/x-mod
+  MATRIX.NFO:
+    mimetype: text/plain
+  MB-LOGON.ANS:
+    mimetype: text/plain
+  MB-NEWS.ANS:
+    mimetype: text/plain
+  MB-RUST.XM:
+    mimetype: audio/x-mod
+  MB-TTBON.XM:
+    mimetype: audio/x-mod
+  MB-WCMIX.XM:
+    mimetype: audio/x-mod
+  MTXVIEW.EXE:
+    mimetype: application/x-msdos-program

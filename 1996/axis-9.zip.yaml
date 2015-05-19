@@ -1,0 +1,42 @@
+name: axis-9.zip
+hash: 04bba84d34935b73fd4d186015b275f3
+year: 1996
+file:
+  APP.DOC:
+    mimetype: text/plain
+  AXIS.ANS:
+    mimetype: text/plain
+  AXISVIEW.DOC:
+    mimetype: text/plain
+  AXISVIEW.EXE:
+    mimetype: application/x-msdos-program
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  PCM.NFO:
+    mimetype: text/plain
+  RB-AXIS.JPG:
+    mimetype: image/jpeg
+  RB-BANER.ANS:
+    mimetype: text/plain
+  RB-BNER2.ANS:
+    mimetype: text/plain
+  RB-FILE.ANS:
+    mimetype: text/plain
+  RB-LOGOS.ANS:
+    mimetype: text/plain
+  RB-LONG.ANS:
+    mimetype: text/plain
+  RB-MAIN.ANS:
+    mimetype: text/plain
+  RB-MENU.ANS:
+    mimetype: text/plain
+  RB-YO.ANS:
+    mimetype: text/plain
+  RB-YONET.ANS:
+    mimetype: text/plain
+  README.JPG:
+    mimetype: image/jpeg
+  README.TXT:
+    mimetype: text/plain
+  TT-LOGO.ANS:
+    mimetype: text/plain

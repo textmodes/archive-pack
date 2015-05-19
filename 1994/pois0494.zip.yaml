@@ -1,0 +1,56 @@
+name: pois0494.zip
+hash: 1edc66af239c5db97846eb5731b7b23d
+year: 1994
+file:
+  '@187@.ANS':
+    mimetype: text/plain
+  187.EXE:
+    mimetype: application/x-msdos-program
+  BLACK2.JPG:
+    mimetype: image/jpeg
+  CONGRATS.EXE:
+    mimetype: application/x-msdos-program
+  DFB.ANS:
+    mimetype: text/plain
+  DUMPSITE.EXE:
+    mimetype: application/x-msdos-program
+  DUMPSITE.PCX:
+    mimetype: image/pcx
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FLUID1.EXE:
+    mimetype: application/x-msdos-program
+  HEAD2.JPG:
+    mimetype: image/jpeg
+  INTEST.PCX:
+    mimetype: image/pcx
+  MEANING.EXE:
+    mimetype: application/x-msdos-program
+  MIRAGE.ANS:
+    mimetype: text/plain
+  MIRAGE2.EXE:
+    mimetype: application/x-msdos-program
+  OLDADD.ANS:
+    mimetype: text/plain
+  POISON.ANS:
+    mimetype: text/plain
+  POISON.EXE:
+    mimetype: application/x-msdos-program
+  POISWIN1.PCX:
+    mimetype: image/pcx
+  READ.ME:
+    mimetype: text/plain
+  REDBOY.EXE:
+    mimetype: application/x-msdos-program
+  SEWERS.AD:
+    mimetype: text/plain
+  SKLTON.EXE:
+    mimetype: application/x-msdos-program
+  SKYLINE.EXE:
+    mimetype: application/x-msdos-program
+  SPECTRE.EXE:
+    mimetype: application/x-msdos-program
+  SPECTRE1.EXE:
+    mimetype: application/x-msdos-program
+  WATCH.THZ:
+    mimetype: text/plain

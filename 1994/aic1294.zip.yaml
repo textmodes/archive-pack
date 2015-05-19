@@ -1,0 +1,62 @@
+name: aic1294.zip
+hash: 5cf8fb0e64113e3633c69e6862e9d040
+year: 1994
+file:
+  ___ANSI_.___:
+    mimetype: text/plain
+  ___EXE_.___:
+    mimetype: text/plain
+  ___LIT_.___:
+    mimetype: text/plain
+  ___MISC_.___:
+    mimetype: text/plain
+  ___VGA_.___:
+    mimetype: text/plain
+  1294INFO.ANS:
+    mimetype: text/plain
+  AICAPP.EXE:
+    mimetype: application/x-msdos-program
+  AICNEWS.ANS:
+    mimetype: text/plain
+  COP.EXE:
+    mimetype: application/x-msdos-program
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FX-AIC.LIT:
+    mimetype: text/plain
+  FX-HEAVE.LIT:
+    mimetype: text/plain
+  FX-LIFE.LIT:
+    mimetype: text/plain
+  FX-SAVIO.LIT:
+    mimetype: text/plain
+  IC-AIC.GIF:
+    mimetype: image/gif
+  IC-CIA.ANS:
+    mimetype: text/plain
+  IC-CIA2.ANS:
+    mimetype: text/plain
+  IC-COP.GIF:
+    mimetype: image/gif
+  IC-COP.LIT:
+    mimetype: text/plain
+  IC-COP2.ANS:
+    mimetype: text/plain
+  IC-DISOV.ZIP:
+    mimetype: application/zip
+  IC-GUILT.ANS:
+    mimetype: text/plain
+  IC-HARMO.ANS:
+    mimetype: text/plain
+  IC-MH1.ANS:
+    mimetype: text/plain
+  IC-TOP2.ANS:
+    mimetype: text/plain
+  TT-BS.LIT:
+    mimetype: text/plain
+  TT-DEAL.LIT:
+    mimetype: text/plain
+  TT-PPLAY.LIT:
+    mimetype: text/plain
+  VIEWER.ZIP:
+    mimetype: application/zip

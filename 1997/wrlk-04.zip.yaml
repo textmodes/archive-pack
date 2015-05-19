@@ -1,0 +1,42 @@
+name: wrlk-04.zip
+hash: 45e01c5ab05709a602a9d540ee01f94b
+year: 1997
+file:
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  JN-HIGH.ANS:
+    mimetype: text/plain
+  JN-XFACT.ANS:
+    mimetype: text/plain
+  PM-CINDE.ANS:
+    mimetype: text/plain
+  PM-FKR.ANS:
+    mimetype: text/plain
+  PM-FLAT2.ANS:
+    mimetype: text/plain
+  PM-GRATE.ANS:
+    mimetype: text/plain
+  PM-LINKS.ANS:
+    mimetype: text/plain
+  PM-MENU.ANS:
+    mimetype: text/plain
+  PM-NIRVA.ASC:
+    mimetype: text/plain
+  PM-PARA2.ANS:
+    mimetype: text/plain
+  PM-PARAN.ANS:
+    mimetype: text/plain
+  PM-VALIU.ASC:
+    mimetype: text/plain
+  PM-VH.ANS:
+    mimetype: text/plain
+  PM-WRLK.ANS:
+    mimetype: text/plain
+  PM-WWCO.ANS:
+    mimetype: text/plain
+  WARLOCK.APP:
+    mimetype: application/octet-stream
+  WRLK-04.TXT:
+    mimetype: text/plain
+  WRLKNFO.ANS:
+    mimetype: text/plain

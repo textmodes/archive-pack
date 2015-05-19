@@ -1,0 +1,50 @@
+name: wv-0596.zip
+hash: 4a316f1f7f3d3990427155fdee0be21d
+year: 1996
+file:
+  BD-AXF.ASC:
+    mimetype: text/plain
+  BD-DSION.ASC:
+    mimetype: text/plain
+  BD-HWIRD.ASC:
+    mimetype: text/plain
+  BD-PCB.ASC:
+    mimetype: text/plain
+  BD-VZONE.ASC:
+    mimetype: text/plain
+  BD-WV1.ASC:
+    mimetype: text/plain
+  BD-WV2.ASC:
+    mimetype: text/plain
+  BD-WVANS.ANS:
+    mimetype: text/plain
+  CITY!.COM:
+    mimetype: application/x-msdos-program
+  CYBER.COM:
+    mimetype: application/x-msdos-program
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  MC-CC.ASC:
+    mimetype: text/plain
+  MC-WV1.ASC:
+    mimetype: text/plain
+  MC-WV2.ASC:
+    mimetype: text/plain
+  SEE.IT:
+    mimetype: audio/x-mod
+  WAVE.ANS:
+    mimetype: text/plain
+  WAVE.NFO:
+    mimetype: text/plain
+  WAVE.REL:
+    mimetype: text/plain
+  WV-PACK.NFO:
+    mimetype: text/plain
+  WV-PACK.REQ:
+    mimetype: text/plain
+  WW-VZ.ANS:
+    mimetype: text/plain
+  WW-VZONE.ANS:
+    mimetype: text/plain
+  WW-WAVE.ASC:
+    mimetype: text/plain

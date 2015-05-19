@@ -1,0 +1,38 @@
+name: pfc-art1.zip
+hash: 6c37dd83d4abcf7cc33484c7afa52b48
+year: 1998
+file:
+  DESC.TXT:
+    mimetype: text/plain
+  GD-C0UNT.ASC:
+    mimetype: text/plain
+  GD-CITY.JPG:
+    mimetype: image/jpeg
+  GD-GD.JPG:
+    mimetype: image/jpeg
+  GD-LOVE.JPG:
+    mimetype: image/jpeg
+  GD-NET.JPG:
+    mimetype: image/jpeg
+  GD-PF.JPG:
+    mimetype: image/jpeg
+  GD-SS98.JPG:
+    mimetype: image/jpeg
+  GD-TRAVA.JPG:
+    mimetype: image/jpeg
+  LM-BJORK.JPG:
+    mimetype: image/jpeg
+  LM-FACE.JPG:
+    mimetype: image/jpeg
+  LM-LOGO.ASC:
+    mimetype: text/plain
+  LM-MOUSE.JPG:
+    mimetype: image/jpeg
+  LM-PF.ASC:
+    mimetype: text/plain
+  LM-POWA.JPG:
+    mimetype: image/jpeg
+  PF.NFO:
+    mimetype: text/plain
+  SUN-LEM.LBM:
+    mimetype: application/octet-stream

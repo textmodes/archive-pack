@@ -1,0 +1,76 @@
+name: mimic32.zip
+hash: d46f0da1226cf1fe9e1a41be41fc12e2
+year: 2001
+file:
+  aethaj.asc:
+    mimetype: text/plain
+  aetphd.asc:
+    mimetype: text/plain
+  ave-ftp.asc:
+    mimetype: text/plain
+  ave-gme2.asc:
+    mimetype: text/plain
+  ave-mel.asc:
+    mimetype: text/plain
+  bjasc209.ans:
+    mimetype: text/plain
+  bjasc210.ans:
+    mimetype: text/plain
+  bjasc211.ans:
+    mimetype: text/plain
+  bjasc212.ans:
+    mimetype: text/plain
+  bombrman.mid:
+    mimetype: audio/midi
+  cbreak.asc:
+    mimetype: text/plain
+  cd!haji.ans:
+    mimetype: text/plain
+  dr-hajit.ans:
+    mimetype: text/plain
+  dr-just3.asc:
+    mimetype: text/plain
+  dr-mmcr.ans:
+    mimetype: text/plain
+  dwf-mru.asc:
+    mimetype: text/plain
+  empty.txt:
+    mimetype: text/plain
+  file_id.diz:
+    mimetype: text/plain
+  gaydavid.txt:
+    mimetype: text/plain
+  kay-deci.txt:
+    mimetype: text/plain
+  kpn-h.asc:
+    mimetype: text/plain
+  members.ans:
+    mimetype: text/plain
+  no-celon.ans:
+    mimetype: text/plain
+  no-jeark.asc:
+    mimetype: text/plain
+  pt-dem.ans:
+    mimetype: text/plain
+  pt-hlgn.ans:
+    mimetype: text/plain
+  rko-ozne.asc:
+    mimetype: text/plain
+  rko-tjan.asc:
+    mimetype: text/plain
+  rph-blac.asc:
+    mimetype: text/plain
+  rph-elni.asc:
+    mimetype: text/plain
+  rph-phob.asc:
+    mimetype: text/plain
+  s6k-plo.asc:
+    mimetype: text/plain
+  siapwtt.txt:
+    mimetype: text/plain
+  siapwtt.zip:
+    mimetype: application/zip
+  tb-rev.ans:
+    mimetype: text/plain
+  wk-haji.txt:
+    mimetype: text/plain

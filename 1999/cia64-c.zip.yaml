@@ -1,0 +1,32 @@
+name: cia64-c.zip
+hash: 8ed3a292d2a62c516e3bd7f48b89ffd6
+year: 1999
+file:
+  '---END--.---':
+    mimetype: text/plain
+  '---ETC--.---':
+    mimetype: text/plain
+  --CNTD--.---:
+    mimetype: text/plain
+  --INFO--.---:
+    mimetype: text/plain
+  -HIRES--.---:
+    mimetype: text/plain
+  0699MEMB.XB:
+    mimetype: text/x-xbin
+  0699info.cia:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  pk_mech.jpg:
+    mimetype: image/jpeg
+  qs_etnty.jpg:
+    mimetype: image/jpeg
+  sm_candl.jpg:
+    mimetype: image/jpeg
+  us-pop3.jpg:
+    mimetype: image/jpeg
+  zb-prche.jpg:
+    mimetype: image/jpeg
+  zl_cia.jpg:
+    mimetype: image/jpeg

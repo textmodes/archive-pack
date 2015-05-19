@@ -1,0 +1,46 @@
+name: illn0395.zip
+hash: f54f4721336c832160f4439df92a6e5f
+year: 1995
+file:
+  FBLIST10.ZIP:
+    mimetype: application/zip
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FL-ILL1.ANS:
+    mimetype: text/plain
+  ILL-APP.EXE:
+    mimetype: application/x-msdos-program
+  ILLNESS.NFO:
+    mimetype: text/plain
+  ILLNMEM.ANS:
+    mimetype: text/plain
+  KU-ILL1.ANS:
+    mimetype: text/plain
+  LD-ILL1.ANS:
+    mimetype: text/plain
+  LD-ILL2.ANS:
+    mimetype: text/plain
+  LD-ILL3.ANS:
+    mimetype: text/plain
+  LD-NEWS.ZIP:
+    mimetype: application/zip
+  LD-PRO.ZIP:
+    mimetype: application/zip
+  LD-SALE.ZIP:
+    mimetype: application/zip
+  LD-STATS.ZIP:
+    mimetype: application/zip
+  LO-MTRX.ZIP:
+    mimetype: application/zip
+  SL-GBYE.ZIP:
+    mimetype: application/zip
+  UG-LOGFF.ZIP:
+    mimetype: application/zip
+  UG-RGNUV.ZIP:
+    mimetype: application/zip
+  UT-FILRQ.ZIP:
+    mimetype: application/zip
+  UT-MOUSE.ZIP:
+    mimetype: application/zip
+  WELCOME.1:
+    mimetype: text/plain

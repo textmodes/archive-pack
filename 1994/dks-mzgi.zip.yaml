@@ -1,0 +1,10 @@
+name: dks-mzgi.zip
+hash: 86990d8fcd4ec115cb266e2349e110b3
+year: 1994
+file:
+  DKS-MZGI.TXT:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  NEO.COM:
+    mimetype: application/x-msdos-program

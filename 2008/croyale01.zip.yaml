@@ -1,0 +1,10 @@
+name: croyale01.zip
+hash: 070b211940ac1e41e78711adadf15213
+year: 2008
+file:
+  croyale01/cro.nfo:
+    mimetype: text/plain
+  croyale01/croyale01.rar:
+    mimetype: application/rar
+  croyale01/file_id.diz:
+    mimetype: text/plain

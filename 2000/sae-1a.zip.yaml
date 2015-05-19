@@ -1,0 +1,70 @@
+name: sae-1a.zip
+hash: 85bf4b58d6b6e99775c4e3e71fb31856
+year: 2000
+file:
+  SAE.nfo:
+    mimetype: text/plain
+  Sector1_Pack-A.nfo:
+    mimetype: text/plain
+  ect-wildstyle.jpg:
+    mimetype: image/jpeg
+  etc-genius.jpg:
+    mimetype: image/jpeg
+  f0e-agnus-dei.jpg:
+    mimetype: image/jpeg
+  f0e-retaliaton.JPG:
+    mimetype: image/jpeg
+  f0e-saegraph.jpg:
+    mimetype: image/jpeg
+  file_id.diz:
+    mimetype: text/plain
+  ib-3dfade.jpg:
+    mimetype: image/jpeg
+  ib-crypt.jpg:
+    mimetype: image/jpeg
+  ib-gold.jpg:
+    mimetype: image/jpeg
+  ib-spinner.jpg:
+    mimetype: image/jpeg
+  ib-tunes4.jpg:
+    mimetype: image/jpeg
+  orc-kalisto.jpg:
+    mimetype: image/jpeg
+  orc-portrait(june_2000).jpg:
+    mimetype: image/jpeg
+  orc-portrait(may_2000).jpg:
+    mimetype: image/jpeg
+  rvn-acid_dream.jpg:
+    mimetype: image/jpeg
+  rvn-approaching heaven.jpg:
+    mimetype: image/jpeg
+  rvn-dimentionX.jpg:
+    mimetype: image/jpeg
+  rvn-myth_installer_gfx.jpg:
+    mimetype: image/jpeg
+  rvn-ocean_moon.jpg:
+    mimetype: image/jpeg
+  rvn-tfdlp.jpg:
+    mimetype: image/jpeg
+  rvn-untitled.jpg:
+    mimetype: image/jpeg
+  s2&za-sector1.jpg:
+    mimetype: image/jpeg
+  s2-caddie.gif:
+    mimetype: image/gif
+  s2-gallos.jpg:
+    mimetype: image/jpeg
+  s2-lizbiz.gif:
+    mimetype: image/gif
+  s2-projeq8.jpg:
+    mimetype: image/jpeg
+  s2-sae.jpg:
+    mimetype: image/jpeg
+  ts-class.jpg:
+    mimetype: image/jpeg
+  ts-installer-s1.jpg:
+    mimetype: image/jpeg
+  ts-installer-s2.jpg:
+    mimetype: image/jpeg
+  za-thecave.jpg:
+    mimetype: image/jpeg

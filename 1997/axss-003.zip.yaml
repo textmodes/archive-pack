@@ -1,0 +1,38 @@
+name: axss-003.zip
+hash: 016d96c7b489f7b2830b56710bb86875
+year: 1997
+file:
+  '!ART!.EXE':
+    mimetype: application/x-msdos-program
+  $H-GAL05.ANS:
+    mimetype: text/plain
+  $H-GAL06.ANS:
+    mimetype: text/plain
+  $H-HG.ANS:
+    mimetype: text/plain
+  $H-POEM3.ANS:
+    mimetype: text/plain
+  $H-TNTMM.ANS:
+    mimetype: text/plain
+  (MV)TMX.MDZ:
+    mimetype: text/plain
+  (MV)TMX.XM:
+    mimetype: audio/x-mod
+  AXSS-003.MEM:
+    mimetype: text/plain
+  AXSS-003.MSC:
+    mimetype: text/plain
+  AXSS-003.NWS:
+    mimetype: text/plain
+  BURNING.ANS:
+    mimetype: text/plain
+  DESIRE.ASC:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  PRODIGY.RB!:
+    mimetype: application/octet-stream
+  TZ-PAT2.ANS:
+    mimetype: text/plain
+  US-TNTMM.ANS:
+    mimetype: text/plain

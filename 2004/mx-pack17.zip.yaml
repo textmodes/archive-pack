@@ -1,0 +1,74 @@
+name: mx-pack17.zip
+hash: 7b33fa9421ec92ffdec1df5b637835da
+year: 2004
+file:
+  ASCII/MX-CRO041.ASC:
+    mimetype: text/plain
+  ASCII/MX-EVOL.ASC:
+    mimetype: text/plain
+  ASCII/MX-PD.ASC:
+    mimetype: text/plain
+  ASCII/MX-PISO2.ASC:
+    mimetype: text/plain
+  ASCII/MX-PISO3.ASC:
+    mimetype: text/plain
+  ASCII/MX-PRJ.ASC:
+    mimetype: text/plain
+  ASCII/MX-PWZ.ASC:
+    mimetype: text/plain
+  ASCII/MX-PWZ2.ASC:
+    mimetype: text/plain
+  ASCII/MX-RCS.ASC:
+    mimetype: text/plain
+  ASCII/MX-RMS.ASC:
+    mimetype: text/plain
+  ASCII/MX-SAKE.ASC:
+    mimetype: text/plain
+  ASCII/MX-SAKE1.ASC:
+    mimetype: text/plain
+  ASCII/MX-SDK.ASC:
+    mimetype: text/plain
+  ASCII/MX-TNM.ASC:
+    mimetype: text/plain
+  ASCII/MX-TROPE.ASC:
+    mimetype: text/plain
+  ASCII/MX-UTB1.ASC:
+    mimetype: text/plain
+  ASCII/MX-UTB2.ASC:
+    mimetype: text/plain
+  FILE-ID.DIZ:
+    mimetype: text/plain
+  HIREZ/mx-evolv3-bbs-logo.jpg:
+    mimetype: image/jpeg
+  HIREZ/mx-hdlm-trainer1.gif:
+    mimetype: image/gif
+  HIREZ/mx-iwish-wall.jpg:
+    mimetype: image/jpeg
+  HIREZ/mx-love-wallpaper.jpg:
+    mimetype: image/jpeg
+  HIREZ/mx-mobile-source-logo.jpg:
+    mimetype: image/jpeg
+  HIREZ/mx-myth-logo-misc1.jpg:
+    mimetype: image/jpeg
+  HIREZ/mx-myth-logo1.jpg:
+    mimetype: image/jpeg
+  HIREZ/mx-myth-logo2.jpg:
+    mimetype: image/jpeg
+  HIREZ/mx-myth-psycho-wallpaper.jpg:
+    mimetype: image/jpeg
+  HIREZ/mx-phxiso-keygen-logo1.jpg:
+    mimetype: image/jpeg
+  HIREZ/mx-phxiso-keygen-logo2.jpg:
+    mimetype: image/jpeg
+  HIREZ/mx-phxiso-keygen-logo3.gif:
+    mimetype: image/gif
+  HIREZ/mx-rising-sun-logo3.gif:
+    mimetype: image/gif
+  HIREZ/mx-rituel-logo1.jpg:
+    mimetype: image/jpeg
+  HIREZ/mx-rituel-wallpaper1.jpg:
+    mimetype: image/jpeg
+  HIREZ/mx-vengeance-trainer-ui3.jpg:
+    mimetype: image/jpeg
+  MAXXTRO.NFO:
+    mimetype: text/plain

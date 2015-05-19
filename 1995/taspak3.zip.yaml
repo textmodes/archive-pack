@@ -1,0 +1,58 @@
+name: taspak3.zip
+hash: 44fedea6b8151133ce949159aa661ebb
+year: 1995
+file:
+  bm-main4.tas:
+    mimetype: text/plain
+  bm-main5.tas:
+    mimetype: text/plain
+  done.app:
+    mimetype: text/plain
+  dv8.asm:
+    mimetype: text/plain
+  dv8.exe:
+    mimetype: application/x-msdos-program
+  dv8_tng.exe:
+    mimetype: application/x-msdos-program
+  faust8.ans:
+    mimetype: text/plain
+  fed!app.exe:
+    mimetype: application/x-msdos-program
+  fed!net.diz:
+    mimetype: text/plain
+  fhost6.ans:
+    mimetype: text/plain
+  free.exe:
+    mimetype: application/x-msdos-program
+  lie4.ans:
+    mimetype: text/plain
+  ms.asm:
+    mimetype: text/plain
+  ms.exe:
+    mimetype: application/x-msdos-program
+  n-main8.tas:
+    mimetype: text/plain
+  nocem6.asm:
+    mimetype: text/plain
+  nocem6.exe:
+    mimetype: application/x-msdos-program
+  shebeen9.tas:
+    mimetype: text/plain
+  sn-bye.asc:
+    mimetype: text/plain
+  sn-main.tas:
+    mimetype: text/plain
+  sp.bat:
+    mimetype: application/x-msdos-program
+  tas.app:
+    mimetype: text/plain
+  taspak3.tgz:
+    mimetype: application/gzip
+  tdp11.tas:
+    mimetype: text/plain
+  tpl7.tas:
+    mimetype: text/plain
+  tplmain.tas:
+    mimetype: text/plain
+  vette8.ans:
+    mimetype: text/plain

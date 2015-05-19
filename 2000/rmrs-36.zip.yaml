@@ -1,0 +1,112 @@
+name: rmrs-36.zip
+hash: ddcd631ee676b8fd03aebff012d57a61
+year: 2000
+file:
+  ack-apt.asc:
+    mimetype: text/plain
+  ack-caff.asc:
+    mimetype: text/plain
+  axb-xyz.asc:
+    mimetype: text/plain
+  axbcol02.asc:
+    mimetype: text/plain
+  bne-dk.txt:
+    mimetype: text/plain
+  bne-hp.txt:
+    mimetype: text/plain
+  bne-ic.txt:
+    mimetype: text/plain
+  c4-bits.asc:
+    mimetype: text/plain
+  c4-kts.asc:
+    mimetype: text/plain
+  c4-spam.asc:
+    mimetype: text/plain
+  dx-mase.asc:
+    mimetype: text/plain
+  er-cmike.asc:
+    mimetype: text/plain
+  er-grtz.asc:
+    mimetype: text/plain
+  er-rmos8.asc:
+    mimetype: text/plain
+  er-sole.asc:
+    mimetype: text/plain
+  er-spins.asc:
+    mimetype: text/plain
+  er-vdop.asc:
+    mimetype: text/plain
+  file_id.diz:
+    mimetype: text/plain
+  mid-jkbs.asc:
+    mimetype: text/plain
+  mid-kkjb.asc:
+    mimetype: text/plain
+  mid-klht.asc:
+    mimetype: text/plain
+  mid-lkjs.asc:
+    mimetype: text/plain
+  mid-nklf.asc:
+    mimetype: text/plain
+  pk-avg2.asc:
+    mimetype: text/plain
+  pk-drmth.asc:
+    mimetype: text/plain
+  pm-crook.asc:
+    mimetype: text/plain
+  r-falli.txt:
+    mimetype: text/plain
+  r-herman.txt:
+    mimetype: text/plain
+  r-vdop.txt:
+    mimetype: text/plain
+  remorse.nfo:
+    mimetype: text/plain
+  rp-rmrs.asc:
+    mimetype: text/plain
+  rv.cfg:
+    mimetype: text/plain
+  rv.exe:
+    mimetype: application/x-msdos-program
+  s6k-cms.asc:
+    mimetype: text/plain
+  s6k-dem.asc:
+    mimetype: text/plain
+  s6k-mine.asc:
+    mimetype: text/plain
+  s6k-rmrs.asc:
+    mimetype: text/plain
+  s6k-tdp.asc:
+    mimetype: text/plain
+  sp-depre.asc:
+    mimetype: text/plain
+  sp-fias1.asc:
+    mimetype: text/plain
+  sp-jm.asc:
+    mimetype: text/plain
+  sp-prof.asc:
+    mimetype: text/plain
+  sp-rm36.asc:
+    mimetype: text/plain
+  sp-secul.asc:
+    mimetype: text/plain
+  sp-soapy.asc:
+    mimetype: text/plain
+  sp-tcm.asc:
+    mimetype: text/plain
+  trip-hoe.asc:
+    mimetype: text/plain
+  trip-mes.asc:
+    mimetype: text/plain
+  tum-injn.asc:
+    mimetype: text/plain
+  us-rmrz.asc:
+    mimetype: text/plain
+  us-true.asc:
+    mimetype: text/plain
+  wd-chix.txt:
+    mimetype: text/plain
+  wd-ihate.txt:
+    mimetype: text/plain
+  wd-ll.txt:
+    mimetype: text/plain

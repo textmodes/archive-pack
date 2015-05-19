@@ -1,0 +1,86 @@
+name: out-0199.zip
+hash: bafe92dec48637e98e04671819b56ad0
+year: 1999
+file:
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FILELIST.TXT:
+    mimetype: text/plain
+  FX_RIP05.ZIP:
+    mimetype: application/zip
+  OUT-4SLE.RIP:
+    mimetype: image/x-rip
+  OUT-AD.ANS:
+    mimetype: text/plain
+  OUT-AD.RIP:
+    mimetype: image/x-rip
+  OUT-APPR.RIP:
+    mimetype: image/x-rip
+  OUT-ARMR.RIP:
+    mimetype: image/x-rip
+  OUT-ATTK.RIP:
+    mimetype: image/x-rip
+  OUT-AVAL.RIP:
+    mimetype: image/x-rip
+  OUT-BANK.RIP:
+    mimetype: image/x-rip
+  OUT-CBLL.RIP:
+    mimetype: image/x-rip
+  OUT-DOCM.RIP:
+    mimetype: image/x-rip
+  OUT-EXCL.RIP:
+    mimetype: image/x-rip
+  OUT-FACE.ANS:
+    mimetype: text/plain
+  OUT-FELD.RIP:
+    mimetype: image/x-rip
+  OUT-FTHR.RIP:
+    mimetype: image/x-rip
+  OUT-HEAL.RIP:
+    mimetype: image/x-rip
+  OUT-INN.RIP:
+    mimetype: image/x-rip
+  OUT-ITMS.RIP:
+    mimetype: image/x-rip
+  OUT-KEY.RIP:
+    mimetype: image/x-rip
+  OUT-KNT1.RIP:
+    mimetype: image/x-rip
+  OUT-KNT2.RIP:
+    mimetype: image/x-rip
+  OUT-MENU.ANS:
+    mimetype: text/plain
+  OUT-MNSH.RIP:
+    mimetype: image/x-rip
+  OUT-REBL.RIP:
+    mimetype: image/x-rip
+  OUT-SHIP.ANS:
+    mimetype: text/plain
+  OUT-SPSH.ANS:
+    mimetype: text/plain
+  OUT-STNE.RIP:
+    mimetype: image/x-rip
+  OUT-SWDL.RIP:
+    mimetype: image/x-rip
+  OUT-SWFA.RIP:
+    mimetype: image/x-rip
+  OUT-SWST.RIP:
+    mimetype: image/x-rip
+  OUT-TAX.RIP:
+    mimetype: image/x-rip
+  OUT-TRAN.RIP:
+    mimetype: image/x-rip
+  OUT-VERS.RIP:
+    mimetype: image/x-rip
+  OUT-WEAP.RIP:
+    mimetype: image/x-rip
+  OUT-WOMN.RIP:
+    mimetype: image/x-rip
+  OUT-WRSL.RIP:
+    mimetype: image/x-rip
+  OUT-WZRD.RIP:
+    mimetype: image/x-rip
+  OUT.AD:
+    mimetype: text/plain
+  OUTWORLD.TXT:
+    mimetype: text/plain

@@ -1,0 +1,46 @@
+name: fsn-0895.zip
+hash: 090967f4d3e2b510ccde8da5f63c3cd5
+year: 1995
+file:
+  $HOEB0X.ANS:
+    mimetype: text/plain
+  $HOEB0X.NFO:
+    mimetype: text/plain
+  ASCII-08.ASC:
+    mimetype: text/plain
+  CT-ASY.ANS:
+    mimetype: text/plain
+  CT-FLGHT.ANS:
+    mimetype: text/plain
+  DN-BLAK.ANS:
+    mimetype: text/plain
+  DN-FSN.ANS:
+    mimetype: text/plain
+  DN-MAT.ANS:
+    mimetype: text/plain
+  DN-NFEAR.ANS:
+    mimetype: text/plain
+  DN-NITE.ANS:
+    mimetype: text/plain
+  DN-NUKE.ANS:
+    mimetype: text/plain
+  DN-PAGE.ANS:
+    mimetype: text/plain
+  DN-SDYDC.ANS:
+    mimetype: text/plain
+  DN-STATE.ANS:
+    mimetype: text/plain
+  DN-US1.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FSN-0895.NFO:
+    mimetype: text/plain
+  NEO.COM:
+    mimetype: application/x-msdos-program
+  TE-FUS01.ANS:
+    mimetype: text/plain
+  US-SOUL.ANS:
+    mimetype: text/plain
+  US-TALAD.ANS:
+    mimetype: text/plain

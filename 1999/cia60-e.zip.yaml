@@ -1,0 +1,28 @@
+name: cia60-e.zip
+hash: f19bba4b99c8110d6252627d55d8a6d9
+year: 1999
+file:
+  --C-I-A-.---:
+    mimetype: text/plain
+  0199INFO.CIA:
+    mimetype: text/plain
+  0199MEMB.CIA:
+    mimetype: text/plain
+  BD_FAL.JPG:
+    mimetype: image/jpeg
+  BD_RAGE.JPG:
+    mimetype: image/jpeg
+  DI_99.JPG:
+    mimetype: image/jpeg
+  DI_CIA.JPG:
+    mimetype: image/jpeg
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GF_FLWR.JPG:
+    mimetype: image/jpeg
+  I0_UNT04.JPG:
+    mimetype: image/jpeg
+  IK-AT_AR.JPG:
+    mimetype: image/jpeg
+  IK_FMARG.JPG:
+    mimetype: image/jpeg

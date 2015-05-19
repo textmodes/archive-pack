@@ -1,0 +1,58 @@
+name: mimic19.zip
+hash: e6692f4b4f24b6e7d68baf83f98e6b70
+year: 2000
+file:
+  aetmmc3c.asc:
+    mimetype: text/plain
+  bi-fs.asc:
+    mimetype: text/plain
+  bi-td.asc:
+    mimetype: text/plain
+  bjasc175.ans:
+    mimetype: text/plain
+  bjasc176.ans:
+    mimetype: text/plain
+  bjasc177.ans:
+    mimetype: text/plain
+  bjasc178.ans:
+    mimetype: text/plain
+  bjasc179.ans:
+    mimetype: text/plain
+  cd!conu.ans:
+    mimetype: text/plain
+  cd!ec.ans:
+    mimetype: text/plain
+  cd!mull.ans:
+    mimetype: text/plain
+  cg!prevl.asc:
+    mimetype: text/plain
+  cg!star1.asc:
+    mimetype: text/plain
+  file_id.diz:
+    mimetype: text/plain
+  grm-enrm.asc:
+    mimetype: text/plain
+  grm-inso.asc:
+    mimetype: text/plain
+  kpn-sks.asc:
+    mimetype: text/plain
+  m-en-y2k.txt:
+    mimetype: text/plain
+  members.txt:
+    mimetype: text/plain
+  nas-asl.asc:
+    mimetype: text/plain
+  nas-inf.asc:
+    mimetype: text/plain
+  nas-nyl.asc:
+    mimetype: text/plain
+  sy-evili.ans:
+    mimetype: text/plain
+  th-acc.asc:
+    mimetype: text/plain
+  th-eins.asc:
+    mimetype: text/plain
+  us!ehmmc.asc:
+    mimetype: text/plain
+  us-penus.asc:
+    mimetype: text/plain

@@ -1,0 +1,42 @@
+name: eco-17.zip
+hash: 73170c086a2912f25599b7f6df4b4e4e
+year: 2000
+file:
+  074-FINA.ANS:
+    mimetype: text/plain
+  074-KERM.ANS:
+    mimetype: text/plain
+  074-POTL.JPG:
+    mimetype: image/jpeg
+  CL!-ECO.ANS:
+    mimetype: text/plain
+  CPL-OPT.ANS:
+    mimetype: text/plain
+  CPL-RIP.ANS:
+    mimetype: text/plain
+  ECO-17.ANS:
+    mimetype: text/plain
+  ECO-STAT.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  PD_ECO.ANS:
+    mimetype: text/plain
+  PR-WOE.ANS:
+    mimetype: text/plain
+  PRO-FROM.JPG:
+    mimetype: image/jpeg
+  SLC-COLL.ANS:
+    mimetype: text/plain
+  US-BIZ.ANS:
+    mimetype: text/plain
+  US-CONTR.ASC:
+    mimetype: text/plain
+  US-MOON.ANS:
+    mimetype: text/plain
+  US-MOTOR.ANS:
+    mimetype: text/plain
+  US-TEA.ANS:
+    mimetype: text/plain
+  VLDFINAL.ANS:
+    mimetype: text/plain

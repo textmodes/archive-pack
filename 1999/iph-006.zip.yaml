@@ -1,0 +1,42 @@
+name: iph-006.zip
+hash: 0f508f46db2e6f31628f7472bc3f869a
+year: 1999
+file:
+  '!IPH-006.ANS':
+    mimetype: text/plain
+  1P4GG1LP.274:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  IPH-ARE5.ANS:
+    mimetype: text/plain
+  IPH-BB.ANS:
+    mimetype: text/plain
+  IPH-DETH.ASC:
+    mimetype: text/plain
+  IPH-DIG.ANS:
+    mimetype: text/plain
+  IPH-DRML.ANS:
+    mimetype: text/plain
+  IPH-FLAS.ANS:
+    mimetype: text/plain
+  IPH-HYPE.ANS:
+    mimetype: text/plain
+  IPH-LT.ANS:
+    mimetype: text/plain
+  IPH-NEWS.ASC:
+    mimetype: text/plain
+  IPH-SEEK.ANS:
+    mimetype: text/plain
+  IPH-SLA.ANS:
+    mimetype: text/plain
+  IPH-TIME.ANS:
+    mimetype: text/plain
+  IPH-UPL2.ANS:
+    mimetype: text/plain
+  IPH-VVOD.ANS:
+    mimetype: text/plain
+  IPH-XMAS.ASC:
+    mimetype: text/plain
+  IPH-YES!.JPG:
+    mimetype: image/jpeg

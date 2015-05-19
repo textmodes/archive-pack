@@ -1,0 +1,104 @@
+name: mx-pack14.zip
+hash: 9977a818e30ec9687f0930444d061434
+year: 2004
+file:
+  ASCII/ANSI/MX-27I1.ANS:
+    mimetype: text/plain
+  ASCII/ANSI/MX-27I2.ANS:
+    mimetype: text/plain
+  ASCII/MX-ATM.ASC:
+    mimetype: text/plain
+  ASCII/MX-CRO04.ASC:
+    mimetype: text/plain
+  ASCII/MX-GITS.ASC:
+    mimetype: text/plain
+  ASCII/MX-INFO.ASC:
+    mimetype: text/plain
+  ASCII/MX-LAX3.ASC:
+    mimetype: text/plain
+  ASCII/MX-NAGL.ASC:
+    mimetype: text/plain
+  ASCII/MX-REGN.ASC:
+    mimetype: text/plain
+  ASCII/MX-ROT.ASC:
+    mimetype: text/plain
+  ASCII/MX-RZR.ASC:
+    mimetype: text/plain
+  ASCII/MX-SFV.ASC:
+    mimetype: text/plain
+  ASCII/MX-TCOR.ASC:
+    mimetype: text/plain
+  ASCII/MX-TN.ASC:
+    mimetype: text/plain
+  ASCII/MX-TRN.ASC:
+    mimetype: text/plain
+  FILE-ID.DIZ:
+    mimetype: text/plain
+  HIREZ/api-login-panel-screen.gif:
+    mimetype: image/gif
+  HIREZ/mx-amgits-site-logo.gif:
+    mimetype: image/gif
+  HIREZ/mx-asciiscene-forums-logo.jpg:
+    mimetype: image/jpeg
+  HIREZ/mx-asciiscene-forums-logo2.jpg:
+    mimetype: image/jpeg
+  HIREZ/mx-ndorphinx-logo.gif:
+    mimetype: image/gif
+  HIREZ/mx-pdx-logo.gif:
+    mimetype: image/gif
+  HIREZ/mx-razor-logo-gothic.gif:
+    mimetype: image/gif
+  HIREZ/mx-razor-logo1.gif:
+    mimetype: image/gif
+  HIREZ/mx-sin-city-mafia-logo.jpg:
+    mimetype: image/jpeg
+  HIREZ/mx-trn-logo1.gif:
+    mimetype: image/gif
+  HIREZ/mx-waib-com-logo.gif:
+    mimetype: image/gif
+  HIREZ/mxt-blackmajick-logo2.jpg:
+    mimetype: image/jpeg
+  HIREZ/mxt-deautomater-logo1.gif:
+    mimetype: image/gif
+  HIREZ/mxt-deautomater-splash1.gif:
+    mimetype: image/gif
+  HIREZ/mxt-deautomater-toolbar.gif:
+    mimetype: image/gif
+  ICONS/mx-mirc-script-icon.ico:
+    mimetype: image/x-icon
+  ICONS/mx-misc-icon1.ico:
+    mimetype: image/x-icon
+  ICONS/mx-misc-rabbit-icon.ico:
+    mimetype: image/x-icon
+  ICONS/mx-panda-icon1.ico:
+    mimetype: image/x-icon
+  ICONS/mx-panda-icon2.ico:
+    mimetype: image/x-icon
+  ICONS/mx-panda-icon3.ico:
+    mimetype: image/x-icon
+  ICONS/mx-panda-icon4.ico:
+    mimetype: image/x-icon
+  ICONS/mx-razordemo-box-icon.ico:
+    mimetype: image/x-icon
+  ICONS/mx-razordemo-icon1.ico:
+    mimetype: image/x-icon
+  ICONS/mx-razordemo-icon2.ico:
+    mimetype: image/x-icon
+  ICONS/mx-razordemo-icon3.ico:
+    mimetype: image/x-icon
+  ICONS/mxt-class-intro-icon.ico:
+    mimetype: image/x-icon
+  ICONS/mxt-dfs-icon1.ico:
+    mimetype: image/x-icon
+  ICONS/mxt-dfs-icon2.ico:
+    mimetype: image/x-icon
+  ICONS/mxt-dfs-icon3.ico:
+    mimetype: image/x-icon
+  ICONS/mxt-dfs-icon4.ico:
+    mimetype: image/x-icon
+  ICONS/mxt-scarebyte-icon.ico:
+    mimetype: image/x-icon
+  ICONS/mxt-vace-icon.ico:
+    mimetype: image/x-icon
+  MAXXTRO.NFO:
+    mimetype: text/plain

@@ -1,0 +1,78 @@
+name: rmrs-13.zip
+hash: cf1548adcad1d6dc4d275eaa4d810f18
+year: 1997
+file:
+  ACIDCAPS.NFO:
+    mimetype: text/plain
+  BJ-ASC86.ANS:
+    mimetype: text/plain
+  BJ-ASC87.ANS:
+    mimetype: text/plain
+  BJ-ASC89.ANS:
+    mimetype: text/plain
+  BJ-ASC90.ANS:
+    mimetype: text/plain
+  CG-JUNE.TXT:
+    mimetype: text/plain
+  CK-WNSA.ASC:
+    mimetype: text/plain
+  DY-C.ASC:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GDR-CP.ASC:
+    mimetype: text/plain
+  GDR-MH.ASC:
+    mimetype: text/plain
+  NL-ABX.ASC:
+    mimetype: text/plain
+  NM-HOLE.ASC:
+    mimetype: text/plain
+  NM-TDD.ASC:
+    mimetype: text/plain
+  R-MHZAMH.TXT:
+    mimetype: text/plain
+  R-MLNNM.TXT:
+    mimetype: text/plain
+  REMORSE.NFO:
+    mimetype: text/plain
+  RV.CFG:
+    mimetype: text/plain
+  RV.EXE:
+    mimetype: application/x-msdos-program
+  T2-EPI.NFO:
+    mimetype: text/plain
+  T2-GS1.ANS:
+    mimetype: text/plain
+  T2-IOM3B.ANS:
+    mimetype: text/plain
+  T2-TK1.ASC:
+    mimetype: text/plain
+  TI-CDS!.ASC:
+    mimetype: text/plain
+  TI-CEL.ASC:
+    mimetype: text/plain
+  TI-ICE!.ASC:
+    mimetype: text/plain
+  TI-MAN.ASC:
+    mimetype: text/plain
+  TM-CODN.ASC:
+    mimetype: text/plain
+  TM-DAFAT.ASC:
+    mimetype: text/plain
+  TM-DFAT2.ASC:
+    mimetype: text/plain
+  US-ACID.ASC:
+    mimetype: text/plain
+  US-BLACK.ASC:
+    mimetype: text/plain
+  US-TOKE.ASC:
+    mimetype: text/plain
+  WD-1981.ASC:
+    mimetype: text/plain
+  WD-CSR.ASC:
+    mimetype: text/plain
+  WD-RMRS.ASC:
+    mimetype: text/plain
+  WD-TTTT.ASC:
+    mimetype: text/plain

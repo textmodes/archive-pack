@@ -1,0 +1,78 @@
+name: rmrs-28.zip
+hash: c187c0840090f833388f3cf3335c303b
+year: 1998
+file:
+  Bds-fcuk.txt:
+    mimetype: text/plain
+  Cm-acid.asc:
+    mimetype: text/plain
+  E-DOUBLE.TXT:
+    mimetype: text/plain
+  ER-CORP.DIZ:
+    mimetype: text/plain
+  ER-COTV.ASC:
+    mimetype: text/plain
+  ER-FOREA.ASC:
+    mimetype: text/plain
+  ER-ISA.SIG:
+    mimetype: application/octet-stream
+  ER-PST.DIZ:
+    mimetype: text/plain
+  ER-REMO.ASC:
+    mimetype: text/plain
+  ER-TEFL.ASC:
+    mimetype: text/plain
+  GWY-ASP1.ASC:
+    mimetype: text/plain
+  GWY-MMC.ASC:
+    mimetype: text/plain
+  GWY-MNU.ASC:
+    mimetype: text/plain
+  GWY-RIOT.ASC:
+    mimetype: text/plain
+  REMORSE.NFO:
+    mimetype: text/plain
+  RV.CFG:
+    mimetype: text/plain
+  RV.EXE:
+    mimetype: application/x-msdos-program
+  Us-103.ans:
+    mimetype: text/plain
+  ZH-FACE.ASC:
+    mimetype: text/plain
+  ZH-RMRS.ASC:
+    mimetype: text/plain
+  cn-blue.asc:
+    mimetype: text/plain
+  cn-of81.asc:
+    mimetype: text/plain
+  deceit.txt:
+    mimetype: text/plain
+  er-discd.asc:
+    mimetype: text/plain
+  file_id.diz:
+    mimetype: text/plain
+  log.txt:
+    mimetype: text/plain
+  pl-milan.asc:
+    mimetype: text/plain
+  pp-fstat.ans:
+    mimetype: text/plain
+  pp-rmrs.ans:
+    mimetype: text/plain
+  r-ocks.txt:
+    mimetype: text/plain
+  sp-acdiz.asc:
+    mimetype: text/plain
+  sp-k00ma.asc:
+    mimetype: text/plain
+  sp-nick.asc:
+    mimetype: text/plain
+  sy-jamie.bin:
+    mimetype: text/x-binary
+  sy-orgn.asc:
+    mimetype: text/plain
+  tum-acdn.asc:
+    mimetype: text/plain
+  zh-unity.asc:
+    mimetype: text/plain

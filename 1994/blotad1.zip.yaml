@@ -1,0 +1,14 @@
+name: blotad1.zip
+hash: 4540fe7883dd32e4cbb2a6657a56bfaf
+year: 1994
+file:
+  BLACKOUT.NFO:
+    mimetype: text/plain
+  BLOT.EXE:
+    mimetype: application/x-msdos-program
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  KICK:
+    mimetype: application/octet-stream
+  SOURCE.!!!:
+    mimetype: text/plain

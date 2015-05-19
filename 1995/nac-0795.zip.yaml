@@ -1,0 +1,44 @@
+name: nac-0795.zip
+hash: 515306b0ff73409ad4511fab2ff197cc
+year: 1995
+file:
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  K-SHIP.GIF:
+    mimetype: image/gif
+  K-SYNDY.GIF:
+    mimetype: image/gif
+  K-TRB.GIF:
+    mimetype: image/gif
+  K-UNDTW.GIF:
+    mimetype: image/gif
+  NAC#0.NFO:
+    mimetype: text/plain
+  PS-APPLE.GIF:
+    mimetype: image/gif
+  PS-EAT.NAC:
+    mimetype: text/plain
+  PS-FONT.BMP:
+    mimetype: image/x-ms-bmp
+  PS-LOGO.NAC:
+    mimetype: text/plain
+  PS-MASK.NAC:
+    mimetype: text/plain
+  PS-RIPSV.GIF:
+    mimetype: image/gif
+  PZ-DRGN.NAC:
+    mimetype: text/plain
+  PZ-FRILL.GIF:
+    mimetype: image/gif
+  PZ-OWL.NAC:
+    mimetype: text/plain
+  PZ-PUDZ.NAC:
+    mimetype: text/plain
+  PZ-PUDZ2.NAC:
+    mimetype: text/plain
+  PZ-ST.NAC:
+    mimetype: text/plain
+  PZ-VETTE.NAC:
+    mimetype: text/plain
+  THERETRN.TXT:
+    mimetype: text/plain

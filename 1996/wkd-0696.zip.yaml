@@ -1,0 +1,198 @@
+name: wkd-0696.zip
+hash: 1549b70d69ac64de12e092793792bfeb
+year: 1996
+file:
+  BIT-ACID.WKD:
+    mimetype: text/plain
+  BIT-AW.WKD:
+    mimetype: text/plain
+  BIT-GC.WKD:
+    mimetype: text/plain
+  BIT-HIRO.WKD:
+    mimetype: text/plain
+  BIT-TAME.WKD:
+    mimetype: text/plain
+  BIT-TND.WKD:
+    mimetype: text/plain
+  BL!-COC.WKD:
+    mimetype: text/plain
+  BL!-DIZ.WKD:
+    mimetype: text/plain
+  BL!-ENI2.WKD:
+    mimetype: text/plain
+  BL!-HELG.WKD:
+    mimetype: text/plain
+  BL!-LTM.WKD:
+    mimetype: text/plain
+  BL!-NOC.WKD:
+    mimetype: text/plain
+  BL!-UNIT.WKD:
+    mimetype: text/plain
+  BL-COL.WKD:
+    mimetype: text/plain
+  BL-DIZS.WKD:
+    mimetype: text/plain
+  BL-RECK1.WKD:
+    mimetype: text/plain
+  CS-DT.WKD:
+    mimetype: text/plain
+  CS-HLX.WKD:
+    mimetype: text/plain
+  CS-MTN.WKD:
+    mimetype: text/plain
+  CS-NB.WKD:
+    mimetype: text/plain
+  CS-SG.WKD:
+    mimetype: text/plain
+  CS-SR1.WKD:
+    mimetype: text/plain
+  CS-SS.WKD:
+    mimetype: text/plain
+  DAVOICE.TXT:
+    mimetype: text/plain
+  DP-API.WKD:
+    mimetype: text/plain
+  DP-FATE.WKD:
+    mimetype: text/plain
+  DP-INS.WKD:
+    mimetype: text/plain
+  DP-JT1.WKD:
+    mimetype: text/plain
+  DP-NEVER.WKD:
+    mimetype: text/plain
+  DP-TROF.WKD:
+    mimetype: text/plain
+  EP-MULTI.WKD:
+    mimetype: text/plain
+  EP-NEO.WKD:
+    mimetype: text/plain
+  EP-SOUL.WKD:
+    mimetype: text/plain
+  EP-SS3.WKD:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FS-DIV2.WKD:
+    mimetype: text/plain
+  FS-DL.WKD:
+    mimetype: text/plain
+  FS-DM.WKD:
+    mimetype: text/plain
+  FS-LOGO1.WKD:
+    mimetype: text/plain
+  FS-SAB1.WKD:
+    mimetype: text/plain
+  FS-WOWKD.WKD:
+    mimetype: text/plain
+  IZ-STAGE.WKD:
+    mimetype: text/plain
+  IZ-STILL.WKD:
+    mimetype: text/plain
+  JO-AOC4.WKD:
+    mimetype: text/plain
+  KR-BR.WKD:
+    mimetype: text/plain
+  KR-CALV.WKD:
+    mimetype: text/plain
+  KR-FEX3.WKD:
+    mimetype: text/plain
+  LA-ID.WKD:
+    mimetype: text/plain
+  LA-PHARC.WKD:
+    mimetype: text/plain
+  LC-SAB0.WKD:
+    mimetype: text/plain
+  LF-AVAL.WKD:
+    mimetype: text/plain
+  LF-DARK.WKD:
+    mimetype: text/plain
+  LF-LIN.WKD:
+    mimetype: text/plain
+  LM-AVALN.WKD:
+    mimetype: text/plain
+  LM-DONT.WKD:
+    mimetype: text/plain
+  LM-SET1.WKD:
+    mimetype: text/plain
+  LM-XNTH.WKD:
+    mimetype: text/plain
+  MD-CRY.WKD:
+    mimetype: text/plain
+  MD-SW.WKD:
+    mimetype: text/plain
+  MD-WOM.WKD:
+    mimetype: text/plain
+  MEMBER.LST:
+    mimetype: text/plain
+  NC-ATBT.WKD:
+    mimetype: text/plain
+  NC-INV.WKD:
+    mimetype: text/plain
+  NC-MAIN.WKD:
+    mimetype: text/plain
+  NC-WAR2.WKD:
+    mimetype: text/plain
+  NF-AINS.WKD:
+    mimetype: text/plain
+  NF-BX.WKD:
+    mimetype: text/plain
+  NF-KOG1.WKD:
+    mimetype: text/plain
+  NF-NH1.WKD:
+    mimetype: text/plain
+  NF-PI2.WKD:
+    mimetype: text/plain
+  NF-POIS1.WKD:
+    mimetype: text/plain
+  NF-TOKYO.WKD:
+    mimetype: text/plain
+  NF-UNR1.WKD:
+    mimetype: text/plain
+  RM-NGHTD.WKD:
+    mimetype: text/plain
+  RM-TNET.WKD:
+    mimetype: text/plain
+  SH-CHARD.EXE:
+    mimetype: application/x-msdos-program
+  SH-DISV.EXE:
+    mimetype: application/x-msdos-program
+  SK-ERE.WKD:
+    mimetype: text/plain
+  SK-ES1.WKD:
+    mimetype: text/plain
+  SK-SAZ1.WKD:
+    mimetype: text/plain
+  SK-WKD3.WKD:
+    mimetype: text/plain
+  SKD-CLOC.WKD:
+    mimetype: text/plain
+  SKD-COD.WKD:
+    mimetype: text/plain
+  SKD-REBI.WKD:
+    mimetype: text/plain
+  ST-STH1.WKD:
+    mimetype: text/plain
+  TT!-BYE.WKD:
+    mimetype: text/plain
+  TT!-CX.WKD:
+    mimetype: text/plain
+  TT!-DIZ1.WKD:
+    mimetype: text/plain
+  TT!-XF.WKD:
+    mimetype: text/plain
+  TT!ALIEN.WKD:
+    mimetype: text/plain
+  TT!ENYGM.WKD:
+    mimetype: text/plain
+  TT!HOE.WKD:
+    mimetype: text/plain
+  TZ-DC04.WKD:
+    mimetype: text/plain
+  TZ-JVE03.WKD:
+    mimetype: text/plain
+  TZ-JVE07.WKD:
+    mimetype: text/plain
+  WICKED.NFO:
+    mimetype: text/plain
+  WKDVIEW.EXE:
+    mimetype: application/x-msdos-program

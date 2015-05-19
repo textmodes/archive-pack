@@ -1,0 +1,82 @@
+name: itpnazis.zip
+hash: 246388d052f40abb075b3bdf09069d96
+year: 1999
+file:
+  '!ITP.NFO':
+    mimetype: text/plain
+  (L)GIN.ANS:
+    mimetype: text/plain
+  (L)ITP.ANS:
+    mimetype: text/plain
+  (L)MANO.ANS:
+    mimetype: text/plain
+  (L)RIVEN.ANS:
+    mimetype: text/plain
+  (L)SEVEN.ANS:
+    mimetype: text/plain
+  AX_CAFF.ANS:
+    mimetype: text/plain
+  AX_D4HK.ANS:
+    mimetype: text/plain
+  AX_DIAB.ANS:
+    mimetype: text/plain
+  AX_DRAGO.BIN:
+    mimetype: application/octet-stream
+  AX_DRAW.ANS:
+    mimetype: text/plain
+  AX_DYING.ANS:
+    mimetype: text/plain
+  AX_FIRE.ANS:
+    mimetype: text/plain
+  AX_G00P.ANS:
+    mimetype: text/plain
+  AX_INFI.ANS:
+    mimetype: text/plain
+  AX_INSAN.ANS:
+    mimetype: text/plain
+  AX_LANSC.ANS:
+    mimetype: text/plain
+  AX_LOGOS.ANS:
+    mimetype: text/plain
+  AX_MILAN.ANS:
+    mimetype: text/plain
+  AX_MONGO.ANS:
+    mimetype: text/plain
+  AX_ND!!!.ANS:
+    mimetype: text/plain
+  AX_ONE.ANS:
+    mimetype: text/plain
+  AX_ONE2.ANS:
+    mimetype: text/plain
+  AX_POWER.ANS:
+    mimetype: text/plain
+  AX_PSYRE.ANS:
+    mimetype: text/plain
+  AX_SAD.ANS:
+    mimetype: text/plain
+  AX_SICK.ANS:
+    mimetype: text/plain
+  AX_SKOG.ANS:
+    mimetype: text/plain
+  AX_SOAP.ANS:
+    mimetype: text/plain
+  AX_SOUL.ANS:
+    mimetype: text/plain
+  AX_STATS.ANS:
+    mimetype: text/plain
+  AX_VILL.ANS:
+    mimetype: text/plain
+  AX_XTC.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  NU-SIR-D.ANS:
+    mimetype: text/plain
+  S8N!!.PCX:
+    mimetype: image/pcx
+  SKULL2.PCX:
+    mimetype: image/pcx
+  WE-VILLA.ANS:
+    mimetype: text/plain
+  WE-VILLA.TXT:
+    mimetype: text/plain

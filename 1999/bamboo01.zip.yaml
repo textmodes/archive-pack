@@ -1,0 +1,36 @@
+name: bamboo01.zip
+hash: df0669b9a5dc17ac50dad8b1c7486c04
+year: 1999
+file:
+  BAMBOO.NFO:
+    mimetype: text/plain
+  BAMBOO01.NFO:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GS-APP.EXE:
+    mimetype: application/x-msdos-program
+  GS.NFO:
+    mimetype: text/plain
+  ZL-ART06.ASC:
+    mimetype: text/plain
+  ZL-BMBOO.ASC:
+    mimetype: text/plain
+  ZL-CFE99.ASC:
+    mimetype: text/plain
+  ZL-CHAT.ASC:
+    mimetype: text/plain
+  ZL-CMTZA.ASC:
+    mimetype: text/plain
+  ZL-KLTS.ASC:
+    mimetype: text/plain
+  ZL-MNSN.ASC:
+    mimetype: text/plain
+  ZL-MTREE.ASC:
+    mimetype: text/plain
+  ZL-SLITE.ASC:
+    mimetype: text/plain
+  ZL-TEACH.ASC:
+    mimetype: text/plain
+  ZL-UGH_C.ASC:
+    mimetype: text/plain

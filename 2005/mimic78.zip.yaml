@@ -1,0 +1,42 @@
+name: mimic78.zip
+hash: 9c98a13cf561934798cbff9d85863cda
+year: 2005
+file:
+  ds!-ill.txt:
+    mimetype: text/plain
+  file_id.diz:
+    mimetype: text/plain
+  gdr-mmc.ans:
+    mimetype: text/plain
+  h7-canse.asc:
+    mimetype: text/plain
+  h7-netf2.asc:
+    mimetype: text/plain
+  je-askk.asc:
+    mimetype: text/plain
+  je-inate.asc:
+    mimetype: text/plain
+  je-raww.asc:
+    mimetype: text/plain
+  k!darkd.asc:
+    mimetype: text/plain
+  k!quick.asc:
+    mimetype: text/plain
+  m0-compo.asc:
+    mimetype: text/plain
+  members.ans:
+    mimetype: text/plain
+  ns-mgraf.ans:
+    mimetype: text/plain
+  quotes78.txt:
+    mimetype: text/plain
+  rm-mcdiz.asc:
+    mimetype: text/plain
+  tcf-001.ans:
+    mimetype: text/plain
+  us-606.ans:
+    mimetype: text/plain
+  us-mmc78.ans:
+    mimetype: text/plain
+  zlf-maus.asc:
+    mimetype: text/plain

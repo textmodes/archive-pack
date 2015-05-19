@@ -1,0 +1,86 @@
+name: rib-010.zip
+hash: 8c0424c5e7806bbd4d4f32648964e425
+year: 1998
+file:
+  CPH-AP.ANS:
+    mimetype: text/plain
+  CPH-AVEN.ANS:
+    mimetype: text/plain
+  CPH-BOOZ.ANS:
+    mimetype: text/plain
+  CPH-BOOZ.ASC:
+    mimetype: text/plain
+  CPH-BZ.ANS:
+    mimetype: text/plain
+  CPH-CAFF.ANS:
+    mimetype: text/plain
+  CPH-DIV.ANS:
+    mimetype: text/plain
+  CPH-DIV.ASC:
+    mimetype: text/plain
+  CPH-F2.ANS:
+    mimetype: text/plain
+  CPH-FA3.ANS:
+    mimetype: text/plain
+  CPH-FAC.ANS:
+    mimetype: text/plain
+  CPH-GLU.ASC:
+    mimetype: text/plain
+  CPH-HRMM.ANS:
+    mimetype: text/plain
+  CPH-LEG.ANS:
+    mimetype: text/plain
+  CPH-ODEL.ANS:
+    mimetype: text/plain
+  CPH-ODEL.ASC:
+    mimetype: text/plain
+  CPH-OXY.ANS:
+    mimetype: text/plain
+  CPH-PMP.ANS:
+    mimetype: text/plain
+  CPH-RIB.ANS:
+    mimetype: text/plain
+  CPH-RIBL.ANS:
+    mimetype: text/plain
+  CPH-RIBV.ANS:
+    mimetype: text/plain
+  CPH-RLG.ANS:
+    mimetype: text/plain
+  DFR-RS.ANS:
+    mimetype: text/plain
+  DFR-RS.ASC:
+    mimetype: text/plain
+  DFR-VIR.ANS:
+    mimetype: text/plain
+  DND-PMPI.ANS:
+    mimetype: text/plain
+  DND-XTML.ANS:
+    mimetype: text/plain
+  ESR!SNS.JPG:
+    mimetype: image/jpeg
+  FA-ENT.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FZ-SUBL.JPG:
+    mimetype: image/jpeg
+  GD-MAG.JPG:
+    mimetype: image/jpeg
+  RIB-APP.EXE:
+    mimetype: application/x-msdos-program
+  RIB10INF.ANS:
+    mimetype: text/plain
+  RIB10NWS.ANS:
+    mimetype: text/plain
+  SR-004.JPG:
+    mimetype: image/jpeg
+  SR-008.JPG:
+    mimetype: image/jpeg
+  SR-ENET.JPG:
+    mimetype: image/jpeg
+  UNIVER~2.ASC:
+    mimetype: text/plain
+  US-HR.ASC:
+    mimetype: text/plain
+  WZ-THESL.JPG:
+    mimetype: image/jpeg

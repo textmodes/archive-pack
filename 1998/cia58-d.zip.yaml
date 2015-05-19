@@ -1,0 +1,36 @@
+name: cia58-d.zip
+hash: 0d58bf182b79520adb0fc6de247b2507
+year: 1998
+file:
+  !!binary xE9USEVSxMQuxMTE:
+    mimetype: text/plain
+  1198INFO.CIA:
+    mimetype: text/plain
+  1198MEMB.CIA:
+    mimetype: text/plain
+  CIAVIEW.BAT:
+    mimetype: application/x-msdos-program
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  LZ_TOON.JPG:
+    mimetype: image/jpeg
+  ME_CIA1.JPG:
+    mimetype: image/jpeg
+  ME_CIA2.JPG:
+    mimetype: image/jpeg
+  ME_LZ.JPG:
+    mimetype: image/jpeg
+  PK_MNGA.JPG:
+    mimetype: image/jpeg
+  PK_SMOKE.JPG:
+    mimetype: image/jpeg
+  RA_CNFGT.JPG:
+    mimetype: image/jpeg
+  RA_WIRTX.JPG:
+    mimetype: image/jpeg
+  SP_SECON.JPG:
+    mimetype: image/jpeg
+  TE_CWEED.JPG:
+    mimetype: image/jpeg
+  WIRETAP.EXE:
+    mimetype: application/x-msdos-program

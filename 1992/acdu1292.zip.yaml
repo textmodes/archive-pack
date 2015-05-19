@@ -1,0 +1,78 @@
+name: acdu1292.zip
+hash: 92ed8420c5cb32866ef1c9a5b78e65a4
+year: 1992
+file:
+  ACDU1292.NFO:
+    mimetype: text/plain
+  ACID-AE1.ANS:
+    mimetype: text/plain
+  ACID-CB.ANS:
+    mimetype: text/plain
+  ACID-FN1.ANS:
+    mimetype: text/plain
+  ACID92.ANS:
+    mimetype: text/plain
+  ACIDART.APL:
+    mimetype: application/octet-stream
+  ACIDCOUR.APL:
+    mimetype: text/plain
+  ACIDHIGH.ANS:
+    mimetype: text/plain
+  AOFACID5.ANS:
+    mimetype: text/plain
+  BADLACD1.EXE:
+    mimetype: application/x-msdos-program
+  BADLACD3.ANS:
+    mimetype: text/plain
+  BADLACD4.ANS:
+    mimetype: text/plain
+  BCACID2.EXE:
+    mimetype: application/x-msdos-program
+  CARTEL.ANS:
+    mimetype: text/plain
+  DARKRELM.ANS:
+    mimetype: text/plain
+  DSOCACD.ZIP:
+    mimetype: application/zip
+  DSOCACD5.ANS:
+    mimetype: text/plain
+  ELYSACD2.ANS:
+    mimetype: text/plain
+  FIFOLIFO.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FLT-ACD4.ANS:
+    mimetype: text/plain
+  FOZZYACD.ANS:
+    mimetype: text/plain
+  GRNCHACD.ANS:
+    mimetype: text/plain
+  MALICE1.ANS:
+    mimetype: text/plain
+  MBSACID.ANS:
+    mimetype: text/plain
+  MPACID2.EXE:
+    mimetype: application/x-msdos-program
+  NAUWH-VN.ANS:
+    mimetype: text/plain
+  NVRACID1.ANS:
+    mimetype: text/plain
+  NVRACID2.ANS:
+    mimetype: text/plain
+  PDCBACD.ANS:
+    mimetype: text/plain
+  RELMACD8.ANS:
+    mimetype: text/plain
+  SC-ACID7.ANS:
+    mimetype: text/plain
+  SC-ACID8.ANS:
+    mimetype: text/plain
+  SK8ACID2.ANS:
+    mimetype: text/plain
+  TEC3ACID.ANS:
+    mimetype: text/plain
+  TMG1-VN.ANS:
+    mimetype: text/plain
+  TMG2-VN.ANS:
+    mimetype: text/plain

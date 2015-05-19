@@ -1,0 +1,44 @@
+name: hazmat09.zip
+hash: 368744161a0fdc33840f54396930135e
+year: 2000
+file:
+  Dwf-haz.txt:
+    mimetype: text/plain
+  Dwf-kns.txt:
+    mimetype: text/plain
+  Dwf-knsd.txt:
+    mimetype: text/plain
+  Dwf-mi.txt:
+    mimetype: text/plain
+  Dwf-sil.txt:
+    mimetype: text/plain
+  Dwf-tb.txt:
+    mimetype: text/plain
+  Dwf-ws.txt:
+    mimetype: text/plain
+  En-pop71.ans:
+    mimetype: text/plain
+  No_funk.asc:
+    mimetype: text/plain
+  TB-PVL.ANS:
+    mimetype: text/plain
+  TB-VDOP.ASC:
+    mimetype: text/plain
+  Tb-ko.ans:
+    mimetype: text/plain
+  US-CIA.ASC:
+    mimetype: text/plain
+  evil_pc.txt:
+    mimetype: text/plain
+  file_id.diz:
+    mimetype: text/plain
+  hazmat09.nfo:
+    mimetype: text/plain
+  po-caff.asc:
+    mimetype: text/plain
+  po-df.asc:
+    mimetype: text/plain
+  po-void.asc:
+    mimetype: text/plain
+  us-enig.asc:
+    mimetype: text/plain

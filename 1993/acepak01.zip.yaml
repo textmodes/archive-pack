@@ -1,0 +1,22 @@
+name: acepak01.zip
+hash: 95b568a74fbb538fda1ea470ced743d1
+year: 1993
+file:
+  ACE.NFO:
+    mimetype: text/plain
+  DD-ACID.GIF:
+    mimetype: image/gif
+  DD-DEMON.GIF:
+    mimetype: image/gif
+  EB-LOGO.ACE:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GWS.EXE:
+    mimetype: application/x-msdos-program
+  SD-ICE.GIF:
+    mimetype: image/gif
+  SD-MERC.GIF:
+    mimetype: image/gif
+  SD-SRAGE.GIF:
+    mimetype: image/gif

@@ -1,0 +1,76 @@
+name: force-02.zip
+hash: 9079ae284564d35a3ef5b50aecdbb4bc
+year: 1995
+file:
+  !!binary +vr6+kFOU/ou+vr6:
+    mimetype: application/octet-stream
+  !!binary +vr6+k5GT/ou+vr6:
+    mimetype: application/octet-stream
+  !!binary +vpBTlNJ+vou+vr6:
+    mimetype: text/plain
+  !!binary +vpDUkFQ+vou+vr6:
+    mimetype: application/octet-stream
+  !!binary +vpWR0H6+vou+vr6:
+    mimetype: application/octet-stream
+  AN-101.ANS:
+    mimetype: text/plain
+  AN-BIB.ANS:
+    mimetype: text/plain
+  AN-BS#1.ANS:
+    mimetype: text/plain
+  AN-CBY.ANS:
+    mimetype: text/plain
+  AN-COVEN.ANS:
+    mimetype: text/plain
+  AN-DGI#1.ANS:
+    mimetype: text/plain
+  AN-DW#1.ANS:
+    mimetype: text/plain
+  AN-G#1.ANS:
+    mimetype: text/plain
+  AN-MAIN.ANS:
+    mimetype: text/plain
+  AN-MATRI.ANS:
+    mimetype: text/plain
+  AN-MIND.ANS:
+    mimetype: text/plain
+  AN-MON2.ANS:
+    mimetype: text/plain
+  AN-VAMP.ANS:
+    mimetype: text/plain
+  AN-VNET.ANS:
+    mimetype: text/plain
+  APPLY.EXE:
+    mimetype: application/x-msdos-program
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FMEMBA.ANS:
+    mimetype: text/plain
+  FNEWS.ANS:
+    mimetype: text/plain
+  FORCE.NFO:
+    mimetype: text/plain
+  FSTATS.ZIP:
+    mimetype: application/zip
+  FV.EXE:
+    mimetype: application/x-msdos-program
+  JXL-HOMY.ANS:
+    mimetype: text/plain
+  NME-TRAD.ANS:
+    mimetype: text/plain
+  NS-LOGO1.ANS:
+    mimetype: text/plain
+  NS-TPL.ANS:
+    mimetype: text/plain
+  SP-BS.ANS:
+    mimetype: text/plain
+  SP-FC1.ANS:
+    mimetype: text/plain
+  SP-FC1.GIF:
+    mimetype: image/gif
+  SP-TDD.ANS:
+    mimetype: text/plain
+  STATUS11.ZIP:
+    mimetype: application/zip
+  TLE.ANS:
+    mimetype: text/plain

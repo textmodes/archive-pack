@@ -1,0 +1,90 @@
+name: itch0295.zip
+hash: 9144c55c1cf150a35ec3426c7a4c01fa
+year: 1995
+file:
+  00-ADULT.ANS:
+    mimetype: text/plain
+  00-DEATH.ANS:
+    mimetype: text/plain
+  00-RINO.ANS:
+    mimetype: text/plain
+  AC-ACOUS.ANS:
+    mimetype: text/plain
+  AC-DOOM.ANS:
+    mimetype: text/plain
+  AC-DOOM2.ANS:
+    mimetype: text/plain
+  AC-DOOOM.ANS:
+    mimetype: text/plain
+  AC-FRI.GIF:
+    mimetype: image/gif
+  AC-ITCH.ANS:
+    mimetype: text/plain
+  AC-ITCH.JPG:
+    mimetype: image/jpeg
+  AC-ITCH1.ANS:
+    mimetype: text/plain
+  AC-ITCH2.ANS:
+    mimetype: text/plain
+  AC-ITCH3.JPG:
+    mimetype: image/jpeg
+  AC-LOGOF.ANS:
+    mimetype: text/plain
+  AC-MAIN.ANS:
+    mimetype: text/plain
+  AC-MEMLS.ANS:
+    mimetype: text/plain
+  AC-MEMLS.BAK:
+    mimetype: text/plain
+  AC-PLANE.ANS:
+    mimetype: text/plain
+  AC-REMAI.ANS:
+    mimetype: text/plain
+  AC-TERM.ANS:
+    mimetype: text/plain
+  AC-VIRT.ANS:
+    mimetype: text/plain
+  AC-WARN.ANS:
+    mimetype: text/plain
+  CRUSADER.NFO:
+    mimetype: text/plain
+  DEFIANCE.NFO:
+    mimetype: text/plain
+  EQZ-PLUG.NOW:
+    mimetype: text/plain
+  ER-CONF.ANS:
+    mimetype: text/plain
+  ER-ESP2.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GO.COM:
+    mimetype: application/x-msdos-program
+  ITCH_APP.ZIP:
+    mimetype: application/zip
+  ITCH_RAF.ZIP:
+    mimetype: application/zip
+  ITCHVIEW.EXE:
+    mimetype: application/x-msdos-program
+  MOJ.COM:
+    mimetype: application/x-msdos-program
+  MUSIK.ZIP:
+    mimetype: application/zip
+  SMALL.TDF:
+    mimetype: application/octet-stream
+  SNOW.TDF:
+    mimetype: application/octet-stream
+  VM-FR.ANS:
+    mimetype: text/plain
+  VM-FRING.ANS:
+    mimetype: text/plain
+  VM-FRING.GIF:
+    mimetype: image/gif
+  VM-GRAVE.ANS:
+    mimetype: text/plain
+  VM-HNET.ANS:
+    mimetype: text/plain
+  VM-ITCH1.ANS:
+    mimetype: text/plain
+  VM-RAF.ANS:
+    mimetype: text/plain

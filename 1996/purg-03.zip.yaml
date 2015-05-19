@@ -1,0 +1,72 @@
+name: purg-03.zip
+hash: 72a956107afa46caca9edd07fa47d8a3
+year: 1996
+file:
+  !!binary +vn4QU5TSfgu+fo=:
+    mimetype: text/plain
+  !!binary +vn4QVNLRUUu+Pn6:
+    mimetype: text/plain
+  !!binary +vn4TU9E+Pku+g==:
+    mimetype: text/plain
+  !!binary +vn4U0hJVPgu+fo=:
+    mimetype: text/plain
+  BM-1LINE.ANS:
+    mimetype: text/plain
+  BM-AUTOM.ZIP:
+    mimetype: application/zip
+  BM-FSCAN.ZIP:
+    mimetype: application/zip
+  BM-MOJO.ANS:
+    mimetype: text/plain
+  BM-PURG.ANS:
+    mimetype: text/plain
+  BM-VOY.ANS:
+    mimetype: text/plain
+  JAG-CBC.ANS:
+    mimetype: text/plain
+  JAG-RIP2.ANS:
+    mimetype: text/plain
+  JAG-TRR1.ANS:
+    mimetype: text/plain
+  JAG-TUH.ANS:
+    mimetype: text/plain
+  JAG-TWH3.ANS:
+    mimetype: text/plain
+  JAG_IMP.ANS:
+    mimetype: text/plain
+  JAG_IMP3.ANS:
+    mimetype: text/plain
+  JAG_PURG.ANS:
+    mimetype: text/plain
+  JAG_TRR.ANS:
+    mimetype: text/plain
+  JAG_TWH.ANS:
+    mimetype: text/plain
+  JAG_TWH2.ANS:
+    mimetype: text/plain
+  MT-CONF.ZIP:
+    mimetype: application/zip
+  MT-LGN.ZIP:
+    mimetype: application/zip
+  PRGAP20.ZIP:
+    mimetype: application/zip
+  PURG0496.DAT:
+    mimetype: application/octet-stream
+  PURG0496.EXE:
+    mimetype: application/x-msdos-program
+  TB-MBASE.ZIP:
+    mimetype: application/zip
+  TB-MENU1.ANS:
+    mimetype: text/plain
+  TR-DR!.DAT:
+    mimetype: application/octet-stream
+  TR-DR!.EXE:
+    mimetype: application/x-msdos-program
+  TR-FAT!.EXE:
+    mimetype: application/x-msdos-program
+  TR-PURG.ASC:
+    mimetype: text/plain
+  TR-STRUM.ASC:
+    mimetype: text/plain
+  TR-TMOB.ASC:
+    mimetype: text/plain

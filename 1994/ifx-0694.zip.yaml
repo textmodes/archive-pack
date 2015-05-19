@@ -1,0 +1,46 @@
+name: ifx-0694.zip
+hash: 16bfd8a223dd784f5313795d9e7da513
+year: 1994
+file:
+  CH-SOH.GIF:
+    mimetype: image/gif
+  CONFIG.DAT:
+    mimetype: text/plain
+  DELUSION.EXE:
+    mimetype: application/x-msdos-program
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  HENDRIX.MOD:
+    mimetype: audio/x-mod
+  IFX.NFO:
+    mimetype: text/plain
+  IFXAPP.EXE:
+    mimetype: application/x-msdos-program
+  IFXVIEW.EXE:
+    mimetype: application/x-msdos-program
+  IX-LOGO.IFX:
+    mimetype: text/plain
+  MEM-0694.IFX:
+    mimetype: text/plain
+  NEOTOKYO.ANS:
+    mimetype: text/plain
+  SC-FILTH.IFX:
+    mimetype: text/plain
+  SC-WOLV.IFX:
+    mimetype: text/plain
+  SD-GHOST.GIF:
+    mimetype: image/gif
+  SD-LOGO.GIF:
+    mimetype: image/gif
+  SO-TH.EXE:
+    mimetype: application/x-msdos-program
+  SS-BONE.IFX:
+    mimetype: text/plain
+  SS-MAXX.IFX:
+    mimetype: text/plain
+  SS-MHAT.IFX:
+    mimetype: text/plain
+  SS-ROGUE.IFX:
+    mimetype: text/plain
+  TH-LOGO.IFX:
+    mimetype: text/plain

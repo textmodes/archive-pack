@@ -1,0 +1,16 @@
+name: ddmgfx10.zip
+hash: c0177a46ca74db849ede8716b23b301b
+year: 1994
+file:
+  BONZAI.EXE:
+    mimetype: application/x-msdos-program
+  DDM.EXE:
+    mimetype: application/x-msdos-program
+  DDM10.GIF:
+    mimetype: image/gif
+  DDMGFX10.NFO:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  NEOTOKYO.ANS:
+    mimetype: text/plain

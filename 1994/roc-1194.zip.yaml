@@ -1,0 +1,84 @@
+name: roc-1194.zip
+hash: cc373c3591ed42e7fc76aec855c22f9d
+year: 1994
+file:
+  !!binary Lf5BTlNJ/i0=:
+    mimetype: text/plain
+  !!binary Lf5MR09T/i0=:
+    mimetype: application/octet-stream
+  !!binary Lf5MSVRT/i0=:
+    mimetype: application/octet-stream
+  !!binary Lf5NSVND/i0=:
+    mimetype: application/octet-stream
+  !!binary Lf5NT0RT/i0=:
+    mimetype: application/octet-stream
+  !!binary Lf5SSVBT/i0=:
+    mimetype: application/octet-stream
+  !!binary Lf5WR0FT/i0=:
+    mimetype: application/octet-stream
+  AP-COAST.ANS:
+    mimetype: text/plain
+  AT-2FH.GIF:
+    mimetype: image/gif
+  AT-ROC.GIF:
+    mimetype: image/gif
+  BG-A1S.RIP:
+    mimetype: image/x-rip
+  BG-CBDN.RIP:
+    mimetype: image/x-rip
+  BG-ROS.RIP:
+    mimetype: image/x-rip
+  BG-SI.RIP:
+    mimetype: image/x-rip
+  BG-STYX.RIP:
+    mimetype: image/x-rip
+  BG-T&J.RIP:
+    mimetype: image/x-rip
+  BG-TERM.RIP:
+    mimetype: image/x-rip
+  BG-TNC.RIP:
+    mimetype: image/x-rip
+  BP-A1S.ANS:
+    mimetype: text/plain
+  BP-TFH.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GD-REC.LGO:
+    mimetype: text/plain
+  GD-ROC1.LGO:
+    mimetype: text/plain
+  GD-ROC3.LGO:
+    mimetype: text/plain
+  GD-ROC6.LGO:
+    mimetype: text/plain
+  GD-ROC7.LGO:
+    mimetype: text/plain
+  GD-TFH.ANS:
+    mimetype: text/plain
+  GS_BYE.ANS:
+    mimetype: text/plain
+  JN-INTO.LIT:
+    mimetype: text/plain
+  JN-MAN.LIT:
+    mimetype: text/plain
+  LJ-HACK.LGO:
+    mimetype: text/plain
+  LJ-SIH.LGO:
+    mimetype: text/plain
+  LJ-TFH.LGO:
+    mimetype: text/plain
+  MK-TIMSP.ANS:
+    mimetype: text/plain
+  ROCAPP.EXE:
+    mimetype: application/x-msdos-program
+  ROCMEM.NFO:
+    mimetype: text/plain
+  ROCNEWS.NFO:
+    mimetype: text/plain
+  S-NDRWRL.GIF:
+    mimetype: image/gif
+  ZL-2FH.MOD:
+    mimetype: audio/x-mod
+  ZL-LOVE.MOD:
+    mimetype: audio/x-mod

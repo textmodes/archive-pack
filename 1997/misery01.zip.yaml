@@ -1,0 +1,74 @@
+name: misery01.zip
+hash: a6560031bdd2d1319152c24fa498a813
+year: 1997
+file:
+  -ANSI-.---:
+    mimetype: text/plain
+  -INFO-.---:
+    mimetype: text/plain
+  APPLY.NOW:
+    mimetype: text/plain
+  CK-COL1.ANS:
+    mimetype: text/plain
+  CK-DW1.ANS:
+    mimetype: text/plain
+  CK-MIS1.ANS:
+    mimetype: text/plain
+  CK-SALT1.ANS:
+    mimetype: text/plain
+  CK-ZERO1.ANS:
+    mimetype: text/plain
+  DD-DW1.ANS:
+    mimetype: text/plain
+  DD-EB1.ANS:
+    mimetype: text/plain
+  DD-ECM1.BIN:
+    mimetype: application/octet-stream
+  DD-FLP1.ANS:
+    mimetype: text/plain
+  DD-JAZZ1.ANS:
+    mimetype: text/plain
+  DD-NEO1.ANS:
+    mimetype: text/plain
+  DD-NOT6.ANS:
+    mimetype: text/plain
+  DD-PF89.ANS:
+    mimetype: text/plain
+  DD-POAF1.ANS:
+    mimetype: text/plain
+  DD-SALT3.ANS:
+    mimetype: text/plain
+  DD-SB1.ANS:
+    mimetype: text/plain
+  DD-SIDEA.ANS:
+    mimetype: text/plain
+  DD-SIDEB.ANS:
+    mimetype: text/plain
+  DD-SIDEC.ANS:
+    mimetype: text/plain
+  DD-SOUR8.ANS:
+    mimetype: text/plain
+  DD-UG8.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  MISERY.001:
+    mimetype: text/plain
+  NK-INFO.ANS:
+    mimetype: text/plain
+  NK-PDSTA.ANS:
+    mimetype: text/plain
+  NK-SALT1.ANS:
+    mimetype: text/plain
+  NK-UG1.ANS:
+    mimetype: text/plain
+  NK-ZZOUR.ANS:
+    mimetype: text/plain
+  SAD-COL1.ANS:
+    mimetype: text/plain
+  SI-COLLY.ANS:
+    mimetype: text/plain
+  SI-FH1.ANS:
+    mimetype: text/plain
+  US-PDOFF.ANS:
+    mimetype: text/plain

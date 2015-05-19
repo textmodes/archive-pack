@@ -1,0 +1,50 @@
+name: synth18.zip
+hash: 64f9cf01ce01aea622f762c05da6b19d
+year: 1998
+file:
+  0298memb.ans:
+    mimetype: text/plain
+  0298news.ans:
+    mimetype: text/plain
+  file_id.diz:
+    mimetype: text/plain
+  jpg2gif.exe:
+    mimetype: application/x-msdos-program
+  midian.bbs:
+    mimetype: text/plain
+  rp-snbak.ans:
+    mimetype: text/plain
+  scview.doc:
+    mimetype: text/plain
+  scview.exe:
+    mimetype: application/x-msdos-program
+  synthapp.exe:
+    mimetype: application/x-msdos-program
+  synthapp.nfo:
+    mimetype: text/plain
+  tow-base.gif:
+    mimetype: image/gif
+  tr-chez.jpg:
+    mimetype: image/jpeg
+  tr-colly.ans:
+    mimetype: text/plain
+  tr-dbgt.jpg:
+    mimetype: image/jpeg
+  tr-hype.jpg:
+    mimetype: image/jpeg
+  tr-mfrc.asc:
+    mimetype: text/plain
+  tr-numb1.jpg:
+    mimetype: image/jpeg
+  tr-trip.jpg:
+    mimetype: image/jpeg
+  w4-ascy.ans:
+    mimetype: text/plain
+  w4-qk2.jpg:
+    mimetype: image/jpeg
+  wrp-abas.jpg:
+    mimetype: image/jpeg
+  wrp-cl18.ans:
+    mimetype: text/plain
+  wrp-hzrd.jpg:
+    mimetype: image/jpeg

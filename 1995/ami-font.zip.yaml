@@ -1,0 +1,26 @@
+name: ami-font.zip
+hash: cb9e9f921661357fbf84824a072128ac
+year: 1995
+file:
+  '@ANITA.SEX':
+    mimetype: text/plain
+  !!binary xEFRVUlMQcQ=:
+    mimetype: text/plain
+  AMI-FONT.COM:
+    mimetype: application/x-msdos-program
+  AMI-FONT.NFO:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GETITALL.NOW:
+    mimetype: text/plain
+  NEO.COM:
+    mimetype: application/x-msdos-program
+  SCULPT.EXE:
+    mimetype: application/x-msdos-program
+  !!binary U0VMRv9FU1QuRUVN:
+    mimetype: text/plain
+  UELLAHBP.COM:
+    mimetype: application/x-msdos-program
+  WHATSNEW.053:
+    mimetype: text/plain

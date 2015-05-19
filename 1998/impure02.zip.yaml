@@ -1,0 +1,80 @@
+name: impure02.zip
+hash: e645b68266a75e57c1804a0672d87f71
+year: 1998
+file:
+  D5-GRAIL.IMP:
+    mimetype: text/plain
+  D5-IMP.IMP:
+    mimetype: text/plain
+  D5-TAL.IMP:
+    mimetype: text/plain
+  D5-TAL2.IMP:
+    mimetype: text/plain
+  DD-OBSES.IMP:
+    mimetype: text/plain
+  DRM-IQ1.IMP:
+    mimetype: text/plain
+  ESC-CYB3.IMP:
+    mimetype: text/plain
+  ESC-ESCB.IMP:
+    mimetype: text/plain
+  ESC-INDI.IMP:
+    mimetype: text/plain
+  ESC-LIQD.IMP:
+    mimetype: text/plain
+  ESC-TEEH.IMP:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  HC-PRE.IMP:
+    mimetype: text/plain
+  HC-TMCM.IMP:
+    mimetype: text/plain
+  HC-WOEZ.IMP:
+    mimetype: text/plain
+  IMP-APP.EXE:
+    mimetype: application/x-msdos-program
+  IMP-MEM.002:
+    mimetype: text/plain
+  IMPQUEST.002:
+    mimetype: text/plain
+  MA-EPOCH.IMP:
+    mimetype: text/plain
+  MA-LIQUD.IMP:
+    mimetype: text/plain
+  PGU!TAL.IMP:
+    mimetype: text/plain
+  PGU!XS.IMP:
+    mimetype: text/plain
+  QX-COLLY.IMP:
+    mimetype: text/plain
+  QX_CAND.IMP:
+    mimetype: text/plain
+  QX_CH.IMP:
+    mimetype: text/plain
+  QX_CSTCM.IMP:
+    mimetype: text/plain
+  QX_ECL.IMP:
+    mimetype: text/plain
+  QX_SOC.IMP:
+    mimetype: text/plain
+  QX_UNI.IMP:
+    mimetype: text/plain
+  QX_WM.IMP:
+    mimetype: text/plain
+  SHY-EPO2.IMP:
+    mimetype: text/plain
+  SHY-EPOC.IMP:
+    mimetype: text/plain
+  SM-WZIII.IMP:
+    mimetype: text/plain
+  VA-D00DL.IMP:
+    mimetype: text/plain
+  VA-GREM2.IMP:
+    mimetype: text/plain
+  VA-LUCID.IMP:
+    mimetype: text/plain
+  VA-VIGI.IMP:
+    mimetype: text/plain
+  VA-WZ4.IMP:
+    mimetype: text/plain

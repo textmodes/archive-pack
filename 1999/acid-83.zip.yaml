@@ -1,0 +1,34 @@
+name: acid-83.zip
+hash: efe699cab0d6b2454605d95f0fff4130
+year: 1999
+file:
+  acid-83.xb:
+    mimetype: text/x-xbin
+  acidapp.exe:
+    mimetype: application/x-msdos-program
+  dnd-life.jpg:
+    mimetype: image/jpeg
+  file_id.diz:
+    mimetype: text/plain
+  grm-lorez15.jpg:
+    mimetype: image/jpeg
+  jsn-claydermanpromo2.jpg:
+    mimetype: image/jpeg
+  l_k-100percent.jpg:
+    mimetype: image/jpeg
+  lgv-snebula.jpg:
+    mimetype: image/jpeg
+  mal-gloworm.jpg:
+    mimetype: image/jpeg
+  news-83.asc:
+    mimetype: text/plain
+  news-83.htm:
+    mimetype: text/html
+  oct-impact.jpg:
+    mimetype: image/jpeg
+  our-copyright.txt:
+    mimetype: text/plain
+  our-invasion.jpg:
+    mimetype: image/jpeg
+  release.nfo:
+    mimetype: text/plain

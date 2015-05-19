@@ -1,0 +1,22 @@
+name: thrp2.zip
+hash: 7ccebd48aa83e55655831400004abd84
+year: 2000
+file:
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FREEBASE.RMX:
+    mimetype: application/octet-stream
+  KAES.RMX:
+    mimetype: application/octet-stream
+  NASONE.RMX:
+    mimetype: application/octet-stream
+  OTIUMMAN.RMX:
+    mimetype: application/octet-stream
+  SPEAR.RMX:
+    mimetype: text/plain
+  THRP2.NFO:
+    mimetype: text/plain
+  THUGLIFE.ORG:
+    mimetype: text/plain
+  WKZ.RMX:
+    mimetype: text/plain

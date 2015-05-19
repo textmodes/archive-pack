@@ -1,0 +1,76 @@
+name: lght9510.zip
+hash: d1fc767d3a70e7c9e14a9ba76ace3792
+year: 1995
+file:
+  !!binary +cTEQU5TScQuxMT5:
+    mimetype: text/plain
+  !!binary +cTESU5GT8QuxMT5:
+    mimetype: text/plain
+  !!binary +cTETU9EU8QuxMT5:
+    mimetype: text/plain
+  !!binary +cTEVkdBU8QuxMT5:
+    mimetype: text/plain
+  CD-BONES.ANS:
+    mimetype: text/plain
+  CD-DR.ANS:
+    mimetype: text/plain
+  CD-HIGH.ANS:
+    mimetype: text/plain
+  CD-PANTH.ANS:
+    mimetype: text/plain
+  CD-ROC1.ANS:
+    mimetype: text/plain
+  CD-SKANL.ANS:
+    mimetype: text/plain
+  CD-STAB.ANS:
+    mimetype: text/plain
+  CD-VAMP.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FILELIST.NFO:
+    mimetype: text/plain
+  GL-LIGHT.JPG:
+    mimetype: image/jpeg
+  GL-REALM.JPG:
+    mimetype: image/jpeg
+  GL-UTOP.JPG:
+    mimetype: image/jpeg
+  LAPP-10.EXE:
+    mimetype: application/x-msdos-program
+  LGHT9510.NFO:
+    mimetype: text/plain
+  LIGHTMAN.TXT:
+    mimetype: text/plain
+  NE-LGHT2.EXE:
+    mimetype: application/x-msdos-program
+  NE-LIGHT.EXE:
+    mimetype: application/x-msdos-program
+  NM-JBO01.ANS:
+    mimetype: text/plain
+  NM-MENU.ANS:
+    mimetype: text/plain
+  NM-MNU01.ANS:
+    mimetype: text/plain
+  NM-MNU02.ANS:
+    mimetype: text/plain
+  NM-MNU03.ANS:
+    mimetype: text/plain
+  NM-MNU04.ANS:
+    mimetype: text/plain
+  PZ-ICDIT.LIT:
+    mimetype: text/plain
+  PZ-LIGHT.MOD:
+    mimetype: audio/x-mod
+  PZ-MLTDN.MOD:
+    mimetype: audio/x-mod
+  PZ-OASIS.MOD:
+    mimetype: audio/x-mod
+  PZ-REACH.MOD:
+    mimetype: audio/x-mod
+  RON-EGRV.MOD:
+    mimetype: audio/x-mod
+  RON-WGRV.MOD:
+    mimetype: audio/x-mod
+  SR-R0C1.ANS:
+    mimetype: text/plain

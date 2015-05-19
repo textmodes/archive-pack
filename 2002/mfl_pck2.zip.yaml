@@ -1,0 +1,102 @@
+name: mfl_pck2.zip
+hash: b53cf68ccd8349285d7fee34a1a7524f
+year: 2002
+file:
+  _INFO.TXT:
+    mimetype: text/plain
+  BNR-ART.ASC:
+    mimetype: text/plain
+  BNR-ATR.ASC:
+    mimetype: text/plain
+  BNR-BNR.ASC:
+    mimetype: text/plain
+  BNR-CRE1.ASC:
+    mimetype: text/plain
+  BNR-CREW.ASC:
+    mimetype: text/plain
+  BNR-DIZ1.ASC:
+    mimetype: text/plain
+  BNR-IMP.ASC:
+    mimetype: text/plain
+  BNR-LEG.ASC:
+    mimetype: text/plain
+  BNR-LOP.ASC:
+    mimetype: text/plain
+  BNR-MFL1.ASC:
+    mimetype: text/plain
+  BNR-MFLL.ASC:
+    mimetype: text/plain
+  BNR-MIST.ASC:
+    mimetype: text/plain
+  BNR-NAH.ASC:
+    mimetype: text/plain
+  BNR-ND.ASC:
+    mimetype: text/plain
+  BNR-PIA1.ASC:
+    mimetype: text/plain
+  BNR-PIA2.ASC:
+    mimetype: text/plain
+  BNR-ROOD.ASC:
+    mimetype: text/plain
+  BNR-SCR.ASC:
+    mimetype: text/plain
+  BNR-SIAT.ASC:
+    mimetype: text/plain
+  BNR-SK!.ASC:
+    mimetype: text/plain
+  BNR-SPR.ASC:
+    mimetype: text/plain
+  CHIPS/7THPIT.XM:
+    mimetype: audio/x-mod
+  CHIPS/90YEARS.XM:
+    mimetype: audio/x-mod
+  CHIPS/KENIZED.XM:
+    mimetype: audio/x-mod
+  CHIPS/KUKURYDZ.XM:
+    mimetype: audio/x-mod
+  CHIPS/ROB_MAT.XM:
+    mimetype: audio/x-mod
+  CHIPS/SUPERCOW.XM:
+    mimetype: audio/x-mod
+  CHIPS/SWIMMING.XM:
+    mimetype: audio/x-mod
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  MOONFLOW.NFO:
+    mimetype: text/plain
+  MST!ASCI.ASC:
+    mimetype: text/plain
+  MST!COL.ANS:
+    mimetype: text/plain
+  MST!D.ANS:
+    mimetype: text/plain
+  MST!DNO.ASC:
+    mimetype: text/plain
+  MST!DZWO.ANS:
+    mimetype: text/plain
+  MST!G2.ASC:
+    mimetype: text/plain
+  MST!KONF.ASC:
+    mimetype: text/plain
+  MST!LOP.ASC:
+    mimetype: text/plain
+  MST!ND.ANS:
+    mimetype: text/plain
+  MST!NEBU.TXT:
+    mimetype: text/plain
+  MST!ODDZ.ANS:
+    mimetype: text/plain
+  MST!ORKI.ANS:
+    mimetype: text/plain
+  MST!S666.ANS:
+    mimetype: text/plain
+  MST!S666.ASC:
+    mimetype: text/plain
+  MST!SPR.ASC:
+    mimetype: text/plain
+  MST!TRUP.ANS:
+    mimetype: text/plain
+  MST!ZABA.ASC:
+    mimetype: text/plain
+  US-MFL.ASC:
+    mimetype: text/plain

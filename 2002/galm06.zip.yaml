@@ -1,0 +1,42 @@
+name: galm06.zip
+hash: 8280ef913f0663aa01c8f9312c286cec
+year: 2002
+file:
+  gt002/Gt2.exe:
+    mimetype: application/x-msdos-program
+  gt002/ansi/Galm1.ans:
+    mimetype: text/plain
+  gt002/ansi/M0d-galm.ans:
+    mimetype: text/plain
+  gt002/ansi/Ma-thelo.ans:
+    mimetype: text/plain
+  gt002/gfx/DESTRO.GIF:
+    mimetype: image/gif
+  gt002/gfx/IRO.GIF:
+    mimetype: image/gif
+  gt002/gfx/PURE.GIF:
+    mimetype: image/gif
+  gt002/gfx/TOSKID.GIF:
+    mimetype: image/gif
+  gt002/gt.nfo:
+    mimetype: text/plain
+  gt002/tracks/(DC)-DVU.IT:
+    mimetype: audio/x-mod
+  gt002/tracks/(DC)-GAL.IT:
+    mimetype: audio/x-mod
+  gt002/tracks/(DC)-HPS.IT:
+    mimetype: audio/x-mod
+  gt002/tracks/(DC)-IDL.IT:
+    mimetype: audio/x-mod
+  gt002/tracks/(DC)-LOK.IT:
+    mimetype: audio/x-mod
+  gt002/tracks/(DC)-NBY.IT:
+    mimetype: audio/x-mod
+  gt002/tracks/(DC)-SDZ.IT:
+    mimetype: audio/x-mod
+  gt002/tracks/(DC)-UCP.IT:
+    mimetype: audio/x-mod
+  gt002/tracks/(DC)-WIT.IT:
+    mimetype: audio/x-mod
+  gt002/tracks/lithis - mumified in gaffa.xm:
+    mimetype: audio/x-mod

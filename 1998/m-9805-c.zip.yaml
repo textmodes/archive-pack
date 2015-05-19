@@ -1,0 +1,26 @@
+name: m-9805-c.zip
+hash: 8d376ca4b76304606ee2a190bfef43de
+year: 1998
+file:
+  !!binary +k1VU0lDLvr6:
+    mimetype: text/plain
+  CCI-025.ARJ:
+    mimetype: application/arj
+  DD-SUICI.IT:
+    mimetype: audio/x-mod
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FR_FILTR.IT:
+    mimetype: audio/x-mod
+  GOLDVIEW.ZIP:
+    mimetype: application/zip
+  KITSCH30.ZIP:
+    mimetype: application/zip
+  M-9805.MEM:
+    mimetype: text/plain
+  M-9805.NFO:
+    mimetype: text/plain
+  MSTAPP20.ZIP:
+    mimetype: application/zip
+  ONX~BEHO.IT:
+    mimetype: audio/x-mod

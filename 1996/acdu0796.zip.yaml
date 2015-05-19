@@ -1,0 +1,50 @@
+name: acdu0796.zip
+hash: 16a1a640b5736e3d2e21fc53a01817bd
+year: 1996
+file:
+  ACDU0796.NFO:
+    mimetype: text/plain
+  ACID0796.ANS:
+    mimetype: text/plain
+  ACIDAPP.EXE:
+    mimetype: application/x-msdos-program
+  ACIDVIEW.DAT:
+    mimetype: application/octet-stream
+  ACIDVIEW.EXE:
+    mimetype: application/x-msdos-program
+  ACIDVIEW.NFO:
+    mimetype: text/plain
+  CS-BMANG.JPG:
+    mimetype: image/jpeg
+  CS-SPOCK.JPG:
+    mimetype: image/jpeg
+  CT-IMDES.ANS:
+    mimetype: text/plain
+  FD-ACID1.JPG:
+    mimetype: image/jpeg
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  KO-BABY5.JPG:
+    mimetype: image/jpeg
+  MB-POINT.ANS:
+    mimetype: text/plain
+  ON-DISCO.ANS:
+    mimetype: text/plain
+  PR-MUTAT.GIF:
+    mimetype: image/gif
+  RA-DISCO.ANS:
+    mimetype: text/plain
+  SB-SUCCO.ANS:
+    mimetype: text/plain
+  SI-SG1.ANS:
+    mimetype: text/plain
+  TH-ABSTR.JPG:
+    mimetype: image/jpeg
+  VG-BNA.JPG:
+    mimetype: image/jpeg
+  VG-DEMON.JPG:
+    mimetype: image/jpeg
+  VG-SKY.JPG:
+    mimetype: image/jpeg
+  WE-WILL.SUE:
+    mimetype: text/plain

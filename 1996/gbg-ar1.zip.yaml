@@ -1,0 +1,62 @@
+name: gbg-ar1.zip
+hash: 968a03b0373ebdc69ffac0ee233efba0
+year: 1996
+file:
+  CM-ASY1.JPG:
+    mimetype: image/jpeg
+  CM-PERSP.GIF:
+    mimetype: image/gif
+  CM-TSH1.GIF:
+    mimetype: image/gif
+  CM-TSH2.GIF:
+    mimetype: image/gif
+  CM-TSH3.GIF:
+    mimetype: image/gif
+  CM-TSH4.GIF:
+    mimetype: image/gif
+  CM-TSH5.GIF:
+    mimetype: image/gif
+  DEFIANCE.NFO:
+    mimetype: text/plain
+  DYTHORI.EXE:
+    mimetype: application/x-msdos-program
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GARBAGE.NFO:
+    mimetype: text/plain
+  KZ-ASYL1.JPG:
+    mimetype: image/jpeg
+  KZ-TSH1.JPG:
+    mimetype: image/jpeg
+  KZ-TSH2.JPG:
+    mimetype: image/jpeg
+  MC-DARK.ANS:
+    mimetype: text/plain
+  MC-HELL.ANS:
+    mimetype: text/plain
+  MC-LCH!.ANS:
+    mimetype: text/plain
+  OA-ASY1.ANS:
+    mimetype: text/plain
+  OA-ASY2.ANS:
+    mimetype: text/plain
+  RESTRANK.IL!:
+    mimetype: text/plain
+  SK-ASY1.ASC:
+    mimetype: text/plain
+  SK-ASY2.ASC:
+    mimetype: text/plain
+  SK-ASY3.ASC:
+    mimetype: text/plain
+  SK-BLADE.ANS:
+    mimetype: text/plain
+  SK-TRASH.ANS:
+    mimetype: text/plain
+  SK-TRASH.ASC:
+    mimetype: text/plain
+  SK-UNS.ANS:
+    mimetype: text/plain
+  SK-UNS.ASC:
+    mimetype: text/plain
+  TSH-APLY.EXE:
+    mimetype: application/x-msdos-program

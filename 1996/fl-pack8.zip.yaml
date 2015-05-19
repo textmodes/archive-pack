@@ -1,0 +1,74 @@
+name: fl-pack8.zip
+hash: f7f78a3025ca82c6d4c9d3652a197325
+year: 1996
+file:
+  '!INFO!.ANS':
+    mimetype: text/plain
+  --ANSI--.---:
+    mimetype: text/plain
+  --APP!--.---:
+    mimetype: text/plain
+  --BIN!--.---:
+    mimetype: text/plain
+  --DIZ!--.---:
+    mimetype: text/plain
+  --END!--.---:
+    mimetype: text/plain
+  --NFO!--.---:
+    mimetype: text/plain
+  DK-ASKEE.ANS:
+    mimetype: text/plain
+  DK-EDGE!.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FL-FILEI.ANS:
+    mimetype: text/plain
+  FUEL.APP:
+    mimetype: application/octet-stream
+  FUEL.NFO:
+    mimetype: text/plain
+  NA-CS.ANS:
+    mimetype: text/plain
+  NA-TRIOP.ANS:
+    mimetype: text/plain
+  NF-2BABE.ANS:
+    mimetype: text/plain
+  NF-BITCH.BIN:
+    mimetype: text/x-binary
+  NF-GREEN.ANS:
+    mimetype: text/plain
+  NF-JOKER.ANS:
+    mimetype: text/plain
+  NF-KANO.ANS:
+    mimetype: text/plain
+  NF-LOLLY.ANS:
+    mimetype: text/plain
+  NF-MANGA.ANS:
+    mimetype: text/plain
+  NF-OCTAN.ANS:
+    mimetype: text/plain
+  PH-MISC.ANS:
+    mimetype: text/plain
+  RELEASES.TXT:
+    mimetype: text/plain
+  SC-ZONEX.ANS:
+    mimetype: text/plain
+  TH-COLLY.ANS:
+    mimetype: text/plain
+  TH-METAL.BIN:
+    mimetype: text/x-binary
+  TH-POO.ANS:
+    mimetype: text/plain
+  TH-RED.ANS:
+    mimetype: text/plain
+  TH-SLAM!.ANS:
+    mimetype: text/plain
+  TK-COLLE.ANS:
+    mimetype: text/plain
+  TK-KANO.ANS:
+    mimetype: text/plain
+  WS-BYTEE.ANS:
+    mimetype: text/plain
+  WS-CLUST.ANS:
+    mimetype: text/plain

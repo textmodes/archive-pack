@@ -1,0 +1,86 @@
+name: mist0495.zip
+hash: 46c1207323fb204be9480525c2b765da
+year: 1995
+file:
+  ^ANSI^:
+    mimetype: text/plain
+  ^LIT^:
+    mimetype: text/plain
+  ^MUSIC^:
+    mimetype: text/plain
+  ^OTHER^:
+    mimetype: text/plain
+  ^RIP^:
+    mimetype: text/plain
+  ^VGA^:
+    mimetype: text/plain
+  CALLTST.604:
+    mimetype: text/plain
+  CT-IQ.LIT:
+    mimetype: text/plain
+  CT-REG.LIT:
+    mimetype: text/plain
+  CTMA-CAN.ANS:
+    mimetype: text/plain
+  DP-GRAF.GIF:
+    mimetype: image/gif
+  ET-AHOM.LIT:
+    mimetype: text/plain
+  ET-FOOL.LIT:
+    mimetype: text/plain
+  ET-YEAR.LIT:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GOLDVIEW.ZIP:
+    mimetype: application/zip
+  HAL-SO.ANS:
+    mimetype: text/plain
+  HAL-WEE3.ANS:
+    mimetype: text/plain
+  KA-1STCO.S3M:
+    mimetype: audio/x-mod
+  KA-1STCO.TXT:
+    mimetype: text/plain
+  KITHE#6.ZIP:
+    mimetype: application/zip
+  KITSCHAP.ZIP:
+    mimetype: application/zip
+  LI-LINT.LIT:
+    mimetype: text/plain
+  LIME-SIC.LIT:
+    mimetype: text/plain
+  MA-DOPE1.ANS:
+    mimetype: text/plain
+  MA-FRNG1.ANS:
+    mimetype: text/plain
+  ME-BUS2.LIT:
+    mimetype: text/plain
+  MIST0495.MEM:
+    mimetype: text/plain
+  MSTAPP13.ZIP:
+    mimetype: application/zip
+  NIT-TRN.ANS:
+    mimetype: text/plain
+  P1-CITY.ANS:
+    mimetype: text/plain
+  P1-FB1.ANS:
+    mimetype: text/plain
+  P1-FC1.ANS:
+    mimetype: text/plain
+  P1-FW1.ANS:
+    mimetype: text/plain
+  P1-GZ1.ANS:
+    mimetype: text/plain
+  P1-PC.ANS:
+    mimetype: text/plain
+  P1-PC1.RIP:
+    mimetype: image/x-rip
+  P1-TR.RIP:
+    mimetype: image/x-rip
+  SA-LD.RIP:
+    mimetype: image/x-rip
+  TE-CIZB2.ANS:
+    mimetype: text/plain
+  TNT!FATE.ANS:
+    mimetype: text/plain

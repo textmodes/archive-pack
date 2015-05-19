@@ -1,0 +1,48 @@
+name: pen15-03.zip
+hash: e44ce059517b526fe8524c8d3f85a955
+year: 1999
+file:
+  '#ANSI---.---':
+    mimetype: text/plain
+  '#ASCII--.---':
+    mimetype: text/plain
+  '#ASCTXT-.---':
+    mimetype: text/plain
+  '#GUEST--.---':
+    mimetype: text/plain
+  '#INFO---.---':
+    mimetype: text/plain
+  '#WAREZ--.---':
+    mimetype: text/plain
+  3K-MOTD.ASC:
+    mimetype: text/plain
+  3K-PILVI.ANS:
+    mimetype: text/plain
+  3K-PINIS.ANS:
+    mimetype: text/plain
+  3K-TBOX.ASC:
+    mimetype: text/plain
+  3K-USELS.ANS:
+    mimetype: text/plain
+  3K-USLS2.ASC:
+    mimetype: text/plain
+  15-SOLID.TXT:
+    mimetype: text/plain
+  ET-MOI.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GA-GA.MOO:
+    mimetype: text/plain
+  NOMOANSI.TEK:
+    mimetype: text/plain
+  PEN15-02.ZIP:
+    mimetype: application/zip
+  PEN15.NFO:
+    mimetype: text/plain
+  TAE-SOVT.ANS:
+    mimetype: text/plain
+  TAE-STAR.ANS:
+    mimetype: text/plain
+  Z.BAT:
+    mimetype: application/x-msdos-program

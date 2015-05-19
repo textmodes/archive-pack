@@ -1,0 +1,70 @@
+name: avpack04.zip
+hash: 8c476934b6e7599b1a1fac06d828d906
+year: 1995
+file:
+  AV4LIT.ZIP:
+    mimetype: application/zip
+  AVVIEW.ZIP:
+    mimetype: application/zip
+  BF-IC.ANS:
+    mimetype: text/plain
+  BF-MENU1.ANS:
+    mimetype: text/plain
+  CONTENTS.AVI:
+    mimetype: video/x-msvideo
+  DESTRUCT.MOD:
+    mimetype: audio/x-mod
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  HQ-4TH_D.ANS:
+    mimetype: text/plain
+  HQ-BLOOD.ANS:
+    mimetype: text/plain
+  HQ-MERC.ANS:
+    mimetype: text/plain
+  HQ-SKULL.ANS:
+    mimetype: text/plain
+  HS-AML2.GIF:
+    mimetype: image/gif
+  HS-DOG.GIF:
+    mimetype: image/gif
+  HS-FACE.GIF:
+    mimetype: image/gif
+  HS-FTR.ANS:
+    mimetype: text/plain
+  HS-HRT.GIF:
+    mimetype: image/gif
+  HS-REX1.ANS:
+    mimetype: text/plain
+  INFO.AVI:
+    mimetype: video/x-msvideo
+  KRL-BBEL.ANS:
+    mimetype: text/plain
+  KRL-BL2.ANS:
+    mimetype: text/plain
+  KRL-BLST.GIF:
+    mimetype: image/gif
+  KRL-CAPN.ANS:
+    mimetype: text/plain
+  KRL-DRMS.TGA:
+    mimetype: application/octet-stream
+  KRL-FACE.GIF:
+    mimetype: image/gif
+  KRL-FEAR.ANS:
+    mimetype: text/plain
+  KRL-GYPO.ANS:
+    mimetype: text/plain
+  KRL-KILL.ANS:
+    mimetype: text/plain
+  KRL-THRN.GIF:
+    mimetype: image/gif
+  KRL-TSC.ANS:
+    mimetype: text/plain
+  KRL-TSC3.ASC:
+    mimetype: text/plain
+  MEMBERS.AVI:
+    mimetype: video/x-msvideo
+  !!binary TUmzKUmSTi7h4VM=:
+    mimetype: text/plain
+  VISIONS.ZIP:
+    mimetype: application/zip

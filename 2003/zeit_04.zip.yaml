@@ -1,0 +1,96 @@
+name: zeit_04.zip
+hash: 3d2e5a004bc90b7249d96ffb7ae94ef8
+year: 2003
+file:
+  ALL2BIT.DLL:
+    mimetype: application/x-dosexec
+  Art/CRS-BANA.ANS:
+    mimetype: text/plain
+  Art/CRS-ELP.ANS:
+    mimetype: text/plain
+  Art/CRS-IZG.ANS:
+    mimetype: text/plain
+  Art/CRS-NOVA.ANS:
+    mimetype: text/plain
+  Art/CRS-SPEC.ANS:
+    mimetype: text/plain
+  Art/CRS-STAR.ANS:
+    mimetype: text/plain
+  Art/S&K-PRIM.ASC:
+    mimetype: text/plain
+  Art/VIBE-TKR.MO3:
+    mimetype: application/octet-stream
+  Art/bn-sopka.jpg:
+    mimetype: image/jpeg
+  Art/cph-and.jpg:
+    mimetype: image/jpeg
+  Art/cph-blue.jpg:
+    mimetype: image/jpeg
+  Art/cph-crow.jpg:
+    mimetype: image/jpeg
+  Art/cph-flsh.jpg:
+    mimetype: image/jpeg
+  Art/cph-grey.jpg:
+    mimetype: image/jpeg
+  Art/cph-live.jpg:
+    mimetype: image/jpeg
+  Art/cph-psyh.jpg:
+    mimetype: image/jpeg
+  Art/cph-sens.jpg:
+    mimetype: image/jpeg
+  Art/crs-glas.ans:
+    mimetype: text/plain
+  Art/crs-visi.jpg:
+    mimetype: image/jpeg
+  Art/file_id.diz:
+    mimetype: text/plain
+  Art/gs-strlt.asc:
+    mimetype: text/plain
+  Art/icy-stpl.ans:
+    mimetype: text/plain
+  Art/ks-beaut.asc:
+    mimetype: text/plain
+  Art/ks-blood.lit:
+    mimetype: text/plain
+  Art/ks-boor.asc:
+    mimetype: text/plain
+  Art/ks-pole.lit:
+    mimetype: text/plain
+  Art/ks-shaki.asc:
+    mimetype: text/plain
+  Art/ks-strhv.asc:
+    mimetype: text/plain
+  Art/odd-nuka.jpg:
+    mimetype: image/jpeg
+  Art/ox-girl.asc:
+    mimetype: text/plain
+  Art/ox-kluft.ans:
+    mimetype: text/plain
+  Art/ox-mtrx.ans:
+    mimetype: text/plain
+  Art/ox-rasto.asc:
+    mimetype: text/plain
+  Art/ox-xeno.ans:
+    mimetype: text/plain
+  Art/ox-znspg.asc:
+    mimetype: text/plain
+  Art/s-coma_2.asc:
+    mimetype: text/plain
+  Art/z-digit.ans:
+    mimetype: text/plain
+  Art/z-galza.ans:
+    mimetype: text/plain
+  Art/z-voin.ans:
+    mimetype: text/plain
+  Art/z-web.ans:
+    mimetype: text/plain
+  Art/zn4-nfo.ans:
+    mimetype: text/plain
+  ZN4_3.EXE:
+    mimetype: application/x-msdos-program
+  bass.dll:
+    mimetype: application/x-dosexec
+  files.zn4:
+    mimetype: text/plain
+  read_me.txt:
+    mimetype: text/plain

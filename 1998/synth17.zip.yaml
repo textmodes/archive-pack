@@ -1,0 +1,54 @@
+name: synth17.zip
+hash: a8aa19e609cf20c7ef9c24188450e202
+year: 1998
+file:
+  0198MEMB.ANS:
+    mimetype: text/plain
+  0198NEWS.ANS:
+    mimetype: text/plain
+  CT-COLLY.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  JPG2GIF.EXE:
+    mimetype: application/x-msdos-program
+  ODB-0198.ANS:
+    mimetype: text/plain
+  RP-SYNTH.ASC:
+    mimetype: text/plain
+  SCVIEW.DOC:
+    mimetype: text/plain
+  SCVIEW.EXE:
+    mimetype: application/x-msdos-program
+  SKN-DIZ.ASC:
+    mimetype: text/plain
+  SKN~COLY.ANS:
+    mimetype: text/plain
+  SKN~XTRA.ANS:
+    mimetype: text/plain
+  SYD-HALL.JPG:
+    mimetype: image/jpeg
+  SYD-TANK.JPG:
+    mimetype: image/jpeg
+  SYD-WTCH.JPG:
+    mimetype: image/jpeg
+  SYNTHAPP.EXE:
+    mimetype: application/x-msdos-program
+  SYNTHAPP.NFO:
+    mimetype: text/plain
+  TOW-COLY.ANS:
+    mimetype: text/plain
+  TOW-KILL.ANS:
+    mimetype: text/plain
+  TR-ESC!.ANS:
+    mimetype: text/plain
+  TR-REPH.ANS:
+    mimetype: text/plain
+  WRP-$2CN.JPG:
+    mimetype: image/jpeg
+  WRP-CL17.ANS:
+    mimetype: text/plain
+  WRP-DVSP.JPG:
+    mimetype: image/jpeg
+  WRP-UNDR.JPG:
+    mimetype: image/jpeg

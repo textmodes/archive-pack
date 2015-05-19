@@ -1,0 +1,96 @@
+name: cia56-a.zip
+hash: 9ef9f9b85af66d8e09ad927800e76be0
+year: 1998
+file:
+  !!binary xMRBTlNJxMQuxMTE:
+    mimetype: text/plain
+  !!binary xMRSSVDExMQuxMTE:
+    mimetype: text/plain
+  !!binary xEhBWk1BVMQuxMTE:
+    mimetype: text/plain
+  !!binary xE9USEVSU8QuxMTE:
+    mimetype: text/plain
+  42_HAPEE.CIA:
+    mimetype: text/plain
+  42_ID.CIA:
+    mimetype: text/plain
+  42_STR.CIA:
+    mimetype: text/plain
+  0998INFO.CIA:
+    mimetype: text/plain
+  0998MEMB.CIA:
+    mimetype: text/plain
+  APPGEN.EXE:
+    mimetype: application/x-msdos-program
+  CT-COL2.ASC:
+    mimetype: text/plain
+  CT-COLLY.ASC:
+    mimetype: text/plain
+  DE-AFTRM.ASC:
+    mimetype: text/plain
+  DE-COA.ASC:
+    mimetype: text/plain
+  DE-MIMIC.ASC:
+    mimetype: text/plain
+  DEV-SPIN.ASC:
+    mimetype: text/plain
+  DJ-CODE1.ASC:
+    mimetype: text/plain
+  DJ-PHAZE.ASC:
+    mimetype: text/plain
+  DJ-PROMO.ASC:
+    mimetype: text/plain
+  DRM-CIA.ASC:
+    mimetype: text/plain
+  DRM-DP.ASC:
+    mimetype: text/plain
+  DRM-SS.ASC:
+    mimetype: text/plain
+  DZ-HAZMT.ASC:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GJ-CIA.CIA:
+    mimetype: text/plain
+  GJ-COA.ASC:
+    mimetype: text/plain
+  GWY-HAZ1.ASC:
+    mimetype: text/plain
+  JD-CIA.ASC:
+    mimetype: text/plain
+  JP-COL13.ASC:
+    mimetype: text/plain
+  JP-COL14.ASC:
+    mimetype: text/plain
+  JP-DEM2.RIP:
+    mimetype: image/x-rip
+  JP-JEP1.RIP:
+    mimetype: image/x-rip
+  JP-JP1.RIP:
+    mimetype: image/x-rip
+  JP-PEJ1.RIP:
+    mimetype: image/x-rip
+  JP-SOUL3.RIP:
+    mimetype: image/x-rip
+  MG-COLLY.ASC:
+    mimetype: text/plain
+  RP-BLACK.ASC:
+    mimetype: text/plain
+  RP-PSYCH.ASC:
+    mimetype: text/plain
+  RP-SIL.ASC:
+    mimetype: text/plain
+  S3#FNC.CIA:
+    mimetype: text/plain
+  SD-CHEM.BIN:
+    mimetype: text/x-binary
+  SD-MATX.CIA:
+    mimetype: text/plain
+  SM-FIEND.CIA:
+    mimetype: text/plain
+  US-CRSP1.ASC:
+    mimetype: text/plain
+  US-OMC1.CIA:
+    mimetype: text/plain
+  WIRETAP.EXE:
+    mimetype: application/x-msdos-program

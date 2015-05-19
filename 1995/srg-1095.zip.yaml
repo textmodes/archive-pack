@@ -1,0 +1,50 @@
+name: srg-1095.zip
+hash: 691150dbadf4ca3a0f844576c27b2456
+year: 1995
+file:
+  1095-SRG.BRD:
+    mimetype: text/plain
+  1095-SRG.MEM:
+    mimetype: text/plain
+  1095-SRG.NWS:
+    mimetype: text/plain
+  CX-HIFRC.ANS:
+    mimetype: text/plain
+  CX-SHAD1.GIF:
+    mimetype: image/gif
+  CX-SRG2.ANS:
+    mimetype: text/plain
+  EO-COMBO.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GJ-COMBO.ANS:
+    mimetype: text/plain
+  GJ-INFO.ANS:
+    mimetype: text/plain
+  HY-ES.ANS:
+    mimetype: text/plain
+  IV-EF.S3M:
+    mimetype: audio/x-mod
+  KHZ-GE$!.ANS:
+    mimetype: text/plain
+  LB-COMBO.ANS:
+    mimetype: text/plain
+  LB-DT.ANS:
+    mimetype: text/plain
+  LF-COMBO.ANS:
+    mimetype: text/plain
+  SRG-APP.ZIP:
+    mimetype: application/zip
+  WZ-FREE.ANS:
+    mimetype: text/plain
+  ZL-GLOR.RIP:
+    mimetype: image/x-rip
+  ZL-GZ.RIP:
+    mimetype: image/x-rip
+  ZL-HYP.GIF:
+    mimetype: image/gif
+  ZL-PHANT.GIF:
+    mimetype: image/gif
+  ZL-STASH.RIP:
+    mimetype: image/x-rip

@@ -1,0 +1,14 @@
+name: fnt_ace.zip
+hash: b211fa6c303e26bca4508a05870acaec
+year: 1994
+file:
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  INST.EXE:
+    mimetype: application/x-msdos-program
+  INSTALL.COM:
+    mimetype: application/x-msdos-program
+  PROGRAM.1:
+    mimetype: application/x-dosexec
+  PROGRAM.DAT:
+    mimetype: text/plain

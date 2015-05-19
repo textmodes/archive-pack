@@ -1,0 +1,14 @@
+name: kts-elte.zip
+hash: 12fe261a3f348c2b25a612679fa0e667
+year: 1994
+file:
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FUN!.COM:
+    mimetype: application/x-msdos-program
+  KTS-ELTE.DAT:
+    mimetype: application/octet-stream
+  KTS-ELTE.EXE:
+    mimetype: application/x-msdos-program
+  KTS-ELTE.NFO:
+    mimetype: text/plain

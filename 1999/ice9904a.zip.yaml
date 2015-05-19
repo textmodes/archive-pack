@@ -1,0 +1,44 @@
+name: ice9904a.zip
+hash: 8a14e5034331e04e2e53c66ae74c6136
+year: 1999
+file:
+  -ANSI---.---:
+    mimetype: text/plain
+  -LOGO---.---:
+    mimetype: text/plain
+  -STAT---.---:
+    mimetype: text/plain
+  C0-GLUE.ICE:
+    mimetype: text/plain
+  C0-L0499.ICE:
+    mimetype: text/plain
+  CK2-ICE1.ICE:
+    mimetype: text/plain
+  CK2-LJ1.ICE:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GC-GUTTA.ICE:
+    mimetype: text/plain
+  ICE-9904.DSC:
+    mimetype: text/plain
+  ICE-9904.MEM:
+    mimetype: text/plain
+  ICE-9904.NFO:
+    mimetype: text/plain
+  ICEVIEW.CNF:
+    mimetype: text/plain
+  ICEVIEW.DOC:
+    mimetype: text/plain
+  ICEVIEW.EXE:
+    mimetype: application/x-msdos-program
+  MD-FOS.ICE:
+    mimetype: text/plain
+  MT-GUT1.ICE:
+    mimetype: text/plain
+  PV.EXE:
+    mimetype: application/x-msdos-program
+  US-SANE.ICE:
+    mimetype: text/plain
+  US-TWCZ.ICE:
+    mimetype: text/plain

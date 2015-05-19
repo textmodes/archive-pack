@@ -1,0 +1,120 @@
+name: rmrs-10.zip
+hash: 131d5c5141e231b67b14b931bd996573
+year: 1997
+file:
+  AB-COLOR.ANS:
+    mimetype: text/plain
+  AB-RMRS0.ASC:
+    mimetype: text/plain
+  AB-RMRS1.ASC:
+    mimetype: text/plain
+  AB-RMRS3.ASC:
+    mimetype: text/plain
+  AB-RMRS4.ASC:
+    mimetype: text/plain
+  AB-RMRS5.ASC:
+    mimetype: text/plain
+  AB-RMRS6.ASC:
+    mimetype: text/plain
+  AB-RMRS7.ASC:
+    mimetype: text/plain
+  AB-RMRS8.ASC:
+    mimetype: text/plain
+  AB-RMRS9.ASC:
+    mimetype: text/plain
+  AB-RMS10.ASC:
+    mimetype: text/plain
+  AB-RMS11.ASC:
+    mimetype: text/plain
+  BDS-COMP.ASC:
+    mimetype: text/plain
+  DY-PROD.ASC:
+    mimetype: text/plain
+  ER-TRANI.ASC:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GDR-RMR3.ANS:
+    mimetype: text/plain
+  JAK-ACD6.ASC:
+    mimetype: text/plain
+  JAK-ACD7.ASC:
+    mimetype: text/plain
+  JAK-CHER.ASC:
+    mimetype: text/plain
+  JAK-DELU.ASC:
+    mimetype: text/plain
+  JAK-HI.ASC:
+    mimetype: text/plain
+  JAK-JUIC.ASC:
+    mimetype: text/plain
+  JAK-KOLS.ASC:
+    mimetype: text/plain
+  JAK-PAND.ASC:
+    mimetype: text/plain
+  JAK-PURG.ASC:
+    mimetype: text/plain
+  JAK-QUID.ASC:
+    mimetype: text/plain
+  JAK-RMR1.ASC:
+    mimetype: text/plain
+  JAK-RMR2.ASC:
+    mimetype: text/plain
+  JAK-VTX.ASC:
+    mimetype: text/plain
+  JAK-WB.ASC:
+    mimetype: text/plain
+  M!-SUCK.ANS:
+    mimetype: text/plain
+  MD-OBSCR.ANS:
+    mimetype: text/plain
+  NM-HAM.ASC:
+    mimetype: text/plain
+  NM-ICE.ASC:
+    mimetype: text/plain
+  NM-NON.ASC:
+    mimetype: text/plain
+  NM-OMI.ASC:
+    mimetype: text/plain
+  NM-SERI.ASC:
+    mimetype: text/plain
+  NM-VOL.ASC:
+    mimetype: text/plain
+  NM-WHOD.ASC:
+    mimetype: text/plain
+  NM-X.ASC:
+    mimetype: text/plain
+  PM-TH01.ASC:
+    mimetype: text/plain
+  PM-WC01.ASC:
+    mimetype: text/plain
+  R-H2C.TXT:
+    mimetype: text/plain
+  R-VOICEZ.TXT:
+    mimetype: text/plain
+  REMORSE.NFO:
+    mimetype: text/plain
+  REV-HIRO.ASC:
+    mimetype: text/plain
+  REV-NECR.ASC:
+    mimetype: text/plain
+  REV-OMIC.ASC:
+    mimetype: text/plain
+  REV-REVT.ASC:
+    mimetype: text/plain
+  RMRS.LOG:
+    mimetype: application/octet-stream
+  RV.DOC:
+    mimetype: text/plain
+  RV.EXE:
+    mimetype: application/x-msdos-program
+  SI-OLDS1.ASC:
+    mimetype: text/plain
+  SI-TIFA.ASC:
+    mimetype: text/plain
+  T2-DB1.ASC:
+    mimetype: text/plain
+  US-RMRS2.ASC:
+    mimetype: text/plain
+  US-TI5.ASC:
+    mimetype: text/plain

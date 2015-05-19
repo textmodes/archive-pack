@@ -1,0 +1,48 @@
+name: avpack18.zip
+hash: 41c85cc15e9102d9178c23482410944a
+year: 1998
+file:
+  av-mem18.ans:
+    mimetype: text/plain
+  av-nfo18.ans:
+    mimetype: text/plain
+  avview.exe:
+    mimetype: application/x-msdos-program
+  avview.nfo:
+    mimetype: text/plain
+  bl-ooze3.gif:
+    mimetype: image/gif
+  bl-wired.gif:
+    mimetype: image/gif
+  cx-staex.ans:
+    mimetype: text/plain
+  cx-stx2.ans:
+    mimetype: text/plain
+  dv-frida.ans:
+    mimetype: text/plain
+  file_id.diz:
+    mimetype: text/plain
+  krl-are.rip:
+    mimetype: image/x-rip
+  krl-av4a.rip:
+    mimetype: image/x-rip
+  krl-cf2.rip:
+    mimetype: image/x-rip
+  krl-isup.jpg:
+    mimetype: image/jpeg
+  krl-krl1.rip:
+    mimetype: image/x-rip
+  krl-nihi.ans:
+    mimetype: text/plain
+  midian.bbs:
+    mimetype: text/plain
+  mw-acher.gif:
+    mimetype: image/gif
+  mw-atom.jpg:
+    mimetype: image/jpeg
+  mw-bat.jpg:
+    mimetype: image/jpeg
+  mw-flip.jpg:
+    mimetype: image/jpeg
+  mw-ooze.gif:
+    mimetype: image/gif

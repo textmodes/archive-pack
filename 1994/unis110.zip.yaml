@@ -1,0 +1,30 @@
+name: unis110.zip
+hash: 2611cd2184f82fa1ae070505d1f10715
+year: 1994
+file:
+  _1COMPO1.ZIP:
+    mimetype: application/zip
+  4JSNO.669:
+    mimetype: audio/x-mod
+  DEE_CUG!.669:
+    mimetype: audio/x-mod
+  FAR.TXT:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  MB.TXT:
+    mimetype: text/plain
+  MCONTET2.TXT:
+    mimetype: text/plain
+  NEOTOKYO.ANS:
+    mimetype: text/plain
+  REM2.669:
+    mimetype: audio/x-mod
+  SENT1.EXE:
+    mimetype: application/x-msdos-program
+  UNIS669.DOC:
+    mimetype: text/plain
+  UNIS669.EXE:
+    mimetype: application/x-msdos-program
+  UNISHELP.HLP:
+    mimetype: application/octet-stream

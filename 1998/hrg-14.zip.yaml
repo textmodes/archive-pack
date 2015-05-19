@@ -1,0 +1,62 @@
+name: hrg-14.zip
+hash: 9e6cba87bca40cf8c2e8c4a69da0c4d7
+year: 1998
+file:
+  '---14---.ASC':
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  HRG-NFO.EXE:
+    mimetype: application/x-msdos-program
+  HVK-HRGD.ASC:
+    mimetype: text/plain
+  HVK-WT.ASC:
+    mimetype: text/plain
+  HZR-FALL.JPG:
+    mimetype: image/jpeg
+  I_L^BAG.JPG:
+    mimetype: image/jpeg
+  I_L^CPS.ASC:
+    mimetype: text/plain
+  I_L^DXD.ASC:
+    mimetype: text/plain
+  I_L^HEAD.ANS:
+    mimetype: text/plain
+  I_L^OK.ASC:
+    mimetype: text/plain
+  I_L^SELF.ASC:
+    mimetype: text/plain
+  I_L^STC.ASC:
+    mimetype: text/plain
+  I_L^STNC.JPG:
+    mimetype: image/jpeg
+  I_L^TAGR.ASC:
+    mimetype: text/plain
+  I_L^TECH.ASC:
+    mimetype: text/plain
+  IM-ALTAR.JPG:
+    mimetype: image/jpeg
+  IMT-BW01.JPG:
+    mimetype: image/jpeg
+  IMT-BW02.JPG:
+    mimetype: image/jpeg
+  IMT-BW03.JPG:
+    mimetype: image/jpeg
+  IMT-BW04.JPG:
+    mimetype: image/jpeg
+  S-FUTURE.JPG:
+    mimetype: image/jpeg
+  S-LAIR.JPG:
+    mimetype: image/jpeg
+  SK-SHLD.GIF:
+    mimetype: image/gif
+  SPRO-ATT.JPG:
+    mimetype: image/jpeg
+  SPRO-BHE.GIF:
+    mimetype: image/gif
+  SPRO-STP.GIF:
+    mimetype: image/gif
+  SPRO-VIO.GIF:
+    mimetype: image/gif
+  STR-TIME.JPG:
+    mimetype: image/jpeg

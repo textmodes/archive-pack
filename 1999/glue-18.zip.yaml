@@ -1,0 +1,54 @@
+name: glue-18.zip
+hash: 6ed76a52ec8b1f0b7af892b4bff45474
+year: 1999
+file:
+  --ANSI--.---:
+    mimetype: text/plain
+  --GLUE--.---:
+    mimetype: text/plain
+  --INFO--.---:
+    mimetype: text/plain
+  22-CLOCK.ANS:
+    mimetype: text/plain
+  22-COL9.ANS:
+    mimetype: text/plain
+  22-GLUE3.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GLUE-18.MEM:
+    mimetype: text/plain
+  GLUE-18.NFO:
+    mimetype: text/plain
+  GS-SER1.ANS:
+    mimetype: text/plain
+  HC-E.ANS:
+    mimetype: text/plain
+  INT-GLEW.ANS:
+    mimetype: text/plain
+  IS-1983.ANS:
+    mimetype: text/plain
+  IS-GUTTE.ANS:
+    mimetype: text/plain
+  PC-LOGO1.ANS:
+    mimetype: text/plain
+  QP-GLUE2.ANS:
+    mimetype: text/plain
+  SMP-GLUE.ANS:
+    mimetype: text/plain
+  SMP-HDNC.ANS:
+    mimetype: text/plain
+  SMP-LAD.ANS:
+    mimetype: text/plain
+  SMP-VOID.ANS:
+    mimetype: text/plain
+  US-ARTS.ANS:
+    mimetype: text/plain
+  US-EPT.ANS:
+    mimetype: text/plain
+  US-GUTTR.ANS:
+    mimetype: text/plain
+  US-SALT.ANS:
+    mimetype: text/plain
+  US-SURL.ANS:
+    mimetype: text/plain

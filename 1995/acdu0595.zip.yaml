@@ -1,0 +1,108 @@
+name: acdu0595.zip
+hash: 7cccea8e49017899c8fee0ae5738b567
+year: 1995
+file:
+  ACDU0595.NFO:
+    mimetype: text/plain
+  ACID0495.ANS:
+    mimetype: text/plain
+  ACIDAPP.EXE:
+    mimetype: application/x-msdos-program
+  ACIDVIEW.CFG:
+    mimetype: text/plain
+  ACIDVIEW.EXE:
+    mimetype: application/x-msdos-program
+  ACIDVIEW.NFO:
+    mimetype: text/plain
+  AN-SUCCO.GIF:
+    mimetype: image/gif
+  AR-ACID1.ANS:
+    mimetype: text/plain
+  AR-PRLX2.ANS:
+    mimetype: text/plain
+  AY-ACID1.ANS:
+    mimetype: text/plain
+  AY-EBS1.ANS:
+    mimetype: text/plain
+  AY-HAQ1.ANS:
+    mimetype: text/plain
+  AY-MD1.ANS:
+    mimetype: text/plain
+  AY-MIST1.ANS:
+    mimetype: text/plain
+  AY-NEVER.ANS:
+    mimetype: text/plain
+  AY-PRAY2.ANS:
+    mimetype: text/plain
+  AY-REG1.ANS:
+    mimetype: text/plain
+  AY-SBZ.ANS:
+    mimetype: text/plain
+  AY-SIN2.ANS:
+    mimetype: text/plain
+  AY-SUCC3.ANS:
+    mimetype: text/plain
+  AY-SUCC4.ANS:
+    mimetype: text/plain
+  AY-TGATE.ANS:
+    mimetype: text/plain
+  AY-UF3.ANS:
+    mimetype: text/plain
+  AY-UW1.ANS:
+    mimetype: text/plain
+  BD-LD01.RIP:
+    mimetype: image/x-rip
+  BM-STEM1.RIP:
+    mimetype: image/x-rip
+  BM-SUCCO.RIP:
+    mimetype: image/x-rip
+  EV-TRN1.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GAS-CFS1.ANS:
+    mimetype: text/plain
+  GAS-ENDL.ANS:
+    mimetype: text/plain
+  LD-HUMA1.ANS:
+    mimetype: text/plain
+  LD-IC3.ANS:
+    mimetype: text/plain
+  LD-NL.ANS:
+    mimetype: text/plain
+  LD-TD1.ANS:
+    mimetype: text/plain
+  MG-SYZGY.RIP:
+    mimetype: image/x-rip
+  NEWS0595.ANS:
+    mimetype: text/plain
+  P1-FBYND.ANS:
+    mimetype: text/plain
+  P1-NT.RIP:
+    mimetype: image/x-rip
+  P1-PCITY.RIP:
+    mimetype: image/x-rip
+  RN-ELF4.ANS:
+    mimetype: text/plain
+  SM-PSD.RIP:
+    mimetype: image/x-rip
+  SP-SUCCO.ANS:
+    mimetype: text/plain
+  SRAT-ACD.BIN:
+    mimetype: text/x-binary
+  SRAT-AD1.ANS:
+    mimetype: text/plain
+  SS-EVO.GIF:
+    mimetype: image/gif
+  SS-NAID.GIF:
+    mimetype: image/gif
+  SS-VOTB.RIP:
+    mimetype: image/x-rip
+  STC-EC.ANS:
+    mimetype: text/plain
+  STC-SB.ANS:
+    mimetype: text/plain
+  US-SBZ1.ANS:
+    mimetype: text/plain
+  WE-WILL.SUE:
+    mimetype: text/plain

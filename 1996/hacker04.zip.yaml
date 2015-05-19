@@ -1,0 +1,24 @@
+name: hacker04.zip
+hash: df2101a9eada9e4c663523660918a941
+year: 1996
+file:
+  COMEFROM.GH!:
+    mimetype: text/plain
+  EXAMPLE.ZIP:
+    mimetype: application/zip
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  HACKER4.DAT:
+    mimetype: application/octet-stream
+  HACKER4.DOC:
+    mimetype: text/plain
+  HACKER4.EXE:
+    mimetype: application/x-msdos-program
+  HACKER4.S3M:
+    mimetype: audio/x-mod
+  MAG-AD.APP:
+    mimetype: text/plain
+  MAG-GRP.APP:
+    mimetype: text/plain
+  MAG-VOTE.APP:
+    mimetype: text/plain

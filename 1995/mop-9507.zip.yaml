@@ -1,0 +1,50 @@
+name: mop-9507.zip
+hash: 4358c5f27a92316e4c8a8e20ece78ffe
+year: 1995
+file:
+  28-MOP2.ANS:
+    mimetype: text/plain
+  28-NEO1.ANS:
+    mimetype: text/plain
+  28-REG1.ANS:
+    mimetype: text/plain
+  28-VISP1.ANS:
+    mimetype: text/plain
+  28-ZONE1.ANS:
+    mimetype: text/plain
+  0795-MEM.ANS:
+    mimetype: text/plain
+  0795INFO.ANS:
+    mimetype: text/plain
+  BM-GATE.GIF:
+    mimetype: image/gif
+  BM-II.GIF:
+    mimetype: image/gif
+  BM-VP2.RIP:
+    mimetype: image/x-rip
+  BTJ-EGOD.RIP:
+    mimetype: image/x-rip
+  BTJ-RW.ANS:
+    mimetype: text/plain
+  C-MOPMOP.RIP:
+    mimetype: image/x-rip
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  MOPAPP.ZIP:
+    mimetype: application/zip
+  OM-II1.ANS:
+    mimetype: text/plain
+  OM-TRM1.ANS:
+    mimetype: text/plain
+  PO-STAK.ANS:
+    mimetype: text/plain
+  TD-MOP1.ANS:
+    mimetype: text/plain
+  TD-SE.RIP:
+    mimetype: image/x-rip
+  TR-PARAN.ANS:
+    mimetype: text/plain
+  TR-TAILS.ANS:
+    mimetype: text/plain
+  US-EI.RIP:
+    mimetype: image/x-rip

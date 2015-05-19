@@ -1,0 +1,54 @@
+name: eod-ap02.zip
+hash: 9345c91fe1e29967b2ee0acf0c2a4760
+year: 1994
+file:
+  ANSI1.ANS:
+    mimetype: text/plain
+  ANSI2.ANS:
+    mimetype: text/plain
+  ANSI3.ANS:
+    mimetype: text/plain
+  ANSI4.ANS:
+    mimetype: text/plain
+  ANSI5.ANS:
+    mimetype: text/plain
+  ANSI6.ANS:
+    mimetype: text/plain
+  ANSI7.ANS:
+    mimetype: text/plain
+  ANSI8.ANS:
+    mimetype: text/plain
+  ANSI9.ANS:
+    mimetype: text/plain
+  ANSI10.ANS:
+    mimetype: text/plain
+  ANSI11.ANS:
+    mimetype: text/plain
+  ANSI12.ANS:
+    mimetype: text/plain
+  ANSI13.ANS:
+    mimetype: text/plain
+  ANSI14.ANS:
+    mimetype: text/plain
+  ANSI15.ANS:
+    mimetype: text/plain
+  ANSI16.ANS:
+    mimetype: text/plain
+  ANSI17.ANS:
+    mimetype: text/plain
+  ANSI18.ANS:
+    mimetype: text/plain
+  ANSI19.ANS:
+    mimetype: text/plain
+  ANSI20.ANS:
+    mimetype: text/plain
+  EMPIRE.EXE:
+    mimetype: application/x-msdos-program
+  EOD.NFO:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FONT1.TDF:
+    mimetype: application/octet-stream
+  FONT2.TDF:
+    mimetype: application/octet-stream

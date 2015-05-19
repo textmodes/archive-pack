@@ -1,0 +1,14 @@
+name: cotline2.zip
+hash: b7a2b837ea1a9a3e6e3c235ca2b6ea96
+year: 1996
+file:
+  BARBA.EXE:
+    mimetype: application/x-msdos-program
+  COTLINE.ANS:
+    mimetype: text/plain
+  COTLINE.DOX:
+    mimetype: text/plain
+  COTLINE.EXE:
+    mimetype: application/x-msdos-program
+  FILE_ID.DIZ:
+    mimetype: text/plain

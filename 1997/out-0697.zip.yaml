@@ -1,0 +1,44 @@
+name: out-0697.zip
+hash: 5afe79c97c19a362983918d7bfecb194
+year: 1997
+file:
+  DISTLIST.TXT:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FILEDESC.TXT:
+    mimetype: text/plain
+  FILELIST.TXT:
+    mimetype: text/plain
+  OUT-4TH.RIP:
+    mimetype: image/x-rip
+  OUT-AD.RIP:
+    mimetype: image/x-rip
+  OUT-ANSI.ANS:
+    mimetype: text/plain
+  OUT-BRRN.RIP:
+    mimetype: image/x-rip
+  OUT-DAWN.ANS:
+    mimetype: text/plain
+  OUT-FIR1.RIP:
+    mimetype: image/x-rip
+  OUT-FIR2.RIP:
+    mimetype: image/x-rip
+  OUT-GOLM.ANS:
+    mimetype: text/plain
+  OUT-IRON.RIP:
+    mimetype: image/x-rip
+  OUT-MNTR.ANS:
+    mimetype: text/plain
+  OUT-ONSL.ANS:
+    mimetype: text/plain
+  OUT-PUNR.ANS:
+    mimetype: text/plain
+  OUT-VEGS.ANS:
+    mimetype: text/plain
+  OUT-WALL.RIP:
+    mimetype: image/x-rip
+  OUT.AD:
+    mimetype: text/plain
+  OUTWORLD.TXT:
+    mimetype: text/plain

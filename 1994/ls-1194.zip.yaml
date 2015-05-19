@@ -1,0 +1,36 @@
+name: ls-1194.zip
+hash: 269f1d072e1c383c031f159f4421f859
+year: 1994
+file:
+  APPLY.FRM:
+    mimetype: text/plain
+  CR-KT2.LPS:
+    mimetype: text/plain
+  EXIT.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  HA-KT.LPS:
+    mimetype: text/plain
+  LPVIEW.DAT:
+    mimetype: application/octet-stream
+  LS-1194.LPS:
+    mimetype: text/plain
+  LS-NOTES.LPS:
+    mimetype: text/plain
+  LVIEW.DOC:
+    mimetype: text/plain
+  LVIEW.EXE:
+    mimetype: application/x-msdos-program
+  MA-OVAL.GIF:
+    mimetype: image/gif
+  MA-OVAL2.GIF:
+    mimetype: image/gif
+  PP-DIGWD.LPS:
+    mimetype: text/plain
+  PP-ICETR.GIF:
+    mimetype: image/gif
+  PP-KT.LPS:
+    mimetype: text/plain
+  PP-PSD4.LPS:
+    mimetype: text/plain

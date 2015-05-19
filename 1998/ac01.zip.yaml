@@ -1,0 +1,34 @@
+name: ac01.zip
+hash: 2118a44824560e95c1e1b7c6987cc998
+year: 1998
+file:
+  7DO-7DO.TXT:
+    mimetype: text/plain
+  7DO-ACD1.TXT:
+    mimetype: text/plain
+  7DO-DS.ASC:
+    mimetype: text/plain
+  7DO-MMC.TXT:
+    mimetype: text/plain
+  7DO-RENE.ANS:
+    mimetype: text/plain
+  7DO-RMRS.TXT:
+    mimetype: text/plain
+  7DO-SS1.ANS:
+    mimetype: text/plain
+  7DO-SUR2.ASC:
+    mimetype: text/plain
+  7DO-SURL.TXT:
+    mimetype: text/plain
+  7DO-TEEN.TXT:
+    mimetype: text/plain
+  7DO-TRK1.TXT:
+    mimetype: text/plain
+  7DO-XB1.TXT:
+    mimetype: text/plain
+  7DO-ZH.TXT:
+    mimetype: text/plain
+  AC1-INFO.TXT:
+    mimetype: text/plain
+  README.TXT:
+    mimetype: text/plain

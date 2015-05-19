@@ -1,0 +1,36 @@
+name: xrt-04.zip
+hash: ae3c8bad108b5051331f79e16cae265e
+year: 1999
+file:
+  DRM-BFG.ANS:
+    mimetype: text/plain
+  DRM-BYE.ANS:
+    mimetype: text/plain
+  DRM-DDZ.ASC:
+    mimetype: text/plain
+  DRM-DRF.ANS:
+    mimetype: text/plain
+  DRM-ESET.ANS:
+    mimetype: text/plain
+  DRM-EV3.ANS:
+    mimetype: text/plain
+  DRM-SL.ANS:
+    mimetype: text/plain
+  DRM-WZ.ANS:
+    mimetype: text/plain
+  DRM-X.ANS:
+    mimetype: text/plain
+  File_id.diz:
+    mimetype: text/plain
+  Us-xrt.ans:
+    mimetype: text/plain
+  XRT'99.NFO:
+    mimetype: text/plain
+  drm-drf.jpg:
+    mimetype: image/jpeg
+  drm-drfn.ans:
+    mimetype: text/plain
+  drm-tkz.jpg:
+    mimetype: image/jpeg
+  title.jpg:
+    mimetype: image/jpeg

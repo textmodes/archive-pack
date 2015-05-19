@@ -1,0 +1,58 @@
+name: pur-0794.zip
+hash: 150326e3885d6b48ee039f7f509d3bfd
+year: 1994
+file:
+  !!binary 8PDw8PDw8PAu8PDw:
+    mimetype: application/octet-stream
+  !!binary zc3Nzc3Nzc0uzc3N:
+    mimetype: application/octet-stream
+  !!binary xMTExMTExMQuxMTE:
+    mimetype: application/octet-stream
+  AH-DIMX.ASC:
+    mimetype: text/plain
+  AH-DIST.ASC:
+    mimetype: text/plain
+  AH-I2I.PUR:
+    mimetype: text/plain
+  AH-PUR.ASC:
+    mimetype: text/plain
+  AH-PUR.PUR:
+    mimetype: text/plain
+  AH-PUR2.PUR:
+    mimetype: text/plain
+  AR-DISR1.PUR:
+    mimetype: text/plain
+  AR-PURS2.PUR:
+    mimetype: text/plain
+  AR-PURS3.PUR:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GN-CAOS2.PUR:
+    mimetype: text/plain
+  GN-COE.PUR:
+    mimetype: text/plain
+  GN-DAMAJ.PUR:
+    mimetype: text/plain
+  GN-DISF.PUR:
+    mimetype: text/plain
+  GN-FUNK.PUR:
+    mimetype: text/plain
+  GN-PLOGO.PUR:
+    mimetype: text/plain
+  NEOTOKYO.ANS:
+    mimetype: text/plain
+  PS-DMJIF.PUR:
+    mimetype: text/plain
+  PS-MENU.PUR:
+    mimetype: text/plain
+  PS-PROMO.PUR:
+    mimetype: text/plain
+  PUR-APP.EXE:
+    mimetype: application/x-msdos-program
+  PURSUIT.LST:
+    mimetype: text/plain
+  PURSUIT.NFO:
+    mimetype: text/plain
+  PURSUIT.NWS:
+    mimetype: text/plain

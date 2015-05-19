@@ -1,0 +1,44 @@
+name: cia69-a.zip
+hash: f3844cbc4a1c7ca51a17379cfc901225
+year: 1999
+file:
+  '---CIA--.---':
+    mimetype: text/plain
+  '---ETC--.---':
+    mimetype: text/plain
+  --CNTD--.---:
+    mimetype: text/plain
+  --INFO--.---:
+    mimetype: text/plain
+  -HIRES--.---:
+    mimetype: text/plain
+  1199info.txt:
+    mimetype: text/plain
+  1199memb.txt:
+    mimetype: text/plain
+  ak_sxg1.jpg:
+    mimetype: image/jpeg
+  ak_sxg2.jpg:
+    mimetype: image/jpeg
+  cia69-a.htm:
+    mimetype: text/html
+  cia69_id.gif:
+    mimetype: image/gif
+  cs_brig.jpg:
+    mimetype: image/jpeg
+  cs_ic14.jpg:
+    mimetype: image/jpeg
+  cs_lnv.jpg:
+    mimetype: image/jpeg
+  di_mk.jpg:
+    mimetype: image/jpeg
+  file_id.diz:
+    mimetype: text/plain
+  ik_lust.jpg:
+    mimetype: image/jpeg
+  index.htm:
+    mimetype: text/html
+  lz_cbra.jpg:
+    mimetype: image/jpeg
+  wiretap.zip:
+    mimetype: application/zip

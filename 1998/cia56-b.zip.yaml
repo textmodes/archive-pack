@@ -1,0 +1,30 @@
+name: cia56-b.zip
+hash: ff44ef4a8ec4799964ae76de9d18c983
+year: 1998
+file:
+  !!binary xEhJUkVaxMQuxMTE:
+    mimetype: text/plain
+  !!binary xE9USEVSU8QuxMTE:
+    mimetype: text/plain
+  0998INFO.CIA:
+    mimetype: text/plain
+  0998MEMB.CIA:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  I0_BLANK.JPG:
+    mimetype: image/jpeg
+  I0_BLUE.JPG:
+    mimetype: image/jpeg
+  I0_FILM.JPG:
+    mimetype: image/jpeg
+  LZ-CIA.JPG:
+    mimetype: image/jpeg
+  LZ-DEVIL.JPG:
+    mimetype: image/jpeg
+  LZ-DJAPE.JPG:
+    mimetype: image/jpeg
+  MAG-DOOD.JPG:
+    mimetype: image/jpeg
+  SUN-SF.JPG:
+    mimetype: image/jpeg

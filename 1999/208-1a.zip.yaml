@@ -1,0 +1,32 @@
+name: 208-1a.zip
+hash: b0b2e09b525635f7c962339f020f1d47
+year: 1999
+file:
+  01INFO.ANS:
+    mimetype: text/plain
+  BYM-FONT.ANS:
+    mimetype: text/plain
+  CY-208.ANS:
+    mimetype: text/plain
+  DS-CACO.ANS:
+    mimetype: text/plain
+  EN-CACO.ANS:
+    mimetype: text/plain
+  EN-LP.ANS:
+    mimetype: text/plain
+  EN-MELLO.ANS:
+    mimetype: text/plain
+  EN-NEDR.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  OO-208.ANS:
+    mimetype: text/plain
+  OO-DRAMA.ANS:
+    mimetype: text/plain
+  US-208.ANS:
+    mimetype: text/plain
+  US-FSOL.ANS:
+    mimetype: text/plain
+  US-POO.ANS:
+    mimetype: text/plain

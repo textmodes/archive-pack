@@ -1,0 +1,14 @@
+name: art-req.zip
+hash: 769637d30bcd157880411c9b2e9a5603
+year: 1994
+file:
+  ARTREQ.EXE:
+    mimetype: application/x-msdos-program
+  ARTREQ.NFO:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  NEO.COM:
+    mimetype: application/x-msdos-program
+  ZONE-X.COM:
+    mimetype: application/x-msdos-program

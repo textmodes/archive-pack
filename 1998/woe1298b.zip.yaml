@@ -1,0 +1,52 @@
+name: woe1298b.zip
+hash: 525c0751c060dac12bc6e50beea48f16
+year: 1998
+file:
+  ((WOE)):
+    mimetype: text/plain
+  -MOD-/((MOD)):
+    mimetype: text/plain
+  -MOD-/SRF-CHIP.MOD:
+    mimetype: audio/x-mod
+  -MOD-/SRF-ELE.MOD:
+    mimetype: audio/x-mod
+  -MOD-/SRF-FAIR.MOD:
+    mimetype: audio/x-mod
+  -MOD-/SRF-FARS.MOD:
+    mimetype: audio/x-mod
+  -MOD-/SRF-ICAR.MOD:
+    mimetype: audio/x-mod
+  -MOD-/SRF-KNOW.MOD:
+    mimetype: audio/x-mod
+  -MOD-/SRF-ONE.MOD:
+    mimetype: audio/x-mod
+  -MOD-/SRF-SMUR.MOD:
+    mimetype: audio/x-mod
+  -MOD-/SRF-SNOW.MOD:
+    mimetype: audio/x-mod
+  -MOD-/SRF-SURC.MOD:
+    mimetype: audio/x-mod
+  -MOD-/SRF-SURF.MOD:
+    mimetype: audio/x-mod
+  -S3M-/((S3M)):
+    mimetype: text/plain
+  -S3M-/TD-SDNT.S3M:
+    mimetype: audio/x-mod
+  -XM-/((XM)):
+    mimetype: text/plain
+  -XM-/SRF-MAG.XM:
+    mimetype: audio/x-mod
+  -XM-/SRF-NUKE.XM:
+    mimetype: audio/x-mod
+  -XM-/SRF-WIZ.XM:
+    mimetype: audio/x-mod
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  LINKWOE.ZIP:
+    mimetype: application/zip
+  WOE1298.INQ:
+    mimetype: text/plain
+  WOE1298.MEM:
+    mimetype: text/plain
+  WOEAPP.EXE:
+    mimetype: application/x-msdos-program

@@ -1,0 +1,80 @@
+name: tl-0295.zip
+hash: f271857962440310007cc5ce679ffc25
+year: 1995
+file:
+  !!binary /sRBTlNJ:
+    mimetype: text/plain
+  !!binary /sRBU0NJSQ==:
+    mimetype: text/plain
+  !!binary /sRFWEU=:
+    mimetype: text/plain
+  !!binary /sRJRlhORVQ=:
+    mimetype: text/plain
+  !!binary /sRNSVND:
+    mimetype: text/plain
+  !!binary /sRNVVNJQw==:
+    mimetype: text/plain
+  !!binary /sRWR0FT:
+    mimetype: text/plain
+  AM-ENEMY.ASC:
+    mimetype: text/plain
+  CL-CORE1.ANS:
+    mimetype: text/plain
+  D2.COM:
+    mimetype: application/x-msdos-program
+  DM-BATCV.EXE:
+    mimetype: application/x-msdos-program
+  DMP.EXE:
+    mimetype: application/x-msdos-program
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GU-DRKNT.GIF:
+    mimetype: image/gif
+  GU-SPWFX.GIF:
+    mimetype: image/gif
+  GU-TLPM.GIF:
+    mimetype: image/gif
+  IFX-036.ZIP:
+    mimetype: application/zip
+  KXM-RYAN.S3M:
+    mimetype: audio/x-mod
+  QY-DMED.S3M:
+    mimetype: audio/x-mod
+  QY-ITTC.S3M:
+    mimetype: audio/x-mod
+  QY-MYCRF.S3M:
+    mimetype: audio/x-mod
+  QY-WPM.S3M:
+    mimetype: audio/x-mod
+  SM-ATC.ANS:
+    mimetype: text/plain
+  SM-DUNG2.ANS:
+    mimetype: text/plain
+  SM-EMI.ANS:
+    mimetype: text/plain
+  SM-SIN1.ANS:
+    mimetype: text/plain
+  SM-UG1.ANS:
+    mimetype: text/plain
+  TL-MEM.ANS:
+    mimetype: text/plain
+  TL-NFO.ASC:
+    mimetype: text/plain
+  TLNEWS.ANS:
+    mimetype: text/plain
+  TLVIEW.EXE:
+    mimetype: application/x-msdos-program
+  TLVPROMO.ANS:
+    mimetype: text/plain
+  TS-D2FIN.ANS:
+    mimetype: text/plain
+  TS-DIGFL.ANS:
+    mimetype: text/plain
+  TS-EARTH.ANS:
+    mimetype: text/plain
+  TS-KI.ASC:
+    mimetype: text/plain
+  TS-MLAND.ASC:
+    mimetype: text/plain
+  TS-RMRS.ASC:
+    mimetype: text/plain

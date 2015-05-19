@@ -1,0 +1,10 @@
+name: apl400h.zip
+hash: 58b7f946a8f858b448ab7e1b77f038b2
+year: 1995
+file:
+  ANSIPLUS.SYS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  NEO.COM:
+    mimetype: application/x-msdos-program

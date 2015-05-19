@@ -1,0 +1,12 @@
+name: wx-029.zip
+hash: 86829317ed16f3edb4f4454e2079cd03
+year: 1998
+file:
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  SPIC&UNI.JPG:
+    mimetype: image/jpeg
+  WX.APP:
+    mimetype: application/octet-stream
+  WX.NFO:
+    mimetype: text/plain

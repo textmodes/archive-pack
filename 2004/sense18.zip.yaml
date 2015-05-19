@@ -1,0 +1,56 @@
+name: sense18.zip
+hash: a5f195cb4a3b2e5b52d2e1d95a33ec11
+year: 2004
+file:
+  43-COLL1.ANS:
+    mimetype: text/plain
+  43-SUPER.ANS:
+    mimetype: text/plain
+  43K1-NS.ANS:
+    mimetype: text/plain
+  43NS-HAC.ANS:
+    mimetype: text/plain
+  AVG-K1.ANS:
+    mimetype: text/plain
+  CG-LOSER.ANS:
+    mimetype: text/plain
+  CG-NSENS.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  INFO.XB:
+    mimetype: text/x-xbin
+  MAY-27I.ANS:
+    mimetype: text/plain
+  MAY-BAT.ANS:
+    mimetype: text/plain
+  MAY-RM.ANS:
+    mimetype: text/plain
+  MAY-SELF.ANS:
+    mimetype: text/plain
+  MEMBERS.ANS:
+    mimetype: text/plain
+  NO-NERD.ANS:
+    mimetype: text/plain
+  NS-MAE2.ANS:
+    mimetype: text/plain
+  NS-SPECT.ANS:
+    mimetype: text/plain
+  NS43-DS.ANS:
+    mimetype: text/plain
+  PDZ-WEB.ANS:
+    mimetype: text/plain
+  SPH_CAB.ANS:
+    mimetype: text/plain
+  SPH_CEP.ANS:
+    mimetype: text/plain
+  US-AUDIO.ANS:
+    mimetype: text/plain
+  US-DIE.ANS:
+    mimetype: text/plain
+  US-DISC.ANS:
+    mimetype: text/plain
+  US-NSART.ANS:
+    mimetype: text/plain
+  US-SENSE.ANS:
+    mimetype: text/plain

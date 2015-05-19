@@ -1,0 +1,120 @@
+name: ecl-11.zip
+hash: 5f2709bbee9319e744995dd993b79bc8
+year: 1997
+file:
+  --ART--:
+    mimetype: text/plain
+  --INFO--:
+    mimetype: text/plain
+  --MISC--:
+    mimetype: text/plain
+  --RAD--:
+    mimetype: text/plain
+  AD-BD.ANS:
+    mimetype: text/plain
+  ARTINFO.TXT:
+    mimetype: text/plain
+  CZ-CF1.HDR:
+    mimetype: text/plain
+  CZ-DNK6.ANS:
+    mimetype: text/plain
+  CZ-EXL1.ANS:
+    mimetype: text/plain
+  CZ-FLUP1.ANS:
+    mimetype: text/plain
+  CZ-FY.DIZ:
+    mimetype: text/plain
+  CZ-OCHO1.ANS:
+    mimetype: text/plain
+  CZ-SF1.ANS:
+    mimetype: text/plain
+  D-VOICES.EXE:
+    mimetype: application/x-msdos-program
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FV-DIST.ANS:
+    mimetype: text/plain
+  H4-GYRO.ANS:
+    mimetype: text/plain
+  HOS-SS1.ANS:
+    mimetype: text/plain
+  INFO11A.NFO:
+    mimetype: text/plain
+  INFO11B.NFO:
+    mimetype: text/plain
+  ISTAR_AD.1:
+    mimetype: text/plain
+  LM-BIO.ANS:
+    mimetype: text/plain
+  LM-RAD.ASC:
+    mimetype: text/plain
+  LM-SILKH.ANS:
+    mimetype: text/plain
+  MEMBS11.NFO:
+    mimetype: text/plain
+  MO-AI.ANS:
+    mimetype: text/plain
+  MO-DOS.ANS:
+    mimetype: text/plain
+  MO-ECL.ANS:
+    mimetype: text/plain
+  MO-ECL2.ANS:
+    mimetype: text/plain
+  MO-EMI.ANS:
+    mimetype: text/plain
+  MO-EMP.ANS:
+    mimetype: text/plain
+  MO-NASM.ANS:
+    mimetype: text/plain
+  MO-PANG1.ANS:
+    mimetype: text/plain
+  MO-PANG2.ANS:
+    mimetype: text/plain
+  MO-PAR.ANS:
+    mimetype: text/plain
+  MO-PLAS.ANS:
+    mimetype: text/plain
+  MO-VOTE.ANS:
+    mimetype: text/plain
+  PAR-ANGA.ASC:
+    mimetype: text/plain
+  PAR-FLPH.ASC:
+    mimetype: text/plain
+  PAR-GOTH.ASC:
+    mimetype: text/plain
+  PAR-IONE.ASC:
+    mimetype: text/plain
+  PAR-KFKA.ASC:
+    mimetype: text/plain
+  PAR-MALF.ASC:
+    mimetype: text/plain
+  PAR-SG.ASC:
+    mimetype: text/plain
+  RAD_012.ZIP:
+    mimetype: application/zip
+  ST-AZA.ANS:
+    mimetype: text/plain
+  ST-HDRS9.ANS:
+    mimetype: text/plain
+  ST-PAT.ANS:
+    mimetype: text/plain
+  TR-ECL.ANS:
+    mimetype: text/plain
+  TR-TRE.ANS:
+    mimetype: text/plain
+  TX-JUICE.ANS:
+    mimetype: text/plain
+  US-DOINK.ANS:
+    mimetype: text/plain
+  US-ECHO1.ANS:
+    mimetype: text/plain
+  US-ECL2.ANS:
+    mimetype: text/plain
+  US-PH1.ANS:
+    mimetype: text/plain
+  US-TOFU1.ANS:
+    mimetype: text/plain
+  US-TRI.ANS:
+    mimetype: text/plain
+  VOICES.TXT:
+    mimetype: text/plain

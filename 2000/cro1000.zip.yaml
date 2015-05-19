@@ -1,0 +1,142 @@
+name: cro1000.zip
+hash: 7efc62942ca59631d38a4bea6daa4053
+year: 2000
+file:
+  ascii/fwk-amber.nfo:
+    mimetype: text/plain
+  ascii/fwk-avt.nfo:
+    mimetype: text/plain
+  ascii/fwk-brz.nfo:
+    mimetype: text/plain
+  ascii/fwk-eym.nfo:
+    mimetype: text/plain
+  ascii/fwk-fos.nfo:
+    mimetype: text/plain
+  ascii/fwk-genx.nfo:
+    mimetype: text/plain
+  ascii/fwk-pls.nfo:
+    mimetype: text/plain
+  ascii/fwk-prol.nfo:
+    mimetype: text/plain
+  ascii/fwk-thedb.nfo:
+    mimetype: text/plain
+  ascii/fwk-ugn.nfo:
+    mimetype: text/plain
+  ascii/fwk-var.nfo:
+    mimetype: text/plain
+  ascii/neo-pc.nfo:
+    mimetype: text/plain
+  ascii/s8-tita.nfo:
+    mimetype: text/plain
+  ascii/s8-tita2.nfo:
+    mimetype: text/plain
+  ascii/znt-beat.nfo:
+    mimetype: text/plain
+  ascii/znt-hfb.nfo:
+    mimetype: text/plain
+  ascii/znt-hori.nfo:
+    mimetype: text/plain
+  ascii/znt-lof.nfo:
+    mimetype: text/plain
+  ascii/znt-oub2.nfo:
+    mimetype: text/plain
+  ascii/znt-oub3.nfo:
+    mimetype: text/plain
+  ascii/znt-ppis.nfo:
+    mimetype: text/plain
+  chips/pd-atom.xm:
+    mimetype: audio/x-mod
+  chips/pd-days.xm:
+    mimetype: audio/x-mod
+  chips/pd-fl.xm:
+    mimetype: audio/x-mod
+  chips/pd-heart.xm:
+    mimetype: audio/x-mod
+  chips/pd-mind.xm:
+    mimetype: audio/x-mod
+  chips/pd-pop.xm:
+    mimetype: audio/x-mod
+  chips/pd-sit.xm:
+    mimetype: audio/x-mod
+  chips/wy-volko.xm:
+    mimetype: audio/x-mod
+  creaction.nfo:
+    mimetype: text/plain
+  file_id.diz:
+    mimetype: text/plain
+  hirez/aylien-1.jpg:
+    mimetype: image/jpeg
+  hirez/aylien-2.jpg:
+    mimetype: image/jpeg
+  hirez/aylien-03.jpg:
+    mimetype: image/jpeg
+  hirez/aylien-4.jpg:
+    mimetype: image/jpeg
+  hirez/b!dr0.jpg:
+    mimetype: image/jpeg
+  hirez/b!ganjaman.jpg:
+    mimetype: image/jpeg
+  hirez/bro-croin.jpg:
+    mimetype: image/jpeg
+  hirez/bro-intro.jpg:
+    mimetype: image/jpeg
+  hirez/bro-odt3d.jpg:
+    mimetype: image/jpeg
+  hirez/cro-nfov.jpg:
+    mimetype: image/jpeg
+  hirez/hand/mono-cr4.jpg:
+    mimetype: image/jpeg
+  hirez/hand/mono-rb1.jpg:
+    mimetype: image/jpeg
+  hirez/hand/mono-rb2.jpg:
+    mimetype: image/jpeg
+  hirez/idee2.jpg:
+    mimetype: image/jpeg
+  hirez/izm-fi.jpg:
+    mimetype: image/jpeg
+  hirez/liq-cl.jpg:
+    mimetype: image/jpeg
+  hirez/masn-9cro.jpg:
+    mimetype: image/jpeg
+  hirez/masn-cre8.jpg:
+    mimetype: image/jpeg
+  hirez/masn-ds2.jpg:
+    mimetype: image/jpeg
+  hirez/masn-dsi8.jpg:
+    mimetype: image/jpeg
+  hirez/masn-od5.jpg:
+    mimetype: image/jpeg
+  hirez/masn-od6.jpg:
+    mimetype: image/jpeg
+  hirez/masn05-cro.jpg:
+    mimetype: image/jpeg
+  hirez/may-1.jpg:
+    mimetype: image/jpeg
+  hirez/may-2.jpg:
+    mimetype: image/jpeg
+  hirez/noize.jpg:
+    mimetype: image/jpeg
+  hirez/t!-ecl.gif:
+    mimetype: image/gif
+  hirez/t!-inc.gif:
+    mimetype: image/gif
+  hirez/t!-lixus.gif:
+    mimetype: image/gif
+  hirez/t!-odt.gif:
+    mimetype: image/gif
+  tools/neo-intr-fin.zip:
+    mimetype: application/zip
+  tools/neo-intr-rx.zip:
+    mimetype: application/zip
+  tools/v2-appgen.zip:
+    mimetype: application/zip
+  web/flash/senso.exe:
+    mimetype: application/x-msdos-program
+  web/projects/88x31.gif:
+    mimetype: image/gif
+  web/projects/bate88x31.gif:
+    mimetype: image/gif
+  web/projects/cro.gif:
+    mimetype: image/gif
+  web/projects/index.html:
+    mimetype: text/html

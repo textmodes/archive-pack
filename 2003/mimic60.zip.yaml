@@ -1,0 +1,58 @@
+name: mimic60.zip
+hash: 7eadfa7c8d2b5a8ef5440d45743bd0ed
+year: 2003
+file:
+  2jeff.txt:
+    mimetype: text/plain
+  43-2nd.asc:
+    mimetype: text/plain
+  aetoops.asc:
+    mimetype: text/plain
+  ak-bmmc.ans:
+    mimetype: text/plain
+  an-1step.txt:
+    mimetype: text/plain
+  file_id.diz:
+    mimetype: text/plain
+  h7-cityo.asc:
+    mimetype: text/plain
+  h7-hdrz.asc:
+    mimetype: text/plain
+  h7-qtx.asc:
+    mimetype: text/plain
+  h7-splx.asc:
+    mimetype: text/plain
+  jashiin.txt:
+    mimetype: text/plain
+  jn-blah.asc:
+    mimetype: text/plain
+  jn-jive!.ans:
+    mimetype: text/plain
+  ko-mazin.ans:
+    mimetype: text/plain
+  ko-panch.ans:
+    mimetype: text/plain
+  l-rs.ans:
+    mimetype: text/plain
+  members.ans:
+    mimetype: text/plain
+  quotes60.txt:
+    mimetype: text/plain
+  rm-jash.asc:
+    mimetype: text/plain
+  rm-summr.asc:
+    mimetype: text/plain
+  tb-trip.rmx:
+    mimetype: text/plain
+  us-lum.ans:
+    mimetype: text/plain
+  vlzdiz60.asc:
+    mimetype: text/plain
+  vlzkomad.ans:
+    mimetype: text/plain
+  vlzshntz.ans:
+    mimetype: text/plain
+  vlzstng.asc:
+    mimetype: text/plain
+  wk-mmc60.txt:
+    mimetype: text/plain

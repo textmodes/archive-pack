@@ -1,0 +1,112 @@
+name: rmrs-31.zip
+hash: 467f179a66b10f066da3dfa69d6eebdd
+year: 1999
+file:
+  BDS-AMB1.ASC:
+    mimetype: text/plain
+  BDS-ANDY.ASC:
+    mimetype: text/plain
+  BDS-DS.ASC:
+    mimetype: text/plain
+  BDS-EXDS.ASC:
+    mimetype: text/plain
+  BDS-FST.ASC:
+    mimetype: text/plain
+  BDS-FST2.ASC:
+    mimetype: text/plain
+  BDS-FUB2.ASC:
+    mimetype: text/plain
+  BDS-GNC1.ASC:
+    mimetype: text/plain
+  BDS-LC.ASC:
+    mimetype: text/plain
+  BDS-NY1.ASC:
+    mimetype: text/plain
+  BDS-RED.ASC:
+    mimetype: text/plain
+  BDS-RVCD.ASC:
+    mimetype: text/plain
+  BDS-SHP.ASC:
+    mimetype: text/plain
+  BDS-SIGI.ASC:
+    mimetype: text/plain
+  BDS-WZ.ASC:
+    mimetype: text/plain
+  BDS-XDS2.ASC:
+    mimetype: text/plain
+  CN-GIN.ASC:
+    mimetype: text/plain
+  CN-MECS.ASC:
+    mimetype: text/plain
+  CN-TESTE.ASC:
+    mimetype: text/plain
+  CR-RMRS.ASC:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GWY-DIAL.ASC:
+    mimetype: text/plain
+  GWY-OS.ASC:
+    mimetype: text/plain
+  GWY-UNIT.ASC:
+    mimetype: text/plain
+  Pm-purg.asc:
+    mimetype: text/plain
+  REMORSE.NFO:
+    mimetype: text/plain
+  Tn-bhc.asc:
+    mimetype: text/plain
+  Tn-milan.asc:
+    mimetype: text/plain
+  WR-RMRS.ASC:
+    mimetype: text/plain
+  ZH-RMRS.ASC:
+    mimetype: text/plain
+  bds-otfw.asc:
+    mimetype: text/plain
+  bne-rmrs.asc:
+    mimetype: text/plain
+  bne-we.asc:
+    mimetype: text/plain
+  hp-acmw.asc:
+    mimetype: text/plain
+  hp-hs.asc:
+    mimetype: text/plain
+  jh-rmrs.asc:
+    mimetype: text/plain
+  jh-sig1.asc:
+    mimetype: text/plain
+  mer-chrs.asc:
+    mimetype: text/plain
+  mer-gwtb.asc:
+    mimetype: text/plain
+  mer-np2h.asc:
+    mimetype: text/plain
+  mer-rcot.asc:
+    mimetype: text/plain
+  par-zxap.ans:
+    mimetype: text/plain
+  pm-colly.asc:
+    mimetype: text/plain
+  ton-acid.asc:
+    mimetype: text/plain
+  ton-neur.asc:
+    mimetype: text/plain
+  ton-rmrs.asc:
+    mimetype: text/plain
+  us-acid.asc:
+    mimetype: text/plain
+  us-tech.ans:
+    mimetype: text/plain
+  xxx-cain.asc:
+    mimetype: text/plain
+  zs-acid.ans:
+    mimetype: text/plain
+  zs-cain.ans:
+    mimetype: text/plain
+  zs-dt6rx.ans:
+    mimetype: text/plain
+  zs-ice.ans:
+    mimetype: text/plain
+  zs-rmrs3.asc:
+    mimetype: text/plain

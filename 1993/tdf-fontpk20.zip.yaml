@@ -1,0 +1,24 @@
+name: tdf-fontpk20.zip
+hash: d1c118a9f263058e48aa730b18c5e9e0
+year: 1993
+file:
+  ATLANTIS.TDF:
+    mimetype: application/octet-stream
+  FADE-1.TDF:
+    mimetype: application/octet-stream
+  FADE-2.TDF:
+    mimetype: application/octet-stream
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FUN!.COM:
+    mimetype: application/x-msdos-program
+  METAL.TDF:
+    mimetype: application/octet-stream
+  SMATLANT.TDF:
+    mimetype: application/octet-stream
+  STEEL.TDF:
+    mimetype: application/octet-stream
+  TDFONTS.TDF:
+    mimetype: application/octet-stream
+  WEIRD.TDF:
+    mimetype: application/octet-stream

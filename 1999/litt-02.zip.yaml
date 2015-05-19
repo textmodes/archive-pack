@@ -1,0 +1,36 @@
+name: litt-02.zip
+hash: d4bac36b972f94e119d34d522351c4a6
+year: 1999
+file:
+  02-litt.nfo:
+    mimetype: text/plain
+  file_id.diz:
+    mimetype: text/plain
+  hlight01.k07:
+    mimetype: application/octet-stream
+  hlight01.r29:
+    mimetype: text/plain
+  hlight02.k07:
+    mimetype: application/octet-stream
+  hlight02.r29:
+    mimetype: text/plain
+  hlight03.k07:
+    mimetype: text/plain
+  hlight03.r29:
+    mimetype: text/plain
+  intrview.bj:
+    mimetype: application/octet-stream
+  intrview.ge:
+    mimetype: text/plain
+  intrview.h4:
+    mimetype: text/plain
+  intrview.wr:
+    mimetype: application/octet-stream
+  nsreview.k07:
+    mimetype: application/octet-stream
+  nsreview.m06:
+    mimetype: application/octet-stream
+  nsreview.r29:
+    mimetype: application/octet-stream
+  quotes02.txt:
+    mimetype: text/plain

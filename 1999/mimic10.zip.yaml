@@ -1,0 +1,110 @@
+name: mimic10.zip
+hash: c573ea9446290e375724b6354f7ac658
+year: 1999
+file:
+  2N-AMI.ASC:
+    mimetype: text/plain
+  AETFCBHC.ASC:
+    mimetype: text/plain
+  AETRH2.ASC:
+    mimetype: text/plain
+  AETSW.ASC:
+    mimetype: text/plain
+  BJASC125.ANS:
+    mimetype: text/plain
+  BJASC126.ANS:
+    mimetype: text/plain
+  BJASC127.ANS:
+    mimetype: text/plain
+  BJASC128.ANS:
+    mimetype: text/plain
+  BJASC129.ANS:
+    mimetype: text/plain
+  CD!KNOW.ANS:
+    mimetype: text/plain
+  CD!REV.ANS:
+    mimetype: text/plain
+  CD!RULES.ANS:
+    mimetype: text/plain
+  CT-CIM.ASC:
+    mimetype: text/plain
+  DS-MFIN.ASC:
+    mimetype: text/plain
+  DVS-NOTE.ASC:
+    mimetype: text/plain
+  DVS-PHNC.ASC:
+    mimetype: text/plain
+  DVS-RITN.ASC:
+    mimetype: text/plain
+  EN-CURVE.ASC:
+    mimetype: text/plain
+  EN-RMRS.ASC:
+    mimetype: text/plain
+  ESD-DINO.ASC:
+    mimetype: text/plain
+  ESD-FA.ASC:
+    mimetype: text/plain
+  ESD-MMC.ASC:
+    mimetype: text/plain
+  ESD-QST.DIZ:
+    mimetype: text/plain
+  FE-MILAN.ASC:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GDR-NEUR.ASC:
+    mimetype: text/plain
+  GDR-QUAN.ASC:
+    mimetype: text/plain
+  GNKSOUP1.ANS:
+    mimetype: text/plain
+  GNKSUPRM.ANS:
+    mimetype: text/plain
+  H4-DIODE.ASC:
+    mimetype: text/plain
+  H4-FUTR.ANS:
+    mimetype: text/plain
+  H4-NEURO.ASC:
+    mimetype: text/plain
+  K!BREED.ASC:
+    mimetype: text/plain
+  K!MMC.ASC:
+    mimetype: text/plain
+  KO-DIODE.ASC:
+    mimetype: text/plain
+  KO-RITAL.ANS:
+    mimetype: text/plain
+  KO-YAN.ASC:
+    mimetype: text/plain
+  KPN-COOL.ASC:
+    mimetype: text/plain
+  KPN-FUSI.ASC:
+    mimetype: text/plain
+  KPN-MAIN.ANS:
+    mimetype: text/plain
+  KPN-MTRX.ASC:
+    mimetype: text/plain
+  M-MBCOL2.ASC:
+    mimetype: text/plain
+  M7M-FEAR.ANS:
+    mimetype: text/plain
+  M7M-K8.ANS:
+    mimetype: text/plain
+  M7M-LAVZ.ANS:
+    mimetype: text/plain
+  M7M-M7MP.ANS:
+    mimetype: text/plain
+  M7M-MMC.ANS:
+    mimetype: text/plain
+  M7M-SPIN.ANS:
+    mimetype: text/plain
+  MEMBERS.ASC:
+    mimetype: text/plain
+  OS-BHC.ASC:
+    mimetype: text/plain
+  OS-SOUP.ASC:
+    mimetype: text/plain
+  PRO-0499.ANS:
+    mimetype: text/plain
+  US-QUEST.ASC:
+    mimetype: text/plain

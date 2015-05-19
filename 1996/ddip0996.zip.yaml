@@ -1,0 +1,22 @@
+name: ddip0996.zip
+hash: a52c18609db0d1c4c0f0ade6d4cc0036
+year: 1996
+file:
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  HP-CAV.ANS:
+    mimetype: text/plain
+  HP-DDI.ANS:
+    mimetype: text/plain
+  HP-DDI1.ANS:
+    mimetype: text/plain
+  HP-HYP.ANS:
+    mimetype: text/plain
+  HP-SPI.ANS:
+    mimetype: text/plain
+  VT-DDI1.ANS:
+    mimetype: text/plain
+  VT-DDI2.ANS:
+    mimetype: text/plain
+  VT-NOLAM.ANS:
+    mimetype: text/plain

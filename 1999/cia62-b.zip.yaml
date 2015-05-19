@@ -1,0 +1,42 @@
+name: cia62-b.zip
+hash: 01e0d01af41216870ce01590c3f21d55
+year: 1999
+file:
+  --CNTD--.---:
+    mimetype: text/plain
+  --INFO--.---:
+    mimetype: text/plain
+  --READ--.---:
+    mimetype: text/plain
+  -HIRES--.---:
+    mimetype: text/plain
+  0499INFO.CIA:
+    mimetype: text/plain
+  0499MEMB.CIA:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  VIEWER--.---:
+    mimetype: text/plain
+  WIRETAP.DOC:
+    mimetype: text/plain
+  WIRETAP.EXE:
+    mimetype: application/x-msdos-program
+  WIRETAP.PIF:
+    mimetype: application/x-dosexec
+  bb_dj.jpg:
+    mimetype: image/jpeg
+  bd_ik.jpg:
+    mimetype: image/jpeg
+  bd_sk_sj.jpg:
+    mimetype: image/jpeg
+  bd_sp_ch.jpg:
+    mimetype: image/jpeg
+  cs_dtye.jpg:
+    mimetype: image/jpeg
+  cs_edis.gif:
+    mimetype: image/gif
+  db_gusto.jpg:
+    mimetype: image/jpeg
+  di_gr.jpg:
+    mimetype: image/jpeg

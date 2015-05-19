@@ -1,0 +1,42 @@
+name: asm2000.zip
+hash: 0ffe3c570ad53b149da2cb9a1d0e9a7b
+year: 2000
+file:
+  clasm_by_argon.txt:
+    mimetype: text/plain
+  clasm_by_argon.zip:
+    mimetype: application/zip
+  devil_in.txt:
+    mimetype: text/plain
+  devil_in.zip:
+    mimetype: application/zip
+  hate_by_.txt:
+    mimetype: text/plain
+  hate_by_.zip:
+    mimetype: application/zip
+  index.htm:
+    mimetype: text/html
+  lavalamp.txt:
+    mimetype: text/plain
+  lavalamp.zip:
+    mimetype: application/zip
+  next_gen.txt:
+    mimetype: text/plain
+  next_gen.zip:
+    mimetype: application/zip
+  ninja_by.txt:
+    mimetype: text/plain
+  ninja_by.zip:
+    mimetype: application/zip
+  punaisek.txt:
+    mimetype: text/plain
+  punaisek.zip:
+    mimetype: application/zip
+  raperman.txt:
+    mimetype: text/plain
+  raperman.zip:
+    mimetype: application/zip
+  who_am_i.txt:
+    mimetype: text/plain
+  who_am_i.zip:
+    mimetype: application/zip

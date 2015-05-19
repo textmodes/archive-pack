@@ -1,0 +1,86 @@
+name: nph-01.zip
+hash: 93d8411905d2cd46acf2c4a53cf861b9
+year: 1997
+file:
+  BVS-DBZ.NSK:
+    mimetype: text/plain
+  BVS-DBZ2.NSK:
+    mimetype: text/plain
+  BVS-DTC1.NSK:
+    mimetype: application/octet-stream
+  BVS-DTC2.NSK:
+    mimetype: text/plain
+  BVS-FLIP.NSK:
+    mimetype: application/octet-stream
+  BVS-MJ13.NSK:
+    mimetype: application/octet-stream
+  BVS-NPH.DIZ:
+    mimetype: text/plain
+  BVS-NPH.NSK:
+    mimetype: text/plain
+  BVS-SFD.ANS:
+    mimetype: text/plain
+  BVS-SFD2.NSK:
+    mimetype: text/plain
+  CH!-DBZ.ANS:
+    mimetype: text/plain
+  CH!-DTCW.ANS:
+    mimetype: text/plain
+  CH!-FLIP.ANS:
+    mimetype: text/plain
+  CH!-HBS.ANS:
+    mimetype: text/plain
+  CH!-NPS.ANS:
+    mimetype: text/plain
+  DANCEWIT.HME:
+    mimetype: text/plain
+  DKY-ACD.ANS:
+    mimetype: text/plain
+  DKY-ACSD.ANS:
+    mimetype: text/plain
+  DKY-CYBS.ANS:
+    mimetype: text/plain
+  DKY-DB0M.ANS:
+    mimetype: text/plain
+  DKY-DTCI.ANS:
+    mimetype: text/plain
+  DKY-DTCP.ASC:
+    mimetype: text/plain
+  DKY-EQZ1.ANS:
+    mimetype: text/plain
+  DKY-FBI.ANS:
+    mimetype: text/plain
+  DKY-FLIP.ANS:
+    mimetype: text/plain
+  DKY-GSTM.ANS:
+    mimetype: text/plain
+  DKY-MAGE.ANS:
+    mimetype: text/plain
+  DKY-NGTL.ANS:
+    mimetype: text/plain
+  DKY-PRKY.ANS:
+    mimetype: text/plain
+  DKY-PSYM.ANS:
+    mimetype: text/plain
+  DKY-SELF.ANS:
+    mimetype: text/plain
+  DKY-SFDL.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FUCK'EM.ALL:
+    mimetype: text/plain
+  HOTWAREZ.DBZ:
+    mimetype: text/plain
+  HRC-DTC.ASC:
+    mimetype: text/plain
+  HRC-NPH1.ASC:
+    mimetype: text/plain
+  HRC-NPH2.ASC:
+    mimetype: text/plain
+  HRC-NPH3.ASC:
+    mimetype: text/plain
+  NPH-01.MEM:
+    mimetype: text/plain
+  REQUEST.NPH:
+    mimetype: application/octet-stream

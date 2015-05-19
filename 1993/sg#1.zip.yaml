@@ -1,0 +1,30 @@
+name: sg#1.zip
+hash: 8d32000447a03fcf6514cc738a27d2cd
+year: 1993
+file:
+  CARD.TXT:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FUN!.COM:
+    mimetype: application/x-msdos-program
+  JMP.EXE:
+    mimetype: application/x-msdos-program
+  README.NFO:
+    mimetype: text/plain
+  RUNME.COM:
+    mimetype: application/x-msdos-program
+  SG#1.EXE:
+    mimetype: application/x-msdos-program
+  SG_0.DAT:
+    mimetype: application/x-dosexec
+  SG_1.DAT:
+    mimetype: text/plain
+  SG_2.DAT:
+    mimetype: text/plain
+  SG_3.DAT:
+    mimetype: text/plain
+  SG_4.DAT:
+    mimetype: text/plain
+  SHALLOW.MOD:
+    mimetype: audio/x-mod

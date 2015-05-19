@@ -1,0 +1,382 @@
+name: bafh-pack4.zip
+hash: 97bb767dfcb8c2f9fef6f700ab8cac03
+year: 2002
+file:
+  BAFH-Pack4/Bafh.nfo:
+    mimetype: text/plain
+  BAFH-Pack4/Code/Morf-Enchant.exe:
+    mimetype: application/x-msdos-program
+  BAFH-Pack4/File_Id.Diz:
+    mimetype: text/plain
+  BAFH-Pack4/Hirez/Alien/Alien-Adbucted.jpg:
+    mimetype: image/jpeg
+  BAFH-Pack4/Hirez/Alien/Alien-Aliendesign.jpg:
+    mimetype: image/jpeg
+  BAFH-Pack4/Hirez/Alien/Alien-Artcoreneverdies.jpg:
+    mimetype: image/jpeg
+  BAFH-Pack4/Hirez/Alien/Alien-Bnd.jpg:
+    mimetype: image/jpeg
+  BAFH-Pack4/Hirez/Alien/Alien-Edreams.jpg:
+    mimetype: image/jpeg
+  BAFH-Pack4/Hirez/Alien/Alien-Gigerized.jpg:
+    mimetype: image/jpeg
+  BAFH-Pack4/Hirez/Alien/Alien-Hoodlum.JPG:
+    mimetype: image/jpeg
+  BAFH-Pack4/Hirez/Alien/Alien-Jumpstart.jpg:
+    mimetype: image/jpeg
+  BAFH-Pack4/Hirez/Alien/Alien-Mangaquartex.gif:
+    mimetype: image/gif
+  BAFH-Pack4/Hirez/Alien/Alien-Ninjawhite.jpg:
+    mimetype: image/jpeg
+  BAFH-Pack4/Hirez/Alien/Alien-Paratech.jpg:
+    mimetype: image/jpeg
+  BAFH-Pack4/Hirez/Alien/Alien-Quartex.gif:
+    mimetype: image/gif
+  BAFH-Pack4/Hirez/Alien/Alien-Trooper.gif:
+    mimetype: image/gif
+  BAFH-Pack4/Hirez/Bornholme/Bh-Nbd_1024x768.jpg:
+    mimetype: image/jpeg
+  BAFH-Pack4/Hirez/Bornholme/Bh-Nbd_1280x1024.jpg:
+    mimetype: image/jpeg
+  BAFH-Pack4/Hirez/Desolation Angel/DesolationAngel(BAFH)-BAFHLogo.JPG:
+    mimetype: image/jpeg
+  BAFH-Pack4/Hirez/Desolation Angel/DesolationAngel(BAFH)-N-Tross(CRO)-GeneticsFxpNfo.JPG:
+    mimetype: image/jpeg
+  BAFH-Pack4/Hirez/Desolation Angel/DesolationAngel(BAFH)-N-Unseenfate(BAFH)-BAFHLogo.JPG:
+    mimetype: image/jpeg
+  BAFH-Pack4/Hirez/Desolation Angel/DesolationAngel(BAFH)-PeriodTrainerGUI.JPG:
+    mimetype: image/jpeg
+  BAFH-Pack4/Hirez/Diffuser/Dif-Bafh.jpg:
+    mimetype: image/jpeg
+  BAFH-Pack4/Hirez/Diffuser/Dif-Diffuser.jpg:
+    mimetype: image/jpeg
+  BAFH-Pack4/Hirez/Diffuser/Dif-Diffuser1.jpg:
+    mimetype: image/jpeg
+  BAFH-Pack4/Hirez/Diffuser/Dif-Diffuser2.jpg:
+    mimetype: image/jpeg
+  BAFH-Pack4/Hirez/Diffuser/Dif-Djz.jpg:
+    mimetype: image/jpeg
+  BAFH-Pack4/Hirez/Diffuser/Dif-Scripper.jpg:
+    mimetype: image/jpeg
+  BAFH-Pack4/Hirez/Diffuser/Dif-Scripper1.jpg:
+    mimetype: image/jpeg
+  BAFH-Pack4/Hirez/Diffuser/Dif-Six.jpg:
+    mimetype: image/jpeg
+  BAFH-Pack4/Hirez/Diffuser/Dif-Sodom.jpg:
+    mimetype: image/jpeg
+  BAFH-Pack4/Hirez/Diffuser/Dif-Thesnake.jpg:
+    mimetype: image/jpeg
+  BAFH-Pack4/Hirez/Diffuser/Dif-Wallpaper.jpg:
+    mimetype: image/jpeg
+  BAFH-Pack4/Hirez/Diffuser/Dif-Wallpaper1.jpg:
+    mimetype: image/jpeg
+  BAFH-Pack4/Hirez/Evilraven/Er-Bafhlogo.jpg:
+    mimetype: image/jpeg
+  BAFH-Pack4/Hirez/Evilraven/Er-Flht.jpg:
+    mimetype: image/jpeg
+  BAFH-Pack4/Hirez/Evilraven/Er-Nbdlogo.jpg:
+    mimetype: image/jpeg
+  BAFH-Pack4/Hirez/Mother/Mtr-Amnesia_clock_openmix.jpg:
+    mimetype: image/jpeg
+  BAFH-Pack4/Hirez/Mother/Mtr-Amnesiafix.jpg:
+    mimetype: image/jpeg
+  BAFH-Pack4/Hirez/Mother/Mtr-Crspatcher.gif:
+    mimetype: image/gif
+  BAFH-Pack4/Hirez/Mother/Mtr-Dod.jpg:
+    mimetype: image/jpeg
+  BAFH-Pack4/Hirez/Mother/Mtr-Myth.jpg:
+    mimetype: image/jpeg
+  BAFH-Pack4/Hirez/Mother/Mtr-Unseenfate.jpg:
+    mimetype: image/jpeg
+  BAFH-Pack4/Hirez/Pinocchio/pinocchio-nbdshirtlogo.jpg:
+    mimetype: image/jpeg
+  BAFH-Pack4/Hirez/Pinocchio/pinocchio-smalogo.jpg:
+    mimetype: image/jpeg
+  BAFH-Pack4/Hirez/Pinocchio/pinocchio-spiritsmodplayer.JPG:
+    mimetype: image/jpeg
+  BAFH-Pack4/Hirez/Zack/Zack-Alienation.jpg:
+    mimetype: image/jpeg
+  BAFH-Pack4/Hirez/Zack/Zack-Character.jpg:
+    mimetype: image/jpeg
+  BAFH-Pack4/Hirez/Zack/Zack-Moooh.jpg:
+    mimetype: image/jpeg
+  BAFH-Pack4/Hirez/c19/c19-Bafhlocity.jpg:
+    mimetype: image/jpeg
+  BAFH-Pack4/Hirez/c19/c19-Btb.jpg:
+    mimetype: image/jpeg
+  BAFH-Pack4/Hirez/c19/c19-Caraudio.jpg:
+    mimetype: image/jpeg
+  BAFH-Pack4/Hirez/c19/c19-Chronic.jpg:
+    mimetype: image/jpeg
+  BAFH-Pack4/Hirez/c19/c19-Chronic01.jpg:
+    mimetype: image/jpeg
+  BAFH-Pack4/Hirez/c19/c19-Chronic02.jpg:
+    mimetype: image/jpeg
+  BAFH-Pack4/Hirez/c19/c19-Cliff.jpg:
+    mimetype: image/jpeg
+  BAFH-Pack4/Hirez/c19/c19-Cybrpunk.jpg:
+    mimetype: image/jpeg
+  BAFH-Pack4/Hirez/c19/c19-Evo.jpg:
+    mimetype: image/jpeg
+  BAFH-Pack4/Hirez/c19/c19-Evo01.jpg:
+    mimetype: image/jpeg
+  BAFH-Pack4/Hirez/c19/c19-Hacx.jpg:
+    mimetype: image/jpeg
+  BAFH-Pack4/Hirez/c19/c19-Hacx01.jpg:
+    mimetype: image/jpeg
+  BAFH-Pack4/Hirez/c19/c19-Hacxsearch.GIF:
+    mimetype: image/gif
+  BAFH-Pack4/Hirez/c19/c19-Lostsoul.jpg:
+    mimetype: image/jpeg
+  BAFH-Pack4/Hirez/c19/c19-Plop.jpg:
+    mimetype: image/jpeg
+  BAFH-Pack4/Hirez/c19/c19-Prd.jpg:
+    mimetype: image/jpeg
+  BAFH-Pack4/Hirez/c19/c19-Space.JPG:
+    mimetype: image/jpeg
+  BAFH-Pack4/Hirez/c19/c19-Spider.jpg:
+    mimetype: image/jpeg
+  BAFH-Pack4/Hirez/c19/c19-Texture.JPG:
+    mimetype: image/jpeg
+  BAFH-Pack4/Hirez/c19/c19-Texture01.JPG:
+    mimetype: image/jpeg
+  BAFH-Pack4/Hirez/c19/c19-Texture02.JPG:
+    mimetype: image/jpeg
+  BAFH-Pack4/Hirez/c19/c19-Zbtry.jpg:
+    mimetype: image/jpeg
+  BAFH-Pack4/Lowrez/Bart/Bart-Amn.asc:
+    mimetype: text/plain
+  BAFH-Pack4/Lowrez/Bart/Bart-Bart.nfo:
+    mimetype: text/plain
+  BAFH-Pack4/Lowrez/Bart/Bart-Bro.asc:
+    mimetype: text/plain
+  BAFH-Pack4/Lowrez/Bart/Bart-Bye.asc:
+    mimetype: text/plain
+  BAFH-Pack4/Lowrez/Bart/Bart-Crn.asc:
+    mimetype: text/plain
+  BAFH-Pack4/Lowrez/Bart/Bart-Dln.asc:
+    mimetype: text/plain
+  BAFH-Pack4/Lowrez/Bart/Bart-Drm.asc:
+    mimetype: text/plain
+  BAFH-Pack4/Lowrez/Bart/Bart-Hms.asc:
+    mimetype: text/plain
+  BAFH-Pack4/Lowrez/Bart/Bart-Pnf.asc:
+    mimetype: text/plain
+  BAFH-Pack4/Lowrez/Bart/Bart-Pod.asc:
+    mimetype: text/plain
+  BAFH-Pack4/Lowrez/Bart/Bart-Pod.diz:
+    mimetype: text/plain
+  BAFH-Pack4/Lowrez/Bart/Bart-Pt.asc:
+    mimetype: text/plain
+  BAFH-Pack4/Lowrez/Bart/Bart-Tcg.asc:
+    mimetype: text/plain
+  BAFH-Pack4/Lowrez/Bart/Bart-Tjy.asc:
+    mimetype: text/plain
+  BAFH-Pack4/Lowrez/Bart/Bart-Tml.asc:
+    mimetype: text/plain
+  BAFH-Pack4/Lowrez/Bornholme/Bh-Doc.asc:
+    mimetype: text/plain
+  BAFH-Pack4/Lowrez/Bornholme/Bh-Nbd.asc:
+    mimetype: text/plain
+  BAFH-Pack4/Lowrez/Brane/BNE!APOC.TXT:
+    mimetype: text/plain
+  BAFH-Pack4/Lowrez/Brane/BNE!DI.TXT:
+    mimetype: text/plain
+  BAFH-Pack4/Lowrez/Brane/BNE!JAH.TXT:
+    mimetype: text/plain
+  BAFH-Pack4/Lowrez/Brane/BNE!L2L.TXT:
+    mimetype: text/plain
+  BAFH-Pack4/Lowrez/Brane/BNE!NB.TXT:
+    mimetype: text/plain
+  BAFH-Pack4/Lowrez/Creepah/Cr-Bc.asc:
+    mimetype: text/plain
+  BAFH-Pack4/Lowrez/Creepah/Cr-Blood.asc:
+    mimetype: text/plain
+  BAFH-Pack4/Lowrez/Creepah/Cr-Gds.asc:
+    mimetype: text/plain
+  BAFH-Pack4/Lowrez/Creepah/Cr-Pb.asc:
+    mimetype: text/plain
+  BAFH-Pack4/Lowrez/Creepah/Cr-Prime.asc:
+    mimetype: text/plain
+  BAFH-Pack4/Lowrez/Creepah/Cr-Prime.diz:
+    mimetype: text/plain
+  BAFH-Pack4/Lowrez/Creepah/Cr-Rpg.asc:
+    mimetype: text/plain
+  BAFH-Pack4/Lowrez/Creepah/Cr-Sty.asc:
+    mimetype: text/plain
+  BAFH-Pack4/Lowrez/Creepah/Cr-Tcs.asc:
+    mimetype: text/plain
+  BAFH-Pack4/Lowrez/Creepah/Cr-Tric.asc:
+    mimetype: text/plain
+  BAFH-Pack4/Lowrez/Creepah/Cr-Tus.asc:
+    mimetype: text/plain
+  BAFH-Pack4/Lowrez/Creepah/Cr-Wlm.nfo:
+    mimetype: text/plain
+  BAFH-Pack4/Lowrez/Docjones/CROFNL.ASC:
+    mimetype: text/plain
+  BAFH-Pack4/Lowrez/Docjones/OGSFNL.ASC:
+    mimetype: text/plain
+  BAFH-Pack4/Lowrez/Docjones/RIPFNL.ASC:
+    mimetype: text/plain
+  BAFH-Pack4/Lowrez/Docjones/d!J-Crs.asc:
+    mimetype: text/plain
+  BAFH-Pack4/Lowrez/Docjones/d!J-Fcr.asc:
+    mimetype: text/plain
+  BAFH-Pack4/Lowrez/Docjones/d!J-Gaz.asc:
+    mimetype: text/plain
+  BAFH-Pack4/Lowrez/Docjones/d!J-Led.asc:
+    mimetype: text/plain
+  BAFH-Pack4/Lowrez/Docjones/d!J-Nas.asc:
+    mimetype: text/plain
+  BAFH-Pack4/Lowrez/Docjones/d!J-Sdm.bak:
+    mimetype: application/octet-stream
+  BAFH-Pack4/Lowrez/Docjones/d!J-Sin.asc:
+    mimetype: text/plain
+  BAFH-Pack4/Lowrez/Docjones/d!J-Tds.asc:
+    mimetype: text/plain
+  BAFH-Pack4/Lowrez/Docjones/d!J-Tow.asc:
+    mimetype: text/plain
+  BAFH-Pack4/Lowrez/Docjones/d!J-Trd.asc:
+    mimetype: text/plain
+  BAFH-Pack4/Lowrez/Flimbo/Fmb-Adsl.nfo:
+    mimetype: text/plain
+  BAFH-Pack4/Lowrez/Flimbo/Fmb-Nw.nfo:
+    mimetype: text/plain
+  BAFH-Pack4/Lowrez/Flimbo/Fmb-Ta.nfo:
+    mimetype: text/plain
+  BAFH-Pack4/Lowrez/Flimbo/Fmb-Ts.nfo:
+    mimetype: text/plain
+  BAFH-Pack4/Lowrez/Guest/elD!-BAFH.txt:
+    mimetype: text/plain
+  BAFH-Pack4/Lowrez/Mrmista/mr-187.asc:
+    mimetype: text/plain
+  BAFH-Pack4/Lowrez/Mrmista/mr-anb.asc:
+    mimetype: text/plain
+  BAFH-Pack4/Lowrez/Mrmista/mr-c4exp-logo.asc:
+    mimetype: text/plain
+  BAFH-Pack4/Lowrez/Mrmista/mr-daftfaction.asc:
+    mimetype: text/plain
+  BAFH-Pack4/Lowrez/Mrmista/mr-dln.asc:
+    mimetype: text/plain
+  BAFH-Pack4/Lowrez/Mrmista/mr-february-pack.txt:
+    mimetype: text/plain
+  BAFH-Pack4/Lowrez/Mrmista/mr-fsf.asc:
+    mimetype: text/plain
+  BAFH-Pack4/Lowrez/Mrmista/mr-gbit.asc:
+    mimetype: text/plain
+  BAFH-Pack4/Lowrez/Mrmista/mr-pitchblack.asc:
+    mimetype: text/plain
+  BAFH-Pack4/Lowrez/Mrmista/mr-tmm.asc:
+    mimetype: text/plain
+  BAFH-Pack4/Lowrez/Mrmista/mr-tom.asc:
+    mimetype: text/plain
+  BAFH-Pack4/Lowrez/Mrmista/mr-zanbar.asc:
+    mimetype: text/plain
+  BAFH-Pack4/Lowrez/Nothing/Not-Centrpy:
+    mimetype: application/octet-stream
+  BAFH-Pack4/Lowrez/Nothing/Not-Wtc:
+    mimetype: text/plain
+  BAFH-Pack4/Lowrez/Riot/Riot-Insight:
+    mimetype: application/octet-stream
+  BAFH-Pack4/Lowrez/Riot/Riot-M1:
+    mimetype: text/plain
+  BAFH-Pack4/Lowrez/Riot/Riot-Newiso:
+    mimetype: text/plain
+  BAFH-Pack4/Lowrez/Riot/Riot-Syn:
+    mimetype: application/octet-stream
+  BAFH-Pack4/Lowrez/Sharque/Sq-Col.asc:
+    mimetype: text/plain
+  BAFH-Pack4/Lowrez/Sharque/Sq-Str.asc:
+    mimetype: text/plain
+  BAFH-Pack4/Lowrez/Sharque/Sq-Str2.asc:
+    mimetype: text/plain
+  BAFH-Pack4/Lowrez/Sharque/Sq-Str3.asc:
+    mimetype: text/plain
+  BAFH-Pack4/Lowrez/Sharque/Sq-Str4.asc:
+    mimetype: text/plain
+  BAFH-Pack4/Lowrez/Simonking/Sk!abst2.asc:
+    mimetype: text/plain
+  BAFH-Pack4/Lowrez/Simonking/Sk!ape.asc:
+    mimetype: text/plain
+  BAFH-Pack4/Lowrez/Simonking/Sk!bym.asc:
+    mimetype: text/plain
+  BAFH-Pack4/Lowrez/Simonking/Sk!excre.asc:
+    mimetype: text/plain
+  BAFH-Pack4/Lowrez/Simonking/Sk!fedex.asc:
+    mimetype: text/plain
+  BAFH-Pack4/Lowrez/Simonking/Sk!hc.asc:
+    mimetype: text/plain
+  BAFH-Pack4/Lowrez/Simonking/Sk!hitma.asc:
+    mimetype: text/plain
+  BAFH-Pack4/Lowrez/Simonking/Sk!kbe2.asc:
+    mimetype: text/plain
+  BAFH-Pack4/Lowrez/Simonking/Sk!liroy.asc:
+    mimetype: text/plain
+  BAFH-Pack4/Lowrez/Simonking/Sk!mekka.asc:
+    mimetype: text/plain
+  BAFH-Pack4/Lowrez/Simonking/Sk!monk.asc:
+    mimetype: text/plain
+  BAFH-Pack4/Lowrez/Simonking/Sk!progr.asc:
+    mimetype: text/plain
+  BAFH-Pack4/Lowrez/Simonking/Sk!rood.asc:
+    mimetype: text/plain
+  BAFH-Pack4/Lowrez/Simonking/Sk!sws.asc:
+    mimetype: text/plain
+  BAFH-Pack4/Lowrez/Simonking/Sk!tcg.asc:
+    mimetype: text/plain
+  BAFH-Pack4/Lowrez/Simonking/Sk!tfg.asc:
+    mimetype: text/plain
+  BAFH-Pack4/Lowrez/Simonking/Sk!trian.asc:
+    mimetype: text/plain
+  BAFH-Pack4/Lowrez/Simonking/Sk!xfer.asc:
+    mimetype: text/plain
+  BAFH-Pack4/Lowrez/Zooyork/z0o-Kinesis.nfo:
+    mimetype: text/plain
+  BAFH-Pack4/Lowrez/Zooyork/z0o-Sse.nfo:
+    mimetype: text/plain
+  BAFH-Pack4/Music/Dubmood/Db-Elim.xm:
+    mimetype: audio/x-mod
+  BAFH-Pack4/Music/Dubmood/Db-Elimi.xm:
+    mimetype: audio/x-mod
+  BAFH-Pack4/Music/Dubmood/Db-Flcmen4.xm:
+    mimetype: audio/x-mod
+  BAFH-Pack4/Music/Dubmood/Db-Flcmenu.xm:
+    mimetype: audio/x-mod
+  BAFH-Pack4/Music/Dubmood/Db-Square.xm:
+    mimetype: audio/x-mod
+  BAFH-Pack4/Music/Dubmood/Db-Vodka3.xm:
+    mimetype: audio/x-mod
+  BAFH-Pack4/Music/Dubmood/Db-Vodka4.xm:
+    mimetype: audio/x-mod
+  BAFH-Pack4/Music/Dubmood/Db-Worms.xm:
+    mimetype: audio/x-mod
+  BAFH-Pack4/Music/Dubmood/Db_Vodka.xm:
+    mimetype: audio/x-mod
+  BAFH-Pack4/Music/Maim/Ma-Expatriate.it:
+    mimetype: audio/x-mod
+  BAFH-Pack4/Music/Maim/Ma-Joss.it:
+    mimetype: audio/x-mod
+  BAFH-Pack4/Music/Mcbarn/Mcbarn-Arnoldy.xm:
+    mimetype: audio/x-mod
+  BAFH-Pack4/Music/Mcbarn/Mcbarn-Bonkers.xm:
+    mimetype: audio/x-mod
+  BAFH-Pack4/Music/Mcbarn/Mcbarn-Demol.xm:
+    mimetype: audio/x-mod
+  BAFH-Pack4/Music/Mcbarn/Mcbarn-Pseudo01.mod:
+    mimetype: audio/x-mod
+  BAFH-Pack4/Music/Mcbarn/Mcbarn-Pseudo02.mod:
+    mimetype: audio/x-mod
+  BAFH-Pack4/Music/Mcbarn/Mcbarn-Pseudo03.mod:
+    mimetype: audio/x-mod
+  BAFH-Pack4/Music/Mcbarn/Mcbarn-Pseudo04.mod:
+    mimetype: audio/x-mod
+  BAFH-Pack4/Music/Mcbarn/Mcbarn-Pseudo05.mod:
+    mimetype: audio/x-mod
+  BAFH-Pack4/Music/Mcbarn/Mcbarn-Pseudo06.mod:
+    mimetype: audio/x-mod
+  BAFH-Pack4/Music/Mcbarn/Mcbarn-Ptype.xm:
+    mimetype: audio/x-mod
+  BAFH-Pack4/ascii.exe:
+    mimetype: application/x-msdos-program
+  BAFH-Pack4/player.exe:
+    mimetype: application/x-msdos-program

@@ -1,0 +1,44 @@
+name: w3m-05.zip
+hash: 724a449158a993657cfa0246e85abc34
+year: 1999
+file:
+  BARCODE.JPG:
+    mimetype: image/jpeg
+  BUG.JPG:
+    mimetype: image/jpeg
+  COMET.JPG:
+    mimetype: image/jpeg
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FILES.TXT:
+    mimetype: text/plain
+  HELP_ME.JPG:
+    mimetype: image/jpeg
+  HOLE.JPG:
+    mimetype: image/jpeg
+  HUNTERS.JPG:
+    mimetype: image/jpeg
+  LIGHT.JPG:
+    mimetype: image/jpeg
+  MISSED.JPG:
+    mimetype: image/jpeg
+  NIGHTQ.JPG:
+    mimetype: image/jpeg
+  NO_EXIT.JPG:
+    mimetype: image/jpeg
+  OASIS.JPG:
+    mimetype: image/jpeg
+  SAYONARA.JPG:
+    mimetype: image/jpeg
+  STOP.JPG:
+    mimetype: image/jpeg
+  SUNQ.JPG:
+    mimetype: image/jpeg
+  TIE_EYES.JPG:
+    mimetype: image/jpeg
+  UNKNOWN.JPG:
+    mimetype: image/jpeg
+  VICTIM.JPG:
+    mimetype: image/jpeg
+  W3M-05.TXT:
+    mimetype: text/plain

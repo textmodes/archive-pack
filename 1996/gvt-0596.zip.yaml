@@ -1,0 +1,80 @@
+name: gvt-0596.zip
+hash: 7ad5dd319612f4f245790e71b0ecd593
+year: 1996
+file:
+  '%ANSI%':
+    mimetype: text/plain
+  '%APP%':
+    mimetype: text/plain
+  '%ASCII%':
+    mimetype: text/plain
+  '%HIREZ%':
+    mimetype: text/plain
+  '%JOLT%':
+    mimetype: text/plain
+  '%MAY96%':
+    mimetype: text/plain
+  '%MUSIC%':
+    mimetype: text/plain
+  '%OTHER%':
+    mimetype: text/plain
+  '%VIEWER%':
+    mimetype: text/plain
+  CC-DARK.ANS:
+    mimetype: text/plain
+  CC-GLBF.ANS:
+    mimetype: text/plain
+  CC-GLBM.ANS:
+    mimetype: text/plain
+  CC-STORY.ANS:
+    mimetype: text/plain
+  DM-ACME.ANS:
+    mimetype: text/plain
+  DM-SLIME.ANS:
+    mimetype: text/plain
+  DZ-DVS.ASC:
+    mimetype: text/plain
+  DZ-ZEPH.ASC:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  G40-COL4.ANS:
+    mimetype: text/plain
+  GVT-0596.MEM:
+    mimetype: text/plain
+  GVT-0596.NFO:
+    mimetype: text/plain
+  GVTMUSIC.ZIP:
+    mimetype: application/zip
+  GVTVIEW.EXE:
+    mimetype: application/x-msdos-program
+  GVTVIEW.HIS:
+    mimetype: text/plain
+  JOLT02.ZIP:
+    mimetype: application/zip
+  LESSMICH.DCH:
+    mimetype: text/plain
+  MD-GRP.ANS:
+    mimetype: text/plain
+  MD-PUB.ANS:
+    mimetype: text/plain
+  MD-TGC.ANS:
+    mimetype: text/plain
+  PH-GCOL.ANS:
+    mimetype: text/plain
+  PT-BEC.ANS:
+    mimetype: text/plain
+  PT-BIPR.ANS:
+    mimetype: text/plain
+  PT-LINO.ANS:
+    mimetype: text/plain
+  RG-FLEX.JPG:
+    mimetype: image/jpeg
+  SD-LOGO.ANS:
+    mimetype: text/plain
+  SH-BECM1.ANS:
+    mimetype: text/plain
+  SH-DGTEM.ANS:
+    mimetype: text/plain
+  SH-DIGT1.ANS:
+    mimetype: text/plain

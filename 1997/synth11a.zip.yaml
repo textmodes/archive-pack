@@ -1,0 +1,42 @@
+name: synth11a.zip
+hash: ec41ebd27f52dfeea2789ee7780ef593
+year: 1997
+file:
+  0797CONT.ANS:
+    mimetype: text/plain
+  0797MEMB.ANS:
+    mimetype: text/plain
+  CT-XPRES.ANS:
+    mimetype: text/plain
+  DECAY.ANS:
+    mimetype: text/plain
+  DECAY.NFO:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  SCAPP.DOC:
+    mimetype: text/plain
+  SCAPP.EXE:
+    mimetype: application/x-msdos-program
+  SYD-COOL.JPG:
+    mimetype: image/jpeg
+  SYD-FLUX.JPG:
+    mimetype: image/jpeg
+  TAX-CWG.JPG:
+    mimetype: image/jpeg
+  TAX-GUN.JPG:
+    mimetype: image/jpeg
+  TAX-HENG.JPG:
+    mimetype: image/jpeg
+  TAX-RCAR.JPG:
+    mimetype: image/jpeg
+  TAX-ROB.JPG:
+    mimetype: image/jpeg
+  TR-CITY.JPG:
+    mimetype: image/jpeg
+  TR-COLLY.ANS:
+    mimetype: text/plain
+  WRP-BICE.JPG:
+    mimetype: image/jpeg
+  WRP-STRT.JPG:
+    mimetype: image/jpeg

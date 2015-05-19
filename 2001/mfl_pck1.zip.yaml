@@ -1,0 +1,92 @@
+name: mfl_pck1.zip
+hash: 1cc302055280630a970b7afd026bfeba
+year: 2001
+file:
+  _INFO.TXT:
+    mimetype: text/plain
+  BNR-ATR.ASC:
+    mimetype: text/plain
+  BNR-BNR.ASC:
+    mimetype: text/plain
+  BNR-CRUX.ASC:
+    mimetype: text/plain
+  BNR-DIW.ASC:
+    mimetype: text/plain
+  BNR-DIZ1.ASC:
+    mimetype: text/plain
+  BNR-DIZ2.ASC:
+    mimetype: text/plain
+  BNR-DIZ3.ASC:
+    mimetype: text/plain
+  BNR-DIZ4.ASC:
+    mimetype: text/plain
+  BNR-FC.ASC:
+    mimetype: text/plain
+  BNR-INS.ASC:
+    mimetype: text/plain
+  BNR-KMAC.ASC:
+    mimetype: text/plain
+  BNR-MFL1.ASC:
+    mimetype: text/plain
+  BNR-MFL2.ASC:
+    mimetype: text/plain
+  BNR-MFL3.ASC:
+    mimetype: text/plain
+  BNR-MIST.ASC:
+    mimetype: text/plain
+  BNR-SCNE.ASC:
+    mimetype: text/plain
+  BNR-SIN2.ASC:
+    mimetype: text/plain
+  BNR-SINE.ASC:
+    mimetype: text/plain
+  BNR-SPR6.ASC:
+    mimetype: text/plain
+  BNR-TOYA.ASC:
+    mimetype: text/plain
+  BNR-TRAV.ASC:
+    mimetype: text/plain
+  BNR-WITH.ASC:
+    mimetype: text/plain
+  CHIPS/APACHE.XM:
+    mimetype: audio/x-mod
+  CHIPS/FLOJD.XM:
+    mimetype: audio/x-mod
+  CHIPS/GRF_!8.XM:
+    mimetype: audio/x-mod
+  CHIPS/HAPPYBEE.IT:
+    mimetype: audio/x-mod
+  CHIPS/HIPER!.XM:
+    mimetype: audio/x-mod
+  CHIPS/JAZZCLUB.IT:
+    mimetype: audio/x-mod
+  CHIPS/UP.XM:
+    mimetype: audio/x-mod
+  H7-MFLOW.ASC:
+    mimetype: text/plain
+  HIPER!.TXT:
+    mimetype: text/plain
+  MOONFLOW.NFO:
+    mimetype: text/plain
+  MRK-BNR1.ASC:
+    mimetype: text/plain
+  MRK-SINN.ASC:
+    mimetype: text/plain
+  MST!BEET.ASC:
+    mimetype: text/plain
+  MST!NORD.ASC:
+    mimetype: text/plain
+  MST!PSH.ASC:
+    mimetype: text/plain
+  MST!SINN.ASC:
+    mimetype: text/plain
+  MST!SPR5.ASC:
+    mimetype: text/plain
+  Mist!liz.jpg:
+    mimetype: image/jpeg
+  Oko.png:
+    mimetype: image/png
+  Uif-kaa.asc:
+    mimetype: text/plain
+  Uif-some.txt:
+    mimetype: text/plain

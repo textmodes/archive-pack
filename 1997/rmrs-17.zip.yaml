@@ -1,0 +1,86 @@
+name: rmrs-17.zip
+hash: ef57c6ed50348cc05efcf5131280ced2
+year: 1997
+file:
+  2N-OMI.ASC:
+    mimetype: text/plain
+  2N-RMRS2.ASC:
+    mimetype: text/plain
+  5F-RMRS.ASC:
+    mimetype: text/plain
+  5F-STOON.ASC:
+    mimetype: text/plain
+  ACK-ARRO.ASC:
+    mimetype: text/plain
+  AXB-CCI.ASC:
+    mimetype: text/plain
+  AXB-DME.ASC:
+    mimetype: text/plain
+  AXB-KWST.ASC:
+    mimetype: text/plain
+  BD-LV2.ASC:
+    mimetype: text/plain
+  BDS-APC1.ASC:
+    mimetype: text/plain
+  BDS-EZY1.ASC:
+    mimetype: text/plain
+  BDS-K2.ASC:
+    mimetype: text/plain
+  BDS-SB1.ASC:
+    mimetype: text/plain
+  BDS-SOL1.ASC:
+    mimetype: text/plain
+  BDS-TD1.ASC:
+    mimetype: text/plain
+  BY-DPS1.ASC:
+    mimetype: text/plain
+  BY-RMRS1.ASC:
+    mimetype: text/plain
+  BY-VOS2.ASC:
+    mimetype: text/plain
+  C4-C4.ASC:
+    mimetype: text/plain
+  C4-CHAOS.ASC:
+    mimetype: text/plain
+  C4-DOE.ASC:
+    mimetype: text/plain
+  C4-KAOS.ASC:
+    mimetype: text/plain
+  C4-MARTZ.ASC:
+    mimetype: text/plain
+  C4-PORNO.ASC:
+    mimetype: text/plain
+  C4-SQUIS.ASC:
+    mimetype: text/plain
+  C4-UNDER.ASC:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  HP-SOPS.ASC:
+    mimetype: text/plain
+  MN-DESIG.ASC:
+    mimetype: text/plain
+  PAR-JUST.ANS:
+    mimetype: text/plain
+  REMORSE.NFO:
+    mimetype: text/plain
+  RV.CFG:
+    mimetype: text/plain
+  RV.EXE:
+    mimetype: application/x-msdos-program
+  SP-EARTH.ASC:
+    mimetype: text/plain
+  TM-MC.ASC:
+    mimetype: text/plain
+  TUM-FACE.ANS:
+    mimetype: text/plain
+  TUM-FIES.ANS:
+    mimetype: text/plain
+  TUM-MD.ASC:
+    mimetype: text/plain
+  TUM-MORP.ASC:
+    mimetype: text/plain
+  US-EGO.ASC:
+    mimetype: text/plain
+  US-FIRE.ANS:
+    mimetype: text/plain

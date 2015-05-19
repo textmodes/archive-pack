@@ -1,0 +1,66 @@
+name: sclr-23.zip
+hash: 3a64e6545a5241d2a851665e6585fe4d
+year: 2001
+file:
+  A-VIEW.COM:
+    mimetype: application/x-msdos-program
+  AMIGA.FNT:
+    mimetype: application/octet-stream
+  AS-ACIDP.TXT:
+    mimetype: text/plain
+  AS-HM.ANS:
+    mimetype: text/plain
+  AS-WARLO.ANS:
+    mimetype: text/plain
+  B&S^BR.ANS:
+    mimetype: text/plain
+  B&S^DNTO.ANS:
+    mimetype: text/plain
+  B&S^RTRS.ANS:
+    mimetype: text/plain
+  B&S^S&D.ANS:
+    mimetype: text/plain
+  B&S^TAT.ASC:
+    mimetype: text/plain
+  BAB-NIGH.JPG:
+    mimetype: image/jpeg
+  F-WND.ASC:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FILES.BBS:
+    mimetype: text/plain
+  JN-SHINE.ANS:
+    mimetype: text/plain
+  NKR!FORM.ASC:
+    mimetype: text/plain
+  PC.COM:
+    mimetype: application/x-msdos-program
+  PC.FNT:
+    mimetype: application/octet-stream
+  PC_E.FNT:
+    mimetype: application/octet-stream
+  SCLR-23.ANS:
+    mimetype: text/plain
+  SCLR-23E.ANS:
+    mimetype: text/plain
+  SHL-FACE.ASC:
+    mimetype: text/plain
+  SRB!FALL.JPG:
+    mimetype: image/jpeg
+  SRB!SPIR.JPG:
+    mimetype: image/jpeg
+  SRB^1STP.ANS:
+    mimetype: text/plain
+  SRB^FOG.ANS:
+    mimetype: text/plain
+  SRB^FOG.ASC:
+    mimetype: text/plain
+  SRB^LSTM.ANS:
+    mimetype: text/plain
+  SRB^LSTM.ASC:
+    mimetype: text/plain
+  THUGLIFE.ORG:
+    mimetype: text/plain
+  US-OCENB.TXT:
+    mimetype: text/plain

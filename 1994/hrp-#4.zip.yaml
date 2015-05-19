@@ -1,0 +1,56 @@
+name: hrp-#4.zip
+hash: 0d7a5e3d2ebc3f4e45ee403956d5949d
+year: 1994
+file:
+  ANGER.LIT:
+    mimetype: text/plain
+  CRYSTAL1.ANS:
+    mimetype: text/plain
+  DC-TPF.MOD:
+    mimetype: audio/x-mod
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  HM-LD.RIP:
+    mimetype: image/x-rip
+  HOS.EXE:
+    mimetype: application/x-msdos-program
+  HR-APP.ZIP:
+    mimetype: application/zip
+  HR-NFO.ASC:
+    mimetype: text/plain
+  HR.NFO:
+    mimetype: text/plain
+  HRAV.EXE:
+    mimetype: application/x-msdos-program
+  HRINFO.ANS:
+    mimetype: text/plain
+  HRNFO.1:
+    mimetype: text/plain
+  MR-AFRAI.LIT:
+    mimetype: text/plain
+  MR-DEATH.LIT:
+    mimetype: text/plain
+  MR-LAKE.LIT:
+    mimetype: text/plain
+  MR-PLAT.LIT:
+    mimetype: text/plain
+  MR-SU.LIT:
+    mimetype: text/plain
+  MS2-ONYX.LIT:
+    mimetype: text/plain
+  NEOTOKYO.ANS:
+    mimetype: text/plain
+  PENTGON.ANS:
+    mimetype: text/plain
+  PS2-LD.RIP:
+    mimetype: image/x-rip
+  SD.EXE:
+    mimetype: application/x-msdos-program
+  SM-HIGH.MOD:
+    mimetype: audio/x-mod
+  SM-MEM.GIF:
+    mimetype: image/gif
+  SM-MEM.VGA:
+    mimetype: application/octet-stream
+  TC.EXE:
+    mimetype: application/x-msdos-program

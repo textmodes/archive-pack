@@ -1,0 +1,100 @@
+name: bdp-0396.zip
+hash: a0de085f6d9f7735ec4c507e32efc5c8
+year: 1996
+file:
+  '%%ANSI%%':
+    mimetype: text/plain
+  '%%ASCII%':
+    mimetype: text/plain
+  '%%BIN%%%':
+    mimetype: text/plain
+  '%%EXE%%%':
+    mimetype: text/plain
+  '%%INFO%%':
+    mimetype: text/plain
+  '%%RIP%%%':
+    mimetype: text/plain
+  '%%VGA%%%':
+    mimetype: text/plain
+  BDP%0396.LST:
+    mimetype: text/plain
+  BDP%0396.NWS:
+    mimetype: text/plain
+  BDPAPP.EXE:
+    mimetype: application/x-msdos-program
+  BDPREQ.EXE:
+    mimetype: application/x-msdos-program
+  BELGA.COM:
+    mimetype: application/x-msdos-program
+  CO-BAD.ANS:
+    mimetype: text/plain
+  CO-BDP.ANS:
+    mimetype: text/plain
+  CO-DEV.ANS:
+    mimetype: text/plain
+  CO-PHREA.GIF:
+    mimetype: image/gif
+  CO-PO2.RIP:
+    mimetype: image/x-rip
+  CO-POOR.RIP:
+    mimetype: image/x-rip
+  CO-SHAOL.RIP:
+    mimetype: image/x-rip
+  CO-TAG.GIF:
+    mimetype: image/gif
+  CO-WU.RIP:
+    mimetype: image/x-rip
+  DOS4GW.EXE:
+    mimetype: application/x-msdos-program
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  HELP.TXT:
+    mimetype: text/plain
+  PASSED:
+    mimetype: text/plain
+  PC-BDP.ANS:
+    mimetype: text/plain
+  PC-NWMN.ANS:
+    mimetype: text/plain
+  PC-NWOC.ANS:
+    mimetype: text/plain
+  PE-HERZY.ANS:
+    mimetype: text/plain
+  RC(MIRA).ANS:
+    mimetype: text/plain
+  RC(MOR3).ANS:
+    mimetype: text/plain
+  RC(MOR4).ASC:
+    mimetype: text/plain
+  RC(MOR5).ANS:
+    mimetype: text/plain
+  RC(PRIM).ANS:
+    mimetype: text/plain
+  RC(TELE).ANS:
+    mimetype: text/plain
+  RC(WIZA).ASC:
+    mimetype: text/plain
+  TB%BDP1.ANS:
+    mimetype: text/plain
+  TB%JNT1.ANS:
+    mimetype: text/plain
+  TH-MENTA.ASC:
+    mimetype: text/plain
+  TWEEHOOG.NFO:
+    mimetype: text/plain
+  WAREZ4U!.NFO:
+    mimetype: text/plain
+  WT-DUDE.ANS:
+    mimetype: text/plain
+  WT-FALL.ANS:
+    mimetype: text/plain
+  WZ-ANKE.TIF:
+    mimetype: image/tiff
+  WZ-FUNK.JPG:
+    mimetype: image/jpeg
+  WZ-PAGE.JPG:
+    mimetype: image/jpeg
+  WZ-SCROL.JPG:
+    mimetype: image/jpeg
+  XBUAJMLP.TXT:
+    mimetype: text/plain

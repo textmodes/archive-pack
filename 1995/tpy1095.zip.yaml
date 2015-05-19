@@ -1,0 +1,20 @@
+name: tpy1095.zip
+hash: ccb70b159d7d20fe5b2fad02f701ec66
+year: 1995
+file:
+  BLADE.PCB:
+    mimetype: application/octet-stream
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  TPY.APP:
+    mimetype: application/octet-stream
+  TPY.NFO:
+    mimetype: text/plain
+  TPY.RQT:
+    mimetype: application/octet-stream
+  TPY1095.ASC:
+    mimetype: text/plain
+  TPY1095.BAK:
+    mimetype: application/octet-stream
+  WAREZ.PCB:
+    mimetype: application/octet-stream

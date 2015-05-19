@@ -1,0 +1,66 @@
+name: acdu1093.zip
+hash: 3551cdb0214d63d2038079578c32eaf3
+year: 1993
+file:
+  ACDU1093.NFO:
+    mimetype: text/plain
+  ACID0993.ANS:
+    mimetype: text/plain
+  ACIDAPP.EXE:
+    mimetype: application/x-msdos-program
+  AE-CEL20.ANS:
+    mimetype: text/plain
+  AE-DSUN2.ANS:
+    mimetype: text/plain
+  BX-BLINE.ANS:
+    mimetype: text/plain
+  CX-COR1.ANS:
+    mimetype: text/plain
+  CX-COR2.ANS:
+    mimetype: text/plain
+  CX-CRIM1.ANS:
+    mimetype: text/plain
+  DH-TAS.ANS:
+    mimetype: text/plain
+  DT-MMW.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FN-BS1.ANS:
+    mimetype: text/plain
+  IZ-ACID4.RIP:
+    mimetype: image/x-rip
+  IZ-POP.ANS:
+    mimetype: text/plain
+  JD-BUTT.ANS:
+    mimetype: text/plain
+  JD-TNT1.ANS:
+    mimetype: text/plain
+  KS-BLACK.ANS:
+    mimetype: text/plain
+  KS-COR1.ANS:
+    mimetype: text/plain
+  LN-ACID.EXE:
+    mimetype: application/x-msdos-program
+  RN-RIP1.RIP:
+    mimetype: image/x-rip
+  RN-VIS1.ANS:
+    mimetype: text/plain
+  RS-ICE.EXE:
+    mimetype: application/x-msdos-program
+  RV-LANCE.EXE:
+    mimetype: application/x-msdos-program
+  SC-RICK3.EXE:
+    mimetype: application/x-msdos-program
+  SM-DUNG1.RIP:
+    mimetype: image/x-rip
+  TK-AV353.ZIP:
+    mimetype: application/zip
+  VN-CHAOS.ANS:
+    mimetype: text/plain
+  VN-DSTAR.ANS:
+    mimetype: text/plain
+  VN-DSTAR.EXE:
+    mimetype: application/x-msdos-program
+  VN-RTNO1.ANS:
+    mimetype: text/plain

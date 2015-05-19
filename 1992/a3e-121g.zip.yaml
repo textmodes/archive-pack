@@ -1,0 +1,56 @@
+name: a3e-121g.zip
+hash: ee580c1b3769251a4e233a3c09f370f5
+year: 1992
+file:
+  A3E.CFG:
+    mimetype: application/octet-stream
+  A3E.DOC:
+    mimetype: text/plain
+  A3E.EXE:
+    mimetype: application/x-msdos-program
+  A3E.HLP:
+    mimetype: application/octet-stream
+  A3E_1.ICO:
+    mimetype: image/x-icon
+  A3E_2.ICO:
+    mimetype: image/x-icon
+  A3ECONF.EXE:
+    mimetype: application/x-msdos-program
+  A3EFONTS.ZIP:
+    mimetype: application/zip
+  A3EINTRO.BIN:
+    mimetype: application/octet-stream
+  A3ENEWS.TXT:
+    mimetype: text/plain
+  BLENDTST.AVT:
+    mimetype: application/octet-stream
+  FIDDLE1.ANS:
+    mimetype: text/plain
+  FIDDLE2.ANS:
+    mimetype: text/plain
+  FIDDLE3.ANS:
+    mimetype: text/plain
+  FIDDLE4.ANS:
+    mimetype: text/plain
+  FIDDLE5.ANS:
+    mimetype: text/plain
+  MECCA.CFG:
+    mimetype: text/plain
+  PCBOARD.CFG:
+    mimetype: text/plain
+  PCEX.CFG:
+    mimetype: text/plain
+  RA111.CFG:
+    mimetype: text/plain
+  REGISTER.FRM:
+    mimetype: text/plain
+  REGISTER.GER:
+    mimetype: text/plain
+  REGISTER.NL:
+    mimetype: text/plain
+  SBBS116.CFG:
+    mimetype: text/plain
+  WC250.CFG:
+    mimetype: application/octet-stream
+  ZIPLIST.TXT:
+    mimetype: text/plain

@@ -1,0 +1,62 @@
+name: ld!01.zip
+hash: 68bb6bb6b940f7d156aa1927a345ef8d
+year: 1995
+file:
+  '%APOC%AN.SI%':
+    mimetype: text/plain
+  '''ANSEE''':
+    mimetype: text/plain
+  '''DIVE01''':
+    mimetype: text/plain
+  '''INFO''':
+    mimetype: text/plain
+  '''OTHER''':
+    mimetype: text/plain
+  CREDITS.RIP:
+    mimetype: image/x-rip
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  LD!AVGA.ANS:
+    mimetype: text/plain
+  LD!DIVE1.ANS:
+    mimetype: text/plain
+  LD!DIVE2.ANS:
+    mimetype: text/plain
+  LD!GOOP1.ANS:
+    mimetype: text/plain
+  LD!HRLM1.ANS:
+    mimetype: text/plain
+  LD!HRLM2.ANS:
+    mimetype: text/plain
+  LD!HUMA.ANS:
+    mimetype: text/plain
+  LD!ILL.ANS:
+    mimetype: text/plain
+  LD!MD.ANS:
+    mimetype: text/plain
+  LD!SBZ.ANS:
+    mimetype: text/plain
+  LD!SOUL.ANS:
+    mimetype: text/plain
+  LD!SYNC.ANS:
+    mimetype: text/plain
+  MARCH01.NFO:
+    mimetype: text/plain
+  PAGE1.RIP:
+    mimetype: image/x-rip
+  PAGE2.RIP:
+    mimetype: image/x-rip
+  PAGE3.RIP:
+    mimetype: image/x-rip
+  PAGE4.RIP:
+    mimetype: image/x-rip
+  PAGE5.RIP:
+    mimetype: image/x-rip
+  PROLOG1.RIP:
+    mimetype: image/x-rip
+  PROLOG2.RIP:
+    mimetype: image/x-rip
+  RELEASE.NFO:
+    mimetype: text/plain
+  TITLE.RIP:
+    mimetype: image/x-rip

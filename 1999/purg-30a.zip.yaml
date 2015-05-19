@@ -1,0 +1,46 @@
+name: purg-30a.zip
+hash: 7ca45ddf2d8f59669179bd8f65b20f20
+year: 1999
+file:
+  A9-COMPO.ANS:
+    mimetype: text/plain
+  A9-INJEK.ANS:
+    mimetype: text/plain
+  A9-JANDR.TXT:
+    mimetype: text/plain
+  A9-KTOCD.ASC:
+    mimetype: text/plain
+  AB-COL30.ASC:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  IN-COMA.ASC:
+    mimetype: text/plain
+  IN-OK.ANS:
+    mimetype: text/plain
+  IN-OPAL.ANS:
+    mimetype: text/plain
+  PLGO-MEM.BIN:
+    mimetype: application/octet-stream
+  PLGO-NFO.030:
+    mimetype: text/plain
+  PT-GC.ANS:
+    mimetype: text/plain
+  SZ-WARLI.ANS:
+    mimetype: text/plain
+  TR-GUM01.ANS:
+    mimetype: text/plain
+  TR-HLM01.BIN:
+    mimetype: application/octet-stream
+  TR-OPTNS.ANS:
+    mimetype: text/plain
+  US-FREAK.ASC:
+    mimetype: text/plain
+  US-GROUP.ANS:
+    mimetype: text/plain
+  US-PURG.ANS:
+    mimetype: text/plain
+  US-WM.ANS:
+    mimetype: text/plain
+  ZB!COL30.ANS:
+    mimetype: text/plain

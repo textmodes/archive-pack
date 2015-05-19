@@ -1,0 +1,106 @@
+name: 01zenith.zip
+hash: c66573042273bb322ecaf6cf93f00d85
+year: 1998
+file:
+  -(ADS)-:
+    mimetype: application/octet-stream
+  -(ART)-:
+    mimetype: application/octet-stream
+  -(INFO)-:
+    mimetype: application/octet-stream
+  -(TEXT)-:
+    mimetype: application/octet-stream
+  01ZENITH.MEM:
+    mimetype: text/plain
+  01ZENITH.NFO:
+    mimetype: text/plain
+  DESC.SDI:
+    mimetype: application/octet-stream
+  E0-BAT.ANS:
+    mimetype: text/plain
+  E0-GOL.ANS:
+    mimetype: text/plain
+  E0-HYSET.ANS:
+    mimetype: text/plain
+  E0-HYSTR.ANS:
+    mimetype: text/plain
+  E0-SFISH.ANS:
+    mimetype: text/plain
+  E0-SMEU.ANS:
+    mimetype: text/plain
+  E0-TTOWN.ANS:
+    mimetype: text/plain
+  EQ-ZEN01.ANS:
+    mimetype: text/plain
+  EQ-ZEN02.BIN:
+    mimetype: text/x-binary
+  FEV-GUTT.ANS:
+    mimetype: text/plain
+  FEV-HELL.ANS:
+    mimetype: text/plain
+  FEV-ICE.ANS:
+    mimetype: text/plain
+  FEV-RAY2.ANS:
+    mimetype: text/plain
+  FEV-SCAN.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  PE-BD.ANS:
+    mimetype: text/plain
+  PE-DEATH.ANS:
+    mimetype: text/plain
+  PE-SA.ANS:
+    mimetype: text/plain
+  PE-SPEE.ANS:
+    mimetype: text/plain
+  SOR-DDC.ANS:
+    mimetype: text/plain
+  SOR-DDH.ANS:
+    mimetype: text/plain
+  SOR-DDLS.ANS:
+    mimetype: text/plain
+  SOR-INDI.ANS:
+    mimetype: text/plain
+  SOR-INQ2.ANS:
+    mimetype: text/plain
+  SOR-SCLZ.ANS:
+    mimetype: text/plain
+  SOR-SELF.ANS:
+    mimetype: text/plain
+  SOR-SLT.ANS:
+    mimetype: text/plain
+  SOR-ZEN1.ANS:
+    mimetype: text/plain
+  SQ2-ZNTH.ANS:
+    mimetype: text/plain
+  TNT-COLL.ANS:
+    mimetype: text/plain
+  TNT-GP.ANS:
+    mimetype: text/plain
+  TX-EPIC.ANS:
+    mimetype: text/plain
+  TX-RESP.ANS:
+    mimetype: text/plain
+  TX-SALT.ANS:
+    mimetype: text/plain
+  TX-ZEN1.ANS:
+    mimetype: text/plain
+  US-CRC4.ANS:
+    mimetype: text/plain
+  US-ESPL.ANS:
+    mimetype: text/plain
+  US-LIONM.JPG:
+    mimetype: image/jpeg
+  US-NEG.ANS:
+    mimetype: text/plain
+  US-PHR.ANS:
+    mimetype: text/plain
+  US-SK.ANS:
+    mimetype: text/plain
+  US-SKELT.ANS:
+    mimetype: text/plain
+  US-SUPER.ANS:
+    mimetype: text/plain
+  US-ZEN.ANS:
+    mimetype: text/plain

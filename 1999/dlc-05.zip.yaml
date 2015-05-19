@@ -1,0 +1,48 @@
+name: dlc-05.zip
+hash: 279efce1191368b730fccca3b7a8157a
+year: 1999
+file:
+  DLC#5.EXE:
+    mimetype: application/x-msdos-program
+  DLC.REG:
+    mimetype: application/octet-stream
+  EXC-2OP2.JPG:
+    mimetype: image/jpeg
+  EXC-STAR.JPG:
+    mimetype: image/jpeg
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  HC-AUM.ASC:
+    mimetype: text/plain
+  HC-BVS.ASC:
+    mimetype: text/plain
+  HC-HBG.ASC:
+    mimetype: text/plain
+  HC-KDRM.ASC:
+    mimetype: text/plain
+  HC-SBOMB.ASC:
+    mimetype: text/plain
+  HC-VYS.ASC:
+    mimetype: text/plain
+  MCM-2O2.JPG:
+    mimetype: image/jpeg
+  MCM-BSH2.JPG:
+    mimetype: image/jpeg
+  MCM-CATH.JPG:
+    mimetype: image/jpeg
+  MCM-CLPS.JPG:
+    mimetype: image/jpeg
+  MCM-CLUB.JPG:
+    mimetype: image/jpeg
+  MCM-DCTY.JPG:
+    mimetype: image/jpeg
+  MCM-FLUX.JPG:
+    mimetype: image/jpeg
+  MCM-HVP.JPG:
+    mimetype: image/jpeg
+  MCM-INJG.JPG:
+    mimetype: image/jpeg
+  REACTOR.NFO:
+    mimetype: text/plain
+  XH-SWAY.JPG:
+    mimetype: image/jpeg

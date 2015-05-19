@@ -1,0 +1,60 @@
+name: xrt-02.zip
+hash: 3de670dd2ca76dd91ed865848544b359
+year: 1998
+file:
+  -ANSI---.---:
+    mimetype: text/plain
+  -INFO---.---:
+    mimetype: text/plain
+  -SPIRIT-.---:
+    mimetype: text/plain
+  DRM-APUM.ANS:
+    mimetype: text/plain
+  DRM-BLAS.ANS:
+    mimetype: text/plain
+  DRM-CC.ANS:
+    mimetype: text/plain
+  DRM-CPH.ANS:
+    mimetype: text/plain
+  DRM-DIZ1.ASC:
+    mimetype: text/plain
+  DRM-DIZ2.ASC:
+    mimetype: text/plain
+  DRM-DIZ3.ASC:
+    mimetype: text/plain
+  DRM-DIZ4.ASC:
+    mimetype: text/plain
+  DRM-DM.ANS:
+    mimetype: text/plain
+  DRM-DSS.ANS:
+    mimetype: text/plain
+  DRM-EMA2.ANS:
+    mimetype: text/plain
+  DRM-EMAI.ANS:
+    mimetype: text/plain
+  DRM-HACK.ANS:
+    mimetype: text/plain
+  DRM-NEWS.ANS:
+    mimetype: text/plain
+  DRM-PF!.ANS:
+    mimetype: text/plain
+  DRM-PN2.ANS:
+    mimetype: text/plain
+  DRM-SBD.ANS:
+    mimetype: text/plain
+  DRM-TUTO.ANS:
+    mimetype: text/plain
+  DRM-XDST.ANS:
+    mimetype: text/plain
+  DRM-XHQ2.ANS:
+    mimetype: text/plain
+  DRM-XRHQ.ANS:
+    mimetype: text/plain
+  Drm-x.ans:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  Xrt.nfo:
+    mimetype: text/plain
+  xrt_reg.exe:
+    mimetype: application/x-msdos-program

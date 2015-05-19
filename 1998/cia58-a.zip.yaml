@@ -1,0 +1,72 @@
+name: cia58-a.zip
+hash: d53309f3789b21e225e481cfd016122d
+year: 1998
+file:
+  !!binary xMRBTlNJxMQuxMTE:
+    mimetype: text/plain
+  !!binary xEdVRVNUU8QuxMTE:
+    mimetype: text/plain
+  !!binary xEhBWk1BVMQuxMTE:
+    mimetype: text/plain
+  !!binary xE9USEVSxMQuxMTE:
+    mimetype: text/plain
+  42_4T2.CIA:
+    mimetype: text/plain
+  42_PBB.CIA:
+    mimetype: text/plain
+  1198INFO.CIA:
+    mimetype: text/plain
+  1198MEMB.CIA:
+    mimetype: text/plain
+  C0-SCRLZ.GST:
+    mimetype: text/plain
+  CC-CIA.CIA:
+    mimetype: text/plain
+  CD!ASA.ASC:
+    mimetype: text/plain
+  CD!DOPE.ASC:
+    mimetype: text/plain
+  CD!IDT.ASC:
+    mimetype: text/plain
+  CD!MAD.ASC:
+    mimetype: text/plain
+  CD!OSC.ASC:
+    mimetype: text/plain
+  CIAVIEW.BAT:
+    mimetype: application/x-msdos-program
+  CL!-PPC.CIA:
+    mimetype: text/plain
+  DRM-HAZ1.ASC:
+    mimetype: text/plain
+  DRM-HAZ2.ASC:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FZ-CTV.GST:
+    mimetype: text/plain
+  GJ-FRT.GST:
+    mimetype: text/plain
+  IS-EPITO.LGO:
+    mimetype: text/plain
+  IS-MELLO.LGO:
+    mimetype: text/plain
+  K1-SCRLZ.GST:
+    mimetype: text/plain
+  SC-DOA.CIA:
+    mimetype: text/plain
+  SD-COLI.LGO:
+    mimetype: text/plain
+  SD-COW.CIA:
+    mimetype: text/plain
+  SD-RAPPA.CIA:
+    mimetype: text/plain
+  SM-DOOM.CIA:
+    mimetype: text/plain
+  TNT-CIA.GST:
+    mimetype: text/plain
+  US-CW9.CIA:
+    mimetype: text/plain
+  US-SRRW.ASC:
+    mimetype: text/plain
+  WIRETAP.EXE:
+    mimetype: application/x-msdos-program

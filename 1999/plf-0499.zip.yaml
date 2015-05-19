@@ -1,0 +1,80 @@
+name: plf-0499.zip
+hash: ec787f912bdabec2ae5de84bab79aebc
+year: 1999
+file:
+  '%#!COVER.ANS':
+    mimetype: text/plain
+  '%#!NEWS.ANS':
+    mimetype: text/plain
+  '%BEE-PK.ANS':
+    mimetype: text/plain
+  13-7.ANS:
+    mimetype: text/plain
+  BYM-FMSH.ANS:
+    mimetype: text/plain
+  BYM-KILL.ANS:
+    mimetype: text/plain
+  DEV-CONT.ASC:
+    mimetype: text/plain
+  DEV-ESC.ASC:
+    mimetype: text/plain
+  DEV-GF.ASC:
+    mimetype: text/plain
+  DEV-MEL.ASC:
+    mimetype: text/plain
+  DEV-RMRS.ASC:
+    mimetype: text/plain
+  DEV-SOAP.ASC:
+    mimetype: text/plain
+  DEV-WERD.ASC:
+    mimetype: text/plain
+  EMK-A99.ASC:
+    mimetype: text/plain
+  EMK-ASC.ASC:
+    mimetype: text/plain
+  FEL-BLND.RIP:
+    mimetype: image/x-rip
+  FEL-PRO1.RIP:
+    mimetype: image/x-rip
+  FEL-PRO2.RIP:
+    mimetype: image/x-rip
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  K!AOD.ANS:
+    mimetype: text/plain
+  K!CURVE.ASC:
+    mimetype: text/plain
+  K!SHO5.RIP:
+    mimetype: image/x-rip
+  K!VILL5.ANS:
+    mimetype: text/plain
+  KIO-CTV.ANS:
+    mimetype: text/plain
+  NS-B2K1.RIP:
+    mimetype: image/x-rip
+  PK!BLEND.RIP:
+    mimetype: image/x-rip
+  PK!BWGRL.RIP:
+    mimetype: image/x-rip
+  PK!FSOL.RIP:
+    mimetype: image/x-rip
+  PK!NWFOR.RIP:
+    mimetype: image/x-rip
+  PK!SNOW.RIP:
+    mimetype: image/x-rip
+  US-LEMON.ANS:
+    mimetype: text/plain
+  US-VILLA.ANS:
+    mimetype: text/plain
+  ZM-AYE.ANS:
+    mimetype: text/plain
+  ZM-BAMBO.ANS:
+    mimetype: text/plain
+  ZM-BMAID.ANS:
+    mimetype: text/plain
+  ZM-FRESH.ANS:
+    mimetype: text/plain
+  ZM-LAME.ANS:
+    mimetype: text/plain
+  ZZ%#!END.ZZZ:
+    mimetype: text/plain

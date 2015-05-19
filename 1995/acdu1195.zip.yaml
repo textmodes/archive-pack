@@ -1,0 +1,56 @@
+name: acdu1195.zip
+hash: 27e38df98bd19c0413daddcde59d2f23
+year: 1995
+file:
+  ACDU1195.NFO:
+    mimetype: text/plain
+  ACID-TEE.GIF:
+    mimetype: image/gif
+  ACID-TEE.NFO:
+    mimetype: text/plain
+  ACID1095.ANS:
+    mimetype: text/plain
+  ACIDAPP.EXE:
+    mimetype: application/x-msdos-program
+  ACIDVIEW.EXE:
+    mimetype: application/x-msdos-program
+  ACIDVIEW.NFO:
+    mimetype: text/plain
+  BM-EGOD.RIP:
+    mimetype: image/x-rip
+  EO-DEM1.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GS-EVIL.ANS:
+    mimetype: text/plain
+  KO-KOSH.GIF:
+    mimetype: image/gif
+  NEWS1195.ANS:
+    mimetype: text/plain
+  NIT-CHAR.ANS:
+    mimetype: text/plain
+  P1-BADL1.GIF:
+    mimetype: image/gif
+  P1-EI1.GIF:
+    mimetype: image/gif
+  P1-HH.GIF:
+    mimetype: image/gif
+  P1-LAN.ANS:
+    mimetype: text/plain
+  P1-PZERO.ANS:
+    mimetype: text/plain
+  PG-GZERO.ANS:
+    mimetype: text/plain
+  SA-INTXC.ANS:
+    mimetype: text/plain
+  STC-ACD2.GIF:
+    mimetype: image/gif
+  STC-RN.ANS:
+    mimetype: text/plain
+  TRE-IOM4.ANS:
+    mimetype: text/plain
+  WE-WILL.SUE:
+    mimetype: text/plain
+  ZV-CCI.RIP:
+    mimetype: image/x-rip

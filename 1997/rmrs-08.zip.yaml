@@ -1,0 +1,112 @@
+name: rmrs-08.zip
+hash: 26179f8117f8096353733dbe8e502b4f
+year: 1997
+file:
+  3T-RMRS.ASC:
+    mimetype: text/plain
+  ACK-ACI1.ASC:
+    mimetype: text/plain
+  ACK-AFI1.ASC:
+    mimetype: text/plain
+  ACK-CRE1.ASC:
+    mimetype: text/plain
+  ACK-DEC1.ASC:
+    mimetype: text/plain
+  ACK-PAG1.ASC:
+    mimetype: text/plain
+  ACK-RAD3.ASC:
+    mimetype: text/plain
+  ACK-REM3.ASC:
+    mimetype: text/plain
+  ACK-S0N3.ASC:
+    mimetype: text/plain
+  ACK-TCG1.ASC:
+    mimetype: text/plain
+  C4-IAAT.ASC:
+    mimetype: text/plain
+  C4-NECRO.ASC:
+    mimetype: text/plain
+  DY-CF.ASC:
+    mimetype: text/plain
+  DY-CS.ANS:
+    mimetype: text/plain
+  DY-REMO.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GD-RMRS.ASC:
+    mimetype: text/plain
+  GD-WHY.ASC:
+    mimetype: text/plain
+  HP-DIZ.ASC:
+    mimetype: text/plain
+  KL-TD2.ASC:
+    mimetype: text/plain
+  KX-ANGEL.ANS:
+    mimetype: text/plain
+  KX-DEATH.ANS:
+    mimetype: text/plain
+  KX-ODDS.ASC:
+    mimetype: text/plain
+  NM-ABR.ASC:
+    mimetype: text/plain
+  NM-ASS.ASC:
+    mimetype: text/plain
+  NM-BACK.ASC:
+    mimetype: text/plain
+  NM-DEEP.ASC:
+    mimetype: text/plain
+  NM-DOWN.ASC:
+    mimetype: text/plain
+  NM-LAS.ASC:
+    mimetype: text/plain
+  NM-MOM.ASC:
+    mimetype: text/plain
+  NM-RMRS.ASC:
+    mimetype: text/plain
+  NM-RMRS2.ASC:
+    mimetype: text/plain
+  NM-STATS.ASC:
+    mimetype: text/plain
+  NM-TROOP.ASC:
+    mimetype: text/plain
+  NM-UFALL.ASC:
+    mimetype: text/plain
+  OM-ACK2.ASC:
+    mimetype: text/plain
+  OM-SW.ASC:
+    mimetype: text/plain
+  PM-LINES.ASC:
+    mimetype: text/plain
+  PM-PM.ASC:
+    mimetype: text/plain
+  R-DEBUT.TXT:
+    mimetype: text/plain
+  R-ITMOM.TXT:
+    mimetype: text/plain
+  R-NOSOUL.TXT:
+    mimetype: text/plain
+  R-TRYPT.TXT:
+    mimetype: text/plain
+  REMORSE.NFO:
+    mimetype: text/plain
+  SD-DEEP1.ASC:
+    mimetype: text/plain
+  TD-UG1.ASC:
+    mimetype: text/plain
+  TD-USE1.ASC:
+    mimetype: text/plain
+  TM-BDC.ASC:
+    mimetype: text/plain
+  TM-BITD.ASC:
+    mimetype: text/plain
+  TM-GENER.ASC:
+    mimetype: text/plain
+  TM-SODIU.ASC:
+    mimetype: text/plain
+  TM-TPC.ASC:
+    mimetype: text/plain
+  TM-WEEK.ASC:
+    mimetype: text/plain
+  US-JELLO.ANS:
+    mimetype: text/plain

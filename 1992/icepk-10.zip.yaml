@@ -1,0 +1,64 @@
+name: icepk-10.zip
+hash: 4507be630c8890adad24e60cf50238a8
+year: 1992
+file:
+  AM-ICE.ICE:
+    mimetype: text/plain
+  AM-TBG1.ICE:
+    mimetype: text/plain
+  AV.EXE:
+    mimetype: application/x-msdos-program
+  CONFIG.DAT:
+    mimetype: application/octet-stream
+  CY-CYB3.ICE:
+    mimetype: text/plain
+  ED-DNB.ICE:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FT-EL.ICE:
+    mimetype: text/plain
+  ICE10-92.MEM:
+    mimetype: text/plain
+  ICE10-92.SIT:
+    mimetype: text/plain
+  LM-LOGO.ICE:
+    mimetype: text/plain
+  LM-RIB.ICE:
+    mimetype: text/plain
+  MF-GH.ICE:
+    mimetype: text/plain
+  NM-BD.ICE:
+    mimetype: text/plain
+  NM-DNB.ICE:
+    mimetype: text/plain
+  NM-ICE.ICE:
+    mimetype: text/plain
+  NM-MAST.ICE:
+    mimetype: text/plain
+  QS-BITU.ICE:
+    mimetype: text/plain
+  RO-USTA1.ICE:
+    mimetype: text/plain
+  RO-USTA2.ICE:
+    mimetype: text/plain
+  RO-USTA3.ICE:
+    mimetype: text/plain
+  RO-USTA4.ICE:
+    mimetype: text/plain
+  ST-FLYT.ICE:
+    mimetype: text/plain
+  TF-CP.ICE:
+    mimetype: text/plain
+  TT-CIT4.ICE:
+    mimetype: text/plain
+  TT-HW.ICE:
+    mimetype: text/plain
+  TT-ICE.ZIP:
+    mimetype: application/zip
+  TT-KM.ICE:
+    mimetype: text/plain
+  TT-LZ.ICE:
+    mimetype: text/plain
+  TT-SHAN.ICE:
+    mimetype: text/plain

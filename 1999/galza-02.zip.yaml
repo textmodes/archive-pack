@@ -1,0 +1,40 @@
+name: galza-02.zip
+hash: 31377e81eeec742d0aa3e13cd767b4ff
+year: 1999
+file:
+  DEV-CONT.ANS:
+    mimetype: text/plain
+  DRN-WORK.TXT:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FLIGHT-2.ASC:
+    mimetype: text/plain
+  GALZA-02.NFO:
+    mimetype: text/plain
+  HRG-NFO.EXE:
+    mimetype: application/x-msdos-program
+  I_L-ILL.ASC:
+    mimetype: text/plain
+  I_L-WEB.ASC:
+    mimetype: text/plain
+  OM-COOK.ASC:
+    mimetype: text/plain
+  OM-JMBM.ASC:
+    mimetype: text/plain
+  OM-TRE.ASC:
+    mimetype: text/plain
+  OM-VPRO.ASC:
+    mimetype: text/plain
+  OM-VSY.ASC:
+    mimetype: text/plain
+  PHL-GLZ1.ASC:
+    mimetype: text/plain
+  PHL-ULTM.ASC:
+    mimetype: text/plain
+  US-BONSE.ASC:
+    mimetype: text/plain
+  US-GALZA.ANS:
+    mimetype: text/plain
+  ZS-GALZA.ASC:
+    mimetype: text/plain

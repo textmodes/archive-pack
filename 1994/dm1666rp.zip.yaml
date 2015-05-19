@@ -1,0 +1,14 @@
+name: dm1666rp.zip
+hash: 1d22a4b9c9ac0febfa968eaa5de3d600
+year: 1994
+file:
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  PATCH.EXE:
+    mimetype: application/x-msdos-program
+  PATCH.RTD:
+    mimetype: text/plain
+  PATCH.RTP:
+    mimetype: application/octet-stream
+  PATCHIT.BAT:
+    mimetype: application/x-msdos-program

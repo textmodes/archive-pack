@@ -1,0 +1,12 @@
+name: wx-020.zip
+hash: cf1b33963bf066faafa8771e888d2c44
+year: 1998
+file:
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  WX.APP:
+    mimetype: application/octet-stream
+  WX.NFO:
+    mimetype: text/plain
+  WX020-01.JPG:
+    mimetype: image/jpeg

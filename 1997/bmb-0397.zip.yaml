@@ -1,0 +1,86 @@
+name: bmb-0397.zip
+hash: 686e2a3a41afd085a4e14ad38a11809d
+year: 1997
+file:
+  --ANS--:
+    mimetype: application/octet-stream
+  --ASC--:
+    mimetype: application/octet-stream
+  --DIZ--:
+    mimetype: application/octet-stream
+  --EXE--:
+    mimetype: application/octet-stream
+  --NFO--:
+    mimetype: application/octet-stream
+  --VGA--:
+    mimetype: application/octet-stream
+  BMB-0397.NFO:
+    mimetype: text/plain
+  BMB-0397.NWS:
+    mimetype: text/plain
+  BMB-APP.EXE:
+    mimetype: application/x-msdos-program
+  DKL-0397.ASC:
+    mimetype: text/plain
+  DKL-ACR.ANS:
+    mimetype: text/plain
+  DKL-F.ANS:
+    mimetype: text/plain
+  DKL-SC.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  I!B-ANM2.ANS:
+    mimetype: text/plain
+  NOH-BLK.ANS:
+    mimetype: text/plain
+  NOH-BMB.ANS:
+    mimetype: text/plain
+  NOH-ESC.ANS:
+    mimetype: text/plain
+  NOH-FUN.ANS:
+    mimetype: text/plain
+  NOH-FUN1.ANS:
+    mimetype: text/plain
+  NOH-HYA.ANS:
+    mimetype: text/plain
+  NOH-HYA1.ANS:
+    mimetype: text/plain
+  NOH-NEO.ANS:
+    mimetype: text/plain
+  NOH-WHAT.ANS:
+    mimetype: text/plain
+  PHN-BONE.ANS:
+    mimetype: text/plain
+  PHN-DNA.ANS:
+    mimetype: text/plain
+  PHN-FTRS.ANS:
+    mimetype: text/plain
+  PHN-VIMN.ANS:
+    mimetype: text/plain
+  PYX-BMB.ANS:
+    mimetype: text/plain
+  PYX-YEAR.ANS:
+    mimetype: text/plain
+  ST-BMB.JPG:
+    mimetype: image/jpeg
+  TX!!BMB.ANS:
+    mimetype: text/plain
+  TX!1YR.ANS:
+    mimetype: text/plain
+  TX!BBS.ANS:
+    mimetype: text/plain
+  TX!BMB.ASC:
+    mimetype: text/plain
+  TX!BMB2.ASC:
+    mimetype: text/plain
+  TX!OI1.ASC:
+    mimetype: text/plain
+  TX!OI2.ASC:
+    mimetype: text/plain
+  TX!QUEND.ANS:
+    mimetype: text/plain
+  TX!SLAM.ANS:
+    mimetype: text/plain
+  US-BLISS.ANS:
+    mimetype: text/plain

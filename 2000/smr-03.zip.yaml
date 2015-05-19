@@ -1,0 +1,42 @@
+name: smr-03.zip
+hash: b2dc4c1bf4f022138f32aef5e3ed39a8
+year: 2000
+file:
+  AS-GBMAT.ANS:
+    mimetype: text/plain
+  AS-LITS.ANS:
+    mimetype: text/plain
+  AS-SMRDZ.ASC:
+    mimetype: text/plain
+  ASD-11.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  MJ-NGD2.JPG:
+    mimetype: image/jpeg
+  MJ-UNGUE.JPG:
+    mimetype: image/jpeg
+  MPH-BULL.ANS:
+    mimetype: text/plain
+  MPH-MTX.ANS:
+    mimetype: text/plain
+  MPH-NUP.ANS:
+    mimetype: text/plain
+  MPH-PAIN.ANS:
+    mimetype: text/plain
+  RMK-CU.ASC:
+    mimetype: text/plain
+  SMR-03.NFO:
+    mimetype: text/plain
+  SMR.APP:
+    mimetype: application/octet-stream
+  SMR.NFO:
+    mimetype: text/plain
+  SMR_LOGO.JPG:
+    mimetype: image/jpeg
+  XR-DOOM.ASC:
+    mimetype: text/plain
+  XR-SMR.ASC:
+    mimetype: text/plain
+  XR-WAR.ASC:
+    mimetype: text/plain

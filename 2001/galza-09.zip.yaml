@@ -1,0 +1,46 @@
+name: galza-09.zip
+hash: 44ea63b9f8ae04094f1c0e6bca8d06ab
+year: 2001
+file:
+  B-CHINA.ANS:
+    mimetype: text/plain
+  B-JAPAN.ANS:
+    mimetype: text/plain
+  B-VARGA.ANS:
+    mimetype: text/plain
+  CRS-DEN'.ASC:
+    mimetype: text/plain
+  CRS-JAC.ASC:
+    mimetype: text/plain
+  CRS-JTX.ASC:
+    mimetype: text/plain
+  CRS-NDJ.ANS:
+    mimetype: text/plain
+  CRS-OSEN.ANS:
+    mimetype: text/plain
+  CRS-PRZ.ASC:
+    mimetype: text/plain
+  CRS-S&K.ANS:
+    mimetype: text/plain
+  DIP-CARD.ASC:
+    mimetype: text/plain
+  DIP-GENI.ASC:
+    mimetype: text/plain
+  DIP-LOGI.ANS:
+    mimetype: text/plain
+  DIP-SLAC.ASC:
+    mimetype: text/plain
+  EL-PDX01.ASC:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GALZA-09.NFO:
+    mimetype: text/plain
+  OM-CHIEF.ASC:
+    mimetype: text/plain
+  SCZ-NEWS.ASC:
+    mimetype: text/plain
+  ULT-!SOA.ASC:
+    mimetype: text/plain
+  ULT-TRIX.ANS:
+    mimetype: text/plain

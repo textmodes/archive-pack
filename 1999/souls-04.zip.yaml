@@ -1,0 +1,24 @@
+name: souls-04.zip
+hash: 16b33ab9d2ed95ec5b890e823c9b8827
+year: 1999
+file:
+  bl-silen.rip:
+    mimetype: image/x-rip
+  bl_vamp.rip:
+    mimetype: image/x-rip
+  file_id.diz:
+    mimetype: text/plain
+  krl-jspm.rip:
+    mimetype: image/x-rip
+  krl-mdn3.rip:
+    mimetype: image/x-rip
+  krl-sls2.rip:
+    mimetype: image/x-rip
+  krl-vol1.rip:
+    mimetype: image/x-rip
+  ns-scrlz.rip:
+    mimetype: image/x-rip
+  souls-04.ans:
+    mimetype: text/plain
+  tg_souls.rip:
+    mimetype: image/x-rip

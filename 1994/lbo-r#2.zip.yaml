@@ -1,0 +1,72 @@
+name: lbo-r#2.zip
+hash: 41383fccc770d17ac14537b8ca24175a
+year: 1994
+file:
+  ANSIM.EXE:
+    mimetype: application/x-msdos-program
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FUN!.COM:
+    mimetype: application/x-msdos-program
+  LBO.ANS:
+    mimetype: text/plain
+  LBO_APPL.ANS:
+    mimetype: text/plain
+  TOP-7GST.ANS:
+    mimetype: text/plain
+  TOP-ALFA.ANS:
+    mimetype: text/plain
+  TOP-ATL4.ANS:
+    mimetype: text/plain
+  TOP-BDEV.ANS:
+    mimetype: text/plain
+  TOP-COC.ANS:
+    mimetype: text/plain
+  TOP-DA1.ANS:
+    mimetype: text/plain
+  TOP-DA4.ANS:
+    mimetype: text/plain
+  TOP-DA7.ANS:
+    mimetype: text/plain
+  TOP-DA8.ANS:
+    mimetype: text/plain
+  TOP-FUND.ANS:
+    mimetype: text/plain
+  TOP-HST1.ANS:
+    mimetype: text/plain
+  TOP-LBO1.ANS:
+    mimetype: text/plain
+  TOP-MNT2.ANS:
+    mimetype: text/plain
+  TOP-MSFT.ANS:
+    mimetype: text/plain
+  TOP-NFF.ANS:
+    mimetype: text/plain
+  TOP-OTL5.ANS:
+    mimetype: text/plain
+  TOP-OTL9.ANS:
+    mimetype: text/plain
+  TOP-RISC.ANS:
+    mimetype: text/plain
+  TOP-TND2.ANS:
+    mimetype: text/plain
+  TOP-VIRV.ANS:
+    mimetype: text/plain
+  WHS-7TH.ANS:
+    mimetype: text/plain
+  WHS-DA4.ANS:
+    mimetype: text/plain
+  WHS-FUN.ANS:
+    mimetype: text/plain
+  WHS-HST.ANS:
+    mimetype: text/plain
+  WHS-HST2.ANS:
+    mimetype: text/plain
+  WHS-HST3.ANS:
+    mimetype: text/plain
+  WHS-HST4.ANS:
+    mimetype: text/plain
+  WHS-MNT.ANS:
+    mimetype: text/plain
+  WHS-TMC.ANS:
+    mimetype: text/plain

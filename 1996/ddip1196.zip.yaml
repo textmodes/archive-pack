@@ -1,0 +1,64 @@
+name: ddip1196.zip
+hash: 8f1fe7f9347c4ba75aba051b89e283fb
+year: 1996
+file:
+  CHKLIST.MS:
+    mimetype: application/octet-stream
+  DDI-1196.NFO:
+    mimetype: text/plain
+  DDI1.EXE:
+    mimetype: application/x-msdos-program
+  DDIAPP.EXE:
+    mimetype: application/x-msdos-program
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  HP-1.ANS:
+    mimetype: text/plain
+  HP-2.ANS:
+    mimetype: text/plain
+  HP-02.ANS:
+    mimetype: text/plain
+  HP-3.ANS:
+    mimetype: text/plain
+  HP-03.ANS:
+    mimetype: text/plain
+  HP-04.ANS:
+    mimetype: text/plain
+  HP-5.ANS:
+    mimetype: text/plain
+  HP-06.ANS:
+    mimetype: text/plain
+  HP-7.ANS:
+    mimetype: text/plain
+  HP-BOMB.ANS:
+    mimetype: text/plain
+  HP-DDI1.ANS:
+    mimetype: text/plain
+  HP-DDID.ANS:
+    mimetype: text/plain
+  HP-DOTT.ANS:
+    mimetype: text/plain
+  HP-LOKO.ANS:
+    mimetype: text/plain
+  HP-MASK.ANS:
+    mimetype: text/plain
+  HP-MEDU.ANS:
+    mimetype: text/plain
+  HP-NEW.ANS:
+    mimetype: text/plain
+  HP-NOLAM.ANS:
+    mimetype: text/plain
+  HP-TEACH.ANS:
+    mimetype: text/plain
+  INFO.COM:
+    mimetype: application/x-msdos-program
+  VT-DDI.ANS:
+    mimetype: text/plain
+  VT-DDI1.ANS:
+    mimetype: text/plain
+  VT-LAOUT.ANS:
+    mimetype: text/plain
+  VT-REBEL.ANS:
+    mimetype: text/plain
+  WS_FTP.LOG:
+    mimetype: text/plain

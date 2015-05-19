@@ -1,0 +1,44 @@
+name: spe#01.zip
+hash: 8d2e096ca5407ec55098b2da110a946f
+year: 1996
+file:
+  DD.JPG:
+    mimetype: image/jpeg
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FR-SITE.ASC:
+    mimetype: text/plain
+  FR-SS.ASC:
+    mimetype: text/plain
+  IG-CRM.ANS:
+    mimetype: text/plain
+  IG-DL.ANS:
+    mimetype: text/plain
+  IG-DR.ANS:
+    mimetype: text/plain
+  IG-MTG.ANS:
+    mimetype: text/plain
+  IG-NFO.NFO:
+    mimetype: text/plain
+  IG-SP.ANS:
+    mimetype: text/plain
+  IG-STAB2.ANS:
+    mimetype: text/plain
+  MJ-MURRA.ANS:
+    mimetype: text/plain
+  MJ-ROD.ANS:
+    mimetype: text/plain
+  MJ-ST.ANS:
+    mimetype: text/plain
+  SPE-MEM.NFO:
+    mimetype: text/plain
+  SPE-NFO.NFO:
+    mimetype: text/plain
+  SPHERE1.JPG:
+    mimetype: image/jpeg
+  SPHR000A.GIF:
+    mimetype: image/gif
+  VIRTU.JPG:
+    mimetype: image/jpeg
+  VT_KEWL.JPG:
+    mimetype: image/jpeg

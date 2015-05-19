@@ -1,0 +1,24 @@
+name: wm-h_src.zip
+hash: 9bbc79ce8905dab1f25549ab906663ce
+year: 1994
+file:
+  CREDZ.INC:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  HSCOBJ.OBJ:
+    mimetype: application/octet-stream
+  IMAGINE.EXE:
+    mimetype: application/x-msdos-program
+  MAKE.BAT:
+    mimetype: application/x-msdos-program
+  NEO.COM:
+    mimetype: application/x-msdos-program
+  PUMP2.INC:
+    mimetype: text/plain
+  RAY09.DAT:
+    mimetype: text/plain
+  US-WEEN.EXE:
+    mimetype: application/x-msdos-program
+  WEEN.ASM:
+    mimetype: text/plain

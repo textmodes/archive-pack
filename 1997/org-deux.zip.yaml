@@ -1,0 +1,44 @@
+name: org-deux.zip
+hash: 52c796c255d3102aa586282ef813dded
+year: 1997
+file:
+  !!binary LS0t/0FETU4uLS0t:
+    mimetype: image/gif
+  !!binary LS0t/0NSQVAuLS0t:
+    mimetype: image/gif
+  !!binary LS0t/01JU0MuLS0t:
+    mimetype: image/gif
+  !!binary LS0t/1dPUksuLS0t:
+    mimetype: image/gif
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  HR-BRAIN.JPG:
+    mimetype: image/jpeg
+  HR-CHLCE.JPG:
+    mimetype: image/jpeg
+  HR-MDIAN.JPG:
+    mimetype: image/jpeg
+  HR-MURCP.JPG:
+    mimetype: image/jpeg
+  HR-ROSE.JPG:
+    mimetype: image/jpeg
+  NEWS0797.BAT:
+    mimetype: application/x-msdos-program
+  ORG-0797.DAT:
+    mimetype: text/plain
+  OV.EXE:
+    mimetype: application/x-msdos-program
+  STN-MUR.JPG:
+    mimetype: image/jpeg
+  VJ-FKSHT.JPG:
+    mimetype: image/jpeg
+  VJ-MUR.JPG:
+    mimetype: image/jpeg
+  VJ-POISN.JPG:
+    mimetype: image/jpeg
+  VJ-SAGE.JPG:
+    mimetype: image/jpeg
+  VJ-SOCIE.JPG:
+    mimetype: image/jpeg
+  VJ-WZRD8.JPG:
+    mimetype: image/jpeg

@@ -1,0 +1,98 @@
+name: avpack08.zip
+hash: 2c283026afb7ba29f2d0bda9a97c8b64
+year: 1996
+file:
+  -ADDS---.---:
+    mimetype: text/plain
+  -ANSI---.---:
+    mimetype: text/plain
+  -INFO---.---:
+    mimetype: text/plain
+  -VGA----.---:
+    mimetype: text/plain
+  AV-APP.EXE:
+    mimetype: application/x-msdos-program
+  AV-CARN.ANS:
+    mimetype: text/plain
+  AV96.EXE:
+    mimetype: application/x-msdos-program
+  AVVIEW96.NFO:
+    mimetype: text/plain
+  BA-DEST.ANS:
+    mimetype: text/plain
+  CONTENTS.AV:
+    mimetype: text/plain
+  DS-SCH1.ANS:
+    mimetype: text/plain
+  EN-BLZIP.ASC:
+    mimetype: text/plain
+  EN-EVIL.ANS:
+    mimetype: text/plain
+  EN-LUCKY.ANS:
+    mimetype: text/plain
+  EN-TRIP.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  HJZAEL01.J8Y:
+    mimetype: text/plain
+  HQ-DRM.ANS:
+    mimetype: text/plain
+  HQ-EWAR.ANS:
+    mimetype: text/plain
+  HQ-EWMNU.ANS:
+    mimetype: text/plain
+  HQ-GENO.ANS:
+    mimetype: text/plain
+  HQ-GRIF.BIN:
+    mimetype: text/x-binary
+  HQ-MID.ANS:
+    mimetype: text/plain
+  HQ-SOUTH.ANS:
+    mimetype: text/plain
+  INFO.AV:
+    mimetype: text/plain
+  IQ7FUFCD.COM:
+    mimetype: application/x-msdos-program
+  KRL-ANSI.ANS:
+    mimetype: text/plain
+  KRL-APV.BIN:
+    mimetype: text/x-binary
+  KRL-ASCI.ASC:
+    mimetype: text/plain
+  KRL-BL4.ANS:
+    mimetype: text/plain
+  KRL-DST3.ANS:
+    mimetype: text/plain
+  KRL-FGET.GIF:
+    mimetype: image/gif
+  KRL-O96A.GIF:
+    mimetype: image/gif
+  KRL-SHAD.ANS:
+    mimetype: text/plain
+  MEMBERS.AV:
+    mimetype: text/plain
+  NB-AV2.GIF:
+    mimetype: image/gif
+  NB-AV3.GIF:
+    mimetype: image/gif
+  NB-KWIKI.ANS:
+    mimetype: text/plain
+  NB-RFRCT.GIF:
+    mimetype: image/gif
+  R0RGFXVF.MYM:
+    mimetype: text/plain
+  SZ-ACID2.JPG:
+    mimetype: image/jpeg
+  SZ-DS.JPG:
+    mimetype: image/jpeg
+  SZ-INCUB.JPG:
+    mimetype: image/jpeg
+  SZ-OZ96!.BIN:
+    mimetype: text/plain
+  SZ-OZ96.JPG:
+    mimetype: image/jpeg
+  SZ-TDU.JPG:
+    mimetype: image/jpeg
+  SZ-ZOOK.JPG:
+    mimetype: image/jpeg

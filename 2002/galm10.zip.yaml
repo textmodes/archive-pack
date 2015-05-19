@@ -1,0 +1,50 @@
+name: galm10.zip
+hash: cd2b790f02f874b4c5ac7f3b0bf8e863
+year: 2002
+file:
+  galm10/ansi-ascii/BRDCST2.ANS:
+    mimetype: text/plain
+  galm10/ansi-ascii/GDJ.ANS:
+    mimetype: text/plain
+  galm10/ansi-ascii/Impure.asc:
+    mimetype: text/plain
+  galm10/ansi-ascii/MOHTUX.ANS:
+    mimetype: text/plain
+  galm10/ansi-ascii/NGRTJJ.ANS:
+    mimetype: text/plain
+  galm10/ansi-ascii/TNG^ma!.asc:
+    mimetype: text/plain
+  galm10/ansi-ascii/comp-ms.asc:
+    mimetype: text/plain
+  galm10/ansi-ascii/po-galm.asc:
+    mimetype: text/plain
+  galm10/file_id.diz:
+    mimetype: text/plain
+  galm10/filelist.txt:
+    mimetype: text/plain
+  galm10/galm.nfo:
+    mimetype: text/plain
+  galm10/galmzine/GALMZINE.NFO:
+    mimetype: text/plain
+  galm10/galmzine/GALMZINE.ZIP:
+    mimetype: application/zip
+  galm10/galmzine/file_id.diz:
+    mimetype: text/plain
+  galm10/gfx/BGC10.GIF:
+    mimetype: image/gif
+  galm10/gfx/xmas.gif:
+    mimetype: image/gif
+  galm10/tunes/arcade_neger.xm:
+    mimetype: audio/x-mod
+  galm10/tunes/justice.xm:
+    mimetype: audio/x-mod
+  galm10/tunes/nes_gniyalp.xm:
+    mimetype: audio/x-mod
+  galm10/tunes/quicky.mod:
+    mimetype: audio/x-mod
+  galm10/tunes/quicky2.mod:
+    mimetype: audio/x-mod
+  galm10/tunes/svinhuve.xm:
+    mimetype: audio/x-mod
+  galm10/tunes/tomater.mod:
+    mimetype: audio/x-mod

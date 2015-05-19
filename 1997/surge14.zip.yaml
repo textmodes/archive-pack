@@ -1,0 +1,66 @@
+name: surge14.zip
+hash: 4e40c5e9552092fa8918d41449aa8cff
+year: 1997
+file:
+  ANS2IRC.EXE:
+    mimetype: application/x-msdos-program
+  ANS2IRC.TXT:
+    mimetype: text/plain
+  BD-RIPS.ANS:
+    mimetype: text/plain
+  BD-RIPS.LOG:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  IMI-EH.ANS:
+    mimetype: text/plain
+  IMI-PRT.ANS:
+    mimetype: text/plain
+  MASCOT.JPG:
+    mimetype: image/jpeg
+  NF-LEGI.JPG:
+    mimetype: image/jpeg
+  NF-PURG.JPG:
+    mimetype: image/jpeg
+  O2-CLG~1.JPG:
+    mimetype: image/jpeg
+  O2-FORCE.JPG:
+    mimetype: image/jpeg
+  O2-SURGE.GIF:
+    mimetype: image/gif
+  RA-BOND.S3M:
+    mimetype: audio/x-mod
+  RA-SKLZ.RIP:
+    mimetype: image/x-rip
+  SN-AI.ASC:
+    mimetype: text/plain
+  SN-ASY.ANS:
+    mimetype: text/plain
+  SN-DESI.ANS:
+    mimetype: text/plain
+  SN-HF!.ASC:
+    mimetype: text/plain
+  SRG-CUL.TXT:
+    mimetype: text/plain
+  SRGAPP.EXE:
+    mimetype: application/x-msdos-program
+  STO-DENI.ANS:
+    mimetype: text/plain
+  STO-SRG.ANS:
+    mimetype: text/plain
+  SURGE14.NFO:
+    mimetype: text/plain
+  TR-CRIP.JPG:
+    mimetype: image/jpeg
+  TR-ICYJ.JPG:
+    mimetype: image/jpeg
+  TR-SRG.AVI:
+    mimetype: video/x-msvideo
+  TR-TNDG.JPG:
+    mimetype: image/jpeg
+  TR-UNC.JPG:
+    mimetype: image/jpeg
+  US-BAST.ANS:
+    mimetype: text/plain
+  ZL-HIGH.JPG:
+    mimetype: image/jpeg

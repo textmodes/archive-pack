@@ -1,0 +1,30 @@
+name: alt-13.zip
+hash: 8cc8287538360431856f5b42d0719c70
+year: 1994
+file:
+  BBS_AD.EXE:
+    mimetype: application/x-msdos-program
+  EZ4U2C.COM:
+    mimetype: application/x-msdos-program
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  NEO.COM:
+    mimetype: application/x-msdos-program
+  SUCKAGE.NFO:
+    mimetype: text/plain
+  TOOL.BIN:
+    mimetype: application/octet-stream
+  TOOL.DA0:
+    mimetype: text/plain
+  TOOL.DAT:
+    mimetype: text/plain
+  TOOL.EXE:
+    mimetype: application/x-msdos-program
+  TOOL.FNT:
+    mimetype: application/octet-stream
+  TOOL.MAP:
+    mimetype: application/octet-stream
+  TOOL.MOD:
+    mimetype: audio/x-mod
+  USAGE.NOT:
+    mimetype: text/plain

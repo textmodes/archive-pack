@@ -1,0 +1,42 @@
+name: galm14a.zip
+hash: 83a06600e4880b8de698fbf61ff139b8
+year: 2004
+file:
+  galm14a/ascii/el_-_acggbg.asc:
+    mimetype: text/plain
+  galm14a/ascii/el_-_krang.asc:
+    mimetype: text/plain
+  galm14a/ascii/el_-_moh.asc:
+    mimetype: text/plain
+  galm14a/ascii/el_-_mxd.asc:
+    mimetype: text/plain
+  galm14a/ascii/el_-_pp.asc:
+    mimetype: text/plain
+  galm14a/ascii/el_-_prone.asc:
+    mimetype: text/plain
+  galm14a/ascii/el_-_zerowing.asc:
+    mimetype: text/plain
+  galm14a/ascii/el_-_ziba.asc:
+    mimetype: text/plain
+  galm14a/ascii/el_pen_-_Dorph.ans:
+    mimetype: text/plain
+  galm14a/files.txt:
+    mimetype: text/plain
+  galm14a/galm14a.nfo:
+    mimetype: text/plain
+  galm14a/galmview.exe:
+    mimetype: application/x-msdos-program
+  galm14a/galmview.txt:
+    mimetype: text/plain
+  galm14a/tunes/alg-dhl.xm:
+    mimetype: audio/x-mod
+  galm14a/tunes/moh-back.xm:
+    mimetype: audio/x-mod
+  galm14a/tunes/moh-kantarell.xm:
+    mimetype: audio/x-mod
+  galm14a/tunes/moh-when.xm:
+    mimetype: audio/x-mod
+  galm14a/tunes/woffel-bytta.xm:
+    mimetype: audio/x-mod
+  galm14a/tunes/woffel-manque.xm:
+    mimetype: audio/x-mod

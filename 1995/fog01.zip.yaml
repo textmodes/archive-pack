@@ -1,0 +1,44 @@
+name: fog01.zip
+hash: f51dfc260995761859de1313a2aa26c2
+year: 1995
+file:
+  --DCMP--.COM:
+    mimetype: application/x-msdos-program
+  CR-COFTM.ANS:
+    mimetype: text/plain
+  CR-IP.ANS:
+    mimetype: text/plain
+  CR-RN.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FOG-0895.NFO:
+    mimetype: text/plain
+  FW-!!!!.ANS:
+    mimetype: text/plain
+  FW-4WD.ANS:
+    mimetype: text/plain
+  FW-DCAMP.ANS:
+    mimetype: text/plain
+  FW-FIGHT.ANS:
+    mimetype: text/plain
+  FW-FOG.ANS:
+    mimetype: text/plain
+  FW-GLX.ANS:
+    mimetype: text/plain
+  IF-EXTAS.ANS:
+    mimetype: text/plain
+  IF-FOG2.ANS:
+    mimetype: text/plain
+  IF-HLPB1.ANS:
+    mimetype: text/plain
+  IF-HLPB2.ANS:
+    mimetype: text/plain
+  IF-MM.GIF:
+    mimetype: image/gif
+  IF-PDM.GIF:
+    mimetype: image/gif
+  MH-SKY1.ANS:
+    mimetype: text/plain
+  MH-SKY3.ANS:
+    mimetype: text/plain

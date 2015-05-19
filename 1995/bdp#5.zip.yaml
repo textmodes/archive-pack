@@ -1,0 +1,18 @@
+name: bdp#5.zip
+hash: 8a648682f67f442f9cdf56dc59d22f9c
+year: 1995
+file:
+  BDPANS.ZIP:
+    mimetype: application/zip
+  BDPEXE.ZIP:
+    mimetype: application/zip
+  BDPLIT.ZIP:
+    mimetype: application/zip
+  BDPNFO.ZIP:
+    mimetype: application/zip
+  BDPVGA.ZIP:
+    mimetype: application/zip
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  NEO.COM:
+    mimetype: application/x-msdos-program

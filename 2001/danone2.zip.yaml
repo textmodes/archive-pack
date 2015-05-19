@@ -1,0 +1,44 @@
+name: danone2.zip
+hash: b996997453e449b28b829df99d0b228b
+year: 2001
+file:
+  DANONE2.TXT:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  L124-GOV.TXT:
+    mimetype: text/plain
+  MIKKRONE.ANS:
+    mimetype: text/plain
+  MODEL4X.XM:
+    mimetype: audio/x-mod
+  NO-FILEI.ASC:
+    mimetype: text/plain
+  NO-LFORM.TXT:
+    mimetype: text/plain
+  NO-LURE.ASC:
+    mimetype: text/plain
+  NO-PHLUI.ANS:
+    mimetype: text/plain
+  PHZ-EATS.ASC:
+    mimetype: text/plain
+  PHZ-FMMC.ASC:
+    mimetype: text/plain
+  PHZ-RNFO.ASC:
+    mimetype: text/plain
+  PHZ-SHIT.ASC:
+    mimetype: text/plain
+  PHZ-YO2.ASC:
+    mimetype: text/plain
+  R81DIZ.ASC:
+    mimetype: text/plain
+  RM-DANON.ASC:
+    mimetype: text/plain
+  RMX-RONI.ANS:
+    mimetype: text/plain
+  SHI-THIN.ASC:
+    mimetype: text/plain
+  US-CZYLI.ASC:
+    mimetype: text/plain
+  WHOISWHO.TXT:
+    mimetype: text/plain

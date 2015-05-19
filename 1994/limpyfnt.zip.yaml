@@ -1,0 +1,14 @@
+name: limpyfnt.zip
+hash: b159a87dfe39868629a1bf6f3d61b2de
+year: 1994
+file:
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FONTS.DOX:
+    mimetype: text/plain
+  KORT.NFO:
+    mimetype: text/plain
+  NEO.COM:
+    mimetype: application/x-msdos-program
+  TDFONTS.TDF:
+    mimetype: application/octet-stream

@@ -1,0 +1,84 @@
+name: aim-0003.zip
+hash: 91c0f8f1e47e82c111f8f376c94696c8
+year: 1995
+file:
+  !!binary +v9BTlNJ//ou/w==:
+    mimetype: application/octet-stream
+  !!binary +v9MSVT/+v8u/w==:
+    mimetype: application/octet-stream
+  !!binary +v9NSVND//ou/w==:
+    mimetype: application/octet-stream
+  !!binary +v9WR0H/+v8u/w==:
+    mimetype: application/octet-stream
+  AIM003.NFO:
+    mimetype: text/plain
+  AIMVUE.EXE:
+    mimetype: application/x-msdos-program
+  AS-3DMAN.EXE:
+    mimetype: application/x-msdos-program
+  BOARDS.NFO:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FX-PIPE1.ANS:
+    mimetype: text/plain
+  LC-AIM1.ANS:
+    mimetype: text/plain
+  LC-AURA1.ANS:
+    mimetype: text/plain
+  LC-LGN2.ANS:
+    mimetype: text/plain
+  LC-MAF.ANS:
+    mimetype: text/plain
+  LC-NAFTA.ANS:
+    mimetype: text/plain
+  LC-PIPE1.ANS:
+    mimetype: text/plain
+  LC-PPH1.ANS:
+    mimetype: text/plain
+  LC-RGMNU.ZIP:
+    mimetype: application/zip
+  LL-APRO1.ANS:
+    mimetype: text/plain
+  LL-LGN2.ANS:
+    mimetype: text/plain
+  LR-ARTIS.LIT:
+    mimetype: text/plain
+  LR-BATTL.LIT:
+    mimetype: text/plain
+  LR-ESCAP.LIT:
+    mimetype: text/plain
+  LR-RAV.LIT:
+    mimetype: text/plain
+  MEMBERS.NFO:
+    mimetype: text/plain
+  NEO.COM:
+    mimetype: application/x-msdos-program
+  PH-AIM.GIF:
+    mimetype: image/gif
+  PH-AXIS.GIF:
+    mimetype: image/gif
+  PH-BLACK.GIF:
+    mimetype: image/gif
+  PH-GAM.GIF:
+    mimetype: image/gif
+  PH-JIVE.GIF:
+    mimetype: image/gif
+  PH-MAINX.GIF:
+    mimetype: image/gif
+  PH-META.ANS:
+    mimetype: text/plain
+  PH-PIPE.ANS:
+    mimetype: text/plain
+  PH-SCO.GIF:
+    mimetype: image/gif
+  SX-AIM1.EXE:
+    mimetype: application/x-msdos-program
+  SX-HDC.ANS:
+    mimetype: text/plain
+  SX-OUT1.GIF:
+    mimetype: image/gif
+  TH-AIM.ANS:
+    mimetype: text/plain
+  VX-AIM1.GIF:
+    mimetype: image/gif

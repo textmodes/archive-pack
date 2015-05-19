@@ -1,0 +1,70 @@
+name: bm-pack4.zip
+hash: f8c3e748daa05998b907734ebcbdd017
+year: 1995
+file:
+  !!binary LS2vQU5TSa4uLS0=:
+    mimetype: text/plain
+  !!binary LS2vQVNDSUkuri0t:
+    mimetype: text/plain
+  !!binary LS2vQ09ERa4uLS0=:
+    mimetype: text/plain
+  !!binary LS2vTUVOVVMuri0t:
+    mimetype: text/plain
+  !!binary LS2vT1RIRVIuri0t:
+    mimetype: text/plain
+  !!binary LS2vVkdBri0uLQ==:
+    mimetype: text/plain
+  BB-ATOM.GIF:
+    mimetype: image/gif
+  BM_APP.EXE:
+    mimetype: application/x-msdos-program
+  BMFONT.EXE:
+    mimetype: application/x-msdos-program
+  DIST_APP.EXE:
+    mimetype: application/x-msdos-program
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  !!binary RklMRV9JRP8uREla:
+    mimetype: text/plain
+  PROLOGUE.EXE:
+    mimetype: application/x-msdos-program
+  RG-BM.ASC:
+    mimetype: text/plain
+  RG-BMLGO.ASC:
+    mimetype: text/plain
+  TX-BM5.GIF:
+    mimetype: image/gif
+  TX-BM6.GIF:
+    mimetype: image/gif
+  TX-BM10.JPG:
+    mimetype: image/jpeg
+  VC-ATLAN.ANS:
+    mimetype: text/plain
+  VC-BABE.ANS:
+    mimetype: text/plain
+  VC-BM.ASC:
+    mimetype: text/plain
+  VC-BM2.ASC:
+    mimetype: text/plain
+  VC-BRAIN.ASC:
+    mimetype: text/plain
+  VC-BTMAN.GIF:
+    mimetype: image/gif
+  VC-DZONE.ZIP:
+    mimetype: application/zip
+  VC-ELF.ANS:
+    mimetype: text/plain
+  VC-ELFG.ASC:
+    mimetype: text/plain
+  VC-FORCE.GIF:
+    mimetype: image/gif
+  VC-LIST.ANS:
+    mimetype: text/plain
+  VC-STNED.JPG:
+    mimetype: image/jpeg
+  VC-WARP.ANS:
+    mimetype: text/plain
+  VC-WAVE.GIF:
+    mimetype: image/gif
+  VC-ZENL.ANS:
+    mimetype: text/plain

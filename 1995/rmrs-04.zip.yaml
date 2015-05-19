@@ -1,0 +1,184 @@
+name: rmrs-04.zip
+hash: 43884bc4d98ecedf59f3a9375ea1a13c
+year: 1995
+file:
+  AS-BBOX.ASC:
+    mimetype: text/plain
+  AS-CRAN.ASC:
+    mimetype: text/plain
+  AS-DC.ASC:
+    mimetype: text/plain
+  AS-RUST.ASC:
+    mimetype: text/plain
+  AS-UF.ASC:
+    mimetype: text/plain
+  AY-SBZ1.ASC:
+    mimetype: text/plain
+  CA-DRKS1.ANS:
+    mimetype: text/plain
+  CA-ERE1.ANS:
+    mimetype: text/plain
+  CA-FW1.ANS:
+    mimetype: text/plain
+  CA-INRTB.ANS:
+    mimetype: text/plain
+  CA-SG1.ANS:
+    mimetype: text/plain
+  CA-XL1.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  HP-FCNFS.ANS:
+    mimetype: text/plain
+  HP-MAL1.ANS:
+    mimetype: text/plain
+  HP-REG1.ANS:
+    mimetype: text/plain
+  HP-REG2.ASC:
+    mimetype: text/plain
+  HP-RMRS6.ANS:
+    mimetype: text/plain
+  IM-01RMS.ANS:
+    mimetype: text/plain
+  IM-02RMS.ANS:
+    mimetype: text/plain
+  IM-03RMS.ANS:
+    mimetype: text/plain
+  KR-DBMNU.ASC:
+    mimetype: text/plain
+  KR-HL1.ASC:
+    mimetype: text/plain
+  KR-LOGO.ASC:
+    mimetype: text/plain
+  KR-REB1.ASC:
+    mimetype: text/plain
+  KX-ANGST.ASC:
+    mimetype: text/plain
+  KX-BYND.ASC:
+    mimetype: text/plain
+  KX-DMNN.ASC:
+    mimetype: text/plain
+  KX-DS.ASC:
+    mimetype: text/plain
+  KX-GLC9.ASC:
+    mimetype: text/plain
+  KX-GZ2.ASC:
+    mimetype: text/plain
+  KX-INFTY.ASC:
+    mimetype: text/plain
+  KX-JGNTH.ASC:
+    mimetype: text/plain
+  KX-MD.ASC:
+    mimetype: text/plain
+  KX-MLFS.ASC:
+    mimetype: text/plain
+  KX-PRDG.ASC:
+    mimetype: text/plain
+  KX-PRST.ASC:
+    mimetype: text/plain
+  KX-REZ.ASC:
+    mimetype: text/plain
+  KX-RMRS.ASC:
+    mimetype: text/plain
+  KX-SUB0.ASC:
+    mimetype: text/plain
+  KX-SUNY.ASC:
+    mimetype: text/plain
+  KX-SYS1.ASC:
+    mimetype: text/plain
+  KX-TMMH.ASC:
+    mimetype: text/plain
+  KX-WM.ASC:
+    mimetype: text/plain
+  OG-JHD.ASC:
+    mimetype: text/plain
+  OG-SAB.ASC:
+    mimetype: text/plain
+  OM-LCE1.ASC:
+    mimetype: text/plain
+  OM-MAL1.ASC:
+    mimetype: text/plain
+  OM-MDL1.ASC:
+    mimetype: text/plain
+  OM-TDS1.ASC:
+    mimetype: text/plain
+  OM-TRN1.ASC:
+    mimetype: text/plain
+  OM-UNSF1.ASC:
+    mimetype: text/plain
+  OM-UPT1.ASC:
+    mimetype: text/plain
+  REMORSE.NFO:
+    mimetype: text/plain
+  SK-FFEJ.ASC:
+    mimetype: text/plain
+  SP-PLX.ANS:
+    mimetype: text/plain
+  WD-AC.ASC:
+    mimetype: text/plain
+  WD-AW.ASC:
+    mimetype: text/plain
+  WD-BR.ASC:
+    mimetype: text/plain
+  WD-BS.ANS:
+    mimetype: text/plain
+  WD-CF.ASC:
+    mimetype: text/plain
+  WD-CIA.ASC:
+    mimetype: text/plain
+  WD-DTM1.ASC:
+    mimetype: text/plain
+  WD-DTM2.ASC:
+    mimetype: text/plain
+  WD-MLFS.ASC:
+    mimetype: text/plain
+  WD-NL.ASC:
+    mimetype: text/plain
+  WD-NW.ASC:
+    mimetype: text/plain
+  WD-OD.ASC:
+    mimetype: text/plain
+  WD-OK.ASC:
+    mimetype: text/plain
+  WD-PIN.ASC:
+    mimetype: text/plain
+  WD-RMRS.ANS:
+    mimetype: text/plain
+  WD-SKA.ASC:
+    mimetype: text/plain
+  WD-SW.ASC:
+    mimetype: text/plain
+  WD-TFG.ASC:
+    mimetype: text/plain
+  WD-TMMH.ASC:
+    mimetype: text/plain
+  WD-TR.ASC:
+    mimetype: text/plain
+  WJ-BK.ASC:
+    mimetype: text/plain
+  WJ-CS1.ASC:
+    mimetype: text/plain
+  WJ-EMI4.ASC:
+    mimetype: text/plain
+  WJ-NH1.ASC:
+    mimetype: text/plain
+  WJ-NL1.ASC:
+    mimetype: text/plain
+  WJ-OUT.ASC:
+    mimetype: text/plain
+  WJ-PC1.ASC:
+    mimetype: text/plain
+  WJ-PR1.ASC:
+    mimetype: text/plain
+  WJ-REM1.ASC:
+    mimetype: text/plain
+  WJ-REM2.ASC:
+    mimetype: text/plain
+  WJ-SC2.ASC:
+    mimetype: text/plain
+  WJ-SLUMZ.ASC:
+    mimetype: text/plain
+  WJ-TEC3.ASC:
+    mimetype: text/plain
+  WJ-TGT1.ASC:
+    mimetype: text/plain

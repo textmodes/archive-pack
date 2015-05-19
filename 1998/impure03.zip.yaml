@@ -1,0 +1,74 @@
+name: impure03.zip
+hash: 7064aec21f6ba76cca5d17d75a486d53
+year: 1998
+file:
+  BFR-SUCK.IMP:
+    mimetype: text/plain
+  ESC-BDAY.IMP:
+    mimetype: text/plain
+  ESC-CHRO.IMP:
+    mimetype: text/plain
+  ESC-INF.IMP:
+    mimetype: application/octet-stream
+  ESC-LQID.IMP:
+    mimetype: text/plain
+  ESC-PAGE.IMP:
+    mimetype: text/plain
+  ESC-PGE2.IMP:
+    mimetype: text/plain
+  ESD-GLUE.IMP:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  IMP-APP.EXE:
+    mimetype: application/x-msdos-program
+  IMP-MEM.003:
+    mimetype: text/plain
+  IMP-VIEW.EXE:
+    mimetype: application/x-msdos-program
+  IMPQUEST.003:
+    mimetype: text/plain
+  INF-WOE.IMP:
+    mimetype: text/plain
+  JP-SPNK.IMP:
+    mimetype: text/plain
+  MR-AMN.IMP:
+    mimetype: application/octet-stream
+  MTH-IMP1.IMP:
+    mimetype: text/plain
+  MTH-IMP2.IMP:
+    mimetype: text/plain
+  PO!@ASYL.IMP:
+    mimetype: text/plain
+  PO!@DIZC.IMP:
+    mimetype: application/octet-stream
+  PO!@IMP1.IMP:
+    mimetype: text/plain
+  PO!@IMP3.IMP:
+    mimetype: text/plain
+  PO!@IMPV.IMP:
+    mimetype: text/plain
+  PO!@PHB1.IMP:
+    mimetype: text/plain
+  PO!@PHB2.IMP:
+    mimetype: text/plain
+  PO!@PLSH.IMP:
+    mimetype: text/plain
+  PO!@PURG.IMP:
+    mimetype: text/plain
+  PO!@TMAG.IMP:
+    mimetype: text/plain
+  SG-SPNK.IMP:
+    mimetype: text/plain
+  TD-IMPUR.IMP:
+    mimetype: text/plain
+  VA-WZ.IMP:
+    mimetype: text/plain
+  XZ-CRIME.IMP:
+    mimetype: text/plain
+  XZ-DIGI.IMP:
+    mimetype: text/plain
+  XZ-VIRUS.IMP:
+    mimetype: application/octet-stream
+  XZ-ZIPPY.IMP:
+    mimetype: text/plain

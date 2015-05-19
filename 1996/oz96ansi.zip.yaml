@@ -1,0 +1,30 @@
+name: oz96ansi.zip
+hash: 0a468ffc5245ac3789e29cd67be94c5f
+year: 1996
+file:
+  '%KUUL%':
+    mimetype: text/plain
+  BA-COMPO.ANS:
+    mimetype: text/plain
+  DV-TURT.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  HARL01.ANS:
+    mimetype: text/plain
+  HARL02.ANS:
+    mimetype: text/plain
+  KRL-OZ96.ANS:
+    mimetype: text/plain
+  MW-KWEST.ANS:
+    mimetype: text/plain
+  OZ96-KPT.ANS:
+    mimetype: text/plain
+  SKULL3.ANS:
+    mimetype: text/plain
+  SZ-DRAGN.BIN:
+    mimetype: application/octet-stream
+  nme_1.bin:
+    mimetype: application/octet-stream
+  nme_2.ans:
+    mimetype: text/plain

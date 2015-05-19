@@ -1,0 +1,90 @@
+name: blde9505.zip
+hash: 2df912777c5f10ec85a060502d344d09
+year: 1995
+file:
+  !!binary +fn5+UFOU/ku+fn5:
+    mimetype: text/plain
+  !!binary +fn5+UFTQ/ku+fn5:
+    mimetype: text/plain
+  !!binary +fn5+UVYRfku+fn5:
+    mimetype: text/plain
+  !!binary +fn5+UxJVPku+fn5:
+    mimetype: text/plain
+  !!binary +fn5+U1VU/ku+fn5:
+    mimetype: text/plain
+  !!binary +fn5+U5GT/ku+fn5:
+    mimetype: text/plain
+  !!binary +fn5+VZHQfku+fn5:
+    mimetype: text/plain
+  BLADEAPP.ZIP:
+    mimetype: application/zip
+  BLDE9505.GRT:
+    mimetype: text/plain
+  BLDE9505.MEM:
+    mimetype: text/plain
+  BLDE9505.NFO:
+    mimetype: text/plain
+  BLDE9505.SIT:
+    mimetype: text/plain
+  BV.EXE:
+    mimetype: application/x-msdos-program
+  CP-LEM.LIT:
+    mimetype: text/plain
+  EA-BURN.LIT:
+    mimetype: text/plain
+  EA-EPITA.LIT:
+    mimetype: text/plain
+  EA-REIGN.LIT:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GH-B95.ASC:
+    mimetype: text/plain
+  GH-FW1.ASC:
+    mimetype: text/plain
+  GH-INS1.ASC:
+    mimetype: text/plain
+  MC-BLDE!.ANS:
+    mimetype: text/plain
+  MC-TOF1.ANS:
+    mimetype: text/plain
+  MH-BLDE.GIF:
+    mimetype: image/gif
+  MK-AVGA9.ANS:
+    mimetype: text/plain
+  MK-C1.ANS:
+    mimetype: text/plain
+  MK-ELIX1.ANS:
+    mimetype: text/plain
+  MK-IMP1.ANS:
+    mimetype: text/plain
+  MK-INT1.ANS:
+    mimetype: text/plain
+  MK-INT2.ANS:
+    mimetype: text/plain
+  MP-BSLAP.ANS:
+    mimetype: text/plain
+  MP-BYE.LIT:
+    mimetype: text/plain
+  MP-BYND1.ANS:
+    mimetype: text/plain
+  MP-EQ1.ANS:
+    mimetype: text/plain
+  MP-EQ2.ANS:
+    mimetype: text/plain
+  MP-OBV4.ZIP:
+    mimetype: application/zip
+  MP-PRYR1.ANS:
+    mimetype: text/plain
+  MP-PURP.S3M:
+    mimetype: audio/x-mod
+  MP-RE1.ANS:
+    mimetype: text/plain
+  MP-WR1.ANS:
+    mimetype: text/plain
+  MR-BLDE2.S3M:
+    mimetype: audio/x-mod
+  MR-FUL.S3M:
+    mimetype: audio/x-mod
+  REQUEST.EXE:
+    mimetype: application/x-msdos-program

@@ -1,0 +1,90 @@
+name: wld9604a.zip
+hash: a89bed75946ba033c23b97904a2e56c0
+year: 1996
+file:
+  ARTICLE.NFO:
+    mimetype: text/plain
+  AZ-BAD.GIF:
+    mimetype: image/gif
+  AZ-BLND.GIF:
+    mimetype: image/gif
+  AZ-DOPE.GIF:
+    mimetype: image/gif
+  AZ-DRC.GIF:
+    mimetype: image/gif
+  AZ-ENEM2.GIF:
+    mimetype: image/gif
+  AZ-FRK03.GIF:
+    mimetype: image/gif
+  AZ-FRK04.GIF:
+    mimetype: image/gif
+  AZ-SKEL.GIF:
+    mimetype: image/gif
+  AZ-TVP.EXE:
+    mimetype: application/x-msdos-program
+  AZ-W4.GIF:
+    mimetype: image/gif
+  AZ-WWW.GIF:
+    mimetype: image/gif
+  AZCC-TWS.EXE:
+    mimetype: application/x-msdos-program
+  BORSTJES.EXE:
+    mimetype: application/x-msdos-program
+  BROEKJE.EXE:
+    mimetype: application/x-msdos-program
+  CP-DZ.WLD:
+    mimetype: text/plain
+  CP-INSO.WLD:
+    mimetype: text/plain
+  CR-DIR.WLD:
+    mimetype: text/plain
+  DC-BFMNU.WLD:
+    mimetype: text/plain
+  DC-CGMNU.WLD:
+    mimetype: text/plain
+  DC-COC.BIN:
+    mimetype: text/plain
+  DC-HTTE.WLD:
+    mimetype: text/plain
+  DC-VD.WLD:
+    mimetype: text/plain
+  DCCC-COC.EXE:
+    mimetype: application/x-msdos-program
+  DVIEW.EXE:
+    mimetype: application/x-msdos-program
+  DVIEW.HIS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GR-CRT.WLD:
+    mimetype: text/plain
+  HALLU1ST.COM:
+    mimetype: application/x-msdos-program
+  HOSTESS.TXT:
+    mimetype: text/plain
+  MO-ANGEL.WYL:
+    mimetype: text/plain
+  MO-THENI.WYL:
+    mimetype: text/plain
+  MO-URBAN.WYL:
+    mimetype: text/plain
+  NEWS9604.EXE:
+    mimetype: application/x-msdos-program
+  REQUEST.EXE:
+    mimetype: application/x-msdos-program
+  SM-BLAST.GIF:
+    mimetype: image/gif
+  SM-GUN.GIF:
+    mimetype: image/gif
+  SM-LOGO.GIF:
+    mimetype: image/gif
+  SM-SPARK.GIF:
+    mimetype: image/gif
+  WNET33.ZIP:
+    mimetype: application/zip
+  WYLD-APP.EXE:
+    mimetype: application/x-msdos-program
+  WYLDAPP.DAT:
+    mimetype: text/plain
+  WYLDPLAY.EXE:
+    mimetype: application/x-msdos-program

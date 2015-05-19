@@ -1,0 +1,16 @@
+name: dkb_n1.zip
+hash: 36ed90d35d64da10a8744fba9867e46e
+year: 1998
+file:
+  DKB.NFO:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  NEST.JPG:
+    mimetype: image/jpeg
+  RELEASES.LST:
+    mimetype: text/plain
+  !!binary VEhFt1lBUkQuTkZP:
+    mimetype: text/plain
+  tHEYARd.bbS:
+    mimetype: text/plain

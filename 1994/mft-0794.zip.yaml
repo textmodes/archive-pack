@@ -1,0 +1,82 @@
+name: mft-0794.zip
+hash: f81e0a53619b9d202d1dad10fa2e0a89
+year: 1994
+file:
+  BB-MFT.ANS:
+    mimetype: text/plain
+  DB-GRID.ANS:
+    mimetype: text/plain
+  DB-NN.ANS:
+    mimetype: text/plain
+  DE-GANJA.EXE:
+    mimetype: application/x-msdos-program
+  DE-MF.EXE:
+    mimetype: application/x-msdos-program
+  DE-MF1.EXE:
+    mimetype: application/x-msdos-program
+  DE-MFT1.EXE:
+    mimetype: application/x-msdos-program
+  DE-MFT2.EXE:
+    mimetype: application/x-msdos-program
+  DE-MFT3.EXE:
+    mimetype: application/x-msdos-program
+  DE-NN.EXE:
+    mimetype: application/x-msdos-program
+  DE-ONYX.EXE:
+    mimetype: application/x-msdos-program
+  DE-SUCK.EXE:
+    mimetype: application/x-msdos-program
+  DE-TCE.EXE:
+    mimetype: application/x-msdos-program
+  FA-CAB1.ANS:
+    mimetype: text/plain
+  FA-NEC1.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FMC-MGTO.GIF:
+    mimetype: image/gif
+  FMC-SILC.GIF:
+    mimetype: image/gif
+  GB-EL112.ANS:
+    mimetype: text/plain
+  GB-HMOON.ANS:
+    mimetype: text/plain
+  INFOFORM.ZIP:
+    mimetype: application/zip
+  INTPAK01.ZIP:
+    mimetype: application/zip
+  LO-11TH.ANS:
+    mimetype: text/plain
+  LY-MFT.ANS:
+    mimetype: text/plain
+  LY-WS.ANS:
+    mimetype: text/plain
+  MFT-0794.MEM:
+    mimetype: text/plain
+  MFT-0794.NFO:
+    mimetype: text/plain
+  MFTAPP.EXE:
+    mimetype: application/x-msdos-program
+  MFTVIEW.EXE:
+    mimetype: application/x-msdos-program
+  NEOTOKYO.ANS:
+    mimetype: text/plain
+  PD-451.ANS:
+    mimetype: text/plain
+  PD-BL2.RIP:
+    mimetype: image/x-rip
+  PD-CULT.RIP:
+    mimetype: image/x-rip
+  PD-F451.RIP:
+    mimetype: image/x-rip
+  PD-ILL.ANS:
+    mimetype: text/plain
+  THEDRAW.PCK:
+    mimetype: application/octet-stream
+  TJ-JAP1.RIP:
+    mimetype: image/x-rip
+  ZH-PR1.ANS:
+    mimetype: text/plain
+  ZH-PR2.ANS:
+    mimetype: text/plain

@@ -1,0 +1,70 @@
+name: wkd-0896.zip
+hash: ce3d7f3e7a631a848534bed2e4254fbf
+year: 1996
+file:
+  BATTLE01.WKD:
+    mimetype: text/plain
+  BATTLE02.WKD:
+    mimetype: text/plain
+  BM-DV.S3M:
+    mimetype: audio/x-mod
+  CD-896AC.WKD:
+    mimetype: text/plain
+  CS-896LC.WKD:
+    mimetype: text/plain
+  D-VOICES.EXE:
+    mimetype: application/x-msdos-program
+  DS-896LC.WKD:
+    mimetype: text/plain
+  EV-896AC.WKD:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FS-896AC.WKD:
+    mimetype: text/plain
+  FS-CAR.S3M:
+    mimetype: audio/x-mod
+  ID-WKDPR.WKD:
+    mimetype: text/plain
+  IS-896AC.WKD:
+    mimetype: text/plain
+  IZ-896AC.WKD:
+    mimetype: text/plain
+  LA-896AC.WKD:
+    mimetype: text/plain
+  LF-896AC.WKD:
+    mimetype: text/plain
+  MAD-WKD1.JPG:
+    mimetype: image/jpeg
+  MEMBER.LST:
+    mimetype: application/octet-stream
+  MI-896AC.WKD:
+    mimetype: text/plain
+  PH-896AC.WKD:
+    mimetype: text/plain
+  RAVWKD.S3M:
+    mimetype: audio/x-mod
+  RC-896AC.WKD:
+    mimetype: text/plain
+  RM-896AC.WKD:
+    mimetype: text/plain
+  SHA-DSCA.JPG:
+    mimetype: image/jpeg
+  SHA-WKD2.JPG:
+    mimetype: image/jpeg
+  SK-896AC.WKD:
+    mimetype: text/plain
+  SP-896AC.WKD:
+    mimetype: text/plain
+  TM-896AC.WKD:
+    mimetype: text/plain
+  TZ-896AC.WKD:
+    mimetype: text/plain
+  VOICES.TXT:
+    mimetype: text/plain
+  WELCOME.3:
+    mimetype: text/plain
+  WICKED.NFO:
+    mimetype: text/plain
+  WKDVIEW.EXE:
+    mimetype: application/x-msdos-program

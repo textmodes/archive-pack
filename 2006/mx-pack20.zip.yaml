@@ -1,0 +1,66 @@
+name: mx-pack20.zip
+hash: 39ea141d05ac9c047c76095e4299fdcf
+year: 2006
+file:
+  ASCII/MX-ADS.ASC:
+    mimetype: text/plain
+  ASCII/MX-BC.ASC:
+    mimetype: text/plain
+  ASCII/MX-BF1.ASC:
+    mimetype: text/plain
+  ASCII/MX-CRL2.ASC:
+    mimetype: text/plain
+  ASCII/MX-DRAFT.ASC:
+    mimetype: text/plain
+  ASCII/MX-LNR.ASC:
+    mimetype: text/plain
+  ASCII/MX-MV1.ASC:
+    mimetype: text/plain
+  ASCII/MX-MV2.ASC:
+    mimetype: text/plain
+  ASCII/MX-PDB.ASC:
+    mimetype: text/plain
+  ASCII/MX-RIT.DIZ:
+    mimetype: text/plain
+  ASCII/MX-TE.ASC:
+    mimetype: text/plain
+  ASCII/MX-TE1.DIZ:
+    mimetype: text/plain
+  ASCII/MX-TRB.ASC:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  HIREZ/mx-codebros-logo.jpg:
+    mimetype: image/jpeg
+  HIREZ/mx-crisis-logo1.jpg:
+    mimetype: image/jpeg
+  HIREZ/mx-flashtro-site-logo.jpg:
+    mimetype: image/jpeg
+  HIREZ/mx-green-alien.png:
+    mimetype: image/png
+  HIREZ/mx-happy-new-2006-year.jpg:
+    mimetype: image/jpeg
+  HIREZ/mx-kaze-logo1.jpg:
+    mimetype: image/jpeg
+  HIREZ/mx-la-familia-logo.png:
+    mimetype: image/png
+  HIREZ/mx-nia.jpg:
+    mimetype: image/jpeg
+  HIREZ/mx-olivier-logo.jpg:
+    mimetype: image/jpeg
+  HIREZ/mx-opusAMP-v1-olive.png:
+    mimetype: image/png
+  HIREZ/mx-orgasming-logo.png:
+    mimetype: image/png
+  HIREZ/mx-te-logo1.jpg:
+    mimetype: image/jpeg
+  HIREZ/mx-what-you-mean-to-me.jpg:
+    mimetype: image/jpeg
+  HIREZ/mx-xeek-bday-logo.jpg:
+    mimetype: image/jpeg
+  HIREZ/mx-xeek-logo.png:
+    mimetype: image/png
+  HIREZ/wd.jpg:
+    mimetype: image/jpeg
+  MAXXTRO.NFO:
+    mimetype: text/plain

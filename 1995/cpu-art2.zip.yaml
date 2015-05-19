@@ -1,0 +1,56 @@
+name: cpu-art2.zip
+hash: e8deb65dd51464f89be63b6f272c5a89
+year: 1995
+file:
+  BENORMAL.HSC:
+    mimetype: application/octet-stream
+  BORED.HSC:
+    mimetype: application/octet-stream
+  CPU-ART2.TXT:
+    mimetype: text/plain
+  CPU4.GIF:
+    mimetype: image/gif
+  CPU5.ANS:
+    mimetype: text/plain
+  CPU5.GIF:
+    mimetype: image/gif
+  CPU6.GIF:
+    mimetype: image/gif
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  HAMMOND.HSC:
+    mimetype: application/octet-stream
+  L84U.HSC:
+    mimetype: application/octet-stream
+  NITERISE.HSC:
+    mimetype: application/octet-stream
+  OPERAH.HSC:
+    mimetype: application/octet-stream
+  QNO-HELO.DMF:
+    mimetype: application/octet-stream
+  RAGGER.HSC:
+    mimetype: application/octet-stream
+  RAINBOW.HSC:
+    mimetype: application/octet-stream
+  RETURN.HSC:
+    mimetype: application/octet-stream
+  SATNIGHT.HSC:
+    mimetype: application/octet-stream
+  SHELTER.HSC:
+    mimetype: application/octet-stream
+  SKYWALK.HSC:
+    mimetype: application/octet-stream
+  SP-FMOVE.DMF:
+    mimetype: application/octet-stream
+  SP-TFORM.DMF:
+    mimetype: application/octet-stream
+  SPIEGEL.HSC:
+    mimetype: application/octet-stream
+  SUMERFUN.HSC:
+    mimetype: application/octet-stream
+  TAKE_IT.HSC:
+    mimetype: application/octet-stream
+  TH-NAZGL.MOD:
+    mimetype: audio/x-mod
+  TH-ORKS.MOD:
+    mimetype: audio/x-mod

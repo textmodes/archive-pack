@@ -1,0 +1,38 @@
+name: 2kadultr.zip
+hash: 34a565cc1f36069c3f0e1099e093794e
+year: 1994
+file:
+  -C-O-B-:
+    mimetype: text/plain
+  2000AD.NFO:
+    mimetype: text/plain
+  CYBOCULT.ULT:
+    mimetype: audio/x-mod
+  DATA.BIN:
+    mimetype: application/octet-stream
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  KEY_LIST.TXT:
+    mimetype: text/plain
+  README.TXT:
+    mimetype: text/plain
+  REGISTER.TXT:
+    mimetype: text/plain
+  SUPPORT.UT:
+    mimetype: text/plain
+  ULT_FORM.TXT:
+    mimetype: text/plain
+  ULTRA.DOC:
+    mimetype: text/plain
+  ULTRA.EXE:
+    mimetype: application/x-msdos-program
+  ULTRA.FAQ:
+    mimetype: text/plain
+  ULTRA_E.DOC:
+    mimetype: text/plain
+  ULTRA_E.REV:
+    mimetype: text/plain
+  UPDNEW.EXE:
+    mimetype: application/x-msdos-program
+  WHATSNEW.DIZ:
+    mimetype: text/plain

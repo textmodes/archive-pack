@@ -1,0 +1,32 @@
+name: tipspace.zip
+hash: 1086597eb942245281382e9dbd6b1cd2
+year: 1998
+file:
+  0076.JPG:
+    mimetype: image/jpeg
+  AAV1.JPG:
+    mimetype: image/jpeg
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  LOGO.JPG:
+    mimetype: image/jpeg
+  OFSEVEN.TXT:
+    mimetype: text/plain
+  RAINSPC.MID:
+    mimetype: audio/midi
+  READ.ME:
+    mimetype: text/plain
+  RING1.JPG:
+    mimetype: image/jpeg
+  RISKFA3.MID:
+    mimetype: audio/midi
+  SCOUT2B.JPG:
+    mimetype: image/jpeg
+  SHIP1.JPG:
+    mimetype: image/jpeg
+  TAKEOFF1.JPG:
+    mimetype: image/jpeg
+  TREKGRV0.ZIP:
+    mimetype: application/zip
+  WAITING.MID:
+    mimetype: audio/midi

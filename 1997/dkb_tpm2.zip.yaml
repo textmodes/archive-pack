@@ -1,0 +1,42 @@
+name: dkb_tpm2.zip
+hash: d5cd8fd1994e38520f78af32dcceaa37
+year: 1997
+file:
+  DKB.NFO:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  kane1.jpg:
+    mimetype: image/jpeg
+  kane2.jpg:
+    mimetype: image/jpeg
+  kane3.jpg:
+    mimetype: image/jpeg
+  kane4.jpg:
+    mimetype: image/jpeg
+  kane5.jpg:
+    mimetype: image/jpeg
+  kane6.jpg:
+    mimetype: image/jpeg
+  kane7.jpg:
+    mimetype: image/jpeg
+  nrk.jpg:
+    mimetype: image/jpeg
+  time1.jpg:
+    mimetype: image/jpeg
+  time2.jpg:
+    mimetype: image/jpeg
+  time3.jpg:
+    mimetype: image/jpeg
+  time4.jpg:
+    mimetype: image/jpeg
+  time5.jpg:
+    mimetype: image/jpeg
+  time6.jpg:
+    mimetype: image/jpeg
+  timescot.jpg:
+    mimetype: image/jpeg
+  tpm-e2e.jpg:
+    mimetype: image/jpeg
+  twin.jpg:
+    mimetype: image/jpeg

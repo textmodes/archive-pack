@@ -1,0 +1,22 @@
+name: hefty.zip
+hash: f97e586c4b17da1293964f338c22242f
+year: 1993
+file:
+  ARJ.EXE:
+    mimetype: application/x-msdos-program
+  FAIC.APP:
+    mimetype: text/plain
+  FAICSITE.FAC:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  HEFTY.DOC:
+    mimetype: text/plain
+  HEFTY.EXE:
+    mimetype: application/x-msdos-program
+  HEFTY.OVL:
+    mimetype: application/octet-stream
+  HEFTY001.DAT:
+    mimetype: application/x-arj
+  HEFTY002.MOD:
+    mimetype: audio/x-mod

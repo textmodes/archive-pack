@@ -1,0 +1,122 @@
+name: ind1293.zip
+hash: 45a61e7396c3f174343dce308f7a7277
+year: 1993
+file:
+  AV-IND01.IND:
+    mimetype: text/plain
+  AV-RC.IND:
+    mimetype: text/plain
+  BALLS01.EXE:
+    mimetype: application/x-msdos-program
+  BB-DEL.IND:
+    mimetype: text/plain
+  BB-DIS.IND:
+    mimetype: text/plain
+  BB-IND.IND:
+    mimetype: text/plain
+  BB-MEM.IND:
+    mimetype: text/plain
+  BB-PRO.IND:
+    mimetype: text/plain
+  BOARDS.IND:
+    mimetype: text/plain
+  CB-LDR.EXE:
+    mimetype: application/x-msdos-program
+  CG-VGA01.GIF:
+    mimetype: image/gif
+  CG-VGA02.GIF:
+    mimetype: image/gif
+  DD-FS.IND:
+    mimetype: text/plain
+  DD-GEH.IND:
+    mimetype: text/plain
+  DD-HYCU.IND:
+    mimetype: text/plain
+  DD-IND.IND:
+    mimetype: text/plain
+  DD-IND2.IND:
+    mimetype: text/plain
+  DD-IND3.IND:
+    mimetype: text/plain
+  DD-INV.IND:
+    mimetype: text/plain
+  DIR1193.TXT:
+    mimetype: text/plain
+  EC-ABB.IND:
+    mimetype: text/plain
+  EC-DIN.IND:
+    mimetype: text/plain
+  EC-DREAM.IND:
+    mimetype: text/plain
+  EC-GATE.IND:
+    mimetype: text/plain
+  EC-IND.IND:
+    mimetype: text/plain
+  EC-IND2.IND:
+    mimetype: text/plain
+  EC-PSY.IND:
+    mimetype: text/plain
+  EC-SD.IND:
+    mimetype: text/plain
+  EC-SOE.IND:
+    mimetype: text/plain
+  ENIGMA4.IND:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FUN!.COM:
+    mimetype: application/x-msdos-program
+  FUNKSCRL.EXE:
+    mimetype: application/x-msdos-program
+  IND1193.NFO:
+    mimetype: text/plain
+  IND1293.NFO:
+    mimetype: text/plain
+  INDBETA.EXE:
+    mimetype: application/x-msdos-program
+  INDBLOW.EXE:
+    mimetype: application/x-msdos-program
+  INDDROP.EXE:
+    mimetype: application/x-msdos-program
+  INDGAMMA.EXE:
+    mimetype: application/x-msdos-program
+  INDPATHS.EXE:
+    mimetype: application/x-msdos-program
+  INDVGA.EXE:
+    mimetype: application/x-msdos-program
+  INDVIEW.CFG:
+    mimetype: text/plain
+  INDVIEW.EXE:
+    mimetype: application/x-msdos-program
+  INFO2.EXE:
+    mimetype: application/x-msdos-program
+  LUC-DIS.IND:
+    mimetype: text/plain
+  LUC-GODS.IND:
+    mimetype: application/octet-stream
+  LUC-UKN.IND:
+    mimetype: text/plain
+  MP-AD1.IND:
+    mimetype: text/plain
+  MP_MUERT.IND:
+    mimetype: text/plain
+  NOTDEAD.EXE:
+    mimetype: application/x-msdos-program
+  POINT.EXE:
+    mimetype: application/x-msdos-program
+  PR-HOLY.669:
+    mimetype: audio/x-mod
+  SM-CCI.IND:
+    mimetype: text/plain
+  TH-BUGS.IND:
+    mimetype: text/plain
+  TS-CH.IND:
+    mimetype: text/plain
+  TS-IND1.IND:
+    mimetype: text/plain
+  TS-IND2.IND:
+    mimetype: text/plain
+  TS-IND3.IND:
+    mimetype: text/plain
+  WL-IND1.MOD:
+    mimetype: audio/x-mod

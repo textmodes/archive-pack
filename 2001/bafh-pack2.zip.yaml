@@ -1,0 +1,148 @@
+name: bafh-pack2.zip
+hash: c7a8d513478c213e116a327aebff56be
+year: 2001
+file:
+  Bafh-asc2/BAFH.exe:
+    mimetype: application/x-msdos-program
+  Bafh-asc2/Bafh.nfo:
+    mimetype: text/plain
+  Bafh-asc2/Beyond Vision.txt:
+    mimetype: text/plain
+  Bafh-asc2/Bumax/Bumax-Elcast.asc:
+    mimetype: text/plain
+  Bafh-asc2/Bumax/Bumax-Ets.asc:
+    mimetype: text/plain
+  Bafh-asc2/Bumax/Bumax-Lc.asc:
+    mimetype: text/plain
+  Bafh-asc2/Bumax/Bumax-Ld.asc:
+    mimetype: text/plain
+  Bafh-asc2/Bumax/Bumax-Mce.asc:
+    mimetype: text/plain
+  Bafh-asc2/Darkshadow/Darkshadow-Eym.asc:
+    mimetype: text/plain
+  Bafh-asc2/Docjones/d!J-Dcore.asc:
+    mimetype: text/plain
+  Bafh-asc2/Docjones/d!J-Ego.ASC:
+    mimetype: text/plain
+  Bafh-asc2/Docjones/d!J-Midnight.asc:
+    mimetype: text/plain
+  Bafh-asc2/Docjones/d!J-Oa.asc:
+    mimetype: text/plain
+  Bafh-asc2/Docjones/d!J-Orion.ASC:
+    mimetype: text/plain
+  Bafh-asc2/Docjones/d!J-Repent.asc:
+    mimetype: text/plain
+  Bafh-asc2/Docjones/d!J-Rwh.asc:
+    mimetype: text/plain
+  Bafh-asc2/Docjones/d!J-Scs.ASC:
+    mimetype: text/plain
+  Bafh-asc2/Docjones/d!J-Svn.asc:
+    mimetype: text/plain
+  Bafh-asc2/Docjones/d!J-Vulcan.asc:
+    mimetype: text/plain
+  Bafh-asc2/File_id.diz:
+    mimetype: text/plain
+  Bafh-asc2/Fwenk/Fwenk-Ams.nfo:
+    mimetype: text/plain
+  Bafh-asc2/Fwenk/Fwenk-Bafh.nfo:
+    mimetype: text/plain
+  Bafh-asc2/Fwenk/Fwenk-Brob.nfo:
+    mimetype: text/plain
+  Bafh-asc2/Fwenk/Fwenk-Cl.nfo:
+    mimetype: text/plain
+  Bafh-asc2/Fwenk/Fwenk-Nikon.NFO:
+    mimetype: text/plain
+  Bafh-asc2/Fwenk/Fwenk-Odin.nfo:
+    mimetype: text/plain
+  Bafh-asc2/Fwenk/Fwenk-Period.nfo:
+    mimetype: text/plain
+  Bafh-asc2/Fwenk/Fwenk-Sr.nfo:
+    mimetype: text/plain
+  Bafh-asc2/Fwenk/Fwenk-Syndr.nfo:
+    mimetype: text/plain
+  Bafh-asc2/Fwenk/Fwenk-TSaint.nfo:
+    mimetype: text/plain
+  Bafh-asc2/Fwenk/Fwenk-Tcf.nfo:
+    mimetype: text/plain
+  Bafh-asc2/Fwenk/Fwenk-Xt.nfo:
+    mimetype: text/plain
+  Bafh-asc2/Guestartists/Mydgear-Bafh.asc:
+    mimetype: text/plain
+  Bafh-asc2/Guestartists/Teepak-Bafh.asc:
+    mimetype: text/plain
+  Bafh-asc2/Nothing/Nothing-Pti.nfo:
+    mimetype: text/plain
+  Bafh-asc2/Nothing/Nothing-Tegin.nfo:
+    mimetype: text/plain
+  Bafh-asc2/Nothing/Nothing-Titanvcd.nfo:
+    mimetype: text/plain
+  Bafh-asc2/Oma/Oma-Dangerzone.asc:
+    mimetype: text/plain
+  Bafh-asc2/Ri0t/Riot-Bmi.nfo:
+    mimetype: text/plain
+  Bafh-asc2/Ri0t/Riot-Bs.asc:
+    mimetype: text/plain
+  Bafh-asc2/Ri0t/Riot-China.nfo:
+    mimetype: text/plain
+  Bafh-asc2/Ri0t/Riot-Cod.asc:
+    mimetype: text/plain
+  Bafh-asc2/Ri0t/Riot-Da.nfo:
+    mimetype: text/plain
+  Bafh-asc2/Ri0t/Riot-Delirium.asc:
+    mimetype: text/plain
+  Bafh-asc2/Ri0t/Riot-Ego.nfo:
+    mimetype: text/plain
+  Bafh-asc2/Ri0t/Riot-Flx.asc:
+    mimetype: text/plain
+  Bafh-asc2/Ri0t/Riot-Hg.asc:
+    mimetype: text/plain
+  Bafh-asc2/Ri0t/Riot-Ms.nfo:
+    mimetype: text/plain
+  Bafh-asc2/Strick9/S9-Db0.nfo:
+    mimetype: text/plain
+  Bafh-asc2/Strick9/S9-Mfd.asc:
+    mimetype: text/plain
+  Bafh-asc2/Strick9/S9-Nord.asc:
+    mimetype: text/plain
+  Bafh-asc2/Strick9/S9-S7.asc:
+    mimetype: text/plain
+  Bafh-asc2/Strick9/S9-Slr.asc:
+    mimetype: text/plain
+  Bafh-asc2/Strick9/S9-War.asc:
+    mimetype: text/plain
+  Bafh-asc2/Unseenfate/U3-HKN.ASC:
+    mimetype: text/plain
+  Bafh-asc2/Unseenfate/Unseenfate-4th.asc:
+    mimetype: text/plain
+  Bafh-asc2/Unseenfate/Unseenfate-Clf.asc:
+    mimetype: text/plain
+  Bafh-asc2/Unseenfate/Unseenfate-Cnciso.asc:
+    mimetype: text/plain
+  Bafh-asc2/Unseenfate/Unseenfate-Gore.asc:
+    mimetype: text/plain
+  Bafh-asc2/Unseenfate/Unseenfate-Hkn.asc:
+    mimetype: text/plain
+  Bafh-asc2/Unseenfate/Unseenfate-Phs.ans:
+    mimetype: text/plain
+  Bafh-asc2/Unseenfate/Unseenfate-Prv.asc:
+    mimetype: text/plain
+  Bafh-asc2/Unseenfate/Unseenfate-Trk.asc:
+    mimetype: text/plain
+  Bafh-asc2/Zubfatal/zb-Anxs.asc:
+    mimetype: text/plain
+  Bafh-asc2/Zubfatal/zb-At.asc:
+    mimetype: text/plain
+  Bafh-asc2/Zubfatal/zb-Gas.asc:
+    mimetype: text/plain
+  Bafh-asc2/Zubfatal/zb-Wolf.asc:
+    mimetype: text/plain
+  Bafh-asc2/fatrabbit/fatrabbit-Cms.nfo:
+    mimetype: text/plain
+  Bafh-asc2/fatrabbit/fatrabbit-Ep.nfo:
+    mimetype: text/plain
+  Bafh-asc2/mRmiSta/mRmiSta-Bafh.nfo:
+    mimetype: text/plain
+  Bafh-asc2/mRmiSta/mRmiSta-Reactor.nfo:
+    mimetype: text/plain
+  Bafh-asc2/nfoview.exe:
+    mimetype: application/x-msdos-program

@@ -1,0 +1,104 @@
+name: axf-ap10.zip
+hash: 6d5eaf7c3491d56e7361b621b1e2c4a0
+year: 1996
+file:
+  AXF.NFO:
+    mimetype: text/plain
+  AXFINFO.EXE:
+    mimetype: application/x-msdos-program
+  AXIAL.APP:
+    mimetype: text/plain
+  D2-HH2.ANS:
+    mimetype: text/plain
+  D2-HOT.ASC:
+    mimetype: text/plain
+  D2-ILLO.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GR-WZLG.JPG:
+    mimetype: image/jpeg
+  IE-ELP.ASC:
+    mimetype: text/plain
+  IE-SEPTC.ASC:
+    mimetype: text/plain
+  MS-AXF1.JPG:
+    mimetype: image/jpeg
+  MS-AXF2.JPG:
+    mimetype: image/jpeg
+  MS-AXF3.JPG:
+    mimetype: image/jpeg
+  MS-AXF4.JPG:
+    mimetype: image/jpeg
+  MS-AXF5.JPG:
+    mimetype: image/jpeg
+  MS-AXF6.JPG:
+    mimetype: image/jpeg
+  MS-AXF7.JPG:
+    mimetype: image/jpeg
+  MS-AXF8.JPG:
+    mimetype: image/jpeg
+  MS-AXF9.JPG:
+    mimetype: image/jpeg
+  MS-HTP.JPG:
+    mimetype: image/jpeg
+  NEWS.AXF:
+    mimetype: text/plain
+  QZ-AXF1.JPG:
+    mimetype: image/jpeg
+  QZ-AXF2.JPG:
+    mimetype: image/jpeg
+  QZ-AXF3.JPG:
+    mimetype: image/jpeg
+  QZ-ELP.JPG:
+    mimetype: image/jpeg
+  QZ-ELP2.JPG:
+    mimetype: image/jpeg
+  QZ-MYM.JPG:
+    mimetype: image/jpeg
+  SB-COOL1.ANS:
+    mimetype: text/plain
+  SB-COOL2.ANS:
+    mimetype: text/plain
+  SB-DUST1.ANS:
+    mimetype: text/plain
+  SB-ELP.ANS:
+    mimetype: text/plain
+  SB-HTP.ASC:
+    mimetype: text/plain
+  SB-MORBI.ANS:
+    mimetype: text/plain
+  SB-RANDO.ANS:
+    mimetype: text/plain
+  SB-SOLAR.ANS:
+    mimetype: text/plain
+  SB-STAGE.ANS:
+    mimetype: text/plain
+  SW-ID2.ANS:
+    mimetype: text/plain
+  SW-IDHTP.ANS:
+    mimetype: text/plain
+  WM-AXF1.ANS:
+    mimetype: text/plain
+  WM-DCNFO.ASC:
+    mimetype: text/plain
+  WM-DIZ.ASC:
+    mimetype: text/plain
+  WM-MYA.ANS:
+    mimetype: text/plain
+  WM-NORD.ANS:
+    mimetype: text/plain
+  WM-PRIME.ANS:
+    mimetype: text/plain
+  WM-REALS.ANS:
+    mimetype: text/plain
+  WM-TECH.ANS:
+    mimetype: text/plain
+  WM-TRDIZ.ASC:
+    mimetype: text/plain
+  XS-DIZ.ASC:
+    mimetype: text/plain
+  ZEN.NFO:
+    mimetype: text/plain
+  ZR-DIZ.ASC:
+    mimetype: text/plain

@@ -1,0 +1,40 @@
+name: gel-004.zip
+hash: 3959309a63a07fcfd87641dd0a37f1ea
+year: 1997
+file:
+  CH-HDRS.ANS:
+    mimetype: text/plain
+  CH-LOGIN.ASC:
+    mimetype: text/plain
+  FAREA4IQ.ZIP:
+    mimetype: application/zip
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FMLSTF01.ZIP:
+    mimetype: application/zip
+  GEL.MEM:
+    mimetype: text/plain
+  GEL.SIT:
+    mimetype: text/plain
+  GEL_APP.EXE:
+    mimetype: application/x-msdos-program
+  GELVIEW.EXE:
+    mimetype: application/x-msdos-program
+  IC-CFILE.ASC:
+    mimetype: text/plain
+  IC-CMSG.ASC:
+    mimetype: text/plain
+  IC-GVIEW.ASC:
+    mimetype: text/plain
+  IC-HEADR.ANS:
+    mimetype: text/plain
+  IC-TOB.ANS:
+    mimetype: text/plain
+  IC-WORDS.ANS:
+    mimetype: text/plain
+  IQBBSAD.ZIP:
+    mimetype: application/zip
+  P1-GEL.ANS:
+    mimetype: text/plain
+  P1-SLIME.ASC:
+    mimetype: text/plain

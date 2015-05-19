@@ -1,0 +1,14 @@
+name: revc#1.zip
+hash: 5e691161ce60ca87c35267a4040e8e3a
+year: 1994
+file:
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  NEO.COM:
+    mimetype: application/x-msdos-program
+  REV-COMP.REV:
+    mimetype: text/plain
+  REV-LITS.ZIP:
+    mimetype: application/zip
+  RV.EXE:
+    mimetype: application/x-msdos-program

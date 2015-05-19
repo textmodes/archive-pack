@@ -1,0 +1,38 @@
+name: bi-ans#1.zip
+hash: 8514c3c215b7661af5ae97e9dfada6a4
+year: 1995
+file:
+  -BI-.NFO:
+    mimetype: text/plain
+  BI-APPLY.FRM:
+    mimetype: application/octet-stream
+  BI-RELS.NFO:
+    mimetype: text/plain
+  CD-BI02.BI:
+    mimetype: text/plain
+  CD-BI03.BI:
+    mimetype: text/plain
+  CD-CHAT.BI:
+    mimetype: text/plain
+  CD-DR01.BI:
+    mimetype: text/plain
+  CD-HIT01.BI:
+    mimetype: text/plain
+  CD-LORAH.BI:
+    mimetype: text/plain
+  CD-PB01.BI:
+    mimetype: text/plain
+  CD-SB01.BI:
+    mimetype: text/plain
+  CD-UPL.BI:
+    mimetype: text/plain
+  CRYSTAL.COM:
+    mimetype: application/x-msdos-program
+  DISASTER.COM:
+    mimetype: application/x-msdos-program
+  EATSHIT.ASC:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  NEO.COM:
+    mimetype: application/x-msdos-program

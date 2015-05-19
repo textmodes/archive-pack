@@ -1,0 +1,22 @@
+name: dkb_hova.zip
+hash: 88187621f0654800da2a474703ba8edc
+year: 1997
+file:
+  DKB.NFO:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  bme.jpg:
+    mimetype: image/jpeg
+  dks.jpg:
+    mimetype: image/jpeg
+  gk.jpg:
+    mimetype: image/jpeg
+  kik_bor.jpg:
+    mimetype: image/jpeg
+  sade.jpg:
+    mimetype: image/jpeg
+  steeltra.ins:
+    mimetype: application/octet-stream
+  swek.jpg:
+    mimetype: image/jpeg

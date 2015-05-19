@@ -1,0 +1,34 @@
+name: galm14b.zip
+hash: 1a7240aeb0ec51b136f4e7742d7c8d58
+year: 2004
+file:
+  galm14b/asc/el-dhsc.asc:
+    mimetype: text/plain
+  galm14b/asc/thai-127.asc:
+    mimetype: text/plain
+  galm14b/asc/thai-dj.asc:
+    mimetype: text/plain
+  galm14b/asc/thai-dtr.asc:
+    mimetype: text/plain
+  galm14b/asc/thai-krm.asc:
+    mimetype: text/plain
+  galm14b/asc/thai-ll.asc:
+    mimetype: text/plain
+  galm14b/asc/thai-sae.nfo:
+    mimetype: text/plain
+  galm14b/file_id.diz:
+    mimetype: text/plain
+  galm14b/galm14b.nfo:
+    mimetype: text/plain
+  galm14b/galmview.exe:
+    mimetype: application/x-msdos-program
+  galm14b/hirez/pen-lglm.jpg:
+    mimetype: image/jpeg
+  galm14b/hirez/theo-bath.tif:
+    mimetype: image/tiff
+  galm14b/zik/alg&ogg-strf.xm:
+    mimetype: audio/x-mod
+  galm14b/zik/alg-bngt.xm:
+    mimetype: audio/x-mod
+  galm14b/zik/moh-binv.xm:
+    mimetype: audio/x-mod

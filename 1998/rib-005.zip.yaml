@@ -1,0 +1,106 @@
+name: rib-005.zip
+hash: 10e8468948f41808b363f14930e04b37
+year: 1998
+file:
+  CPH-APX.RIB:
+    mimetype: text/plain
+  CPH-BD.RIB:
+    mimetype: text/plain
+  CPH-BFG.RIB:
+    mimetype: application/octet-stream
+  CPH-BYE.RIB:
+    mimetype: text/plain
+  CPH-CPMM.RIB:
+    mimetype: text/plain
+  CPH-DDL.RIB:
+    mimetype: text/plain
+  CPH-DIZZ.RIB:
+    mimetype: application/octet-stream
+  CPH-DPSP.RIB:
+    mimetype: text/plain
+  CPH-ENC.RIB:
+    mimetype: text/plain
+  CPH-ENCF.RIB:
+    mimetype: text/plain
+  CPH-ESR.RIB:
+    mimetype: text/plain
+  CPH-EST.RIB:
+    mimetype: text/plain
+  CPH-HJ.RIB:
+    mimetype: text/plain
+  CPH-NBD.RIB:
+    mimetype: text/plain
+  CPH-OXGE.RIB:
+    mimetype: text/plain
+  CPH-PDR.RIB:
+    mimetype: text/plain
+  CPH-RB4.RIB:
+    mimetype: text/plain
+  CPH-RIB3.JPG:
+    mimetype: image/jpeg
+  CPH-RIBL.RIB:
+    mimetype: text/plain
+  CPH-TRX.RIB:
+    mimetype: text/plain
+  CPH-XT2.RIB:
+    mimetype: text/plain
+  CYBER.PNK:
+    mimetype: text/plain
+  DFR-NGOD.RIB:
+    mimetype: text/plain
+  DFR-NIFE.RIB:
+    mimetype: text/plain
+  DFR-RIB.RIB:
+    mimetype: text/plain
+  DFR-RL.RIB:
+    mimetype: text/plain
+  DFR-THN.RIB:
+    mimetype: text/plain
+  DG-AREA.RIB:
+    mimetype: text/plain
+  DG-DARK.RIB:
+    mimetype: text/plain
+  DG-HB.RIB:
+    mimetype: text/plain
+  DG-XT.RIB:
+    mimetype: text/plain
+  DND-1998.RIB:
+    mimetype: text/plain
+  DND-DND.RIB:
+    mimetype: text/plain
+  DND-LOGF.RIB:
+    mimetype: text/plain
+  DND-ST.RIB:
+    mimetype: text/plain
+  ESR-KLD.JPG:
+    mimetype: image/jpeg
+  ESR-RB.JPG:
+    mimetype: image/jpeg
+  ESR-SDS.JPG:
+    mimetype: image/jpeg
+  ESR-TLT.JPG:
+    mimetype: image/jpeg
+  ESR_RB_1.JPG:
+    mimetype: image/jpeg
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  HJ_ABBEY.JPG:
+    mimetype: image/jpeg
+  HJ_APEX.JPG:
+    mimetype: image/jpeg
+  HJ_CROP.JPG:
+    mimetype: image/jpeg
+  HJ_LAST.JPG:
+    mimetype: image/jpeg
+  RIB-APP.EXE:
+    mimetype: application/x-msdos-program
+  RIB-VIEW.EXE:
+    mimetype: application/x-msdos-program
+  RIB005.RIB:
+    mimetype: text/plain
+  RIBMEM.JPG:
+    mimetype: image/jpeg
+  WZ-MCAR.JPG:
+    mimetype: image/jpeg
+  X-R-RR.RIB:
+    mimetype: text/plain

@@ -1,0 +1,44 @@
+name: think007.zip
+hash: 0e7bdb248ce55668636414df5553edc5
+year: 1998
+file:
+  ANSI####.DIV:
+    mimetype: application/octet-stream
+  ASCII###.DIV:
+    mimetype: application/octet-stream
+  CODE####.DIV:
+    mimetype: application/octet-stream
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  INFO####.DIV:
+    mimetype: application/octet-stream
+  MGS-EXGR.ZIP:
+    mimetype: application/zip
+  MISC####.DIV:
+    mimetype: application/octet-stream
+  SM-SEUSS.ANS:
+    mimetype: text/plain
+  SM-THINK.ANS:
+    mimetype: text/plain
+  THINK007.MEM:
+    mimetype: text/plain
+  THINK007.NFO:
+    mimetype: text/plain
+  THINKAPP.EXE:
+    mimetype: application/x-msdos-program
+  ZO-ARMR1.ANS:
+    mimetype: text/plain
+  ZO-ARMR2.ANS:
+    mimetype: text/plain
+  ZO-BIN.ASC:
+    mimetype: text/plain
+  ZO-STUFF.PAS:
+    mimetype: text/x-pascal
+  ZO-TB013.ZIP:
+    mimetype: application/zip
+  ZO-ZANS3.ZIP:
+    mimetype: application/zip
+  ZO-ZFOS1.ZIP:
+    mimetype: application/zip
+  ZO-ZNFO1.ZIP:
+    mimetype: application/zip

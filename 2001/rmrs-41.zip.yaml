@@ -1,0 +1,56 @@
+name: rmrs-41.zip
+hash: 24f11c6e7e148bd9777df1a8ae4b6913
+year: 2001
+file:
+  AXB-1234.ASC:
+    mimetype: text/plain
+  BNE!SLAC.TXT:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  ML-ACKF.ASC:
+    mimetype: text/plain
+  ML-GEEK.ASC:
+    mimetype: text/plain
+  ML-INSO.ASC:
+    mimetype: text/plain
+  ML-NFAD.ASC:
+    mimetype: text/plain
+  ML-SMB.ASC:
+    mimetype: text/plain
+  NO-1981A.ASC:
+    mimetype: text/plain
+  NO-FAUNA.ASC:
+    mimetype: text/plain
+  NO-LEGEN.ASC:
+    mimetype: text/plain
+  NS-GIS.TXT:
+    mimetype: text/plain
+  NS-R1.ASC:
+    mimetype: text/plain
+  NS-R2.ASC:
+    mimetype: text/plain
+  PG-MIRAG.ASC:
+    mimetype: text/plain
+  PG-SAKUS.ASC:
+    mimetype: text/plain
+  R-NF.TXT:
+    mimetype: text/plain
+  REMORSE.NFO:
+    mimetype: text/plain
+  RV.EXE:
+    mimetype: application/x-msdos-program
+  SP-INS2.ASC:
+    mimetype: text/plain
+  SP-PRA.ASC:
+    mimetype: text/plain
+  SP-SYNTH.ASC:
+    mimetype: text/plain
+  TN-NBULA.ASC:
+    mimetype: text/plain
+  TN-R41DZ.ASC:
+    mimetype: text/plain
+  TN-RMRS4.ASC:
+    mimetype: text/plain
+  WR-M00.TXT:
+    mimetype: text/plain

@@ -1,0 +1,72 @@
+name: acdu0594.zip
+hash: 9dc2a945fcc85a7ff6e254947d09ac72
+year: 1994
+file:
+  ACDU0594.NFO:
+    mimetype: text/plain
+  ACID0494.ANS:
+    mimetype: text/plain
+  ACIDAPP.EXE:
+    mimetype: application/x-msdos-program
+  ACIDVIEW.EXE:
+    mimetype: application/x-msdos-program
+  ACIDVIEW.NFO:
+    mimetype: text/plain
+  AN-AE1.RIP:
+    mimetype: image/x-rip
+  AN-HTC2.RIP:
+    mimetype: image/x-rip
+  BE-TF1.ANS:
+    mimetype: text/plain
+  BK-SKY1.ANS:
+    mimetype: text/plain
+  CE-TMS1.EXE:
+    mimetype: application/x-msdos-program
+  DH-HR1.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  KM-BAD1.ANS:
+    mimetype: text/plain
+  KM-HIGH1.ANS:
+    mimetype: text/plain
+  KM-TASB1.ANS:
+    mimetype: text/plain
+  KN-TTT1.ANS:
+    mimetype: text/plain
+  LD-FD.ANS:
+    mimetype: text/plain
+  LD-HM.ANS:
+    mimetype: text/plain
+  LD-ID.ANS:
+    mimetype: text/plain
+  LD-SN.ANS:
+    mimetype: text/plain
+  MT-SURR1.ANS:
+    mimetype: text/plain
+  MX-ADD.EXE:
+    mimetype: application/x-msdos-program
+  RN-CULT1.RIP:
+    mimetype: image/x-rip
+  RS-VESA.ZIP:
+    mimetype: application/zip
+  SL-ACID1.EXE:
+    mimetype: application/x-msdos-program
+  SL-ACID2.EXE:
+    mimetype: application/x-msdos-program
+  SO-DSUN1.ANS:
+    mimetype: text/plain
+  SO-TDG1.ANS:
+    mimetype: text/plain
+  SP-WHAM1.RIP:
+    mimetype: image/x-rip
+  SW-DREAM.EXE:
+    mimetype: application/x-msdos-program
+  SW-KEG1.EXE:
+    mimetype: application/x-msdos-program
+  TC-DIL1.ANS:
+    mimetype: text/plain
+  US-ACID1.EXE:
+    mimetype: application/x-msdos-program
+  US-HOOD1.ANS:
+    mimetype: text/plain

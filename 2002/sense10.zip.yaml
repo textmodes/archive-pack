@@ -1,0 +1,48 @@
+name: sense10.zip
+hash: b9421a75d48d3751e07d1ec3a52fce7d
+year: 2002
+file:
+  13-PNKTP.ANS:
+    mimetype: text/plain
+  43-EMSG.ANS:
+    mimetype: text/plain
+  43-NAMI.ANS:
+    mimetype: text/plain
+  43-VIL.ANS:
+    mimetype: text/plain
+  AVG-ENZ1.ANS:
+    mimetype: text/plain
+  AVG-WM1.ANS:
+    mimetype: text/plain
+  DA-HOLY.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  H7-RCN.ANS:
+    mimetype: text/plain
+  H7-SENS2.ANS:
+    mimetype: text/plain
+  INFO.ANS:
+    mimetype: text/plain
+  MEMBERS.ANS:
+    mimetype: text/plain
+  NOCHDAN1.ANS:
+    mimetype: text/plain
+  PLZ-AWE.ANS:
+    mimetype: text/plain
+  PLZ-CJ.ANS:
+    mimetype: text/plain
+  PLZ-HYS3.ANS:
+    mimetype: text/plain
+  PLZ-SENS.ANS:
+    mimetype: text/plain
+  PO-IDLE1.ANS:
+    mimetype: text/plain
+  PO-SAT9.ANS:
+    mimetype: text/plain
+  US-THELO.ANS:
+    mimetype: text/plain
+  VLD-ACRO.ANS:
+    mimetype: text/plain
+  VLD-POIS.ANS:
+    mimetype: text/plain

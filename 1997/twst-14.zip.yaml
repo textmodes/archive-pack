@@ -1,0 +1,66 @@
+name: twst-14.zip
+hash: 304e46bea6799bd51e55179ba8a562fb
+year: 1997
+file:
+  (ANSI):
+    mimetype: text/plain
+  (ASCII):
+    mimetype: text/plain
+  (DIZ):
+    mimetype: text/plain
+  (GUEST):
+    mimetype: text/plain
+  (INFO):
+    mimetype: text/plain
+  (JOINTS):
+    mimetype: text/plain
+  (MISC):
+    mimetype: text/plain
+  (VIEWER):
+    mimetype: text/plain
+  AN-LIMJM.ASC:
+    mimetype: text/plain
+  BD-COLLY.ASC:
+    mimetype: text/plain
+  BK-FA!.ANS:
+    mimetype: text/plain
+  BK-OGC.ASC:
+    mimetype: text/plain
+  DF-CLASC.ASC:
+    mimetype: text/plain
+  DF-MENUS.ASC:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  IM-TWST.ANS:
+    mimetype: text/plain
+  MJ-TMNU.ASC:
+    mimetype: text/plain
+  PC-COLLY.ANS:
+    mimetype: text/plain
+  PC-T.ANS:
+    mimetype: text/plain
+  PH-TWST.ANS:
+    mimetype: text/plain
+  RA-C01.ASC:
+    mimetype: text/plain
+  RD-CESS.ANS:
+    mimetype: text/plain
+  RN-COLLY.ANS:
+    mimetype: text/plain
+  RN-TWST1.ANS:
+    mimetype: text/plain
+  SP-TWST.ASC:
+    mimetype: text/plain
+  TW-GUEST.ANS:
+    mimetype: text/plain
+  TW-VIEW.EXE:
+    mimetype: application/x-msdos-program
+  TWST-14.MEM:
+    mimetype: text/plain
+  TWST-14.NFO:
+    mimetype: text/plain
+  US-ANIME.ANS:
+    mimetype: text/plain
+  US-UC.ANS:
+    mimetype: text/plain

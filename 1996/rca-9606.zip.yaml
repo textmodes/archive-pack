@@ -1,0 +1,84 @@
+name: rca-9606.zip
+hash: 745de03035b140a525cb3ef583199e46
+year: 1996
+file:
+  !!binary +vpBTlNJ+vou+vr6:
+    mimetype: text/plain
+  !!binary +vpFWEX6+vou+vr6:
+    mimetype: text/plain
+  !!binary +vpNSVND+vou+vr6:
+    mimetype: text/plain
+  !!binary +vpNVVNJQ/ou+vr6:
+    mimetype: text/plain
+  !!binary +vpSSVD6+vou+vr6:
+    mimetype: text/plain
+  !!binary +vpWR0H6+vou+vr6:
+    mimetype: text/plain
+  APPGEN.EXE:
+    mimetype: application/x-msdos-program
+  BREWERY.MOD:
+    mimetype: audio/x-mod
+  DH-0696.ASC:
+    mimetype: text/plain
+  DH-LOGO1.ASC:
+    mimetype: text/plain
+  DK-TICK.RCA:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GS-SANDS.MOD:
+    mimetype: audio/x-mod
+  H-LOGO1.ANS:
+    mimetype: text/plain
+  HX!_RCA1.ANS:
+    mimetype: text/plain
+  HX!_RCA1.GIF:
+    mimetype: image/gif
+  JLC_696.GIF:
+    mimetype: image/gif
+  KIT-DSM.ANS:
+    mimetype: text/plain
+  KIT-MOON.ANS:
+    mimetype: text/plain
+  KIT-OLYM.ANS:
+    mimetype: text/plain
+  KIT-TWZ1.ANS:
+    mimetype: text/plain
+  KP-TIE.GIF:
+    mimetype: image/gif
+  KP-XGEN.GIF:
+    mimetype: image/gif
+  LB-LIT.EXE:
+    mimetype: application/x-msdos-program
+  MRY-LOGS.ANS:
+    mimetype: text/plain
+  RCA-INFO.ASC:
+    mimetype: text/plain
+  RCA-LIST.ANS:
+    mimetype: text/plain
+  RCA-NEWS.ANS:
+    mimetype: text/plain
+  RCAVIEW.EXE:
+    mimetype: application/x-msdos-program
+  RCAVIEW.MOD:
+    mimetype: audio/x-mod
+  RCAVIEW.NFO:
+    mimetype: text/plain
+  SH-LIT.EXE:
+    mimetype: application/x-msdos-program
+  UPRISING.ZIP:
+    mimetype: application/zip
+  WC-DRAG.RIP:
+    mimetype: image/x-rip
+  WC-FACE.RIP:
+    mimetype: image/x-rip
+  WC-LD.RIP:
+    mimetype: image/x-rip
+  WC-LOGOS.ANS:
+    mimetype: text/plain
+  WC-SORC.RIP:
+    mimetype: image/x-rip
+  WC-SPART.RIP:
+    mimetype: image/x-rip
+  WM-1B67.ANS:
+    mimetype: text/plain

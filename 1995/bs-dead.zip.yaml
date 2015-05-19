@@ -1,0 +1,20 @@
+name: bs-dead.zip
+hash: cd28c87bcf755b0a92af1da050f36744
+year: 1995
+file:
+  BOERTIG.TXT:
+    mimetype: text/plain
+  BS-DEAD.TXT:
+    mimetype: text/plain
+  BS-HEAD.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  LESBIAN.TXT:
+    mimetype: text/plain
+  NEO.COM:
+    mimetype: application/x-msdos-program
+  TRANCE.TXT:
+    mimetype: text/plain
+  ZONE-X.EXE:
+    mimetype: application/x-msdos-program

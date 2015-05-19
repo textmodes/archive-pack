@@ -1,0 +1,118 @@
+name: maiden14.zip
+hash: 17f2cac42b90d5dc64496eb7cf5b8145
+year: 1997
+file:
+  '#HANSOND.LOG':
+    mimetype: application/octet-stream
+  -ANSI---.---:
+    mimetype: text/plain
+  -ASCII--.---:
+    mimetype: text/plain
+  -INFO---.---:
+    mimetype: text/plain
+  -OTHER--.---:
+    mimetype: text/plain
+  -VGA----.---:
+    mimetype: text/plain
+  5D-AHL.ANS:
+    mimetype: text/plain
+  5D-CCRE.ANS:
+    mimetype: text/plain
+  5D-EHLB.ANS:
+    mimetype: text/plain
+  5D-EHOLE.ANS:
+    mimetype: text/plain
+  5D-EN.ANS:
+    mimetype: text/plain
+  5D-END-.ANS:
+    mimetype: text/plain
+  5D-FL.ANS:
+    mimetype: text/plain
+  5D-FR0.ANS:
+    mimetype: text/plain
+  5D-HST.ANS:
+    mimetype: text/plain
+  5D-MDK.ANS:
+    mimetype: text/plain
+  5D-MDNM.ANS:
+    mimetype: text/plain
+  5D-OSC.ANS:
+    mimetype: text/plain
+  5D-OSS.ANS:
+    mimetype: text/plain
+  5D-PATO.ANS:
+    mimetype: text/plain
+  5D-SOIM.ANS:
+    mimetype: text/plain
+  5D-TMA-.ANS:
+    mimetype: text/plain
+  5D-WZ0.ANS:
+    mimetype: text/plain
+  5D-WZR.ANS:
+    mimetype: text/plain
+  BR-EHOLE.ANS:
+    mimetype: text/plain
+  BR-ENDOR.ANS:
+    mimetype: text/plain
+  BR-HELLO.ANS:
+    mimetype: text/plain
+  BR-HYST.ANS:
+    mimetype: text/plain
+  BR-OS!.ANS:
+    mimetype: text/plain
+  E0-CHOCO.ANS:
+    mimetype: text/plain
+  E0-HYS1.ANS:
+    mimetype: text/plain
+  E0-SAMU.ANS:
+    mimetype: text/plain
+  E0-SMEM.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  INFO-14.NFO:
+    mimetype: text/plain
+  MDN-APP.EXE:
+    mimetype: application/x-msdos-program
+  MEE-CFH.ANS:
+    mimetype: text/plain
+  MEE-EVIL.ANS:
+    mimetype: text/plain
+  MEE-LAST.ANS:
+    mimetype: text/plain
+  NEWS-14.NFO:
+    mimetype: text/plain
+  RORSHACK.ANS:
+    mimetype: text/plain
+  RS-1984.ANS:
+    mimetype: text/plain
+  RS-BOIL.ANS:
+    mimetype: text/plain
+  RS-BOLA.ANS:
+    mimetype: text/plain
+  RS-CDIZ.ASC:
+    mimetype: text/plain
+  RS-ENZO.ANS:
+    mimetype: text/plain
+  S0-MDN2.JPG:
+    mimetype: image/jpeg
+  S0-MDN6.JPG:
+    mimetype: image/jpeg
+  S7!-EPD2.ASC:
+    mimetype: text/plain
+  S7!-FR1.ANS:
+    mimetype: text/plain
+  S7!-HMP3.ANS:
+    mimetype: text/plain
+  S7!-IF9.ANS:
+    mimetype: text/plain
+  S7!-IF10.ANS:
+    mimetype: text/plain
+  S7!-MDN4.ANS:
+    mimetype: text/plain
+  US-COW.ANS:
+    mimetype: text/plain
+  US-LUNA2.ANS:
+    mimetype: text/plain
+  US-MERRY.ANS:
+    mimetype: text/plain

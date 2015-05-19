@@ -1,0 +1,32 @@
+name: cia62-d.zip
+hash: 998726c7b51899fd06264700b476e075
+year: 1999
+file:
+  '---END--.---':
+    mimetype: text/plain
+  --INFO--.---:
+    mimetype: text/plain
+  --READ--.---:
+    mimetype: text/plain
+  -HIRES--.---:
+    mimetype: text/plain
+  0499INFO.CIA:
+    mimetype: text/plain
+  0499MEMB.CIA:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  lz_sbway.jpg:
+    mimetype: image/jpeg
+  me_mar.jpg:
+    mimetype: image/jpeg
+  na_life.jpg:
+    mimetype: image/jpeg
+  pk_dmoon.jpg:
+    mimetype: image/jpeg
+  pk_red.jpg:
+    mimetype: image/jpeg
+  sc-final5.jpg:
+    mimetype: image/jpeg
+  sp_cen.jpg:
+    mimetype: image/jpeg

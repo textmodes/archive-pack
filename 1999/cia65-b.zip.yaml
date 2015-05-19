@@ -1,0 +1,42 @@
+name: cia65-b.zip
+hash: 5095915891f35c04228b71d92c5c2c49
+year: 1999
+file:
+  --CNTD--.---:
+    mimetype: text/plain
+  --INFO--.---:
+    mimetype: text/plain
+  -HIRES--.---:
+    mimetype: text/plain
+  0799INFO.CIA:
+    mimetype: text/plain
+  0799MEMB.XB:
+    mimetype: text/x-xbin
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  VIEWER--.---:
+    mimetype: text/plain
+  WIRETAP.DOC:
+    mimetype: text/plain
+  WIRETAP.EXE:
+    mimetype: application/x-msdos-program
+  bd_evil.jpg:
+    mimetype: image/jpeg
+  cs_viole.jpg:
+    mimetype: image/jpeg
+  ik_insp.jpg:
+    mimetype: image/jpeg
+  ik_ishi.jpg:
+    mimetype: image/jpeg
+  ik_sol.jpg:
+    mimetype: image/jpeg
+  km_embry.jpg:
+    mimetype: image/jpeg
+  km_lbb.jpg:
+    mimetype: image/jpeg
+  km_vamp2.gif:
+    mimetype: image/gif
+  na_indus.jpg:
+    mimetype: image/jpeg
+  na_swtch.jpg:
+    mimetype: image/jpeg

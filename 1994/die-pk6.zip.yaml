@@ -1,0 +1,88 @@
+name: die-pk6.zip
+hash: 5129b6810a9609ef4bbd5a7e107874d9
+year: 1994
+file:
+  CB-PHUNK.MOD:
+    mimetype: audio/x-mod
+  CB-SKITZ.MOD:
+    mimetype: audio/x-mod
+  CP-FUS#1.DIE:
+    mimetype: text/plain
+  CY-DI#13.GIF:
+    mimetype: image/gif
+  CY-RAZ#1.GIF:
+    mimetype: image/gif
+  CY-RAZ#2.GIF:
+    mimetype: image/gif
+  CY-RAZ#3.GIF:
+    mimetype: image/gif
+  DIE-PK#6.MEM:
+    mimetype: text/plain
+  DIE-PK#6.NFO:
+    mimetype: text/plain
+  DIEVIEW.EXE:
+    mimetype: application/x-msdos-program
+  EM-DRMP.MOD:
+    mimetype: audio/x-mod
+  EM-IMPRL.MOD:
+    mimetype: audio/x-mod
+  EM-SUDDE.MOD:
+    mimetype: audio/x-mod
+  EM-XTC.MOD:
+    mimetype: audio/x-mod
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FK-DS#1.DIE:
+    mimetype: text/plain
+  FK-DZ#1.DIE:
+    mimetype: text/plain
+  FK-LOG#1.DIE:
+    mimetype: text/plain
+  FK-PN#1.DIE:
+    mimetype: text/plain
+  FK-TCD#1.DIE:
+    mimetype: text/plain
+  FK-TPG#1.DIE:
+    mimetype: text/plain
+  FK-UR#1.DIE:
+    mimetype: text/plain
+  FK-VC#13.DIE:
+    mimetype: text/plain
+  FUN!.COM:
+    mimetype: application/x-msdos-program
+  JS-AOD#1.DIE:
+    mimetype: text/plain
+  JS-BS#1.DIE:
+    mimetype: text/plain
+  JS-DWT#1.DIE:
+    mimetype: text/plain
+  NF-MD#1.DIE:
+    mimetype: text/plain
+  NF-MR#1.DIE:
+    mimetype: text/plain
+  NF-SHD#1.DIE:
+    mimetype: application/octet-stream
+  RA-AD#1.DIE:
+    mimetype: text/plain
+  RA-ANSPK.DIE:
+    mimetype: text/plain
+  RA-DS#1.DIE:
+    mimetype: text/plain
+  RA-OA#1.DIE:
+    mimetype: text/plain
+  RA-SR#1.DIE:
+    mimetype: text/plain
+  RA-TP#1.DIE:
+    mimetype: text/plain
+  SE-CHZ#1.DIE:
+    mimetype: text/plain
+  SE-INU#1.DIE:
+    mimetype: text/plain
+  SE-LR#1.DIE:
+    mimetype: text/plain
+  SE-RB#1.DIE:
+    mimetype: text/plain
+  SE-TH#1.DIE:
+    mimetype: text/plain
+  SE-TRS#1.DIE:
+    mimetype: text/plain

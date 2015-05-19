@@ -1,0 +1,40 @@
+name: out-0799.zip
+hash: 7d031372477239be464d7d5cd11fee0c
+year: 1999
+file:
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FILELIST.TXT:
+    mimetype: text/plain
+  OUT-AD.ANS:
+    mimetype: text/plain
+  OUT-AD.RIP:
+    mimetype: image/x-rip
+  OUT-ADRC.ANS:
+    mimetype: text/plain
+  OUT-ADRO.ANS:
+    mimetype: text/plain
+  OUT-ARPR.ANS:
+    mimetype: text/plain
+  OUT-ATRS.ANS:
+    mimetype: text/plain
+  OUT-AUST.ANS:
+    mimetype: text/plain
+  OUT-CANA.ANS:
+    mimetype: text/plain
+  OUT-FMMN.ANS:
+    mimetype: text/plain
+  OUT-FRST.ANS:
+    mimetype: text/plain
+  OUT-GIRL.ANS:
+    mimetype: text/plain
+  OUT-ROSE.ANS:
+    mimetype: text/plain
+  OUT-SING.ANS:
+    mimetype: text/plain
+  OUT-US.ANS:
+    mimetype: text/plain
+  OUT.AD:
+    mimetype: text/plain
+  OUTWORLD.TXT:
+    mimetype: text/plain

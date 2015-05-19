@@ -1,0 +1,84 @@
+name: aim-0002.zip
+hash: a4f33988d77ce616933d3bd6853b5543
+year: 1994
+file:
+  AA-ALPHA.RIP:
+    mimetype: image/x-rip
+  AA-CULT.ANS:
+    mimetype: text/plain
+  AA-CULT.RIP:
+    mimetype: image/x-rip
+  AA-ESNC.ANS:
+    mimetype: text/plain
+  AA-UTOP.ANS:
+    mimetype: text/plain
+  AIMLOGO.GIF:
+    mimetype: image/gif
+  AIMPAK2.NFO:
+    mimetype: text/plain
+  EF-ADRM.LIT:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  JS-AIM.ANS:
+    mimetype: text/plain
+  JS-AIM2.ANS:
+    mimetype: text/plain
+  JS-DOOM1.ASC:
+    mimetype: text/plain
+  JS-ESNC4.ANS:
+    mimetype: text/plain
+  JS-SBZ1.ANS:
+    mimetype: text/plain
+  LC-AIM5.ANS:
+    mimetype: text/plain
+  LC-CLBK1.ANS:
+    mimetype: text/plain
+  LC-LGN1.ANS:
+    mimetype: text/plain
+  LC-MAL1.ANS:
+    mimetype: text/plain
+  LC-MAL2.ANS:
+    mimetype: text/plain
+  LC-POTS.ANS:
+    mimetype: text/plain
+  LC-TWI1.ANS:
+    mimetype: text/plain
+  LL-AIM6.ANS:
+    mimetype: text/plain
+  LL-LOGON.ANS:
+    mimetype: text/plain
+  LL-MAFIA.ANS:
+    mimetype: text/plain
+  LL-PHC.ANS:
+    mimetype: text/plain
+  LL-UNITY.ANS:
+    mimetype: text/plain
+  NEO.COM:
+    mimetype: application/x-msdos-program
+  OS-ACPT.LIT:
+    mimetype: text/plain
+  OS-REG.LIT:
+    mimetype: text/plain
+  PH-AIM.GIF:
+    mimetype: image/gif
+  PH-AIM1.ANS:
+    mimetype: text/plain
+  PH-AIM2.GIF:
+    mimetype: image/gif
+  PH-HSC5.ANS:
+    mimetype: text/plain
+  PH-HSC6.ANS:
+    mimetype: text/plain
+  PH-SCOTT.ANS:
+    mimetype: text/plain
+  PH-WAX.GIF:
+    mimetype: image/gif
+  RD-SPEC.ANS:
+    mimetype: text/plain
+  RYTHEM.MOD:
+    mimetype: audio/x-mod
+  SPECTRAL.S3M:
+    mimetype: audio/x-mod
+  TI-IC.ANS:
+    mimetype: text/plain

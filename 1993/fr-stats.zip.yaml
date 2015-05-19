@@ -1,0 +1,14 @@
+name: fr-stats.zip
+hash: e65dde937c4727bdbe2c469aa213b9af
+year: 1993
+file:
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FILESTAT.ANS:
+    mimetype: text/plain
+  FR-STAT.TXT:
+    mimetype: text/plain
+  STATUS.ANS:
+    mimetype: text/plain
+  USERSTAT.ANS:
+    mimetype: text/plain

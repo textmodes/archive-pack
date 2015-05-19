@@ -1,0 +1,44 @@
+name: aclv4.zip
+hash: b8eb98f52d19886dace67d99eeb76dfe
+year: 2004
+file:
+  aclv4/ACLV4.ASC:
+    mimetype: text/plain
+  aclv4/c-apc.ASC:
+    mimetype: text/plain
+  aclv4/c-badboys.nfo:
+    mimetype: text/plain
+  aclv4/c-bossld.ASC:
+    mimetype: text/plain
+  aclv4/c-eternals.ASC:
+    mimetype: text/plain
+  aclv4/c-logos.ASC:
+    mimetype: text/plain
+  aclv4/c-osc.ASC:
+    mimetype: text/plain
+  aclv4/c-rockstar.ASC:
+    mimetype: text/plain
+  aclv4/h-brute3.asc:
+    mimetype: text/plain
+  aclv4/h-darklady.nfo:
+    mimetype: text/plain
+  aclv4/h-fys.nfo:
+    mimetype: text/plain
+  aclv4/h-wr.nfo:
+    mimetype: text/plain
+  aclv4/h-wra.nfo:
+    mimetype: text/plain
+  aclv4/o-ett.ASC:
+    mimetype: text/plain
+  aclv4/o-nmd2.ASC:
+    mimetype: text/plain
+  aclv4/o-omni.ASC:
+    mimetype: text/plain
+  aclv4/o-rpm.ASC:
+    mimetype: text/plain
+  aclv4/o-sibv.ASC:
+    mimetype: text/plain
+  aclv4/o-underhell.ASC:
+    mimetype: text/plain
+  o-fb.asc:
+    mimetype: text/plain

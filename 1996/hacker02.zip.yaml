@@ -1,0 +1,20 @@
+name: hacker02.zip
+hash: 7f9059b383585fabff174881bc5012ab
+year: 1996
+file:
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  HACKER.DOC:
+    mimetype: text/plain
+  HACKER2.001:
+    mimetype: application/octet-stream
+  HACKER2.002:
+    mimetype: application/octet-stream
+  HACKER2.DAT:
+    mimetype: application/octet-stream
+  HACKER2.EXE:
+    mimetype: application/x-msdos-program
+  MAG-GRP.APP:
+    mimetype: text/plain
+  MAG-VOTE.APP:
+    mimetype: text/plain

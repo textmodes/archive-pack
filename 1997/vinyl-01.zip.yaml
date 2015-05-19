@@ -1,0 +1,58 @@
+name: vinyl-01.zip
+hash: aeeecc2337821f5d89bae7e1e12988bd
+year: 1997
+file:
+  '##ASCI##':
+    mimetype: application/octet-stream
+  '##XTRA##':
+    mimetype: text/plain
+  9L-COLL1.ASC:
+    mimetype: text/plain
+  9L-NN.ASC:
+    mimetype: text/plain
+  9L-NO!.ASC:
+    mimetype: text/plain
+  9L-SM.ASC:
+    mimetype: text/plain
+  9L-ZONK.ASC:
+    mimetype: text/plain
+  CC!-VNYL.ASC:
+    mimetype: text/plain
+  EMP-ABS1.ASC:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  KO-COLLY.ASC:
+    mimetype: text/plain
+  PAR-DNK.ASC:
+    mimetype: text/plain
+  PAR-GER2.ASC:
+    mimetype: text/plain
+  PAR-GOTH.ASC:
+    mimetype: text/plain
+  PAR-KOW.ASC:
+    mimetype: text/plain
+  PAR-MASS.ASC:
+    mimetype: text/plain
+  PAR-RMRS.ASC:
+    mimetype: text/plain
+  PAR-TGC.ASC:
+    mimetype: text/plain
+  RD-POOL.ASC:
+    mimetype: text/plain
+  US-AE.ASC:
+    mimetype: text/plain
+  US-H20.ASC:
+    mimetype: text/plain
+  V-MEMBS.001:
+    mimetype: text/plain
+  V-NEWS.001:
+    mimetype: text/plain
+  XE-BRIBE.ASC:
+    mimetype: text/plain
+  XE-MDMLN.ASC:
+    mimetype: text/plain
+  XE-SPNGE.ASC:
+    mimetype: text/plain
+  XE-VINYL.ASC:
+    mimetype: text/plain

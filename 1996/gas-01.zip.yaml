@@ -1,0 +1,54 @@
+name: gas-01.zip
+hash: 0511ba52f68478ea47748c2dfd4f5e20
+year: 1996
+file:
+  -ANSI---.---:
+    mimetype: text/plain
+  -ASKII--.---:
+    mimetype: text/plain
+  -INFO---.---:
+    mimetype: text/plain
+  -MISC---.---:
+    mimetype: text/plain
+  -VGA----.---:
+    mimetype: text/plain
+  ARCANE.EXE:
+    mimetype: application/x-msdos-program
+  BC-GAS#1.ASC:
+    mimetype: text/plain
+  BC-GAS#2.ASC:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GAS-01.ANS:
+    mimetype: text/plain
+  GAS-01.ASC:
+    mimetype: text/plain
+  GAS-01.NFO:
+    mimetype: text/plain
+  GASMEM01.ANS:
+    mimetype: text/plain
+  GASNFO01.ANS:
+    mimetype: text/plain
+  JC-APW#1.ANS:
+    mimetype: text/plain
+  JC-BODDA.ANS:
+    mimetype: text/plain
+  JC-RULES.ANS:
+    mimetype: text/plain
+  PG-MAGAD.GIF:
+    mimetype: image/gif
+  PG-OLS.GIF:
+    mimetype: image/gif
+  SZ-ADEN.JPG:
+    mimetype: image/jpeg
+  SZ-HARLM.JPG:
+    mimetype: image/jpeg
+  WB-ARC#1.JPG:
+    mimetype: image/jpeg
+  WB-DIGU.JPG:
+    mimetype: image/jpeg
+  WB-GAS#1.JPG:
+    mimetype: image/jpeg
+  WB-GATES.JPG:
+    mimetype: image/jpeg

@@ -1,0 +1,84 @@
+name: fl-pack7.zip
+hash: 001d6f7cbe6fc23fcf4860a480e37cf9
+year: 1996
+file:
+  -INFO#7-.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FL-VIEW.ANS:
+    mimetype: text/plain
+  FUEL.APP:
+    mimetype: application/octet-stream
+  FUEL.NFO:
+    mimetype: text/plain
+  NA-BPI.ANS:
+    mimetype: text/plain
+  NA-RDAWN.ANS:
+    mimetype: text/plain
+  NA-UX.ANS:
+    mimetype: text/plain
+  NF-DBRON.ANS:
+    mimetype: text/plain
+  NF-ELF.ANS:
+    mimetype: text/plain
+  NF-FACE2.ANS:
+    mimetype: text/plain
+  NF-HAND.ANS:
+    mimetype: text/plain
+  NF-HULK.ANS:
+    mimetype: text/plain
+  NF-LOBO.ANS:
+    mimetype: text/plain
+  NF-SAC_G.ANS:
+    mimetype: text/plain
+  NF-TANCE.ANS:
+    mimetype: text/plain
+  NF-WOLBR.ANS:
+    mimetype: text/plain
+  NF-XMAS.ANS:
+    mimetype: text/plain
+  PH-COMPS.ANS:
+    mimetype: text/plain
+  RELEASES.TXT:
+    mimetype: text/plain
+  ST-COLLE.ANS:
+    mimetype: text/plain
+  TH-ADV.ANS:
+    mimetype: text/plain
+  TH-BIOH.ANS:
+    mimetype: text/plain
+  TH-GLORY.ANS:
+    mimetype: text/plain
+  TH-HIGH.ANS:
+    mimetype: text/plain
+  TH-PL.ANS:
+    mimetype: text/plain
+  TK-CLADY.ANS:
+    mimetype: text/plain
+  TK-COLLE.ANS:
+    mimetype: text/plain
+  TK-FLOGO.ANS:
+    mimetype: text/plain
+  TK-OFFLI.ANS:
+    mimetype: text/plain
+  TK-SANCT.ANS:
+    mimetype: text/plain
+  TK-TERMI.ANS:
+    mimetype: text/plain
+  WD-FUEL.ANS:
+    mimetype: text/plain
+  WD-LA1.ANS:
+    mimetype: text/plain
+  WD-RUHL.ANS:
+    mimetype: text/plain
+  WD-STATS.ANS:
+    mimetype: text/plain
+  ZX-LGOAC.ASC:
+    mimetype: text/plain
+  ZX-LGOAN.ANS:
+    mimetype: text/plain
+  ZX-PLOP1.ANS:
+    mimetype: text/plain
+  ZX-PLOP2.ANS:
+    mimetype: text/plain

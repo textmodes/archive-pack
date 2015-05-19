@@ -1,0 +1,22 @@
+name: bpi!0496.zip
+hash: 78b0b4d5fbe55ce9c1b0bc08b5439788
+year: 1996
+file:
+  BPI!APPL.FRM:
+    mimetype: text/plain
+  BPI!ART.ZIP:
+    mimetype: application/zip
+  BPI!INFO.ANS:
+    mimetype: text/plain
+  BPI!NEWS.ANS:
+    mimetype: text/plain
+  BPI!PPE.ZIP:
+    mimetype: application/zip
+  BPI!REL.ANS:
+    mimetype: text/plain
+  BPI!REQ.FRM:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  HALLUKIC.COM:
+    mimetype: application/x-msdos-program

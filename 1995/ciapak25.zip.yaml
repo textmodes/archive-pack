@@ -1,0 +1,150 @@
+name: ciapak25.zip
+hash: 181f346d0649ca8c820cd9427973cc52
+year: 1995
+file:
+  !!binary +vn5+fn5+fku+fn6:
+    mimetype: text/plain
+  !!binary +vn5+fr5+fku+fn6:
+    mimetype: text/plain
+  !!binary +vn5QVND+fku+fn6:
+    mimetype: text/plain
+  !!binary +vn5RVRD+fku+fn6:
+    mimetype: text/plain
+  !!binary +vn5SVYy+fku+fn6:
+    mimetype: text/plain
+  !!binary +vn5TEdP+fku+fn6:
+    mimetype: text/plain
+  !!binary +vn5UklQ+fku+fn6:
+    mimetype: text/plain
+  !!binary +vn5VkdB+fku+fn6:
+    mimetype: text/plain
+  3-SPAWN.RIP:
+    mimetype: image/x-rip
+  0695ASCI.ZIP:
+    mimetype: application/zip
+  0695INFO.CIA:
+    mimetype: text/plain
+  0695MEMB.CIA:
+    mimetype: text/plain
+  0695PROF.CIA:
+    mimetype: text/plain
+  DA-CIA.RIP:
+    mimetype: image/x-rip
+  DA-NIGHT.RIP:
+    mimetype: image/x-rip
+  DA-PHAR.CIA:
+    mimetype: text/plain
+  DA-RX.RIP:
+    mimetype: image/x-rip
+  DA-TRA.RIP:
+    mimetype: image/x-rip
+  DF-CIA1.GIF:
+    mimetype: image/gif
+  DH-COMPT.CIA:
+    mimetype: text/plain
+  DH-ILLCM.CIA:
+    mimetype: text/plain
+  DH-SYND.CIA:
+    mimetype: text/plain
+  DH-TOKYO.LGO:
+    mimetype: text/plain
+  DT-CIA2.LGO:
+    mimetype: text/plain
+  DT-HIFI1.CIA:
+    mimetype: text/plain
+  DT-INF1.LGO:
+    mimetype: text/plain
+  DT-INF2.LGO:
+    mimetype: text/plain
+  DT-INT1.LGO:
+    mimetype: text/plain
+  DT-INT2.LGO:
+    mimetype: text/plain
+  ER-ALIEN.JPG:
+    mimetype: image/jpeg
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GA-APOC1.LGO:
+    mimetype: text/plain
+  GA-FULC3.LGO:
+    mimetype: text/plain
+  HK-SOUTH.RIP:
+    mimetype: image/x-rip
+  IV-RIP.ZIP:
+    mimetype: application/zip
+  IV.DOC:
+    mimetype: text/plain
+  IV.EXE:
+    mimetype: application/x-msdos-program
+  LM-AD.CIA:
+    mimetype: text/plain
+  LM-INF.LGO:
+    mimetype: text/plain
+  MX-CYBD.GIF:
+    mimetype: image/gif
+  NA-BLACK.LGO:
+    mimetype: text/plain
+  NA-CYBER.CIA:
+    mimetype: text/plain
+  NA-IE.LGO:
+    mimetype: text/plain
+  NA-INF#4.CIA:
+    mimetype: text/plain
+  NA-INF#4.LGO:
+    mimetype: text/plain
+  NA-TCP69.LGO:
+    mimetype: text/plain
+  NS-EOE5.CIA:
+    mimetype: text/plain
+  NS-US.CIA:
+    mimetype: text/plain
+  PH-ALCZ.LGO:
+    mimetype: text/plain
+  PH-IE1.LGO:
+    mimetype: text/plain
+  PH-PI6.LGO:
+    mimetype: text/plain
+  PX-CIA.PCX:
+    mimetype: image/pcx
+  PX-FATE.CIA:
+    mimetype: text/plain
+  PX-SOFT.CIA:
+    mimetype: text/plain
+  SH-CMBO4.LGO:
+    mimetype: text/plain
+  ST-ALK.CIA:
+    mimetype: text/plain
+  ST-CR.LGO:
+    mimetype: text/plain
+  UNIVESA.ZIP:
+    mimetype: application/zip
+  UNS-APOC.CIA:
+    mimetype: text/plain
+  UNS-DIS1.CIA:
+    mimetype: text/plain
+  UNS-DIS2.LGO:
+    mimetype: text/plain
+  UNS-LUF1.CIA:
+    mimetype: text/plain
+  UNS-RUST.LGO:
+    mimetype: text/plain
+  US-RX.CIA:
+    mimetype: text/plain
+  VM-EX2.JPG:
+    mimetype: image/jpeg
+  XX-DAMAG.LGO:
+    mimetype: text/plain
+  XX-IE.LGO:
+    mimetype: text/plain
+  XX-INF3.CIA:
+    mimetype: text/plain
+  XX-INFMA.CIA:
+    mimetype: text/plain
+  XX-IZEND.CIA:
+    mimetype: text/plain
+  XX-RX.CIA:
+    mimetype: text/plain
+  XX-RXMEN.CIA:
+    mimetype: text/plain
+  XX-SKULL.CIA:
+    mimetype: text/plain

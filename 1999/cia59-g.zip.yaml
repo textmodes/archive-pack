@@ -1,0 +1,38 @@
+name: cia59-g.zip
+hash: d565b9e42ac183611588c4c3b4bad4d2
+year: 1999
+file:
+  !!binary xMRDSUHExC7ExMQ=:
+    mimetype: text/plain
+  1298INFO.CIA:
+    mimetype: text/plain
+  1298MEMB.CIA:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GF_SUN.JPG:
+    mimetype: image/jpeg
+  I0_FM.JPG:
+    mimetype: image/jpeg
+  I0_FT.JPG:
+    mimetype: image/jpeg
+  LKBDUR~1.JPG:
+    mimetype: image/jpeg
+  LKIKFISH.JPG:
+    mimetype: image/jpeg
+  MG_ECHO1.JPG:
+    mimetype: image/jpeg
+  MG_FATRE.JPG:
+    mimetype: image/jpeg
+  SU_GIMME.JPG:
+    mimetype: image/jpeg
+  WIRETAP.DOC:
+    mimetype: text/plain
+  WIRETAP.EXE:
+    mimetype: application/x-msdos-program
+  ZL_CIAPR.JPG:
+    mimetype: image/jpeg
+  ZL_SPACE.JPG:
+    mimetype: image/jpeg
+  cwsdpmi.exe:
+    mimetype: application/x-msdos-program

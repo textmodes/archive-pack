@@ -1,0 +1,66 @@
+name: cia60-b.zip
+hash: 478392f5c1651b5520a5012913991267
+year: 1999
+file:
+  --C-I-A-.---:
+    mimetype: text/plain
+  0199INFO.CIA:
+    mimetype: text/plain
+  0199MEMB.CIA:
+    mimetype: text/plain
+  CD!DR.ANS:
+    mimetype: text/plain
+  CD!EBNKZ.ANS:
+    mimetype: text/plain
+  CD!HAZ.ANS:
+    mimetype: text/plain
+  CD!HER.ANS:
+    mimetype: text/plain
+  CD!MOOF.ANS:
+    mimetype: text/plain
+  CD!PIG.ANS:
+    mimetype: text/plain
+  CD!QTM2.ANS:
+    mimetype: text/plain
+  CT-HAZMA.ASC:
+    mimetype: text/plain
+  CWSDPMI.EXE:
+    mimetype: application/x-msdos-program
+  DRM-BLUE.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  H-OBJUNK.ASC:
+    mimetype: text/plain
+  RG!HAL.ANS:
+    mimetype: text/plain
+  RP-C!OPS.ASC:
+    mimetype: text/plain
+  RP-SPOOF.ASC:
+    mimetype: text/plain
+  SK-SK8.ANS:
+    mimetype: text/plain
+  TB-BNFNK.ASC:
+    mimetype: text/plain
+  TB-WAMM.ASC:
+    mimetype: text/plain
+  TO-STAL.ASC:
+    mimetype: text/plain
+  TS-BHC.ASC:
+    mimetype: text/plain
+  TS-KRYL.ASC:
+    mimetype: text/plain
+  TS-MILAN.ASC:
+    mimetype: text/plain
+  TS-STOLE.ASC:
+    mimetype: text/plain
+  US-CIA.ANS:
+    mimetype: text/plain
+  US-MILAN.ANS:
+    mimetype: text/plain
+  WIRETAP.EXE:
+    mimetype: application/x-msdos-program
+  ZS-HAZ.ANS:
+    mimetype: text/plain
+  ZZ-DZCLY.ASC:
+    mimetype: text/plain

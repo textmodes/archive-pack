@@ -1,0 +1,56 @@
+name: bpi!0696.zip
+hash: 062b837058bdcbf027dee054897eb54c
+year: 1996
+file:
+  BPI!APPL.FRM:
+    mimetype: text/plain
+  BPI!INFO.ANS:
+    mimetype: text/plain
+  BPI!NEWS.ANS:
+    mimetype: text/plain
+  BPI!REL.ANS:
+    mimetype: text/plain
+  BPI!REQ.FRM:
+    mimetype: text/plain
+  EXTRA.FNO:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  SCULLY.EXE:
+    mimetype: application/x-msdos-program
+  SD!BPIFI.ASC:
+    mimetype: text/plain
+  SD!BPILO.ANS:
+    mimetype: text/plain
+  SD!ESLG.ANS:
+    mimetype: text/plain
+  SD!FEAR.ANS:
+    mimetype: text/plain
+  SD!KAOZ.ANS:
+    mimetype: text/plain
+  SD!KOLOG.ASC:
+    mimetype: text/plain
+  SD!MIND.ANS:
+    mimetype: text/plain
+  SD!RDLG4.ANS:
+    mimetype: text/plain
+  SD!SO.ANS:
+    mimetype: text/plain
+  SD!SOL.ANS:
+    mimetype: text/plain
+  SD!SOMN.ANS:
+    mimetype: text/plain
+  SD!VRB.ANS:
+    mimetype: text/plain
+  SD!WC.ANS:
+    mimetype: text/plain
+  SD!XFILE.ANS:
+    mimetype: text/plain
+  SD%BLINK.RIP:
+    mimetype: image/x-rip
+  SD%QCK2.RIP:
+    mimetype: image/x-rip
+  SD%QUICK.RIP:
+    mimetype: image/x-rip
+  SD%ROGUE.RIP:
+    mimetype: image/x-rip

@@ -1,0 +1,68 @@
+name: acdu0996.zip
+hash: 66e6c745d8ab975a80eb4267cc39292b
+year: 1996
+file:
+  ACID0996.ANS:
+    mimetype: text/plain
+  ACIDAPP.EXE:
+    mimetype: application/x-msdos-program
+  ACIDVIEW.DAT:
+    mimetype: application/octet-stream
+  ACIDVIEW.EXE:
+    mimetype: application/x-msdos-program
+  ACIDVIEW.NFO:
+    mimetype: text/plain
+  ANS0996A.ANS:
+    mimetype: text/plain
+  ASC0996A.ASC:
+    mimetype: text/plain
+  BD-ECL1.ANS:
+    mimetype: text/plain
+  CY-AC1.ANS:
+    mimetype: text/plain
+  CY-CLS1.ANS:
+    mimetype: text/plain
+  CY-MAIL.ANS:
+    mimetype: text/plain
+  CY-PROP1.ANS:
+    mimetype: text/plain
+  CZ-KC1.ANS:
+    mimetype: text/plain
+  CZ-KC3.ANS:
+    mimetype: text/plain
+  DOINK!.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  LM-FAG.ANS:
+    mimetype: text/plain
+  NEWS0996.ANS:
+    mimetype: text/plain
+  RI-SCUM.ANS:
+    mimetype: text/plain
+  SD-HDR1.ANS:
+    mimetype: text/plain
+  SD-HUMA1.ANS:
+    mimetype: text/plain
+  SD-SG1.XB:
+    mimetype: text/x-xbin
+  SI-SOS1.ANS:
+    mimetype: text/plain
+  SPOON.EXE:
+    mimetype: application/x-msdos-program
+  SPOON.INI:
+    mimetype: text/plain
+  ST-7TH.ANS:
+    mimetype: text/plain
+  ST-AZ.ANS:
+    mimetype: text/plain
+  ST-PHLEM.ANS:
+    mimetype: text/plain
+  TSK-JIZZ.ANS:
+    mimetype: text/plain
+  US-DOINK.ANS:
+    mimetype: text/plain
+  US-ECL2.ANS:
+    mimetype: text/plain
+  WE-WILL.SUE:
+    mimetype: text/plain

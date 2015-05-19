@@ -1,0 +1,78 @@
+name: rain-01.zip
+hash: 6697e9c4c4b68ee71ea0941ce7cdea04
+year: 1995
+file:
+  (ANSI):
+    mimetype: text/plain
+  (APPLY):
+    mimetype: text/plain
+  (ASCII):
+    mimetype: text/plain
+  (INFO):
+    mimetype: text/plain
+  (NET):
+    mimetype: text/plain
+  (SOUND):
+    mimetype: text/plain
+  (VGA):
+    mimetype: text/plain
+  BM-GATE.ANS:
+    mimetype: text/plain
+  BM-RAIN1.ANS:
+    mimetype: text/plain
+  CI-CHOAS.ANS:
+    mimetype: text/plain
+  CI-DFB!.ANS:
+    mimetype: text/plain
+  CI-RAIN.ANS:
+    mimetype: text/plain
+  CI-RAIN2.ANS:
+    mimetype: text/plain
+  EP-MODEM.MOD:
+    mimetype: audio/x-mod
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  I5-ELEU2.GIF:
+    mimetype: image/gif
+  I5-LWI.GIF:
+    mimetype: image/gif
+  NEO.COM:
+    mimetype: application/x-msdos-program
+  PB-HAZRD.ASC:
+    mimetype: text/plain
+  PB-HZRDT.ANS:
+    mimetype: text/plain
+  PB-TAINT.ANS:
+    mimetype: text/plain
+  PE-COM.ANS:
+    mimetype: text/plain
+  PE-TRN.ANS:
+    mimetype: text/plain
+  RAIN-APP.ZIP:
+    mimetype: application/zip
+  RAIN-MEM.NFO:
+    mimetype: text/plain
+  RAIN-NET.ZIP:
+    mimetype: application/zip
+  RAINNEWS.NFO:
+    mimetype: text/plain
+  RF-DFL.ANS:
+    mimetype: text/plain
+  RF-HDR.ANS:
+    mimetype: text/plain
+  S3-8BALL.ANS:
+    mimetype: text/plain
+  S3-8HEAD.ANS:
+    mimetype: text/plain
+  S3-LOGIN.ANS:
+    mimetype: text/plain
+  S3-RAIN.ANS:
+    mimetype: text/plain
+  S3-TDZ.ANS:
+    mimetype: text/plain
+  S3-UNSEN.ANS:
+    mimetype: text/plain
+  XT-THC2.GIF:
+    mimetype: image/gif
+  XT-UFATE.GIF:
+    mimetype: image/gif

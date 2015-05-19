@@ -1,0 +1,44 @@
+name: optk1293.zip
+hash: 3c6723a972f470ef582b4744bb6be0d4
+year: 1993
+file:
+  DESCRIPT.ION:
+    mimetype: text/plain
+  DP-OPTIK.ZIP:
+    mimetype: application/zip
+  FILE_LST.NFO:
+    mimetype: text/plain
+  FL-GUNDM.OPT:
+    mimetype: text/plain
+  FL-OPLG.OPT:
+    mimetype: text/plain
+  FL-OPTKA.OPT:
+    mimetype: text/plain
+  FUN!.COM:
+    mimetype: application/x-msdos-program
+  NK-AMBPW.MOD:
+    mimetype: audio/x-mod
+  NK-DMWMP.OPT:
+    mimetype: text/plain
+  NK-HARDC.MOD:
+    mimetype: audio/x-mod
+  NK-HESTR.MOD:
+    mimetype: audio/x-mod
+  NK-ICTRW.OPT:
+    mimetype: text/plain
+  NK-INCGR.MOD:
+    mimetype: audio/x-mod
+  NK-INDTE.MOD:
+    mimetype: audio/x-mod
+  NK-INFER.OPT:
+    mimetype: text/plain
+  NK-MADEX.MOD:
+    mimetype: audio/x-mod
+  NK-MENTH.MOD:
+    mimetype: audio/x-mod
+  NK-MESSG.NFO:
+    mimetype: text/plain
+  NK-TOGWE.OPT:
+    mimetype: text/plain
+  OPTIKS.NFO:
+    mimetype: text/plain

@@ -1,0 +1,20 @@
+name: fowlart.zip
+hash: 8bb36785aa433129a8db3662e786e027
+year: 1995
+file:
+  DRUGSS.PCX:
+    mimetype: image/pcx
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FOWL.EXE:
+    mimetype: application/x-msdos-program
+  FOWL2.EXE:
+    mimetype: application/x-msdos-program
+  NEO.COM:
+    mimetype: application/x-msdos-program
+  SKULL.GIF:
+    mimetype: image/gif
+  UNDERWOR.PCX:
+    mimetype: image/pcx
+  WIZARD2.PCX:
+    mimetype: image/pcx

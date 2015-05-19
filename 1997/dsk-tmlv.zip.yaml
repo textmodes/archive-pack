@@ -1,0 +1,24 @@
+name: dsk-tmlv.zip
+hash: f3dd49e3dbd0cd66714783743bd57c8d
+year: 1997
+file:
+  AMIFONT!.COM:
+    mimetype: application/x-msdos-program
+  DASK.ASC:
+    mimetype: text/plain
+  DASK.NFO:
+    mimetype: text/plain
+  DSK-LVM.XM:
+    mimetype: audio/x-mod
+  DSK-TMLV.TXT:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GIMBDQQW.ASC:
+    mimetype: text/plain
+  KAVAL.ASC:
+    mimetype: text/plain
+  PASSED.CG:
+    mimetype: application/octet-stream
+  TOOL.NFO:
+    mimetype: text/plain

@@ -1,0 +1,34 @@
+name: buzina6.zip
+hash: 44453d8c5ff00103aa75b93a598d7523
+year: 2003
+file:
+  buzina.txt:
+    mimetype: text/plain
+  crs-chle.asc:
+    mimetype: text/plain
+  crs-face.ans:
+    mimetype: text/plain
+  crs-hmes.ans:
+    mimetype: text/plain
+  crs-idea.ans:
+    mimetype: text/plain
+  crs-slav.ans:
+    mimetype: text/plain
+  crs-zero.jpg:
+    mimetype: image/jpeg
+  file_id.diz:
+    mimetype: text/plain
+  l&0-eyes.ans:
+    mimetype: text/plain
+  l&z-hybr.ans:
+    mimetype: text/plain
+  l-face.ans:
+    mimetype: text/plain
+  l-fio.ans:
+    mimetype: text/plain
+  membaz.nfo:
+    mimetype: text/plain
+  ox-jc.asc:
+    mimetype: text/plain
+  ox-mir.ans:
+    mimetype: text/plain

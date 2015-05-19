@@ -1,0 +1,42 @@
+name: hrg-10.zip
+hash: da98f90a9d77e302173ad032d424506b
+year: 1997
+file:
+  '---10---.NFO':
+    mimetype: text/plain
+  CPS-HRGR.IT:
+    mimetype: audio/x-mod
+  EXC2.JPG:
+    mimetype: image/jpeg
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  HRG.NFO:
+    mimetype: text/plain
+  HRGREG.EXE:
+    mimetype: application/x-msdos-program
+  I_L^BAD.ASC:
+    mimetype: text/plain
+  I_L^BD.ASC:
+    mimetype: text/plain
+  I_L^COMA.ASC:
+    mimetype: text/plain
+  I_L^ENDR.ASC:
+    mimetype: text/plain
+  I_L^HARM.ASC:
+    mimetype: text/plain
+  I_L^SYMB.ASC:
+    mimetype: text/plain
+  I_L^VDR.ASC:
+    mimetype: text/plain
+  IF-ASC2.ASC:
+    mimetype: text/plain
+  IF-N1.JPG:
+    mimetype: image/jpeg
+  IF-N2.JPG:
+    mimetype: image/jpeg
+  IMT-THNG.JPG:
+    mimetype: image/jpeg
+  PHL-DIES.ASC:
+    mimetype: text/plain
+  TOWER.JPG:
+    mimetype: image/jpeg

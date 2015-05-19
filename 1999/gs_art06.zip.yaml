@@ -1,0 +1,40 @@
+name: gs_art06.zip
+hash: 5aa8153e54b35a842375fb5fd7c71640
+year: 1999
+file:
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GS-APP.EXE:
+    mimetype: application/x-msdos-program
+  GS-ART06.NFO:
+    mimetype: text/plain
+  GS.NFO:
+    mimetype: text/plain
+  MS-ZDIAC.JPG:
+    mimetype: image/jpeg
+  PK!MANUF.JPG:
+    mimetype: image/jpeg
+  ROZ-MSTA.JPG:
+    mimetype: image/jpeg
+  ROZ-RUFF.JPG:
+    mimetype: image/jpeg
+  ZL-ART06.JPG:
+    mimetype: image/jpeg
+  ZL-LHAND.JPG:
+    mimetype: image/jpeg
+  ZL-MMAK.JPG:
+    mimetype: image/jpeg
+  ZL-PMLA.JPG:
+    mimetype: image/jpeg
+  ZL-RIDRS.JPG:
+    mimetype: image/jpeg
+  ZL-SAGA.JPG:
+    mimetype: image/jpeg
+  ZL-SCHT.JPG:
+    mimetype: image/jpeg
+  ZL-SHOES.JPG:
+    mimetype: image/jpeg
+  ZL-SODOM.JPG:
+    mimetype: image/jpeg
+  ZL-TOOTA.JPG:
+    mimetype: image/jpeg

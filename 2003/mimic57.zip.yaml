@@ -1,0 +1,58 @@
+name: mimic57.zip
+hash: 9bb8bb2facfa331f51ce1d2bac99e497
+year: 2003
+file:
+  amiga.com:
+    mimetype: application/x-msdos-program
+  bjasc259.bin:
+    mimetype: application/octet-stream
+  file_id.diz:
+    mimetype: text/plain
+  grm-bday.asc:
+    mimetype: text/plain
+  h7-hchdr.ans:
+    mimetype: text/plain
+  h7-mmc57.asc:
+    mimetype: text/plain
+  jn-bloom.ans:
+    mimetype: text/plain
+  jn-chao2.asc:
+    mimetype: text/plain
+  jn-cllge.ans:
+    mimetype: text/plain
+  jn-milkb.ans:
+    mimetype: text/plain
+  jn-wisek.ans:
+    mimetype: text/plain
+  ko-macht.ans:
+    mimetype: text/plain
+  ko-ronny.asc:
+    mimetype: text/plain
+  ko-shuss.ans:
+    mimetype: text/plain
+  ko-small.ans:
+    mimetype: text/plain
+  ko-taima.ans:
+    mimetype: text/plain
+  members.ans:
+    mimetype: text/plain
+  pc.com:
+    mimetype: application/x-msdos-program
+  quotes57.txt:
+    mimetype: text/plain
+  readme.txt:
+    mimetype: text/plain
+  tb-mml.ans:
+    mimetype: text/plain
+  vlzhzlit.ans:
+    mimetype: text/plain
+  vlzrmrs.asc:
+    mimetype: text/plain
+  vlzrodak.ans:
+    mimetype: text/plain
+  war.jpg:
+    mimetype: image/jpeg
+  wk-mmc57.txt:
+    mimetype: text/plain
+  zs-ge.ans:
+    mimetype: text/plain

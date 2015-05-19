@@ -1,0 +1,74 @@
+name: aeron-a.zip
+hash: 77b5f30c6aaac06071b3f8b7d725a5f0
+year: 2000
+file:
+  aeron/ansi/BC-FORTY.ANS:
+    mimetype: text/plain
+  aeron/ansi/BC-INJ01.ANS:
+    mimetype: text/plain
+  aeron/ansi/BC-WR.ANS:
+    mimetype: text/plain
+  aeron/ansi/Bc-aeron.ans:
+    mimetype: text/plain
+  aeron/ansi/Cw-an.ans:
+    mimetype: text/plain
+  aeron/ansi/Cw-opp.ans:
+    mimetype: text/plain
+  aeron/ansi/Cw-spade.ans:
+    mimetype: text/plain
+  aeron/ansi/K0n-aar.ans:
+    mimetype: text/plain
+  aeron/ansi/K0n-aphx.ans:
+    mimetype: text/plain
+  aeron/ansi/K0n-dna2.ans:
+    mimetype: text/plain
+  aeron/ansi/K0n-drnk.ans:
+    mimetype: text/plain
+  aeron/ansi/K0n-eao.ans:
+    mimetype: text/plain
+  aeron/ansi/K0n-kod.ans:
+    mimetype: text/plain
+  aeron/ansi/K0n-phos.ans:
+    mimetype: text/plain
+  aeron/ansi/K0n-port.ans:
+    mimetype: text/plain
+  aeron/ansi/K0n-punx.ans:
+    mimetype: text/plain
+  aeron/ansi/Lei-aero.ans:
+    mimetype: text/plain
+  aeron/ansi/MEMBERS01.NFO:
+    mimetype: text/plain
+  aeron/ansi/Members01.ans:
+    mimetype: text/plain
+  aeron/ansi/Sz-solar.ans:
+    mimetype: text/plain
+  aeron/ansi/Us-dna.ans:
+    mimetype: text/plain
+  aeron/ansi/cw-bind.ans:
+    mimetype: text/plain
+  aeron/ansi/cw-dna.ans:
+    mimetype: text/plain
+  aeron/ansi/cw-exalt.ans:
+    mimetype: text/plain
+  aeron/ansi/dsk-350.ans:
+    mimetype: text/plain
+  aeron/ansi/dsk-bla.ans:
+    mimetype: text/plain
+  aeron/ansi/file_id.diz:
+    mimetype: text/plain
+  aeron/ansi/im-basic.ans:
+    mimetype: text/plain
+  aeron/ansi/im-ghcl.ans:
+    mimetype: text/plain
+  aeron/ansi/im-time.ans:
+    mimetype: text/plain
+  aeron/ansi/sm-dna.ans:
+    mimetype: text/plain
+  aeron/ansi/sm-sm3rforg.ans:
+    mimetype: text/plain
+  aeron/ansi/sz-Dial01.ans:
+    mimetype: text/plain
+  aeron/ansi/sz-opp.ans:
+    mimetype: text/plain
+  aeron/ansi/us-aero.ans:
+    mimetype: text/plain

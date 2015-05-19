@@ -1,0 +1,88 @@
+name: twst-12.zip
+hash: 2dd112fe4a41b397cf707b7a3f91c6fa
+year: 1997
+file:
+  BDEM-02.COL:
+    mimetype: text/plain
+  BMAJ-01.JPG:
+    mimetype: image/jpeg
+  BMAJ-02.JPG:
+    mimetype: image/jpeg
+  CATCH-01.ANS:
+    mimetype: text/plain
+  CATCH-01.COL:
+    mimetype: text/plain
+  CATCH-01.LOG:
+    mimetype: text/plain
+  CATCH-02.ANS:
+    mimetype: text/plain
+  CATCH-03.ANS:
+    mimetype: text/plain
+  DFIRE-01.COL:
+    mimetype: text/plain
+  DRAC-01.ANS:
+    mimetype: text/plain
+  DRAC-02.ANS:
+    mimetype: text/plain
+  DRAC-03.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GRPP-01.ASC:
+    mimetype: text/plain
+  GRPP-02.ANS:
+    mimetype: text/plain
+  GRPP-03.ANS:
+    mimetype: text/plain
+  GRPP-03.COL:
+    mimetype: text/plain
+  GRPP-04.ANS:
+    mimetype: text/plain
+  IMANI-01.ASC:
+    mimetype: text/plain
+  IMANI-02.ASC:
+    mimetype: text/plain
+  IMANI-03.ASC:
+    mimetype: text/plain
+  IMANI-04.ASC:
+    mimetype: text/plain
+  JYNX-03.ASC:
+    mimetype: text/plain
+  MALF-02.COL:
+    mimetype: text/plain
+  MALF-03.ANS:
+    mimetype: text/plain
+  MALF-04.ANS:
+    mimetype: text/plain
+  ORGR-01.COL:
+    mimetype: text/plain
+  ORGR-02.ASC:
+    mimetype: text/plain
+  PCEA-02.ANS:
+    mimetype: text/plain
+  PCEA-02.COL:
+    mimetype: text/plain
+  PCEA-03.COL:
+    mimetype: text/plain
+  RDETH-01.ANS:
+    mimetype: text/plain
+  RUIN-03.COL:
+    mimetype: text/plain
+  RUIN-04.COL:
+    mimetype: text/plain
+  SAUCE.---:
+    mimetype: text/plain
+  SHMN-01.LOG:
+    mimetype: text/plain
+  STRIK-01.COL:
+    mimetype: text/plain
+  TMAN-01.TXT:
+    mimetype: text/plain
+  TOTH-01.COL:
+    mimetype: text/plain
+  TWST-12.MEM:
+    mimetype: text/plain
+  TWST-12.NFO:
+    mimetype: text/plain
+  TWVIEW.EXE:
+    mimetype: application/x-msdos-program

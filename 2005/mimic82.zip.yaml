@@ -1,0 +1,28 @@
+name: mimic82.zip
+hash: ad53ba76a2d9acf63dc01d4cc0378675
+year: 2005
+file:
+  eeh-dsf.asc:
+    mimetype: text/plain
+  eeh-ice.asc:
+    mimetype: text/plain
+  eeh-ice2.asc:
+    mimetype: text/plain
+  eeh-sne.asc:
+    mimetype: text/plain
+  file_id.diz:
+    mimetype: text/plain
+  h7-dmix.asc:
+    mimetype: text/plain
+  je-mbox.ans:
+    mimetype: text/plain
+  jn-mmcbx.ans:
+    mimetype: text/plain
+  jn-sp123.ans:
+    mimetype: text/plain
+  members.txt:
+    mimetype: text/plain
+  no-dip.bin:
+    mimetype: application/octet-stream
+  quotes82.txt:
+    mimetype: text/plain

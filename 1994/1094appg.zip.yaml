@@ -1,0 +1,100 @@
+name: 1094appg.zip
+hash: a95d9a37b8182651f74517041ac579ee
+year: 1994
+file:
+  APPMENUS.BAK:
+    mimetype: text/plain
+  APPMENUS.PAS:
+    mimetype: text/x-pascal
+  APPMENUS.TPU:
+    mimetype: application/octet-stream
+  APPRECS.BAK:
+    mimetype: text/plain
+  APPRECS.PAS:
+    mimetype: text/x-pascal
+  APPRECS.TPU:
+    mimetype: text/plain
+  APPUTILS.BAK:
+    mimetype: text/plain
+  APPUTILS.PAS:
+    mimetype: text/x-pascal
+  APPUTILS.TPU:
+    mimetype: application/octet-stream
+  CREDITS.ANS:
+    mimetype: text/plain
+  CREDITS.DAT:
+    mimetype: text/plain
+  FASTTTT5.BAK:
+    mimetype: text/plain
+  FASTTTT5.OBJ:
+    mimetype: application/octet-stream
+  FASTTTT5.PAS:
+    mimetype: text/x-pascal
+  FASTTTT5.TPU:
+    mimetype: application/octet-stream
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  ICE-ROC.BAK:
+    mimetype: text/plain
+  ICEIO1.BAK:
+    mimetype: text/plain
+  ICEIO1.PAS:
+    mimetype: text/x-pascal
+  ICEIO1.TPU:
+    mimetype: application/octet-stream
+  ICETXT.BAK:
+    mimetype: text/plain
+  ICETXT.PAS:
+    mimetype: text/x-pascal
+  ICETXT.TPU:
+    mimetype: application/octet-stream
+  LINE.ASC:
+    mimetype: text/plain
+  MAIN.ANS:
+    mimetype: text/plain
+  MAININFO.ANS:
+    mimetype: text/plain
+  MAININFO.DAT:
+    mimetype: text/plain
+  MAINMENU.DAT:
+    mimetype: text/plain
+  NONAME00.TPU:
+    mimetype: text/plain
+  NOTES.ANS:
+    mimetype: text/plain
+  NOTES.DAT:
+    mimetype: text/plain
+  RIGHT.BAK:
+    mimetype: text/plain
+  RIGHT.EXE:
+    mimetype: application/x-msdos-program
+  RIGHT.PAS:
+    mimetype: text/x-pascal
+  ROC.ANS:
+    mimetype: text/plain
+  ROCAPP.BAK:
+    mimetype: text/plain
+  ROCAPP.EXE:
+    mimetype: application/x-msdos-program
+  ROCAPP.PAS:
+    mimetype: text/x-pascal
+  ROCLOGO.DAT:
+    mimetype: text/plain
+  SAVEINFO.BAK:
+    mimetype: text/plain
+  SAVEINFO.PAS:
+    mimetype: text/x-pascal
+  SAVEINFO.TPU:
+    mimetype: application/octet-stream
+  SROLANSI.BAK:
+    mimetype: text/plain
+  SROLANSI.PAS:
+    mimetype: text/x-pascal
+  SROLANSI.TPU:
+    mimetype: application/octet-stream
+  THEDRAW.PCK:
+    mimetype: application/octet-stream
+  TP13285A.$$$:
+    mimetype: application/octet-stream
+  ZL-ROC.APP:
+    mimetype: text/plain

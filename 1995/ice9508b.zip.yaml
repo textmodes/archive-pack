@@ -1,0 +1,54 @@
+name: ice9508b.zip
+hash: 3828bea2995abc462a049c7c7205cc3f
+year: 1995
+file:
+  !!binary xEVYRcTExMQ=:
+    mimetype: text/plain
+  !!binary xElDRVZJRVc=:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  HEAVEN.ANS:
+    mimetype: text/plain
+  HISTORY.IV:
+    mimetype: text/plain
+  ICEVIEW.CNF:
+    mimetype: text/plain
+  ICEVIEW.DOC:
+    mimetype: text/plain
+  ICEVIEW.EXE:
+    mimetype: application/x-msdos-program
+  IV-PIF.DVP:
+    mimetype: application/octet-stream
+  PV.EXE:
+    mimetype: application/x-msdos-program
+  RIPFONTS.ZIP:
+    mimetype: application/zip
+  RL-PAR.JPG:
+    mimetype: image/jpeg
+  RL-SHI.JPG:
+    mimetype: image/jpeg
+  RL-UNRL.JPG:
+    mimetype: image/jpeg
+  RL-VADER.JPG:
+    mimetype: image/jpeg
+  SB-M71.GIF:
+    mimetype: image/gif
+  SB-SBPW.GIF:
+    mimetype: image/gif
+  SP-WIND.EXE:
+    mimetype: application/x-msdos-program
+  SQ-EU4IA.GIF:
+    mimetype: image/gif
+  SQ-REVLT.GIF:
+    mimetype: image/gif
+  SQ-TDU.COM:
+    mimetype: application/x-msdos-program
+  SW-ICE02.GIF:
+    mimetype: image/gif
+  TD-MERCU.JPG:
+    mimetype: image/jpeg
+  XT-DROOL.JPG:
+    mimetype: image/jpeg
+  XT-FREE.JPG:
+    mimetype: image/jpeg

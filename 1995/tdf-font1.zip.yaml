@@ -1,0 +1,10 @@
+name: tdf-font1.zip
+hash: bb50ec15785606862278841bab8cca7d
+year: 1995
+file:
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FONT1.TDF:
+    mimetype: application/octet-stream
+  NEO.COM:
+    mimetype: application/x-msdos-program

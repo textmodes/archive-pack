@@ -1,0 +1,72 @@
+name: mx-pack12.zip
+hash: 79847dcfa8dc2f6d0da6218a46afd590
+year: 2004
+file:
+  ASCII/MXT-CAX.ASC:
+    mimetype: text/plain
+  ASCII/MXT-COS.ASC:
+    mimetype: text/plain
+  ASCII/MXT-CRZX.ASC:
+    mimetype: text/plain
+  ASCII/MXT-CTA.ASC:
+    mimetype: text/plain
+  ASCII/MXT-DH.ASC:
+    mimetype: text/plain
+  ASCII/MXT-EC.ASC:
+    mimetype: text/plain
+  ASCII/MXT-FUG.ASC:
+    mimetype: text/plain
+  ASCII/MXT-GXT.ASC:
+    mimetype: text/plain
+  ASCII/MXT-KANE.ASC:
+    mimetype: text/plain
+  ASCII/MXT-PSYC.ASC:
+    mimetype: text/plain
+  ASCII/MXT-RGN.ASC:
+    mimetype: text/plain
+  ASCII/MXT-UPE.ASC:
+    mimetype: text/plain
+  ASCII/MXT-UTBD.ASC:
+    mimetype: text/plain
+  ASCII/MXT-XIMP.ASC:
+    mimetype: text/plain
+  HIREZ/mxt-acme-kg-logo3.gif:
+    mimetype: image/gif
+  HIREZ/mxt-acme-kg-logo4.gif:
+    mimetype: image/gif
+  HIREZ/mxt-acme-kg-logo5.gif:
+    mimetype: image/gif
+  HIREZ/mxt-anton-cartoon-style.jpg:
+    mimetype: image/jpeg
+  HIREZ/mxt-chendler-ucf-logo-blue.gif:
+    mimetype: image/gif
+  HIREZ/mxt-cro-graffiti-logo.jpg:
+    mimetype: image/jpeg
+  HIREZ/mxt-cro-toxigen.jpg:
+    mimetype: image/jpeg
+  HIREZ/mxt-cryptodocs-logo.gif:
+    mimetype: image/gif
+  HIREZ/mxt-deamerx-site-logo.gif:
+    mimetype: image/gif
+  HIREZ/mxt-m-tt1.gif:
+    mimetype: image/gif
+  HIREZ/mxt-m-wallpaper-graffiti.jpg:
+    mimetype: image/jpeg
+  HIREZ/mxt-m-wallpaper-graffiti2.jpg:
+    mimetype: image/jpeg
+  HIREZ/mxt-shane54-site-design-example.gif:
+    mimetype: image/gif
+  HIREZ/mxt-the-one-logo.jpg:
+    mimetype: image/jpeg
+  HIREZ/mxt-witeg-keygen-logo1.gif:
+    mimetype: image/gif
+  ICONS/mxt-cup1.ico:
+    mimetype: image/x-icon
+  ICONS/mxt-deatomater-icon1.ico:
+    mimetype: image/x-icon
+  ICONS/mxt-virility-icon2.ico:
+    mimetype: image/x-icon
+  ICONS/mxt-virility-icon3.ico:
+    mimetype: image/x-icon
+  MAXXTRO.NFO:
+    mimetype: text/plain

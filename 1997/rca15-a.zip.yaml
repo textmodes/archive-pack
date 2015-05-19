@@ -1,0 +1,72 @@
+name: rca15-a.zip
+hash: 472a393624917443f66f47fb9f58f42e
+year: 1997
+file:
+  BDH-CLS!.ASC:
+    mimetype: text/plain
+  BDH-FE!.ASC:
+    mimetype: text/plain
+  BDH-OZ!.ASC:
+    mimetype: text/plain
+  BDH-SLS.ASC:
+    mimetype: text/plain
+  BDH-TO!.ASC:
+    mimetype: text/plain
+  DABOMB.ANS:
+    mimetype: text/plain
+  DAROTTT.ANS:
+    mimetype: text/plain
+  DH-RTURN.ASC:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  LB-MEM.ANS:
+    mimetype: text/plain
+  MC-RCA.RIP:
+    mimetype: image/x-rip
+  PB-AIR.ANS:
+    mimetype: text/plain
+  PB-OC.ANS:
+    mimetype: text/plain
+  PB-RCA.ANS:
+    mimetype: text/plain
+  PR-ALUC.ANS:
+    mimetype: text/plain
+  PR-BAT2.ANS:
+    mimetype: text/plain
+  PR-ENIG.ANS:
+    mimetype: text/plain
+  PR-FREE.ANS:
+    mimetype: text/plain
+  PR-IDK.ANS:
+    mimetype: text/plain
+  PR-PIPE3.ANS:
+    mimetype: text/plain
+  PR-RAVEN.ANS:
+    mimetype: text/plain
+  PR-RC4.ANS:
+    mimetype: text/plain
+  PR-SS.ANS:
+    mimetype: text/plain
+  RCA-MEMB.ANS:
+    mimetype: text/plain
+  RCANEWS.ANS:
+    mimetype: text/plain
+  S4-SALT.ANS:
+    mimetype: text/plain
+  S4-SZ.ANS:
+    mimetype: text/plain
+  US-ATOM.ANS:
+    mimetype: text/plain
+  US-HYBS.ANS:
+    mimetype: text/plain
+  US-RCA.ANS:
+    mimetype: text/plain
+  damask.ans:
+    mimetype: text/plain
+  kt-lbhal.ans:
+    mimetype: text/plain
+  pl-0997.ans:
+    mimetype: text/plain
+  pr-hh.ans:
+    mimetype: text/plain

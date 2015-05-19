@@ -1,0 +1,22 @@
+name: ansis-w.zip
+hash: 7a8d0e674b1c59c6990c6e5f193ea33b
+year: 1993
+file:
+  -RUNME.COM:
+    mimetype: application/x-msdos-program
+  WASH-RDS.ANS:
+    mimetype: text/plain
+  WELSIGN.ANS:
+    mimetype: text/plain
+  WITCH.ANS:
+    mimetype: text/plain
+  WITCH91.ANS:
+    mimetype: text/plain
+  WOLF.ANS:
+    mimetype: text/plain
+  WOW.ANS:
+    mimetype: text/plain
+  WUBBA.ANS:
+    mimetype: text/plain
+  WWANS100.ANS:
+    mimetype: text/plain

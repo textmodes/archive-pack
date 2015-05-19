@@ -1,0 +1,40 @@
+name: crs-mnmp.zip
+hash: d6bfd64f10d222fcd95ee3cb747b2fbe
+year: 2003
+file:
+  0minimal/CRS-BLUE.ANS:
+    mimetype: text/plain
+  0minimal/CRS-CATC.ANS:
+    mimetype: text/plain
+  0minimal/CRS-CLEA.ANS:
+    mimetype: text/plain
+  0minimal/CRS-DIR.ANS:
+    mimetype: text/plain
+  0minimal/CRS-FALL.ANS:
+    mimetype: text/plain
+  0minimal/CRS-HIDE.ANS:
+    mimetype: text/plain
+  0minimal/CRS-HOPE.ANS:
+    mimetype: text/plain
+  0minimal/CRS-TRG.ANS:
+    mimetype: text/plain
+  0minimal/crs-tx.ANS:
+    mimetype: text/plain
+  1maximal/CRS-AAC.ANS:
+    mimetype: text/plain
+  1maximal/CRS-CCL.ANS:
+    mimetype: text/plain
+  1maximal/CRS-FORE.ANS:
+    mimetype: text/plain
+  1maximal/CRS-JDU.ANS:
+    mimetype: text/plain
+  1maximal/CRS-LDGS.ANS:
+    mimetype: text/plain
+  1maximal/CRS-RAIN.ANS:
+    mimetype: text/plain
+  1maximal/CRS-SHE.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  info.txt:
+    mimetype: text/plain

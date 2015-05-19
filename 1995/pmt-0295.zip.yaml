@@ -1,0 +1,70 @@
+name: pmt-0295.zip
+hash: b32238afca6b5b19a6814415a4356853
+year: 1995
+file:
+  !!binary xMTExMTExMQuxMTE:
+    mimetype: text/plain
+  AK-PMT1.GIF:
+    mimetype: image/gif
+  AK-PMT2.GIF:
+    mimetype: image/gif
+  !!binary QU5TSVPExMQuxMTE:
+    mimetype: text/plain
+  CID-PAR1.EXE:
+    mimetype: application/x-msdos-program
+  DS-BSLAP.PMT:
+    mimetype: text/plain
+  DS-NAILZ.PMT:
+    mimetype: text/plain
+  DS-PR.PMT:
+    mimetype: text/plain
+  DS-REBEL.PMT:
+    mimetype: text/plain
+  DS-TT1.PMT:
+    mimetype: text/plain
+  DS-UNSEN.PMT:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FILE_ID.PV:
+    mimetype: text/plain
+  IA-MELT.PMT:
+    mimetype: text/plain
+  IA-TF.PMT:
+    mimetype: text/plain
+  !!binary T1RIRVLExMQuxMTE:
+    mimetype: text/plain
+  P2-PMT1.GIF:
+    mimetype: image/gif
+  P2-TT1.GIF:
+    mimetype: image/gif
+  PARAVIEW.DOC:
+    mimetype: text/plain
+  PARAVIEW.EXE:
+    mimetype: application/x-msdos-program
+  PMT-0295.MEM:
+    mimetype: text/plain
+  PMT-0295.NFO:
+    mimetype: text/plain
+  PMT-0295.SIT:
+    mimetype: text/plain
+  !!binary UE1UxMTExMQuxMTE:
+    mimetype: text/plain
+  !!binary UFbExMTExMQuxMTE:
+    mimetype: text/plain
+  !!binary UklQU8TExMQuxMTE:
+    mimetype: text/plain
+  SH-TAW.PMT:
+    mimetype: text/plain
+  SP-MMM.RIP:
+    mimetype: image/x-rip
+  STC-ANXY.PMT:
+    mimetype: text/plain
+  STC-TMMH.PMT:
+    mimetype: text/plain
+  TG-CARTL.PMT:
+    mimetype: text/plain
+  !!binary VkdBU8TExMQuxMTE:
+    mimetype: text/plain
+  WR-TMMH1.PMT:
+    mimetype: text/plain

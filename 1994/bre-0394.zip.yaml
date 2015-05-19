@@ -1,0 +1,52 @@
+name: bre-0394.zip
+hash: 198bba888482d7a0c4448eb5325ab80b
+year: 1994
+file:
+  !!binary +vlBTlNJ+fou+vn6:
+    mimetype: application/octet-stream
+  !!binary +vlJTkZP+fou+vn6:
+    mimetype: text/plain
+  !!binary +vlNSVND+fou+vn6:
+    mimetype: application/octet-stream
+  !!binary +vlWR0H5+vou+vn6:
+    mimetype: text/plain
+  BL-BATMN.GIF:
+    mimetype: image/gif
+  BL-KRUST.GIF:
+    mimetype: image/gif
+  BL-STIMP.GIF:
+    mimetype: image/gif
+  BREED.NFO:
+    mimetype: text/plain
+  BREED394.NFO:
+    mimetype: text/plain
+  BREEDAPP.EXE:
+    mimetype: application/x-msdos-program
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  HN-BRD1.ANS:
+    mimetype: text/plain
+  HN-BREED.ANS:
+    mimetype: text/plain
+  HN-DDLY.ANS:
+    mimetype: text/plain
+  HN-MARVN.GIF:
+    mimetype: image/gif
+  HN-SAVGE.GIF:
+    mimetype: image/gif
+  HN-SPAWN.GIF:
+    mimetype: image/gif
+  HN-SPOT.GIF:
+    mimetype: image/gif
+  HN-SPWN2.GIF:
+    mimetype: image/gif
+  HN-TSZ.ANS:
+    mimetype: text/plain
+  HN-WILDG.GIF:
+    mimetype: image/gif
+  NI-BREED.ANS:
+    mimetype: text/plain
+  S!POINT.EXE:
+    mimetype: application/x-msdos-program
+  UV-SWNLT.GIF:
+    mimetype: image/gif

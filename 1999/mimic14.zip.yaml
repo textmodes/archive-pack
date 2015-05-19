@@ -1,0 +1,54 @@
+name: mimic14.zip
+hash: 37747528c30b4554722286613794d919
+year: 1999
+file:
+  00what.txt:
+    mimetype: text/plain
+  aetopal.asc:
+    mimetype: text/plain
+  aetwrd.asc:
+    mimetype: text/plain
+  bj-creep.zip:
+    mimetype: application/zip
+  bjasc148.ans:
+    mimetype: text/plain
+  bjasc149.ans:
+    mimetype: text/plain
+  bjasc150.ans:
+    mimetype: text/plain
+  cd!che.ans:
+    mimetype: text/plain
+  dr-octa.asc:
+    mimetype: text/plain
+  file_id.diz:
+    mimetype: text/plain
+  gdr-deg6.asc:
+    mimetype: text/plain
+  k!plast.asc:
+    mimetype: text/plain
+  m-en-14.txt:
+    mimetype: text/plain
+  m7m-mnew.ans:
+    mimetype: text/plain
+  m7m-mpgc.ans:
+    mimetype: text/plain
+  m7m-prg7.ans:
+    mimetype: text/plain
+  m7mpm-ou.rmx:
+    mimetype: text/plain
+  members.ans:
+    mimetype: text/plain
+  pg-purge.ans:
+    mimetype: text/plain
+  r3v-will.asc:
+    mimetype: text/plain
+  th-wayl.asc:
+    mimetype: text/plain
+  us-icet.ans:
+    mimetype: text/plain
+  us-wayl.ans:
+    mimetype: text/plain
+  warrior.zip:
+    mimetype: application/zip
+  wkmimic2.txt:
+    mimetype: text/plain

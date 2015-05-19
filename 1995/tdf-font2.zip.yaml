@@ -1,0 +1,10 @@
+name: tdf-font2.zip
+hash: 7efb02151ac13f849ca54c4c134da9e7
+year: 1995
+file:
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FONT2.TDF:
+    mimetype: application/octet-stream
+  NEO.COM:
+    mimetype: application/x-msdos-program

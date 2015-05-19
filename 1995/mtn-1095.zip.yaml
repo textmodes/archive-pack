@@ -1,0 +1,106 @@
+name: mtn-1095.zip
+hash: 20612d3a0afec49f416c713f38271fa9
+year: 1995
+file:
+  '''AFFIL':
+    mimetype: text/plain
+  '''ANSI':
+    mimetype: text/plain
+  '''ASKI':
+    mimetype: text/plain
+  '''EXE':
+    mimetype: text/plain
+  '''GIF':
+    mimetype: text/plain
+  '''INFO':
+    mimetype: text/plain
+  '''STAT':
+    mimetype: text/plain
+  '`WELCOME.1':
+    mimetype: text/plain
+  '`WELCOME.2':
+    mimetype: text/plain
+  1095INFO.ANS:
+    mimetype: text/plain
+  1095MEMB.ANS:
+    mimetype: text/plain
+  1095SITE.ANS:
+    mimetype: text/plain
+  AN!INQ#2.ANS:
+    mimetype: text/plain
+  ASS-EVOL.ASC:
+    mimetype: text/plain
+  ASSNFO.ANS:
+    mimetype: text/plain
+  CI-MATRX.ANS:
+    mimetype: text/plain
+  CI-PERSO.ANS:
+    mimetype: text/plain
+  CI-STAT.ANS:
+    mimetype: text/plain
+  DF-DC1.ASC:
+    mimetype: text/plain
+  DF-DC2.ASC:
+    mimetype: text/plain
+  DP-ANSI.ANS:
+    mimetype: text/plain
+  DP-ASCII.ASC:
+    mimetype: text/plain
+  DP-TBD.ANS:
+    mimetype: text/plain
+  DT-COLLY.ASC:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FR-COLLY.ASC:
+    mimetype: text/plain
+  KHZ-GENF.ASC:
+    mimetype: text/plain
+  LF-BLCH2.ANS:
+    mimetype: text/plain
+  MI-MOTIO.RIP:
+    mimetype: image/x-rip
+  MT-COLLY.ANS:
+    mimetype: text/plain
+  MT-TB.ANS:
+    mimetype: text/plain
+  NG-COLLY.ANS:
+    mimetype: text/plain
+  PR-GZ1.ANS:
+    mimetype: text/plain
+  PR-LGO#1.ANS:
+    mimetype: text/plain
+  QS-CRYPT.ANS:
+    mimetype: text/plain
+  RIGID.EXE:
+    mimetype: application/x-msdos-program
+  SN-SS1.GIF:
+    mimetype: image/gif
+  SV-ACOP.ANS:
+    mimetype: text/plain
+  SV-DOA.ANS:
+    mimetype: text/plain
+  SV-JAG.ANS:
+    mimetype: text/plain
+  SV-LOGOC.ANS:
+    mimetype: text/plain
+  SWL-KOG1.ANS:
+    mimetype: text/plain
+  SWL-MTN.ANS:
+    mimetype: text/plain
+  TM-COLLY.ANS:
+    mimetype: text/plain
+  TM-IDES.ANS:
+    mimetype: text/plain
+  TMM-COLL.ASC:
+    mimetype: text/plain
+  TS-ALF1.ASC:
+    mimetype: text/plain
+  TS-KOD.ASC:
+    mimetype: text/plain
+  TS-PLANB.ASC:
+    mimetype: text/plain
+  YTH-GLOR.ANS:
+    mimetype: text/plain
+  YTH-LGO1.ANS:
+    mimetype: text/plain

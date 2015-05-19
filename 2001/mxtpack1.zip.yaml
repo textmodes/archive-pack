@@ -1,0 +1,32 @@
+name: mxtpack1.zip
+hash: 898270d0870cb954809e0fdef60bf684
+year: 2001
+file:
+  A-VIEW.COM:
+    mimetype: application/x-msdos-program
+  A-VIEW.PIF:
+    mimetype: application/x-dosexec
+  AMIGA.FNT:
+    mimetype: application/octet-stream
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FILES.BBS:
+    mimetype: text/plain
+  FOSI.ASC:
+    mimetype: text/plain
+  MXT!.ASC:
+    mimetype: text/plain
+  SMC.ASC:
+    mimetype: text/plain
+  TCT.ASC:
+    mimetype: text/plain
+  THUGLIFE.ORG:
+    mimetype: text/plain
+  UOFG.ASC:
+    mimetype: text/plain
+  WAREZ.ASC:
+    mimetype: text/plain
+  WRZ.ASC:
+    mimetype: text/plain
+  Z-FACE.ASC:
+    mimetype: text/plain

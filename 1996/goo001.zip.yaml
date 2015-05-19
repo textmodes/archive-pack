@@ -1,0 +1,44 @@
+name: goo001.zip
+hash: 9e75f448fea2f4a903ad42fdf5d0dfc8
+year: 1996
+file:
+  BK-PHREQ.ZIP:
+    mimetype: application/zip
+  DAFTPUNK.EXE:
+    mimetype: application/x-msdos-program
+  DS-PARA.S3M:
+    mimetype: audio/x-mod
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FOOT.ASC:
+    mimetype: text/plain
+  GOO-0196.MEM:
+    mimetype: text/plain
+  GOO-0196.SIT:
+    mimetype: text/plain
+  GOO-NEWS.001:
+    mimetype: text/plain
+  GOO-NEWS.NFO:
+    mimetype: text/plain
+  GOOINFO.EXE:
+    mimetype: application/x-msdos-program
+  K0-BLADE.ANS:
+    mimetype: text/plain
+  K0-COLLY.ANS:
+    mimetype: text/plain
+  K0-PHOB.ANS:
+    mimetype: text/plain
+  PH-001.ANS:
+    mimetype: text/plain
+  PH-GAS1.ANS:
+    mimetype: text/plain
+  PH-HOLYD.ANS:
+    mimetype: text/plain
+  PH-HYPNO.ANS:
+    mimetype: text/plain
+  PH-JNNET.ANS:
+    mimetype: text/plain
+  PH-NDE13.ASC:
+    mimetype: text/plain
+  PH-TNW1.ASC:
+    mimetype: text/plain

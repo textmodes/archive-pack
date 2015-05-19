@@ -1,0 +1,48 @@
+name: kbslit01.zip
+hash: c4263c19d32c6dbc4ff918d23308279c
+year: 2001
+file:
+  dutch.zip:
+    mimetype: application/zip
+  file_id.diz:
+    mimetype: text/plain
+  file_inf.txt:
+    mimetype: text/plain
+  go-001.txt:
+    mimetype: text/plain
+  go-002.txt:
+    mimetype: text/plain
+  go-003.txt:
+    mimetype: text/plain
+  go-004.txt:
+    mimetype: text/plain
+  jst-001.txt:
+    mimetype: text/plain
+  jst-002.txt:
+    mimetype: text/plain
+  jst-003.txt:
+    mimetype: text/plain
+  jst-004.txt:
+    mimetype: text/plain
+  jst-005.txt:
+    mimetype: text/plain
+  ls-001.txt:
+    mimetype: text/plain
+  ps-001.txt:
+    mimetype: text/plain
+  ps-002.txt:
+    mimetype: text/plain
+  us-001.txt:
+    mimetype: text/plain
+  us-002.txt:
+    mimetype: text/plain
+  us-003.txt:
+    mimetype: text/plain
+  us-004.txt:
+    mimetype: text/plain
+  wm-001.txt:
+    mimetype: text/plain
+  wm-002.txt:
+    mimetype: text/plain
+  wm-003.txt:
+    mimetype: text/plain

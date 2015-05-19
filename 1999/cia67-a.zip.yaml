@@ -1,0 +1,40 @@
+name: cia67-a.zip
+hash: 981ee007889592141a924c5a31cebf30
+year: 1999
+file:
+  '---CIA--.---':
+    mimetype: text/plain
+  '---ETC--.---':
+    mimetype: text/plain
+  --CNTD--.---:
+    mimetype: text/plain
+  --INFO--.---:
+    mimetype: text/plain
+  0999INFO.TXT:
+    mimetype: text/plain
+  0999memb.txt:
+    mimetype: text/plain
+  CS_C3PO.JPG:
+    mimetype: image/jpeg
+  FH_ASIA.JPG:
+    mimetype: image/jpeg
+  FH_CAP.JPG:
+    mimetype: image/jpeg
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  IK_ANTI.JPG:
+    mimetype: image/jpeg
+  IK_CRYP.JPG:
+    mimetype: image/jpeg
+  IK_GAP.GIF:
+    mimetype: image/gif
+  KM_GRAV.JPG:
+    mimetype: image/jpeg
+  VIEWER--.---:
+    mimetype: text/plain
+  WIRETAP.DOC:
+    mimetype: text/plain
+  WIRETAP.EXE:
+    mimetype: application/x-msdos-program
+  km_rzrs.jpg:
+    mimetype: image/jpeg

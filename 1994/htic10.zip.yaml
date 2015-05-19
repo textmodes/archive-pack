@@ -1,0 +1,16 @@
+name: htic10.zip
+hash: dc48f839e3c6012f19e192a82017633e
+year: 1994
+file:
+  DEICE.EXE:
+    mimetype: application/x-msdos-program
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  HTIC_V10.1:
+    mimetype: text/plain
+  HTIC_V10.2:
+    mimetype: text/plain
+  HTIC_V10.DAT:
+    mimetype: text/plain
+  INSTALL.BAT:
+    mimetype: application/x-msdos-program

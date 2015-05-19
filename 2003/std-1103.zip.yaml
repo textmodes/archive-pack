@@ -1,0 +1,32 @@
+name: std-1103.zip
+hash: 5f5e1c7ff369b5fbd7d3de6a00ec60c1
+year: 2003
+file:
+  CS-STD1.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  ID-STD1.ANS:
+    mimetype: text/plain
+  PK-ACID1.ANS:
+    mimetype: text/plain
+  PK-ICE1.ANS:
+    mimetype: text/plain
+  PKAVG-FL.ANS:
+    mimetype: text/plain
+  TXT-1999.ANS:
+    mimetype: text/plain
+  TXT-CS01.ANS:
+    mimetype: text/plain
+  TXT-SENS.ANS:
+    mimetype: text/plain
+  TXT-TIDB.ANS:
+    mimetype: text/plain
+  TXT-UNF1.ANS:
+    mimetype: text/plain
+  WIK-COOL.ANS:
+    mimetype: text/plain
+  WIK-FTPS.ANS:
+    mimetype: text/plain
+  WIKTXTNE.ANS:
+    mimetype: text/plain

@@ -1,0 +1,42 @@
+name: think004.zip
+hash: 79cfe833d4f327d94b633e9e88829c33
+year: 1998
+file:
+  ANSI####.DIV:
+    mimetype: application/octet-stream
+  ASCII###.DIV:
+    mimetype: application/octet-stream
+  CODE####.DIV:
+    mimetype: application/octet-stream
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  INFO####.DIV:
+    mimetype: application/octet-stream
+  IR-HYPE2.ANS:
+    mimetype: text/plain
+  IR-HYPE3.ANS:
+    mimetype: text/plain
+  IR-HYPE4.ANS:
+    mimetype: text/plain
+  IR-NOIE!.ZIP:
+    mimetype: application/zip
+  IR-PA011.ZIP:
+    mimetype: application/zip
+  IR-S001.ANS:
+    mimetype: text/plain
+  IR-THNK7.ASC:
+    mimetype: text/plain
+  MISC####.DIV:
+    mimetype: application/octet-stream
+  THINK004.MEM:
+    mimetype: text/plain
+  THINK004.NFO:
+    mimetype: text/plain
+  THINKAPP.EXE:
+    mimetype: application/x-msdos-program
+  THINKWWW.ZIP:
+    mimetype: application/zip
+  VOID_1A.ZIP:
+    mimetype: application/zip
+  ZZ-THINK.ASC:
+    mimetype: text/plain

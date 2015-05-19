@@ -1,0 +1,64 @@
+name: crm-o595.zip
+hash: 34c310af4c49fc1a70679e3d3ce28d1f
+year: 1995
+file:
+  !!binary xMRDUkFQxMQ=:
+    mimetype: text/plain
+  !!binary xMRNT0RTxMQ=:
+    mimetype: text/plain
+  !!binary xMRORk/ExMQ=:
+    mimetype: text/plain
+  !!binary xMRTVUdBSMQ=:
+    mimetype: text/plain
+  AD#1ASSN.ASC:
+    mimetype: text/plain
+  CRM-O595.MEM:
+    mimetype: text/plain
+  CRM-O595.NFO:
+    mimetype: text/plain
+  CRM-O595.SIT:
+    mimetype: text/plain
+  DD-AUTOP.ZIP:
+    mimetype: application/zip
+  DD-BBSL.ZIP:
+    mimetype: application/zip
+  DD-EMAIL.ZIP:
+    mimetype: application/zip
+  DD-MCONF.ZIP:
+    mimetype: application/zip
+  DG-CREAM.ANS:
+    mimetype: text/plain
+  FC-LC10.ZIP:
+    mimetype: application/zip
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  HL-CREAM.ANS:
+    mimetype: text/plain
+  LO-CREAM.ANS:
+    mimetype: text/plain
+  MO-CREAM.ASC:
+    mimetype: text/plain
+  NF-CHAT!.ZIP:
+    mimetype: application/zip
+  NF-CREAM.ANS:
+    mimetype: text/plain
+  NI-BYE.GRT:
+    mimetype: text/plain
+  NI-FSCAN.ZIP:
+    mimetype: application/zip
+  NI-LGN.ZIP:
+    mimetype: application/zip
+  NI-MSCAN.ZIP:
+    mimetype: application/zip
+  OG-FSCAN.ZIP:
+    mimetype: application/zip
+  OG-JCONF.ZIP:
+    mimetype: application/zip
+  SS-HACK1.ZIP:
+    mimetype: application/zip
+  SS-HEAD.ZIP:
+    mimetype: application/zip
+  WN-FILES.ZIP:
+    mimetype: application/zip
+  WN-MCONF.ZIP:
+    mimetype: application/zip

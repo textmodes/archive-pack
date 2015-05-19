@@ -1,0 +1,52 @@
+name: hrg-07.zip
+hash: 8750113ed5333cc94d49c64559949ff7
+year: 1997
+file:
+  '---07---.NFO':
+    mimetype: text/plain
+  EZEKIEL.GIF:
+    mimetype: image/gif
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  HRG.NFO:
+    mimetype: text/plain
+  HRGREG.EXE:
+    mimetype: application/x-msdos-program
+  I_L^BADF.ASC:
+    mimetype: text/plain
+  I_L^BF97.ASC:
+    mimetype: text/plain
+  I_L^BRD.ASC:
+    mimetype: text/plain
+  I_L^END.ASC:
+    mimetype: text/plain
+  I_L^EVIL.ASC:
+    mimetype: text/plain
+  I_L^EYES.GIF:
+    mimetype: image/gif
+  I_L^HOP.ASC:
+    mimetype: text/plain
+  I_L^LAY.ANS:
+    mimetype: text/plain
+  I_L^NFO.ASC:
+    mimetype: text/plain
+  I_L^PST.ASC:
+    mimetype: text/plain
+  I_L^VGN.ASC:
+    mimetype: text/plain
+  I_L^WTCH.ASC:
+    mimetype: text/plain
+  JZ-JUC3.ANS:
+    mimetype: text/plain
+  JZ-TJ2.ANS:
+    mimetype: text/plain
+  SK_T-SHT.GIF:
+    mimetype: image/gif
+  SPRO-BF.JPG:
+    mimetype: image/jpeg
+  SPRO-HRG.GIF:
+    mimetype: image/gif
+  SPRO-JUC.GIF:
+    mimetype: image/gif
+  WARRNING.TXT:
+    mimetype: text/plain

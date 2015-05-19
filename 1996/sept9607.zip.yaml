@@ -1,0 +1,18 @@
+name: sept9607.zip
+hash: 8231e26a3675e9fbec63e2873f40a59f
+year: 1996
+file:
+  '!!FFG!!':
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  LM-GOOP1.ICE:
+    mimetype: text/plain
+  SEPTIC.DAT:
+    mimetype: application/octet-stream
+  SEPTIC.EXE:
+    mimetype: application/x-msdos-program
+  SEPTIC2.DAT:
+    mimetype: application/octet-stream
+  SEPTIC3.DAT:
+    mimetype: application/octet-stream

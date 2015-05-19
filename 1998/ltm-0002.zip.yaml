@@ -1,0 +1,98 @@
+name: ltm-0002.zip
+hash: 6ec4e6ba36e044273b1186b26de31f33
+year: 1998
+file:
+  !!binary /8TE/0FOU0kuxMT/:
+    mimetype: text/plain
+  !!binary /8TE/0FTS0UuxMT/:
+    mimetype: text/plain
+  !!binary /8TE/0lORk8uxMT/:
+    mimetype: text/plain
+  !!binary /8TE/1NISVQuxMT/:
+    mimetype: text/plain
+  !!binary /8TE/1ZHQSEuxMT/:
+    mimetype: text/plain
+  AB-COLL1.ANS:
+    mimetype: text/plain
+  AB-COLL2.ANS:
+    mimetype: text/plain
+  AB-COLL3.ANS:
+    mimetype: text/plain
+  AB-ZCOLL.ASC:
+    mimetype: text/plain
+  ARL-ACID.ANS:
+    mimetype: text/plain
+  ARL-ENDO.ANS:
+    mimetype: text/plain
+  ARL-EUPH.ANS:
+    mimetype: text/plain
+  ARL-ZCLL.ASC:
+    mimetype: text/plain
+  ARL-ZSCK.ASC:
+    mimetype: text/plain
+  ARL-ZSPY.ASC:
+    mimetype: text/plain
+  BG-COLLY.ANS:
+    mimetype: text/plain
+  BG-ZCOLL.ASC:
+    mimetype: text/plain
+  BZ-ZLTDZ.ASC:
+    mimetype: text/plain
+  BZ-ZPVDZ.ASC:
+    mimetype: text/plain
+  BZ-ZPVLG.ASC:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  HD_$MOT.ANS:
+    mimetype: text/plain
+  HD_$OXB.ANS:
+    mimetype: text/plain
+  HD_$SKL.ANS:
+    mimetype: text/plain
+  HD_%2.ANS:
+    mimetype: text/plain
+  HD_CJIM.ANS:
+    mimetype: text/plain
+  HD_CMAN.ANS:
+    mimetype: text/plain
+  HD_FRNA1.ANS:
+    mimetype: text/plain
+  HD_FRNA2.ANS:
+    mimetype: text/plain
+  HD_FRT.ANS:
+    mimetype: text/plain
+  HD_HSIMP.ANS:
+    mimetype: text/plain
+  HD_HWC.ANS:
+    mimetype: text/plain
+  HD_LTM1.ANS:
+    mimetype: text/plain
+  HD_LTM2.ANS:
+    mimetype: text/plain
+  HD_LTM3.ANS:
+    mimetype: text/plain
+  HD_LTM4.ANS:
+    mimetype: text/plain
+  HD_LTM5.ANS:
+    mimetype: text/plain
+  HD_LTM6.ANS:
+    mimetype: text/plain
+  HD_LTM7.ANS:
+    mimetype: text/plain
+  HD_LTM8.ANS:
+    mimetype: text/plain
+  HD_ZCOLL.ASC:
+    mimetype: text/plain
+  LTM-INFO.COM:
+    mimetype: application/x-msdos-program
+  LTM-RELS.COM:
+    mimetype: application/x-msdos-program
+  OXB!NFO.ANS:
+    mimetype: text/plain
+  SLIVER.EXE:
+    mimetype: application/x-msdos-program
+  SUICIDAL.NFO:
+    mimetype: text/plain
+  UC-INFO.GIF:
+    mimetype: image/gif

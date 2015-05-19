@@ -1,0 +1,32 @@
+name: ultra06d.zip
+hash: 4de462f9fa15edb183c0e1e8d63b6724
+year: 1994
+file:
+  AUDFILES.SCR:
+    mimetype: text/plain
+  AUDHELP.HLP:
+    mimetype: application/octet-stream
+  CAMIEL.EXE:
+    mimetype: application/x-msdos-program
+  CARDINFO.DLL:
+    mimetype: application/x-dosexec
+  CONTROL.SCR:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  HISTORY.TXT:
+    mimetype: text/plain
+  MYSTICAL.EXE:
+    mimetype: application/x-msdos-program
+  NEO.COM:
+    mimetype: application/x-msdos-program
+  README:
+    mimetype: text/plain
+  ULTRADD.DOC:
+    mimetype: text/plain
+  ULTRADD.SYS:
+    mimetype: application/x-dosexec
+  ULTRAVDD.SYS:
+    mimetype: application/x-dosexec
+  ULTRAVSD.DLL:
+    mimetype: application/x-dosexec

@@ -1,0 +1,16 @@
+name: ice-spc6.zip
+hash: 03bb3c6a964d873e55b6b8e7f460abf6
+year: 1996
+file:
+  AB_DOLP1.FLC:
+    mimetype: video/x-flc
+  HEAVEN.ANS:
+    mimetype: text/plain
+  aaplayhi.zip:
+    mimetype: application/zip
+  file_id.diz:
+    mimetype: text/plain
+  hi-rez.nfo:
+    mimetype: text/plain
+  viewer.exe:
+    mimetype: application/x-msdos-program

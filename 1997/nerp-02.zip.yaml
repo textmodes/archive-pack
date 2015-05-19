@@ -1,0 +1,132 @@
+name: nerp-02.zip
+hash: dcb2ec940a1329cb16ec49577e5cf201
+year: 1997
+file:
+  '!&COVER.ANS':
+    mimetype: text/plain
+  '!&FLYER.ANS':
+    mimetype: text/plain
+  '%@-ICEB2.ANS':
+    mimetype: text/plain
+  00-NERP.ASC:
+    mimetype: text/plain
+  13-NERP.ANS:
+    mimetype: text/plain
+  A-ALIEN.ANS:
+    mimetype: text/plain
+  A-ICE3.ANS:
+    mimetype: text/plain
+  A-IRI2.ANS:
+    mimetype: text/plain
+  A-KAOZ.ANS:
+    mimetype: text/plain
+  A-MAIN.ANS:
+    mimetype: text/plain
+  A-SAR1.ASC:
+    mimetype: text/plain
+  ABOUT.TLB:
+    mimetype: application/octet-stream
+  AQ-NERP.ASC:
+    mimetype: text/plain
+  BIZ-CONF.ANS:
+    mimetype: text/plain
+  BIZ-GOOP.ANS:
+    mimetype: text/plain
+  BIZ-HEAD.ANS:
+    mimetype: text/plain
+  BIZ-LB1.ANS:
+    mimetype: text/plain
+  BIZ-LB2.ANS:
+    mimetype: text/plain
+  BIZ-LB3.ANS:
+    mimetype: text/plain
+  BIZ-NRP1.ANS:
+    mimetype: text/plain
+  BIZ-NRP2.ANS:
+    mimetype: text/plain
+  BIZ-STWO.ANS:
+    mimetype: text/plain
+  BIZ-VIEW.ANS:
+    mimetype: text/plain
+  BS-NERP.ANS:
+    mimetype: text/plain
+  BYM-SNOB.ANS:
+    mimetype: text/plain
+  COMMENT:
+    mimetype: application/octet-stream
+  DFUSE-NE.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  IZE-AWE4.ANS:
+    mimetype: text/plain
+  IZE-DIEZ.ANS:
+    mimetype: text/plain
+  IZE-UPLA.ANS:
+    mimetype: text/plain
+  M-LB1.ANS:
+    mimetype: text/plain
+  M-LB2.ANS:
+    mimetype: text/plain
+  M-LB3.ANS:
+    mimetype: text/plain
+  M-LB4.ANS:
+    mimetype: text/plain
+  M-LB5.ANS:
+    mimetype: text/plain
+  M-LB6.ANS:
+    mimetype: text/plain
+  M-LB7.ANS:
+    mimetype: text/plain
+  M-LB8.ANS:
+    mimetype: text/plain
+  MEND-DM.ANS:
+    mimetype: text/plain
+  MEND-SM.ANS:
+    mimetype: text/plain
+  NOH-ANA.ANS:
+    mimetype: text/plain
+  NOH-CIA.ANS:
+    mimetype: text/plain
+  NOH-DSN.ANS:
+    mimetype: text/plain
+  NOH-QD.ANS:
+    mimetype: text/plain
+  PND-FISH.ANS:
+    mimetype: text/plain
+  PND-NERP.ANS:
+    mimetype: text/plain
+  PND-SH.ANS:
+    mimetype: text/plain
+  SMI-NRP2.ANS:
+    mimetype: text/plain
+  T-AL.ANS:
+    mimetype: text/plain
+  T-NERP.ANS:
+    mimetype: text/plain
+  TH-PSYM.ANS:
+    mimetype: text/plain
+  US-C02.ANS:
+    mimetype: text/plain
+  US-DARK.ANS:
+    mimetype: text/plain
+  US-DROP.ANS:
+    mimetype: text/plain
+  US-GATEW.ANS:
+    mimetype: text/plain
+  US-LEGO.ANS:
+    mimetype: text/plain
+  US-LF.ANS:
+    mimetype: text/plain
+  US-NEG.ANS:
+    mimetype: text/plain
+  US-NERPA.ANS:
+    mimetype: text/plain
+  US-NERPB.ANS:
+    mimetype: text/plain
+  US-PHB.ANS:
+    mimetype: text/plain
+  US-SAR2.ANS:
+    mimetype: text/plain
+  US-WOLF.ANS:
+    mimetype: text/plain

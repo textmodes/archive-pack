@@ -1,0 +1,40 @@
+name: synth05a.zip
+hash: 9a6d7d74bfb1baa5a4966bc23f4d34b7
+year: 1997
+file:
+  0197CONT.ANS:
+    mimetype: text/plain
+  ASYLUM.EXE:
+    mimetype: application/x-msdos-program
+  AV96.EXE:
+    mimetype: application/x-msdos-program
+  DECAY.ANS:
+    mimetype: text/plain
+  DECAY.NFO:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  MSYSTEM.NFO:
+    mimetype: text/plain
+  PF-OUTER.ANS:
+    mimetype: text/plain
+  SC-APP.EXE:
+    mimetype: application/x-msdos-program
+  SYD-BIKE.JPG:
+    mimetype: image/jpeg
+  SYD-HEAD.JPG:
+    mimetype: image/jpeg
+  SYD-RBBN.JPG:
+    mimetype: image/jpeg
+  SYD-SYNT.JPG:
+    mimetype: image/jpeg
+  TR-COLLY.ANS:
+    mimetype: text/plain
+  TR-HTARG.ANS:
+    mimetype: text/plain
+  TR-RCRL.ANS:
+    mimetype: text/plain
+  WRP-APPL.JPG:
+    mimetype: image/jpeg
+  WRP-COLL.ASC:
+    mimetype: text/plain

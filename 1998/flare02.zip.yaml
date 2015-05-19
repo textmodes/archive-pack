@@ -1,0 +1,24 @@
+name: flare02.zip
+hash: 47cf8eb46a5fda8a56ad5592ce78fef7
+year: 1998
+file:
+  FLARE.NFO:
+    mimetype: text/plain
+  KLU-ELL.ANS:
+    mimetype: text/plain
+  KLU-LV.ANS:
+    mimetype: text/plain
+  KLU-SEN.ANS:
+    mimetype: text/plain
+  KLU-TRK.ANS:
+    mimetype: text/plain
+  TNT-FLR.ANS:
+    mimetype: text/plain
+  US-GFAB.ANS:
+    mimetype: text/plain
+  mid-cyp.ans:
+    mimetype: text/plain
+  mid-flre.ans:
+    mimetype: text/plain
+  sc-flare.ans:
+    mimetype: text/plain

@@ -1,0 +1,188 @@
+name: sac0396a.zip
+hash: 8830efe10c9954b3999c3dbd5188238f
+year: 1996
+file:
+  DD-CR-S2.EXE:
+    mimetype: application/x-msdos-program
+  DD-FOBAR.LBM:
+    mimetype: application/octet-stream
+  DD-FOBUN.LBM:
+    mimetype: application/octet-stream
+  DD-FOCOO.LBM:
+    mimetype: application/octet-stream
+  DD-SAC1.ANS:
+    mimetype: text/plain
+  DD-SACBU.LBM:
+    mimetype: application/octet-stream
+  DD-VORTE.LBM:
+    mimetype: application/octet-stream
+  DD-VTX.EXE:
+    mimetype: application/x-msdos-program
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  HT-C96IN.EXE:
+    mimetype: application/x-msdos-program
+  HT-DTC3S.EXE:
+    mimetype: application/x-msdos-program
+  HT-TRSI4.EXE:
+    mimetype: application/x-msdos-program
+  NP-BRENT.EXE:
+    mimetype: application/x-msdos-program
+  NP-NRG.EXE:
+    mimetype: application/x-msdos-program
+  RN-DREAM.S3M:
+    mimetype: audio/x-mod
+  RN-SLOW.S3M:
+    mimetype: audio/x-mod
+  ROY-BIZA.ANS:
+    mimetype: text/plain
+  ROY-BIZD.ASC:
+    mimetype: text/plain
+  ROY-BIZN.ASC:
+    mimetype: text/plain
+  ROY-BSIH.ASC:
+    mimetype: text/plain
+  ROY-DNXA.ANS:
+    mimetype: text/plain
+  ROY-DNXD.ASC:
+    mimetype: text/plain
+  ROY-DNXN.ASC:
+    mimetype: text/plain
+  ROY-DTC3.ASC:
+    mimetype: text/plain
+  ROY-DTCD.ASC:
+    mimetype: text/plain
+  ROY-DYND.ASC:
+    mimetype: text/plain
+  ROY-DYNN.ASC:
+    mimetype: text/plain
+  ROY-EOD2.ASC:
+    mimetype: text/plain
+  ROY-EOD3.ASC:
+    mimetype: text/plain
+  ROY-EODD.ASC:
+    mimetype: text/plain
+  ROY-EODN.ASC:
+    mimetype: text/plain
+  ROY-GRED.ANS:
+    mimetype: text/plain
+  ROY-GRED.ASC:
+    mimetype: text/plain
+  ROY-HID.ANS:
+    mimetype: text/plain
+  ROY-HID.ASC:
+    mimetype: text/plain
+  ROY-HYPE.ANS:
+    mimetype: text/plain
+  ROY-IMP.ASC:
+    mimetype: text/plain
+  ROY-IMPD.ASC:
+    mimetype: text/plain
+  ROY-LCID.ASC:
+    mimetype: text/plain
+  ROY-LCIN.ASC:
+    mimetype: text/plain
+  ROY-MVA.ANS:
+    mimetype: text/plain
+  ROY-NPMD.ASC:
+    mimetype: text/plain
+  ROY-NPMN.ASC:
+    mimetype: text/plain
+  ROY-NUTD.ASC:
+    mimetype: text/plain
+  ROY-NUTN.ASC:
+    mimetype: text/plain
+  ROY-OUTD.ASC:
+    mimetype: text/plain
+  ROY-PCPD.ASC:
+    mimetype: text/plain
+  ROY-PNSD.ASC:
+    mimetype: text/plain
+  ROY-PNSN.ASC:
+    mimetype: text/plain
+  ROY-RSID.ASC:
+    mimetype: text/plain
+  ROY-SCA.ASC:
+    mimetype: text/plain
+  ROY-SCC.ANS:
+    mimetype: text/plain
+  ROY-TDA.ANS:
+    mimetype: text/plain
+  ROY-TDN.ASC:
+    mimetype: text/plain
+  ROY-TGA.ANS:
+    mimetype: text/plain
+  ROY-VTX.ASC:
+    mimetype: text/plain
+  ROY-VTXD.ASC:
+    mimetype: text/plain
+  ROY-XDID.ASC:
+    mimetype: text/plain
+  ROY-XDIN.ASC:
+    mimetype: text/plain
+  ROY-XFD.ASC:
+    mimetype: text/plain
+  RV-AM.ANS:
+    mimetype: text/plain
+  RV-BACK.ANS:
+    mimetype: text/plain
+  RV-EURO.ANS:
+    mimetype: text/plain
+  RV-GAMES.ANS:
+    mimetype: text/plain
+  RV-MCI10.ANS:
+    mimetype: text/plain
+  RV-MCI15.ANS:
+    mimetype: text/plain
+  RV-MCIBB.ANS:
+    mimetype: text/plain
+  RV-MCIBL.ANS:
+    mimetype: text/plain
+  RV-MCICM.ANS:
+    mimetype: text/plain
+  RV-MCILG.ANS:
+    mimetype: text/plain
+  RV-MCIP.ANS:
+    mimetype: text/plain
+  RV-MCIWA.ANS:
+    mimetype: text/plain
+  RV-PC.ANS:
+    mimetype: text/plain
+  RV-PVCN.ASC:
+    mimetype: text/plain
+  RV-RAY.ANS:
+    mimetype: text/plain
+  RV-ROUTE.ANS:
+    mimetype: text/plain
+  RV-ROUTE.DID:
+    mimetype: text/plain
+  RV-RS.ANS:
+    mimetype: text/plain
+  RV-TAI.ANS:
+    mimetype: text/plain
+  RV-TAI.ASC:
+    mimetype: text/plain
+  RV-TAIB.ANS:
+    mimetype: text/plain
+  RV-TAICM.ANS:
+    mimetype: text/plain
+  RV-TAIM.ANS:
+    mimetype: text/plain
+  RV-TAIP.ANS:
+    mimetype: text/plain
+  RV-ZYLON.ANS:
+    mimetype: text/plain
+  RV-ZYLON.ASC:
+    mimetype: text/plain
+  RV-ZYLON.DID:
+    mimetype: text/plain
+  SAC.EXE:
+    mimetype: application/x-msdos-program
+  SAC.NFO:
+    mimetype: text/plain
+  SPN_BRNC.XM:
+    mimetype: audio/x-mod
+  SY-NRG.EXE:
+    mimetype: application/x-msdos-program
+  TOX-POP.XM:
+    mimetype: audio/x-mod

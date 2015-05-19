@@ -1,0 +1,26 @@
+name: arc6-3.zip
+hash: 8da6e218aa03f7417d8758530aeb45b5
+year: 1998
+file:
+  ALPHA.NFO:
+    mimetype: text/plain
+  AR51.EXE:
+    mimetype: application/x-msdos-program
+  CHIP_RE.MOD:
+    mimetype: audio/x-mod
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  INTRO.MOD:
+    mimetype: audio/x-mod
+  INTRO32.EXE:
+    mimetype: application/x-msdos-program
+  SPACE.MOD:
+    mimetype: audio/x-mod
+  arcpak6.ans:
+    mimetype: text/plain
+  chip_hav.mod:
+    mimetype: audio/x-mod
+  inside_8.xm:
+    mimetype: audio/x-mod
+  sunris_8.xm:
+    mimetype: audio/x-mod

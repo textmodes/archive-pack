@@ -1,0 +1,252 @@
+name: hrp-#6.zip
+hash: 937e288e94053d8b3d318a23050cd9c3
+year: 1994
+file:
+  --ANSIS.--:
+    mimetype: text/plain
+  --APPGEN.--:
+    mimetype: text/plain
+  --ICONS.--:
+    mimetype: text/plain
+  --LITS.--:
+    mimetype: text/plain
+  --PPE'S-.-:
+    mimetype: text/plain
+  --RIPS.--:
+    mimetype: text/plain
+  --TEXT.--:
+    mimetype: text/plain
+  --UTILS-.-:
+    mimetype: text/plain
+  1.ANS:
+    mimetype: text/plain
+  2.ANS:
+    mimetype: text/plain
+  3.ANS:
+    mimetype: text/plain
+  4.ANS:
+    mimetype: text/plain
+  5.ANS:
+    mimetype: text/plain
+  AAA0021.AAA:
+    mimetype: text/plain
+  AAA0022.AAA:
+    mimetype: text/plain
+  AAA0023.AAA:
+    mimetype: text/plain
+  AAA0024.AAA:
+    mimetype: text/plain
+  AAA0025.AAA:
+    mimetype: text/plain
+  AAA0026.AAA:
+    mimetype: text/plain
+  AAA0027.AAA:
+    mimetype: text/plain
+  AAA0028.AAA:
+    mimetype: text/plain
+  AAA0029.AAA:
+    mimetype: text/plain
+  AAA0030.AAA:
+    mimetype: text/plain
+  AAA0031.AAA:
+    mimetype: text/plain
+  AAA0032.AAA:
+    mimetype: text/plain
+  AAA0033.AAA:
+    mimetype: text/plain
+  AAA0034.AAA:
+    mimetype: text/plain
+  AAA0035.AAA:
+    mimetype: text/plain
+  AAA0036.AAA:
+    mimetype: text/plain
+  AAA0037.AAA:
+    mimetype: text/plain
+  AAA0038.ANS:
+    mimetype: text/plain
+  AAA0039.ANS:
+    mimetype: text/plain
+  AAA0040.ANS:
+    mimetype: text/plain
+  AAA0041.ANS:
+    mimetype: text/plain
+  AAA0042.AAA:
+    mimetype: text/plain
+  AAA0043.AAA:
+    mimetype: text/plain
+  AAA0044.AAA:
+    mimetype: text/plain
+  AAA0045.AAA:
+    mimetype: text/plain
+  AAA0046.ZIP:
+    mimetype: application/zip
+  AAA0047.ZIP:
+    mimetype: application/zip
+  AAA0048.ZIP:
+    mimetype: application/zip
+  AAA0049.ZIP:
+    mimetype: application/zip
+  AAA0050.ZIP:
+    mimetype: application/zip
+  AAA0051.ZIP:
+    mimetype: application/zip
+  AAA0052.ZIP:
+    mimetype: application/zip
+  AAA0053.ZIP:
+    mimetype: application/zip
+  AKIRANET.ANS:
+    mimetype: text/plain
+  AOLHACK.TXT:
+    mimetype: text/plain
+  BLOOD.ICO:
+    mimetype: image/x-icon
+  CARDPROD.TXT:
+    mimetype: text/plain
+  CARSTEAL.TXT:
+    mimetype: text/plain
+  DAM-LD.ANS:
+    mimetype: text/plain
+  DARKW-AM.ANS:
+    mimetype: text/plain
+  DIGI-LD.RIP:
+    mimetype: image/x-rip
+  DIRLIST.EXE:
+    mimetype: application/x-msdos-program
+  DP-HR.GIF:
+    mimetype: image/gif
+  EXTEND.H:
+    mimetype: text/plain
+  EXTKYTST.EXE:
+    mimetype: application/x-msdos-program
+  FF-LOG.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FILELIST.DOC:
+    mimetype: text/plain
+  FILEM.ANS:
+    mimetype: text/plain
+  FREEAOL.WPS:
+    mimetype: application/octet-stream
+  GOODBYE.ANS:
+    mimetype: text/plain
+  HARV-LD.ANS:
+    mimetype: text/plain
+  HD-HD2.ANS:
+    mimetype: text/plain
+  HD-HOS.ANS:
+    mimetype: text/plain
+  HD-HR2.ANS:
+    mimetype: text/plain
+  HD-HR3.ANS:
+    mimetype: text/plain
+  HIREZ1.ANS:
+    mimetype: text/plain
+  HIREZ2.ANS:
+    mimetype: text/plain
+  HR-AD.ANS:
+    mimetype: text/plain
+  HR-DIST.1:
+    mimetype: text/plain
+  HR-LD.ANS:
+    mimetype: text/plain
+  HR-MEM.1:
+    mimetype: text/plain
+  HR-NET.ANS:
+    mimetype: text/plain
+  HR.ICO:
+    mimetype: image/x-icon
+  HR.NFO:
+    mimetype: text/plain
+  HR1L.ZIP:
+    mimetype: application/zip
+  HR2.ICO:
+    mimetype: image/x-icon
+  HR3.ICO:
+    mimetype: image/x-icon
+  HRAPP.ZIP:
+    mimetype: application/zip
+  HRCMENU.ZIP:
+    mimetype: application/zip
+  HREFF3.ZIP:
+    mimetype: application/zip
+  HRVIEW.EXE:
+    mimetype: application/x-msdos-program
+  INFOFORM.1:
+    mimetype: text/plain
+  LD-DISTR.RIP:
+    mimetype: image/x-rip
+  LD-HR#1.RIP:
+    mimetype: image/x-rip
+  LD-SANI.RIP:
+    mimetype: image/x-rip
+  LDPCF.TXT:
+    mimetype: text/plain
+  LDPCF2.TXT:
+    mimetype: text/plain
+  LEGALHI.TXT:
+    mimetype: text/plain
+  LIT.ZIP:
+    mimetype: application/zip
+  MAINM.ANS:
+    mimetype: text/plain
+  MAJ-LD.ANS:
+    mimetype: text/plain
+  MESS.ANS:
+    mimetype: text/plain
+  MK.ICO:
+    mimetype: image/x-icon
+  MR-COMA.LIT:
+    mimetype: text/plain
+  MR-FORGO.LIT:
+    mimetype: text/plain
+  MR-OCEAN.LIT:
+    mimetype: text/plain
+  MR-RAIN.LIT:
+    mimetype: text/plain
+  MR-TERRO.LIT:
+    mimetype: text/plain
+  NEOTOKYO.ANS:
+    mimetype: text/plain
+  NETAPP.ZIP:
+    mimetype: application/zip
+  PCP00001.TXT:
+    mimetype: text/plain
+  PRNTEST.EXE:
+    mimetype: application/x-msdos-program
+  PRODAOL.WPS:
+    mimetype: application/octet-stream
+  SC-CPHUK.ANS:
+    mimetype: text/plain
+  SC-HRLOG.ANS:
+    mimetype: text/plain
+  SC-SHDOW.ANS:
+    mimetype: text/plain
+  SFAAA1.ANS:
+    mimetype: text/plain
+  SFAAA2.ANS:
+    mimetype: text/plain
+  SFAAA3.ANS:
+    mimetype: text/plain
+  SFAAA4.ANS:
+    mimetype: text/plain
+  SFAAA5.ANS:
+    mimetype: text/plain
+  SFAAA6.ANS:
+    mimetype: text/plain
+  SFAAA7.ANS:
+    mimetype: text/plain
+  SMILEY.ICO:
+    mimetype: image/x-icon
+  SPEED.ZIP:
+    mimetype: application/zip
+  TC-AX1.RIP:
+    mimetype: image/x-rip
+  TC-LD.ANS:
+    mimetype: text/plain
+  TC.EXE:
+    mimetype: application/x-msdos-program
+  TS-DGESC.ANS:
+    mimetype: text/plain
+  TS-TSD.ANS:
+    mimetype: text/plain

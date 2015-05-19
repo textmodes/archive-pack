@@ -1,0 +1,22 @@
+name: midikb17.zip
+hash: e4b0e6d85fb85e7ebc818f0cbb2cddf3
+year: 1993
+file:
+  BROCHURE.HLP:
+    mimetype: application/octet-stream
+  FUN!.COM:
+    mimetype: application/x-msdos-program
+  MIDIKEYS.EXE:
+    mimetype: application/x-msdos-program
+  MIDIKEYS.HLP:
+    mimetype: application/octet-stream
+  MIDIKEYS.TXT:
+    mimetype: text/plain
+  README.TXT:
+    mimetype: text/plain
+  README.WRI:
+    mimetype: application/msword
+  REGISTER.TXT:
+    mimetype: text/plain
+  REGISTER.WRI:
+    mimetype: application/msword

@@ -1,0 +1,238 @@
+name: cro0600.zip
+hash: ca0678de8b3a1b741a5a9dc2db681369
+year: 2000
+file:
+  ASCII/Ansi/WO-RUXP.ANS:
+    mimetype: text/plain
+  ASCII/CHERRY_M.NFO:
+    mimetype: text/plain
+  ASCII/COY.NFO:
+    mimetype: text/plain
+  ASCII/COYMP3.NFO:
+    mimetype: text/plain
+  ASCII/CR-DERZ.ASC:
+    mimetype: text/plain
+  ASCII/CR-DRF.NFO:
+    mimetype: text/plain
+  ASCII/CR-EE.NFO:
+    mimetype: text/plain
+  ASCII/CR-ETH0.ASC:
+    mimetype: text/plain
+  ASCII/CR-EVN.NFO:
+    mimetype: text/plain
+  ASCII/CR-FFO.ASC:
+    mimetype: text/plain
+  ASCII/CR-GNX.ASC:
+    mimetype: text/plain
+  ASCII/CR-HBD.NFO:
+    mimetype: text/plain
+  ASCII/CR-L1NET.ASC:
+    mimetype: text/plain
+  ASCII/CR-LMA.NFO:
+    mimetype: text/plain
+  ASCII/CR-LTG.NFO:
+    mimetype: text/plain
+  ASCII/CR-LXL.NFO:
+    mimetype: text/plain
+  ASCII/CR-MENT.ASC:
+    mimetype: text/plain
+  ASCII/CR-MTC.NFO:
+    mimetype: text/plain
+  ASCII/CR-NBD.NFO:
+    mimetype: text/plain
+  ASCII/CR-RAGE.ASC:
+    mimetype: text/plain
+  ASCII/CR-SKY.NFO:
+    mimetype: text/plain
+  ASCII/CR-STX.NFO:
+    mimetype: text/plain
+  ASCII/CR-ZONE.ASC:
+    mimetype: text/plain
+  ASCII/DBZMP3.NFO:
+    mimetype: text/plain
+  ASCII/DNDHQ2.ASC:
+    mimetype: text/plain
+  ASCII/GENUINE.NFO:
+    mimetype: text/plain
+  ASCII/MSCAR.NFO:
+    mimetype: text/plain
+  ASCII/NEW-FWEN.NFO:
+    mimetype: text/plain
+  ASCII/PRODIGY2.NFO:
+    mimetype: text/plain
+  ASCII/PUREB.NFO:
+    mimetype: text/plain
+  ASCII/SRT-EDG.NFO:
+    mimetype: text/plain
+  ASCII/SRT-FC.NFO:
+    mimetype: text/plain
+  ASCII/SRT-NMS.NFO:
+    mimetype: text/plain
+  ASCII/SRT-OBL.OLD:
+    mimetype: application/octet-stream
+  ASCII/SRT-SYT.OLD:
+    mimetype: application/octet-stream
+  ASCII/SRT-TBR.NFO:
+    mimetype: text/plain
+  ASCII/SRT-TST.LOG:
+    mimetype: application/octet-stream
+  ASCII/TBI.NFO:
+    mimetype: text/plain
+  ASCII/THEWHITE.NFO:
+    mimetype: text/plain
+  ASCII/YOYO.NFO:
+    mimetype: text/plain
+  ASCII/ZNT-BD.ASC:
+    mimetype: text/plain
+  ASCII/ZNT-BEAT.ASC:
+    mimetype: text/plain
+  ASCII/ZNT-BLH.ASC:
+    mimetype: text/plain
+  ASCII/ZNT-CLIQ.ASC:
+    mimetype: text/plain
+  ASCII/ZNT-CWS.ASC:
+    mimetype: text/plain
+  ASCII/ZNT-EMID.ASC:
+    mimetype: text/plain
+  ASCII/ZNT-EUML.ASC:
+    mimetype: text/plain
+  ASCII/ZNT-HZDI.ASC:
+    mimetype: text/plain
+  ASCII/ZNT-HZRD.ASC:
+    mimetype: text/plain
+  ASCII/ZNT-KNIF.ASC:
+    mimetype: text/plain
+  ASCII/ZNT-MOD.ASC:
+    mimetype: text/plain
+  ASCII/ZNT-PDX.ASC:
+    mimetype: text/plain
+  ASCII/ZNT-SHCK.ASC:
+    mimetype: text/plain
+  Chiptune/BITCH.XM:
+    mimetype: audio/x-mod
+  Chiptune/CR-96%.XM:
+    mimetype: audio/x-mod
+  Chiptune/CR-LITHI.MOD:
+    mimetype: audio/x-mod
+  Chiptune/ENVIA.XM:
+    mimetype: audio/x-mod
+  Chiptune/MTC016.MOD:
+    mimetype: audio/x-mod
+  Chiptune/MULKUT.XM:
+    mimetype: audio/x-mod
+  Chiptune/PD-BACKL.XM:
+    mimetype: audio/x-mod
+  Chiptune/PD-CRAP.XM:
+    mimetype: audio/x-mod
+  Chiptune/PD-CURE.XM:
+    mimetype: audio/x-mod
+  Chiptune/PD-DB.XM:
+    mimetype: audio/x-mod
+  Chiptune/PD-FLYIN.XM:
+    mimetype: audio/x-mod
+  Chiptune/PD-HELP.XM:
+    mimetype: audio/x-mod
+  Chiptune/PD-KISS.XM:
+    mimetype: audio/x-mod
+  Chiptune/PD-KTIME.XM:
+    mimetype: audio/x-mod
+  Chiptune/PD-LOST.XM:
+    mimetype: audio/x-mod
+  Chiptune/PD-SANIT.XM:
+    mimetype: audio/x-mod
+  Chiptune/PD-TFC.XM:
+    mimetype: audio/x-mod
+  Chiptune/PD-TLM.XM:
+    mimetype: audio/x-mod
+  Chiptune/PD-TLN11.XM:
+    mimetype: audio/x-mod
+  Chiptune/PD-TTP.XM:
+    mimetype: audio/x-mod
+  Chiptune/PD-WUWY.XM:
+    mimetype: audio/x-mod
+  Chiptune/TINMAN.XM:
+    mimetype: audio/x-mod
+  HIREZ/ANNIHILA.JPG:
+    mimetype: image/jpeg
+  HIREZ/AYL-WICK.JPG:
+    mimetype: image/jpeg
+  HIREZ/BAYONET.JPG:
+    mimetype: image/jpeg
+  HIREZ/BLZ_BACK.JPG:
+    mimetype: image/jpeg
+  HIREZ/BUKUE.JPG:
+    mimetype: image/jpeg
+  HIREZ/C_STUFFM.JPG:
+    mimetype: image/jpeg
+  HIREZ/CG-CRO2.GIF:
+    mimetype: image/gif
+  HIREZ/CG-CRO3.JPG:
+    mimetype: image/jpeg
+  HIREZ/CG-CRO4.JPG:
+    mimetype: image/jpeg
+  HIREZ/CG-CRO5.JPG:
+    mimetype: image/jpeg
+  HIREZ/CG-DUELI.BMP:
+    mimetype: image/x-ms-bmp
+  HIREZ/CG-VIRGI.JPG:
+    mimetype: image/jpeg
+  HIREZ/CHROME.JPG:
+    mimetype: image/jpeg
+  HIREZ/COREPDA_.JPG:
+    mimetype: image/jpeg
+  HIREZ/COVER.GIF:
+    mimetype: image/gif
+  HIREZ/CRO01.JPG:
+    mimetype: image/jpeg
+  HIREZ/FALSE.JPG:
+    mimetype: image/jpeg
+  HIREZ/FASLEHOP.JPG:
+    mimetype: image/jpeg
+  HIREZ/FATE4ALL.JPG:
+    mimetype: image/jpeg
+  HIREZ/FLAMETHR.JPG:
+    mimetype: image/jpeg
+  HIREZ/HELMET.JPG:
+    mimetype: image/jpeg
+  HIREZ/HOSTILEO.JPG:
+    mimetype: image/jpeg
+  HIREZ/KEYGEN4.JPG:
+    mimetype: image/jpeg
+  HIREZ/LIQ-PDX.BMP:
+    mimetype: image/x-ms-bmp
+  HIREZ/LIQ-UNKN.BMP:
+    mimetype: image/x-ms-bmp
+  HIREZ/MASN_020.JPG:
+    mimetype: image/jpeg
+  HIREZ/MASN_030.JPG:
+    mimetype: image/jpeg
+  HIREZ/MASN_050.JPG:
+    mimetype: image/jpeg
+  HIREZ/MOD.JPG:
+    mimetype: image/jpeg
+  HIREZ/MOO_02.JPG:
+    mimetype: image/jpeg
+  HIREZ/MP5.JPG:
+    mimetype: image/jpeg
+  HIREZ/SAMURAIH.JPG:
+    mimetype: image/jpeg
+  HIREZ/SOC-PDMC.JPG:
+    mimetype: image/jpeg
+  HIREZ/T!AZZY2K.GIF:
+    mimetype: image/gif
+  HIREZ/T-SHIRT1.BMP:
+    mimetype: image/x-ms-bmp
+  HIREZ/T-SHIRT3.BMP:
+    mimetype: image/x-ms-bmp
+  HIREZ/TEST01.JPG:
+    mimetype: image/jpeg
+  HIREZ/TEST03.JPG:
+    mimetype: image/jpeg
+  HIREZ/TEXTURES.JPG:
+    mimetype: image/jpeg
+  MPEG/BLH-MO.AVI:
+    mimetype: video/x-msvideo
+  creaction.nfo:
+    mimetype: text/plain
+  file_id.diz:
+    mimetype: text/plain

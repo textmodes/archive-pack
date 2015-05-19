@@ -1,0 +1,90 @@
+name: mft-0394.zip
+hash: b6cb12a52213f4598ae5f430a5c02ec8
+year: 1994
+file:
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GB-EVINT.MFT:
+    mimetype: text/plain
+  GB-TPP.MFT:
+    mimetype: text/plain
+  MANIFEST.NFO:
+    mimetype: text/plain
+  MFT-INFO.ZIP:
+    mimetype: application/zip
+  MFT-LIT.ZIP:
+    mimetype: application/zip
+  MFT-MEM.LST:
+    mimetype: text/plain
+  MFT-MENU.ZIP:
+    mimetype: application/zip
+  MFT-MOD.ZIP:
+    mimetype: application/zip
+  MFTVIEW.DAT:
+    mimetype: application/octet-stream
+  MFTVIEW.EXE:
+    mimetype: application/x-msdos-program
+  MNFSTAPP.EXE:
+    mimetype: application/x-msdos-program
+  NN-E112.MFT:
+    mimetype: text/plain
+  NN-EI.MFT:
+    mimetype: text/plain
+  NN-EI2.MFT:
+    mimetype: text/plain
+  NN-EVIL.MFT:
+    mimetype: text/plain
+  NN-LOGIN.MFT:
+    mimetype: text/plain
+  NN-PSYC.MFT:
+    mimetype: text/plain
+  NN-ROD1.MFT:
+    mimetype: text/plain
+  NN-ROD2.MFT:
+    mimetype: text/plain
+  NN-SUCK.MFT:
+    mimetype: text/plain
+  NN-TAN.MFT:
+    mimetype: text/plain
+  NN-TC.MFT:
+    mimetype: text/plain
+  NN-TEH2.MFT:
+    mimetype: text/plain
+  NN-TV!.MFT:
+    mimetype: text/plain
+  NN-TV2.MFT:
+    mimetype: text/plain
+  QS-MF.MFT:
+    mimetype: text/plain
+  QS-MF2.MFT:
+    mimetype: text/plain
+  RC-SOD.MFT:
+    mimetype: text/plain
+  RK-CLOAK.MFT:
+    mimetype: text/plain
+  RK-FEAR.MFT:
+    mimetype: text/plain
+  RK-MAN-1.MFT:
+    mimetype: text/plain
+  RK-THP.MFT:
+    mimetype: text/plain
+  SP-ACID.MFT:
+    mimetype: text/plain
+  SP-EVIL.MFT:
+    mimetype: text/plain
+  SP-LIQ.MFT:
+    mimetype: text/plain
+  SP-MAN1.MFT:
+    mimetype: text/plain
+  SP-MAN4.MFT:
+    mimetype: text/plain
+  SP-TCH.MFT:
+    mimetype: text/plain
+  WD-CHAOS.MFT:
+    mimetype: text/plain
+  WD-FADE.MFT:
+    mimetype: text/plain
+  WD-MNFST.MFT:
+    mimetype: text/plain
+  WELCOME.1:
+    mimetype: text/plain

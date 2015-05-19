@@ -1,0 +1,38 @@
+name: jihad-7.zip
+hash: 582108f1cb0e841ef1033ea6ce5ca201
+year: 1995
+file:
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FM-HIGH.GIF:
+    mimetype: image/gif
+  GJ-PRGS2.JPG:
+    mimetype: image/jpeg
+  GJ-SIG.JPG:
+    mimetype: image/jpeg
+  HF-CVIS.JPG:
+    mimetype: image/jpeg
+  HF-DOOMD.JPG:
+    mimetype: image/jpeg
+  HF-EXT.LIT:
+    mimetype: text/plain
+  HF-HSHAK.JPG:
+    mimetype: image/jpeg
+  HF-LQDR2.JPG:
+    mimetype: image/jpeg
+  HF-RING.JPG:
+    mimetype: image/jpeg
+  HF-SANDY.JPG:
+    mimetype: image/jpeg
+  HF-SG_NW.JPG:
+    mimetype: image/jpeg
+  MEMLIST.JHD:
+    mimetype: text/plain
+  PE-LBJ.JPG:
+    mimetype: image/jpeg
+  Q&A.JHD:
+    mimetype: text/plain
+  RANDOM.JHD:
+    mimetype: text/plain
+  SPARKS.ZIP:
+    mimetype: application/zip

@@ -1,0 +1,68 @@
+name: ice9705a.zip
+hash: 2cdf6462d9e9cd389e39d753dd877824
+year: 1997
+file:
+  -ANSI---.---:
+    mimetype: text/plain
+  -EXE----.---:
+    mimetype: text/plain
+  -LOGO---.---:
+    mimetype: text/plain
+  -STAT---.---:
+    mimetype: text/plain
+  BZ-9705.ZIP:
+    mimetype: application/zip
+  CONT'D:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  ICE-9705.DSC:
+    mimetype: text/plain
+  ICE-9705.MEM:
+    mimetype: text/plain
+  ICE-9705.NFO:
+    mimetype: text/plain
+  ICE-9705.SIT:
+    mimetype: text/plain
+  ICEVIEW.CNF:
+    mimetype: text/plain
+  ICEVIEW.DOC:
+    mimetype: text/plain
+  ICEVIEW.EXE:
+    mimetype: application/x-msdos-program
+  IV-HW3.ICE:
+    mimetype: text/plain
+  IV-PIF.DVP:
+    mimetype: application/octet-stream
+  KT-SPOOF.ICE:
+    mimetype: text/plain
+  MT-BOMB2.ICE:
+    mimetype: text/plain
+  MT-EYECE.ICE:
+    mimetype: text/plain
+  MT-POO69.ICE:
+    mimetype: text/plain
+  PV.EXE:
+    mimetype: application/x-msdos-program
+  SD-0597.ICE:
+    mimetype: text/plain
+  SD-ICEB.ICE:
+    mimetype: text/plain
+  SD-ND.ICE:
+    mimetype: text/plain
+  SD-SSKY.ICE:
+    mimetype: text/plain
+  TE-LV1.ICE:
+    mimetype: text/plain
+  TG-BD1.ICE:
+    mimetype: text/plain
+  TG-DG2.ICE:
+    mimetype: text/plain
+  TI-ICEZ.ICE:
+    mimetype: text/plain
+  US-CRYPT.ICE:
+    mimetype: text/plain
+  US-ENT02.ICE:
+    mimetype: text/plain
+  US-SZONE.ICE:
+    mimetype: text/plain

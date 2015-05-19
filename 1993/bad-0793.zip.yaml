@@ -1,0 +1,32 @@
+name: bad-0793.zip
+hash: acd034497f3f4c717f9bfdeee784f13a
+year: 1993
+file:
+  BAD-0793.EXE:
+    mimetype: application/x-msdos-program
+  BAD-0793.MEM:
+    mimetype: text/plain
+  BAD-0793.NFO:
+    mimetype: text/plain
+  BAD-0793.SIT:
+    mimetype: text/plain
+  BAD1.DAT:
+    mimetype: audio/x-mod
+  BAD2.DAT:
+    mimetype: audio/x-mod
+  BADAPP.EXE:
+    mimetype: application/x-msdos-program
+  BK-EXEC.BAD:
+    mimetype: text/plain
+  BK-SIL.BAD:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FUN!.COM:
+    mimetype: application/x-msdos-program
+  JM-DIG.BAD:
+    mimetype: text/plain
+  NC-PMP.BAD:
+    mimetype: text/plain
+  SQ-SW.BAD:
+    mimetype: text/plain

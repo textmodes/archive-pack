@@ -1,0 +1,16 @@
+name: tdmoon3.zip
+hash: fbd714feae7d414e4eba07ed7c0e9db9
+year: 1993
+file:
+  DESC.SDI:
+    mimetype: application/octet-stream
+  FUN!.COM:
+    mimetype: application/x-msdos-program
+  MOON.TXT:
+    mimetype: text/plain
+  MOON1.TDF:
+    mimetype: application/octet-stream
+  MOON2.TDF:
+    mimetype: application/octet-stream
+  MOON3.TDF:
+    mimetype: application/octet-stream

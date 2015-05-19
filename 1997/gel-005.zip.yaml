@@ -1,0 +1,32 @@
+name: gel-005.zip
+hash: 90482e4a6a67456c7c74d68d81b399d3
+year: 1997
+file:
+  CH-CDMNU.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GEL.MEM:
+    mimetype: text/plain
+  GEL.NFO:
+    mimetype: text/plain
+  GEL.SIT:
+    mimetype: text/plain
+  GEL.TXT:
+    mimetype: text/plain
+  GELAPP.EXE:
+    mimetype: application/x-msdos-program
+  GELIQ1LN.ZIP:
+    mimetype: application/zip
+  GELVIEW.EXE:
+    mimetype: application/x-msdos-program
+  IC-AGE.ASC:
+    mimetype: text/plain
+  IC-COLLY.ASC:
+    mimetype: text/plain
+  IC-MAIN.ASC:
+    mimetype: text/plain
+  IC-MNUSE.ASC:
+    mimetype: text/plain
+  IC-SLIME.ASC:
+    mimetype: text/plain

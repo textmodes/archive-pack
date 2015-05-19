@@ -1,0 +1,22 @@
+name: cleaner.zip
+hash: ba731f044094f7952f46dfc809dc90e1
+year: 1999
+file:
+  CL!-1997.ANS:
+    mimetype: text/plain
+  CL!-1997.ASC:
+    mimetype: text/plain
+  CL!-1998.ANS:
+    mimetype: text/plain
+  CL!-1998.ASC:
+    mimetype: text/plain
+  CL!-1999.ANS:
+    mimetype: text/plain
+  CL!-1999.ASC:
+    mimetype: text/plain
+  CLEANER.NFO:
+    mimetype: text/plain
+  CLEANER.RLS:
+    mimetype: application/octet-stream
+  FILE_ID.DIZ:
+    mimetype: text/plain

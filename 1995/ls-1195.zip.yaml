@@ -1,0 +1,48 @@
+name: ls-1195.zip
+hash: f2082e8e81cfb5c8a557a05b59464b31
+year: 1995
+file:
+  CK-RIPPD.ZIP:
+    mimetype: application/zip
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  LAPPLY.EXE:
+    mimetype: application/x-msdos-program
+  LS-1195.MEM:
+    mimetype: text/plain
+  LS-1195.SIT:
+    mimetype: text/plain
+  LS-NOTES.ADD:
+    mimetype: text/plain
+  LS-NOTES.ANS:
+    mimetype: text/plain
+  LVIEW.EXE:
+    mimetype: application/x-msdos-program
+  PP-DONT.ANS:
+    mimetype: text/plain
+  PP-JAR.GIF:
+    mimetype: image/gif
+  PP-LD.ANS:
+    mimetype: text/plain
+  PP-LDCC.ASC:
+    mimetype: text/plain
+  PP-ME.ANS:
+    mimetype: text/plain
+  RV-CZ6.ASC:
+    mimetype: text/plain
+  RV-LEPER.ANS:
+    mimetype: text/plain
+  RV-MTRX3.ANS:
+    mimetype: text/plain
+  RV-TIC5.ANS:
+    mimetype: text/plain
+  SG-CORL5.ANS:
+    mimetype: text/plain
+  SG-IMP1.ANS:
+    mimetype: text/plain
+  SG-MDML3.ANS:
+    mimetype: text/plain
+  TP-LGS.ANS:
+    mimetype: text/plain
+  TP-LPR1.ANS:
+    mimetype: text/plain

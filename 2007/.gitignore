@@ -1,0 +1,6 @@
+# Ignore everything
+*
+
+# Unignore metadata
+!.gitignore
+!*.yaml

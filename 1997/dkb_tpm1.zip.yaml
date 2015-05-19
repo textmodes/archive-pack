@@ -1,0 +1,24 @@
+name: dkb_tpm1.zip
+hash: cfdd77487a9c267b825a11de38e03a0b
+year: 1997
+file:
+  DKB.NFO:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  kane1.jpg:
+    mimetype: image/jpeg
+  kane2.jpg:
+    mimetype: image/jpeg
+  kane3.jpg:
+    mimetype: image/jpeg
+  kane4.jpg:
+    mimetype: image/jpeg
+  kane5.jpg:
+    mimetype: image/jpeg
+  kane6.jpg:
+    mimetype: image/jpeg
+  kane7.jpg:
+    mimetype: image/jpeg
+  phunk.jpg:
+    mimetype: image/jpeg

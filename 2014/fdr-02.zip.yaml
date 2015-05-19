@@ -1,0 +1,32 @@
+name: fdr-02.zip
+hash: ea8399beb934d9af83351f9bf0789b9d
+year: 2014
+file:
+  CL!-AL04.ANS:
+    mimetype: text/plain
+  CL!-HCND.ANS:
+    mimetype: text/plain
+  CL!-SVAO.ANS:
+    mimetype: text/plain
+  FDR-02.NFO:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  SYL-CHIP.ANS:
+    mimetype: text/plain
+  SYL-EV13.ANS:
+    mimetype: text/plain
+  SYL-METL.ANS:
+    mimetype: text/plain
+  SYL-SY13.ANS:
+    mimetype: text/plain
+  SYL-UNDD.ANS:
+    mimetype: text/plain
+  SYL-WAHN.ANS:
+    mimetype: text/plain
+  SYL-WALL.ANS:
+    mimetype: text/plain
+  US-PB14.ANS:
+    mimetype: text/plain
+  US-TRS13.ANS:
+    mimetype: text/plain

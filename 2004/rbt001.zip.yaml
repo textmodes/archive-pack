@@ -1,0 +1,42 @@
+name: rbt001.zip
+hash: 524b245229fddb6c5b8d754fd23be0cc
+year: 2004
+file:
+  file_id.diz:
+    mimetype: text/plain
+  hires/snk-inthsk.jpg:
+    mimetype: image/jpeg
+  lits/PP-LOVE.LIT:
+    mimetype: text/plain
+  lits/chu-sv.lit:
+    mimetype: text/plain
+  lowres/RA-LEAP.ANS:
+    mimetype: text/plain
+  lowres/RA-NOSFE.ANS:
+    mimetype: text/plain
+  lowres/drg-logo.asc:
+    mimetype: text/plain
+  lowres/drg-univ.asc:
+    mimetype: text/plain
+  lowres/pp-alien.ans:
+    mimetype: text/plain
+  lowres/pp-diff.ans:
+    mimetype: text/plain
+  lowres/pp-heart.ans:
+    mimetype: text/plain
+  lowres/pp-lucky.ans:
+    mimetype: text/plain
+  lowres/pp-mm.asc:
+    mimetype: text/plain
+  lowres/pp-pain.ans:
+    mimetype: text/plain
+  lowres/pp-rbt.ans:
+    mimetype: text/plain
+  lowres/rlx!dogm.asc:
+    mimetype: text/plain
+  lowres/rlx!grl2.asc:
+    mimetype: text/plain
+  lowres/rlx!lady.asc:
+    mimetype: text/plain
+  rebirth.nfo:
+    mimetype: text/plain

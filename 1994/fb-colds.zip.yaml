@@ -1,0 +1,10 @@
+name: fb-colds.zip
+hash: 5c0a614a910ccfaa9a676fa912b59acb
+year: 1994
+file:
+  FB-COLDS.TDF:
+    mimetype: application/octet-stream
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  NEO.COM:
+    mimetype: application/x-msdos-program

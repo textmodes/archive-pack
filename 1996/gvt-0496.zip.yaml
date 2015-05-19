@@ -1,0 +1,88 @@
+name: gvt-0496.zip
+hash: 332afcb8924fb20a98cfdaadc019b86c
+year: 1996
+file:
+  '%ANSI%':
+    mimetype: text/plain
+  '%APP%':
+    mimetype: text/plain
+  '%ASCII%':
+    mimetype: text/plain
+  '%JOLT%':
+    mimetype: text/plain
+  '%OTHER%':
+    mimetype: text/plain
+  '%RIP%':
+    mimetype: text/plain
+  '%VIEWER%':
+    mimetype: text/plain
+  CC-HIGH1.ANS:
+    mimetype: text/plain
+  CC-LOGO.ANS:
+    mimetype: text/plain
+  DM-ACCES.ANS:
+    mimetype: text/plain
+  DM-GRAVT.ANS:
+    mimetype: text/plain
+  DM-GTV.ANS:
+    mimetype: text/plain
+  DM-HIGHS.ANS:
+    mimetype: text/plain
+  DM-PI.ANS:
+    mimetype: text/plain
+  DM-SKA.ANS:
+    mimetype: text/plain
+  DM-STONE.ANS:
+    mimetype: text/plain
+  DZ-APOC.ASC:
+    mimetype: text/plain
+  DZ-JOLT.ASC:
+    mimetype: text/plain
+  DZ-RILE1.ASC:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  G40-COL3.ANS:
+    mimetype: text/plain
+  GVT-0496.MEM:
+    mimetype: text/plain
+  GVT-0496.NFO:
+    mimetype: text/plain
+  GVT-APP.EXE:
+    mimetype: application/x-msdos-program
+  GVTVIEW.EXE:
+    mimetype: application/x-msdos-program
+  GVTVIEW.HIS:
+    mimetype: text/plain
+  HOUR.EXE:
+    mimetype: application/x-msdos-program
+  JOLT01.ZIP:
+    mimetype: application/zip
+  MTL-496A.ASC:
+    mimetype: text/plain
+  MTL-496B.ASC:
+    mimetype: text/plain
+  PH-ANEM.ANS:
+    mimetype: text/plain
+  PH-HR.ANS:
+    mimetype: text/plain
+  PH-K0L.ANS:
+    mimetype: text/plain
+  PH-OO.ANS:
+    mimetype: text/plain
+  PH-TEQ!.ANS:
+    mimetype: text/plain
+  PT-PICS.ANS:
+    mimetype: text/plain
+  PT-ZHR.RIP:
+    mimetype: image/x-rip
+  SD-COLL.ANS:
+    mimetype: text/plain
+  SH-BECOM.ANS:
+    mimetype: text/plain
+  SH-GVIEW.ANS:
+    mimetype: text/plain
+  TNP-BC1.ANS:
+    mimetype: text/plain
+  TNP-TG1.ANS:
+    mimetype: text/plain

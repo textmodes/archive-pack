@@ -1,0 +1,64 @@
+name: uni-0595.zip
+hash: cad950dde9f2b7eea9ed4f1ffb1c9542
+year: 1995
+file:
+  ^EOFJUNK.^:
+    mimetype: text/plain
+  ^ST_JUNK.^:
+    mimetype: text/plain
+  28-UNI10.ANS:
+    mimetype: text/plain
+  AB-GY01.ANS:
+    mimetype: text/plain
+  BH-PACBE.RIP:
+    mimetype: image/x-rip
+  BH-UNI1.RIP:
+    mimetype: image/x-rip
+  CH-0594.ANS:
+    mimetype: text/plain
+  CH-FAIL.BIN:
+    mimetype: text/x-binary
+  CH-INFLX.BIN:
+    mimetype: text/x-binary
+  DI-SY1.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  MD-TTH1.BIN:
+    mimetype: text/x-binary
+  MEM-0595.ANS:
+    mimetype: text/plain
+  NCZ-PG1.ANS:
+    mimetype: text/plain
+  NFO-0595.ANS:
+    mimetype: text/plain
+  NS-TERB1.ANS:
+    mimetype: text/plain
+  NS-TREG1.ANS:
+    mimetype: text/plain
+  NV-ARTWX.ANS:
+    mimetype: text/plain
+  NV-BKULT.ANS:
+    mimetype: text/plain
+  NV-PITT1.ANS:
+    mimetype: text/plain
+  NZ-CONT1.ANS:
+    mimetype: text/plain
+  PS2.ZIP:
+    mimetype: application/zip
+  PX-SE.ANS:
+    mimetype: text/plain
+  PX-ZH.ANS:
+    mimetype: text/plain
+  RG-OBSCE.ANS:
+    mimetype: text/plain
+  RG-OP#2.ANS:
+    mimetype: text/plain
+  RK-EN1.RIP:
+    mimetype: image/x-rip
+  SA-WN.RIP:
+    mimetype: image/x-rip
+  TW-DV1.RIP:
+    mimetype: image/x-rip
+  TW-EMI1.RIP:
+    mimetype: image/x-rip

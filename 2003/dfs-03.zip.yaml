@@ -1,0 +1,10 @@
+name: dfs-03.zip
+hash: cdbf42655b4d43bbf76f0563944e56bf
+year: 2003
+file:
+  dfs.nfo:
+    mimetype: text/plain
+  install.exe:
+    mimetype: application/x-msdos-program
+  pack.ace:
+    mimetype: text/plain

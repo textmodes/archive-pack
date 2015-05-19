@@ -1,0 +1,10 @@
+name: chrl-01.zip
+hash: 1252cc0a6b5118deeead7151251002e5
+year: 1998
+file:
+  ANSI.DAT:
+    mimetype: application/octet-stream
+  CHURL.EXE:
+    mimetype: application/x-msdos-program
+  FILE_ID.DIZ:
+    mimetype: text/plain

@@ -1,0 +1,28 @@
+name: fl-ansi1.zip
+hash: 1aa74823d4036c2f06012d4e5d56c2c2
+year: 1995
+file:
+  FILE_ID.ASC:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FUEL.APP:
+    mimetype: application/octet-stream
+  JOINRIDE:
+    mimetype: text/plain
+  READDIC.DOC:
+    mimetype: text/plain
+  TK-BLBDN.FL:
+    mimetype: text/plain
+  TK-FACOD.FL:
+    mimetype: text/plain
+  TK-GSKMR.FL:
+    mimetype: text/plain
+  TK-INFRN.FL:
+    mimetype: text/plain
+  TK-JCONF.FL:
+    mimetype: text/plain
+  TK-SMALL.FL:
+    mimetype: text/plain
+  TK-WHALE.FL:
+    mimetype: text/plain

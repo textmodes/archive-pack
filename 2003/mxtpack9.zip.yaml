@@ -1,0 +1,96 @@
+name: mxtpack9.zip
+hash: 78e7418efe229b33af61c960fea7ce8a
+year: 2003
+file:
+  ASCII/MXT-CORP.ASC:
+    mimetype: text/plain
+  ASCII/MXT-CRSH.ASC:
+    mimetype: text/plain
+  ASCII/MXT-CRT.ASC:
+    mimetype: text/plain
+  ASCII/MXT-DSU.ASC:
+    mimetype: text/plain
+  ASCII/MXT-EFT1.ASC:
+    mimetype: text/plain
+  ASCII/MXT-FREY.ASC:
+    mimetype: text/plain
+  ASCII/MXT-HF.ASC:
+    mimetype: text/plain
+  ASCII/MXT-KPNM.ASC:
+    mimetype: text/plain
+  ASCII/MXT-KPTM.ASC:
+    mimetype: text/plain
+  ASCII/MXT-KPTM.DIZ:
+    mimetype: text/plain
+  ASCII/MXT-MFP.ASC:
+    mimetype: text/plain
+  ASCII/MXT-NL.ASC:
+    mimetype: text/plain
+  ASCII/MXT-SMEG.ASC:
+    mimetype: text/plain
+  ASCII/MXT-SND.ASC:
+    mimetype: text/plain
+  ASCII/MXT-TMS.ASC:
+    mimetype: text/plain
+  ASCII/MXT-VAL.ASC:
+    mimetype: text/plain
+  ASCII/MXT-VAL.DIZ:
+    mimetype: text/plain
+  ASCII/MXT-VCS.ASC:
+    mimetype: text/plain
+  HIREZ/mxt-bishep-tsrh-logo2.gif:
+    mimetype: image/gif
+  HIREZ/mxt-bugz-team-template.jpg:
+    mimetype: image/jpeg
+  HIREZ/mxt-counter-button-example.gif:
+    mimetype: image/gif
+  HIREZ/mxt-cro-wall-yellow.jpg:
+    mimetype: image/jpeg
+  HIREZ/mxt-divine-installer-main.jpg:
+    mimetype: image/jpeg
+  HIREZ/mxt-dreamer-x-logo.jpg:
+    mimetype: image/jpeg
+  HIREZ/mxt-existence-walpaper.jpg:
+    mimetype: image/jpeg
+  HIREZ/mxt-kpteam-logo-flag.gif:
+    mimetype: image/gif
+  HIREZ/mxt-kpteam-logo-kg.gif:
+    mimetype: image/gif
+  HIREZ/mxt-neophyx-logo-bw.gif:
+    mimetype: image/gif
+  HIREZ/mxt-neophyx-logo.gif:
+    mimetype: image/gif
+  HIREZ/mxt-odyz-wallpapper.jpg:
+    mimetype: image/jpeg
+  HIREZ/mxt-phrk.nu-logo.gif:
+    mimetype: image/gif
+  HIREZ/mxt-scipper-keygen.jpg:
+    mimetype: image/jpeg
+  HIREZ/mxt-sound-of-life-logo.jpg:
+    mimetype: image/jpeg
+  HIREZ/mxt-sudd-keygen-logo.gif:
+    mimetype: image/gif
+  HIREZ/mxt-udc-logo.jpg:
+    mimetype: image/jpeg
+  HIREZ/mxt-vepergen-tsrh-logo.gif:
+    mimetype: image/gif
+  HIREZ/mxt-xorax-tsrh-logo.gif:
+    mimetype: image/gif
+  ICONS/mxt-eck0-script-icon.ico:
+    mimetype: image/x-icon
+  ICONS/mxt-funny-face.ico:
+    mimetype: image/x-icon
+  ICONS/mxt-funny-flower.ico:
+    mimetype: image/x-icon
+  ICONS/mxt-funny-man.ico:
+    mimetype: image/x-icon
+  ICONS/mxt-os-diskette.ico:
+    mimetype: image/x-icon
+  ICONS/mxt-tsrh-barrel-winxp.ico:
+    mimetype: image/x-icon
+  ICONS/mxt-tsrh-blood-winxp.ico:
+    mimetype: image/x-icon
+  ICONS/mxt-tsrh-sheriff-winxp.ico:
+    mimetype: image/x-icon
+  MAXXTRO.NFO:
+    mimetype: text/plain

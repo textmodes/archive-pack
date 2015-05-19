@@ -1,0 +1,100 @@
+name: cia-50-a.zip
+hash: 8c953e1b8a6836823da0624195775423
+year: 1997
+file:
+  '#50-DISK.NFO':
+    mimetype: text/plain
+  '#50-INFO.CIA':
+    mimetype: text/plain
+  !!binary wMTE/yM1MC7ExNk=:
+    mimetype: text/plain
+  !!binary xMTE/0FERlMuxMTE:
+    mimetype: text/plain
+  !!binary xMTE/0FTQ0kuxMTE:
+    mimetype: text/plain
+  !!binary 2sTE/0NJQS7ExL8=:
+    mimetype: text/plain
+  !!binary xMTE/0NOVEQuxMTE:
+    mimetype: text/plain
+  !!binary xMTE/0xPR08uxMTE:
+    mimetype: text/plain
+  !!binary xMTE/01PUkUuxMTE:
+    mimetype: text/plain
+  !!binary xMTE/1JJUFMuxMTE:
+    mimetype: application/octet-stream
+  !!binary xMTE/1ZHQVMuxMTE:
+    mimetype: application/octet-stream
+  42_BOOM.CIA:
+    mimetype: text/plain
+  42_CIA1.GIF:
+    mimetype: image/gif
+  42_DJAHR.LGO:
+    mimetype: text/plain
+  42_FIRE.ADF:
+    mimetype: application/octet-stream
+  42_HELLO.ADF:
+    mimetype: text/plain
+  42_HELLO.CIA:
+    mimetype: text/plain
+  42_O01I.CIA:
+    mimetype: text/plain
+  42_SK.CIA:
+    mimetype: text/plain
+  CIA-FIRE.CIA:
+    mimetype: text/plain
+  DE-D_ART.JPG:
+    mimetype: image/jpeg
+  DI-AIC.JPG:
+    mimetype: image/jpeg
+  EJ-CIA.JPG:
+    mimetype: image/jpeg
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FV-CIA50.CIA:
+    mimetype: text/plain
+  GN-SWEN.JPG:
+    mimetype: image/jpeg
+  GN-WLLS3.JPG:
+    mimetype: image/jpeg
+  H4-CIA.LGO:
+    mimetype: text/plain
+  JE-50.RIP:
+    mimetype: image/x-rip
+  JP-CLY10.ASC:
+    mimetype: text/plain
+  LBLACK.ASC:
+    mimetype: text/plain
+  LCREAM.ASC:
+    mimetype: text/plain
+  LDISTR.ASC:
+    mimetype: text/plain
+  LMORPH.ASC:
+    mimetype: text/plain
+  LRELIE.ASC:
+    mimetype: text/plain
+  MH-CIA50.ASC:
+    mimetype: text/plain
+  NA-SEVEN.CIA:
+    mimetype: text/plain
+  PE!CIA.LGO:
+    mimetype: text/plain
+  PE!CIADZ.ASC:
+    mimetype: text/plain
+  PE!GAMES.LGO:
+    mimetype: text/plain
+  PE!LIBI3.LGO:
+    mimetype: text/plain
+  RM-CIA.ASC:
+    mimetype: text/plain
+  SH-CIADZ.ASC:
+    mimetype: text/plain
+  SM-CIA50.LGO:
+    mimetype: text/plain
+  T1-124.ASC:
+    mimetype: text/plain
+  WG-CIA1.LGO:
+    mimetype: text/plain
+  ZII-C5.CIA:
+    mimetype: text/plain
+  ZII-C50.CIA:
+    mimetype: text/plain

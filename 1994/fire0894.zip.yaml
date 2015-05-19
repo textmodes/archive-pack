@@ -1,0 +1,50 @@
+name: fire0894.zip
+hash: a48368560d59c0c1f3c0153809691cb7
+year: 1994
+file:
+  DH-CRYPT.ANS:
+    mimetype: text/plain
+  DH-SUN2.ANS:
+    mimetype: text/plain
+  EP-CC.ANS:
+    mimetype: text/plain
+  EP-QI.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FIRE-APP.EXE:
+    mimetype: application/x-msdos-program
+  FIRE-REQ.EXE:
+    mimetype: application/x-msdos-program
+  FIREINFO.ANS:
+    mimetype: text/plain
+  HAL-F1.ANS:
+    mimetype: text/plain
+  HAL-F2.ANS:
+    mimetype: text/plain
+  HAL-TFD.ANS:
+    mimetype: text/plain
+  MEMLIST.ANS:
+    mimetype: text/plain
+  PYRO0.DAT:
+    mimetype: text/plain
+  PYRO1.DAT:
+    mimetype: text/plain
+  PYROVIEW.EXE:
+    mimetype: application/x-msdos-program
+  REGENCY.EXE:
+    mimetype: application/x-msdos-program
+  SF-FIRE.GIF:
+    mimetype: image/gif
+  SF-LSD.GIF:
+    mimetype: image/gif
+  SH-SOF.MOD:
+    mimetype: audio/x-mod
+  SI-FIRE.ANS:
+    mimetype: text/plain
+  SIN-BOOM.ANS:
+    mimetype: text/plain
+  SIN-FHQ.ANS:
+    mimetype: text/plain
+  SIN-FIRE.ANS:
+    mimetype: text/plain

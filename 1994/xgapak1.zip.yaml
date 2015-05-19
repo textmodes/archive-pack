@@ -1,0 +1,90 @@
+name: xgapak1.zip
+hash: 2cf1b7d8af71221be63932bd48e1fcff
+year: 1994
+file:
+  BF-TSNPR.XGA:
+    mimetype: text/plain
+  CT-XGA12.XGA:
+    mimetype: text/plain
+  DE-HELLB.XGA:
+    mimetype: text/plain
+  DE-IMMOR.XGA:
+    mimetype: text/plain
+  DE-LLAIR.XGA:
+    mimetype: text/plain
+  DE-LOGO.XGA:
+    mimetype: text/plain
+  DE-RITU.BAK:
+    mimetype: text/plain
+  DE-RITU.XGA:
+    mimetype: text/plain
+  DE-STATS.XGA:
+    mimetype: text/plain
+  DE-TWS.XGA:
+    mimetype: text/plain
+  DE-TWS2.XGA:
+    mimetype: text/plain
+  FILE.XGA:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  HEART.XGA:
+    mimetype: text/plain
+  HOP.DIS:
+    mimetype: text/plain
+  LD-SK1.XGA:
+    mimetype: text/plain
+  MAIN.XGA:
+    mimetype: text/plain
+  MSG.XGA:
+    mimetype: text/plain
+  SN-ATG1.XGA:
+    mimetype: text/plain
+  SN-ATG2.XGA:
+    mimetype: text/plain
+  SN-IMNET.XGA:
+    mimetype: text/plain
+  SN-NARCO.XGA:
+    mimetype: text/plain
+  SN-NOMAD.XGA:
+    mimetype: text/plain
+  SN-NORTH.XGA:
+    mimetype: text/plain
+  SN-PARTS.XGA:
+    mimetype: text/plain
+  SN-SICIL.XGA:
+    mimetype: text/plain
+  SN-TRIP.XGA:
+    mimetype: text/plain
+  SN-UHF.XGA:
+    mimetype: text/plain
+  SN-XGA2.XGA:
+    mimetype: text/plain
+  TH-LATER.XGA:
+    mimetype: text/plain
+  TH-LUCI.XGA:
+    mimetype: text/plain
+  TH-MK.XGA:
+    mimetype: text/plain
+  TH-UW.XGA:
+    mimetype: text/plain
+  TH-UW1.XGA:
+    mimetype: text/plain
+  THEDRAW.PCK:
+    mimetype: application/octet-stream
+  UNDER.EXE:
+    mimetype: application/x-msdos-program
+  WELCOME.1:
+    mimetype: text/plain
+  X-FACTOR.XGA:
+    mimetype: text/plain
+  XGA.COM:
+    mimetype: application/x-msdos-program
+  XGA.XGA:
+    mimetype: text/plain
+  XGAAPP.EXE:
+    mimetype: application/x-msdos-program
+  XGAINFO.XGA:
+    mimetype: text/plain
+  XGALOAD2.EXE:
+    mimetype: application/x-msdos-program

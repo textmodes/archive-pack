@@ -1,0 +1,68 @@
+name: thst0895.zip
+hash: d3e0985fa647dee85d4d2607a5e345e8
+year: 1995
+file:
+  !!binary +vktQU5TScQuxC36:
+    mimetype: application/octet-stream
+  !!binary +vktQVNDSUkuxC36:
+    mimetype: application/octet-stream
+  !!binary +vktTUlTQ8QuxC36:
+    mimetype: application/octet-stream
+  BH-BOB.ASC:
+    mimetype: text/plain
+  BH-DH.ASC:
+    mimetype: text/plain
+  BH-TC.ASC:
+    mimetype: text/plain
+  BH-TRST.ASC:
+    mimetype: text/plain
+  BH-WIN95.ASC:
+    mimetype: text/plain
+  CK-SHUT.ANS:
+    mimetype: text/plain
+  CK-VIO.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  KILLNIG.S3M:
+    mimetype: audio/x-mod
+  KK-CORUP.ANS:
+    mimetype: text/plain
+  KK-GODMX.ANS:
+    mimetype: text/plain
+  KK-IIMTX.ANS:
+    mimetype: text/plain
+  KK-ROT.ANS:
+    mimetype: text/plain
+  KK-THL.ANS:
+    mimetype: text/plain
+  KK-THT1.ANS:
+    mimetype: text/plain
+  KK-TNET.ANS:
+    mimetype: text/plain
+  THRST895.MEM:
+    mimetype: text/plain
+  THRST895.NFO:
+    mimetype: text/plain
+  THRSTAPP.ZIP:
+    mimetype: application/zip
+  TI-CHR.ANS:
+    mimetype: text/plain
+  TI-CRWT.ANS:
+    mimetype: text/plain
+  TI-GREN.ANS:
+    mimetype: text/plain
+  TI-GROX.ANS:
+    mimetype: text/plain
+  TI-MET.ANS:
+    mimetype: text/plain
+  TI-OPI.ANS:
+    mimetype: text/plain
+  TI-SAM.ANS:
+    mimetype: text/plain
+  TI-TH2.ANS:
+    mimetype: text/plain
+  TI-TH3.ANS:
+    mimetype: text/plain
+  TI-VAMP.ANS:
+    mimetype: text/plain

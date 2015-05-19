@@ -1,0 +1,62 @@
+name: df2pack2.zip
+hash: 077dfaea02019631bd4bf4294026f23a
+year: 1998
+file:
+  ANSI/SHAQ-01.ANS:
+    mimetype: text/plain
+  ASCII/ANTI-01.ASC:
+    mimetype: text/plain
+  ASCII/ANTI-01.NFO:
+    mimetype: text/plain
+  ASCII/ANTI-02.ASC:
+    mimetype: text/plain
+  ASCII/ANTI-02.NFO:
+    mimetype: text/plain
+  ASCII/ANTI-03.ASC:
+    mimetype: text/plain
+  ASCII/ANTI-03.NFO:
+    mimetype: text/plain
+  ASCII/ANTI-04.ASC:
+    mimetype: text/plain
+  ASCII/ANTI-05.ASC:
+    mimetype: text/plain
+  ASCII/ANTI-06.ASC:
+    mimetype: text/plain
+  ASCII/SHAQ-01.ASC:
+    mimetype: text/plain
+  ASCII/SHAQ-01.NFO:
+    mimetype: text/plain
+  ASCII/SHAQ-02.NFO:
+    mimetype: text/plain
+  ASCII/SHAQ-03.NFO:
+    mimetype: text/plain
+  DF2.001:
+    mimetype: audio/x-mod
+  DF2.INI:
+    mimetype: text/plain
+  DF2.NFO:
+    mimetype: text/plain
+  DF2INTRO.EXE:
+    mimetype: application/x-msdos-program
+  DF2INTRO.TXT:
+    mimetype: text/plain
+  VGA/BH-01.GIF:
+    mimetype: image/gif
+  VGA/BH-02.JPG:
+    mimetype: image/jpeg
+  VGA/BH-03.JPG:
+    mimetype: image/jpeg
+  VGA/MINDS-01.JPG:
+    mimetype: image/jpeg
+  VGA/SEFF-01.JPG:
+    mimetype: image/jpeg
+  VGA/SEFF-02.JPG:
+    mimetype: image/jpeg
+  VGA/SK8-01.JPG:
+    mimetype: image/jpeg
+  VGA/SK8-02.JPG:
+    mimetype: image/jpeg
+  VIEWER95.EXE:
+    mimetype: application/x-msdos-program
+  VIEWER95.TXT:
+    mimetype: text/plain

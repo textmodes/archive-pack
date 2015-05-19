@@ -1,0 +1,14 @@
+name: fm-4th.zip
+hash: 98b555f6afc719bdc9cfbbfb92abe983
+year: 2000
+file:
+  '!!popcorn.jpg':
+    mimetype: image/jpeg
+  CONTENTS.TXT:
+    mimetype: text/plain
+  FUCK_ID.DIZ:
+    mimetype: text/plain
+  FUCK4.DAT:
+    mimetype: application/x-font-ttf
+  fuck4.exe:
+    mimetype: application/x-msdos-program

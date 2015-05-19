@@ -1,0 +1,58 @@
+name: tpb1094.zip
+hash: ad75d96d5a1e1838757c9ba41f231295
+year: 1994
+file:
+  '- ANS -':
+    mimetype: application/octet-stream
+  '- ASC -':
+    mimetype: application/octet-stream
+  '- DAT -':
+    mimetype: application/octet-stream
+  '- VGA -':
+    mimetype: application/octet-stream
+  AB-NWO.TPB:
+    mimetype: text/plain
+  AB-STAL.TPB:
+    mimetype: text/plain
+  AS-ASSN.TPB:
+    mimetype: text/plain
+  AS-MAFIA.ASC:
+    mimetype: text/plain
+  AS-MAFIA.TPB:
+    mimetype: text/plain
+  AS-MENU.ZIP:
+    mimetype: application/zip
+  AS-PSYC.TPB:
+    mimetype: text/plain
+  AS-PSYC2.TPB:
+    mimetype: text/plain
+  AS-PSYCH.ASC:
+    mimetype: text/plain
+  AS-ROD.ASC:
+    mimetype: text/plain
+  AS-STUDS.TPB:
+    mimetype: text/plain
+  AS-UNEAR.ASC:
+    mimetype: text/plain
+  AS-UNEAR.TPB:
+    mimetype: text/plain
+  AS-UNLGO.TPB:
+    mimetype: text/plain
+  CNCP-BK.PCX:
+    mimetype: image/pcx
+  CNCP-NC.PCX:
+    mimetype: image/pcx
+  CNCP-SPD.PCX:
+    mimetype: image/pcx
+  CNCP-TPB.PCX:
+    mimetype: image/pcx
+  CNCP-TZ.PCX:
+    mimetype: image/pcx
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  TPBLIST.NFO:
+    mimetype: text/plain
+  TPBNEWS.NFO:
+    mimetype: text/plain
+  TPBPACK.NFO:
+    mimetype: text/plain

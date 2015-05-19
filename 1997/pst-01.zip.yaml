@@ -1,0 +1,54 @@
+name: pst-01.zip
+hash: 7d1633e258a67812ed5ddac470582b01
+year: 1997
+file:
+  -(ANSI)-:
+    mimetype: text/plain
+  -(ASCI)-:
+    mimetype: text/plain
+  -(INFO)-:
+    mimetype: text/plain
+  -(MISC)-:
+    mimetype: text/plain
+  -(VGA)-:
+    mimetype: text/plain
+  CK-ACID.ASC:
+    mimetype: text/plain
+  CK-COLLY.ASC:
+    mimetype: text/plain
+  CK-PST.ASC:
+    mimetype: text/plain
+  CYC-POLY.ANS:
+    mimetype: text/plain
+  DS-DECAY.ANS:
+    mimetype: text/plain
+  DS-POLY.ANS:
+    mimetype: text/plain
+  DS-PREV.ANS:
+    mimetype: text/plain
+  ESS-FLMU.ASC:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  MEMBERS.PST:
+    mimetype: text/plain
+  NEWS.PST:
+    mimetype: text/plain
+  PST-APP.EXE:
+    mimetype: application/x-msdos-program
+  PST-APP.NFO:
+    mimetype: text/plain
+  REVOLUTE.PSY:
+    mimetype: text/plain
+  RP-ANSI.ANS:
+    mimetype: text/plain
+  RP-SMTX.ANS:
+    mimetype: text/plain
+  RP-URBAN.ANS:
+    mimetype: text/plain
+  SH&-POLY.ANS:
+    mimetype: text/plain
+  TR-POLY.ANS:
+    mimetype: text/plain
+  VJ-PSYCH.JPG:
+    mimetype: image/jpeg

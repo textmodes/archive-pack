@@ -1,0 +1,94 @@
+name: ice9703a.zip
+hash: 722e5222e3df367989ef6280ce7ed20f
+year: 1997
+file:
+  -ANSI---.---:
+    mimetype: text/plain
+  -FONT---.---:
+    mimetype: text/plain
+  -STAT---.---:
+    mimetype: text/plain
+  AX-WTF.ICE:
+    mimetype: text/plain
+  BV-400LN.ICE:
+    mimetype: text/plain
+  BV-KAF1.ICE:
+    mimetype: text/plain
+  CONT'D:
+    mimetype: text/plain
+  CU-R6663.ICE:
+    mimetype: text/plain
+  CU-SANC.ICE:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GM-ZERO.ICE:
+    mimetype: text/plain
+  ICE-9703.DSC:
+    mimetype: text/plain
+  ICE-9703.MEM:
+    mimetype: text/plain
+  ICE-9703.NFO:
+    mimetype: text/plain
+  ICE-9703.SIT:
+    mimetype: text/plain
+  ICE-9703.STS:
+    mimetype: text/plain
+  ICEVIEW.CNF:
+    mimetype: text/plain
+  ICEVIEW.DOC:
+    mimetype: text/plain
+  ICEVIEW.EXE:
+    mimetype: application/x-msdos-program
+  IV-PIF.DVP:
+    mimetype: application/octet-stream
+  JK-FAITH.ICE:
+    mimetype: text/plain
+  JK-FISH.ICE:
+    mimetype: text/plain
+  JK-FLUPH.ICE:
+    mimetype: text/plain
+  K-DMV.ICE:
+    mimetype: text/plain
+  MA-LGO05.ICE:
+    mimetype: text/plain
+  MM-23PHO.ICE:
+    mimetype: text/plain
+  MT-ENNET.ICE:
+    mimetype: text/plain
+  MT-ILM1.ICE:
+    mimetype: text/plain
+  ND-OK10.ICE:
+    mimetype: text/plain
+  PV.EXE:
+    mimetype: application/x-msdos-program
+  SD-ABRXS.ICE:
+    mimetype: text/plain
+  TE-TLC2.ICE:
+    mimetype: text/plain
+  TE-TTK1.ICE:
+    mimetype: text/plain
+  TE-TTK2.ICE:
+    mimetype: text/plain
+  TG-F1.ICE:
+    mimetype: text/plain
+  TI-F1.ICE:
+    mimetype: text/plain
+  TI-LMT1.ICE:
+    mimetype: text/plain
+  TI-TOYS.ICE:
+    mimetype: text/plain
+  US-666.ICE:
+    mimetype: text/plain
+  US-B0MB.ICE:
+    mimetype: text/plain
+  US-CRYPT.ICE:
+    mimetype: text/plain
+  US-ENT1.ICE:
+    mimetype: text/plain
+  US-F2.ICE:
+    mimetype: text/plain
+  US-ICEA.ICE:
+    mimetype: text/plain
+  US-NAT1.ICE:
+    mimetype: text/plain

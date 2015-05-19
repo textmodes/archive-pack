@@ -1,0 +1,26 @@
+name: skag9406.zip
+hash: 0b5ab4b132c22bcdc3f145be673a5be5
+year: 1994
+file:
+  AR-SKAG.S3M:
+    mimetype: audio/x-mod
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  LG-BD#1.ANS:
+    mimetype: text/plain
+  LG-UP#1.ANS:
+    mimetype: text/plain
+  MT-SOUL.ANS:
+    mimetype: text/plain
+  MT-VOO#1.GIF:
+    mimetype: image/gif
+  MT-XME#1.GIF:
+    mimetype: image/gif
+  NEOTOKYO.ANS:
+    mimetype: text/plain
+  SKAG9406.NFO:
+    mimetype: text/plain
+  SKAGVIEW.EXE:
+    mimetype: application/x-msdos-program
+  SKAGVIEW.NFO:
+    mimetype: text/plain

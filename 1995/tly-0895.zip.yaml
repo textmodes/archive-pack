@@ -1,0 +1,66 @@
+name: tly-0895.zip
+hash: 954258d700da48e93e5e5e9c2f0f0cc1
+year: 1995
+file:
+  CD-ASY.TLY:
+    mimetype: text/plain
+  CD-CHZ.TLY:
+    mimetype: text/plain
+  CD-CHZMM.TLY:
+    mimetype: text/plain
+  CD-CS.TLY:
+    mimetype: text/plain
+  CD-IMG1.TLY:
+    mimetype: text/plain
+  CD-MENTO.TLY:
+    mimetype: text/plain
+  CD-NOS.TLY:
+    mimetype: text/plain
+  CD-PWA.TLY:
+    mimetype: text/plain
+  CD-PWA1.TLY:
+    mimetype: text/plain
+  CD-WM.TLY:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  HASJ.IET:
+    mimetype: text/plain
+  LEESME.TXT:
+    mimetype: text/plain
+  NA-NOESC.TLY:
+    mimetype: text/plain
+  NA-OTE.TLY:
+    mimetype: text/plain
+  NA-PSBAD.TLY:
+    mimetype: text/plain
+  NA-PSBRE.TLY:
+    mimetype: text/plain
+  NA-RDMEN.TLY:
+    mimetype: text/plain
+  NA-SLH.TLY:
+    mimetype: text/plain
+  NA-TLYDI.TLY:
+    mimetype: text/plain
+  NEO.COM:
+    mimetype: application/x-msdos-program
+  NIRATCES.EXE:
+    mimetype: application/x-msdos-program
+  README.INF:
+    mimetype: application/octet-stream
+  S-KAPE!.EXE:
+    mimetype: application/x-msdos-program
+  SPH-PB.TLY:
+    mimetype: text/plain
+  TLY-APP.EXE:
+    mimetype: application/x-msdos-program
+  TLY-BRDS.NFO:
+    mimetype: text/plain
+  TLY-MBRS.NFO:
+    mimetype: text/plain
+  TLY-NEWS.NFO:
+    mimetype: text/plain
+  TLY-RELS.NFO:
+    mimetype: text/plain
+  TLY-VIEW.ZIP:
+    mimetype: application/zip

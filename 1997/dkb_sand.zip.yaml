@@ -1,0 +1,18 @@
+name: dkb_sand.zip
+hash: b429327404bb1467cb4ba2ceb8c92e23
+year: 1997
+file:
+  DKB.NFO:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  sAND1.jpg:
+    mimetype: image/jpeg
+  sAND2.jpg:
+    mimetype: image/jpeg
+  sAND3.jpg:
+    mimetype: image/jpeg
+  sAND4.jpg:
+    mimetype: image/jpeg
+  steeltra.ins:
+    mimetype: application/octet-stream

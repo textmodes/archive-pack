@@ -1,0 +1,60 @@
+name: rmrs-39.zip
+hash: dbe4f0f43cb84147515f987d803b8cd3
+year: 2001
+file:
+  remorse/43-DSTNC.ASC:
+    mimetype: text/plain
+  remorse/43-NLOGN.ASC:
+    mimetype: text/plain
+  remorse/43-POGUE.ASC:
+    mimetype: text/plain
+  remorse/43-SIGMA.ASC:
+    mimetype: text/plain
+  remorse/Bne!so.txt:
+    mimetype: text/plain
+  remorse/DX-MAP.ASC:
+    mimetype: text/plain
+  remorse/TR-IKEA.ASC:
+    mimetype: text/plain
+  remorse/cl!-eps.asc:
+    mimetype: text/plain
+  remorse/cl!-hrs.asc:
+    mimetype: text/plain
+  remorse/file_id.diz:
+    mimetype: text/plain
+  remorse/mkd-acid.asc:
+    mimetype: text/plain
+  remorse/mkd-goa.asc:
+    mimetype: text/plain
+  remorse/mkd-i2.asc:
+    mimetype: text/plain
+  remorse/mkd-podo.asc:
+    mimetype: text/plain
+  remorse/mkd-splu.asc:
+    mimetype: text/plain
+  remorse/ml-fts.asc:
+    mimetype: text/plain
+  remorse/psk-cms.asc:
+    mimetype: text/plain
+  remorse/psk-cyp.asc:
+    mimetype: text/plain
+  remorse/psk-risc.asc:
+    mimetype: text/plain
+  remorse/psk-rns.asc:
+    mimetype: text/plain
+  remorse/psk-wkz.asc:
+    mimetype: text/plain
+  remorse/remorse.nfo:
+    mimetype: text/plain
+  remorse/sys22222.asc:
+    mimetype: text/plain
+  remorse/to-strak.asc:
+    mimetype: text/plain
+  remorse/us-epc.asc:
+    mimetype: text/plain
+  remorse/vp-abz.ans:
+    mimetype: text/plain
+  remorse/vp-hate.ans:
+    mimetype: text/plain
+  remorse/vp-rmrs.ans:
+    mimetype: text/plain

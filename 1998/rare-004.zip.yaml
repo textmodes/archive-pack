@@ -1,0 +1,58 @@
+name: rare-004.zip
+hash: 6f105b1d55f8da4235718a551678a146
+year: 1998
+file:
+  APPLY.EXE:
+    mimetype: application/x-msdos-program
+  BNE-RARE.ASC:
+    mimetype: text/plain
+  CKO-LGCF.ANS:
+    mimetype: text/plain
+  CKO-LOSD.ANS:
+    mimetype: text/plain
+  CKO-RADL.ANS:
+    mimetype: text/plain
+  CNS(R!A).ANS:
+    mimetype: text/plain
+  D-WAR#2.ANS:
+    mimetype: text/plain
+  ESS!R4L1.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  NBM-CALL.ANS:
+    mimetype: text/plain
+  NBM-CHZ!.ANS:
+    mimetype: text/plain
+  NBM-FLAS.ANS:
+    mimetype: text/plain
+  NBM-INFU.ANS:
+    mimetype: text/plain
+  NBM-LDIM.ANS:
+    mimetype: text/plain
+  NBM-PHAZ.ANS:
+    mimetype: text/plain
+  NBM-PHZ1.ANS:
+    mimetype: text/plain
+  NBM-REAL.ANS:
+    mimetype: text/plain
+  NBM-USLS.ANS:
+    mimetype: text/plain
+  RARE4.NFO:
+    mimetype: text/plain
+  REQUEST.EXE:
+    mimetype: application/x-msdos-program
+  TG-BC1.ASC:
+    mimetype: text/plain
+  TG-BC2.ASC:
+    mimetype: text/plain
+  TG-DALE.ANS:
+    mimetype: text/plain
+  TG-ECL1.ASC:
+    mimetype: text/plain
+  TG-R4R3.ANS:
+    mimetype: text/plain
+  TG-RARE1.ANS:
+    mimetype: text/plain
+  TG-UTOP1.ASC:
+    mimetype: text/plain

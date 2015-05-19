@@ -1,0 +1,16 @@
+name: ice-spc7.zip
+hash: 15ddfa5270c49f00be7047bfe038e0fe
+year: 1996
+file:
+  AAPLAY.EXE:
+    mimetype: application/x-msdos-program
+  AB_DOLPH.FLI:
+    mimetype: video/fli
+  AB_DSTIL.JPG:
+    mimetype: image/jpeg
+  HEAVEN.ANS:
+    mimetype: text/plain
+  LOW-REZ.NFO:
+    mimetype: text/plain
+  file_id.diz:
+    mimetype: text/plain

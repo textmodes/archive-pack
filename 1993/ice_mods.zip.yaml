@@ -1,0 +1,14 @@
+name: ice_mods.zip
+hash: e20b3be318b7f009a57c18fb6e9ed5ca
+year: 1993
+file:
+  FUN!.COM:
+    mimetype: application/x-msdos-program
+  GL-DICT.MOD:
+    mimetype: audio/x-mod
+  GL-DIG.MOD:
+    mimetype: audio/x-mod
+  VI-SCAND.MOD:
+    mimetype: audio/x-mod
+  VI-SILEN.MOD:
+    mimetype: audio/x-mod

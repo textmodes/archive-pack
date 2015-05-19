@@ -1,0 +1,12 @@
+name: e!d-frkd.zip
+hash: c5eb556eb016fd24eb5af676b05fc2d9
+year: 1995
+file:
+  '''HITBOX''.EXE':
+    mimetype: application/x-msdos-program
+  E^D-FRKD.TXT:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  MOHOPIIE.COM:
+    mimetype: application/x-msdos-program

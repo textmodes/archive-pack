@@ -1,0 +1,62 @@
+name: image.zip
+hash: 16bbc6e52152030a3669cec79f7a04ee
+year: 1992
+file:
+  HV-1092.IMG:
+    mimetype: text/plain
+  HV-FLYNN.IMG:
+    mimetype: text/plain
+  HV-FORT.IMG:
+    mimetype: text/plain
+  HV-GATOR.IMG:
+    mimetype: text/plain
+  HV-GR.IMG:
+    mimetype: text/plain
+  HV-HWIRE.IMG:
+    mimetype: text/plain
+  HV-JUVE.IMG:
+    mimetype: text/plain
+  HV-NW.IMG:
+    mimetype: text/plain
+  HV-SITE.IMG:
+    mimetype: text/plain
+  HV-SONIC.IMG:
+    mimetype: text/plain
+  HV-USER.LST:
+    mimetype: text/plain
+  HV-UTOPI.IMG:
+    mimetype: text/plain
+  HYPRAD6.IMG:
+    mimetype: text/plain
+  IM-CYG.IMG:
+    mimetype: text/plain
+  IM-FIRE.IMG:
+    mimetype: text/plain
+  JD-APOC.IMG:
+    mimetype: text/plain
+  JD-AR.IMG:
+    mimetype: text/plain
+  JD-DUMP.IMG:
+    mimetype: text/plain
+  JD-FX.IMG:
+    mimetype: text/plain
+  JD-SHAD.IMG:
+    mimetype: text/plain
+  JD-SI.IMG:
+    mimetype: text/plain
+  JD-SPAWN.IMG:
+    mimetype: text/plain
+  PE-CYG.IMG:
+    mimetype: text/plain
+  SENSOR.IMG:
+    mimetype: text/plain
+  SHADOWS1.IMG:
+    mimetype: text/plain
+  TE-SKID.IMG:
+    mimetype: text/plain
+  TE-TAPE.IMG:
+    mimetype: text/plain
+  WIZPLC1.IMG:
+    mimetype: text/plain
+  cavalier.txt:
+    mimetype: text/plain

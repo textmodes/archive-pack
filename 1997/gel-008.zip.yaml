@@ -1,0 +1,44 @@
+name: gel-008.zip
+hash: b10d4cc27787981cf4de586d0ec2e0b3
+year: 1997
+file:
+  D5-CDAD.ANS:
+    mimetype: text/plain
+  D5-CDASC.ANS:
+    mimetype: text/plain
+  D5-DEND.ANS:
+    mimetype: text/plain
+  D5-DUNNO.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GEL.MEM:
+    mimetype: text/plain
+  GEL.NFO:
+    mimetype: text/plain
+  GELAPP.EXE:
+    mimetype: application/x-msdos-program
+  GELVIEW.EXE:
+    mimetype: application/x-msdos-program
+  TG-BLIND.ANS:
+    mimetype: text/plain
+  TG-BYE.ANS:
+    mimetype: text/plain
+  TG-CD.ANS:
+    mimetype: text/plain
+  TG-CONF.ANS:
+    mimetype: text/plain
+  TG-DEND.ANS:
+    mimetype: text/plain
+  TG-FILEA.ANS:
+    mimetype: text/plain
+  TG-MAIL.ANS:
+    mimetype: text/plain
+  TG-NUV.ANS:
+    mimetype: text/plain
+  TG-OLDSC.ANS:
+    mimetype: text/plain
+  TG-SPAWN.ANS:
+    mimetype: text/plain
+  TG-VC.ANS:
+    mimetype: text/plain

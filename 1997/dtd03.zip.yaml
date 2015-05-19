@@ -1,0 +1,98 @@
+name: dtd03.zip
+hash: ab846578c9064af35c5de3737155f35c
+year: 1997
+file:
+  !!binary /yj/QVNDSUkuKQ==:
+    mimetype: application/octet-stream
+  !!binary /yj/R1VFU1QuKQ==:
+    mimetype: application/octet-stream
+  !!binary //8o/0FOU0kuKQ==:
+    mimetype: application/octet-stream
+  !!binary //8o/0NSQVAuKQ==:
+    mimetype: application/octet-stream
+  !!binary //8o/0lORk8uKQ==:
+    mimetype: application/octet-stream
+  !!binary ////KP9WR0EuKQ==:
+    mimetype: application/octet-stream
+  DTD-APP.ASC:
+    mimetype: text/plain
+  DTD-LOGO.JPG:
+    mimetype: image/jpeg
+  DTD03NFO.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FUCKMEJE.SUS:
+    mimetype: image/gif
+  GL-DECAY.ANS:
+    mimetype: text/plain
+  GL-DTDFL.ANS:
+    mimetype: text/plain
+  GL-FILES.ANS:
+    mimetype: text/plain
+  GL-GREEN.ANS:
+    mimetype: text/plain
+  GL-LOGON.ANS:
+    mimetype: text/plain
+  GL-MELLE.ANS:
+    mimetype: text/plain
+  GL-MRSH2.ANS:
+    mimetype: text/plain
+  GL-MRSHC.ANS:
+    mimetype: text/plain
+  GL-SMFTR.ANS:
+    mimetype: text/plain
+  GL-TRMNT.ANS:
+    mimetype: text/plain
+  LO_DEVOT.ASC:
+    mimetype: text/plain
+  POS-ARCL.ASC:
+    mimetype: text/plain
+  POS-ATHE.ASC:
+    mimetype: text/plain
+  POS-BC.ASC:
+    mimetype: text/plain
+  POS-BD.ASC:
+    mimetype: text/plain
+  POS-BD2.ASC:
+    mimetype: text/plain
+  POS-BWAY.ASC:
+    mimetype: text/plain
+  POS-DCY.ASC:
+    mimetype: text/plain
+  POS-DTD.BMP:
+    mimetype: image/x-ms-bmp
+  POS-EBOL.ANS:
+    mimetype: text/plain
+  POS-KARU.ASC:
+    mimetype: text/plain
+  POS-KKK1.ASC:
+    mimetype: text/plain
+  POS-KKK2.ASC:
+    mimetype: text/plain
+  POS-LO!.ANS:
+    mimetype: text/plain
+  POS-MARD.ASC:
+    mimetype: text/plain
+  POS-SFEI.ASC:
+    mimetype: text/plain
+  POS-TS.ASC:
+    mimetype: text/plain
+  POS-UTL.ASC:
+    mimetype: text/plain
+  TU_ITR61.MOD:
+    mimetype: audio/x-mod
+  TU_ITR67.MOD:
+    mimetype: audio/x-mod
+  TU_ITR69.MOD:
+    mimetype: audio/x-mod
+  TU_ITR73.MOD:
+    mimetype: audio/x-mod
+  TU_LGBRZ.MOD:
+    mimetype: audio/x-mod
+  TU_SWRZ.MOD:
+    mimetype: audio/x-mod
+  TU_TTRS.MOD:
+    mimetype: audio/x-mod
+  TU_WHEEL.MOD:
+    mimetype: audio/x-mod

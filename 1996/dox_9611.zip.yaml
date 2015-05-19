@@ -1,0 +1,52 @@
+name: dox_9611.zip
+hash: 68181a11a506dbdb45c1f17db73ee358
+year: 1996
+file:
+  DOX.EXE:
+    mimetype: application/x-msdos-program
+  DOXAPP.ANS:
+    mimetype: text/plain
+  DOXBORDZ.NFO:
+    mimetype: text/plain
+  DOXMEMBZ.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  LST-ARSO.ANS:
+    mimetype: text/plain
+  LST-ASCI.ANS:
+    mimetype: text/plain
+  LST-BBSA.GIF:
+    mimetype: image/gif
+  LST-DRAG.ANS:
+    mimetype: text/plain
+  LST-GUN.ANS:
+    mimetype: text/plain
+  LST-LONV.ANS:
+    mimetype: text/plain
+  LST-MADM.ANS:
+    mimetype: text/plain
+  LST-MAIN.ANS:
+    mimetype: text/plain
+  LST-MAN.ANS:
+    mimetype: text/plain
+  LST-MONS.GIF:
+    mimetype: image/gif
+  LST-UNI.ANS:
+    mimetype: text/plain
+  LST-UPS.ANS:
+    mimetype: text/plain
+  LST-URBN.ANS:
+    mimetype: text/plain
+  LST-WO.GIF:
+    mimetype: image/gif
+  WAR-1.ANS:
+    mimetype: text/plain
+  WAR-2.ANS:
+    mimetype: text/plain
+  WAR-3.ANS:
+    mimetype: text/plain
+  Z0G-1.ANS:
+    mimetype: text/plain
+  Z0G-LAIR.ANS:
+    mimetype: text/plain

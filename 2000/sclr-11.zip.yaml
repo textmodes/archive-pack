@@ -1,0 +1,70 @@
+name: sclr-11.zip
+hash: b31b3ec50084d0dff664aa79854973c9
+year: 2000
+file:
+  a-view.com:
+    mimetype: application/x-msdos-program
+  amiga.fnt:
+    mimetype: application/octet-stream
+  crs-exr.asc:
+    mimetype: text/plain
+  file_id.diz:
+    mimetype: text/plain
+  files.bbs:
+    mimetype: text/plain
+  gk_podo.gif:
+    mimetype: image/gif
+  pc.fnt:
+    mimetype: application/octet-stream
+  phz-#9.asc:
+    mimetype: text/plain
+  phz-hell.asc:
+    mimetype: text/plain
+  phz-ilov.asc:
+    mimetype: text/plain
+  phz-pash.asc:
+    mimetype: text/plain
+  phz-posk.asc:
+    mimetype: text/plain
+  phz-sclr.txt:
+    mimetype: text/plain
+  phz-sys2.asc:
+    mimetype: text/plain
+  phz-trib.txt:
+    mimetype: text/plain
+  phz-wilc.asc:
+    mimetype: text/plain
+  phz-xhbt.asc:
+    mimetype: text/plain
+  pod_add.asc:
+    mimetype: text/plain
+  psh-exc.txt:
+    mimetype: text/plain
+  psh-kall.txt:
+    mimetype: text/plain
+  psh-pstl.txt:
+    mimetype: text/plain
+  psh-sclr.txt:
+    mimetype: text/plain
+  psh-smsh.txt:
+    mimetype: text/plain
+  sclr-11.nfo:
+    mimetype: text/plain
+  wth!past.ans:
+    mimetype: text/plain
+  wth!sclr.txt:
+    mimetype: text/plain
+  wth!trms.txt:
+    mimetype: text/plain
+  zj-exxax.txt:
+    mimetype: text/plain
+  zj-pain.png:
+    mimetype: image/png
+  zj-req.txt:
+    mimetype: text/plain
+  zj-twa.txt:
+    mimetype: text/plain
+  zj-unix.txt:
+    mimetype: text/plain
+  zj-with.txt:
+    mimetype: text/plain

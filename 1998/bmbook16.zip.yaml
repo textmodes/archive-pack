@@ -1,0 +1,86 @@
+name: bmbook16.zip
+hash: d5bf7cb32062f2e893d8d6b6d0b85a49
+year: 1998
+file:
+  '&COVER16.ANS':
+    mimetype: text/plain
+  --ANSI--.---:
+    mimetype: text/plain
+  --ASCII-.---:
+    mimetype: application/octet-stream
+  --BV---.---:
+    mimetype: text/plain
+  --DIZ--.---:
+    mimetype: application/octet-stream
+  --GUEST-.---:
+    mimetype: application/octet-stream
+  --NFO---.---:
+    mimetype: text/plain
+  -THE-END.---:
+    mimetype: application/octet-stream
+  A-SAUCE2.ANS:
+    mimetype: text/plain
+  AVE-CL15.ANS:
+    mimetype: text/plain
+  AVE-H93.ANS:
+    mimetype: text/plain
+  AVE-H98.ANS:
+    mimetype: text/plain
+  AVE-KOL.ANS:
+    mimetype: text/plain
+  AVE-NEO1.ANS:
+    mimetype: text/plain
+  AVE-NEO2.ANS:
+    mimetype: text/plain
+  AVE-NEO3.ANS:
+    mimetype: text/plain
+  AVE-TUTP.ANS:
+    mimetype: text/plain
+  BMBOOK16.MEM:
+    mimetype: text/plain
+  BMBOOK16.NFO:
+    mimetype: text/plain
+  BV.DOC:
+    mimetype: text/plain
+  BV.EXE:
+    mimetype: application/x-msdos-program
+  BV.INI:
+    mimetype: text/plain
+  BW-N9.ANS:
+    mimetype: text/plain
+  DV8-PIG.ANS:
+    mimetype: text/plain
+  DV8-PIG2.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  JR-ASC02.ANS:
+    mimetype: text/plain
+  JR-BLACK.ANS:
+    mimetype: text/plain
+  JR-FREE3.ANS:
+    mimetype: text/plain
+  JR-IRI01.ANS:
+    mimetype: text/plain
+  JR-SABBA.ANS:
+    mimetype: text/plain
+  JR-SAK01.ANS:
+    mimetype: text/plain
+  JR-SUPAR.ANS:
+    mimetype: text/plain
+  SHINE-BM.GIF:
+    mimetype: image/gif
+  SKHYRON_:
+    mimetype: text/plain
+  US-23_1.ANS:
+    mimetype: text/plain
+  US-23_2.ANS:
+    mimetype: text/plain
+  US-DF.ANS:
+    mimetype: text/plain
+  US-H96.ANS:
+    mimetype: text/plain
+  US-ROTTN.ANS:
+    mimetype: text/plain
+  ZZZZZZZZ.ANS:
+    mimetype: text/plain

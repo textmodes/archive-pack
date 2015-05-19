@@ -1,0 +1,22 @@
+name: prml0294.zip
+hash: 3555413fecde575795ae2e860bbd820b
+year: 1994
+file:
+  0294-ANS.APK:
+    mimetype: application/octet-stream
+  0294-VGA.APK:
+    mimetype: application/octet-stream
+  APK-VIEW.EXE:
+    mimetype: application/x-msdos-program
+  DEMONS.EXE:
+    mimetype: application/x-msdos-program
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FUN!.COM:
+    mimetype: application/x-msdos-program
+  GREETS.NFO:
+    mimetype: text/plain
+  PRML-APP.ZIP:
+    mimetype: application/zip
+  PRML044.ZIP:
+    mimetype: application/zip

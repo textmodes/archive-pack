@@ -1,0 +1,38 @@
+name: sac0396b.zip
+hash: 1768074ace724ed36eb7d2607ea90ba4
+year: 1996
+file:
+  AN_DRPIT.XM:
+    mimetype: audio/x-mod
+  AN_UCSNS.XM:
+    mimetype: audio/x-mod
+  AR-BLA_2.MOD:
+    mimetype: audio/x-mod
+  AR-CHIP2.MOD:
+    mimetype: audio/x-mod
+  AR-JOYST.MOD:
+    mimetype: audio/x-mod
+  AR-MASSW.MOD:
+    mimetype: audio/x-mod
+  DS-CH.ANS:
+    mimetype: text/plain
+  DS-CH.ASC:
+    mimetype: text/plain
+  DS-CL.ANS:
+    mimetype: text/plain
+  DS-CL.ASC:
+    mimetype: text/plain
+  DS-CORP.ASC:
+    mimetype: text/plain
+  DS-DLAND.ANS:
+    mimetype: text/plain
+  DS-DLAND.ASC:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  SAC.NFO:
+    mimetype: text/plain
+  SPN-FICK.XM:
+    mimetype: audio/x-mod
+  SPN-WOP.XM:
+    mimetype: audio/x-mod

@@ -1,0 +1,56 @@
+name: acdu1094.zip
+hash: 5cb63510176d2250bb8f905caed12b38
+year: 1994
+file:
+  ACDU1094.NFO:
+    mimetype: text/plain
+  ACID0994.ANS:
+    mimetype: text/plain
+  ACIDAPP.EXE:
+    mimetype: application/x-msdos-program
+  ACIDVIEW.EXE:
+    mimetype: application/x-msdos-program
+  ACIDVIEW.NFO:
+    mimetype: text/plain
+  AE-AMBER.ANS:
+    mimetype: text/plain
+  AK-CR1.ANS:
+    mimetype: text/plain
+  EL-FBD.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  LD-DOG.ANS:
+    mimetype: text/plain
+  LD-HUMA.ANS:
+    mimetype: text/plain
+  MB-RMS.ANS:
+    mimetype: text/plain
+  PC-THA.ANS:
+    mimetype: text/plain
+  SM-DUNG2.ANS:
+    mimetype: text/plain
+  SO-NEO1.ANS:
+    mimetype: text/plain
+  SS-GOLG1.EXE:
+    mimetype: application/x-msdos-program
+  SS-HELL.RIP:
+    mimetype: image/x-rip
+  SS-LOKI.RIP:
+    mimetype: image/x-rip
+  SS-POT1.RIP:
+    mimetype: image/x-rip
+  SS-RAIN.RIP:
+    mimetype: image/x-rip
+  SS-SG2.RIP:
+    mimetype: image/x-rip
+  SW-COR1.EXE:
+    mimetype: application/x-msdos-program
+  SX-CCHP3.ANS:
+    mimetype: text/plain
+  US-ACID2.RIP:
+    mimetype: image/x-rip
+  US-CHAN0.RIP:
+    mimetype: image/x-rip
+  US-DUNG2.RIP:
+    mimetype: image/x-rip

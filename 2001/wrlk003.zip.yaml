@@ -1,0 +1,76 @@
+name: wrlk003.zip
+hash: a21a62ab1f0940a863d99c5b05bed9aa
+year: 2001
+file:
+  Pi-login.ans:
+    mimetype: text/plain
+  Pi-minux.ans:
+    mimetype: text/plain
+  Pi-wrlk.nfo:
+    mimetype: text/plain
+  file_id.diz:
+    mimetype: text/plain
+  ga-lcal.ans:
+    mimetype: text/plain
+  ga-minux.ans:
+    mimetype: text/plain
+  ga-minux.zip:
+    mimetype: application/zip
+  ga-mlnx.zip:
+    mimetype: application/zip
+  ga-wrl3.ans:
+    mimetype: text/plain
+  ga-wurms.ans:
+    mimetype: text/plain
+  gj-about.jpg:
+    mimetype: image/jpeg
+  gj-btsh.jpg:
+    mimetype: image/jpeg
+  gj-fbbs.ans:
+    mimetype: text/plain
+  gj-gp.ans:
+    mimetype: text/plain
+  gj-himom.jpg:
+    mimetype: image/jpeg
+  gj-pbf.jpg:
+    mimetype: image/jpeg
+  gj-sn3.ans:
+    mimetype: text/plain
+  gj-tir2.ans:
+    mimetype: text/plain
+  gj-tir2.jpg:
+    mimetype: image/jpeg
+  gj-tmount.jpg:
+    mimetype: image/jpeg
+  gj-vamp.jpg:
+    mimetype: image/jpeg
+  gr-clrnd.zip:
+    mimetype: application/zip
+  gr-pulse.ans:
+    mimetype: text/plain
+  gy-lc.zip:
+    mimetype: application/zip
+  na-balsh.zip:
+    mimetype: application/zip
+  na-logan.zip:
+    mimetype: application/zip
+  na-pager.zip:
+    mimetype: application/zip
+  phd-1wrm.ans:
+    mimetype: text/plain
+  phd-dom1.ans:
+    mimetype: text/plain
+  phd-puls.ans:
+    mimetype: text/plain
+  phd-wlk1.ans:
+    mimetype: text/plain
+  phd-wrm1.ans:
+    mimetype: text/plain
+  phd-wrm2.ans:
+    mimetype: text/plain
+  warlock.fil:
+    mimetype: text/plain
+  warlock.nfo:
+    mimetype: text/plain
+  xz-wrlk.asc:
+    mimetype: text/plain

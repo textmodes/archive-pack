@@ -1,0 +1,76 @@
+name: rib-011.zip
+hash: 6b209366a9ce1f91557b9eeb177fc08d
+year: 1998
+file:
+  BRD-CYB.ASC:
+    mimetype: text/plain
+  BRD-PSYC.ASC:
+    mimetype: text/plain
+  BRD-RIBD.ASC:
+    mimetype: text/plain
+  CPH-BZMM.ANS:
+    mimetype: text/plain
+  CPH-CBST.ASC:
+    mimetype: text/plain
+  CPH-DB.ANS:
+    mimetype: text/plain
+  CPH-DBMM.ANS:
+    mimetype: text/plain
+  CPH-DEEP.ANS:
+    mimetype: text/plain
+  CPH-DND1.ANS:
+    mimetype: text/plain
+  CPH-DT.ANS:
+    mimetype: text/plain
+  CPH-HRG.ASC:
+    mimetype: text/plain
+  CPH-NERP.ANS:
+    mimetype: text/plain
+  CPH-PRO.ANS:
+    mimetype: text/plain
+  CPH-PROX.ASC:
+    mimetype: text/plain
+  CPH-REMS.ANS:
+    mimetype: text/plain
+  CPH-RIBL.JPG:
+    mimetype: image/jpeg
+  CPH-RLGD.ASC:
+    mimetype: text/plain
+  CPH-SSKT.ANS:
+    mimetype: text/plain
+  CPH-TRX.ASC:
+    mimetype: text/plain
+  CPH-UZHI.ANS:
+    mimetype: text/plain
+  CPH-XRAY.ASC:
+    mimetype: text/plain
+  DND-SBD.ANS:
+    mimetype: text/plain
+  DRUGS_~1.TXT:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  OXY-RIB.JPG:
+    mimetype: image/jpeg
+  RIB-APP.EXE:
+    mimetype: application/x-msdos-program
+  RIB11INF.ANS:
+    mimetype: text/plain
+  RIB11NWS.ANS:
+    mimetype: text/plain
+  SK-HERE.ASC:
+    mimetype: text/plain
+  SR-1999.JPG:
+    mimetype: image/jpeg
+  SR-DDOLL.JPG:
+    mimetype: image/jpeg
+  SR-GA.JPG:
+    mimetype: image/jpeg
+  SR-KZTIP.JPG:
+    mimetype: image/jpeg
+  SR-NRG.JPG:
+    mimetype: image/jpeg
+  SR-SHARK.JPG:
+    mimetype: image/jpeg
+  US-OXY.ANS:
+    mimetype: text/plain

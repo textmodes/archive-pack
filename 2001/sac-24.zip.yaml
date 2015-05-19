@@ -1,0 +1,212 @@
+name: sac-24.zip
+hash: 8b65c1d5a3d4a96f6de67024e5b14ca3
+year: 2001
+file:
+  CRU-DWP.DIZ:
+    mimetype: text/plain
+  CRU-DWP.NFO:
+    mimetype: text/plain
+  CRU-EMB.NFO:
+    mimetype: text/plain
+  CRU-PGN.NFO:
+    mimetype: text/plain
+  CRU-RMC.NFO:
+    mimetype: text/plain
+  CRU-SC!.NFO:
+    mimetype: text/plain
+  CRU-SKMP.NFO:
+    mimetype: text/plain
+  CRU-TC!.NFO:
+    mimetype: text/plain
+  CRU-TD!.NFO:
+    mimetype: text/plain
+  CRU-TYPO.DIZ:
+    mimetype: text/plain
+  CRU-TYPO.NFO:
+    mimetype: text/plain
+  CRU-XCS.NFO:
+    mimetype: text/plain
+  EB-ACP.ASC:
+    mimetype: text/plain
+  EB-CE.ASC:
+    mimetype: text/plain
+  EB-JUST.NFO:
+    mimetype: text/plain
+  EB-KAMI.NFO:
+    mimetype: text/plain
+  EB-PRD.NFO:
+    mimetype: text/plain
+  EB-UNR.ASC:
+    mimetype: text/plain
+  EB-WS.ASC:
+    mimetype: text/plain
+  Eb-aftrm.asc:
+    mimetype: text/plain
+  Eb-dls.asc:
+    mimetype: text/plain
+  Eb-icew.asc:
+    mimetype: text/plain
+  Eb-orion.asc:
+    mimetype: text/plain
+  Eb-rise.asc:
+    mimetype: text/plain
+  Eb-tos.asc:
+    mimetype: text/plain
+  Mt_class_fe.mod:
+    mimetype: audio/x-mod
+  Mt_class09.mod:
+    mimetype: audio/x-mod
+  Mt_class10.mod:
+    mimetype: audio/x-mod
+  Mt_class11.mod:
+    mimetype: audio/x-mod
+  Mt_jingle2.mod:
+    mimetype: audio/x-mod
+  Mt_rbs01.xm:
+    mimetype: audio/x-mod
+  Mt_sac14.mod:
+    mimetype: audio/x-mod
+  Mt_sac15.mod:
+    mimetype: audio/x-mod
+  Mt_sm.mod:
+    mimetype: audio/x-mod
+  Mt_w_widow.mod:
+    mimetype: audio/x-mod
+  Sac.nfo:
+    mimetype: text/plain
+  ch-Justic.asc:
+    mimetype: text/plain
+  ch-Twilight.asc:
+    mimetype: text/plain
+  ch-invasion.jpg:
+    mimetype: image/jpeg
+  ch-navibar.jpg:
+    mimetype: image/jpeg
+  ch-one.jpg:
+    mimetype: image/jpeg
+  ch-sac.jpg:
+    mimetype: image/jpeg
+  ch-splitdecision.mp3:
+    mimetype: audio/mpeg
+  crm_best.mod:
+    mimetype: audio/x-mod
+  crm_bt64.xm:
+    mimetype: audio/x-mod
+  crm_chnc.mod:
+    mimetype: audio/x-mod
+  crm_farm.xm:
+    mimetype: audio/x-mod
+  crm_fmyf.xm:
+    mimetype: audio/x-mod
+  crm_oday.xm:
+    mimetype: audio/x-mod
+  crm_plmg.xm:
+    mimetype: audio/x-mod
+  crm_spit.xm:
+    mimetype: audio/x-mod
+  crm_stim.xm:
+    mimetype: audio/x-mod
+  cru-rpg.NFO:
+    mimetype: text/plain
+  eb-fbi.asc:
+    mimetype: text/plain
+  file_id.diz:
+    mimetype: text/plain
+  frx-ars1.asc:
+    mimetype: text/plain
+  frx-dim1.asc:
+    mimetype: text/plain
+  frx-ftd1.asc:
+    mimetype: text/plain
+  frx-ftd2.asc:
+    mimetype: text/plain
+  frx-sacx.asc:
+    mimetype: text/plain
+  frx-shd2.asc:
+    mimetype: text/plain
+  k-dxm.gif:
+    mimetype: image/gif
+  k-hos.jpg:
+    mimetype: image/jpeg
+  k-mode7.gif:
+    mimetype: image/gif
+  k-myth-interface.jpg:
+    mimetype: image/jpeg
+  k-pain.gif:
+    mimetype: image/gif
+  mid-Twi.asc:
+    mimetype: text/plain
+  scr-ares.nfo:
+    mimetype: text/plain
+  scr-bgt.nfo:
+    mimetype: text/plain
+  scr-cmf.nfo:
+    mimetype: text/plain
+  scr-hd.nfo:
+    mimetype: text/plain
+  scr-hhp.nfo:
+    mimetype: text/plain
+  scr-ht.nfo:
+    mimetype: text/plain
+  scr-inst.nfo:
+    mimetype: text/plain
+  scr-leet.nfo:
+    mimetype: text/plain
+  scr-ln.nfo:
+    mimetype: text/plain
+  scr-lw.nfo:
+    mimetype: text/plain
+  scr-lw2.nfo:
+    mimetype: text/plain
+  scr-mf.nfo:
+    mimetype: text/plain
+  scr-msl.nfo:
+    mimetype: text/plain
+  scr-pc.nfo:
+    mimetype: text/plain
+  scr-php.nfo:
+    mimetype: text/plain
+  scr-pmt.nfo:
+    mimetype: text/plain
+  scr-ps.nfo:
+    mimetype: text/plain
+  scr-rm.nfo:
+    mimetype: text/plain
+  scr-s9.nfo:
+    mimetype: text/plain
+  scr-sac.nfo:
+    mimetype: text/plain
+  scr-sf.nfo:
+    mimetype: text/plain
+  scr-srm.nfo:
+    mimetype: text/plain
+  scr-stats.nfo:
+    mimetype: text/plain
+  scr-tf.nfo:
+    mimetype: text/plain
+  scr-tst.nfo:
+    mimetype: text/plain
+  scr-twb.nfo:
+    mimetype: text/plain
+  scr-vnm.nfo:
+    mimetype: text/plain
+  sns-dmn1.asc:
+    mimetype: text/plain
+  sns-dmn2.asc:
+    mimetype: text/plain
+  sns-ech.asc:
+    mimetype: text/plain
+  sns-mode.asc:
+    mimetype: text/plain
+  sns-mtn.asc:
+    mimetype: text/plain
+  sns-s!.asc:
+    mimetype: text/plain
+  sns-sqz.asc:
+    mimetype: text/plain
+  sns-ssfv.asc:
+    mimetype: text/plain
+  sns-stat.asc:
+    mimetype: text/plain
+  sns-wtc.asc:
+    mimetype: text/plain

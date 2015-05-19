@@ -1,0 +1,112 @@
+name: soc-04.zip
+hash: bb711faae1dfc60026ea42715c692946
+year: 1997
+file:
+  '--------.ANS':
+    mimetype: text/plain
+  '--------.ASC':
+    mimetype: text/plain
+  '--------.EXE':
+    mimetype: application/x-msdos-program
+  '--------.INF':
+    mimetype: application/octet-stream
+  '--------.RIP':
+    mimetype: image/x-rip
+  '--------.VGA':
+    mimetype: text/plain
+  04INFO.ANS:
+    mimetype: text/plain
+  04SOC.ANS:
+    mimetype: text/plain
+  5D-COLLY.ANS:
+    mimetype: text/plain
+  7X^SCEN1.ANS:
+    mimetype: text/plain
+  AA-COLLY.ASC:
+    mimetype: text/plain
+  AA-NEG.ASC:
+    mimetype: text/plain
+  CG-SOC1.ANS:
+    mimetype: text/plain
+  CR-JOLT.ANS:
+    mimetype: text/plain
+  E0-NEOSP.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FPT-QUEN.RIP:
+    mimetype: image/x-rip
+  JAGUAR~1.JPG:
+    mimetype: image/jpeg
+  JAGUARS.JPG:
+    mimetype: image/jpeg
+  JKL-LQUD.ANS:
+    mimetype: text/plain
+  K-SION.ANS:
+    mimetype: text/plain
+  MAY-BOWY.ANS:
+    mimetype: text/plain
+  MAY-HPS.JPG:
+    mimetype: image/jpeg
+  MAY_SE.ANS:
+    mimetype: text/plain
+  MC-GLOB.RIP:
+    mimetype: image/x-rip
+  MTP-EUPH.ANS:
+    mimetype: text/plain
+  PLZ-CESS.ANS:
+    mimetype: text/plain
+  PYX-CIA.ANS:
+    mimetype: text/plain
+  RA-HEP.ANS:
+    mimetype: text/plain
+  RA-LGO1.ANS:
+    mimetype: text/plain
+  S7!-CND.ANS:
+    mimetype: text/plain
+  S7!-HS1.ANS:
+    mimetype: text/plain
+  S7!-IF9.ANS:
+    mimetype: text/plain
+  S7!-MDN4.ANS:
+    mimetype: text/plain
+  S7!-SKL8.ANS:
+    mimetype: text/plain
+  SC--DIST.RIP:
+    mimetype: image/x-rip
+  SC--DST2.RIP:
+    mimetype: image/x-rip
+  SC--FSHR.ANS:
+    mimetype: text/plain
+  SC--H1.RIP:
+    mimetype: image/x-rip
+  SC--H2.RIP:
+    mimetype: image/x-rip
+  SC--H3.RIP:
+    mimetype: image/x-rip
+  SC--SDS.RIP:
+    mimetype: image/x-rip
+  SC--SORC.RIP:
+    mimetype: image/x-rip
+  SC--UNIC.RIP:
+    mimetype: image/x-rip
+  SC--WOMN.ANS:
+    mimetype: text/plain
+  SOC-APP.EXE:
+    mimetype: application/x-msdos-program
+  SOC-REQ.EXE:
+    mimetype: application/x-msdos-program
+  US-CP1.ANS:
+    mimetype: text/plain
+  US-DF.ANS:
+    mimetype: text/plain
+  US-EP1.ANS:
+    mimetype: text/plain
+  US-SCEN1.ANS:
+    mimetype: text/plain
+  US-SNOV2.ANS:
+    mimetype: text/plain
+  US-SNOVA.ANS:
+    mimetype: text/plain
+  US-SOC.RIP:
+    mimetype: image/x-rip

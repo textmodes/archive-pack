@@ -1,0 +1,70 @@
+name: sae-008.zip
+hash: bb6ccfae90cd16ec548ec4403b3968e6
+year: 2001
+file:
+  (SAE008).APP:
+    mimetype: application/octet-stream
+  (SAE008).NFO:
+    mimetype: text/plain
+  CD-CORPU.ANS:
+    mimetype: text/plain
+  CD-KT001.ASC:
+    mimetype: text/plain
+  CD-SKLP.ANS:
+    mimetype: text/plain
+  CD-SM00.ANS:
+    mimetype: text/plain
+  DB-AE.ASC:
+    mimetype: text/plain
+  DB-INS.NFO:
+    mimetype: text/plain
+  DB-STATS.ASC:
+    mimetype: text/plain
+  EB-CRMP.ASC:
+    mimetype: text/plain
+  EB-CRS.ASC:
+    mimetype: text/plain
+  EB-FIRE.ASC:
+    mimetype: text/plain
+  EB-FIRE3.ANS:
+    mimetype: text/plain
+  EB-OMEG.ASC:
+    mimetype: text/plain
+  EB-SKID.NFO:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  LE-FILES.ANS:
+    mimetype: text/plain
+  LE-KNIFE.ASC:
+    mimetype: text/plain
+  LE-SAE3.ANS:
+    mimetype: text/plain
+  LE-SAE4.ANS:
+    mimetype: text/plain
+  LE-SHARE.ANS:
+    mimetype: text/plain
+  M0D-COG.ANS:
+    mimetype: text/plain
+  M0D-ENIX.ANS:
+    mimetype: text/plain
+  N0T-HC.NFO:
+    mimetype: text/plain
+  SAE.NFO:
+    mimetype: text/plain
+  THUGLIFE.ORG:
+    mimetype: text/plain
+  TRS-COLL.TXT:
+    mimetype: text/plain
+  TRS-LD.ASC:
+    mimetype: text/plain
+  TRS-OTS.NFO:
+    mimetype: text/plain
+  TRS-SAE.ANS:
+    mimetype: text/plain
+  TRS-SAE.ASC:
+    mimetype: text/plain
+  TRS-TRS.ANS:
+    mimetype: text/plain
+  US-TFN.ASC:
+    mimetype: text/plain

@@ -1,0 +1,72 @@
+name: fl-pack5.zip
+hash: 0795b7818d395e29cf54dc6657fca560
+year: 1995
+file:
+  AV13.DOC:
+    mimetype: text/plain
+  AV13.EXE:
+    mimetype: application/x-msdos-program
+  BB-WISKE.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FL-RLSES.INF:
+    mimetype: text/plain
+  FUEL.APP:
+    mimetype: application/octet-stream
+  LIT.ZIP:
+    mimetype: application/zip
+  LUIGI.COM:
+    mimetype: application/x-msdos-program
+  NF-DROK.ANS:
+    mimetype: text/plain
+  NF-MARC.ANS:
+    mimetype: text/plain
+  NF-MELL.ANS:
+    mimetype: text/plain
+  NF-RICK.ANS:
+    mimetype: text/plain
+  NF-VENIO.ANS:
+    mimetype: text/plain
+  PH-CHICK.ANS:
+    mimetype: text/plain
+  PH-FUEL1.ANS:
+    mimetype: text/plain
+  PH-GHOST.ANS:
+    mimetype: text/plain
+  PHEWL.NFO:
+    mimetype: text/plain
+  TH-BARBW.ANS:
+    mimetype: text/plain
+  TH-BROTH.ANS:
+    mimetype: text/plain
+  TH-CZER0.ANS:
+    mimetype: text/plain
+  TH-DRAGO.ANS:
+    mimetype: text/plain
+  TH-FACE.ANS:
+    mimetype: text/plain
+  TH-MADBA.ANS:
+    mimetype: text/plain
+  TH-RATMA.ANS:
+    mimetype: text/plain
+  TK-DMAIN.ANS:
+    mimetype: text/plain
+  TK-GROUP.ANS:
+    mimetype: text/plain
+  TK-HERSH.ANS:
+    mimetype: text/plain
+  TK-JACK.ANS:
+    mimetype: text/plain
+  TK-JAIL.ANS:
+    mimetype: text/plain
+  TK-MASK.ANS:
+    mimetype: text/plain
+  TK-MOZIC.ANS:
+    mimetype: text/plain
+  TK-PROBO.ANS:
+    mimetype: text/plain
+  TK-WINTE.ANS:
+    mimetype: text/plain
+  WRDLST.ANS:
+    mimetype: text/plain

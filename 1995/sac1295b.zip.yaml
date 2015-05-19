@@ -1,0 +1,92 @@
+name: sac1295b.zip
+hash: c5723ff6eee2006a4df4985414a8778d
+year: 1995
+file:
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  ROY-BULL.ANS:
+    mimetype: text/plain
+  ROY-CS3.ANS:
+    mimetype: text/plain
+  ROY-GSR.ASC:
+    mimetype: text/plain
+  ROY-HBD.ASC:
+    mimetype: text/plain
+  ROY-HBDA.ANS:
+    mimetype: text/plain
+  ROY-HBDD.ASC:
+    mimetype: text/plain
+  ROY-ISH2.ASC:
+    mimetype: text/plain
+  ROY-NRG.ANS:
+    mimetype: text/plain
+  ROY-NRG.ASC:
+    mimetype: text/plain
+  ROY-NRG.LBM:
+    mimetype: application/octet-stream
+  ROY-NRG2.ASC:
+    mimetype: text/plain
+  ROY-NRGD.ASC:
+    mimetype: text/plain
+  ROY-OUTB.LBM:
+    mimetype: application/octet-stream
+  ROY-PCD.ASC:
+    mimetype: text/plain
+  ROY-PCN.ASC:
+    mimetype: text/plain
+  ROY-PCN2.ASC:
+    mimetype: text/plain
+  ROY-RNT.ANS:
+    mimetype: text/plain
+  ROY-RPAD.ASC:
+    mimetype: text/plain
+  ROY-RPB3.ASC:
+    mimetype: text/plain
+  ROY-SMEM.ANS:
+    mimetype: text/plain
+  ROY-XFAC.ASC:
+    mimetype: text/plain
+  RV-CNC3.ANS:
+    mimetype: text/plain
+  RV-CNC4.ANS:
+    mimetype: text/plain
+  RV-INT.ANS:
+    mimetype: text/plain
+  RV-LH.ANS:
+    mimetype: text/plain
+  RV-LH.ASC:
+    mimetype: text/plain
+  RV-MFC.ANS:
+    mimetype: text/plain
+  RV-MFC.ASC:
+    mimetype: text/plain
+  RV-NUKE.ANS:
+    mimetype: text/plain
+  RV-OL.ANS:
+    mimetype: text/plain
+  RV-RAGE.ANS:
+    mimetype: text/plain
+  RV-THHG.ANS:
+    mimetype: text/plain
+  RV-UCF.ANS:
+    mimetype: text/plain
+  RV-ULBY.ANS:
+    mimetype: text/plain
+  RV-WHO4.ANS:
+    mimetype: text/plain
+  RV-WT.ANS:
+    mimetype: text/plain
+  SAC-EOMU.ZIP:
+    mimetype: application/zip
+  SAC-QBLU.ZIP:
+    mimetype: application/zip
+  SAC-WHO6.ZIP:
+    mimetype: application/zip
+  SACULPRO.ZIP:
+    mimetype: application/zip
+  SPN_DARK.S3M:
+    mimetype: audio/x-mod
+  SPN_EMRG.S3M:
+    mimetype: audio/x-mod
+  SPN_REAP.S3M:
+    mimetype: audio/x-mod

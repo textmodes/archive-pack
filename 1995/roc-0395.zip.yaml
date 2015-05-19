@@ -1,0 +1,98 @@
+name: roc-0395.zip
+hash: 36d7823ce0a63f881e441e6725a78ff5
+year: 1995
+file:
+  --ANSI--.---:
+    mimetype: application/octet-stream
+  --MISC--.---:
+    mimetype: application/octet-stream
+  --RIPS--.---:
+    mimetype: application/octet-stream
+  --VGAS--.---:
+    mimetype: application/octet-stream
+  BG-AW01.RIP:
+    mimetype: image/x-rip
+  BG-BS01.RIP:
+    mimetype: image/x-rip
+  BG-CF01.RIP:
+    mimetype: image/x-rip
+  BG-DF01.RIP:
+    mimetype: image/x-rip
+  BG-ED01.RIP:
+    mimetype: image/x-rip
+  BG-PB01.RIP:
+    mimetype: image/x-rip
+  BP-BWRLD.ANS:
+    mimetype: text/plain
+  CC-TP.ANS:
+    mimetype: text/plain
+  DK-DD.S3M:
+    mimetype: audio/x-mod
+  DK-OCON.S3M:
+    mimetype: audio/x-mod
+  DW-JIM.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GA-FULC.ANS:
+    mimetype: text/plain
+  GA-NAZI.ANS:
+    mimetype: text/plain
+  GA-UNDER.ANS:
+    mimetype: text/plain
+  GA-UNDR2.ANS:
+    mimetype: text/plain
+  GD-ILA.ANS:
+    mimetype: text/plain
+  GD-MAL.ANS:
+    mimetype: text/plain
+  GD-TAD.ANS:
+    mimetype: text/plain
+  HT-MILLE.ANS:
+    mimetype: text/plain
+  INERT.NFO:
+    mimetype: text/plain
+  MG-BODYC.RIP:
+    mimetype: image/x-rip
+  MG-FILE.RIP:
+    mimetype: image/x-rip
+  MG-SNO.RIP:
+    mimetype: image/x-rip
+  MG-UNDER.RIP:
+    mimetype: image/x-rip
+  MN-EARTH.JPG:
+    mimetype: image/jpeg
+  MN-START.JPG:
+    mimetype: image/jpeg
+  MN-WAVE2.JPG:
+    mimetype: image/jpeg
+  NMB-OTWD.RIP:
+    mimetype: image/x-rip
+  NMB-ROC.RIP:
+    mimetype: image/x-rip
+  ROC-0395.MEM:
+    mimetype: text/plain
+  ROC-0395.NFO:
+    mimetype: text/plain
+  ROCAPP.EXE:
+    mimetype: application/x-msdos-program
+  SG-ROC.GIF:
+    mimetype: image/gif
+  WC-CRPT.ANS:
+    mimetype: text/plain
+  WC-FORS.ANS:
+    mimetype: text/plain
+  WC-PATH.ANS:
+    mimetype: text/plain
+  WC-TFH.ANS:
+    mimetype: text/plain
+  WV-TFH2.ANS:
+    mimetype: text/plain
+  ZL-CRIT.RIP:
+    mimetype: image/x-rip
+  ZL-DREAM.RIP:
+    mimetype: image/x-rip
+  ZL-LD1.RIP:
+    mimetype: image/x-rip
+  ZL-PREB1.RIP:
+    mimetype: image/x-rip

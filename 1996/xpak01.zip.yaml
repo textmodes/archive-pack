@@ -1,0 +1,32 @@
+name: xpak01.zip
+hash: 872f20009d381e9e0a3d11443604d1cc
+year: 1996
+file:
+  BONUS.ZIP:
+    mimetype: application/zip
+  CS-RUBY7.JPG:
+    mimetype: image/jpeg
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  PICS.TXT:
+    mimetype: text/plain
+  QS-XPAK1.JPG:
+    mimetype: image/jpeg
+  SKY32V3C.DLL:
+    mimetype: application/x-dosexec
+  TH-GIRLS.JPG:
+    mimetype: image/jpeg
+  TQ-XPAK1.JPG:
+    mimetype: image/jpeg
+  US-XPAK1.JPG:
+    mimetype: image/jpeg
+  VG-CHASM.JPG:
+    mimetype: image/jpeg
+  XPAK1.NFO:
+    mimetype: text/plain
+  XVIEW.EXE:
+    mimetype: application/x-msdos-program
+  XVIEW.ICO:
+    mimetype: image/x-icon
+  XVIEW.RTF:
+    mimetype: text/rtf

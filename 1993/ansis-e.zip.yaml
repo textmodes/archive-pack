@@ -1,0 +1,30 @@
+name: ansis-e.zip
+hash: 922e4864c5d5ef65b10029c91f789e7a
+year: 1993
+file:
+  -RUNME.COM:
+    mimetype: application/x-msdos-program
+  EASTER90.ANS:
+    mimetype: text/plain
+  EB-ATLA.ANS:
+    mimetype: text/plain
+  ED-DNB.ANS:
+    mimetype: text/plain
+  EDITHELP.ANS:
+    mimetype: text/plain
+  EDRMACD1.ANS:
+    mimetype: text/plain
+  EFFECTS.ANS:
+    mimetype: text/plain
+  EGGTRAIN.ANS:
+    mimetype: text/plain
+  EGSPRESS.ANS:
+    mimetype: text/plain
+  EITW-SD2.ANS:
+    mimetype: text/plain
+  ELDAR.ANS:
+    mimetype: text/plain
+  ELSIECOW.ANS:
+    mimetype: text/plain
+  ELYSIUM.ANS:
+    mimetype: text/plain

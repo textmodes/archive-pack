@@ -1,0 +1,48 @@
+name: pmp-0003.zip
+hash: 69925af1848ae7da9eafc7789f7506d8
+year: 1999
+file:
+  DOX-AQUA.GIF:
+    mimetype: image/gif
+  DOX-BS.JPG:
+    mimetype: image/jpeg
+  DOX-CAFE.GIF:
+    mimetype: image/gif
+  DOX-CRY.JPG:
+    mimetype: image/jpeg
+  DOX-DRM.JPG:
+    mimetype: image/jpeg
+  DOX-L&D.JPG:
+    mimetype: image/jpeg
+  DOX-SP.JPG:
+    mimetype: image/jpeg
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  MJ-BF999.JPG:
+    mimetype: image/jpeg
+  MJ_KING.JPG:
+    mimetype: image/jpeg
+  PMP-APPL.EXE:
+    mimetype: application/x-msdos-program
+  PMP.EXE:
+    mimetype: application/x-msdos-program
+  ULT-BLST.ANS:
+    mimetype: text/plain
+  ULT-CAT.RIP:
+    mimetype: image/x-rip
+  ULT-DB.ANS:
+    mimetype: text/plain
+  ULT-DC.ANS:
+    mimetype: text/plain
+  ULT-RX3.ANS:
+    mimetype: text/plain
+  ULT-UW.ANS:
+    mimetype: text/plain
+  ZOX-ARN.JPG:
+    mimetype: image/jpeg
+  ZOX-ENIG.JPG:
+    mimetype: image/jpeg
+  ZOX-SPAR.JPG:
+    mimetype: image/jpeg
+  ZOX-TRAN.JPG:
+    mimetype: image/jpeg

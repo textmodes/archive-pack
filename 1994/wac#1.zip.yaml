@@ -1,0 +1,22 @@
+name: wac#1.zip
+hash: e1efc514e36612ca9dc7235bc32ca8a7
+year: 1994
+file:
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  MAN.WAC:
+    mimetype: text/plain
+  NEO.COM:
+    mimetype: application/x-msdos-program
+  PL-HA-FR.ANS:
+    mimetype: text/plain
+  QUEST.ASC:
+    mimetype: text/plain
+  REKLAM.TXT:
+    mimetype: text/plain
+  VASCO.WAC:
+    mimetype: text/plain
+  VASCO1.WAC:
+    mimetype: text/plain
+  WAC2A.WAC:
+    mimetype: text/plain

@@ -1,0 +1,26 @@
+name: omega001.zip
+hash: efa7b1a0970c8d541d2b4d29656b8f7b
+year: 2000
+file:
+  BC-DM.ANS:
+    mimetype: text/plain
+  BC-GREGG.ANS:
+    mimetype: text/plain
+  BC-OMEGA.IT:
+    mimetype: audio/x-mod
+  BC-WOE.ASC:
+    mimetype: text/plain
+  CW-OMEGA.ASC:
+    mimetype: text/plain
+  DF-DARKF.ANS:
+    mimetype: text/plain
+  DF-OMEGA.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  OMEGA.NFO:
+    mimetype: text/plain
+  PO-INF.ASC:
+    mimetype: text/plain
+  RT-NUFG.ANS:
+    mimetype: text/plain

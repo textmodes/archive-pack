@@ -1,0 +1,14 @@
+name: lsd_muf.zip
+hash: 121f9728f7fd29c38744af7c7742b0c1
+year: 1994
+file:
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  LSD_MUF.NFO:
+    mimetype: text/plain
+  NEO.COM:
+    mimetype: application/x-msdos-program
+  PLANETH.ANS:
+    mimetype: text/plain
+  ZONE.EXE:
+    mimetype: application/x-msdos-program

@@ -1,0 +1,10 @@
+name: sharp01.zip
+hash: 22122d419767fdf03032a55d8b0f0cb9
+year: 1998
+file:
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  SHARP01.BAT:
+    mimetype: application/x-msdos-program
+  SHARP01.DAT:
+    mimetype: application/x-dosexec

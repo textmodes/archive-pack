@@ -1,0 +1,66 @@
+name: galza-13.zip
+hash: baaa8949c8a13449c1ddd91b99ae0fb3
+year: 2002
+file:
+  AMI_FNT.ZIP:
+    mimetype: application/zip
+  CRS-A.ANS:
+    mimetype: text/plain
+  CRS-ANTI.ANS:
+    mimetype: text/plain
+  CRS-GIRL.ANS:
+    mimetype: text/plain
+  CRS-GZA.ANS:
+    mimetype: text/plain
+  CRS-JTX.ANS:
+    mimetype: text/plain
+  CRS-MECH.ANS:
+    mimetype: text/plain
+  CRS-MYAK.ANS:
+    mimetype: text/plain
+  CRS-OTOP.ANS:
+    mimetype: text/plain
+  CRS-PRIM.ANS:
+    mimetype: text/plain
+  CRS-SIT.ANS:
+    mimetype: text/plain
+  CRS-SVET.ANS:
+    mimetype: text/plain
+  CRS-VIA.ANS:
+    mimetype: text/plain
+  CRS-VIFI.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  SHD-BLKW.ANS:
+    mimetype: text/plain
+  SHD-GZA2.ANS:
+    mimetype: text/plain
+  Shd-aod.ans:
+    mimetype: text/plain
+  Shd-door.ans:
+    mimetype: text/plain
+  Shd-dphn.ans:
+    mimetype: text/plain
+  Shd-fact.ans:
+    mimetype: text/plain
+  Shd-hpl.ans:
+    mimetype: text/plain
+  Shd-rain.ans:
+    mimetype: text/plain
+  Shd-rmns.ans:
+    mimetype: text/plain
+  b-cyb^01.ans:
+    mimetype: text/plain
+  crs-j_k.ans:
+    mimetype: text/plain
+  galza-13.nfo:
+    mimetype: text/plain
+  shd-6837.ans:
+    mimetype: text/plain
+  shd-ct01.ans:
+    mimetype: text/plain
+  shd-thcr.ans:
+    mimetype: text/plain
+  zj-humming.txt:
+    mimetype: text/plain

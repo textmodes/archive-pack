@@ -1,0 +1,16 @@
+name: dz-taos1.zip
+hash: d81bb42aa381d4d2ff0033e280c77e2a
+year: 2013
+file:
+  The Art of Sk!n [.png version]/dZ-taos1.png:
+    mimetype: image/png
+  The Art of Sk!n [.txt ascii version]/dZ-taos1.txt:
+    mimetype: text/plain
+  The Art of Sk!n [.xb version]/dZ-taos1.xb:
+    mimetype: text/x-xbin
+  desc.png:
+    mimetype: image/png
+  file_id.diz:
+    mimetype: text/plain
+  title.png:
+    mimetype: image/png

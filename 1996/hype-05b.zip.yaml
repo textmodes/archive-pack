@@ -1,0 +1,30 @@
+name: hype-05b.zip
+hash: 0282052212b14969b7e1172158270fa7
+year: 1996
+file:
+  --INFO--:
+    mimetype: text/plain
+  --MUSIC-:
+    mimetype: text/plain
+  --PATCH-:
+    mimetype: text/plain
+  --VGA--:
+    mimetype: text/plain
+  GJ-BSD.IT:
+    mimetype: audio/x-mod
+  GJ-EVIL.IT:
+    mimetype: audio/x-mod
+  GJ-ROTD.IT:
+    mimetype: audio/x-mod
+  HYPEMEMS.ANS:
+    mimetype: text/plain
+  HYPEMUSC.ANS:
+    mimetype: text/plain
+  HYPENEWS.ANS:
+    mimetype: text/plain
+  RS-DIESL.JPG:
+    mimetype: image/jpeg
+  RS-HYPE5.JPG:
+    mimetype: image/jpeg
+  RS-SOUL.JPG:
+    mimetype: image/jpeg

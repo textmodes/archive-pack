@@ -1,0 +1,26 @@
+name: dos-pak.zip
+hash: 7f509db015c58f828dc283e9aafc178a
+year: 1995
+file:
+  '!DOS!95!.COM':
+    mimetype: application/x-msdos-program
+  ARTIST.APP:
+    mimetype: text/plain
+  CODER.APP:
+    mimetype: text/plain
+  COURIER.APP:
+    mimetype: text/plain
+  DOS-LOG2.ANS:
+    mimetype: text/plain
+  DOS-LOGO.ANS:
+    mimetype: text/plain
+  DOS-PUB.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  NEO.COM:
+    mimetype: application/x-msdos-program
+  READ-DOS.NFO:
+    mimetype: text/plain
+  SITE.APP:
+    mimetype: text/plain

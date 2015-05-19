@@ -1,0 +1,62 @@
+name: mimic21.zip
+hash: e9028f0271aa67fdbed3a487537fde31
+year: 2000
+file:
+  a1-sys.asc:
+    mimetype: text/plain
+  aetfi.asc:
+    mimetype: text/plain
+  aetlov.asc:
+    mimetype: text/plain
+  bi-mmc.asc:
+    mimetype: text/plain
+  bjasc184.ans:
+    mimetype: text/plain
+  d0-cos.asc:
+    mimetype: text/plain
+  d0-ins.asc:
+    mimetype: text/plain
+  devil.gif:
+    mimetype: image/gif
+  dr-mmc.asc:
+    mimetype: text/plain
+  emk-acid.ans:
+    mimetype: text/plain
+  emk-dic.asc:
+    mimetype: text/plain
+  en-nl.asc:
+    mimetype: text/plain
+  file_id.diz:
+    mimetype: text/plain
+  gnk-crck.ans:
+    mimetype: text/plain
+  grm-damo.asc:
+    mimetype: text/plain
+  jeffc.jpg:
+    mimetype: image/jpeg
+  k!hehe2.asc:
+    mimetype: text/plain
+  k!hpokus.asc:
+    mimetype: text/plain
+  k!ikaros.txt:
+    mimetype: text/plain
+  members.ans:
+    mimetype: text/plain
+  nas-arm.asc:
+    mimetype: text/plain
+  nas-s2.asc:
+    mimetype: text/plain
+  pt-pb.ans:
+    mimetype: text/plain
+  us-mimic.asc:
+    mimetype: text/plain
+  vol-dks.txt:
+    mimetype: text/plain
+  vol-ntv.txt:
+    mimetype: text/plain
+  vol-nup.txt:
+    mimetype: text/plain
+  wkz-m2.asc:
+    mimetype: text/plain
+  wkz-mtw.asc:
+    mimetype: text/plain

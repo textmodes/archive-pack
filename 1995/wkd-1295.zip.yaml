@@ -1,0 +1,220 @@
+name: wkd-1295.zip
+hash: c16bcfc1b30c14f62ec3d067b1e87162
+year: 1995
+file:
+  '!!ART!!':
+    mimetype: text/plain
+  '!!BLEH!!':
+    mimetype: text/plain
+  '!!DEMOS!.!':
+    mimetype: text/plain
+  '!!END!!':
+    mimetype: text/plain
+  '!!INFO!!':
+    mimetype: text/plain
+  '!!LITS!!':
+    mimetype: text/plain
+  BIT-ACID.WKD:
+    mimetype: text/plain
+  BIT-BOT.WKD:
+    mimetype: text/plain
+  BIT-DSK.WKD:
+    mimetype: text/plain
+  BIT-ENT.WKD:
+    mimetype: text/plain
+  BIT-FEL1.WKD:
+    mimetype: text/plain
+  BIT-FEL2.WKD:
+    mimetype: text/plain
+  BIT-FILE.WKD:
+    mimetype: text/plain
+  BIT-GEN.WKD:
+    mimetype: text/plain
+  BIT-HMP.WKD:
+    mimetype: text/plain
+  BIT-KND.WKD:
+    mimetype: text/plain
+  BIT-PREM.WKD:
+    mimetype: text/plain
+  BIT-PROM.WKD:
+    mimetype: text/plain
+  BIT-RB.WKD:
+    mimetype: text/plain
+  BIT-TRK.WKD:
+    mimetype: text/plain
+  BIT-WKD.WKD:
+    mimetype: text/plain
+  BK-TND.WKD:
+    mimetype: text/plain
+  BK-WKD.WKD:
+    mimetype: text/plain
+  BK-WKD1.WKD:
+    mimetype: text/plain
+  BL-ACID.WKD:
+    mimetype: text/plain
+  BL-DP.WKD:
+    mimetype: text/plain
+  BL-MENU.WKD:
+    mimetype: text/plain
+  BL-TRK.WKD:
+    mimetype: text/plain
+  BL-WKD.WKD:
+    mimetype: text/plain
+  CA-EI1.WKD:
+    mimetype: text/plain
+  CA-SEVEN.WKD:
+    mimetype: text/plain
+  CA-TND.WKD:
+    mimetype: text/plain
+  CS-SAGA.WKD:
+    mimetype: text/plain
+  CS-TND.WKD:
+    mimetype: text/plain
+  CS-TT.WKD:
+    mimetype: text/plain
+  DP-ASC.WKD:
+    mimetype: text/plain
+  DP-GN1.WKD:
+    mimetype: text/plain
+  DP-MM.WKD:
+    mimetype: text/plain
+  DP-PR.WKD:
+    mimetype: text/plain
+  DP-TBD3.WKD:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  G3-NAUSI.WKD:
+    mimetype: text/plain
+  G3-TRANK.WKD:
+    mimetype: text/plain
+  G3-WKD1.WKD:
+    mimetype: text/plain
+  G3-WKD2.WKD:
+    mimetype: text/plain
+  ILL-WILL.LIT:
+    mimetype: text/plain
+  J2-BUDDH.WKD:
+    mimetype: text/plain
+  J2-HIT.WKD:
+    mimetype: text/plain
+  J2-MAGIK.WKD:
+    mimetype: text/plain
+  LS-DEVOT.LIT:
+    mimetype: text/plain
+  LS-JOKER.LIT:
+    mimetype: text/plain
+  LS-LEST.LIT:
+    mimetype: text/plain
+  LS-REALM.LIT:
+    mimetype: text/plain
+  LS-THANX.WKD:
+    mimetype: text/plain
+  LS-TND1.LIT:
+    mimetype: text/plain
+  MEMBER.LST:
+    mimetype: text/plain
+  MI-CHX.WKD:
+    mimetype: text/plain
+  MI-DR.WKD:
+    mimetype: text/plain
+  MI-FOD.WKD:
+    mimetype: text/plain
+  MI-GENF.WKD:
+    mimetype: text/plain
+  MI-IF.LIT:
+    mimetype: text/plain
+  MI-UPPIN.WKD:
+    mimetype: text/plain
+  MM-BLND.WKD:
+    mimetype: text/plain
+  MM-CLD9.WKD:
+    mimetype: text/plain
+  MM-MF2.WKD:
+    mimetype: text/plain
+  MM-NCPLS.WKD:
+    mimetype: text/plain
+  MM-SHAZ!.WKD:
+    mimetype: text/plain
+  MM-THDN.WKD:
+    mimetype: text/plain
+  ND!-TAL.WKD:
+    mimetype: text/plain
+  ND!-UN1.LIT:
+    mimetype: text/plain
+  ND!-UN2.LIT:
+    mimetype: text/plain
+  ND-BITX.WKD:
+    mimetype: text/plain
+  ND-BLAND.WKD:
+    mimetype: text/plain
+  ND-CARN.WKD:
+    mimetype: text/plain
+  ND-TLC.WKD:
+    mimetype: text/plain
+  ND-UZI.WKD:
+    mimetype: text/plain
+  ND-WKD2.WKD:
+    mimetype: text/plain
+  ND-WKD3.WKD:
+    mimetype: text/plain
+  PH-FALL.LIT:
+    mimetype: text/plain
+  PH-HUNT.LIT:
+    mimetype: text/plain
+  RM-ANML.WKD:
+    mimetype: text/plain
+  RM-CONC.WKD:
+    mimetype: text/plain
+  RM-DV.WKD:
+    mimetype: text/plain
+  RS-ANEMI.WKD:
+    mimetype: text/plain
+  RS-GUM.WKD:
+    mimetype: text/plain
+  RS-SPAWN.WKD:
+    mimetype: text/plain
+  RS-SR.WKD:
+    mimetype: text/plain
+  RS-WKD1.WKD:
+    mimetype: text/plain
+  SD-WKD.EXE:
+    mimetype: application/x-msdos-program
+  SP-ASIA.WKD:
+    mimetype: text/plain
+  SP-COLLY.WKD:
+    mimetype: text/plain
+  SP-DIRT.WKD:
+    mimetype: text/plain
+  SP-HOMO.WKD:
+    mimetype: text/plain
+  SP-II.WKD:
+    mimetype: text/plain
+  SP-KTF.WKD:
+    mimetype: text/plain
+  SP-RBLN.WKD:
+    mimetype: text/plain
+  SP-SPOOK.WKD:
+    mimetype: text/plain
+  SP-STRGT.WKD:
+    mimetype: text/plain
+  SP-THST.WKD:
+    mimetype: text/plain
+  SP-TM2.WKD:
+    mimetype: text/plain
+  SP-VOLT.WKD:
+    mimetype: text/plain
+  VOICES.TXT:
+    mimetype: text/plain
+  VT-WKD.LIT:
+    mimetype: text/plain
+  VX-RAPE.EXE:
+    mimetype: application/x-msdos-program
+  VX-TND.EXE:
+    mimetype: application/x-msdos-program
+  WELCOME.3:
+    mimetype: text/plain
+  WICKED.NFO:
+    mimetype: text/plain
+  WKDVIEW.EXE:
+    mimetype: application/x-msdos-program

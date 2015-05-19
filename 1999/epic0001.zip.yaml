@@ -1,0 +1,50 @@
+name: epic0001.zip
+hash: 1cb106820b13c474453951c385988671
+year: 1999
+file:
+  AR-CONC1.ANS:
+    mimetype: text/plain
+  AR-EPIC.ANS:
+    mimetype: text/plain
+  AR-FLUKE.ANS:
+    mimetype: text/plain
+  AR-LOGO.ANS:
+    mimetype: text/plain
+  AR-PLACE.BIN:
+    mimetype: text/x-binary
+  AR-RELLE.ANS:
+    mimetype: text/plain
+  AV-BIRTH.ANS:
+    mimetype: text/plain
+  AV-DETH.ANS:
+    mimetype: text/plain
+  AV-MUSH.ANS:
+    mimetype: text/plain
+  AV-STRY.ANS:
+    mimetype: text/plain
+  AV-WYVRN.ANS:
+    mimetype: text/plain
+  AX_S7.ANS:
+    mimetype: text/plain
+  CG-MATR.ANS:
+    mimetype: text/plain
+  CG-MTX.ANS:
+    mimetype: text/plain
+  EPIC0799.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  MAY-OBS.ANS:
+    mimetype: text/plain
+  MAY-RIP2.ANS:
+    mimetype: text/plain
+  MEMB0799.ANS:
+    mimetype: text/plain
+  SCOW-PIC.BIN:
+    mimetype: text/x-binary
+  SN-SHA.ANS:
+    mimetype: text/plain
+  US-EPIC.ANS:
+    mimetype: text/plain
+  US-Z2XUL.ANS:
+    mimetype: text/plain

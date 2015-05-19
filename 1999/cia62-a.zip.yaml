@@ -1,0 +1,48 @@
+name: cia62-a.zip
+hash: e6d50d7e2aa37f9a16ba12ca568b082d
+year: 1999
+file:
+  --BINS--.---:
+    mimetype: text/plain
+  --INFO--.---:
+    mimetype: text/plain
+  --LOGOS-.---:
+    mimetype: text/plain
+  --PICS--.---:
+    mimetype: text/plain
+  -GUESTS-.---:
+    mimetype: text/plain
+  -VIEWER-.---:
+    mimetype: text/plain
+  51_DRGN.XB:
+    mimetype: text/x-xbin
+  51_DRGNG.XB:
+    mimetype: text/x-xbin
+  51_EMP.XB:
+    mimetype: text/x-xbin
+  0499INFO.CIA:
+    mimetype: text/plain
+  0499MEMB.CIA:
+    mimetype: text/plain
+  AV-GEN2.CIA:
+    mimetype: text/plain
+  README.1ST:
+    mimetype: text/plain
+  SP-CIA1.LGO:
+    mimetype: text/plain
+  SUB-H00D.LGO:
+    mimetype: text/plain
+  SUB-MTX.CIA:
+    mimetype: text/plain
+  TC-911.LGO:
+    mimetype: text/plain
+  US-ICE.LGO:
+    mimetype: text/plain
+  US-SADIS.BIN:
+    mimetype: text/x-binary
+  WIRETAP.DOC:
+    mimetype: text/plain
+  WIRETAP.EXE:
+    mimetype: application/x-msdos-program
+  fe-art.gst:
+    mimetype: text/plain

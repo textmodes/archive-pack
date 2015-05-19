@@ -1,0 +1,82 @@
+name: acdu1294.zip
+hash: a3518b1aae9da5b40577cabca5e20d5d
+year: 1994
+file:
+  ACDU1294.NFO:
+    mimetype: text/plain
+  ACID1194.ANS:
+    mimetype: text/plain
+  ACIDAPP.EXE:
+    mimetype: application/x-msdos-program
+  ACIDVIEW.CFG:
+    mimetype: text/plain
+  ACIDVIEW.EXE:
+    mimetype: application/x-msdos-program
+  ACIDVIEW.NFO:
+    mimetype: text/plain
+  AE-AMBR2.RIP:
+    mimetype: image/x-rip
+  AE-DSUN3.ANS:
+    mimetype: text/plain
+  AN-AGORA.RIP:
+    mimetype: image/x-rip
+  BG-COC.EXE:
+    mimetype: application/x-msdos-program
+  BGIFONTS.ZIP:
+    mimetype: application/zip
+  BK-GS1.ANS:
+    mimetype: text/plain
+  BK-NC2.ANS:
+    mimetype: text/plain
+  CS-AGORA.GIF:
+    mimetype: image/gif
+  CS-XMAS.EXE:
+    mimetype: application/x-msdos-program
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  JD-JERKY.ANS:
+    mimetype: text/plain
+  KZ-TAG1.ANS:
+    mimetype: text/plain
+  LD-CF1.ANS:
+    mimetype: text/plain
+  LD-LOD1.ANS:
+    mimetype: text/plain
+  LD-UTOP1.ANS:
+    mimetype: text/plain
+  LOGO1294.ZIP:
+    mimetype: application/zip
+  NEWS1294.ANS:
+    mimetype: text/plain
+  PC-DOG1.ANS:
+    mimetype: text/plain
+  RL-SS2.ANS:
+    mimetype: text/plain
+  SI-SS1.ANS:
+    mimetype: text/plain
+  SM-DOMIN.ANS:
+    mimetype: text/plain
+  SO-LOKI.ANS:
+    mimetype: text/plain
+  SS-DSW.RIP:
+    mimetype: image/x-rip
+  SS-GOLG2.GIF:
+    mimetype: image/gif
+  SS-LOKI3.RIP:
+    mimetype: image/x-rip
+  SS-SWD1.RIP:
+    mimetype: image/x-rip
+  SS-TRN.RIP:
+    mimetype: image/x-rip
+  TS-ACID1.COM:
+    mimetype: application/x-msdos-program
+  TS-APSRC.ZIP:
+    mimetype: application/zip
+  TT-TF.ANS:
+    mimetype: text/plain
+  US-AGORA.RIP:
+    mimetype: image/x-rip
+  US-LOKI.RIP:
+    mimetype: image/x-rip
+  WM-AWSRC.ZIP:
+    mimetype: application/zip

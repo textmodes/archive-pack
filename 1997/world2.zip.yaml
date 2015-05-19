@@ -1,0 +1,14 @@
+name: world2.zip
+hash: 2738d9fda4ba8831cc4b90a2482ae6dc
+year: 1997
+file:
+  DELENTRY.ZIP:
+    mimetype: application/zip
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  NEWFIE.ZIP:
+    mimetype: application/zip
+  README.ANS:
+    mimetype: text/plain
+  WRLDANS.ZIP:
+    mimetype: application/zip

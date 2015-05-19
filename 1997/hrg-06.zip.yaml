@@ -1,0 +1,44 @@
+name: hrg-06.zip
+hash: 4f63c8008e2847c169337d02a5e73016
+year: 1997
+file:
+  '---6---.NFO':
+    mimetype: text/plain
+  DLS-RUNE.GIF:
+    mimetype: image/gif
+  DR-COLY6.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  HRG.NFO:
+    mimetype: text/plain
+  HRGREG.EXE:
+    mimetype: application/x-msdos-program
+  I_L^ABSS.ASC:
+    mimetype: text/plain
+  I_L^COMA.ASC:
+    mimetype: text/plain
+  I_L^CRV.ASC:
+    mimetype: text/plain
+  I_L^DIZS.ASC:
+    mimetype: text/plain
+  I_L^FSUN.ASC:
+    mimetype: text/plain
+  I_L^NFO.ASC:
+    mimetype: text/plain
+  I_L^PKC.ASC:
+    mimetype: text/plain
+  I_L^SDS.ASC:
+    mimetype: text/plain
+  I_L^VGN.ASC:
+    mimetype: text/plain
+  MEANLUNG.GIF:
+    mimetype: image/gif
+  SPRO-GRS.JPG:
+    mimetype: image/jpeg
+  SPRO-VD.GIF:
+    mimetype: image/gif
+  SPRO-ZEN.GIF:
+    mimetype: image/gif
+  WARRNING.TXT:
+    mimetype: text/plain

@@ -1,0 +1,58 @@
+name: hrg-04.zip
+hash: 992902fb7693461ab867555dd62edbfe
+year: 1997
+file:
+  DR-C0497.ASC:
+    mimetype: text/plain
+  DR-HAZRD.ANS:
+    mimetype: text/plain
+  DR-SCH.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  HARM.JPG:
+    mimetype: image/jpeg
+  HRG.APL:
+    mimetype: text/plain
+  HRG.NFO:
+    mimetype: text/plain
+  I_L-DRMS.ASC:
+    mimetype: text/plain
+  I_L-HACK.ASC:
+    mimetype: text/plain
+  I_L-JUC.ASC:
+    mimetype: text/plain
+  I_L-KICK.ANS:
+    mimetype: text/plain
+  I_L-MYST.ASC:
+    mimetype: text/plain
+  I_L-PRM.ASC:
+    mimetype: text/plain
+  I_L-PROD.ASC:
+    mimetype: text/plain
+  I_L-SLM.ASC:
+    mimetype: text/plain
+  I_L-SPL.ASC:
+    mimetype: text/plain
+  I_L-SWAT.ASC:
+    mimetype: text/plain
+  I_L-UTP.ASC:
+    mimetype: text/plain
+  I_L-WIDE.ASC:
+    mimetype: text/plain
+  PHL-43.ANS:
+    mimetype: text/plain
+  PHL-A.ANS:
+    mimetype: text/plain
+  PHL-DE.ANS:
+    mimetype: text/plain
+  PHL-HARM.ANS:
+    mimetype: text/plain
+  PHL-HRG.ANS:
+    mimetype: text/plain
+  SCULL.EXE:
+    mimetype: application/x-msdos-program
+  SPRO-JFA.JPG:
+    mimetype: image/jpeg
+  SPRO-SDR.JPG:
+    mimetype: image/jpeg

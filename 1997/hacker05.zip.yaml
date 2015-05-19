@@ -1,0 +1,22 @@
+name: hacker05.zip
+hash: e13a77b7f46134744c8fd6c392f73333
+year: 1997
+file:
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  HACKER5.DAT:
+    mimetype: text/plain
+  HACKER5.EXE:
+    mimetype: application/x-msdos-program
+  MAG-AD.APP:
+    mimetype: application/octet-stream
+  MAG-DST.APP:
+    mimetype: text/plain
+  MAG-GRP.APP:
+    mimetype: text/plain
+  MAG-RELE.APP:
+    mimetype: text/plain
+  MAG-VOTE.APP:
+    mimetype: application/octet-stream
+  WARRNING.TXT:
+    mimetype: text/plain

@@ -1,0 +1,22 @@
+name: buzina3.zip
+hash: afbdddfc17ccea95d187502e5f3c174f
+year: 2002
+file:
+  '!NFO.ANS':
+    mimetype: text/plain
+  CRS-ANTL.ANS:
+    mimetype: text/plain
+  CRS-END.ASC:
+    mimetype: text/plain
+  CRS-S&M.ANS:
+    mimetype: text/plain
+  CRS-SME.ASC:
+    mimetype: text/plain
+  CRS-TOP.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  NOCOMMEN.TXT:
+    mimetype: text/plain
+  XXX.ASC:
+    mimetype: text/plain

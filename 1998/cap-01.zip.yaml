@@ -1,0 +1,46 @@
+name: cap-01.zip
+hash: 8d3b7f6575ce5a46636ca750576f076e
+year: 1998
+file:
+  -ANSI:
+    mimetype: text/plain
+  -ASCII:
+    mimetype: text/plain
+  -INFO:
+    mimetype: text/plain
+  -MISC:
+    mimetype: text/plain
+  CAPINFO.NFO:
+    mimetype: text/plain
+  CAPMEMS.NFO:
+    mimetype: text/plain
+  CX-KRAD.ASC:
+    mimetype: text/plain
+  DS-BLOOM.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FOBEEUH.ANS:
+    mimetype: text/plain
+  LR-DREAM.ASC:
+    mimetype: text/plain
+  LR-N0L.ASC:
+    mimetype: text/plain
+  LR-PLUSH.ASC:
+    mimetype: text/plain
+  TAINTED.ANS:
+    mimetype: text/plain
+  TC-ELDO.ANS:
+    mimetype: text/plain
+  TC-FLAT.ANS:
+    mimetype: text/plain
+  TC-IDLE.ANS:
+    mimetype: text/plain
+  TC-OLD.ANS:
+    mimetype: text/plain
+  US-DEVIL.ANS:
+    mimetype: text/plain
+  US-ENDOR.ANS:
+    mimetype: text/plain
+  US-LOGIC.ANS:
+    mimetype: text/plain

@@ -1,0 +1,14 @@
+name: ansis-q.zip
+hash: ea24da436d7c570318bd21914679fdd2
+year: 1993
+file:
+  -RUNME.COM:
+    mimetype: application/x-msdos-program
+  QS-BITU.ANS:
+    mimetype: text/plain
+  QS-INST.ANS:
+    mimetype: text/plain
+  QS-MC.ANS:
+    mimetype: text/plain
+  QSTCFIST.ANS:
+    mimetype: text/plain

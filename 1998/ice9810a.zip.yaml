@@ -1,0 +1,70 @@
+name: ice9810a.zip
+hash: 224662de4023c3ecfd6e7d96e59784a5
+year: 1998
+file:
+  -ANSI---.---:
+    mimetype: text/plain
+  -LOGO---.---:
+    mimetype: text/plain
+  -RIP----.---:
+    mimetype: text/plain
+  -STAT---.---:
+    mimetype: text/plain
+  BH-ICE1.RIP:
+    mimetype: image/x-rip
+  BH-ICE2.RIP:
+    mimetype: image/x-rip
+  BKVIEW.ZIP:
+    mimetype: application/zip
+  C0-L1098.ICE:
+    mimetype: text/plain
+  C0-SALT.ICE:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  G1-BIRD.ICE:
+    mimetype: text/plain
+  ICE-9810.DSC:
+    mimetype: text/plain
+  ICE-9810.MEM:
+    mimetype: text/plain
+  ICE-9810.NFO:
+    mimetype: text/plain
+  ICE-9810.SIT:
+    mimetype: text/plain
+  ICEVIEW.CNF:
+    mimetype: text/plain
+  ICEVIEW.DOC:
+    mimetype: text/plain
+  ICEVIEW.EXE:
+    mimetype: application/x-msdos-program
+  IN-SREAL.ICE:
+    mimetype: text/plain
+  PA-LOGO1.ICE:
+    mimetype: text/plain
+  SQ2-LG23.ICE:
+    mimetype: text/plain
+  TG-1C398.ICE:
+    mimetype: text/plain
+  TI-1472.ICE:
+    mimetype: text/plain
+  TNT-05.ICE:
+    mimetype: text/plain
+  TNT-ISEM.ICE:
+    mimetype: text/plain
+  TNT-PSY.ICE:
+    mimetype: text/plain
+  US-AXLM.ICE:
+    mimetype: text/plain
+  US-BK2.ICE:
+    mimetype: text/plain
+  US-CIA.ICE:
+    mimetype: text/plain
+  US-VILL.ICE:
+    mimetype: text/plain
+  US-WOE.ICE:
+    mimetype: text/plain
+  V9-DIA.ICE:
+    mimetype: text/plain
+  V9-ICE.ICE:
+    mimetype: text/plain

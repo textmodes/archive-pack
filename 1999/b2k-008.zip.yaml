@@ -1,0 +1,36 @@
+name: b2k-008.zip
+hash: 5ea20317c4f0da818844ecdace293a7c
+year: 1999
+file:
+  AFS.COM:
+    mimetype: application/x-msdos-program
+  B2K.008:
+    mimetype: text/plain
+  ENTRY.FRM:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  Kt-blend.rip:
+    mimetype: image/x-rip
+  NS-APE.ANS:
+    mimetype: text/plain
+  NS-WKZ.ASC:
+    mimetype: text/plain
+  PH_REDNE.ANS:
+    mimetype: text/plain
+  PK!BLND8.RIP:
+    mimetype: image/x-rip
+  US-FARM.ANS:
+    mimetype: text/plain
+  US-MONKY.ASC:
+    mimetype: text/plain
+  fha.bmp:
+    mimetype: image/x-ms-bmp
+  na-apes.jpg:
+    mimetype: image/jpeg
+  p_apes.xm:
+    mimetype: audio/x-mod
+  sar-blnd.bmp:
+    mimetype: image/x-ms-bmp
+  webblend.zip:
+    mimetype: application/zip

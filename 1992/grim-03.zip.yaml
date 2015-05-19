@@ -1,0 +1,174 @@
+name: grim-03.zip
+hash: 7f3ec3d596a13298fda8b5ee34574081
+year: 1992
+file:
+  CA-TUGO.ANS:
+    mimetype: text/plain
+  CD-HOG1.EXE:
+    mimetype: application/x-msdos-program
+  CD-OKC.EXE:
+    mimetype: application/x-msdos-program
+  FD-CRYPT.ANS:
+    mimetype: text/plain
+  FD-DC.ANS:
+    mimetype: text/plain
+  FD-IDARK.ANS:
+    mimetype: text/plain
+  FT-GOIRE.ANS:
+    mimetype: text/plain
+  FT-TLS.ANS:
+    mimetype: text/plain
+  GRIMAPP.EXE:
+    mimetype: application/x-msdos-program
+  GRIMOIRE.INF:
+    mimetype: text/plain
+  GRIMOIRE.LST:
+    mimetype: text/plain
+  GRIMOIRE.TXT:
+    mimetype: text/plain
+  MD-ASYLU.EXE:
+    mimetype: application/x-msdos-program
+  ML-CRWL.ANS:
+    mimetype: text/plain
+  MSG-BAL1.ANS:
+    mimetype: text/plain
+  MSG-MO3.ANS:
+    mimetype: text/plain
+  MSG-RIV1.ANS:
+    mimetype: text/plain
+  MSG-RIV2.ANS:
+    mimetype: text/plain
+  MSG-SAT5.ANS:
+    mimetype: text/plain
+  MSG-TDH2.ANS:
+    mimetype: text/plain
+  MSG-TR2.ANS:
+    mimetype: text/plain
+  MU-EPA1.GIF:
+    mimetype: image/gif
+  MU-GRIM.GIF:
+    mimetype: image/gif
+  MU-PCP92.GIF:
+    mimetype: image/gif
+  MU-RUFF2.GIF:
+    mimetype: image/gif
+  NE-BLST.ZIP:
+    mimetype: application/zip
+  NE-DW.ZIP:
+    mimetype: application/zip
+  NE-EXEC.ANS:
+    mimetype: text/plain
+  NE-FIST.ANS:
+    mimetype: text/plain
+  NE-FLT.ANS:
+    mimetype: text/plain
+  NE-HELL.ANS:
+    mimetype: text/plain
+  NE-HOH.ANS:
+    mimetype: text/plain
+  NE-MAST.ANS:
+    mimetype: text/plain
+  NE-NIRV.ANS:
+    mimetype: text/plain
+  NE-SANC2.ANS:
+    mimetype: text/plain
+  NE-UNPHM.ANS:
+    mimetype: text/plain
+  NM-CHAIR.ANS:
+    mimetype: text/plain
+  NM-CITY1.ANS:
+    mimetype: text/plain
+  NM-CITY2.ANS:
+    mimetype: text/plain
+  NM-CRAZY.ANS:
+    mimetype: text/plain
+  NM-EDDIE.ANS:
+    mimetype: text/plain
+  NM-GATE.ANS:
+    mimetype: text/plain
+  NM-GOLD.ANS:
+    mimetype: text/plain
+  NM-HELL.ANS:
+    mimetype: text/plain
+  NM-LOON.ANS:
+    mimetype: text/plain
+  NM-NC17.ANS:
+    mimetype: text/plain
+  NM-PSYCH.ANS:
+    mimetype: text/plain
+  NM-SANCT.ANS:
+    mimetype: text/plain
+  NM-TUGO.ANS:
+    mimetype: text/plain
+  PS-CYF.ANS:
+    mimetype: text/plain
+  PS-TERM.ANS:
+    mimetype: text/plain
+  PY-MFIRE.ANS:
+    mimetype: text/plain
+  PY-WYUTH.ANS:
+    mimetype: text/plain
+  RO-BART1.ANS:
+    mimetype: text/plain
+  RO-BART2.ANS:
+    mimetype: text/plain
+  RO-BOOM.EXE:
+    mimetype: application/x-msdos-program
+  RO-BUTT.ANS:
+    mimetype: text/plain
+  RO-FISH.ANS:
+    mimetype: text/plain
+  RO-GATE.ANS:
+    mimetype: text/plain
+  RO-GNEWS.ANS:
+    mimetype: text/plain
+  RO-GRIM.ANS:
+    mimetype: text/plain
+  RO-HOG.ANS:
+    mimetype: text/plain
+  RO-OPUS.ANS:
+    mimetype: text/plain
+  RO-RDELL.ANS:
+    mimetype: text/plain
+  RO-RYU.ANS:
+    mimetype: text/plain
+  RO-SANCT.ANS:
+    mimetype: text/plain
+  RO-SF2.ANS:
+    mimetype: text/plain
+  RO-SNDB1.ANS:
+    mimetype: text/plain
+  RO-SNDB2.ANS:
+    mimetype: text/plain
+  RO-TROLL.ANS:
+    mimetype: text/plain
+  RO-TUGO.ANS:
+    mimetype: text/plain
+  SOS-IG.GIF:
+    mimetype: image/gif
+  TM-APEX.EXE:
+    mimetype: application/x-msdos-program
+  TO-ASYLU.ANS:
+    mimetype: text/plain
+  TO-AUDIO.ANS:
+    mimetype: text/plain
+  TO-CALLR.ANS:
+    mimetype: text/plain
+  TO-DANGE.ANS:
+    mimetype: text/plain
+  TO-DIGIT.ANS:
+    mimetype: text/plain
+  TO-GATES.ANS:
+    mimetype: text/plain
+  TO-GRIMA.ANS:
+    mimetype: text/plain
+  TO-HGOLD.ANS:
+    mimetype: text/plain
+  TO-IMMOR.ANS:
+    mimetype: text/plain
+  TO-LSD2.ANS:
+    mimetype: text/plain
+  TO-MATRX.ANS:
+    mimetype: text/plain
+  ZT-CAIN.ANS:
+    mimetype: text/plain

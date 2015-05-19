@@ -1,0 +1,58 @@
+name: legion01.zip
+hash: e348c6e27ee608a15aa8b6e5d8c86f5e
+year: 1998
+file:
+  !!binary xChBTlNJKcQuxMTE:
+    mimetype: application/octet-stream
+  !!binary xChFTkQhKcQuxMTE:
+    mimetype: application/octet-stream
+  !!binary xChJTkZPKcQuxMTE:
+    mimetype: application/octet-stream
+  AOH-JAAP.ANS:
+    mimetype: text/plain
+  AOH-JEW.ANS:
+    mimetype: text/plain
+  AOH-OOZE.ANS:
+    mimetype: text/plain
+  FIL-BOX.ANS:
+    mimetype: text/plain
+  FIL-GUTR.ANS:
+    mimetype: text/plain
+  FIL-HOOD.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  LD-NEON.ANS:
+    mimetype: text/plain
+  M-LBMASS.ANS:
+    mimetype: text/plain
+  M-LBOXXX.ANS:
+    mimetype: text/plain
+  M-SRREAL.ANS:
+    mimetype: text/plain
+  M-XXXXXX.ANS:
+    mimetype: text/plain
+  MAE-CCI3.ANS:
+    mimetype: text/plain
+  MAE-LB1.ANS:
+    mimetype: text/plain
+  MAE-R666.ANS:
+    mimetype: text/plain
+  MAESTRO.TXT:
+    mimetype: text/plain
+  RA-LUNCH.ANS:
+    mimetype: text/plain
+  RA-SCENT.ANS:
+    mimetype: text/plain
+  RA-SURRE.ANS:
+    mimetype: text/plain
+  SR-HOKUP.ANS:
+    mimetype: text/plain
+  SU-R666.ANS:
+    mimetype: text/plain
+  TK-LEG.ANS:
+    mimetype: text/plain
+  WE-ROUTE.ANS:
+    mimetype: text/plain
+  ZII-FUEL.ANS:
+    mimetype: text/plain

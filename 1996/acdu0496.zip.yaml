@@ -1,0 +1,78 @@
+name: acdu0496.zip
+hash: b03f2d04c98b9c0129310c4773856b18
+year: 1996
+file:
+  ACDU0496.NFO:
+    mimetype: text/plain
+  ACID0496.ANS:
+    mimetype: text/plain
+  ACIDAPP.EXE:
+    mimetype: application/x-msdos-program
+  ACIDVIEW.DAT:
+    mimetype: application/octet-stream
+  ACIDVIEW.EXE:
+    mimetype: application/x-msdos-program
+  ACIDVIEW.NFO:
+    mimetype: text/plain
+  AL-LAN.RIP:
+    mimetype: image/x-rip
+  ALC0496.ANS:
+    mimetype: text/plain
+  BS-PRIOR.ANS:
+    mimetype: text/plain
+  BS-SUCCO.ANS:
+    mimetype: text/plain
+  CS-ACID3.GIF:
+    mimetype: image/gif
+  CS-INFTI.GIF:
+    mimetype: image/gif
+  CS-SCTEM.GIF:
+    mimetype: image/gif
+  CS-TWST1.GIF:
+    mimetype: image/gif
+  CY-TDS1.RIP:
+    mimetype: image/x-rip
+  DE-ARCAN.GIF:
+    mimetype: image/gif
+  DF-ACID1.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  I1-HELLB.GIF:
+    mimetype: image/gif
+  IV-ASP.ANS:
+    mimetype: text/plain
+  KM-DOH.ANS:
+    mimetype: text/plain
+  KO-7SEAL.GIF:
+    mimetype: image/gif
+  PR-ASH.GIF:
+    mimetype: image/gif
+  PR-DSCVR.GIF:
+    mimetype: image/gif
+  PR-MOON.GIF:
+    mimetype: image/gif
+  RS-ACID2.EXE:
+    mimetype: application/x-msdos-program
+  SA-PHRCD.ANS:
+    mimetype: text/plain
+  SB-FAIR1.ANS:
+    mimetype: text/plain
+  SB-RAZOR.ANS:
+    mimetype: text/plain
+  SI-BENT1.ANS:
+    mimetype: text/plain
+  SI-DISM1.ANS:
+    mimetype: text/plain
+  SI-FLAT3.ANS:
+    mimetype: text/plain
+  SI-FLAT4.ANS:
+    mimetype: text/plain
+  SZ-SONIC.GIF:
+    mimetype: image/gif
+  US-HHOLE.ANS:
+    mimetype: text/plain
+  US-SPYDR.ANS:
+    mimetype: text/plain
+  WE-WILL.SUE:
+    mimetype: text/plain

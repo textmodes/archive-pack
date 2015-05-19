@@ -1,0 +1,90 @@
+name: bmbook21.zip
+hash: 50bee8e59aebed4d4dbc077008fab395
+year: 2000
+file:
+  '&COVER21.ANS':
+    mimetype: text/plain
+  --ANS---.---:
+    mimetype: application/octet-stream
+  --ASCII-.---:
+    mimetype: application/octet-stream
+  --BV---.---:
+    mimetype: application/octet-stream
+  --DIZ--.---:
+    mimetype: application/octet-stream
+  --NFO---.---:
+    mimetype: application/octet-stream
+  --START-.---:
+    mimetype: application/octet-stream
+  --VGA---.---:
+    mimetype: application/octet-stream
+  -THE-END.---:
+    mimetype: application/octet-stream
+  AVE-ABS.ANS:
+    mimetype: text/plain
+  AVE-AC.ANS:
+    mimetype: text/plain
+  AVE-CL19.ANS:
+    mimetype: text/plain
+  BM-BAR.TXT:
+    mimetype: text/plain
+  BMBOOK21.NFO:
+    mimetype: text/plain
+  BV.DOC:
+    mimetype: text/plain
+  BV.EXE:
+    mimetype: application/x-msdos-program
+  BV.INI:
+    mimetype: application/octet-stream
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  PN-ALDA.ANS:
+    mimetype: text/plain
+  PN-E99.ANS:
+    mimetype: text/plain
+  PN-PAN.ANS:
+    mimetype: text/plain
+  PZK-CHRO.ANS:
+    mimetype: text/plain
+  PZK-RTZ.ASC:
+    mimetype: text/plain
+  SHN-CATS.ANS:
+    mimetype: text/plain
+  SHN-DNA.JPG:
+    mimetype: image/jpeg
+  SHN-INFL.JPG:
+    mimetype: image/jpeg
+  SHN-SALV.JPG:
+    mimetype: image/jpeg
+  SM-BURN.ANS:
+    mimetype: text/plain
+  SP-BM2.ANS:
+    mimetype: text/plain
+  T-CRACK.ANS:
+    mimetype: text/plain
+  T-HEL.ANS:
+    mimetype: text/plain
+  T-SHINE.ANS:
+    mimetype: text/plain
+  US-BAD1.ANS:
+    mimetype: text/plain
+  US-BAD2.ANS:
+    mimetype: text/plain
+  US-HALLO.ANS:
+    mimetype: text/plain
+  US-MEER.ANS:
+    mimetype: text/plain
+  US-NATUR.ANS:
+    mimetype: text/plain
+  US-NERP.ANS:
+    mimetype: text/plain
+  US-PARAD.ANS:
+    mimetype: text/plain
+  US-PHAT.ANS:
+    mimetype: text/plain
+  US-PHX1.ANS:
+    mimetype: text/plain
+  US-STARS.ANS:
+    mimetype: text/plain
+  ZZZZZZZZ.BIN:
+    mimetype: text/x-binary

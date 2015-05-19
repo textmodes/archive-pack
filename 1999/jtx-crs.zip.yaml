@@ -1,0 +1,36 @@
+name: jtx-crs.zip
+hash: 72d2c6e75332202aa8d9550f3a3651bc
+year: 1999
+file:
+  CRS^BOMB.ANS:
+    mimetype: text/plain
+  CRS^DRM.ASC:
+    mimetype: text/plain
+  CRS^JTX.ANS:
+    mimetype: text/plain
+  CRS^JUST.ANS:
+    mimetype: text/plain
+  CRS^LOVE.ANS:
+    mimetype: text/plain
+  CRS^MYLO.ANS:
+    mimetype: text/plain
+  CRS^ORIG.ASC:
+    mimetype: text/plain
+  CRS^RULZ.ANS:
+    mimetype: text/plain
+  CRS^SKY.ASC:
+    mimetype: text/plain
+  CRS^SOUL.ASC:
+    mimetype: text/plain
+  CRS^STP.ASC:
+    mimetype: text/plain
+  CRS^STYL.ANS:
+    mimetype: text/plain
+  CRS^VOM.ASC:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  JUST-X.APP:
+    mimetype: text/plain
+  JUST-X.NFO:
+    mimetype: text/plain

@@ -1,0 +1,36 @@
+name: tl199407.zip
+hash: d0a5cf4c62cb57b5c6c9524d89053677
+year: 1994
+file:
+  CONFIG.DAT:
+    mimetype: application/octet-stream
+  EMIGRE.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  HX-TLLG.ANS:
+    mimetype: text/plain
+  PHRESH.BBS:
+    mimetype: text/plain
+  SM-HDFR.ANS:
+    mimetype: text/plain
+  SM-IFX1.ANS:
+    mimetype: text/plain
+  TEKLORDZ.EXE:
+    mimetype: application/x-msdos-program
+  TL1.DAT:
+    mimetype: application/octet-stream
+  TL2.DAT:
+    mimetype: application/octet-stream
+  TLVIEW.ANS:
+    mimetype: text/plain
+  TLVIEW.EXE:
+    mimetype: application/x-msdos-program
+  TS-DRSN.ANS:
+    mimetype: text/plain
+  TS-DSIL.ANS:
+    mimetype: text/plain
+  TS-EMLG.ANS:
+    mimetype: text/plain
+  TS-TLLG.ANS:
+    mimetype: text/plain

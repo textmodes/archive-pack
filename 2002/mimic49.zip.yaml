@@ -1,0 +1,68 @@
+name: mimic49.zip
+hash: 5257de05df5af574d8da29bc271d61c8
+year: 2002
+file:
+  aetmmc4.jpg:
+    mimetype: image/jpeg
+  aetmmc4.txt:
+    mimetype: text/plain
+  bjasc247.ans:
+    mimetype: text/plain
+  bjasc248.ans:
+    mimetype: text/plain
+  en-bob.asc:
+    mimetype: text/plain
+  file_id.diz:
+    mimetype: text/plain
+  grm4yr.txt:
+    mimetype: text/plain
+  h7-2riko.asc:
+    mimetype: text/plain
+  h7-asm02.asc:
+    mimetype: text/plain
+  h7-mmc4y.asc:
+    mimetype: text/plain
+  jn-mmc15.txt:
+    mimetype: text/plain
+  jn-nrg10.ans:
+    mimetype: text/plain
+  jn-why21.ans:
+    mimetype: text/plain
+  jn-wrp2.ans:
+    mimetype: text/plain
+  ko-mmc4y.ans:
+    mimetype: text/plain
+  ko-wilde.asc:
+    mimetype: text/plain
+  kpn-hppy.ans:
+    mimetype: text/plain
+  m7m-intm.ans:
+    mimetype: text/plain
+  m7m-sis.ans:
+    mimetype: text/plain
+  members.ans:
+    mimetype: text/plain
+  nb-delta.asc:
+    mimetype: text/plain
+  nochbpop.rmx:
+    mimetype: application/octet-stream
+  nochdano.rmx:
+    mimetype: text/plain
+  pro-0702.ans:
+    mimetype: text/plain
+  quotes49.txt:
+    mimetype: text/plain
+  vlz1983c.asc:
+    mimetype: text/plain
+  vlzfaces.asc:
+    mimetype: text/plain
+  vlzkoma!.asc:
+    mimetype: text/plain
+  vlzlms2k.asc:
+    mimetype: text/plain
+  vlzpmtrx.asc:
+    mimetype: text/plain
+  vlzsural.asc:
+    mimetype: text/plain
+  wk-mmc49.ans:
+    mimetype: text/plain

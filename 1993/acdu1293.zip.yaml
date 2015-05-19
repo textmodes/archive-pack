@@ -1,0 +1,66 @@
+name: acdu1293.zip
+hash: 761616cbb6f1aa48871783f81bad480e
+year: 1993
+file:
+  ACDU1293.NFO:
+    mimetype: text/plain
+  ACID1193.ANS:
+    mimetype: text/plain
+  ACIDAPP.EXE:
+    mimetype: application/x-msdos-program
+  ACIDVIEW.EXE:
+    mimetype: application/x-msdos-program
+  ACIDVIEW.NFO:
+    mimetype: text/plain
+  AE-CH01.ANS:
+    mimetype: text/plain
+  AN-PDR1.ANS:
+    mimetype: text/plain
+  AT-CF.ANS:
+    mimetype: text/plain
+  AT-GARDN.ANS:
+    mimetype: text/plain
+  AT-MENU.ZIP:
+    mimetype: application/zip
+  BE-DNA1.ANS:
+    mimetype: text/plain
+  CB-IR1.ANS:
+    mimetype: text/plain
+  DA-CP1.ANS:
+    mimetype: text/plain
+  DT-END1.ANS:
+    mimetype: text/plain
+  DT-GARDN.ANS:
+    mimetype: text/plain
+  EB-COR1.EXE:
+    mimetype: application/x-msdos-program
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GU-DEST1.ANS:
+    mimetype: text/plain
+  IM-AOM1.ANS:
+    mimetype: text/plain
+  IM-ROAD1.ANS:
+    mimetype: text/plain
+  IZ-DATL1.ANS:
+    mimetype: text/plain
+  JD-SBZ1.ANS:
+    mimetype: text/plain
+  KS-CP2.ANS:
+    mimetype: text/plain
+  MM-WTCDG.ANS:
+    mimetype: text/plain
+  NEWS1293.ANS:
+    mimetype: text/plain
+  RN-FNBD1.RIP:
+    mimetype: image/x-rip
+  RN-LUCD1.ANS:
+    mimetype: text/plain
+  RN-TSG1.ANS:
+    mimetype: text/plain
+  RN-TTG2.RIP:
+    mimetype: image/x-rip
+  RS-NOV93.EXE:
+    mimetype: application/x-msdos-program
+  US-SBZ1.ANS:
+    mimetype: text/plain

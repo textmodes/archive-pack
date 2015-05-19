@@ -1,0 +1,114 @@
+name: bmbook18.zip
+hash: f116b1dfc7f5084fe0b97a9f80d356bf
+year: 1998
+file:
+  '&COVER18.ANS':
+    mimetype: text/plain
+  --ANS---.---:
+    mimetype: text/plain
+  --ASCII-.---:
+    mimetype: application/octet-stream
+  --BV---.---:
+    mimetype: application/octet-stream
+  --DIZ--.---:
+    mimetype: application/octet-stream
+  --NFO---.---:
+    mimetype: application/octet-stream
+  --VGA---.---:
+    mimetype: text/plain
+  -THE-END.---:
+    mimetype: application/octet-stream
+  AVE-AH.ANS:
+    mimetype: text/plain
+  AVE-CL16.ANS:
+    mimetype: text/plain
+  AVE-CM.ANS:
+    mimetype: text/plain
+  AVE-M2.ANS:
+    mimetype: text/plain
+  AVE-SALT.ANS:
+    mimetype: text/plain
+  BM-LOOSE.TXT:
+    mimetype: text/plain
+  BMBOOK18.MEM:
+    mimetype: text/plain
+  BMBOOK18.NFO:
+    mimetype: text/plain
+  BV.DOC:
+    mimetype: text/plain
+  BV.EXE:
+    mimetype: application/x-msdos-program
+  BV.INI:
+    mimetype: application/octet-stream
+  D!-BMAID.ASC:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  K-123.ANS:
+    mimetype: text/plain
+  K-PSYREV.ANS:
+    mimetype: text/plain
+  K-STILL.JPG:
+    mimetype: image/jpeg
+  KO-USAGI.ANS:
+    mimetype: text/plain
+  KO-WITCH.ANS:
+    mimetype: text/plain
+  LE-G2.ANS:
+    mimetype: text/plain
+  LE-SURR.ANS:
+    mimetype: text/plain
+  MA-MHE.TXT:
+    mimetype: text/plain
+  PD-POTZE.ANS:
+    mimetype: text/plain
+  PN-EVOKE.ANS:
+    mimetype: text/plain
+  PN-EYE.PCX:
+    mimetype: image/pcx
+  PN-HITMN.PCX:
+    mimetype: image/pcx
+  S3-AP.ASC:
+    mimetype: text/plain
+  S3-DRNK.ASC:
+    mimetype: text/plain
+  S3-GR.ASC:
+    mimetype: text/plain
+  SHN-BM.JPG:
+    mimetype: image/jpeg
+  SHN-FLY.JPG:
+    mimetype: image/jpeg
+  SHN-KRM.ASC:
+    mimetype: text/plain
+  SHN-WRD.ANS:
+    mimetype: text/plain
+  SM-SCNDY.ANS:
+    mimetype: text/plain
+  US-AGE.ANS:
+    mimetype: text/plain
+  US-CB4.ANS:
+    mimetype: text/plain
+  US-EEK.ANS:
+    mimetype: text/plain
+  US-FOS.ANS:
+    mimetype: text/plain
+  US-FRAU.ANS:
+    mimetype: text/plain
+  US-HAZ2.ANS:
+    mimetype: text/plain
+  US-HTWO.ANS:
+    mimetype: text/plain
+  US-SKJ.ANS:
+    mimetype: text/plain
+  US-SKOOL.ANS:
+    mimetype: text/plain
+  US-SOLID.ANS:
+    mimetype: text/plain
+  US-SUR.ANS:
+    mimetype: text/plain
+  US-VUDU.ANS:
+    mimetype: text/plain
+  ZP-PIRAT.ANS:
+    mimetype: text/plain
+  ZZZZZZZZ.ANS:
+    mimetype: text/plain

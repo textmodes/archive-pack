@@ -1,0 +1,42 @@
+name: spas9510.zip
+hash: f024507d99b3789e4ca4ef7a7dff26fa
+year: 1995
+file:
+  -ANSIS-:
+    mimetype: text/plain
+  -STUFF-:
+    mimetype: text/plain
+  !!binary xC1WR0HELQ==:
+    mimetype: text/plain
+  1095MEMB.ANS:
+    mimetype: text/plain
+  1095NEWS.ANS:
+    mimetype: text/plain
+  CT-LOGO1.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GR-AMB1.ANS:
+    mimetype: text/plain
+  GR-HUMA1.ANS:
+    mimetype: text/plain
+  GR-ZOOK3.ANS:
+    mimetype: text/plain
+  KHZ-DERC.ANS:
+    mimetype: text/plain
+  KHZ-GE5.ANS:
+    mimetype: text/plain
+  KHZ-GE9.GIF:
+    mimetype: image/gif
+  PK-TSA.ANS:
+    mimetype: text/plain
+  PK-ZOOK.ANS:
+    mimetype: text/plain
+  SPASAPP.EXE:
+    mimetype: application/x-msdos-program
+  SVU_V1.ZIP:
+    mimetype: application/zip
+  VOICES.TXT:
+    mimetype: text/plain
+  WELCOME.3:
+    mimetype: text/plain

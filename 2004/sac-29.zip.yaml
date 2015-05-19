@@ -1,0 +1,302 @@
+name: sac-29.zip
+hash: 71c29d5975ee9ee23ccca141f16cacb3
+year: 2004
+file:
+  EB-ABR.ASC:
+    mimetype: text/plain
+  EB-BOB.ASC:
+    mimetype: text/plain
+  EB-COC.ASC:
+    mimetype: text/plain
+  EB-EOF.ASC:
+    mimetype: text/plain
+  EB-HA.ASC:
+    mimetype: text/plain
+  EB-LOGOS.ASC:
+    mimetype: text/plain
+  EB-RSN.ASC:
+    mimetype: text/plain
+  EB-TGV.ASC:
+    mimetype: text/plain
+  EB-ULT.ASC:
+    mimetype: text/plain
+  MTD-IGN2.NFO:
+    mimetype: text/plain
+  Roo-asl.asc:
+    mimetype: text/plain
+  Roo-drn.asc:
+    mimetype: text/plain
+  SAC.NFO:
+    mimetype: text/plain
+  W0-123NS.ASC:
+    mimetype: text/plain
+  W0-ALMA.ASC:
+    mimetype: text/plain
+  W0-BANDT.ASC:
+    mimetype: text/plain
+  W0-BANZA.ASC:
+    mimetype: text/plain
+  W0-BOOGI.ASC:
+    mimetype: text/plain
+  W0-CRM_ICON.png:
+    mimetype: image/png
+  W0-DMG.png:
+    mimetype: image/png
+  W0-GD.ASC:
+    mimetype: text/plain
+  W0-IBZNF.ASC:
+    mimetype: text/plain
+  W0-IMYA-layout.png:
+    mimetype: image/png
+  W0-JLSNF.ASC:
+    mimetype: text/plain
+  W0-LUCID.ASC:
+    mimetype: text/plain
+  W0-PH2NF.ASC:
+    mimetype: text/plain
+  W0-PROX.ASC:
+    mimetype: text/plain
+  W0-PUDHA.ANS:
+    mimetype: text/plain
+  W0-REDMAN.png:
+    mimetype: image/png
+  W0-SAC.png:
+    mimetype: image/png
+  W0-SACNS.ANS:
+    mimetype: text/plain
+  W0-SCFNF.ASC:
+    mimetype: text/plain
+  W0-SLAM.ASC:
+    mimetype: text/plain
+  W0-SLC.ASC:
+    mimetype: text/plain
+  W0-SOXIU.ANS:
+    mimetype: text/plain
+  W0-TRTLE.ANS:
+    mimetype: text/plain
+  W0-TSAT.ANS:
+    mimetype: text/plain
+  W0-WABBT.ASC:
+    mimetype: text/plain
+  W0-aBHO.png:
+    mimetype: image/png
+  W0-mousechord.png:
+    mimetype: image/png
+  W0NS-ERR.ANS:
+    mimetype: text/plain
+  cDr-2nd.asc:
+    mimetype: text/plain
+  cDr-ancient.asc:
+    mimetype: text/plain
+  cDr-ascii.asc:
+    mimetype: text/plain
+  cDr-ashes.asc:
+    mimetype: text/plain
+  cDr-bk.diz:
+    mimetype: text/plain
+  cDr-cruise.asc:
+    mimetype: text/plain
+  cDr-ctrl.asc:
+    mimetype: text/plain
+  cDr-df01.nfo:
+    mimetype: text/plain
+  cDr-df02.nfo:
+    mimetype: text/plain
+  cDr-end.nfo:
+    mimetype: text/plain
+  cDr-fw1.asc:
+    mimetype: text/plain
+  cDr-fw2.asc:
+    mimetype: text/plain
+  cDr-haciend.asc:
+    mimetype: text/plain
+  cDr-imdb.asc:
+    mimetype: text/plain
+  cDr-journey.asc:
+    mimetype: text/plain
+  cDr-low.asc:
+    mimetype: text/plain
+  cDr-metropolis.nfo:
+    mimetype: text/plain
+  cDr-mhmp3.asc:
+    mimetype: text/plain
+  cDr-mlm.asc:
+    mimetype: text/plain
+  cDr-obilame.asc:
+    mimetype: text/plain
+  cDr-rules.asc:
+    mimetype: text/plain
+  cDr-soh.asc:
+    mimetype: text/plain
+  cDr-starbelt.asc:
+    mimetype: text/plain
+  cDr-styx.asc:
+    mimetype: text/plain
+  cDr-vic.nfo:
+    mimetype: text/plain
+  cDr-voyage.asc:
+    mimetype: text/plain
+  crm-4everdevided.xm:
+    mimetype: audio/x-mod
+  crm-DerTeddybaer.xm:
+    mimetype: audio/x-mod
+  crm-EVERMORE.xm:
+    mimetype: audio/x-mod
+  crm-desperatedsoul.xm:
+    mimetype: audio/x-mod
+  crm-lifesplit.xm:
+    mimetype: audio/x-mod
+  crm-littlegerscener.xm:
+    mimetype: audio/x-mod
+  crm-sinceyouleft.xm:
+    mimetype: audio/x-mod
+  crm-wisdomofkings.xm:
+    mimetype: audio/x-mod
+  dip-a3m.asc:
+    mimetype: text/plain
+  dip-anci.asc:
+    mimetype: text/plain
+  dip-aura.diz:
+    mimetype: text/plain
+  dip-conc.diz:
+    mimetype: text/plain
+  dip-dark.asc:
+    mimetype: text/plain
+  dip-enfu.asc:
+    mimetype: text/plain
+  dip-enfu.diz:
+    mimetype: text/plain
+  dip-hf.nfo:
+    mimetype: text/plain
+  dip-libe.diz:
+    mimetype: text/plain
+  dip-libe.nfo:
+    mimetype: text/plain
+  dip-occ.diz:
+    mimetype: text/plain
+  dip-occ.nfo:
+    mimetype: text/plain
+  dip-pizza.diz:
+    mimetype: text/plain
+  dip-rs.diz:
+    mimetype: text/plain
+  dip-rs.nfo:
+    mimetype: text/plain
+  dip-uu.nfo:
+    mimetype: text/plain
+  dip-ymv.nfo:
+    mimetype: text/plain
+  dip-yvid.nfo:
+    mimetype: text/plain
+  don-aaf.nfo:
+    mimetype: text/plain
+  don-acr.asc:
+    mimetype: text/plain
+  don-cax.txt.ASC:
+    mimetype: text/plain
+  don-cor.asc:
+    mimetype: text/plain
+  don-dag.asc:
+    mimetype: text/plain
+  don-emp.asc:
+    mimetype: text/plain
+  don-hcd.asc:
+    mimetype: text/plain
+  don-lool.nfo:
+    mimetype: text/plain
+  don-mad.asc:
+    mimetype: text/plain
+  don-mfa.asc:
+    mimetype: text/plain
+  don-mtx.asc:
+    mimetype: text/plain
+  don-ndx.asc:
+    mimetype: text/plain
+  don-oft.asc:
+    mimetype: text/plain
+  don-rew.asc:
+    mimetype: text/plain
+  don-rge.asc:
+    mimetype: text/plain
+  don-rse.asc:
+    mimetype: text/plain
+  don-srn.nfo:
+    mimetype: text/plain
+  don-st5.asc:
+    mimetype: text/plain
+  don-sup.asc:
+    mimetype: text/plain
+  don-swa.asc:
+    mimetype: text/plain
+  don-t53.txt:
+    mimetype: text/plain
+  don-tit.nfo:
+    mimetype: text/plain
+  don-zro.asc:
+    mimetype: text/plain
+  eb-ngen.jpg:
+    mimetype: image/jpeg
+  eb-shock.jpg:
+    mimetype: image/jpeg
+  file_id.diz:
+    mimetype: text/plain
+  fx-jgt.asc:
+    mimetype: text/plain
+  fx-jgt.diz:
+    mimetype: text/plain
+  mtd-sal3.asc:
+    mimetype: text/plain
+  scr-again.nfo:
+    mimetype: text/plain
+  scr-deity.nfo:
+    mimetype: text/plain
+  scr-game.nfo:
+    mimetype: text/plain
+  scr-gsm.nfo:
+    mimetype: text/plain
+  scr-haven.nfo:
+    mimetype: text/plain
+  scr-igno.nfo:
+    mimetype: text/plain
+  scr-iph.nfo:
+    mimetype: text/plain
+  scr-rage.nfo:
+    mimetype: text/plain
+  scr-sauna.nfo:
+    mimetype: text/plain
+  scr-sky.nfo:
+    mimetype: text/plain
+  scr-stn.nfo:
+    mimetype: text/plain
+  scr-tsp.nfo:
+    mimetype: text/plain
+  scr-vace.nfo:
+    mimetype: text/plain
+  scr-vim.nfo:
+    mimetype: text/plain
+  scr-vlr.nfo:
+    mimetype: text/plain
+  w0-AGAIN.ASC:
+    mimetype: text/plain
+  w0-ESC.ASC:
+    mimetype: text/plain
+  w0-SACCIE.ANS:
+    mimetype: text/plain
+  w0-SCOUR.ASC:
+    mimetype: text/plain
+  w0-SLDR.png:
+    mimetype: image/png
+  w0-STRNG.ASC:
+    mimetype: text/plain
+  w0-VNG.ASC:
+    mimetype: text/plain
+  w0-elegance_1.png:
+    mimetype: image/png
+  w0-elegance_2.png:
+    mimetype: image/png
+  w0-pdz.png:
+    mimetype: image/png
+  w0-poop.ASC:
+    mimetype: text/plain
+  w0_dMG-boondocks.png:
+    mimetype: image/png

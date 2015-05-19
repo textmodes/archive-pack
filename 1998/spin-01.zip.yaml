@@ -1,0 +1,58 @@
+name: spin-01.zip
+hash: f5b2fc7d66d816440152d05b0045cf1b
+year: 1998
+file:
+  '#SPIN001.ANS':
+    mimetype: text/plain
+  (ZA)MAIN.ANS:
+    mimetype: text/plain
+  (ZA)SERI.ANS:
+    mimetype: text/plain
+  (ZA)SPIN.ANS:
+    mimetype: text/plain
+  AB-DUDE.ANS:
+    mimetype: text/plain
+  AB-SPIN.ANS:
+    mimetype: text/plain
+  AB-SPIN2.ANS:
+    mimetype: text/plain
+  AB-SPIN4.ANS:
+    mimetype: text/plain
+  AB-XZIP.ANS:
+    mimetype: text/plain
+  APPLY.DAT:
+    mimetype: audio/x-mod
+  ARX_FACE.ANS:
+    mimetype: text/plain
+  ARX_FLOW.ANS:
+    mimetype: text/plain
+  ARX_HEAD.ANS:
+    mimetype: text/plain
+  ARX_JODD.ASC:
+    mimetype: text/plain
+  DS-DA.ASC:
+    mimetype: text/plain
+  DS-DH.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  IPH-3K.ANS:
+    mimetype: text/plain
+  IPH-DD.ANS:
+    mimetype: text/plain
+  IPH-DUDE.ANS:
+    mimetype: text/plain
+  IPH-JPN.ANS:
+    mimetype: text/plain
+  IPH-SIL.ANS:
+    mimetype: text/plain
+  PPE-CP.ANS:
+    mimetype: text/plain
+  PPE-UP.ANS:
+    mimetype: text/plain
+  R7529S66.41P:
+    mimetype: text/plain
+  SPIN-APP.EXE:
+    mimetype: application/x-msdos-program
+  XZ-ZIP.ASC:
+    mimetype: text/plain

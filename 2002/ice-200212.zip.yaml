@@ -1,0 +1,74 @@
+name: ice-200212.zip
+hash: 260200f302cf2a549d9995329c9e4b8d
+year: 2002
+file:
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  artpacks.txt:
+    mimetype: text/plain
+  ax-ice.ice:
+    mimetype: text/plain
+  ax-ice.png:
+    mimetype: image/png
+  ax-ice2.ice:
+    mimetype: text/plain
+  ax-ice2.png:
+    mimetype: image/png
+  di-aliens.jpg:
+    mimetype: image/jpeg
+  di-knife.jpg:
+    mimetype: image/jpeg
+  dm-seether.jpg:
+    mimetype: image/jpeg
+  dm-wakeup.jpg:
+    mimetype: image/jpeg
+  favicon.ico:
+    mimetype: image/x-icon
+  hm-pessicave2.png:
+    mimetype: image/png
+  hm-scaffold.gif:
+    mimetype: image/gif
+  hm-spaceship.png:
+    mimetype: image/png
+  ice-200212.nfo:
+    mimetype: text/plain
+  ice-200212.nfo.png:
+    mimetype: image/png
+  interview-davinci.txt:
+    mimetype: text/plain
+  interview-davinci.txt.png:
+    mimetype: image/png
+  kg-mechaphonic_dreamings.jpg:
+    mimetype: image/jpeg
+  mi-death_amongst_life.jpg:
+    mimetype: image/jpeg
+  mi-islington.jpg:
+    mimetype: image/jpeg
+  mr-xmas.zip:
+    mimetype: application/zip
+  mr-xmas.zip.jpg:
+    mimetype: image/jpeg
+  pr-bedtimestories.jpg:
+    mimetype: image/jpeg
+  pr-tearified.jpg:
+    mimetype: image/jpeg
+  qz-coll2.ice:
+    mimetype: text/plain
+  qz-coll2.png:
+    mimetype: image/png
+  sa-kyrian_chronicles_page1.jpg:
+    mimetype: image/jpeg
+  sa-laiyos_in_medieval_armor.jpg:
+    mimetype: image/jpeg
+  spx-red_archer.jpg:
+    mimetype: image/jpeg
+  ss-rhaynew.jpg:
+    mimetype: image/jpeg
+  us-hi_on_ice.ice:
+    mimetype: text/plain
+  us-hi_on_ice.png:
+    mimetype: image/png
+  vc-books.jpg:
+    mimetype: image/jpeg
+  xb-spaceport_final.jpg:
+    mimetype: image/jpeg

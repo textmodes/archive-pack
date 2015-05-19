@@ -1,0 +1,72 @@
+name: acdu0193.zip
+hash: 5823b9f67ef0240c10721f25a05dfaa3
+year: 1993
+file:
+  ACDU0193.NFO:
+    mimetype: text/plain
+  ACID-93.EXE:
+    mimetype: application/x-msdos-program
+  ACID-RN.ANS:
+    mimetype: text/plain
+  ACID-SC2.ANS:
+    mimetype: text/plain
+  ACID93.ANS:
+    mimetype: text/plain
+  ACID93IM.ANS:
+    mimetype: text/plain
+  ACIDART.APL:
+    mimetype: application/octet-stream
+  ACIDCOUR.APL:
+    mimetype: text/plain
+  ACIDZN2.ANS:
+    mimetype: text/plain
+  BADLACD5.ANS:
+    mimetype: text/plain
+  CCIACID2.ANS:
+    mimetype: text/plain
+  CN2ACID.ANS:
+    mimetype: text/plain
+  DC4ACID1.ANS:
+    mimetype: text/plain
+  DINOFLT.ANS:
+    mimetype: text/plain
+  DSOCACD6.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FLT1-VN.EXE:
+    mimetype: application/x-msdos-program
+  FREDACID.EXE:
+    mimetype: application/x-msdos-program
+  MERC3ACD.ANS:
+    mimetype: text/plain
+  MHPACID1.ANS:
+    mimetype: text/plain
+  MHPACID2.ANS:
+    mimetype: text/plain
+  PHYDAM.EXE:
+    mimetype: application/x-msdos-program
+  PYRACID1.ANS:
+    mimetype: text/plain
+  SINACID1.ANS:
+    mimetype: text/plain
+  SOKACID2.ANS:
+    mimetype: text/plain
+  SOVACID1.ANS:
+    mimetype: text/plain
+  TDT-CE1.ANS:
+    mimetype: text/plain
+  TED2ACID.ANS:
+    mimetype: text/plain
+  TRIN-BR.ANS:
+    mimetype: text/plain
+  TRIN-RN.ANS:
+    mimetype: text/plain
+  UNIQ-ACD.ANS:
+    mimetype: text/plain
+  UT-ACID.ANS:
+    mimetype: text/plain
+  V2ACID01.ANS:
+    mimetype: text/plain
+  XAP1ACID.ANS:
+    mimetype: text/plain

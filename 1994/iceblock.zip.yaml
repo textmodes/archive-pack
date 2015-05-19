@@ -1,0 +1,12 @@
+name: iceblock.zip
+hash: 2e2759861c245bc6a5a08ddb16e3f687
+year: 1994
+file:
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  ICEBLOCK.TDF:
+    mimetype: application/octet-stream
+  INSTALL.TXT:
+    mimetype: text/plain
+  NEOTOKYO.ANS:
+    mimetype: text/plain

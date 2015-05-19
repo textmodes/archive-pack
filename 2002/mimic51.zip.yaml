@@ -1,0 +1,54 @@
+name: mimic51.zip
+hash: 0f4e10eba0d2f668812ae0fd9c5f785e
+year: 2002
+file:
+  begmore.txt:
+    mimetype: text/plain
+  bj-crab.jpg:
+    mimetype: image/jpeg
+  bjasc250.ans:
+    mimetype: text/plain
+  bne!smek.txt:
+    mimetype: text/plain
+  cd-crab.jpg:
+    mimetype: image/jpeg
+  cd-mmc.exe:
+    mimetype: application/x-msdos-program
+  cd-mmc.txt:
+    mimetype: text/plain
+  dk-ego.ans:
+    mimetype: text/plain
+  file_id.diz:
+    mimetype: text/plain
+  grm-home.asc:
+    mimetype: text/plain
+  h7-lanzo.asc:
+    mimetype: text/plain
+  jn-mmc18.txt:
+    mimetype: text/plain
+  jn-mmc22.ans:
+    mimetype: text/plain
+  jn-mmc24.ans:
+    mimetype: text/plain
+  jn-mmc51.diz:
+    mimetype: text/plain
+  jn-wax.ans:
+    mimetype: text/plain
+  k!flipp.asc:
+    mimetype: text/plain
+  members.ans:
+    mimetype: text/plain
+  mmc-dist.ans:
+    mimetype: text/plain
+  quotes51.txt:
+    mimetype: text/plain
+  tl-mmcca.asc:
+    mimetype: text/plain
+  us-unf.ans:
+    mimetype: text/plain
+  vp-hate.ans:
+    mimetype: text/plain
+  vp-mim.ans:
+    mimetype: text/plain
+  wk-avril.txt:
+    mimetype: text/plain

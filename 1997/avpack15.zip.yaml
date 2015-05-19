@@ -1,0 +1,52 @@
+name: avpack15.zip
+hash: e286ea80e5566d8a2f3dba097564777b
+year: 1997
+file:
+  -(ANSI)-:
+    mimetype: application/octet-stream
+  -(INFO)-:
+    mimetype: text/plain
+  -(MISC)-:
+    mimetype: text/plain
+  -(VGA)-:
+    mimetype: text/plain
+  AVVIEW.EXE:
+    mimetype: application/x-msdos-program
+  DS-ART02.ANS:
+    mimetype: text/plain
+  DS-BIG1.ANS:
+    mimetype: text/plain
+  DS.EXE:
+    mimetype: application/x-msdos-program
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FRG-MIDN.ANS:
+    mimetype: text/plain
+  GEN-CT!.JPG:
+    mimetype: image/jpeg
+  GEN-TK!.JPG:
+    mimetype: image/jpeg
+  MEMBER15.AV:
+    mimetype: text/plain
+  NB-COLLY.ANS:
+    mimetype: text/plain
+  NB-MDIAN.JPG:
+    mimetype: image/jpeg
+  NEWS15.AV:
+    mimetype: text/plain
+  REFRACT.EXE:
+    mimetype: application/x-msdos-program
+  VJ-ALPHA.JPG:
+    mimetype: image/jpeg
+  VJ-CYBLD.GIF:
+    mimetype: image/gif
+  VJ-FHHP1.JPG:
+    mimetype: image/jpeg
+  VJ-MDIAN.JPG:
+    mimetype: image/jpeg
+  VJ-RFRCT.JPG:
+    mimetype: image/jpeg
+  VJ-SHI01.GIF:
+    mimetype: image/gif
+  VJ-TOXIC.JPG:
+    mimetype: image/jpeg

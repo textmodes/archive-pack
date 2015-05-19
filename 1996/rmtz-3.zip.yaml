@@ -1,0 +1,58 @@
+name: rmtz-3.zip
+hash: f876585f7b189a22c2c82fd331c78116
+year: 1996
+file:
+  APPLY.FRM:
+    mimetype: text/plain
+  BCBOKZ.EXE:
+    mimetype: application/x-msdos-program
+  BISPACE.S3M:
+    mimetype: audio/x-mod
+  DARKSHAD.S3M:
+    mimetype: audio/x-mod
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FR-BCBOX.ANS:
+    mimetype: text/plain
+  FR-BITTE.LYR:
+    mimetype: text/plain
+  FR-DOORS.ANS:
+    mimetype: text/plain
+  FR-LYRIC.LYR:
+    mimetype: text/plain
+  FR-NOWAY.LYR:
+    mimetype: text/plain
+  GST-BW.ANS:
+    mimetype: text/plain
+  NVZ-DUF.ANS:
+    mimetype: text/plain
+  NVZ-GUY.ANS:
+    mimetype: text/plain
+  NVZ-INFO.ANS:
+    mimetype: text/plain
+  NVZ-INKA.ANS:
+    mimetype: text/plain
+  NVZ-KILL.ANS:
+    mimetype: text/plain
+  NVZ-LGO.ANS:
+    mimetype: text/plain
+  NVZ-MENU.ANS:
+    mimetype: text/plain
+  NVZ-MIND.ANS:
+    mimetype: text/plain
+  NVZ-NVZL.ANS:
+    mimetype: text/plain
+  NVZ-NVZS.ANS:
+    mimetype: text/plain
+  NVZ-RMTZ.ANS:
+    mimetype: text/plain
+  NVZ-SHAD.ANS:
+    mimetype: text/plain
+  SF-FBKL.ANS:
+    mimetype: text/plain
+  SF-FRESS.ANS:
+    mimetype: text/plain
+  SF-R.ANS:
+    mimetype: text/plain
+  SF-SEA.ANS:
+    mimetype: text/plain

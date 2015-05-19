@@ -1,0 +1,122 @@
+name: rmrs-12.zip
+hash: 8d5b1f2ed398f50f9cc690afd29bde41
+year: 1997
+file:
+  ACK-0697.ASC:
+    mimetype: text/plain
+  AXB-RMRS.ASC:
+    mimetype: text/plain
+  BDS-CNZ1.ASC:
+    mimetype: text/plain
+  BDS-FND1.ASC:
+    mimetype: text/plain
+  BDS-MF1.ASC:
+    mimetype: text/plain
+  BJ-ASC81.ANS:
+    mimetype: text/plain
+  BJ-ASC82.ANS:
+    mimetype: text/plain
+  BJ-ASC83.ANS:
+    mimetype: text/plain
+  BJ-ASC84.ANS:
+    mimetype: text/plain
+  C4-SIGN.ASC:
+    mimetype: text/plain
+  C4-WHOD.ASC:
+    mimetype: text/plain
+  CG-0697.ASC:
+    mimetype: text/plain
+  CG-ACID.DIZ:
+    mimetype: text/plain
+  CG-RMRS.ASC:
+    mimetype: text/plain
+  CG-RMRS2.ASC:
+    mimetype: text/plain
+  CH-EDEN2.ANS:
+    mimetype: text/plain
+  CN-P42.ASC:
+    mimetype: text/plain
+  CN-RMRS.ASC:
+    mimetype: text/plain
+  CN-SEKN.ASC:
+    mimetype: text/plain
+  CR-ASCII.ASC:
+    mimetype: text/plain
+  EN-RMRS.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  JAK-AVJ.ASC:
+    mimetype: text/plain
+  JAK-HDRS.ASC:
+    mimetype: text/plain
+  JAK-R81.ASC:
+    mimetype: text/plain
+  MK-CULT.ASC:
+    mimetype: text/plain
+  MK-NAM.TXT:
+    mimetype: text/plain
+  MK-OS.ASC:
+    mimetype: text/plain
+  MT-HIGH.ASC:
+    mimetype: text/plain
+  NM-MNY.ASC:
+    mimetype: text/plain
+  NM-RMS1.ASC:
+    mimetype: text/plain
+  NN-PM.ASC:
+    mimetype: text/plain
+  NU-KWEST.ASC:
+    mimetype: text/plain
+  PK-RMRS.ASC:
+    mimetype: text/plain
+  R-EDEN.TXT:
+    mimetype: text/plain
+  R-MHZHEU.TXT:
+    mimetype: text/plain
+  R-MHZTGF.TXT:
+    mimetype: text/plain
+  R-MONEY.TXT:
+    mimetype: text/plain
+  R-TMI.TXT:
+    mimetype: text/plain
+  REMORSE.NFO:
+    mimetype: text/plain
+  RV.CFG:
+    mimetype: text/plain
+  RV.EXE:
+    mimetype: application/x-msdos-program
+  SI-GEOM1.ASC:
+    mimetype: text/plain
+  SP-NAKED.ASC:
+    mimetype: text/plain
+  SPR-RMS5.ASC:
+    mimetype: text/plain
+  SV2-PRM.TXT:
+    mimetype: text/plain
+  T2-IOM.ASC:
+    mimetype: text/plain
+  T2-IOM1.ANS:
+    mimetype: text/plain
+  T2-IOM2.ASC:
+    mimetype: text/plain
+  T2-NM1.ANS:
+    mimetype: text/plain
+  T2-RZR.ASC:
+    mimetype: text/plain
+  TM-GROUP.ASC:
+    mimetype: text/plain
+  TM-MCI.ASC:
+    mimetype: text/plain
+  TM-VDR.ASC:
+    mimetype: text/plain
+  US-BLNDR.ASC:
+    mimetype: text/plain
+  US-GLAND.ASC:
+    mimetype: text/plain
+  US-RMRS.ASC:
+    mimetype: text/plain
+  XA-BH.ASC:
+    mimetype: text/plain
+  XA-PRD.ASC:
+    mimetype: text/plain

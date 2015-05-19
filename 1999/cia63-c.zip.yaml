@@ -1,0 +1,30 @@
+name: cia63-c.zip
+hash: 511c4763d34fb44892dcf0d2979f376a
+year: 1999
+file:
+  '---ETC--.---':
+    mimetype: text/plain
+  --CNTD--.---:
+    mimetype: text/plain
+  --INFO--.---:
+    mimetype: text/plain
+  --more--.---:
+    mimetype: text/plain
+  -HIRES--.---:
+    mimetype: text/plain
+  0599info.cia:
+    mimetype: text/plain
+  0599memb.cia:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  ik_trmac.jpg:
+    mimetype: image/jpeg
+  ik_trvoc.jpg:
+    mimetype: image/jpeg
+  na_ele99.jpg:
+    mimetype: image/jpeg
+  pk_dark2.jpg:
+    mimetype: image/jpeg
+  sp_vict.jpg:
+    mimetype: image/jpeg

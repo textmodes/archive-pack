@@ -1,0 +1,40 @@
+name: out-0896.zip
+hash: 55c3e340a97e0e085f1c9ff218f1b48c
+year: 1996
+file:
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  OA-BEACN.RIP:
+    mimetype: image/x-rip
+  OA-BMAN.RIP:
+    mimetype: image/x-rip
+  OA-BNITE.ANS:
+    mimetype: text/plain
+  OA-BOBA.RIP:
+    mimetype: image/x-rip
+  OA-HULK.RIP:
+    mimetype: image/x-rip
+  OA-LION.ANS:
+    mimetype: text/plain
+  OA-LITE.ANS:
+    mimetype: text/plain
+  OA-LITE.RIP:
+    mimetype: image/x-rip
+  OA-PLAGE.RIP:
+    mimetype: image/x-rip
+  OA-REDG.ANS:
+    mimetype: text/plain
+  OA-SLAUT.RIP:
+    mimetype: image/x-rip
+  OA-UDARK.ANS:
+    mimetype: text/plain
+  OA-WIBL.ANS:
+    mimetype: text/plain
+  OUT-DIST.ANS:
+    mimetype: text/plain
+  OUT-DIST.RIP:
+    mimetype: image/x-rip
+  OUT-DIST.TXT:
+    mimetype: text/plain
+  OUT.AD:
+    mimetype: text/plain

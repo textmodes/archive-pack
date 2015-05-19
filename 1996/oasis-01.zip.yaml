@@ -1,0 +1,106 @@
+name: oasis-01.zip
+hash: 69a10161bcd8e4369dc4e774e1d22b0e
+year: 1996
+file:
+  0ASIS-01.LGO:
+    mimetype: text/plain
+  0ASIS-02.LGO:
+    mimetype: text/plain
+  0ASIS-03.LGO:
+    mimetype: text/plain
+  BASS-X!.EXE:
+    mimetype: application/x-msdos-program
+  BIO-DC1.ASC:
+    mimetype: text/plain
+  BIO-MD1.ANS:
+    mimetype: text/plain
+  BIO-MD2.ANS:
+    mimetype: text/plain
+  BIO-MD3.ASC:
+    mimetype: text/plain
+  BZ-HOLE.ASC:
+    mimetype: text/plain
+  CN-GY.ASC:
+    mimetype: text/plain
+  CN-IOM.ASC:
+    mimetype: text/plain
+  CN-QUAD1.ASC:
+    mimetype: text/plain
+  CN-RILE1.ASC:
+    mimetype: text/plain
+  CN-SAND.ASC:
+    mimetype: text/plain
+  CN-SCUM1.ASC:
+    mimetype: text/plain
+  DAWN.RED:
+    mimetype: text/plain
+  FB-ATR1.ANS:
+    mimetype: text/plain
+  FB-COLY1.ANS:
+    mimetype: text/plain
+  FB-DRMN1.ASC:
+    mimetype: text/plain
+  FB-EMP1.ASC:
+    mimetype: text/plain
+  FB-OE1.ANS:
+    mimetype: text/plain
+  FELONY-0.BBS:
+    mimetype: text/plain
+  FELONY-1.BBS:
+    mimetype: text/plain
+  FELONY-2.BBS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FP-FEL01.ANS:
+    mimetype: text/plain
+  FP-HOS01.ANS:
+    mimetype: text/plain
+  FP-NEO01.ANS:
+    mimetype: text/plain
+  FP-SAND1.ANS:
+    mimetype: text/plain
+  HALLU1ST.COM:
+    mimetype: application/x-msdos-program
+  HP-OSS1.ASC:
+    mimetype: text/plain
+  LOI-OASI.ANS:
+    mimetype: text/plain
+  ME-BOOG.ANS:
+    mimetype: text/plain
+  ME-HOOG.ANS:
+    mimetype: text/plain
+  OASIS-01.MEM:
+    mimetype: text/plain
+  OASIS-01.NFO:
+    mimetype: text/plain
+  OASIS-01.RUL:
+    mimetype: text/plain
+  OASIS-01.SIT:
+    mimetype: text/plain
+  SP-ESP.ASC:
+    mimetype: text/plain
+  SP-SONN.ASC:
+    mimetype: text/plain
+  TF-ACME.ASC:
+    mimetype: text/plain
+  TF-CMETH.ASC:
+    mimetype: text/plain
+  TF-CONF.ASC:
+    mimetype: text/plain
+  TF-DESC.ASC:
+    mimetype: text/plain
+  TF-KAOS.ASC:
+    mimetype: text/plain
+  TF-NIB.ASC:
+    mimetype: text/plain
+  TF-PAIN.ASC:
+    mimetype: text/plain
+  TH-AOP.ANS:
+    mimetype: text/plain
+  TH-TTH.ANS:
+    mimetype: text/plain
+  WE-TRIP.ASC:
+    mimetype: text/plain
+  WT-TGC01.ANS:
+    mimetype: text/plain

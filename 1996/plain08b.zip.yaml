@@ -1,0 +1,30 @@
+name: plain08b.zip
+hash: a8a733aaa4f61fbfabbd2593c80c4706
+year: 1996
+file:
+  (!)INFO:
+    mimetype: text/plain
+  (#)HIREZ:
+    mimetype: text/plain
+  (^)EXTRA:
+    mimetype: text/plain
+  (YOURS):
+    mimetype: text/plain
+  55-01.GIF:
+    mimetype: image/gif
+  55-02.GIF:
+    mimetype: image/gif
+  55-03.GIF:
+    mimetype: image/gif
+  DK-01.JPG:
+    mimetype: image/jpeg
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  INFO.01:
+    mimetype: text/plain
+  INFO.02:
+    mimetype: text/plain
+  SR-01.GIF:
+    mimetype: image/gif
+  SR-02.GIF:
+    mimetype: image/gif

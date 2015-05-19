@@ -1,0 +1,34 @@
+name: df2pack3.zip
+hash: c4bb9cc2ac02b452f2ca273001d3d755
+year: 1999
+file:
+  df2.exe:
+    mimetype: application/x-msdos-program
+  df2d.nfo:
+    mimetype: text/plain
+  parody-toor_extremis_1.jpg:
+    mimetype: image/jpeg
+  parody-toor_extremis_2.jpg:
+    mimetype: image/jpeg
+  parody-toor_extremis_3.jpg:
+    mimetype: image/jpeg
+  parody-town1001.jpg:
+    mimetype: image/jpeg
+  raven-defacto_2_promotional_1.jpg:
+    mimetype: image/jpeg
+  raven-defacto_2_promotional_2.jpg:
+    mimetype: image/jpeg
+  raven-planet_x.jpg:
+    mimetype: image/jpeg
+  raven-power.jpg:
+    mimetype: image/jpeg
+  raven-space.jpg:
+    mimetype: image/jpeg
+  raven-untitled.jpg:
+    mimetype: image/jpeg
+  scorpio-defacto_2_promotional.jpg:
+    mimetype: image/jpeg
+  scorpio-untitled.jpg:
+    mimetype: image/jpeg
+  seffren-defacto_2_promotional.jpg:
+    mimetype: image/jpeg

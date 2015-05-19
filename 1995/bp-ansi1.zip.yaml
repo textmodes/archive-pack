@@ -1,0 +1,40 @@
+name: bp-ansi1.zip
+hash: fff14ba4c8e6ea4f887107bf5e344107
+year: 1995
+file:
+  AC-BIO01.ANS:
+    mimetype: text/plain
+  BIP.APP:
+    mimetype: text/plain
+  BIPINFO.TXT:
+    mimetype: text/plain
+  DEFIANCE.NFO:
+    mimetype: text/plain
+  DFR-ID01.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  MV.DOC:
+    mimetype: text/plain
+  MV.EXE:
+    mimetype: application/x-msdos-program
+  OTQ.DOC:
+    mimetype: text/plain
+  SUMMONER.EXE:
+    mimetype: application/x-msdos-program
+  TK-BIO01.ANS:
+    mimetype: text/plain
+  TK-BIO02.ANS:
+    mimetype: text/plain
+  TM-HQ01.ANS:
+    mimetype: text/plain
+  TM-HQ02.ANS:
+    mimetype: text/plain
+  TM-HQ03.ANS:
+    mimetype: text/plain
+  TM-HQ04.ANS:
+    mimetype: text/plain
+  TM-HQ05.ANS:
+    mimetype: text/plain
+  XVY.COM:
+    mimetype: application/x-msdos-program

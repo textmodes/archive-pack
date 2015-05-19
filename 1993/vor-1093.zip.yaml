@@ -1,0 +1,56 @@
+name: vor-1093.zip
+hash: 10d7dfd2cce5a6779099c2883f70ae52
+year: 1993
+file:
+  '!DW-VISN.EXE':
+    mimetype: application/x-msdos-program
+  !!binary +UdJRlP5:
+    mimetype: text/plain
+  !!binary +U5GT1P5:
+    mimetype: text/plain
+  !!binary +VZHQSdT+Q==:
+    mimetype: text/plain
+  APPLIC.NFO:
+    mimetype: text/plain
+  DW&IT-ER.EXE:
+    mimetype: application/x-msdos-program
+  DW&MH-LD.EXE:
+    mimetype: application/x-msdos-program
+  DW-DEEP.EXE:
+    mimetype: application/x-msdos-program
+  DW-END.EXE:
+    mimetype: application/x-msdos-program
+  DW-KILL.EXE:
+    mimetype: application/x-msdos-program
+  DW-LGHT.EXE:
+    mimetype: application/x-msdos-program
+  DW-NEG.EXE:
+    mimetype: application/x-msdos-program
+  DW-TOXIC.EXE:
+    mimetype: application/x-msdos-program
+  GR-VOR.GIF:
+    mimetype: image/gif
+  IT-EXP.EXE:
+    mimetype: application/x-msdos-program
+  IT-UC1.EXE:
+    mimetype: application/x-msdos-program
+  MH-ABDCT.EXE:
+    mimetype: application/x-msdos-program
+  MH-ARMA.EXE:
+    mimetype: application/x-msdos-program
+  MH-EVIL.EXE:
+    mimetype: application/x-msdos-program
+  MH-ROSBL.EXE:
+    mimetype: application/x-msdos-program
+  MH-TCHNO.EXE:
+    mimetype: application/x-msdos-program
+  MS-WOLFN.GIF:
+    mimetype: image/gif
+  NEOTOKYO.ANS:
+    mimetype: text/plain
+  VM-UNDER.GIF:
+    mimetype: image/gif
+  VOR-PACK.NFO:
+    mimetype: text/plain
+  WM-VOR.EXE:
+    mimetype: application/x-msdos-program

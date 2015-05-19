@@ -1,0 +1,60 @@
+name: pixel#1.zip
+hash: 5ea07a3e47af428e653372d46037dd9c
+year: 1994
+file:
+  0394PIXL.NFO:
+    mimetype: text/plain
+  AK-AZ1.PXL:
+    mimetype: text/plain
+  AK-FB1.PXL:
+    mimetype: text/plain
+  AK-NI4.PXL:
+    mimetype: text/plain
+  AK-PIX1.PXL:
+    mimetype: text/plain
+  AK-TLF7.PXL:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FUL-MODS.ZIP:
+    mimetype: application/zip
+  HK-LOP1.PXL:
+    mimetype: text/plain
+  HK-PIX1.PXL:
+    mimetype: text/plain
+  HK-PIX2.PXL:
+    mimetype: text/plain
+  HK-PIX3.PXL:
+    mimetype: text/plain
+  HK-SS.PXL:
+    mimetype: text/plain
+  HK-SZTDS.PXL:
+    mimetype: text/plain
+  MEM-LIST.PXL:
+    mimetype: text/plain
+  MUL-CA1.PXL:
+    mimetype: text/plain
+  NEOTOKYO.ANS:
+    mimetype: text/plain
+  NOS-LOP.GIF:
+    mimetype: image/gif
+  NOS-MEM.GIF:
+    mimetype: image/gif
+  NOS-TVL.GIF:
+    mimetype: image/gif
+  NOS-VAMP.PXL:
+    mimetype: text/plain
+  PIXELAPP.EXE:
+    mimetype: application/x-msdos-program
+  PIXLVIEW.EXE:
+    mimetype: application/x-msdos-program
+  QT-PIXEL.GIF:
+    mimetype: image/gif
+  SW-LOP.PXL:
+    mimetype: text/plain
+  SW-SHDRN.PXL:
+    mimetype: text/plain
+  SW-TDS.PXL:
+    mimetype: text/plain
+  WARN.STD:
+    mimetype: text/plain

@@ -1,0 +1,92 @@
+name: mimic28.zip
+hash: 3bc3d45c2af655d85fa7a6da4f2bbd2b
+year: 2000
+file:
+  aetrobp.asc:
+    mimetype: text/plain
+  armylif3.txt:
+    mimetype: text/plain
+  bjasc196.ans:
+    mimetype: text/plain
+  bjasc204.ans:
+    mimetype: text/plain
+  bjasc205.ans:
+    mimetype: text/plain
+  dr-hdock.ans:
+    mimetype: text/plain
+  dr-ko.ans:
+    mimetype: text/plain
+  dr-pika.ans:
+    mimetype: text/plain
+  dwf-pois.txt:
+    mimetype: text/plain
+  dwf-waz.asc:
+    mimetype: text/plain
+  dwf-with.txt:
+    mimetype: text/plain
+  en-grbla.asc:
+    mimetype: text/plain
+  file_id.diz:
+    mimetype: text/plain
+  grm-inzo.asc:
+    mimetype: text/plain
+  jn-final.ans:
+    mimetype: text/plain
+  jn-frank.ans:
+    mimetype: text/plain
+  kpn-shiz.ans:
+    mimetype: text/plain
+  members.ans:
+    mimetype: text/plain
+  nas-rdlf.asc:
+    mimetype: text/plain
+  nas-win.asc:
+    mimetype: text/plain
+  no-done.ans:
+    mimetype: text/plain
+  no-drop.asc:
+    mimetype: text/plain
+  no-riven.txt:
+    mimetype: text/plain
+  res.txt:
+    mimetype: text/plain
+  rko-asix.asc:
+    mimetype: text/plain
+  rko-bsec.asc:
+    mimetype: text/plain
+  rko-eiln.asc:
+    mimetype: text/plain
+  rko-flap.asc:
+    mimetype: text/plain
+  rko-fukx.asc:
+    mimetype: text/plain
+  rko-jan3.asc:
+    mimetype: text/plain
+  rko-lcdx.bin:
+    mimetype: application/octet-stream
+  rko-mcfz.asc:
+    mimetype: text/plain
+  rko-pr0z.asc:
+    mimetype: text/plain
+  rko-yoot.asc:
+    mimetype: text/plain
+  t&d-mmc.asc:
+    mimetype: text/plain
+  tb-chex.rmx:
+    mimetype: text/plain
+  tb-cl9.bin:
+    mimetype: application/octet-stream
+  tb-colly.ans:
+    mimetype: text/plain
+  truck.txt:
+    mimetype: text/plain
+  us-bps.asc:
+    mimetype: text/plain
+  us-mcr.asc:
+    mimetype: text/plain
+  us-neil.asc:
+    mimetype: text/plain
+  zs-down.ans:
+    mimetype: text/plain
+  zs@lie.ans:
+    mimetype: text/plain

@@ -1,0 +1,62 @@
+name: dlc-04.zip
+hash: 08966f8f714f5c7adf3cdf7223758610
+year: 1999
+file:
+  AMIGA/DEMO02.FNT:
+    mimetype: application/octet-stream
+  AMIGA/FONTLOAD.COM:
+    mimetype: application/x-msdos-program
+  AMIGA/HA-TRUST.ANS:
+    mimetype: text/plain
+  ANSI/A-S.ASC:
+    mimetype: text/plain
+  ANSI/DLC.ANS:
+    mimetype: text/plain
+  ANSI/MUSHROOM.ANS:
+    mimetype: text/plain
+  ANSI/NUKE.ANS:
+    mimetype: text/plain
+  ANSI/PLASTIC.ASC:
+    mimetype: text/plain
+  ANSI/SKATE.ASC:
+    mimetype: text/plain
+  ANSI/VIRTUAL.ANS:
+    mimetype: text/plain
+  DLC.REG:
+    mimetype: application/octet-stream
+  DLC_INFO.EXE:
+    mimetype: application/x-msdos-program
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  STARLITE.BRD:
+    mimetype: application/octet-stream
+  VGA/BALON.GIF:
+    mimetype: image/gif
+  VGA/DLC.JPG:
+    mimetype: image/jpeg
+  VGA/EXC-SBTH.JPG:
+    mimetype: image/jpeg
+  VGA/HACK.GIF:
+    mimetype: image/gif
+  VGA/HIP-HOP.JPG:
+    mimetype: image/jpeg
+  VGA/HOLE.JPG:
+    mimetype: image/jpeg
+  VGA/J-GIRL.JPG:
+    mimetype: image/jpeg
+  VGA/LSD.GIF:
+    mimetype: image/gif
+  VGA/MCM-FCL1.JPG:
+    mimetype: image/jpeg
+  VGA/MCM-FCL2.JPG:
+    mimetype: image/jpeg
+  VGA/MCM-FCL3.JPG:
+    mimetype: image/jpeg
+  VGA/MCM-FRZN.JPG:
+    mimetype: image/jpeg
+  VGA/MCM-GLXY.JPG:
+    mimetype: image/jpeg
+  VGA/MCM-LOGO.GIF:
+    mimetype: image/gif
+  VGA/MCM-SUNS.JPG:
+    mimetype: image/jpeg

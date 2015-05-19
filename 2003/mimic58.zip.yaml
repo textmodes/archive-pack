@@ -1,0 +1,34 @@
+name: mimic58.zip
+hash: 7e60116455d33349d001b40eabf019f8
+year: 2003
+file:
+  amiga.com:
+    mimetype: application/x-msdos-program
+  file_id.diz:
+    mimetype: text/plain
+  h4-mmcwp.ans:
+    mimetype: text/plain
+  h7-mmc58.asc:
+    mimetype: text/plain
+  h7-mninj.ans:
+    mimetype: text/plain
+  jn-jamm.ans:
+    mimetype: text/plain
+  jn-rph.ans:
+    mimetype: text/plain
+  members.asc:
+    mimetype: text/plain
+  ozz-mimc.asc:
+    mimetype: text/plain
+  pc.com:
+    mimetype: application/x-msdos-program
+  quotes58.txt:
+    mimetype: text/plain
+  readme.txt:
+    mimetype: text/plain
+  us-ink.ans:
+    mimetype: text/plain
+  vlz2asci.asc:
+    mimetype: text/plain
+  vlzrdius.asc:
+    mimetype: text/plain

@@ -1,0 +1,82 @@
+name: pds-007.zip
+hash: 97aa9fa344a27f1b8ac0440750eeabc6
+year: 1996
+file:
+  BE-001AC.ASC:
+    mimetype: text/plain
+  BE-001AN.ANS:
+    mimetype: text/plain
+  BE-STULS.ANS:
+    mimetype: text/plain
+  CO-HULK.PCX:
+    mimetype: image/pcx
+  CO-VENOM.PCX:
+    mimetype: image/pcx
+  DN-#7.ASC:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  INFO007.ANS:
+    mimetype: text/plain
+  LA-AW.ANS:
+    mimetype: text/plain
+  LA-IR.ANS:
+    mimetype: text/plain
+  LA-MEDIS.ANS:
+    mimetype: text/plain
+  MG-DEROW.ANS:
+    mimetype: text/plain
+  MG-SUNS2.JPG:
+    mimetype: image/jpeg
+  MI-AWAVE.ANS:
+    mimetype: text/plain
+  MI-BUBBL.JPG:
+    mimetype: image/jpeg
+  MI-DJOFF.ANS:
+    mimetype: text/plain
+  MI-INSAN.ANS:
+    mimetype: text/plain
+  MI-MPIR2.ANS:
+    mimetype: text/plain
+  MI-MPIRE.ANS:
+    mimetype: text/plain
+  MI-TOODY.ANS:
+    mimetype: text/plain
+  MI-WARP.JPG:
+    mimetype: image/jpeg
+  MSO-$.ASC:
+    mimetype: text/plain
+  MSO-DD.ASC:
+    mimetype: text/plain
+  MSO-OTH.ASC:
+    mimetype: text/plain
+  MSO-POR.ASC:
+    mimetype: text/plain
+  NEWS004.ANS:
+    mimetype: text/plain
+  OB-#7.ANS:
+    mimetype: text/plain
+  OB-#7.ASC:
+    mimetype: text/plain
+  R@ALLTIM.ANS:
+    mimetype: text/plain
+  R@ARTW-1.ANS:
+    mimetype: text/plain
+  R@ARTW-2.ANS:
+    mimetype: text/plain
+  R@ASIGN.ANS:
+    mimetype: text/plain
+  R@LYNX-1.ANS:
+    mimetype: text/plain
+  R@LYNX-2.ANS:
+    mimetype: text/plain
+  R@LYNX-3.ANS:
+    mimetype: text/plain
+  R@NEWS.ANS:
+    mimetype: text/plain
+  R@ONELIN.ANS:
+    mimetype: text/plain
+  R@POSTER.ANS:
+    mimetype: text/plain
+  R@STULT.ANS:
+    mimetype: text/plain

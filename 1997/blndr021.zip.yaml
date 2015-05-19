@@ -1,0 +1,46 @@
+name: blndr021.zip
+hash: 1fa2df5e9b268f7dd6ac5bd6d0728c18
+year: 1997
+file:
+  '--------.---':
+    mimetype: text/plain
+  BLENDER.021:
+    mimetype: text/plain
+  BLENDER.HOF:
+    mimetype: text/plain
+  BLENDER.NFO:
+    mimetype: text/plain
+  BLENDER.SUP:
+    mimetype: text/plain
+  ESC!-004.ZIP:
+    mimetype: application/zip
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GK-BLN21.ANS:
+    mimetype: text/plain
+  HB-KRMIT.TXT:
+    mimetype: text/plain
+  JG-KERM.ANS:
+    mimetype: text/plain
+  KERMI.JPG:
+    mimetype: image/jpeg
+  KERMIT.TXT:
+    mimetype: text/plain
+  KYO-KERM.JPG:
+    mimetype: image/jpeg
+  LE-KERM.ANS:
+    mimetype: text/plain
+  M4-BLNDR.ZIP:
+    mimetype: application/zip
+  MFS-BL21.ZIP:
+    mimetype: application/zip
+  SRL-B21.ANS:
+    mimetype: text/plain
+  SRL3-B21.ASC:
+    mimetype: text/plain
+  TEAM-CIA.ANS:
+    mimetype: text/plain
+  US-KERM.ANS:
+    mimetype: text/plain
+  US-KERMT.S3M:
+    mimetype: audio/x-mod

@@ -1,0 +1,46 @@
+name: mdn-9611.zip
+hash: 856c5935a94e0334d3ba668551db4d9c
+year: 1996
+file:
+  BB-MDN01.ASC:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  MDN-9611.NFO:
+    mimetype: text/plain
+  MDN-APP.EXE:
+    mimetype: application/x-msdos-program
+  NEWS9611.NFO:
+    mimetype: text/plain
+  P8-KART.ASC:
+    mimetype: text/plain
+  P8-MDN1.ASC:
+    mimetype: text/plain
+  P8-PRAGE.ASC:
+    mimetype: text/plain
+  RS-BLAS2.ANS:
+    mimetype: text/plain
+  RS-BLAST.ANS:
+    mimetype: text/plain
+  RS-BREAL.ANS:
+    mimetype: text/plain
+  RS-CENOB.ANS:
+    mimetype: text/plain
+  RS-HELLB.ANS:
+    mimetype: text/plain
+  RS-HOLOH.ANS:
+    mimetype: text/plain
+  RS-IDT.ANS:
+    mimetype: text/plain
+  RS-MAIDX.ANS:
+    mimetype: text/plain
+  RS-RAVEN.ANS:
+    mimetype: text/plain
+  RS-TMNT.ANS:
+    mimetype: text/plain
+  RS-TRUEL.ANS:
+    mimetype: text/plain
+  RS-WILD.ANS:
+    mimetype: text/plain
+  SS-MDNO1.ANS:
+    mimetype: text/plain

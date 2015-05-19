@@ -1,0 +1,66 @@
+name: m-9805-b.zip
+hash: d024a0f0c634f602870046f50b936950
+year: 1998
+file:
+  !!binary +lZHQS76+g==:
+    mimetype: text/plain
+  CCI-025.ARJ:
+    mimetype: application/arj
+  DM-ICEMI.JPG:
+    mimetype: image/jpeg
+  DM-STARI.JPG:
+    mimetype: image/jpeg
+  DO-LIGHT.JPG:
+    mimetype: image/jpeg
+  DO-RELA.GIF:
+    mimetype: image/gif
+  DO-TIR.JPG:
+    mimetype: image/jpeg
+  ED-CIZB.JPG:
+    mimetype: image/jpeg
+  ED-DEEP.JPG:
+    mimetype: image/jpeg
+  EW-INNER.JPG:
+    mimetype: image/jpeg
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GOLDVIEW.ZIP:
+    mimetype: application/zip
+  INF-ATT.JPG:
+    mimetype: image/jpeg
+  INF-DALE.JPG:
+    mimetype: image/jpeg
+  INF-HANG.JPG:
+    mimetype: image/jpeg
+  KITSCH30.ZIP:
+    mimetype: application/zip
+  KYO-LC1.JPG:
+    mimetype: image/jpeg
+  M-9805.MEM:
+    mimetype: text/plain
+  M-9805.NFO:
+    mimetype: text/plain
+  MSTAPP20.ZIP:
+    mimetype: application/zip
+  ONX_HUMN.JPG:
+    mimetype: image/jpeg
+  ONX_NINJ.JPG:
+    mimetype: image/jpeg
+  ONX_NKD2.JPG:
+    mimetype: image/jpeg
+  ONX_WIND.JPG:
+    mimetype: image/jpeg
+  ONX_WND2.JPG:
+    mimetype: image/jpeg
+  PV-MIST0.JPG:
+    mimetype: image/jpeg
+  SP-ANGEL.JPG:
+    mimetype: image/jpeg
+  SPI-LOOK.JPG:
+    mimetype: image/jpeg
+  WE-CDM1.JPG:
+    mimetype: image/jpeg
+  WE-ECC1.JPG:
+    mimetype: image/jpeg
+  WE-LOK3.JPG:
+    mimetype: image/jpeg

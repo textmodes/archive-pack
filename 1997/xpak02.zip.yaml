@@ -1,0 +1,30 @@
+name: xpak02.zip
+hash: 7e76b01172ff3b70759a524215900c4a
+year: 1997
+file:
+  AY-SPR~1.JPG:
+    mimetype: image/jpeg
+  CS-BETT1.JPG:
+    mimetype: image/jpeg
+  CS-GENIT.JPG:
+    mimetype: image/jpeg
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  MI_XPAK2.GIF:
+    mimetype: image/gif
+  SKY32V3C.DLL:
+    mimetype: application/x-dosexec
+  US-XPAK2.JPG:
+    mimetype: image/jpeg
+  WC-X1.JPG:
+    mimetype: image/jpeg
+  XPAK2.NFO:
+    mimetype: text/plain
+  XVIEW.EXE:
+    mimetype: application/x-msdos-program
+  XVIEW.ICO:
+    mimetype: image/x-icon
+  XVIEW.NFO:
+    mimetype: text/plain
+  XVIEW.RTF:
+    mimetype: text/rtf

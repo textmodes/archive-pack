@@ -1,0 +1,44 @@
+name: fdr-01.zip
+hash: 8fc605938d6c5a659995700256ad633d
+year: 2012
+file:
+  CL!-BIC.ANS:
+    mimetype: text/plain
+  CL!-FDR.ANS:
+    mimetype: text/plain
+  CL!-GO10.ANS:
+    mimetype: text/plain
+  CL!-GOTO.ANS:
+    mimetype: text/plain
+  CL!-HB.ANS:
+    mimetype: text/plain
+  CL!-HORI.ANS:
+    mimetype: text/plain
+  FDR-01.MEM:
+    mimetype: text/plain
+  FDR-01.NFO:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  SYL-EVKE.ANS:
+    mimetype: text/plain
+  SYL-K7.ANS:
+    mimetype: text/plain
+  SYL-MEGA.ANS:
+    mimetype: text/plain
+  SYL-NOEL.ANS:
+    mimetype: text/plain
+  SYL-NYAN.ANS:
+    mimetype: text/plain
+  SYL-SNTX.ANS:
+    mimetype: text/plain
+  SYL-STRT.ANS:
+    mimetype: text/plain
+  SYL-TRCK.ANS:
+    mimetype: text/plain
+  SYL-XMAS.ANS:
+    mimetype: text/plain
+  US-EVO11.ANS:
+    mimetype: text/plain
+  US-TRS12.ANS:
+    mimetype: text/plain

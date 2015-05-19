@@ -1,0 +1,88 @@
+name: mxtpack7.zip
+hash: 6b70aa44b3959cb926a7b4c6cd34c611
+year: 2002
+file:
+  ASCII/MXT-AFH.ASC:
+    mimetype: text/plain
+  ASCII/MXT-CBR.ASC:
+    mimetype: text/plain
+  ASCII/MXT-CDR.ASC:
+    mimetype: text/plain
+  ASCII/MXT-DFX.ASC:
+    mimetype: text/plain
+  ASCII/MXT-DLD.ASC:
+    mimetype: text/plain
+  ASCII/MXT-IMOA.ASC:
+    mimetype: text/plain
+  ASCII/MXT-MOFO.ASC:
+    mimetype: text/plain
+  ASCII/MXT-NFC.ASC:
+    mimetype: text/plain
+  ASCII/MXT-NITR.ASC:
+    mimetype: text/plain
+  ASCII/MXT-PHX.ASC:
+    mimetype: text/plain
+  ASCII/MXT-PHX.DIZ:
+    mimetype: text/plain
+  ASCII/MXT-PP1.ASC:
+    mimetype: text/plain
+  ASCII/MXT-PRA.DIZ:
+    mimetype: text/plain
+  ASCII/MXT-SEM.ASC:
+    mimetype: text/plain
+  ASCII/MXT-TPC.ASC:
+    mimetype: text/plain
+  HIREZ/mxt-ADMiSO-wallpapper.jpg:
+    mimetype: image/jpeg
+  HIREZ/mxt-Nitrus-keygen-skin.jpg:
+    mimetype: image/jpeg
+  HIREZ/mxt-bytescrk-tsrh-logo1.jpg:
+    mimetype: image/jpeg
+  HIREZ/mxt-darkstah-logo.jpg:
+    mimetype: image/jpeg
+  HIREZ/mxt-enigma-logo.gif:
+    mimetype: image/gif
+  HIREZ/mxt-fivestar-installer-main.jpg:
+    mimetype: image/jpeg
+  HIREZ/mxt-fivestar-logo-flag.gif:
+    mimetype: image/gif
+  HIREZ/mxt-fivestar-logo1.gif:
+    mimetype: image/gif
+  HIREZ/mxt-frenzys-place-logo.gif:
+    mimetype: image/gif
+  HIREZ/mxt-justphun-tsrh-logo.jpg:
+    mimetype: image/jpeg
+  HIREZ/mxt-nero-tsrh-logo.gif:
+    mimetype: image/gif
+  HIREZ/mxt-spate-tsrh-logo.gif:
+    mimetype: image/gif
+  HIREZ/mxt-team-phoenix-logo.gif:
+    mimetype: image/gif
+  HIREZ/mxt-wootz-logo-simple.gif:
+    mimetype: image/gif
+  HIREZ/mxt-wootz-logo.jpg:
+    mimetype: image/jpeg
+  ICONS/mxt-core-gray-256.ico:
+    mimetype: image/x-icon
+  ICONS/mxt-core-gray-symbol-256.ico:
+    mimetype: image/x-icon
+  ICONS/mxt-core-green-winxp.ico:
+    mimetype: image/x-icon
+  ICONS/mxt-core-orange-winxp.ico:
+    mimetype: image/x-icon
+  ICONS/mxt-core-violet-winxp.ico:
+    mimetype: image/x-icon
+  ICONS/mxt-cro-bloody-winxp.ico:
+    mimetype: image/x-icon
+  ICONS/mxt-cro-orange-winxp.ico:
+    mimetype: image/x-icon
+  ICONS/mxt-hdlm-installer-main1.ico:
+    mimetype: image/x-icon
+  ICONS/mxt-hdlm-installer-main2.ico:
+    mimetype: image/x-icon
+  ICONS/mxt-hdlm-installer-main3.ico:
+    mimetype: image/x-icon
+  ICONS/mxt-ret-icon-main.ico:
+    mimetype: image/x-icon
+  MAXXTRO.NFO:
+    mimetype: text/plain

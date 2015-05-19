@@ -1,0 +1,56 @@
+name: out-0897.zip
+hash: 76726fa34ab86af39ac3719e800f63b1
+year: 1997
+file:
+  DISTLIST.TXT:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FILEDESC.TXT:
+    mimetype: text/plain
+  FILELIST.TXT:
+    mimetype: text/plain
+  OUT-BATT.ANS:
+    mimetype: text/plain
+  OUT-DIST.ANS:
+    mimetype: text/plain
+  OUT-DIST.RIP:
+    mimetype: image/x-rip
+  OUT-DRAG.ANS:
+    mimetype: text/plain
+  OUT-ENTR.ANS:
+    mimetype: text/plain
+  OUT-MART.ANS:
+    mimetype: text/plain
+  OUT-MERL.ANS:
+    mimetype: text/plain
+  OUT-MNTS.RIP:
+    mimetype: image/x-rip
+  OUT-MS1.ANS:
+    mimetype: text/plain
+  OUT-MS2.ANS:
+    mimetype: text/plain
+  OUT-NINJ.ANS:
+    mimetype: text/plain
+  OUT-RIVR.ANS:
+    mimetype: text/plain
+  OUT-SDS.RIP:
+    mimetype: image/x-rip
+  OUT-SORC.RIP:
+    mimetype: image/x-rip
+  OUT-TAVN.ANS:
+    mimetype: text/plain
+  OUT-TOWN.ANS:
+    mimetype: text/plain
+  OUT-UNIC.ANS:
+    mimetype: text/plain
+  OUT-VILN.ANS:
+    mimetype: text/plain
+  OUT-VOLC.ANS:
+    mimetype: text/plain
+  OUT-WGUY.ANS:
+    mimetype: text/plain
+  OUT.AD:
+    mimetype: text/plain
+  OUTWORLD.TXT:
+    mimetype: text/plain

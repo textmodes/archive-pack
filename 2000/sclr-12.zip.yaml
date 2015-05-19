@@ -1,0 +1,114 @@
+name: sclr-12.zip
+hash: c214db0610c370edb46db64d9c4deec3
+year: 2000
+file:
+  A-VIEW.COM:
+    mimetype: application/x-msdos-program
+  AMIGA.FNT:
+    mimetype: application/octet-stream
+  AS-ASCII.ASC:
+    mimetype: text/plain
+  AS-CD.TXT:
+    mimetype: text/plain
+  AS-DL.ANS:
+    mimetype: text/plain
+  AS-JUNGL.ASC:
+    mimetype: text/plain
+  AS-MIMIC.TXT:
+    mimetype: text/plain
+  AS-PG.ANS:
+    mimetype: text/plain
+  AS-REACH.RIP:
+    mimetype: image/x-rip
+  AS-SCLR.ASC:
+    mimetype: text/plain
+  AS-SCLR1.TXT:
+    mimetype: text/plain
+  AS-SMR.ASC:
+    mimetype: text/plain
+  AS-SMR.XB:
+    mimetype: text/x-xbin
+  AS-SYB.TXT:
+    mimetype: text/plain
+  CRS-SC.ANS:
+    mimetype: text/plain
+  D2-SANTI.ASC:
+    mimetype: text/plain
+  D2-SIVA1.ASC:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FILES.BBS:
+    mimetype: text/plain
+  LJX-BLAC.ASC:
+    mimetype: text/plain
+  LJX-DALL.ASC:
+    mimetype: text/plain
+  LJX-DOPE.ASC:
+    mimetype: text/plain
+  LJX-JL02.ASC:
+    mimetype: text/plain
+  LJX-JL04.ASC:
+    mimetype: text/plain
+  MPH-NFB.ASC:
+    mimetype: text/plain
+  PC.FNT:
+    mimetype: application/octet-stream
+  POD_LEG4.ASC:
+    mimetype: text/plain
+  PSH-ANET.TXT:
+    mimetype: text/plain
+  PSH-CAFE.TXT:
+    mimetype: text/plain
+  PSH-ENFO.TXT:
+    mimetype: text/plain
+  PSH-GANG.TXT:
+    mimetype: text/plain
+  PSH-GRNG.TXT:
+    mimetype: text/plain
+  PSH-PVT.TXT:
+    mimetype: text/plain
+  PSH-SMSH.TXT:
+    mimetype: text/plain
+  S&-DUB.ASC:
+    mimetype: text/plain
+  S&-SCLR.ASC:
+    mimetype: text/plain
+  SCLR-12.NFO:
+    mimetype: text/plain
+  SH!_BODY.ASC:
+    mimetype: text/plain
+  SL-FIND.ASC:
+    mimetype: text/plain
+  SL-KNOW.ASC:
+    mimetype: text/plain
+  SL-LITVA.ASC:
+    mimetype: text/plain
+  SL-MIND.ASC:
+    mimetype: text/plain
+  SL-SCLRF.ASC:
+    mimetype: text/plain
+  SL-STRSA.ASC:
+    mimetype: text/plain
+  SL-THWHY.ASC:
+    mimetype: text/plain
+  SL-UNDRS.ASC:
+    mimetype: text/plain
+  XR-BUG.ASC:
+    mimetype: text/plain
+  XR-SLSH.ASC:
+    mimetype: text/plain
+  ZRO_FADE.ASC:
+    mimetype: text/plain
+  ZRO_RIV2.ASC:
+    mimetype: text/plain
+  ZRO_RIVN.ASC:
+    mimetype: text/plain
+  ZRO_SPT.ASC:
+    mimetype: text/plain
+  ZRO_UPP.ASC:
+    mimetype: text/plain
+  ZRO_UPP2.ASC:
+    mimetype: text/plain
+  ZRO_WILX.ASC:
+    mimetype: text/plain

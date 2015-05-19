@@ -1,0 +1,76 @@
+name: force-05.zip
+hash: 1b4cf6be6b146552fe38cf0052f1b844
+year: 1995
+file:
+  AOE2.EXE:
+    mimetype: application/x-msdos-program
+  APPLY.EXE:
+    mimetype: application/x-msdos-program
+  BD-LAIR.ANS:
+    mimetype: text/plain
+  ED-LOD.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FRC-ASCI.ANS:
+    mimetype: text/plain
+  FRC-CLUS.ANS:
+    mimetype: text/plain
+  FRC-INFO.ANS:
+    mimetype: text/plain
+  FRC-MEM.ANS:
+    mimetype: text/plain
+  FV.DOC:
+    mimetype: text/plain
+  FV.EXE:
+    mimetype: application/x-msdos-program
+  KT-OK4.ANS:
+    mimetype: text/plain
+  KT-OZ96.ANS:
+    mimetype: text/plain
+  KT-PZ1.ANS:
+    mimetype: text/plain
+  KT-SPAWN.ANS:
+    mimetype: text/plain
+  KT-SPWN2.ANS:
+    mimetype: text/plain
+  KT-WOLV2.ANS:
+    mimetype: text/plain
+  LG-HRDC1.S3M:
+    mimetype: audio/x-mod
+  LG-INTER.S3M:
+    mimetype: audio/x-mod
+  MIDAS.CFG:
+    mimetype: application/octet-stream
+  NEMESIS.EXE:
+    mimetype: application/x-msdos-program
+  NME-BKN.ANS:
+    mimetype: text/plain
+  NME-LOD1.ANS:
+    mimetype: text/plain
+  NME-ULT1.ANS:
+    mimetype: text/plain
+  OKAOS.ZIP:
+    mimetype: application/zip
+  SHADGATE.EXE:
+    mimetype: application/x-msdos-program
+  SHADGATE.NFO:
+    mimetype: text/plain
+  SP-ARCBB.ANS:
+    mimetype: text/plain
+  SP-CLST3.ANS:
+    mimetype: text/plain
+  SP-II.ANS:
+    mimetype: text/plain
+  SP-MAINA.ANS:
+    mimetype: text/plain
+  SP-MENUZ.ANS:
+    mimetype: text/plain
+  SP-TGBBS.ANS:
+    mimetype: text/plain
+  SUCCO.EXE:
+    mimetype: application/x-msdos-program
+  WH-SEC#1.ANS:
+    mimetype: text/plain
+  WH-TPW#1.ANS:
+    mimetype: text/plain

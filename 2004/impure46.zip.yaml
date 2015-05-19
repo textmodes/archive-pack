@@ -1,0 +1,30 @@
+name: impure46.zip
+hash: 148dbfe803b1104ed6fc08a3d039da09
+year: 2004
+file:
+  DB-GASFA.ASC:
+    mimetype: text/plain
+  DB-WELCH.ASC:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  IMP-SP.TXT:
+    mimetype: text/plain
+  IMPURE46.INF:
+    mimetype: text/plain
+  IMPURE46.REL:
+    mimetype: text/plain
+  OZZ-PLC1.ASC:
+    mimetype: text/plain
+  OZZ-PLC2.ASC:
+    mimetype: text/plain
+  PO-DBRN.ASC:
+    mimetype: text/plain
+  PO-GASF.ASC:
+    mimetype: text/plain
+  PO-TRIBE.ASC:
+    mimetype: text/plain
+  US-VCDM.ASC:
+    mimetype: text/plain
+  XZ-MAHON.ASC:
+    mimetype: text/plain

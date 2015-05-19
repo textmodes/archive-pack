@@ -1,0 +1,32 @@
+name: mimic85.zip
+hash: bee93c6f3d5d16163bd284aa0cf736aa
+year: 2007
+file:
+  43-mvs.asc:
+    mimetype: text/plain
+  43mkk-mmc.ans:
+    mimetype: text/plain
+  b5-syd.asc:
+    mimetype: text/plain
+  c-chaos.ans:
+    mimetype: text/plain
+  c-utopia.txt:
+    mimetype: text/plain
+  file_id.diz:
+    mimetype: text/plain
+  h7-acces.asc:
+    mimetype: text/plain
+  h7-fatha.asc:
+    mimetype: text/plain
+  h7-mmc85.txt:
+    mimetype: text/plain
+  h7-myria.asc:
+    mimetype: text/plain
+  h7-sushi.asc:
+    mimetype: text/plain
+  members.ans:
+    mimetype: text/plain
+  mkk-rivl.ans:
+    mimetype: text/plain
+  rm-user.asc:
+    mimetype: text/plain

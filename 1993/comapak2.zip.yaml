@@ -1,0 +1,64 @@
+name: comapak2.zip
+hash: 14ee48834df403ec5550d5af05273c5a
+year: 1993
+file:
+  '--------.---':
+    mimetype: application/octet-stream
+  !!binary LS0tLcTExMQuLS0t:
+    mimetype: application/octet-stream
+  !!binary xMTExC0tLS0uLS0t:
+    mimetype: application/octet-stream
+  !!binary xMTExMTExMQuxMTE:
+    mimetype: application/octet-stream
+  AS-GAS1.CMA:
+    mimetype: text/plain
+  AS-TCT1.CMA:
+    mimetype: text/plain
+  AS-TCT3.CMA:
+    mimetype: text/plain
+  COMA-APP.ZIP:
+    mimetype: application/zip
+  COMALGO1.GIF:
+    mimetype: image/gif
+  COMALGO2.CMA:
+    mimetype: text/plain
+  COMALIST.CMA:
+    mimetype: text/plain
+  DESCRIPT.TXT:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  INFOBOX.EXE:
+    mimetype: application/x-msdos-program
+  MC-EQUA1.CMA:
+    mimetype: text/plain
+  MC-PSY1.CMA:
+    mimetype: text/plain
+  MC-TWF1.CMA:
+    mimetype: text/plain
+  NI-CHEM1.CMA:
+    mimetype: text/plain
+  NZ-COMA2.CMA:
+    mimetype: text/plain
+  NZ-CVC1.CMA:
+    mimetype: text/plain
+  NZ-DM1.CMA:
+    mimetype: text/plain
+  NZ-SS1.CMA:
+    mimetype: text/plain
+  NZ-UGP.CMA:
+    mimetype: text/plain
+  RAIDEN.MOD:
+    mimetype: audio/x-mod
+  RISKYWDS.MOD:
+    mimetype: audio/x-mod
+  RUNME.BAT:
+    mimetype: application/x-msdos-program
+  S-ROBOT1.GIF:
+    mimetype: image/gif
+  S-ROBOT2.GIF:
+    mimetype: image/gif
+  WEIRDING.MOD:
+    mimetype: audio/x-mod
+  artpacks.txt:
+    mimetype: text/plain

@@ -1,0 +1,28 @@
+name: ice0011.zip
+hash: 99fd014cd8f5e10cac716d5088b57e9e
+year: 2000
+file:
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  ICE-0011.DSC:
+    mimetype: text/plain
+  ICE-0011.MEM:
+    mimetype: text/plain
+  ICE-0011.NFO:
+    mimetype: text/plain
+  ICE-TILE.JPG:
+    mimetype: image/jpeg
+  ICEVIEW.EXE:
+    mimetype: application/x-msdos-program
+  IV-DJ.JPG:
+    mimetype: image/jpeg
+  JA-SEA.JPG:
+    mimetype: image/jpeg
+  JM-GOON.JPG:
+    mimetype: image/jpeg
+  RG-ROOM.JPG:
+    mimetype: image/jpeg
+  SS-TODD.JPG:
+    mimetype: image/jpeg
+  VE-SEAL.JPG:
+    mimetype: image/jpeg

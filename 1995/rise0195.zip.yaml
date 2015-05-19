@@ -1,0 +1,60 @@
+name: rise0195.zip
+hash: 238d970d38d92bec067c76df8a070b0c
+year: 1995
+file:
+  !!binary 7S1BTlNJLe0=:
+    mimetype: text/plain
+  !!binary 7S1FWEVDLe0=:
+    mimetype: text/plain
+  !!binary 7S1JTkZPLe0=:
+    mimetype: text/plain
+  !!binary 7S1WR0EhLe0=:
+    mimetype: text/plain
+  AP-CAFBL.ANS:
+    mimetype: text/plain
+  AP-QIC.ANS:
+    mimetype: text/plain
+  AP-THRSH.ANS:
+    mimetype: text/plain
+  AP-TNC1.ANS:
+    mimetype: text/plain
+  AP-TNC2.ANS:
+    mimetype: text/plain
+  AP-TNC3.ANS:
+    mimetype: text/plain
+  AP-TNC4.ANS:
+    mimetype: text/plain
+  AP-TNC5.ANS:
+    mimetype: text/plain
+  DEFIANCE.NFO:
+    mimetype: text/plain
+  EL-NUINF.ANS:
+    mimetype: text/plain
+  EL-RISE.GIF:
+    mimetype: image/gif
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  NPE.COM:
+    mimetype: application/x-msdos-program
+  PR-NYTE.ANS:
+    mimetype: text/plain
+  PS-ARC1.ANS:
+    mimetype: text/plain
+  PS-ARC2.ANS:
+    mimetype: text/plain
+  PS-ARC3.ANS:
+    mimetype: text/plain
+  PS-REALM.ANS:
+    mimetype: text/plain
+  PS-RISE.ANS:
+    mimetype: text/plain
+  RISE.ANS:
+    mimetype: text/plain
+  RISEINFO.ANS:
+    mimetype: text/plain
+  RISEINFO.FAQ:
+    mimetype: application/octet-stream
+  RV.DAT:
+    mimetype: audio/x-mod
+  RV.EXE:
+    mimetype: application/x-msdos-program

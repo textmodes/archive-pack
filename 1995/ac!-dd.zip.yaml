@@ -1,0 +1,20 @@
+name: ac!-dd.zip
+hash: cfef4bb44d97883bc6f3386ed5676127
+year: 1995
+file:
+  !!binary +lZEIfouRVhF:
+    mimetype: application/x-msdos-program
+  AC!-DD.TXT:
+    mimetype: text/plain
+  CHMRGLQB.COM:
+    mimetype: application/x-msdos-program
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  INTERNOS.EXE:
+    mimetype: application/x-msdos-program
+  UVW.TXT:
+    mimetype: text/plain
+  !!binary VkT6V0FSRVou+/z9:
+    mimetype: application/octet-stream
+  WEB.EXE:
+    mimetype: application/x-msdos-program

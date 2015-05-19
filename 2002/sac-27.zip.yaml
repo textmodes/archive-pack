@@ -1,0 +1,504 @@
+name: sac-27.zip
+hash: da5217355879c7004adf6a12df523572
+year: 2002
+file:
+  2f-dmz.txt:
+    mimetype: text/plain
+  2f-exot.txt:
+    mimetype: text/plain
+  2f-imdb.txt:
+    mimetype: text/plain
+  2f-pre.txt:
+    mimetype: text/plain
+  2f-sast.txt:
+    mimetype: text/plain
+  2f-topup.txt:
+    mimetype: text/plain
+  2f-wiz.txt:
+    mimetype: text/plain
+  2f-xboxr.txt:
+    mimetype: text/plain
+  ASX-SACR.gif:
+    mimetype: image/gif
+  ASX-XS.ASC:
+    mimetype: text/plain
+  BNE!MP.TXT:
+    mimetype: text/plain
+  BNE!SACK.TXT:
+    mimetype: text/plain
+  DKNY-CRC.ASC:
+    mimetype: text/plain
+  DKNY-IC.ASC:
+    mimetype: text/plain
+  DKNY-MMC.ANS:
+    mimetype: text/plain
+  DKNY-ORG.ASC:
+    mimetype: text/plain
+  DKNY-PHR.ASC:
+    mimetype: text/plain
+  DKNY-REQ.ASC:
+    mimetype: text/plain
+  DKNY-STR.ASC:
+    mimetype: text/plain
+  DKNY-WHA.ASC:
+    mimetype: text/plain
+  Dkny-eee.asc:
+    mimetype: text/plain
+  Don-4.asc:
+    mimetype: text/plain
+  Don-cms.nfo:
+    mimetype: text/plain
+  Don-cup.asc:
+    mimetype: text/plain
+  Don-deez.asc:
+    mimetype: text/plain
+  Don-dii.txt:
+    mimetype: text/plain
+  Don-dne.asc:
+    mimetype: text/plain
+  Don-dtn.asc:
+    mimetype: text/plain
+  Don-dzn.diz:
+    mimetype: text/plain
+  Don-fss.diz:
+    mimetype: text/plain
+  Don-fss.nfo:
+    mimetype: text/plain
+  Don-ftw.asc:
+    mimetype: text/plain
+  Don-jaw.asc:
+    mimetype: text/plain
+  Don-kin.asc:
+    mimetype: text/plain
+  Don-kni.asc:
+    mimetype: text/plain
+  Don-pla.asc:
+    mimetype: text/plain
+  Don-pur.asc:
+    mimetype: text/plain
+  Don-reg.asc:
+    mimetype: text/plain
+  Don-sac.diz:
+    mimetype: text/plain
+  Don-shd.asc:
+    mimetype: text/plain
+  Don-sko.asc:
+    mimetype: text/plain
+  Don-tbe.nfo:
+    mimetype: text/plain
+  Don-the.nfo:
+    mimetype: text/plain
+  Don-tlo.diz:
+    mimetype: text/plain
+  Don-ump.nfo:
+    mimetype: text/plain
+  Don-upx.nfo:
+    mimetype: text/plain
+  Eb-ah.asc:
+    mimetype: text/plain
+  Eb-angel.jpg:
+    mimetype: image/jpeg
+  Eb-fs.jpg:
+    mimetype: image/jpeg
+  Eb-mhd.asc:
+    mimetype: text/plain
+  Eb-nl.asc:
+    mimetype: text/plain
+  Eb-paradise.jpg:
+    mimetype: image/jpeg
+  Eb-shock1.jpg:
+    mimetype: image/jpeg
+  Eb-shock2.gif:
+    mimetype: image/gif
+  Eb-zion.asc:
+    mimetype: text/plain
+  MRD-Airikka_High_Kick.sid:
+    mimetype: audio/prs.sid
+  MRD-Crystal_Voyage.mp3:
+    mimetype: audio/mpeg
+  MRD-D01.XM:
+    mimetype: audio/x-mod
+  MRD-Disco_Night.sid:
+    mimetype: audio/prs.sid
+  MRD-Good_Bad_Necrotoad.sid:
+    mimetype: audio/prs.sid
+  MRD-Knark_I_Karusellen.sid:
+    mimetype: audio/prs.sid
+  MRD-PD00.XM:
+    mimetype: audio/x-mod
+  MRD-PD01.XM:
+    mimetype: audio/x-mod
+  MRD-Polymatrix.sid:
+    mimetype: audio/prs.sid
+  MRD-SL00.XM:
+    mimetype: audio/x-mod
+  RN-Night.it:
+    mimetype: audio/x-mod
+  Sac.nfo:
+    mimetype: text/plain
+  Us-mootv.nfo:
+    mimetype: text/plain
+  aln-analpink.txt:
+    mimetype: text/plain
+  aln-da.txt:
+    mimetype: text/plain
+  aln-dkom.txt:
+    mimetype: text/plain
+  aln-dkom2.txt:
+    mimetype: text/plain
+  aln-efterlyst.txt:
+    mimetype: text/plain
+  aln-image.txt:
+    mimetype: text/plain
+  aln-mimic.txt:
+    mimetype: text/plain
+  aln-purify.txt:
+    mimetype: text/plain
+  aln-sa.txt:
+    mimetype: text/plain
+  aln-seier_id.txt:
+    mimetype: text/plain
+  aln-solskogen.txt:
+    mimetype: text/plain
+  aln-sprocket.txt:
+    mimetype: text/plain
+  aln-twisted.txt:
+    mimetype: text/plain
+  asx-Cherubael.jpg:
+    mimetype: image/jpeg
+  asx-afro.tga:
+    mimetype: application/octet-stream
+  asx-bm1.txt:
+    mimetype: text/plain
+  asx-bm2.txt:
+    mimetype: text/plain
+  asx-ds-final.nfo:
+    mimetype: text/plain
+  asx-ds.diz:
+    mimetype: text/plain
+  asx-ds.nfo:
+    mimetype: text/plain
+  asx-linknet.txt:
+    mimetype: text/plain
+  asx-ods.fix:
+    mimetype: text/plain
+  asx-ods.nfo:
+    mimetype: text/plain
+  asx-oxg.txt:
+    mimetype: text/plain
+  asx-pir8.GIF:
+    mimetype: image/gif
+  asx-rss.txt:
+    mimetype: text/plain
+  asx-sos.asc:
+    mimetype: text/plain
+  asx-upx.asc:
+    mimetype: text/plain
+  asx-wtd-dvx.asc:
+    mimetype: text/plain
+  asx-wtd-mp3.asc:
+    mimetype: text/plain
+  asx-xen_wallpaper_quote.jpg:
+    mimetype: image/jpeg
+  asx-xmm.txt:
+    mimetype: text/plain
+  cDr-adrenaline01.asc:
+    mimetype: text/plain
+  cDr-adrenaline02.asc:
+    mimetype: text/plain
+  cDr-image.asc:
+    mimetype: text/plain
+  cDr-northern.asc:
+    mimetype: text/plain
+  cDr-sac.asc:
+    mimetype: text/plain
+  cDr-sitealdn.asc:
+    mimetype: text/plain
+  cDr-sitealup.asc:
+    mimetype: text/plain
+  cDr-sitedaydn.asc:
+    mimetype: text/plain
+  cDr-sitedyaup.asc:
+    mimetype: text/plain
+  cDr-sitehelp.asc:
+    mimetype: text/plain
+  cDr-sitelaston.asc:
+    mimetype: text/plain
+  cDr-sitelogoff.asc:
+    mimetype: text/plain
+  cDr-sitemonthup.asc:
+    mimetype: text/plain
+  cDr-sitenew.asc:
+    mimetype: text/plain
+  cDr-sitenukes.asc:
+    mimetype: text/plain
+  cDr-sitenuketop.asc:
+    mimetype: text/plain
+  cDr-siteonel.asc:
+    mimetype: text/plain
+  cDr-sitetraffic.asc:
+    mimetype: text/plain
+  cDr-sitewho.asc:
+    mimetype: text/plain
+  cDr-sitewkdn.asc:
+    mimetype: text/plain
+  cDr-sitewkup.asc:
+    mimetype: text/plain
+  ch-vvv.nfo:
+    mimetype: text/plain
+  cok-deviance_wall.jpg:
+    mimetype: image/jpeg
+  cok-embracekg.jpg:
+    mimetype: image/jpeg
+  cok-embracewallie.jpg:
+    mimetype: image/jpeg
+  cok-maria.jpg:
+    mimetype: image/jpeg
+  cok-myth.ico:
+    mimetype: image/x-icon
+  cok-sac.jpg:
+    mimetype: image/jpeg
+  com-myth.exe:
+    mimetype: application/x-msdos-program
+  com-tross.exe:
+    mimetype: application/x-msdos-program
+  crm_Iwish2.XM:
+    mimetype: audio/x-mod
+  crm_Untitled.xm:
+    mimetype: audio/x-mod
+  crm_anight.XM:
+    mimetype: audio/x-mod
+  crm_direct.XM:
+    mimetype: audio/x-mod
+  crm_dustinmyeyes.XM:
+    mimetype: audio/x-mod
+  crm_goonies.XM:
+    mimetype: audio/x-mod
+  crm_lovely_lubby.XM:
+    mimetype: audio/x-mod
+  crm_memoriesremain.XM:
+    mimetype: audio/x-mod
+  crm_myfault.XM:
+    mimetype: audio/x-mod
+  crm_wonderfull.XM:
+    mimetype: audio/x-mod
+  dip-BPSB.DIZ:
+    mimetype: text/plain
+  dip-bypa.ASC:
+    mimetype: text/plain
+  dip-bypa.DIZ:
+    mimetype: text/plain
+  dip-ds!.asc:
+    mimetype: text/plain
+  dip-euph.asc:
+    mimetype: text/plain
+  dip-hjb.diz:
+    mimetype: text/plain
+  dip-mood.diz:
+    mimetype: text/plain
+  dip-porn.asc:
+    mimetype: text/plain
+  dip-prin.asc:
+    mimetype: text/plain
+  dip-thro.asc:
+    mimetype: text/plain
+  dip-up!.asc:
+    mimetype: text/plain
+  file_id.diz:
+    mimetype: text/plain
+  frx-arc3.asc:
+    mimetype: text/plain
+  frx-av4.asc:
+    mimetype: text/plain
+  frx-bmi2.asc:
+    mimetype: text/plain
+  frx-lego.asc:
+    mimetype: text/plain
+  frx-ost1.asc:
+    mimetype: text/plain
+  frx-ph1.asc:
+    mimetype: text/plain
+  frx-pury.asc:
+    mimetype: text/plain
+  frx-rqm3.asc:
+    mimetype: text/plain
+  frx-sor1.asc:
+    mimetype: text/plain
+  frx-sr01.asc:
+    mimetype: text/plain
+  frx-star.asc:
+    mimetype: text/plain
+  frx-sts5.asc:
+    mimetype: text/plain
+  frx-tt3.asc:
+    mimetype: text/plain
+  fst-MiB.asc:
+    mimetype: text/plain
+  fst-blacksquadron.asc:
+    mimetype: text/plain
+  fst-brg.asc:
+    mimetype: text/plain
+  fst-dlp.asc:
+    mimetype: text/plain
+  fst-dw.asc:
+    mimetype: text/plain
+  fst-ecz.asc:
+    mimetype: text/plain
+  fst-intwo.asc:
+    mimetype: text/plain
+  fst-oxiso.asc:
+    mimetype: text/plain
+  fst-seq.asc:
+    mimetype: text/plain
+  fst-sh.asc:
+    mimetype: text/plain
+  fst-stn.asc:
+    mimetype: text/plain
+  fst-tqs.asc:
+    mimetype: text/plain
+  fst-vf.asc:
+    mimetype: text/plain
+  fst-wiziso.asc:
+    mimetype: text/plain
+  k_ComplexLogoA.jpg:
+    mimetype: image/jpeg
+  k_ComplexLogoB.jpg:
+    mimetype: image/jpeg
+  k_MythTrainerLogoA.jpg:
+    mimetype: image/jpeg
+  k_ProjectXLogoA.jpg:
+    mimetype: image/jpeg
+  kenet-complex.jpg:
+    mimetype: image/jpeg
+  kenet-pdx_democompo.gif:
+    mimetype: image/gif
+  kenet-spongebob.jpg:
+    mimetype: image/jpeg
+  moo_piratos.jpg:
+    mimetype: image/jpeg
+  moo_sg.jpg:
+    mimetype: image/jpeg
+  mt_addi.sid:
+    mimetype: audio/prs.sid
+  mt_holba.sid:
+    mimetype: audio/prs.sid
+  mt_pod02.mod:
+    mimetype: audio/x-mod
+  p-abs.gif:
+    mimetype: image/gif
+  p-cls.gif:
+    mimetype: image/gif
+  p-cls01.gif:
+    mimetype: image/gif
+  p-eb.gif:
+    mimetype: image/gif
+  p-eb.nfo:
+    mimetype: text/plain
+  p-eqx.nfo:
+    mimetype: text/plain
+  p-flt_icon1.ico:
+    mimetype: image/x-icon
+  p-flt_icon2.ico:
+    mimetype: image/x-icon
+  p-flt_icon3.bmp:
+    mimetype: image/x-ms-bmp
+  p-flt01.gif:
+    mimetype: image/gif
+  p-flt02.gif:
+    mimetype: image/gif
+  p-flt03.gif:
+    mimetype: image/gif
+  p-hack.jpg:
+    mimetype: image/jpeg
+  p-hit.gif:
+    mimetype: image/gif
+  p-id.gif:
+    mimetype: image/gif
+  p-kal.gif:
+    mimetype: image/gif
+  p-os.nfo:
+    mimetype: text/plain
+  p-pjx.gif:
+    mimetype: image/gif
+  p-rah.gif:
+    mimetype: image/gif
+  p-unr.gif:
+    mimetype: image/gif
+  qs-bob.asc:
+    mimetype: text/plain
+  qs-exile.asc:
+    mimetype: text/plain
+  qs-tlw.asc:
+    mimetype: text/plain
+  qs-tnp.asc:
+    mimetype: text/plain
+  qs-tor.asc:
+    mimetype: text/plain
+  qs-tr.asc:
+    mimetype: text/plain
+  qs-tvh.asc:
+    mimetype: text/plain
+  rzafflic.asc:
+    mimetype: text/plain
+  rzmatrix.asc:
+    mimetype: text/plain
+  sacview.exe:
+    mimetype: application/x-msdos-program
+  scr-cms.nfo:
+    mimetype: text/plain
+  scr-dei.asc:
+    mimetype: text/plain
+  scr-esc.nfo:
+    mimetype: text/plain
+  scr-her.nfo:
+    mimetype: text/plain
+  scr-ims.asc:
+    mimetype: text/plain
+  scr-mrc.asc:
+    mimetype: text/plain
+  scr-nfa.nfo:
+    mimetype: text/plain
+  scr-nms.asc:
+    mimetype: text/plain
+  scr-prs.asc:
+    mimetype: text/plain
+  scr-pti.asc:
+    mimetype: text/plain
+  scr-pti.nfo:
+    mimetype: text/plain
+  scr-scr.asc:
+    mimetype: text/plain
+  scr-se.asc:
+    mimetype: text/plain
+  scr-ser.nfo:
+    mimetype: text/plain
+  scr-soup.nfo:
+    mimetype: text/plain
+  scr-tdi.asc:
+    mimetype: text/plain
+  scr-tdi.nfo:
+    mimetype: text/plain
+  scr-tdi2.nfo:
+    mimetype: text/plain
+  scr-trig.asc:
+    mimetype: text/plain
+  scr-vite.nfo:
+    mimetype: text/plain
+  scr-wktp.asc:
+    mimetype: text/plain
+  spc-dev.exe:
+    mimetype: application/x-msdos-program
+  spc-dns.exe:
+    mimetype: application/x-msdos-program
+  spc-myth.exe:
+    mimetype: application/x-msdos-program
+  spc-sld.exe:
+    mimetype: application/x-msdos-program
+  sprocket-mvz.jpg:
+    mimetype: image/jpeg
+  sprocket-pouet-big.jpg:
+    mimetype: image/jpeg
+  sprocket-shifted-f.jpg:
+    mimetype: image/jpeg
+  us-rzr.txt:
+    mimetype: text/plain

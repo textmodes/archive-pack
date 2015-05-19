@@ -1,0 +1,20 @@
+name: p-eze-20.zip
+hash: a560ec70fd33dc24577a3ec31171eb70
+year: 1995
+file:
+  DIRSET.EXE:
+    mimetype: application/x-msdos-program
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  INSTALL.TXT:
+    mimetype: text/plain
+  PATCHEZE.EXE:
+    mimetype: application/x-msdos-program
+  PATCHEZE.HLP:
+    mimetype: application/octet-stream
+  PATCHEZE.INI:
+    mimetype: text/plain
+  REGISTER.FRM:
+    mimetype: text/plain
+  WHATSNEW.TXT:
+    mimetype: text/plain

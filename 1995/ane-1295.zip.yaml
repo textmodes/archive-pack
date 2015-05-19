@@ -1,0 +1,118 @@
+name: ane-1295.zip
+hash: 6a6ef2523d37166728dff02fc9f31eb1
+year: 1995
+file:
+  '!BK!.EXE':
+    mimetype: application/x-msdos-program
+  ()ANSI():
+    mimetype: text/plain
+  ()ASC():
+    mimetype: text/plain
+  ()EXE():
+    mimetype: text/plain
+  ()HERB():
+    mimetype: text/plain
+  ()IGUA():
+    mimetype: text/plain
+  ()LIT():
+    mimetype: text/plain
+  ()LOGO():
+    mimetype: text/plain
+  ()RIP():
+    mimetype: text/plain
+  ()VGA():
+    mimetype: text/plain
+  ANE-1295.MEM:
+    mimetype: text/plain
+  ANE-1295.NFO:
+    mimetype: text/plain
+  ANE-1295.SIT:
+    mimetype: text/plain
+  ANE-CONS.ANS:
+    mimetype: text/plain
+  AR-THM.ANS:
+    mimetype: text/plain
+  AR-TRROR.ANS:
+    mimetype: text/plain
+  ASC1295A.ASC:
+    mimetype: text/plain
+  ASC1295B.ASC:
+    mimetype: text/plain
+  BK-ENDER.ASC:
+    mimetype: text/plain
+  BK-HULK.ASC:
+    mimetype: text/plain
+  BK-REQ.ZIP:
+    mimetype: application/zip
+  BK-SKULL.ASC:
+    mimetype: text/plain
+  CB-HELL.GIF:
+    mimetype: image/gif
+  CC-ANE.GIF:
+    mimetype: image/gif
+  CC-APOC.ANS:
+    mimetype: text/plain
+  CC-MILK.GIF:
+    mimetype: image/gif
+  CG-GE.ANS:
+    mimetype: text/plain
+  CG-TAL.ANS:
+    mimetype: text/plain
+  CX-ANEM1.GIF:
+    mimetype: image/gif
+  CX-ANEM2.GIF:
+    mimetype: image/gif
+  DN-ANE.ZIP:
+    mimetype: application/zip
+  EN-ANEM.GIF:
+    mimetype: image/gif
+  EN-COND1.GIF:
+    mimetype: image/gif
+  EN-COND2.GIF:
+    mimetype: image/gif
+  EN-GENOT.RIP:
+    mimetype: image/x-rip
+  EN-GOO.GIF:
+    mimetype: image/gif
+  EN-MUNG.GIF:
+    mimetype: image/gif
+  EN-RTIDE.RIP:
+    mimetype: image/x-rip
+  EN-THRED.RIP:
+    mimetype: image/x-rip
+  EN-XFI1.GIF:
+    mimetype: image/gif
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  IC-TD.LIT:
+    mimetype: text/plain
+  IC-WARP.LIT:
+    mimetype: text/plain
+  LC-GOTH.RIP:
+    mimetype: image/x-rip
+  LGO1295A.ANS:
+    mimetype: text/plain
+  LGO1295B.ANS:
+    mimetype: text/plain
+  LGO1295C.ANS:
+    mimetype: text/plain
+  LGO1295D.ANS:
+    mimetype: text/plain
+  MG-GOD2.ANS:
+    mimetype: text/plain
+  ND-APOC.ASC:
+    mimetype: text/plain
+  RS-CRZY.ASC:
+    mimetype: text/plain
+  RS-SPAWN.ASC:
+    mimetype: text/plain
+  RV-BRNDX.ANS:
+    mimetype: text/plain
+  RV-MANG.ANS:
+    mimetype: text/plain
+  SH-JIVE1.ANS:
+    mimetype: text/plain
+  VOICES.TXT:
+    mimetype: text/plain
+  WELCOME.3:
+    mimetype: text/plain

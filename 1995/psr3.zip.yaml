@@ -1,0 +1,22 @@
+name: psr3.zip
+hash: 4275c8657b2b45b1c58c20a95715271a
+year: 1995
+file:
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GUSRUN4.C:
+    mimetype: text/plain
+  HARDWARE.TXT:
+    mimetype: text/plain
+  NCTU.JPG:
+    mimetype: image/jpeg
+  PS16.EXE:
+    mimetype: application/x-msdos-program
+  PSG.EXE:
+    mimetype: application/x-msdos-program
+  PSR.EXE:
+    mimetype: application/x-msdos-program
+  README.TXT:
+    mimetype: text/plain
+  REGISTER.FRM:
+    mimetype: text/plain

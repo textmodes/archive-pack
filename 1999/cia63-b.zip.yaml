@@ -1,0 +1,44 @@
+name: cia63-b.zip
+hash: 8ed5c552653d289c9545cca7fe923630
+year: 1999
+file:
+  '---ETC--.---':
+    mimetype: text/plain
+  --CNTD--.---:
+    mimetype: text/plain
+  --INFO--.---:
+    mimetype: text/plain
+  -HIRES--.---:
+    mimetype: text/plain
+  42_BTL.JPG:
+    mimetype: image/jpeg
+  42_CYBR.JPG:
+    mimetype: image/jpeg
+  42_SWAO1.GIF:
+    mimetype: image/gif
+  0599info.cia:
+    mimetype: text/plain
+  0599memb.cia:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  VIEWER--.---:
+    mimetype: text/plain
+  WIRETAP.DOC:
+    mimetype: text/plain
+  WIRETAP.EXE:
+    mimetype: application/x-msdos-program
+  bd_nyx.jpg:
+    mimetype: image/jpeg
+  bd_swest.jpg:
+    mimetype: image/jpeg
+  cs_jo.jpg:
+    mimetype: image/jpeg
+  di_dsp.jpg:
+    mimetype: image/jpeg
+  dn_abrw.jpg:
+    mimetype: image/jpeg
+  dn_flams.jpg:
+    mimetype: image/jpeg
+  ik_trfrm.jpg:
+    mimetype: image/jpeg

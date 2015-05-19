@@ -1,0 +1,60 @@
+name: eglo02.zip
+hash: 714271b434f9391abc82c48001add205
+year: 1997
+file:
+  '!NFO#2.ANS':
+    mimetype: text/plain
+  '!SH-EG#2.ANS':
+    mimetype: text/plain
+  _MEM#2.ANS:
+    mimetype: text/plain
+  13-FREAL.ANS:
+    mimetype: text/plain
+  13-IRULE.ANS:
+    mimetype: text/plain
+  DFUSE-FU.ANS:
+    mimetype: text/plain
+  DFUSE-PR.ANS:
+    mimetype: text/plain
+  DFUSE-SS.ANS:
+    mimetype: text/plain
+  EGLO2.JPG:
+    mimetype: image/jpeg
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  NZ-INTER.ANS:
+    mimetype: text/plain
+  S-GUEST.ANS:
+    mimetype: text/plain
+  SF-BD.ANS:
+    mimetype: text/plain
+  SF-EYES.ANS:
+    mimetype: text/plain
+  SF-GRAPE.ANS:
+    mimetype: text/plain
+  SF-SS.ANS:
+    mimetype: text/plain
+  SF-TOUR.ANS:
+    mimetype: text/plain
+  SH-BLDLN.ANS:
+    mimetype: text/plain
+  SMI-TST.ANS:
+    mimetype: text/plain
+  SMI-WIND.ANS:
+    mimetype: text/plain
+  US-704.ANS:
+    mimetype: text/plain
+  US-APPF.ANS:
+    mimetype: text/plain
+  US-ASIAN.ANS:
+    mimetype: text/plain
+  US-BLEND.ANS:
+    mimetype: text/plain
+  US-BONE.ANS:
+    mimetype: text/plain
+  US-OL.ANS:
+    mimetype: text/plain
+  US-SAWS.ANS:
+    mimetype: text/plain
+  US-TOAST.ANS:
+    mimetype: text/plain

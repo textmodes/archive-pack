@@ -1,0 +1,30 @@
+name: bpi!0396.zip
+hash: 15cc3c24ecb1bd3b4987dc602d4d3e0c
+year: 1996
+file:
+  BPI!APPL.FRM:
+    mimetype: text/plain
+  BPI!ART.ZIP:
+    mimetype: application/zip
+  BPI!MUS.ZIP:
+    mimetype: application/zip
+  BPI!NEWS.ANS:
+    mimetype: text/plain
+  BPI!REQ.FRM:
+    mimetype: text/plain
+  BPIDIST:
+    mimetype: text/plain
+  DEFIANCE.NFO:
+    mimetype: text/plain
+  EQZ-PLUG.NOW:
+    mimetype: text/plain
+  EXTRA.FNO:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  KCW.COM:
+    mimetype: application/x-msdos-program
+  MEMBERS.LST:
+    mimetype: text/plain
+  SCULLY.EXE:
+    mimetype: application/x-msdos-program

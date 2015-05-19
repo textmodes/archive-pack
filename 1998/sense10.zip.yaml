@@ -1,0 +1,96 @@
+name: sense10.zip
+hash: 547a23128bd4759f710400d7620ca6c7
+year: 1998
+file:
+  --ART:
+    mimetype: text/plain
+  --INFO:
+    mimetype: text/plain
+  --JOINT:
+    mimetype: text/plain
+  10-APPL.NFO:
+    mimetype: text/plain
+  10-INFO.NFO:
+    mimetype: text/plain
+  10-MEMB.NFO:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  HX-HAV.ANS:
+    mimetype: text/plain
+  HX-MEN.ANS:
+    mimetype: text/plain
+  HX-OH.ANS:
+    mimetype: text/plain
+  HX-PAGZ.ANS:
+    mimetype: text/plain
+  IN-ANON.ASC:
+    mimetype: text/plain
+  IN-CALLE.ASC:
+    mimetype: text/plain
+  IN-KWEST.ASC:
+    mimetype: text/plain
+  IN-MATCH.ASC:
+    mimetype: text/plain
+  IN-PIC.ASC:
+    mimetype: text/plain
+  IN-RAVE.ASC:
+    mimetype: text/plain
+  IN-SHARK.ASC:
+    mimetype: text/plain
+  KR-HC01.ANS:
+    mimetype: text/plain
+  KR-HC02.ANS:
+    mimetype: text/plain
+  KR-HK01.ANS:
+    mimetype: text/plain
+  KR-SNS.ANS:
+    mimetype: text/plain
+  KR-TUTOR.ANS:
+    mimetype: text/plain
+  MR-LIGHT.JPG:
+    mimetype: image/jpeg
+  PC-ACID3.ANS:
+    mimetype: text/plain
+  PC-ACID4.ANS:
+    mimetype: text/plain
+  PC-AUTOM.ANS:
+    mimetype: text/plain
+  PC-DEBRI.ANS:
+    mimetype: text/plain
+  PC-HAVN1.ANS:
+    mimetype: text/plain
+  PC-HIGH1.ANS:
+    mimetype: text/plain
+  PC-HIGH2.ANS:
+    mimetype: text/plain
+  PC-LOONY.ANS:
+    mimetype: text/plain
+  PC-REQST.ANS:
+    mimetype: text/plain
+  PC-UINFO.ANS:
+    mimetype: text/plain
+  RG-SEN4.ANS:
+    mimetype: text/plain
+  RG-SEN5.ANS:
+    mimetype: text/plain
+  RG_THOM.ANS:
+    mimetype: text/plain
+  SC-COLL3.ANS:
+    mimetype: text/plain
+  SC-DEBRS.ANS:
+    mimetype: text/plain
+  SC-LUNA1.ANS:
+    mimetype: text/plain
+  SC-MENU1.ANS:
+    mimetype: text/plain
+  SC-STAN.S3M:
+    mimetype: audio/x-mod
+  SC-URNS1.ANS:
+    mimetype: text/plain
+  TR-SENSE.ANS:
+    mimetype: text/plain
+  US-ENDR1.ANS:
+    mimetype: text/plain
+  US-HEJS.ANS:
+    mimetype: text/plain

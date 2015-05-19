@@ -1,0 +1,144 @@
+name: cia-pak5.zip
+hash: 64ffbfd9e6c58ea7029208fc38bb4fc4
+year: 1993
+file:
+  AD-2.CIA:
+    mimetype: text/plain
+  APO.CIA:
+    mimetype: text/plain
+  C!A1.GIF:
+    mimetype: image/gif
+  CHOICE.COM:
+    mimetype: application/x-msdos-program
+  CIA.BSV:
+    mimetype: application/octet-stream
+  CIA.CIA:
+    mimetype: text/plain
+  CIA.NFO:
+    mimetype: text/plain
+  CIA2.BAK:
+    mimetype: text/plain
+  CIA2.NFO:
+    mimetype: text/plain
+  CIAAPP.EXE:
+    mimetype: application/x-msdos-program
+  CIALOGO.CIA:
+    mimetype: text/plain
+  CREDITS.DAT:
+    mimetype: text/plain
+  D4-CIA.CIA:
+    mimetype: text/plain
+  D4-CLOGO.CIA:
+    mimetype: text/plain
+  D4-FF.EXE:
+    mimetype: application/x-msdos-program
+  D4-FFBY.CIA:
+    mimetype: text/plain
+  D4-FFW.CIA:
+    mimetype: text/plain
+  D4-NUV.CIA:
+    mimetype: text/plain
+  D4-OUT.CIA:
+    mimetype: text/plain
+  D4-PARA.CIA:
+    mimetype: text/plain
+  D4-PARA2.CIA:
+    mimetype: text/plain
+  D4-PCB.CIA:
+    mimetype: text/plain
+  D4-PCB2.CIA:
+    mimetype: text/plain
+  D4-PCB3.CIA:
+    mimetype: text/plain
+  D4-RES.CIA:
+    mimetype: text/plain
+  D4-V2FM.CIA:
+    mimetype: text/plain
+  DC!!!!!!.EXE:
+    mimetype: application/x-msdos-program
+  DESCRIPT.UAA:
+    mimetype: text/plain
+  END.BSV:
+    mimetype: application/octet-stream
+  FFNUV.CIA:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FLASH.GIF:
+    mimetype: image/gif
+  FUN!.COM:
+    mimetype: application/x-msdos-program
+  INFO-3.1:
+    mimetype: text/plain
+  INFO-4.1:
+    mimetype: text/plain
+  INFO.1:
+    mimetype: text/plain
+  INFO2.CIA:
+    mimetype: text/plain
+  INFOFORM.1:
+    mimetype: text/plain
+  INTROMOD.EXE:
+    mimetype: application/x-msdos-program
+  LINE1.EXE:
+    mimetype: application/x-msdos-program
+  LINE2.EXE:
+    mimetype: application/x-msdos-program
+  LOGON.DAT:
+    mimetype: text/plain
+  MAINM.ANS:
+    mimetype: text/plain
+  MATRIX.CIA:
+    mimetype: text/plain
+  MEMLIST.BAK:
+    mimetype: text/plain
+  MEMLIST.CIA:
+    mimetype: text/plain
+  MEMLST.CIA:
+    mimetype: text/plain
+  MENU1.DAT:
+    mimetype: text/plain
+  MENU2.DAT:
+    mimetype: text/plain
+  MENU3.DAT:
+    mimetype: text/plain
+  MERGER.CIA:
+    mimetype: text/plain
+  PH.CIA:
+    mimetype: text/plain
+  SA.CIA:
+    mimetype: text/plain
+  SADNESS.MOD:
+    mimetype: audio/x-mod
+  SCREEN1.BSV:
+    mimetype: application/octet-stream
+  SCREEN2.BSV:
+    mimetype: application/octet-stream
+  SD-CIA.CIA:
+    mimetype: text/plain
+  SD-DLR.CIA:
+    mimetype: text/plain
+  SD-IE.CIA:
+    mimetype: text/plain
+  SD-JOHN.CIA:
+    mimetype: text/plain
+  SD-RS.CIA:
+    mimetype: text/plain
+  TR-CIA.CIA:
+    mimetype: text/plain
+  TR-COMAD.CIA:
+    mimetype: text/plain
+  TR-ILL.CIA:
+    mimetype: text/plain
+  TR-RIP1.CIA:
+    mimetype: text/plain
+  TR-UFP.CIA:
+    mimetype: text/plain
+  TUGO.CIA:
+    mimetype: text/plain
+  VDAT.COM:
+    mimetype: application/x-msdos-program
+  VIEWER.COM:
+    mimetype: application/x-msdos-program
+  ZINE_SFX.MOD:
+    mimetype: audio/x-mod

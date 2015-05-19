@@ -1,0 +1,60 @@
+name: lap-0794.zip
+hash: 1083173681fd3a6bfb4f04de7511fb87
+year: 1994
+file:
+  AL-DINTO.AGS:
+    mimetype: application/octet-stream
+  AL-DX1.AGS:
+    mimetype: application/octet-stream
+  AL-DX2.AGS:
+    mimetype: application/octet-stream
+  AL-LAPS2.AGS:
+    mimetype: application/octet-stream
+  AL-LAPSE.AGS:
+    mimetype: application/octet-stream
+  AL-SKY.AGS:
+    mimetype: application/octet-stream
+  DT-GZ1.ANS:
+    mimetype: text/plain
+  DT-LT2.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GAME1ST.S3M:
+    mimetype: audio/x-mod
+  GAME2ND.S3M:
+    mimetype: audio/x-mod
+  GH-LPS1.ANS:
+    mimetype: text/plain
+  GH-SKULL.AGS:
+    mimetype: application/octet-stream
+  GH-TDS2.ANS:
+    mimetype: text/plain
+  HS-LOGO.ZIP:
+    mimetype: application/zip
+  HS-MON.ANS:
+    mimetype: text/plain
+  HS-VIO-X.ANS:
+    mimetype: text/plain
+  IR-MAGRE.S3M:
+    mimetype: audio/x-mod
+  IR-NEARM.S3M:
+    mimetype: audio/x-mod
+  LAG40.EXE:
+    mimetype: application/x-msdos-program
+  LAP-0794.MEM:
+    mimetype: text/plain
+  LAP-0794.NFO:
+    mimetype: text/plain
+  LPSVIEW.EXE:
+    mimetype: application/x-msdos-program
+  MA-STRNG.ANS:
+    mimetype: text/plain
+  NEOTOKYO.ANS:
+    mimetype: text/plain
+  ROD-POW.ANS:
+    mimetype: text/plain
+  ROD-TEMP.ANS:
+    mimetype: text/plain
+  WX-TMPLE.ANS:
+    mimetype: text/plain

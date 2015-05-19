@@ -1,0 +1,90 @@
+name: ecl-pak4.zip
+hash: 36d5099b49e192f7945820b322f9e3f3
+year: 1998
+file:
+  -165LIFE.COM:
+    mimetype: application/x-msdos-program
+  4GL-SUM.ANS:
+    mimetype: text/plain
+  DARKNESS.ANS:
+    mimetype: text/plain
+  DEURKNOP.EXE:
+    mimetype: application/x-msdos-program
+  DLS-BODY.ASC:
+    mimetype: text/plain
+  DLS-DIZ1.ASC:
+    mimetype: text/plain
+  DLS-TIP1.ANS:
+    mimetype: text/plain
+  DLS-VIRT.ANS:
+    mimetype: text/plain
+  DLS-WOND.ANS:
+    mimetype: text/plain
+  ECL-NFO4.ANS:
+    mimetype: text/plain
+  ECL640.EXE:
+    mimetype: application/x-msdos-program
+  EX-ECL.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  PR_ALLAN.ANS:
+    mimetype: text/plain
+  PR_BLACK.ANS:
+    mimetype: text/plain
+  PR_DREAM.ANS:
+    mimetype: text/plain
+  PR_GEEMI.ANS:
+    mimetype: text/plain
+  PR_TFDLI.ANS:
+    mimetype: text/plain
+  PRCPLRAR.ANS:
+    mimetype: text/plain
+  PRSN_AMB.ANS:
+    mimetype: text/plain
+  README.2ND:
+    mimetype: text/plain
+  SN!CHAT.ANS:
+    mimetype: text/plain
+  SN!CHT.ANS:
+    mimetype: text/plain
+  SN!CPL.ANS:
+    mimetype: text/plain
+  SN!FRB.ANS:
+    mimetype: text/plain
+  SN!LD.ANS:
+    mimetype: text/plain
+  SN!LGF.ANS:
+    mimetype: text/plain
+  SN!MAIN.ANS:
+    mimetype: text/plain
+  SN!NEWS.ANS:
+    mimetype: text/plain
+  SN!PMB.ANS:
+    mimetype: text/plain
+  TA-GONE2.ANS:
+    mimetype: text/plain
+  TA-NEW.ANS:
+    mimetype: text/plain
+  TA-PAGE!.ANS:
+    mimetype: text/plain
+  TA-SPLA2.ANS:
+    mimetype: text/plain
+  TL@AMORP.ANS:
+    mimetype: text/plain
+  TL@COMPO.ANS:
+    mimetype: text/plain
+  TL@DEEPS.ANS:
+    mimetype: text/plain
+  TL@DELUS.ANS:
+    mimetype: text/plain
+  TL@EVIDE.ANS:
+    mimetype: text/plain
+  TL@GREET.ANS:
+    mimetype: text/plain
+  TL@MAINM.ANS:
+    mimetype: text/plain
+  TL@WIND.ANS:
+    mimetype: text/plain
+  TLTA_LOG.ANS:
+    mimetype: text/plain

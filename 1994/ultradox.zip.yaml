@@ -1,0 +1,10 @@
+name: ultradox.zip
+hash: 7c134990bc146cbcd50d3728bafd5c90
+year: 1994
+file:
+  NEO.COM:
+    mimetype: application/x-msdos-program
+  ULTRA.ASM:
+    mimetype: text/plain
+  ULTRA.DOC:
+    mimetype: text/plain

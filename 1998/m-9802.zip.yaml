@@ -1,0 +1,146 @@
+name: m-9802.zip
+hash: 05b045811ce843c130e0cb3391b1303d
+year: 1998
+file:
+  ANSI/ANSI.!:
+    mimetype: text/plain
+  ANSI/ET-WORLD.ANS:
+    mimetype: text/plain
+  ANSI/HF-SHAD.ANS:
+    mimetype: text/plain
+  ANSI/MR-CIZB1.ANS:
+    mimetype: text/plain
+  ANSI/MR-CSTIC.ANS:
+    mimetype: text/plain
+  ANSI/MR-NEWS.ANS:
+    mimetype: text/plain
+  ANSI/MR-PGPM1.ANS:
+    mimetype: text/plain
+  ANSI/MR-TJM.ANS:
+    mimetype: text/plain
+  ANSI/QP-HYST1.ANS:
+    mimetype: text/plain
+  ANSI/QP-OM3AH.ANS:
+    mimetype: text/plain
+  ANSI/QP-SM1.ANS:
+    mimetype: text/plain
+  ANSI/RG-MCLRN.ANS:
+    mimetype: text/plain
+  ANSI/RH-GEEK1.ANS:
+    mimetype: text/plain
+  ANSI/RH-ROCL1.ANS:
+    mimetype: text/plain
+  ANSI/RH-SMPM1.ANS:
+    mimetype: text/plain
+  ANSI/US-BELZ.ANS:
+    mimetype: text/plain
+  ANSI/US-OML3.ANS:
+    mimetype: text/plain
+  ASCII/ASCII.!:
+    mimetype: text/plain
+  ASCII/DS-CTR1.ASC:
+    mimetype: text/plain
+  ASCII/DS-OML00.ASC:
+    mimetype: text/plain
+  ASCII/DS-THCV.ASC:
+    mimetype: text/plain
+  ASCII/IV--CIB.ASC:
+    mimetype: text/plain
+  ASCII/IV--NSP2.ASC:
+    mimetype: text/plain
+  ASCII/IV--TJM2.ASC:
+    mimetype: text/plain
+  ASCII/IV--TOK.ASC:
+    mimetype: text/plain
+  LIT/CT-IRON.LIT:
+    mimetype: text/plain
+  LIT/CT-TASTE.LIT:
+    mimetype: text/plain
+  LIT/LIT.!:
+    mimetype: text/plain
+  LIT/QP-AUTMN.LIT:
+    mimetype: text/plain
+  LIT/QP-LESS.LIT:
+    mimetype: text/plain
+  LIT/QP-NWNL.LIT:
+    mimetype: text/plain
+  LIT/SKR-MOR.LIT:
+    mimetype: text/plain
+  LIT/SKR-SCT.LIT:
+    mimetype: text/plain
+  MUSIC/DM-IRON.IT:
+    mimetype: audio/x-mod
+  MUSIC/ME-PERSE.XM:
+    mimetype: audio/x-mod
+  MUSIC/ME-SPAG.XM:
+    mimetype: audio/x-mod
+  MUSIC/MUSIC.!:
+    mimetype: text/plain
+  MUSIC/ONX_PIGS.S3M:
+    mimetype: audio/x-mod
+  MUSIC/ONX_ZERO.S3M:
+    mimetype: audio/x-mod
+  OTHER/CCI-016.ARJ:
+    mimetype: application/x-arj
+  OTHER/FILE_ID.DIZ:
+    mimetype: text/plain
+  OTHER/GOLDVIEW.ZIP:
+    mimetype: application/zip
+  OTHER/KITSCH22.ZIP:
+    mimetype: application/zip
+  OTHER/MIST0298.MEM:
+    mimetype: text/plain
+  OTHER/MIST0298.NFO:
+    mimetype: text/plain
+  OTHER/MSTAPP20.ZIP:
+    mimetype: application/zip
+  OTHER/OTHER.!:
+    mimetype: text/plain
+  RIP/HF-NH.RIP:
+    mimetype: image/x-rip
+  RIP/LB-MIST.RIP:
+    mimetype: image/x-rip
+  RIP/QP-MIST1.RIP:
+    mimetype: image/x-rip
+  RIP/RIP.!:
+    mimetype: text/plain
+  UE!.EXE:
+    mimetype: application/x-msdos-program
+  VGA/_BS-MIST.JPG:
+    mimetype: image/jpeg
+  VGA/_DM-MIST.JPG:
+    mimetype: image/jpeg
+  VGA/_DS-MIST.JPG:
+    mimetype: image/jpeg
+  VGA/_EWERX.JPG:
+    mimetype: image/jpeg
+  VGA/_KY-MIST.JPG:
+    mimetype: image/jpeg
+  VGA/_MW-MIST.JPG:
+    mimetype: image/jpeg
+  VGA/_SK-MIST.JPG:
+    mimetype: image/jpeg
+  VGA/_TT-MIST.JPG:
+    mimetype: image/jpeg
+  VGA/DM-FACE.JPG:
+    mimetype: image/jpeg
+  VGA/MW_MIST.GIF:
+    mimetype: image/gif
+  VGA/ONX_ANG1.GIF:
+    mimetype: image/gif
+  VGA/ONX_MAGE.GIF:
+    mimetype: image/gif
+  VGA/ONX_PHGL.GIF:
+    mimetype: image/gif
+  VGA/ONX_RCLS.GIF:
+    mimetype: image/gif
+  VGA/ONX_SIBS.GIF:
+    mimetype: image/gif
+  VGA/ONX_SSIN.GIF:
+    mimetype: image/gif
+  VGA/TT-FISH.JPG:
+    mimetype: image/jpeg
+  VGA/TT-SNAKE.JPG:
+    mimetype: image/jpeg
+  VGA/VGA.!:
+    mimetype: text/plain

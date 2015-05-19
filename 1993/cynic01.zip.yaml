@@ -1,0 +1,30 @@
+name: cynic01.zip
+hash: 8e3c8e6b1164e0b143aa6004db9a838e
+year: 1993
+file:
+  COMMENT.TXT:
+    mimetype: text/plain
+  CRIMSON.LST:
+    mimetype: text/plain
+  CYBER.EXE:
+    mimetype: application/x-msdos-program
+  CYNIC.001:
+    mimetype: image/x-pcx
+  CYNIC.002:
+    mimetype: application/octet-stream
+  CYNIC.003:
+    mimetype: audio/x-mod
+  CYNIC.ADF:
+    mimetype: text/plain
+  CYNIC.EXE:
+    mimetype: application/x-msdos-program
+  CYNIC.NFO:
+    mimetype: text/plain
+  CYNIC.TDF:
+    mimetype: text/plain
+  CYNIC.VDF:
+    mimetype: application/octet-stream
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FUN!.COM:
+    mimetype: application/x-msdos-program

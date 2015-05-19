@@ -1,0 +1,34 @@
+name: k-smile.zip
+hash: 3b3fb018ce6d5e4474aba3762bf7b27b
+year: 1999
+file:
+  00-NFO.ANS:
+    mimetype: text/plain
+  01-GOLBZ.ANS:
+    mimetype: text/plain
+  02-TEA.ANS:
+    mimetype: text/plain
+  03-KNGHT.ANS:
+    mimetype: text/plain
+  04-MAGIC.ANS:
+    mimetype: text/plain
+  05-EVIL.ANS:
+    mimetype: text/plain
+  06-ANGST.ANS:
+    mimetype: text/plain
+  07-SLIME.ANS:
+    mimetype: text/plain
+  08-JOKER.ANS:
+    mimetype: text/plain
+  09-EFONT.ANS:
+    mimetype: text/plain
+  10-UFONT.ANS:
+    mimetype: text/plain
+  11-JFONT.ANS:
+    mimetype: text/plain
+  12-FINAL.ANS:
+    mimetype: text/plain
+  13-IDLE.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain

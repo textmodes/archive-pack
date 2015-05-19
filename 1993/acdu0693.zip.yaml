@@ -1,0 +1,88 @@
+name: acdu0693.zip
+hash: caeef3cf18e8e62be73b10ade768567f
+year: 1993
+file:
+  ACDU0693.NFO:
+    mimetype: text/plain
+  ACID0593.ANS:
+    mimetype: text/plain
+  ACIDART.APL:
+    mimetype: text/plain
+  ACIDCOUR.APL:
+    mimetype: text/plain
+  ACIDVGA.APL:
+    mimetype: text/plain
+  AE-BHARM.ANS:
+    mimetype: text/plain
+  AE-CHAIN.ANS:
+    mimetype: text/plain
+  AE-CLSTS.ANS:
+    mimetype: text/plain
+  AE-HELL.ANS:
+    mimetype: text/plain
+  AK-SPAWN.EXE:
+    mimetype: application/x-msdos-program
+  CE-SPLAT.ANS:
+    mimetype: text/plain
+  DH-ACID1.ANS:
+    mimetype: text/plain
+  DH-ACID1.EXE:
+    mimetype: application/x-msdos-program
+  DH-ADREN.EXE:
+    mimetype: application/x-msdos-program
+  DH-CRWL.ANS:
+    mimetype: text/plain
+  DH-MAXX.ANS:
+    mimetype: text/plain
+  DS-FZONE.ANS:
+    mimetype: text/plain
+  DT-GHETO.ANS:
+    mimetype: text/plain
+  DT-TGF.ANS:
+    mimetype: text/plain
+  DV-FEAR1.EXE:
+    mimetype: application/x-msdos-program
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FN-AOXOM.ANS:
+    mimetype: text/plain
+  FN-CCI1.ANS:
+    mimetype: text/plain
+  FN-TKEEP.ANS:
+    mimetype: text/plain
+  FX-ACID2.EXE:
+    mimetype: application/x-msdos-program
+  GO-CITY1.ANS:
+    mimetype: text/plain
+  IZ-EPID.ANS:
+    mimetype: text/plain
+  IZ-HELLB.ANS:
+    mimetype: text/plain
+  LM-EVLN.ANS:
+    mimetype: text/plain
+  LM-IUD.ANS:
+    mimetype: text/plain
+  LM-SWAT1.ANS:
+    mimetype: text/plain
+  MH-T1000.EXE:
+    mimetype: application/x-msdos-program
+  MX-RL1.EXE:
+    mimetype: application/x-msdos-program
+  MX-SN5.ZIP:
+    mimetype: application/zip
+  PJ-HELL.ANS:
+    mimetype: text/plain
+  PJ-UNT.ANS:
+    mimetype: text/plain
+  RS-IR1.EXE:
+    mimetype: application/x-msdos-program
+  SC-RD.EXE:
+    mimetype: application/x-msdos-program
+  SK-ACID.ANS:
+    mimetype: text/plain
+  SK-TUD.ANS:
+    mimetype: text/plain
+  TK-AV353.ZIP:
+    mimetype: application/zip
+  VS-TTC.ANS:
+    mimetype: text/plain

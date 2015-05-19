@@ -1,0 +1,60 @@
+name: nat-0794.zip
+hash: fd0a0ea33a43cc78960029fd041efce3
+year: 1994
+file:
+  ARCHIVE.NFO:
+    mimetype: text/plain
+  DD-DSD01.BIN:
+    mimetype: application/octet-stream
+  DD-MR01.NAT:
+    mimetype: text/plain
+  DD-NTN04.NAT:
+    mimetype: text/plain
+  DD-STS02.NAT:
+    mimetype: text/plain
+  DICKBOY.TXT:
+    mimetype: text/plain
+  FD-2DE.NAT:
+    mimetype: text/plain
+  FE-INTRE.NAT:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  LV-CSIS.NAT:
+    mimetype: text/plain
+  LV-ROI.NAT:
+    mimetype: text/plain
+  MA-PRO.NAT:
+    mimetype: text/plain
+  MA-RGMNU.ZIP:
+    mimetype: application/zip
+  MA-SL.NAT:
+    mimetype: text/plain
+  MA-SPM.NAT:
+    mimetype: text/plain
+  MA-TF.NAT:
+    mimetype: text/plain
+  MAG-BS1.NAT:
+    mimetype: text/plain
+  MAG-S1.NAT:
+    mimetype: text/plain
+  NAT-0794.NAT:
+    mimetype: text/plain
+  NAT-0794.NFO:
+    mimetype: text/plain
+  NV.EXE:
+    mimetype: application/x-msdos-program
+  POOP-01.DAT:
+    mimetype: text/plain
+  POOP-01.EXE:
+    mimetype: application/x-msdos-program
+  VGA0794.ZIP:
+    mimetype: application/zip
+  VQ-DR1.NAT:
+    mimetype: text/plain
+  VQ-TF1.NAT:
+    mimetype: text/plain
+  WELCOME.1:
+    mimetype: text/plain
+  YUCK-01.ZIP:
+    mimetype: application/zip

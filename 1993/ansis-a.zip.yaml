@@ -1,0 +1,44 @@
+name: ansis-a.zip
+hash: e55c4ddbb7a754ca10f91ce7680f6754
+year: 1993
+file:
+  -RUNME.COM:
+    mimetype: application/x-msdos-program
+  A-10.ANS:
+    mimetype: text/plain
+  ABBS-11.ANS:
+    mimetype: text/plain
+  ABST-SNR.ANS:
+    mimetype: text/plain
+  ACID-VN.ANS:
+    mimetype: text/plain
+  ACIDLSD2.ANS:
+    mimetype: text/plain
+  ACIDVOID.ANS:
+    mimetype: text/plain
+  ACIDZN1.ANS:
+    mimetype: text/plain
+  AFTER5.ANS:
+    mimetype: text/plain
+  AM-ICE.ANS:
+    mimetype: text/plain
+  AM-TBG1.ANS:
+    mimetype: text/plain
+  AMISHBUG.ANS:
+    mimetype: text/plain
+  ANANS13.ANS:
+    mimetype: text/plain
+  ANDERSON.ANS:
+    mimetype: text/plain
+  AOFACID1.ANS:
+    mimetype: text/plain
+  APPLE.ANS:
+    mimetype: text/plain
+  ASMOKE.ANS:
+    mimetype: text/plain
+  ASYLUM.ANS:
+    mimetype: text/plain
+  ATL_BRVS.ANS:
+    mimetype: text/plain
+  ATTNSYS.ANS:
+    mimetype: text/plain

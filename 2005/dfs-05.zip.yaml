@@ -1,0 +1,682 @@
+name: dfs-05.zip
+hash: d421054ac2e98f8eb343ad914b762e1b
+year: 2005
+file:
+  Code/DFSiNTROv1.11.rar:
+    mimetype: application/rar
+  Code/MinZ-Transparency_tester.rar:
+    mimetype: application/rar
+  Hirez/Icons/snp-brd-icon.ico:
+    mimetype: image/x-icon
+  Hirez/Icons/snp-dr-icon.ico:
+    mimetype: image/x-icon
+  Hirez/Icons/tR-AlphaProtector.16x16.ico:
+    mimetype: image/x-icon
+  Hirez/Icons/tR-AlphaProtector.32x32.ico:
+    mimetype: image/x-icon
+  Hirez/Icons/tR-BlitzSnips.16x16.ico:
+    mimetype: image/x-icon
+  Hirez/Icons/tR-BlitzSnips.32x32.ico:
+    mimetype: image/x-icon
+  Hirez/Icons/tR-DVT.16x16.01.ico:
+    mimetype: image/x-icon
+  Hirez/Icons/tR-DVT.16x16.02.ico:
+    mimetype: image/x-icon
+  Hirez/Icons/tR-DVT.32x32.01.ico:
+    mimetype: image/x-icon
+  Hirez/Icons/tR-DVT.32x32.02.ico:
+    mimetype: image/x-icon
+  Hirez/Icons/tR-Dust.16.ico:
+    mimetype: image/x-icon
+  Hirez/Icons/tR-Dust.32.ico:
+    mimetype: image/x-icon
+  Hirez/Icons/tR-LCD.16x16.01.ico:
+    mimetype: image/x-icon
+  Hirez/Icons/tR-LCD.16x16.02.ico:
+    mimetype: image/x-icon
+  Hirez/Icons/tR-LCD.16x16.03.ico:
+    mimetype: image/x-icon
+  Hirez/Icons/tR-LCD.16x16.04.ico:
+    mimetype: image/x-icon
+  Hirez/Icons/tR-LCD.16x16.05.ico:
+    mimetype: image/x-icon
+  Hirez/Icons/tR-LCD.16x16.06.ico:
+    mimetype: image/x-icon
+  Hirez/Icons/tR-LCD.16x16.07.ico:
+    mimetype: image/x-icon
+  Hirez/Icons/tR-LCD.16x16.08.ico:
+    mimetype: image/x-icon
+  Hirez/Icons/tR-LCD.16x16.09.ico:
+    mimetype: image/x-icon
+  Hirez/Icons/tR-LCD.32x32.01.ico:
+    mimetype: image/x-icon
+  Hirez/Icons/tR-LCD.32x32.02.ico:
+    mimetype: image/x-icon
+  Hirez/Icons/tR-LCD.32x32.03.ico:
+    mimetype: image/x-icon
+  Hirez/Icons/tR-LCD.32x32.04.ico:
+    mimetype: image/x-icon
+  Hirez/Icons/tR-LCD.32x32.05.ico:
+    mimetype: image/x-icon
+  Hirez/Icons/tR-LCD.32x32.06.ico:
+    mimetype: image/x-icon
+  Hirez/Icons/tR-LCD.32x32.07.ico:
+    mimetype: image/x-icon
+  Hirez/Icons/tR-LCD.32x32.08.ico:
+    mimetype: image/x-icon
+  Hirez/Icons/tR-LCD.32x32.09.ico:
+    mimetype: image/x-icon
+  Hirez/Icons/tR-PMC.16x16.ico:
+    mimetype: image/x-icon
+  Hirez/Icons/tR-PMC.32x32.ico:
+    mimetype: image/x-icon
+  Hirez/Icons/tR-RepublicBanana.16x16.ico:
+    mimetype: image/x-icon
+  Hirez/Icons/tR-RepublicBanana.32x32.ico:
+    mimetype: image/x-icon
+  Hirez/Icons/tR-Revolver.32x32.ico:
+    mimetype: image/x-icon
+  Hirez/Icons/tR-xRTC.16x16.ico:
+    mimetype: image/x-icon
+  Hirez/Icons/tR-xRTC.32x32.ico:
+    mimetype: image/x-icon
+  Hirez/andr_agression2.jpg:
+    mimetype: image/jpeg
+  Hirez/andr_chipster2.jpg:
+    mimetype: image/jpeg
+  Hirez/andr_class_installer1.jpg:
+    mimetype: image/jpeg
+  Hirez/andr_class_installer2.jpg:
+    mimetype: image/jpeg
+  Hirez/andr_femalehead.jpg:
+    mimetype: image/jpeg
+  Hirez/andr_h20.gif:
+    mimetype: image/gif
+  Hirez/andr_head.jpg:
+    mimetype: image/jpeg
+  Hirez/andr_lucidinstall1.jpg:
+    mimetype: image/jpeg
+  Hirez/andr_lucidinstall2.jpg:
+    mimetype: image/jpeg
+  Hirez/andr_ninja.jpg:
+    mimetype: image/jpeg
+  Hirez/andr_poly_heads.jpg:
+    mimetype: image/jpeg
+  Hirez/andr_razor.jpg:
+    mimetype: image/jpeg
+  Hirez/andr_savage.jpg:
+    mimetype: image/jpeg
+  Hirez/andr_tank.jpg:
+    mimetype: image/jpeg
+  Hirez/andr_whoaback.jpg:
+    mimetype: image/jpeg
+  Hirez/art-CIP-header.jpg:
+    mimetype: image/jpeg
+  Hirez/art-nessuno.jpg:
+    mimetype: image/jpeg
+  Hirez/art-shooters_keygen.jpg:
+    mimetype: image/jpeg
+  Hirez/bdz_2.jpg:
+    mimetype: image/jpeg
+  Hirez/bdz_3.jpg:
+    mimetype: image/jpeg
+  Hirez/bdz_DESKTOP_JGT_01_1024X768.jpg:
+    mimetype: image/jpeg
+  Hirez/bdz_LOGO_JGT_01.jpg:
+    mimetype: image/jpeg
+  Hirez/bdz_desktop02.jpg:
+    mimetype: image/jpeg
+  Hirez/bdz_desktop03.jpg:
+    mimetype: image/jpeg
+  Hirez/da_advant3.jpg:
+    mimetype: image/jpeg
+  Hirez/da_again2.jpg:
+    mimetype: image/jpeg
+  Hirez/da_arnpirate_composition.jpg:
+    mimetype: image/jpeg
+  Hirez/da_brdpower.jpg:
+    mimetype: image/jpeg
+  Hirez/da_c2.jpg:
+    mimetype: image/jpeg
+  Hirez/da_davez.jpg:
+    mimetype: image/jpeg
+  Hirez/da_delight2x.jpg:
+    mimetype: image/jpeg
+  Hirez/da_dfs2k52.jpg:
+    mimetype: image/jpeg
+  Hirez/da_dfsanimal.jpg:
+    mimetype: image/jpeg
+  Hirez/da_dvt.jpg:
+    mimetype: image/jpeg
+  Hirez/da_embkg4.jpg:
+    mimetype: image/jpeg
+  Hirez/da_embr5000.jpg:
+    mimetype: image/jpeg
+  Hirez/da_firecity_wip.jpg:
+    mimetype: image/jpeg
+  Hirez/da_forest.jpg:
+    mimetype: image/jpeg
+  Hirez/da_fr_wip.jpg:
+    mimetype: image/jpeg
+  Hirez/da_girl2_wip.jpg:
+    mimetype: image/jpeg
+  Hirez/da_hd2.jpg:
+    mimetype: image/jpeg
+  Hirez/da_hoodlum3.jpg:
+    mimetype: image/jpeg
+  Hirez/da_hr2-small.jpg:
+    mimetype: image/jpeg
+  Hirez/da_krazy.jpg:
+    mimetype: image/jpeg
+  Hirez/da_me4.jpg:
+    mimetype: image/jpeg
+  Hirez/da_mythinstall.jpg:
+    mimetype: image/jpeg
+  Hirez/da_nc.jpg:
+    mimetype: image/jpeg
+  Hirez/da_nitrous.jpg:
+    mimetype: image/jpeg
+  Hirez/da_pdxtemplate.jpg:
+    mimetype: image/jpeg
+  Hirez/da_ppx3.jpg:
+    mimetype: image/jpeg
+  Hirez/da_revolver3.jpg:
+    mimetype: image/jpeg
+  Hirez/da_s2.jpg:
+    mimetype: image/jpeg
+  Hirez/da_sbe3.jpg:
+    mimetype: image/jpeg
+  Hirez/da_shock.jpg:
+    mimetype: image/jpeg
+  Hirez/da_tcnew3.jpg:
+    mimetype: image/jpeg
+  Hirez/da_ven_final.jpg:
+    mimetype: image/jpeg
+  Hirez/da_virilityfx.jpg:
+    mimetype: image/jpeg
+  Hirez/dvt.png:
+    mimetype: image/png
+  Hirez/lx-reloaded6.png:
+    mimetype: image/png
+  Hirez/lx-rld-skyback.jpg:
+    mimetype: image/jpeg
+  Hirez/mz-ARN.png:
+    mimetype: image/png
+  Hirez/mz-ATARI_LEGEND(ST).gif:
+    mimetype: image/gif
+  Hirez/mz-CRAZY-Q(ST).gif:
+    mimetype: image/gif
+  Hirez/mz-DFS.jpg:
+    mimetype: image/jpeg
+  Hirez/mz-DHS01(ST).gif:
+    mimetype: image/gif
+  Hirez/mz-DHS02(ST).gif:
+    mimetype: image/gif
+  Hirez/mz-DMA-SC(ST).gif:
+    mimetype: image/gif
+  Hirez/mz-DREAM(ST).gif:
+    mimetype: image/gif
+  Hirez/mz-DUST.jpg:
+    mimetype: image/jpeg
+  Hirez/mz-DaPACK.jpg:
+    mimetype: image/jpeg
+  Hirez/mz-ECLiPSE.jpg:
+    mimetype: image/jpeg
+  Hirez/mz-EMBRACE_1.jpg:
+    mimetype: image/jpeg
+  Hirez/mz-EMBRACE_2.jpg:
+    mimetype: image/jpeg
+  Hirez/mz-FFF.jpg:
+    mimetype: image/jpeg
+  Hirez/mz-Grand_ma.jpg:
+    mimetype: image/jpeg
+  Hirez/mz-HAL9000.jpg:
+    mimetype: image/jpeg
+  Hirez/mz-HOODLUM(PC-ST).gif:
+    mimetype: image/gif
+  Hirez/mz-KORMA(ST).gif:
+    mimetype: image/gif
+  Hirez/mz-LHS.png:
+    mimetype: image/png
+  Hirez/mz-LUCID.jpg:
+    mimetype: image/jpeg
+  Hirez/mz-LUCID2.jpg:
+    mimetype: image/jpeg
+  Hirez/mz-LiMA.jpg:
+    mimetype: image/jpeg
+  Hirez/mz-MOM.jpg:
+    mimetype: image/jpeg
+  Hirez/mz-MYTH_1.png:
+    mimetype: image/png
+  Hirez/mz-MYTH_2.jpg:
+    mimetype: image/jpeg
+  Hirez/mz-NESS.png:
+    mimetype: image/png
+  Hirez/mz-PARADIZE01(LYNX).gif:
+    mimetype: image/gif
+  Hirez/mz-PARADiZE01(ST).gif:
+    mimetype: image/gif
+  Hirez/mz-PARADiZE02(ST).gif:
+    mimetype: image/gif
+  Hirez/mz-PHENX.jpg:
+    mimetype: image/jpeg
+  Hirez/mz-RELOADED.jpg:
+    mimetype: image/jpeg
+  Hirez/mz-RESET.jpg:
+    mimetype: image/jpeg
+  Hirez/mz-RiSE.png:
+    mimetype: image/png
+  Hirez/mz-SHOCK.jpg:
+    mimetype: image/jpeg
+  Hirez/mz-SHOCK2.jpg:
+    mimetype: image/jpeg
+  Hirez/mz-SHOCK3.jpg:
+    mimetype: image/jpeg
+  Hirez/mz-SHOCKiSO.jpg:
+    mimetype: image/jpeg
+  Hirez/mz-SUG.jpg:
+    mimetype: image/jpeg
+  Hirez/mz-UNDERPL.png:
+    mimetype: image/png
+  Hirez/oct-dfswpa.jpg:
+    mimetype: image/jpeg
+  Hirez/oct-fractalspider.jpg:
+    mimetype: image/jpeg
+  Hirez/oct-fragrans.jpg:
+    mimetype: image/jpeg
+  Hirez/oct-fraktal-prw.jpg:
+    mimetype: image/jpeg
+  Hirez/oct-gamebench.png:
+    mimetype: image/png
+  Hirez/oct-hypno-prw.png:
+    mimetype: image/png
+  Hirez/oct-magnetic-prw.png:
+    mimetype: image/png
+  Hirez/rlt-reset.jpg:
+    mimetype: image/jpeg
+  Hirez/snp-again-kg-1.jpg:
+    mimetype: image/jpeg
+  Hirez/snp-again-wp-1.jpg:
+    mimetype: image/jpeg
+  Hirez/snp-ap5-preview.jpg:
+    mimetype: image/jpeg
+  Hirez/snp-brd-1.jpg:
+    mimetype: image/jpeg
+  Hirez/snp-cmsvcdwp-1.jpg:
+    mimetype: image/jpeg
+  Hirez/snp-dfs-wp1.jpg:
+    mimetype: image/jpeg
+  Hirez/snp-dsi-keygen-1.jpg:
+    mimetype: image/jpeg
+  Hirez/snp-dsi-keygen-2.jpg:
+    mimetype: image/jpeg
+  Hirez/snp-harlemworld-1.jpg:
+    mimetype: image/jpeg
+  Hirez/snp-hlm-1.jpg:
+    mimetype: image/jpeg
+  Hirez/snp-peid-1.jpg:
+    mimetype: image/jpeg
+  Hirez/snp-peid-2.jpg:
+    mimetype: image/jpeg
+  Hirez/snp-peid-3.jpg:
+    mimetype: image/jpeg
+  Hirez/so-a_tribute_to_hoodlum.jpg:
+    mimetype: image/jpeg
+  Hirez/so-dfs.jpg:
+    mimetype: image/jpeg
+  Hirez/so-digerati.jpg:
+    mimetype: image/jpeg
+  Hirez/so-doctrine.jpg:
+    mimetype: image/jpeg
+  Hirez/so-lwl.jpg:
+    mimetype: image/jpeg
+  Hirez/so-me.jpg:
+    mimetype: image/jpeg
+  Hirez/so-me3.jpg:
+    mimetype: image/jpeg
+  Hirez/so-myth.jpg:
+    mimetype: image/jpeg
+  Hirez/so-scythe.jpg:
+    mimetype: image/jpeg
+  Hirez/so-tcl.no.jpg:
+    mimetype: image/jpeg
+  Hirez/so-vengeance.jpg:
+    mimetype: image/jpeg
+  Hirez/so-vengeance2.jpg:
+    mimetype: image/jpeg
+  Hirez/tR-Aggression.jpg:
+    mimetype: image/jpeg
+  Hirez/tR-AlphaProtector.png:
+    mimetype: image/png
+  Hirez/tR-BRD.png:
+    mimetype: image/png
+  Hirez/tR-BlitzSnips.png:
+    mimetype: image/png
+  Hirez/tR-DSi.jpg:
+    mimetype: image/jpeg
+  Hirez/tR-DVT.01.jpg:
+    mimetype: image/jpeg
+  Hirez/tR-DVT.01.png:
+    mimetype: image/png
+  Hirez/tR-DVT.02.jpg:
+    mimetype: image/jpeg
+  Hirez/tR-DVT.02.png:
+    mimetype: image/png
+  Hirez/tR-DVT.03.jpg:
+    mimetype: image/jpeg
+  Hirez/tR-DVT.04.jpg:
+    mimetype: image/jpeg
+  Hirez/tR-DVT.png:
+    mimetype: image/png
+  Hirez/tR-Fighter.jpg:
+    mimetype: image/jpeg
+  Hirez/tR-H2O.jpg:
+    mimetype: image/jpeg
+  Hirez/tR-Hoodlum.png:
+    mimetype: image/png
+  Hirez/tR-Kaktuz.com.gif:
+    mimetype: image/gif
+  Hirez/tR-LUCiD.png:
+    mimetype: image/png
+  Hirez/tR-LUCiD_2005_01.jpg:
+    mimetype: image/jpeg
+  Hirez/tR-LUCiD_2005_02.jpg:
+    mimetype: image/jpeg
+  Hirez/tR-Logo.png:
+    mimetype: image/png
+  Hirez/tR-Muzzik.jpg:
+    mimetype: image/jpeg
+  Hirez/tR-Myth.jpg:
+    mimetype: image/jpeg
+  Hirez/tR-NCG.png:
+    mimetype: image/png
+  Hirez/tR-NoXtris.jpg:
+    mimetype: image/jpeg
+  Hirez/tR-NuncEstBibendum.jpg:
+    mimetype: image/jpeg
+  Hirez/tR-PDX.png:
+    mimetype: image/png
+  Hirez/tR-POiSON.png:
+    mimetype: image/png
+  Hirez/tR-Peid.01.jpg:
+    mimetype: image/jpeg
+  Hirez/tR-Peid.02.jpg:
+    mimetype: image/jpeg
+  Hirez/tR-Peid.03.jpg:
+    mimetype: image/jpeg
+  Hirez/tR-PlayLanInc.gif:
+    mimetype: image/gif
+  Hirez/tR-PouetDotNet.jpg:
+    mimetype: image/jpeg
+  Hirez/tR-Revolver.jpg:
+    mimetype: image/jpeg
+  Hirez/tR-Shockiso.jpg:
+    mimetype: image/jpeg
+  Hirez/tR-SpitFusion.jpg:
+    mimetype: image/jpeg
+  Hirez/tR-TBE.jpg:
+    mimetype: image/jpeg
+  Hirez/tR-Vengeance.gif:
+    mimetype: image/gif
+  Hirez/tR-WallPaper.1152x864.jpg:
+    mimetype: image/jpeg
+  Hirez/tR-X.png:
+    mimetype: image/png
+  Hirez/tR-iPDA.jpg:
+    mimetype: image/jpeg
+  Hirez/tR-sbach.jpg:
+    mimetype: image/jpeg
+  Lowrez/ROBOTiA(KosKa).nfo:
+    mimetype: text/plain
+  Lowrez/RVM(KosKa).nfo:
+    mimetype: text/plain
+  Lowrez/art-YLC.asc:
+    mimetype: text/plain
+  Lowrez/f-CNS.nfo:
+    mimetype: text/plain
+  Lowrez/f-Forgotten_Existence.nfo:
+    mimetype: text/plain
+  Lowrez/f-Forgotten_Existence_v2.nfo:
+    mimetype: text/plain
+  Lowrez/f-GCP.nfo:
+    mimetype: text/plain
+  Lowrez/f-PacketStorm-zipnfo.nfo:
+    mimetype: text/plain
+  Lowrez/f-PacketStorm.nfo:
+    mimetype: text/plain
+  Lowrez/f-brokenwrist.nfo:
+    mimetype: text/plain
+  Lowrez/f-tsi2.nfo:
+    mimetype: text/plain
+  Lowrez/jer-blz.nfo:
+    mimetype: text/plain
+  Lowrez/jer-brd.nfo:
+    mimetype: text/plain
+  Lowrez/jer-cls.nfo:
+    mimetype: text/plain
+  Lowrez/jer-dfs.nfo:
+    mimetype: text/plain
+  Lowrez/jer-hsaclassix.nfo:
+    mimetype: text/plain
+  Lowrez/jer-pom.nfo:
+    mimetype: text/plain
+  Lowrez/jer-tbp.nfo:
+    mimetype: text/plain
+  Lowrez/krm-ago.asc:
+    mimetype: text/plain
+  Lowrez/krm-cf.asc:
+    mimetype: text/plain
+  Lowrez/krm-cm.asc:
+    mimetype: text/plain
+  Lowrez/krm-fff.asc:
+    mimetype: text/plain
+  Lowrez/krm-gold.asc:
+    mimetype: text/plain
+  Lowrez/krm-hk.1.asc:
+    mimetype: text/plain
+  Lowrez/krm-hk.asc:
+    mimetype: text/plain
+  Lowrez/krm-hsa.asc:
+    mimetype: text/plain
+  Lowrez/krm-id.asc:
+    mimetype: text/plain
+  Lowrez/krm-isp.asc:
+    mimetype: text/plain
+  Lowrez/krm-kpx.asc:
+    mimetype: text/plain
+  Lowrez/krm-magi.asc:
+    mimetype: text/plain
+  Lowrez/krm-numb.asc:
+    mimetype: text/plain
+  Lowrez/krm-prc.asc:
+    mimetype: text/plain
+  Lowrez/krm-pwbl.asc:
+    mimetype: text/plain
+  Lowrez/krm-rit.asc:
+    mimetype: text/plain
+  Lowrez/krm-rtd.asc:
+    mimetype: text/plain
+  Lowrez/krm-si.asc:
+    mimetype: text/plain
+  Lowrez/krm-ta.asc:
+    mimetype: text/plain
+  Lowrez/mz-0DAY.DIZ:
+    mimetype: text/plain
+  Lowrez/mz-ANOTHER_GROUP.nfo:
+    mimetype: text/plain
+  Lowrez/mz-ARN.diz:
+    mimetype: text/plain
+  Lowrez/mz-ARNMP3.nfo:
+    mimetype: text/plain
+  Lowrez/mz-CONNECTiON FAiLED.nfo:
+    mimetype: text/plain
+  Lowrez/mz-COREDUMP.nfo:
+    mimetype: text/plain
+  Lowrez/mz-CRYSTAL.nfo:
+    mimetype: text/plain
+  Lowrez/mz-DECEPTiON.nfo:
+    mimetype: text/plain
+  Lowrez/mz-DiB.diz:
+    mimetype: text/plain
+  Lowrez/mz-EAD.diz:
+    mimetype: text/plain
+  Lowrez/mz-EVA.nfo:
+    mimetype: text/plain
+  Lowrez/mz-FFF.nfo:
+    mimetype: text/plain
+  Lowrez/mz-FLUiD.nfo:
+    mimetype: text/plain
+  Lowrez/mz-GAS.diz:
+    mimetype: text/plain
+  Lowrez/mz-KRL-1.nfo:
+    mimetype: text/plain
+  Lowrez/mz-LCDVDr.nfo:
+    mimetype: text/plain
+  Lowrez/mz-MMDOX.nfo:
+    mimetype: text/plain
+  Lowrez/mz-NODREAM.nfo:
+    mimetype: text/plain
+  Lowrez/mz-NUMB.nfo:
+    mimetype: text/plain
+  Lowrez/mz-OGM.nfo:
+    mimetype: text/plain
+  Lowrez/mz-ORGASM.nfo:
+    mimetype: text/plain
+  Lowrez/mz-PEAK.nfo:
+    mimetype: text/plain
+  Lowrez/mz-PHXiSO_w.nfo:
+    mimetype: text/plain
+  Lowrez/mz-RENAISSANCE.nfo:
+    mimetype: text/plain
+  Lowrez/mz-SMUT.nfo:
+    mimetype: text/plain
+  Lowrez/mz-TDAVCD.nfo:
+    mimetype: text/plain
+  Lowrez/mz-TSP.nfo:
+    mimetype: text/plain
+  Lowrez/mz-Trash-freestyle.nfo:
+    mimetype: text/plain
+  Lowrez/mz-VACE.diz:
+    mimetype: text/plain
+  Lowrez/mz-ViBEZ.nfo:
+    mimetype: text/plain
+  Lowrez/mz-WTV.nfo:
+    mimetype: text/plain
+  Lowrez/mz-trash-EAD.nfo:
+    mimetype: text/plain
+  Lowrez/tR-1Real.asc:
+    mimetype: text/plain
+  Lowrez/tR-2gcrew.nfo:
+    mimetype: text/plain
+  Lowrez/tR-BRD.file_id.diz:
+    mimetype: text/plain
+  Lowrez/tR-BarbedWire.asc:
+    mimetype: text/plain
+  Lowrez/tR-CastleRock.nfo:
+    mimetype: text/plain
+  Lowrez/tR-DVT Rel500.nfo:
+    mimetype: text/plain
+  Lowrez/tR-DVT.nfo:
+    mimetype: text/plain
+  Lowrez/tR-DarthVader.asc:
+    mimetype: text/plain
+  Lowrez/tR-MUZZiK.nfo:
+    mimetype: text/plain
+  Lowrez/tR-NCG.nfo:
+    mimetype: text/plain
+  Lowrez/tR-P4U.nfo:
+    mimetype: text/plain
+  Lowrez/tR-Poison.nfo:
+    mimetype: text/plain
+  Lowrez/tR-TSP.nfo:
+    mimetype: text/plain
+  Lowrez/tR-TheCrypt.nfo:
+    mimetype: text/plain
+  Lowrez/tR-TheDragonsLair.asc:
+    mimetype: text/plain
+  Lowrez/tR-UTZ.nfo:
+    mimetype: text/plain
+  Lowrez/tR-VR.nfo:
+    mimetype: text/plain
+  Lowrez/tR-aVC.nfo:
+    mimetype: text/plain
+  Lowrez/tR-aga.diz:
+    mimetype: text/plain
+  Lowrez/yL-NRnl.asc:
+    mimetype: text/plain
+  Lowrez/yL-axxs.asc:
+    mimetype: text/plain
+  Lowrez/yL-bwire.asc:
+    mimetype: text/plain
+  Lowrez/yL-h0t.asc:
+    mimetype: text/plain
+  Lowrez/yL-hk_bl.asc:
+    mimetype: text/plain
+  Lowrez/yL-hk_ns.asc:
+    mimetype: text/plain
+  Lowrez/yL-idx.asc:
+    mimetype: text/plain
+  Lowrez/yL-ipda.asc:
+    mimetype: text/plain
+  Lowrez/yL-ipdadiz.asc:
+    mimetype: text/plain
+  Lowrez/yL-krl.asc:
+    mimetype: text/plain
+  Lowrez/yL-masks.asc:
+    mimetype: text/plain
+  Lowrez/yL-mrb.asc:
+    mimetype: text/plain
+  Lowrez/yL-msrp.asc:
+    mimetype: text/plain
+  Lowrez/yL-mtg.asc:
+    mimetype: text/plain
+  Lowrez/yL-mystikx.asc:
+    mimetype: text/plain
+  Lowrez/yL-ndrmlogo.asc:
+    mimetype: text/plain
+  Lowrez/yL-neo.asc:
+    mimetype: text/plain
+  Lowrez/yL-nip.asc:
+    mimetype: text/plain
+  Lowrez/yL-ora.asc:
+    mimetype: text/plain
+  Lowrez/yL-phx.asc:
+    mimetype: text/plain
+  Lowrez/yL-realm.asc:
+    mimetype: text/plain
+  Lowrez/yL-trex.asc:
+    mimetype: text/plain
+  Lowrez/yl-xrtc.asc:
+    mimetype: text/plain
+  Music/LHS_BM.mod:
+    mimetype: audio/x-mod
+  Music/LHS_BT.mod:
+    mimetype: audio/x-mod
+  Music/LHS_BaP.mod:
+    mimetype: audio/x-mod
+  Music/LHS_FY.mod:
+    mimetype: audio/x-mod
+  Music/LHS_HS.mod:
+    mimetype: audio/x-mod
+  Music/LHS_HSS.MOD:
+    mimetype: audio/x-mod
+  Music/LHS_MM4.MOD:
+    mimetype: audio/x-mod
+  Music/LHS_MW.mod:
+    mimetype: audio/x-mod
+  Music/LHS_RR.MOD:
+    mimetype: audio/x-mod
+  Music/LHS_SM.mod:
+    mimetype: audio/x-mod
+  Music/LHS_UPL.MOD:
+    mimetype: audio/x-mod
+  Music/LHS_mm3.mod:
+    mimetype: audio/x-mod
+  Music/ST_DREAM.SND:
+    mimetype: audio/basic
+  dfs.nfo:
+    mimetype: text/plain
+  sfx/readme.txt:
+    mimetype: text/plain
+  sfx/shock-final-6mb(lowqual).avi:
+    mimetype: video/x-msvideo

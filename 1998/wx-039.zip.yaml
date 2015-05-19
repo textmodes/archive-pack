@@ -1,0 +1,14 @@
+name: wx-039.zip
+hash: b828ade6c8bd28a32f588bceb53a5c35
+year: 1998
+file:
+  BUS.JPG:
+    mimetype: image/jpeg
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  WX.APP:
+    mimetype: application/octet-stream
+  WX.NFO:
+    mimetype: text/plain
+  eNDtOeND/bURNERS.e2e:
+    mimetype: text/plain

@@ -1,0 +1,26 @@
+name: lbo2nfc.zip
+hash: 5ec126d906bdbf8c4b9eac4fe4440322
+year: 1995
+file:
+  !!binary /jL+RkFTVP4uRVhF:
+    mimetype: application/x-msdos-program
+  2HIGH4.YOU:
+    mimetype: application/octet-stream
+  BELME.EXE:
+    mimetype: application/x-msdos-program
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  HASJ.IET:
+    mimetype: text/plain
+  KWAAK!.EXE:
+    mimetype: application/x-msdos-program
+  LBO-ATL.ANS:
+    mimetype: text/plain
+  LBO-FUN1.ANS:
+    mimetype: text/plain
+  LBO-HA.ANS:
+    mimetype: text/plain
+  LBO-HST.ANS:
+    mimetype: text/plain
+  NFC-NFO.ANS:
+    mimetype: text/plain

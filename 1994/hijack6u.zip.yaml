@@ -1,0 +1,14 @@
+name: hijack6u.zip
+hash: 1e426a7875681b94f530e97266164d8f
+year: 1994
+file:
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FUN!.COM:
+    mimetype: application/x-msdos-program
+  GMOUSE.COM:
+    mimetype: application/x-msdos-program
+  MAGAZINE.EXE:
+    mimetype: application/x-msdos-program
+  README.1ST:
+    mimetype: text/plain

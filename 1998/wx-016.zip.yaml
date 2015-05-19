@@ -1,0 +1,16 @@
+name: wx-016.zip
+hash: c08be61e93c4e6b544d877332abe32f0
+year: 1998
+file:
+  DIPSCHAL.TER:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FUCHS.JPG:
+    mimetype: image/jpeg
+  SOH.JPG:
+    mimetype: image/jpeg
+  WX.APP:
+    mimetype: application/octet-stream
+  WX.NFO:
+    mimetype: text/plain

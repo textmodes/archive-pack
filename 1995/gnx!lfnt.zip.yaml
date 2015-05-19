@@ -1,0 +1,14 @@
+name: gnx!lfnt.zip
+hash: 9750f7d83f8fce4d4bfad4ed6e065da2
+year: 1995
+file:
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  LIMPYSET.TDF:
+    mimetype: application/octet-stream
+  NC.INI:
+    mimetype: application/octet-stream
+  NC.RLD:
+    mimetype: application/octet-stream
+  !!binary VEhF/0JFU1QuQ09N:
+    mimetype: application/x-msdos-program

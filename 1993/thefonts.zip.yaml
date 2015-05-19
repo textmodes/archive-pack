@@ -1,0 +1,28 @@
+name: thefonts.zip
+hash: bbe6dc044f94e2355300037512799a74
+year: 1993
+file:
+  -RUNME.COM:
+    mimetype: application/x-msdos-program
+  FONT1.ANS:
+    mimetype: text/plain
+  FONT1.ASC:
+    mimetype: text/plain
+  FONT2.ASC:
+    mimetype: text/plain
+  FONT3A.ASC:
+    mimetype: text/plain
+  FONT3B.ASC:
+    mimetype: text/plain
+  FONT4.ASC:
+    mimetype: text/plain
+  FONT5.ASC:
+    mimetype: text/plain
+  FONT6.ASC:
+    mimetype: text/plain
+  FONT7.ASC:
+    mimetype: text/plain
+  FONTS.ASC:
+    mimetype: text/plain
+  SMALPHA.ASC:
+    mimetype: text/plain

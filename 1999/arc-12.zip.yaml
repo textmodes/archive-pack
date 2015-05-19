@@ -1,0 +1,44 @@
+name: arc-12.zip
+hash: 80e4936d0522776adfab6a698e1b0424
+year: 1999
+file:
+  arc-12.nfo:
+    mimetype: text/plain
+  arc-tart.nfo:
+    mimetype: text/plain
+  area51.com:
+    mimetype: application/x-msdos-program
+  dlt-arc.ans:
+    mimetype: text/plain
+  ds-alpha.ans:
+    mimetype: text/plain
+  ds-arc.ans:
+    mimetype: text/plain
+  ds-np2h.ans:
+    mimetype: text/plain
+  emk-e21.asc:
+    mimetype: text/plain
+  emk-lee.asc:
+    mimetype: text/plain
+  emk-mmm.asc:
+    mimetype: text/plain
+  file_id.diz:
+    mimetype: text/plain
+  iph-hype.ans:
+    mimetype: text/plain
+  us-er.ans:
+    mimetype: text/plain
+  xz-lair.asc:
+    mimetype: text/plain
+  xz-motm.asc:
+    mimetype: text/plain
+  xz-plan.asc:
+    mimetype: text/plain
+  xz-smeuc.asc:
+    mimetype: text/plain
+  zb!main.asc:
+    mimetype: text/plain
+  zb!rels.asc:
+    mimetype: text/plain
+  zb!xfers.asc:
+    mimetype: text/plain

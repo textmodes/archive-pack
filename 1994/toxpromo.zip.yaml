@@ -1,0 +1,16 @@
+name: toxpromo.zip
+hash: 141f460e995b6027d3199b2c858144ea
+year: 1994
+file:
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  TOXIN#0.DAT:
+    mimetype: application/octet-stream
+  TOXIN#0.EXE:
+    mimetype: application/x-msdos-program
+  TOXIN#0.NFO:
+    mimetype: text/plain
+  TOXIN#0.SND:
+    mimetype: audio/basic
+  TXNVOTE.EXE:
+    mimetype: application/x-msdos-program

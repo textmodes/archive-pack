@@ -1,0 +1,62 @@
+name: twst0397.zip
+hash: 2c9a032c01fa460741c468d423129282
+year: 1997
+file:
+  -INFO---.---:
+    mimetype: application/octet-stream
+  -LOGOS--.---:
+    mimetype: application/octet-stream
+  -MISC---.---:
+    mimetype: application/octet-stream
+  -PICS---.---:
+    mimetype: application/octet-stream
+  AB-COLLY.ANS:
+    mimetype: text/plain
+  AB-PHLD.ANS:
+    mimetype: text/plain
+  AB-VIS.ANS:
+    mimetype: text/plain
+  ALPHATRO.COM:
+    mimetype: application/x-msdos-program
+  BM-AERO.ASC:
+    mimetype: text/plain
+  BM-KARMA.ASC:
+    mimetype: text/plain
+  ME-DARK1.ANS:
+    mimetype: text/plain
+  ME-OPT1.ANS:
+    mimetype: text/plain
+  ME-SO1.ANS:
+    mimetype: text/plain
+  ORG-COLL.ANS:
+    mimetype: text/plain
+  PC-BLEND.ANS:
+    mimetype: text/plain
+  PC-BLND.ANS:
+    mimetype: text/plain
+  PC-COLLY.ANS:
+    mimetype: text/plain
+  PC-KAF.ANS:
+    mimetype: text/plain
+  PC-SPOOF.ANS:
+    mimetype: text/plain
+  RN-COLLY.ANS:
+    mimetype: text/plain
+  RN-NOK.ANS:
+    mimetype: text/plain
+  SA-MDSET.ANS:
+    mimetype: text/plain
+  SAR-DPG.ASC:
+    mimetype: text/plain
+  TWISTED.ZIP:
+    mimetype: application/zip
+  TWST0397.MEM:
+    mimetype: text/plain
+  TWST0397.NFO:
+    mimetype: text/plain
+  TWST0397.SIT:
+    mimetype: text/plain
+  TWVIEW.EXE:
+    mimetype: application/x-msdos-program
+  US-CODE.ANS:
+    mimetype: text/plain

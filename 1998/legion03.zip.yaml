@@ -1,0 +1,48 @@
+name: legion03.zip
+hash: c3596cdb86cda09e2520213210bf7c1f
+year: 1998
+file:
+  !!binary xChBTlNJKcQuxMTE:
+    mimetype: application/octet-stream
+  !!binary xChFTkQhKcQuxMTE:
+    mimetype: application/octet-stream
+  !!binary xChJTkZPKcQuxMTE:
+    mimetype: application/octet-stream
+  AOH-SPAW.ANS:
+    mimetype: text/plain
+  DIE-ARAP.ANS:
+    mimetype: text/plain
+  DIE-LEGI.ANS:
+    mimetype: text/plain
+  DIE-NOPR.ANS:
+    mimetype: text/plain
+  FIL-HIST.ANS:
+    mimetype: text/plain
+  FIL-SKYZ.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  KO-666.ANS:
+    mimetype: text/plain
+  KO-AYA.ANS:
+    mimetype: text/plain
+  KO-ELDOR.ANS:
+    mimetype: text/plain
+  KO-FIEND.ANS:
+    mimetype: text/plain
+  KO-VENGE.ANS:
+    mimetype: text/plain
+  LEGION03.ANS:
+    mimetype: text/plain
+  M-REARTH.ANS:
+    mimetype: text/plain
+  MAESTRO.TXT:
+    mimetype: text/plain
+  RA-MENZO.ANS:
+    mimetype: text/plain
+  SU-SPEED.ANS:
+    mimetype: text/plain
+  WE-EASE.ANS:
+    mimetype: text/plain
+  WE-LEGN.ANS:
+    mimetype: text/plain

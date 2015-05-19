@@ -1,0 +1,62 @@
+name: titan-02.zip
+hash: c4f4a1ee0c304c06913033523dc00560
+year: 1994
+file:
+  !!binary LfotLS0t+i0ura2t:
+    mimetype: text/plain
+  !!binary LfotLS0t+i0uQU5T:
+    mimetype: text/plain
+  !!binary LfotLS0t+i0uTElU:
+    mimetype: text/plain
+  !!binary LfotLS0t+i0uUklQ:
+    mimetype: image/x-rip
+  !!binary LfotLS0t+i0uVkdB:
+    mimetype: text/plain
+  FG-FE.LIT:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  KX-CDI.TIT:
+    mimetype: text/plain
+  KX-GALY2.RIP:
+    mimetype: image/x-rip
+  KX-NFO.TIT:
+    mimetype: text/plain
+  NEOTOKYO.ANS:
+    mimetype: text/plain
+  PZ-VIC.GIF:
+    mimetype: image/gif
+  SC-IL.TIT:
+    mimetype: text/plain
+  SC-INF.TIT:
+    mimetype: text/plain
+  SC-IRI.TIT:
+    mimetype: text/plain
+  SC-LAME.TIT:
+    mimetype: text/plain
+  SC-PHCT1.TIT:
+    mimetype: text/plain
+  SC-PSY.GIF:
+    mimetype: image/gif
+  SC-PSY3.TIT:
+    mimetype: text/plain
+  SC-SHTTL.TIT:
+    mimetype: text/plain
+  SC-SOTH.TIT:
+    mimetype: text/plain
+  SC-TIT.GIF:
+    mimetype: image/gif
+  SC-TRD.TIT:
+    mimetype: text/plain
+  SC-TS.TIT:
+    mimetype: text/plain
+  STAT.ANS:
+    mimetype: text/plain
+  TITAN.NFO:
+    mimetype: text/plain
+  TITAPP.EXE:
+    mimetype: application/x-msdos-program
+  TITVIEW.EXE:
+    mimetype: application/x-msdos-program
+  VGA.TXT:
+    mimetype: text/plain

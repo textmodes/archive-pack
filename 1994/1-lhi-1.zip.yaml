@@ -1,0 +1,62 @@
+name: 1-lhi-1.zip
+hash: c17efac1373925754feae85f383a066e
+year: 1994
+file:
+  !!binary /v4t/v4u/v7+:
+    mimetype: text/plain
+  !!binary xMTExMQuxMTE:
+    mimetype: text/plain
+  !!binary /v7+/v4u/v7+:
+    mimetype: text/plain
+  !!binary /lVDRPk5NP4uT08y:
+    mimetype: text/plain
+  BIRD.HLI:
+    mimetype: text/plain
+  CREATOR.HLI:
+    mimetype: text/plain
+  DEF.EXE:
+    mimetype: application/x-msdos-program
+  DEFIANT1.EXE:
+    mimetype: application/x-msdos-program
+  FAITH.HLI:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FLAME.HLI:
+    mimetype: text/plain
+  HLI-1.ANS:
+    mimetype: text/plain
+  HLI-1.GIF:
+    mimetype: image/gif
+  HLI-2.GIF:
+    mimetype: image/gif
+  HLI-3.GIF:
+    mimetype: image/gif
+  HLI-LOGO.ANS:
+    mimetype: text/plain
+  HLI.NFO:
+    mimetype: text/plain
+  KREMLIN.HLI:
+    mimetype: text/plain
+  LAST.HLI:
+    mimetype: text/plain
+  MANKIND.HLI:
+    mimetype: text/plain
+  NEOTOKYO.ANS:
+    mimetype: text/plain
+  PATIENTC.HLI:
+    mimetype: text/plain
+  PENTA.EXE:
+    mimetype: application/x-msdos-program
+  PENTA.NFO:
+    mimetype: text/plain
+  PENTAGON.HLI:
+    mimetype: text/plain
+  SOH.EXE:
+    mimetype: application/x-msdos-program
+  TEMPO.HLI:
+    mimetype: text/plain
+  WIZDOM.HLI:
+    mimetype: text/plain
+  WORLD.HLI:
+    mimetype: text/plain

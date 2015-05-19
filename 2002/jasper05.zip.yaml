@@ -1,0 +1,64 @@
+name: jasper05.zip
+hash: 1cad0d7c59adfd59ee7eb5bc00f891ac
+year: 2002
+file:
+  '#ART#':
+    mimetype: image/jpeg
+  '#info#':
+    mimetype: application/octet-stream
+  4&A-CAD.ANS:
+    mimetype: text/plain
+  4&I-JASP.ANS:
+    mimetype: text/plain
+  43-OBESE.ANS:
+    mimetype: text/plain
+  43-tp.ans:
+    mimetype: text/plain
+  A&4-NAMI.ANS:
+    mimetype: text/plain
+  Avg-fm10.ans:
+    mimetype: text/plain
+  Avg-jasp.ans:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  JMEMB.NFO:
+    mimetype: text/plain
+  K!GLADE.ANS:
+    mimetype: text/plain
+  Po-nami!.ans:
+    mimetype: text/plain
+  RA-JSPR.ANS:
+    mimetype: text/plain
+  RA-RIKOS.ANS:
+    mimetype: text/plain
+  S&4-GRL.ANS:
+    mimetype: text/plain
+  SPH_GLAD.ANS:
+    mimetype: text/plain
+  SPH_PULS.ANS:
+    mimetype: text/plain
+  SPH_ZOMB.ANS:
+    mimetype: text/plain
+  US-FUBA1.ANS:
+    mimetype: text/plain
+  US-FUBA2.ANS:
+    mimetype: text/plain
+  UT-NAMI1.ANS:
+    mimetype: text/plain
+  UT-NAMI2.ANS:
+    mimetype: text/plain
+  Us-jsp.ans:
+    mimetype: text/plain
+  Us-seire.ans:
+    mimetype: text/plain
+  jnews.nfo:
+    mimetype: text/plain
+  no-asc.ans:
+    mimetype: text/plain
+  sph_file.ans:
+    mimetype: text/plain
+  to-gtbbk.rip:
+    mimetype: image/x-rip
+  us-jade.ans:
+    mimetype: text/plain

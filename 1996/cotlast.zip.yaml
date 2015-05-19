@@ -1,0 +1,20 @@
+name: cotlast.zip
+hash: 8df60df2ea998129e614a8cf2fd20b44
+year: 1996
+file:
+  BARBA.EXE:
+    mimetype: application/x-msdos-program
+  COTLAST.CFG:
+    mimetype: text/x-diff
+  COTLAST.DOC:
+    mimetype: text/plain
+  COTLAST.EXE:
+    mimetype: application/x-msdos-program
+  COTLAST.NFO:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FOOTER.ANS:
+    mimetype: text/plain
+  HEADER.ANS:
+    mimetype: text/plain

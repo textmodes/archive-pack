@@ -1,0 +1,104 @@
+name: acdu0995.zip
+hash: 92917503cb6a614b46f68d5c9e3f9d6c
+year: 1995
+file:
+  ACDU0995.NFO:
+    mimetype: text/plain
+  ACID-TEE.GIF:
+    mimetype: image/gif
+  ACID-TEE.NFO:
+    mimetype: text/plain
+  ACID0895.ANS:
+    mimetype: text/plain
+  ACIDAPP.EXE:
+    mimetype: application/x-msdos-program
+  ACIDVIEW.CFG:
+    mimetype: text/plain
+  ACIDVIEW.EXE:
+    mimetype: application/x-msdos-program
+  ACIDVIEW.NFO:
+    mimetype: text/plain
+  ALC0995.ANS:
+    mimetype: text/plain
+  AVX-001B.TGZ:
+    mimetype: application/gzip
+  AY-BK2.ANS:
+    mimetype: text/plain
+  BE-ACID1.ANS:
+    mimetype: text/plain
+  BM-HUMA.RIP:
+    mimetype: image/x-rip
+  CS-ACDRW.GIF:
+    mimetype: image/gif
+  CS-CYBR1.GIF:
+    mimetype: image/gif
+  CS-ECHH1.GIF:
+    mimetype: image/gif
+  CS-FATE.GIF:
+    mimetype: image/gif
+  CS-HOLE1.GIF:
+    mimetype: image/gif
+  CS-ICEB1.GIF:
+    mimetype: image/gif
+  CS-LGCY1.GIF:
+    mimetype: image/gif
+  CS-NEVM1.GIF:
+    mimetype: image/gif
+  CS-SUPER.GIF:
+    mimetype: image/gif
+  CS-TOMA1.GIF:
+    mimetype: image/gif
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GAS-CFS2.ANS:
+    mimetype: text/plain
+  IO-FL409.GIF:
+    mimetype: image/gif
+  KO-LANSL.GIF:
+    mimetype: image/gif
+  KO-STWWW.GIF:
+    mimetype: image/gif
+  MB-CYBER.RIP:
+    mimetype: image/x-rip
+  NS-TR2.ANS:
+    mimetype: text/plain
+  P1-CHANX.RIP:
+    mimetype: image/x-rip
+  P1-FOR2.ANS:
+    mimetype: text/plain
+  P1-TMA2.ANS:
+    mimetype: text/plain
+  P1-TRBYE.RIP:
+    mimetype: image/x-rip
+  S!-LOKI1.GIF:
+    mimetype: image/gif
+  SB-ACID.ANS:
+    mimetype: text/plain
+  SB-ICEB1.ANS:
+    mimetype: text/plain
+  SE-GZR0A.ANS:
+    mimetype: text/plain
+  SI-INT13.ANS:
+    mimetype: text/plain
+  SI-ST2.ANS:
+    mimetype: text/plain
+  SI-TMA2.ANS:
+    mimetype: text/plain
+  STC-LGCY.ANS:
+    mimetype: text/plain
+  SX-TT1.ANS:
+    mimetype: text/plain
+  US-CT&VS.GIF:
+    mimetype: image/gif
+  US-FL1.RIP:
+    mimetype: image/x-rip
+  VG-BD2.RIP:
+    mimetype: image/x-rip
+  VG-CC.GIF:
+    mimetype: image/gif
+  VG-DTH.RIP:
+    mimetype: image/x-rip
+  VG-NT.GIF:
+    mimetype: image/gif
+  VG-SU.GIF:
+    mimetype: image/gif

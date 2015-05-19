@@ -1,0 +1,32 @@
+name: f10_pck3.zip
+hash: d2f34649e271bc87c1ad423fa591a704
+year: 1994
+file:
+  ASSUMED.F10:
+    mimetype: application/octet-stream
+  CHALLENG.F10:
+    mimetype: application/octet-stream
+  F10.DAT:
+    mimetype: text/plain
+  F10.EXE:
+    mimetype: application/x-msdos-program
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FRIENDS.F10:
+    mimetype: application/octet-stream
+  HIGHFATE.F10:
+    mimetype: application/octet-stream
+  INTROJAM.F10:
+    mimetype: application/octet-stream
+  LIMITLES.F10:
+    mimetype: application/octet-stream
+  REGULATI.F10:
+    mimetype: application/octet-stream
+  SAD_EYED.F10:
+    mimetype: application/octet-stream
+  TMS.ANS:
+    mimetype: text/plain
+  UNKNOWN.F10:
+    mimetype: application/octet-stream
+  WAR_MEM.F10:
+    mimetype: application/octet-stream

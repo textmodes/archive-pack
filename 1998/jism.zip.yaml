@@ -1,0 +1,16 @@
+name: jism.zip
+hash: 56b311d2267be33b16745ea221cc375d
+year: 1998
+file:
+  ML-CITY.ANS:
+    mimetype: text/plain
+  ML-DIAB.ANS:
+    mimetype: text/plain
+  ML-JISM.ANS:
+    mimetype: text/plain
+  ML-KILZN.ANS:
+    mimetype: text/plain
+  ML-KRAK.ANS:
+    mimetype: text/plain
+  cavalier.txt:
+    mimetype: text/plain

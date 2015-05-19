@@ -1,0 +1,82 @@
+name: tri-1094.zip
+hash: 88329346ff7dab271a82ff0775026c96
+year: 1994
+file:
+  !!binary xMTExMRWR0EuxMTE:
+    mimetype: application/octet-stream
+  !!binary xMTExEFOU0kuxMTE:
+    mimetype: text/plain
+  !!binary xMTExElORk8uxMTE:
+    mimetype: text/plain
+  !!binary xMTExE1JU0MuxMTE:
+    mimetype: application/octet-stream
+  !!binary xMTETVVTSUMuxMTE:
+    mimetype: text/plain
+  DMP.EXE:
+    mimetype: application/x-msdos-program
+  DMP.INI:
+    mimetype: text/plain
+  DW-FSKN.ANS:
+    mimetype: text/plain
+  DW-KNSKY.ANS:
+    mimetype: text/plain
+  DW-TF.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FR-BLUR.ANS:
+    mimetype: text/plain
+  GLARE1.IMG:
+    mimetype: text/plain
+  HL-ETERN.LGO:
+    mimetype: text/plain
+  HL-INIT.LGO:
+    mimetype: text/plain
+  HL-TRIAD.LGO:
+    mimetype: text/plain
+  HT-KSLDR.EXE:
+    mimetype: application/x-msdos-program
+  JL-MANTS.S3M:
+    mimetype: audio/x-mod
+  KB-KUBE.GIF:
+    mimetype: image/gif
+  KB-PHAN2.S3M:
+    mimetype: audio/x-mod
+  LD-SSAD.MOD:
+    mimetype: audio/x-mod
+  LD-T&T.MTM:
+    mimetype: application/octet-stream
+  LD-TG.ANS:
+    mimetype: text/plain
+  MN-CEMET.GIF:
+    mimetype: image/gif
+  MN-DEATH.GIF:
+    mimetype: image/gif
+  MN-TRITH.GIF:
+    mimetype: image/gif
+  MN-XRAY.GIF:
+    mimetype: image/gif
+  PB-OOD.ANS:
+    mimetype: text/plain
+  PB-TKS.ANS:
+    mimetype: text/plain
+  PB-TRIAD.ANS:
+    mimetype: text/plain
+  RW-EI.ANS:
+    mimetype: text/plain
+  SF-EXT.MTM:
+    mimetype: application/octet-stream
+  SP-VB.EXE:
+    mimetype: application/x-msdos-program
+  SP1.DAT:
+    mimetype: application/x-dosexec
+  TRI-1094.ANS:
+    mimetype: text/plain
+  TRI-1094.NFO:
+    mimetype: text/plain
+  TRI-VIEW.EXE:
+    mimetype: application/x-msdos-program
+  TRILOGO.EXE:
+    mimetype: application/x-msdos-program
+  VBALL3.DAT:
+    mimetype: application/octet-stream

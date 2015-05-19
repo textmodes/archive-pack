@@ -1,0 +1,74 @@
+name: eden1194.zip
+hash: 81e983b4b618267ac9e4528a3438b4a5
+year: 1994
+file:
+  !!binary xMRBTlNJxMQuxMTE:
+    mimetype: text/plain
+  !!binary xMRFWEXExC7ExMQ=:
+    mimetype: text/plain
+  !!binary xMRKVU5LxMQuxMTE:
+    mimetype: text/plain
+  !!binary xMRMSVQhxMQuxMTE:
+    mimetype: text/plain
+  !!binary xMRMT0dPxMQuxMTE:
+    mimetype: text/plain
+  BS-ALLI.LOG:
+    mimetype: text/plain
+  BS-EDEN.LOG:
+    mimetype: text/plain
+  BS-EMAGH.ANS:
+    mimetype: text/plain
+  BS-NWO1.LOG:
+    mimetype: text/plain
+  BS-NWO2.LOG:
+    mimetype: text/plain
+  BS-NWO3.LOG:
+    mimetype: text/plain
+  BS-SYNDN.LOG:
+    mimetype: text/plain
+  CR-BACK.LIT:
+    mimetype: text/plain
+  CR-FLSGD.LIT:
+    mimetype: text/plain
+  CR-HOPE.LIT:
+    mimetype: text/plain
+  CR-LIFE.LIT:
+    mimetype: text/plain
+  DL-ALLI.LOG:
+    mimetype: text/plain
+  DL-EDEN.ANS:
+    mimetype: text/plain
+  DL-INFER.ANS:
+    mimetype: text/plain
+  DL-PCBMN.ANS:
+    mimetype: text/plain
+  EDEN1194.MEM:
+    mimetype: text/plain
+  EDEN1194.NFO:
+    mimetype: text/plain
+  EDENAPP.EXE:
+    mimetype: application/x-msdos-program
+  EMAG1194.EM1:
+    mimetype: application/octet-stream
+  EMAG1194.EM2:
+    mimetype: text/plain
+  EMAG1194.EXE:
+    mimetype: application/x-msdos-program
+  EREBUS.NFO:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  LM-ABOVE.LIT:
+    mimetype: text/plain
+  LM-CHOSE.LIT:
+    mimetype: text/plain
+  LM-DBEST.LIT:
+    mimetype: text/plain
+  LM-DISPO.LIT:
+    mimetype: text/plain
+  REQUEST.EXE:
+    mimetype: application/x-msdos-program
+  SYNDAD.EXE:
+    mimetype: application/x-msdos-program
+  TNS.ANS:
+    mimetype: text/plain

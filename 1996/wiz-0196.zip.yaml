@@ -1,0 +1,86 @@
+name: wiz-0196.zip
+hash: 590eb087e8830c747bd8a4d022a28d20
+year: 1996
+file:
+  CB.EXE:
+    mimetype: application/x-msdos-program
+  CB.NFO:
+    mimetype: text/plain
+  FF-BHEAD.ANS:
+    mimetype: text/plain
+  FF-DEMNT.ANS:
+    mimetype: text/plain
+  FF-GENX.ANS:
+    mimetype: text/plain
+  FF-HTP.ANS:
+    mimetype: text/plain
+  FF-HTPC.ANS:
+    mimetype: text/plain
+  FF-KTC.ANS:
+    mimetype: text/plain
+  FF-LOGO.ANS:
+    mimetype: text/plain
+  FF-PSYON.ANS:
+    mimetype: text/plain
+  FF-ROD.ANS:
+    mimetype: text/plain
+  FF-ROD2.ANS:
+    mimetype: text/plain
+  FF-SIZZL.ANS:
+    mimetype: text/plain
+  FF-SPAM.ANS:
+    mimetype: text/plain
+  FF-SPAM2.ANS:
+    mimetype: text/plain
+  FF-WIZL.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  PLASMOID.ZIP:
+    mimetype: application/zip
+  RN-1295.ZIP:
+    mimetype: application/zip
+  SIZZLED.ZIP:
+    mimetype: application/zip
+  TL-BEHEA.LIT:
+    mimetype: text/plain
+  TL-CF1.ASC:
+    mimetype: text/plain
+  TL-CF3.ASC:
+    mimetype: text/plain
+  TL-CHT.ZIP:
+    mimetype: application/zip
+  TL-DOWN.LIT:
+    mimetype: text/plain
+  TL-HTPC2.ASC:
+    mimetype: text/plain
+  TL-INSAN.LIT:
+    mimetype: text/plain
+  TL-LONEL.LIT:
+    mimetype: text/plain
+  TL-OD2.ASC:
+    mimetype: text/plain
+  TL-OUTOF.LIT:
+    mimetype: text/plain
+  TL-PSYL.ASC:
+    mimetype: text/plain
+  TL-ROD2.ASC:
+    mimetype: text/plain
+  TL-TL.ASC:
+    mimetype: text/plain
+  TL-TWIST.LIT:
+    mimetype: text/plain
+  TL-WIZ1.GIF:
+    mimetype: image/gif
+  TL-WIZ2.GIF:
+    mimetype: image/gif
+  WIZAPP.EXE:
+    mimetype: application/x-msdos-program
+  WIZARD.BAK:
+    mimetype: text/plain
+  WIZARD.LST:
+    mimetype: text/plain
+  WIZARD.MEM:
+    mimetype: text/plain
+  WIZARD.NFO:
+    mimetype: text/plain

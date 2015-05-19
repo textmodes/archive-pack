@@ -1,0 +1,44 @@
+name: mimic81.zip
+hash: 8a0a086d2375f66399bed761082a1d2c
+year: 2005
+file:
+  bjasc277.ans:
+    mimetype: text/plain
+  eeh-mmc.asc:
+    mimetype: text/plain
+  eeh-rmrs.asc:
+    mimetype: text/plain
+  file_id.diz:
+    mimetype: text/plain
+  h7-bulle.ans:
+    mimetype: text/plain
+  h7-circu.txt:
+    mimetype: text/plain
+  h7-twrma.asc:
+    mimetype: text/plain
+  l-brazil.bin:
+    mimetype: application/octet-stream
+  l-jbk2.ans:
+    mimetype: text/plain
+  members.ans:
+    mimetype: text/plain
+  no-knife.ans:
+    mimetype: text/plain
+  no-omen.ans:
+    mimetype: text/plain
+  no-pulse.ans:
+    mimetype: text/plain
+  no-su04.ans:
+    mimetype: text/plain
+  no-un02.asc:
+    mimetype: text/plain
+  tcf-004.ans:
+    mimetype: text/plain
+  tcf-005.ans:
+    mimetype: text/plain
+  tcf-006.ans:
+    mimetype: text/plain
+  us-soap.asc:
+    mimetype: text/plain
+  wk-r81.txt:
+    mimetype: text/plain

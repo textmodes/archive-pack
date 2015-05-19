@@ -1,0 +1,52 @@
+name: se_d0597.zip
+hash: 0c68c7c7ce981fcb5ce5b54d6b5e8c15
+year: 1997
+file:
+  BMANIA.PCX:
+    mimetype: image/pcx
+  CM-SATUR.IT:
+    mimetype: audio/x-mod
+  CT-COMET.S3M:
+    mimetype: audio/x-mod
+  ESQ-MORE.XM:
+    mimetype: audio/x-mod
+  ESQ-NO2.XM:
+    mimetype: audio/x-mod
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FR-SILLY.S3M:
+    mimetype: audio/x-mod
+  FRQ-FREA.S3M:
+    mimetype: audio/x-mod
+  HB-MIEUW.S3M:
+    mimetype: audio/x-mod
+  HB-MONK.S3M:
+    mimetype: audio/x-mod
+  JB-CLOUD.XM:
+    mimetype: audio/x-mod
+  ME-ERLUD.XM:
+    mimetype: audio/x-mod
+  ONX_CRBR.S3M:
+    mimetype: audio/x-mod
+  ONX_INVD.S3M:
+    mimetype: audio/x-mod
+  ONX_RRR.S3M:
+    mimetype: audio/x-mod
+  SE_APP.DAT:
+    mimetype: text/plain
+  SE_APP.EXE:
+    mimetype: application/x-msdos-program
+  SE_NFO.EXE:
+    mimetype: application/x-msdos-program
+  SEP.BAT:
+    mimetype: application/x-msdos-program
+  SEPLAY.EXE:
+    mimetype: application/x-msdos-program
+  TR-DG1.EXE:
+    mimetype: application/x-msdos-program
+  YT-ALIEN.S3M:
+    mimetype: audio/x-mod
+  YT-STATA.S3M:
+    mimetype: audio/x-mod
+  se_d0597.frm:
+    mimetype: text/plain

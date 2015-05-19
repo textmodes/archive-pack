@@ -1,0 +1,62 @@
+name: gel-002.zip
+hash: 0e9dddb679015af9990bef7dad40d2fc
+year: 1997
+file:
+  ANSI----.GEL:
+    mimetype: application/octet-stream
+  ASCII---.GEL:
+    mimetype: application/octet-stream
+  CH01.ANS:
+    mimetype: text/plain
+  CH02.ANS:
+    mimetype: text/plain
+  CH03.ANS:
+    mimetype: text/plain
+  CODING--.GEL:
+    mimetype: application/octet-stream
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GEL.SIT:
+    mimetype: text/plain
+  GEL_APP.EXE:
+    mimetype: application/x-msdos-program
+  GEL1.GIF:
+    mimetype: image/gif
+  GEL2.GIF:
+    mimetype: image/gif
+  GEL3.GIF:
+    mimetype: image/gif
+  GEL4.GIF:
+    mimetype: image/gif
+  GEL5.GIF:
+    mimetype: image/gif
+  GELVIEW.EXE:
+    mimetype: application/x-msdos-program
+  GG01.ANS:
+    mimetype: text/plain
+  HTML----.GEL:
+    mimetype: application/octet-stream
+  IC01.ANS:
+    mimetype: text/plain
+  IC02.ANS:
+    mimetype: text/plain
+  IC03.ANS:
+    mimetype: text/plain
+  IC04.ANS:
+    mimetype: text/plain
+  IC05.ANS:
+    mimetype: text/plain
+  IC06.ANS:
+    mimetype: text/plain
+  IC07.ANS:
+    mimetype: text/plain
+  MEMBERS.ANS:
+    mimetype: text/plain
+  MODS4RG.ZIP:
+    mimetype: application/zip
+  NEWS.ANS:
+    mimetype: text/plain
+  PROG----.GEL:
+    mimetype: application/octet-stream
+  WHEREWER.ANS:
+    mimetype: text/plain

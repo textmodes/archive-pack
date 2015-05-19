@@ -1,0 +1,10 @@
+name: fb-line.zip
+hash: 21f70cb82caa29504c23c0fc6a09d6c4
+year: 1994
+file:
+  FB-LINE.TDF:
+    mimetype: application/octet-stream
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  NEO.COM:
+    mimetype: application/x-msdos-program

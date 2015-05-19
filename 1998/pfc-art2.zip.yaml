@@ -1,0 +1,48 @@
+name: pfc-art2.zip
+hash: 28df693e7325705c7531e66d60d5ad8f
+year: 1998
+file:
+  --PFC2--.NFO:
+    mimetype: text/plain
+  CPH-COLL.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GD-ART2.JPG:
+    mimetype: image/jpeg
+  GD-BEAST.JPG:
+    mimetype: image/jpeg
+  GD-BLAST.RIP:
+    mimetype: image/x-rip
+  GD-EVIL.GIF:
+    mimetype: image/gif
+  GD-GAME.JPG:
+    mimetype: image/jpeg
+  GD-PFC.JPG:
+    mimetype: image/jpeg
+  GD-SPIN.GIF:
+    mimetype: image/gif
+  GD-TRB.GIF:
+    mimetype: image/gif
+  LEM-BLST.JPG:
+    mimetype: image/jpeg
+  LEM-HERO.JPG:
+    mimetype: image/jpeg
+  LEM-NRG.JPG:
+    mimetype: image/jpeg
+  LEM-ONE.JPG:
+    mimetype: image/jpeg
+  LEM-SPAW.JPG:
+    mimetype: image/jpeg
+  LIZ-ALTR.JPG:
+    mimetype: image/jpeg
+  LIZ-LOGO.JPG:
+    mimetype: image/jpeg
+  LIZ-SOUL.JPG:
+    mimetype: image/jpeg
+  PFC-NFO.COM:
+    mimetype: application/x-msdos-program
+  TAN-DOC.GIF:
+    mimetype: image/gif
+  YO-HRAN.JPG:
+    mimetype: image/jpeg

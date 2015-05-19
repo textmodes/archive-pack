@@ -1,0 +1,10 @@
+name: ice-spc3.zip
+hash: a30e3755f8b0d6434506fa10fa0255a2
+year: 1995
+file:
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  JM-PLNET.FLI:
+    mimetype: video/fli
+  XV.EXE:
+    mimetype: application/x-msdos-program

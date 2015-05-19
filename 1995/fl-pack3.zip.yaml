@@ -1,0 +1,54 @@
+name: fl-pack3.zip
+hash: a23660f26cd045ac94a7bf077966fa56
+year: 1995
+file:
+  BB-NEWS.ANS:
+    mimetype: text/plain
+  FILE_ID.ASC:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FL-RLSES.INF:
+    mimetype: text/plain
+  FUEL.APP:
+    mimetype: application/octet-stream
+  GN-FLMAI.ANS:
+    mimetype: text/plain
+  IE-CHAT.ANS:
+    mimetype: text/plain
+  IE-SJAT.ANS:
+    mimetype: text/plain
+  LUIGI.COM:
+    mimetype: application/x-msdos-program
+  NF-LOGOF.ANS:
+    mimetype: text/plain
+  NF-WINTE.ANS:
+    mimetype: text/plain
+  PHEWL.NFO:
+    mimetype: text/plain
+  TK-BIGON.ANS:
+    mimetype: text/plain
+  TK-CREWL.ANS:
+    mimetype: text/plain
+  TK-CRUEL.ANS:
+    mimetype: text/plain
+  TK-GULF.ANS:
+    mimetype: text/plain
+  TK-JOKER.ANS:
+    mimetype: text/plain
+  TK-MSG.ANS:
+    mimetype: text/plain
+  TK-MYSTE.ANS:
+    mimetype: text/plain
+  TK-REQ.ANS:
+    mimetype: text/plain
+  TK-SJAAT.ANS:
+    mimetype: text/plain
+  TK-SJAT.ANS:
+    mimetype: text/plain
+  TK-UPL.ANS:
+    mimetype: text/plain
+  TK-VIRTU.ANS:
+    mimetype: text/plain
+  VIRUS.TXT:
+    mimetype: text/plain

@@ -1,0 +1,66 @@
+name: font130.zip
+hash: 0a6910c60a97358978a51d725deb8388
+year: 1993
+file:
+  $FNT1URB.DAT:
+    mimetype: application/octet-stream
+  $FNT2UR.DAT:
+    mimetype: application/octet-stream
+  $FNT2URB.DAT:
+    mimetype: application/octet-stream
+  $FNT3UR.DAT:
+    mimetype: application/octet-stream
+  $FNT3URB.DAT:
+    mimetype: application/octet-stream
+  $FNT4URB.DAT:
+    mimetype: application/octet-stream
+  $FNT5.DAT:
+    mimetype: application/octet-stream
+  $PFNT1S.DAT:
+    mimetype: application/octet-stream
+  $PFNT2S.DAT:
+    mimetype: application/octet-stream
+  BBSAD.TXT:
+    mimetype: text/plain
+  CONTEST.ANS:
+    mimetype: text/plain
+  CONTEST.ASC:
+    mimetype: text/plain
+  DEMO1.ANS:
+    mimetype: text/plain
+  DEMO2.ANS:
+    mimetype: text/plain
+  DEMO3.ANS:
+    mimetype: text/plain
+  DEMO4.ANS:
+    mimetype: text/plain
+  DEMO5.ANS:
+    mimetype: text/plain
+  DEMO6.ANS:
+    mimetype: text/plain
+  DEMO7.ANS:
+    mimetype: text/plain
+  DEMO8.ANS:
+    mimetype: text/plain
+  DEMO9.ANS:
+    mimetype: text/plain
+  DESC.SDI:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FONT-AD.COM:
+    mimetype: application/x-msdos-program
+  FONT.DOC:
+    mimetype: text/plain
+  FONT.EXE:
+    mimetype: application/x-msdos-program
+  FONT120.ANS:
+    mimetype: text/plain
+  FONTAD.ANS:
+    mimetype: text/plain
+  FONTAD2.ANS:
+    mimetype: text/plain
+  ORDER.FRM:
+    mimetype: text/plain
+  WHATSNEW.TXT:
+    mimetype: text/plain

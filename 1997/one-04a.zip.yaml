@@ -1,0 +1,44 @@
+name: one-04a.zip
+hash: 4b1fb2efb4ed7d6f451082ed07ac11c3
+year: 1997
+file:
+  '----ANSI.---':
+    mimetype: application/octet-stream
+  '----MISC.---':
+    mimetype: application/octet-stream
+  '---BEGIN.---':
+    mimetype: application/octet-stream
+  '---C''TND.---':
+    mimetype: application/octet-stream
+  '---MUSIC.---':
+    mimetype: application/octet-stream
+  CX-911.ANS:
+    mimetype: text/plain
+  CX-COLY2.ANS:
+    mimetype: text/plain
+  CX-COR1.ANS:
+    mimetype: text/plain
+  CX-OVHLP.ANS:
+    mimetype: text/plain
+  CX-UTB.ANS:
+    mimetype: text/plain
+  DADYSAID.IT!:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  HR-UTB.ANS:
+    mimetype: text/plain
+  JN-SPAG.ZIP:
+    mimetype: application/zip
+  NOUNOURS.COM:
+    mimetype: application/x-msdos-program
+  ONE-0497.MEM:
+    mimetype: text/plain
+  ONE-0497.NFO:
+    mimetype: text/plain
+  ONE-APP.COM:
+    mimetype: application/x-msdos-program
+  PHT_BEAT.IT:
+    mimetype: audio/x-mod
+  US-SPLCE.ANS:
+    mimetype: text/plain

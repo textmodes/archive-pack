@@ -1,0 +1,46 @@
+name: inf-0197.zip
+hash: c4e3002b71312818809c2b4e2c1a1ea2
+year: 1997
+file:
+  '%KUUL%':
+    mimetype: text/plain
+  BT-BR15.ANS:
+    mimetype: text/plain
+  BT-BR16.ANS:
+    mimetype: text/plain
+  BT-BRMX.ANS:
+    mimetype: text/plain
+  BT-PULS.ANS:
+    mimetype: text/plain
+  BT-SWTDE.S3M:
+    mimetype: audio/x-mod
+  BT-TLRLO.ASC:
+    mimetype: text/plain
+  CG-DOSMT.ZIP:
+    mimetype: application/zip
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  HALODOWN.TXT:
+    mimetype: text/plain
+  INFAPPGN.ZIP:
+    mimetype: application/zip
+  IV.DOC:
+    mimetype: text/plain
+  IV.EXE:
+    mimetype: application/x-msdos-program
+  LEGAL.ANS:
+    mimetype: text/plain
+  MEMB0197.NFO:
+    mimetype: text/plain
+  MF-BROT.GIF:
+    mimetype: image/gif
+  MF-DELER.GIF:
+    mimetype: image/gif
+  MF-DXM.GIF:
+    mimetype: image/gif
+  MF-INF1.GIF:
+    mimetype: image/gif
+  MF-ROBO.GIF:
+    mimetype: image/gif
+  NEWS0197.NFO:
+    mimetype: text/plain

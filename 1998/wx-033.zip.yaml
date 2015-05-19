@@ -1,0 +1,16 @@
+name: wx-033.zip
+hash: 997247cf46d6b720eede32197605ea6e
+year: 1998
+file:
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  IDC.JPG:
+    mimetype: image/jpeg
+  LAS.JPG:
+    mimetype: image/jpeg
+  MOB.JPG:
+    mimetype: image/jpeg
+  WX.APP:
+    mimetype: application/octet-stream
+  WX.NFO:
+    mimetype: text/plain

@@ -1,0 +1,56 @@
+name: flu-01.zip
+hash: e848d82c7d47cbdd97eafa2d6a9a2303
+year: 1998
+file:
+  -fluid-.---:
+    mimetype: application/octet-stream
+  2m-drsd.ans:
+    mimetype: text/plain
+  Aetflu1.asc:
+    mimetype: text/plain
+  Aetflu2.asc:
+    mimetype: text/plain
+  FLU#01.MEM:
+    mimetype: text/plain
+  FLU#01.NFO:
+    mimetype: text/plain
+  File_id.diz:
+    mimetype: text/plain
+  JD-DDUCK.ASC:
+    mimetype: text/plain
+  JD-LKING.ASC:
+    mimetype: text/plain
+  JD-PFTW.ASC:
+    mimetype: text/plain
+  Ma-fluid.Asc:
+    mimetype: text/plain
+  Ppe-natr.Asc:
+    mimetype: text/plain
+  Rbs-lmca.xm:
+    mimetype: audio/x-mod
+  Rbs-ns.xm:
+    mimetype: audio/x-mod
+  Rbs-sb.xm:
+    mimetype: audio/x-mod
+  Spf-natr.asc:
+    mimetype: text/plain
+  Sq_vol.asc:
+    mimetype: text/plain
+  Ta!flu1.jpg:
+    mimetype: image/jpeg
+  Ta!flu2.jpg:
+    mimetype: image/jpeg
+  Ta!flu3.jpg:
+    mimetype: image/jpeg
+  Us-efnet.asc:
+    mimetype: text/plain
+  Us-fluid.ans:
+    mimetype: text/plain
+  Yb-bird.jpg:
+    mimetype: image/jpeg
+  Yb-boy.jpg:
+    mimetype: image/jpeg
+  Yb-child.jpg:
+    mimetype: image/jpeg
+  Yb-lady.jpg:
+    mimetype: image/jpeg

@@ -1,0 +1,44 @@
+name: blndr041.zip
+hash: d2932b821b4fbba5fc0e3b542d95fe19
+year: 1997
+file:
+  '--------.---':
+    mimetype: text/plain
+  BLENDER.041:
+    mimetype: text/plain
+  BLENDER.HOF:
+    mimetype: text/plain
+  BLENDER.NFO:
+    mimetype: text/plain
+  BLENDER.SUP:
+    mimetype: text/plain
+  BOH-TECH.JPG:
+    mimetype: image/jpeg
+  BVIEW.DAT:
+    mimetype: application/octet-stream
+  BVIEW.EXE:
+    mimetype: application/x-msdos-program
+  CO-MARS2.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GL-BLEND.ANS:
+    mimetype: text/plain
+  GN-RAM.ZIP:
+    mimetype: application/zip
+  MARS.JPG:
+    mimetype: image/jpeg
+  MISTHUGE.ZIP:
+    mimetype: application/zip
+  MRP-BLND.ZIP:
+    mimetype: application/zip
+  PK-BLND.ANS:
+    mimetype: text/plain
+  PS_B41.EXE:
+    mimetype: application/x-msdos-program
+  SHY-DIE!.ANS:
+    mimetype: text/plain
+  SR-DYING.RIP:
+    mimetype: image/x-rip
+  US-MARS.ANS:
+    mimetype: text/plain

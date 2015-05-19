@@ -1,0 +1,32 @@
+name: sun#1.zip
+hash: 0a6b8098f5831b9ff69fa7438c3d6a1d
+year: 1994
+file:
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  SUN#1.EXE:
+    mimetype: application/x-msdos-program
+  SUN#1.NFO:
+    mimetype: text/plain
+  SUN1.DAT:
+    mimetype: text/plain
+  SUN2.DAT:
+    mimetype: application/x-dosexec
+  SUN3.DAT:
+    mimetype: image/gif
+  SUN4.DAT:
+    mimetype: image/gif
+  SUN5.DAT:
+    mimetype: image/gif
+  SUN6.DAT:
+    mimetype: image/gif
+  SUN7.DAT:
+    mimetype: image/gif
+  SUN8.DAT:
+    mimetype: image/gif
+  SUN9.DAT:
+    mimetype: image/gif
+  SUN10.DAT:
+    mimetype: image/gif
+  SUN11.DAT:
+    mimetype: image/gif

@@ -1,0 +1,36 @@
+name: ansip110.zip
+hash: 2d99ea50b23508729755a68e90ac6a8d
+year: 1994
+file:
+  !!binary /ket/i5FWEU=:
+    mimetype: application/x-msdos-program
+  ANSIPRO.DOC:
+    mimetype: text/plain
+  ANSIPRO.EXE:
+    mimetype: application/x-msdos-program
+  ANSIPRO.OVL:
+    mimetype: application/octet-stream
+  ARITH.TRC:
+    mimetype: application/octet-stream
+  CALLNOW!.COM:
+    mimetype: application/x-msdos-program
+  CIGARETT.BAN:
+    mimetype: application/octet-stream
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  MAG-LOGO.TRC:
+    mimetype: application/octet-stream
+  MAG-NTRY.BAN:
+    mimetype: application/octet-stream
+  NEOTOKYO.ANS:
+    mimetype: text/plain
+  PINGU2.BAN:
+    mimetype: application/octet-stream
+  REVISION.TXT:
+    mimetype: text/plain
+  TOXYC.TRC:
+    mimetype: application/octet-stream
+  UNDER.TRC:
+    mimetype: application/octet-stream
+  VISIONX.TRC:
+    mimetype: application/octet-stream

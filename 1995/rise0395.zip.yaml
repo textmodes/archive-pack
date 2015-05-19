@@ -1,0 +1,50 @@
+name: rise0395.zip
+hash: 01ff4bdfe3847e8c4ccf2fa0f3e9cc0a
+year: 1995
+file:
+  !!binary +P9BTlNJ//gu////:
+    mimetype: application/octet-stream
+  !!binary +P9JTkZP//gu////:
+    mimetype: application/octet-stream
+  !!binary +P9NT0RE//gu////:
+    mimetype: application/octet-stream
+  !!binary +P9WR0Eh//gu////:
+    mimetype: application/octet-stream
+  !!binary +P9WSUVX//gu////:
+    mimetype: application/octet-stream
+  AP-ANIM.ANS:
+    mimetype: text/plain
+  AP-LOGO1.ANS:
+    mimetype: text/plain
+  AP-SW.ANS:
+    mimetype: text/plain
+  AP-TGM.ANS:
+    mimetype: text/plain
+  EL-CHAOT.ANS:
+    mimetype: text/plain
+  EL-OBV2M.ZIP:
+    mimetype: application/zip
+  EL-TNC1.ANS:
+    mimetype: text/plain
+  EL-TNC2.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  NAPALM.COM:
+    mimetype: application/x-msdos-program
+  PS-BOW1.ANS:
+    mimetype: text/plain
+  PS-PATT.ASC:
+    mimetype: text/plain
+  PS-RISE1.ANS:
+    mimetype: text/plain
+  PS-TGM1.ANS:
+    mimetype: text/plain
+  RISE.GIF:
+    mimetype: image/gif
+  RISE0395.NFO:
+    mimetype: text/plain
+  RISEDIST.NFO:
+    mimetype: text/plain
+  RISEVIEW.EXE:
+    mimetype: application/x-msdos-program

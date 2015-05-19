@@ -1,0 +1,16 @@
+name: z-md2.zip
+hash: a13133ca38e68ad636f496415ffe9285
+year: 1992
+file:
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FUN!.COM:
+    mimetype: application/x-msdos-program
+  MD2.COM:
+    mimetype: application/x-msdos-program
+  MD2.DAT:
+    mimetype: text/plain
+  MD2.TXT:
+    mimetype: text/plain
+  RUN_THIS.EXE:
+    mimetype: application/x-msdos-program

@@ -1,0 +1,64 @@
+name: galza-12.zip
+hash: b3e8ddde49d7d0bd6ebfc604e5512db1
+year: 2001
+file:
+  AMI_FNT.ZIP:
+    mimetype: application/zip
+  B_MASK.ASC:
+    mimetype: text/plain
+  B_NAB^01.ANS:
+    mimetype: text/plain
+  B_ROCK.ANS:
+    mimetype: text/plain
+  B_SHOUSE.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GALZA-12.TXT:
+    mimetype: text/plain
+  I_L^KAK.ASC:
+    mimetype: text/plain
+  I_L^STUF.ASC:
+    mimetype: text/plain
+  SCZ-AQUA.ASC:
+    mimetype: text/plain
+  SHD-DFL.ANS:
+    mimetype: text/plain
+  SHD-DKND.ASC:
+    mimetype: text/plain
+  SHD-DRGN.ANS:
+    mimetype: text/plain
+  SHD-DWLD.ANS:
+    mimetype: text/plain
+  SHD-FLWR.ANS:
+    mimetype: text/plain
+  SHD-GZA.ANS:
+    mimetype: text/plain
+  SHD-SDRK.ASC:
+    mimetype: text/plain
+  SHD-SURV.ANS:
+    mimetype: text/plain
+  SHD-UNCR.ANS:
+    mimetype: text/plain
+  SHL-GZA.ANS:
+    mimetype: text/plain
+  SHL-GZA2.ANS:
+    mimetype: text/plain
+  SRB^AWEG.ANS:
+    mimetype: text/plain
+  THUGLIFE.ORG:
+    mimetype: text/plain
+  ZJ-BURN.TXT:
+    mimetype: text/plain
+  ZJ-GALZA.ASC:
+    mimetype: text/plain
+  ZJ-GALZA.TIF:
+    mimetype: image/tiff
+  ZJ-HOLE.TXT:
+    mimetype: text/plain
+  ZJ-IROD.TXT:
+    mimetype: text/plain
+  ZJ-RSP.TXT:
+    mimetype: text/plain
+  ZJ-RUSH.TXT:
+    mimetype: text/plain

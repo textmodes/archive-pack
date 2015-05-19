@@ -1,0 +1,68 @@
+name: hrg-02.zip
+hash: 588a87abb847fd71d07b4ddd38681d0f
+year: 1997
+file:
+  '!PASSED!.APS':
+    mimetype: text/plain
+  AC7-97.ASC:
+    mimetype: text/plain
+  BP!.ASC:
+    mimetype: text/plain
+  BP.NFO:
+    mimetype: text/plain
+  BYTEFALL.ASC:
+    mimetype: text/plain
+  CAMEFROM.ASC:
+    mimetype: text/plain
+  CENTAUR.GIF:
+    mimetype: image/gif
+  CORPSE.ASC:
+    mimetype: text/plain
+  DARK.ASC:
+    mimetype: text/plain
+  DEATHNET.ASC:
+    mimetype: text/plain
+  DIZS.ASC:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GANG.ASC:
+    mimetype: text/plain
+  GLOBAL.ASC:
+    mimetype: text/plain
+  GOBLIN.ASC:
+    mimetype: text/plain
+  HRG.APL:
+    mimetype: text/plain
+  HRG.JPG:
+    mimetype: image/jpeg
+  HRG.NFO:
+    mimetype: text/plain
+  LOOKATIT.MAN:
+    mimetype: text/plain
+  LUNG.GIF:
+    mimetype: image/gif
+  MERRY.ASC:
+    mimetype: text/plain
+  MLT-DIZS.ASC:
+    mimetype: text/plain
+  MLT-LOGO.ASC:
+    mimetype: text/plain
+  NEW_YEAR.GIF:
+    mimetype: image/gif
+  PG-PROPZ.ASC:
+    mimetype: text/plain
+  RRR.ASC:
+    mimetype: text/plain
+  RRR3.ANS:
+    mimetype: text/plain
+  SCHACHT.ASC:
+    mimetype: text/plain
+  SP-BOY.ASC:
+    mimetype: text/plain
+  SPRO-APL.JPG:
+    mimetype: image/jpeg
+  SPRO-LOI.JPG:
+    mimetype: image/jpeg
+  SPRO-PRM.JPG:
+    mimetype: image/jpeg

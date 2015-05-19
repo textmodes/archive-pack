@@ -1,0 +1,16 @@
+name: ansis-u.zip
+hash: 0937edd1ee0c438536547bb70f0181d3
+year: 1993
+file:
+  -RUNME.COM:
+    mimetype: application/x-msdos-program
+  UNIVNO.ANS:
+    mimetype: text/plain
+  UNRLACID.ANS:
+    mimetype: text/plain
+  USAMN.ANS:
+    mimetype: text/plain
+  USR.ANS:
+    mimetype: text/plain
+  USSR1ACD.ANS:
+    mimetype: text/plain

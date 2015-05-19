@@ -1,0 +1,8 @@
+name: arn_watr.zip
+hash: 12e987aad98dd89f4e2c112bd07e9b23
+year: 1995
+file:
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  WATER.TDF:
+    mimetype: application/octet-stream

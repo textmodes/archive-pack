@@ -1,0 +1,68 @@
+name: rvl-0496.zip
+hash: 8e8f3df78999f37915f7ce538943b192
+year: 1996
+file:
+  --ANSI--:
+    mimetype: text/plain
+  --ASC--:
+    mimetype: text/plain
+  --MISC--:
+    mimetype: text/plain
+  --VGA--:
+    mimetype: text/plain
+  27-DIA02.ANS:
+    mimetype: text/plain
+  27-REV01.ANS:
+    mimetype: text/plain
+  27-STK02.ANS:
+    mimetype: text/plain
+  BH-UNI1.ANS:
+    mimetype: text/plain
+  CN-COLLY.ASC:
+    mimetype: text/plain
+  CNCAPP.EXE:
+    mimetype: application/x-msdos-program
+  EN-COLLY.ASC:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  JADEDREQ.EXE:
+    mimetype: application/x-msdos-program
+  JD-COLLY.ASC:
+    mimetype: text/plain
+  KO-RHB1.ANS:
+    mimetype: text/plain
+  LM-DIAB.ANS:
+    mimetype: text/plain
+  LR-COL01.ANS:
+    mimetype: text/plain
+  MD-RVL.ASC:
+    mimetype: text/plain
+  MONK1:
+    mimetype: text/plain
+  MX-RIVAL.GIF:
+    mimetype: image/gif
+  PG-DRIP.JPG:
+    mimetype: image/jpeg
+  PG-RADIO.JPG:
+    mimetype: image/jpeg
+  PR-SC01.ANS:
+    mimetype: text/plain
+  PT-AA1.ANS:
+    mimetype: text/plain
+  PT-DM1.ANS:
+    mimetype: text/plain
+  RIVAL2.WAV:
+    mimetype: audio/x-wav
+  RVL-0496.MEM:
+    mimetype: text/plain
+  RVL-0496.NFO:
+    mimetype: text/plain
+  SA-ILL1.ANS:
+    mimetype: text/plain
+  SA-SG.ANS:
+    mimetype: text/plain
+  TH-COLLY.ASC:
+    mimetype: text/plain
+  TL-RVL01.ANS:
+    mimetype: text/plain

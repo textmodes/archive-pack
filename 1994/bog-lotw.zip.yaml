@@ -1,0 +1,12 @@
+name: bog-lotw.zip
+hash: f202374a7b17913b72125242eabd29b9
+year: 1994
+file:
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FUN!.COM:
+    mimetype: application/x-msdos-program
+  LOTW.EXE:
+    mimetype: application/x-msdos-program
+  MAGAZINE.DAT:
+    mimetype: audio/x-mod

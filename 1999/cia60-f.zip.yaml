@@ -1,0 +1,34 @@
+name: cia60-f.zip
+hash: f859245bcb134cdc05a0d216e7029b31
+year: 1999
+file:
+  --C-I-A-.---:
+    mimetype: text/plain
+  0199INFO.CIA:
+    mimetype: text/plain
+  0199MEMB.CIA:
+    mimetype: text/plain
+  DN_AM.JPG:
+    mimetype: image/jpeg
+  DN_GAP.JPG:
+    mimetype: image/jpeg
+  FFH_DC.JPG:
+    mimetype: image/jpeg
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GF_PSY.JPG:
+    mimetype: image/jpeg
+  I0_UNT03.JPG:
+    mimetype: image/jpeg
+  IK_CONT.GIF:
+    mimetype: image/gif
+  IK_NWDWN.JPG:
+    mimetype: image/jpeg
+  LK_CTR99.JPG:
+    mimetype: image/jpeg
+  PK_GIRL.JPG:
+    mimetype: image/jpeg
+  SS_FOG.JPG:
+    mimetype: image/jpeg
+  SS_SPACE.JPG:
+    mimetype: image/jpeg

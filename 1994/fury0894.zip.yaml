@@ -1,0 +1,40 @@
+name: fury0894.zip
+hash: 1d1e1446312fb12015e56735648c19d3
+year: 1994
+file:
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FMEMBERS.LST:
+    mimetype: text/plain
+  FURY0894.NFO:
+    mimetype: text/plain
+  FURYAPP.EXE:
+    mimetype: application/x-msdos-program
+  FVIEW.EXE:
+    mimetype: application/x-msdos-program
+  GIF.DAT:
+    mimetype: application/x-dosexec
+  MC-CS5.ANS:
+    mimetype: text/plain
+  MC-DEV.ANS:
+    mimetype: text/plain
+  MC-GM2.ANS:
+    mimetype: text/plain
+  MC-INFNZ.ANS:
+    mimetype: text/plain
+  MC-STD.ANS:
+    mimetype: text/plain
+  MT-SHAD2.ANS:
+    mimetype: text/plain
+  OM-ICE.RIP:
+    mimetype: image/x-rip
+  OZ-RASH1.ANS:
+    mimetype: text/plain
+  RIP.DAT:
+    mimetype: application/x-dosexec
+  SK-INIQ.ANS:
+    mimetype: text/plain
+  SK-LOGO.ANS:
+    mimetype: text/plain
+  ZG-CS2.GIF:
+    mimetype: image/gif

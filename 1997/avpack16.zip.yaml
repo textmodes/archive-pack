@@ -1,0 +1,80 @@
+name: avpack16.zip
+hash: d02346716d6d1c0bb320d558cbc0c15d
+year: 1997
+file:
+  '#ansi#':
+    mimetype: text/plain
+  '#info#':
+    mimetype: text/plain
+  '#misc#':
+    mimetype: text/plain
+  '#rip#':
+    mimetype: text/plain
+  '#vga#':
+    mimetype: text/plain
+  REFRACT.ANS:
+    mimetype: text/plain
+  av96.exe:
+    mimetype: application/x-msdos-program
+  avview96.nfo:
+    mimetype: text/plain
+  contents.av:
+    mimetype: text/plain
+  ds-ans03.ans:
+    mimetype: text/plain
+  ds-chees.ans:
+    mimetype: text/plain
+  ds-hole.ans:
+    mimetype: text/plain
+  ds-wah!!.ans:
+    mimetype: text/plain
+  en-logo.ans:
+    mimetype: text/plain
+  file_id.diz:
+    mimetype: text/plain
+  frg-ans2.ans:
+    mimetype: text/plain
+  gen-ansi.jpg:
+    mimetype: image/jpeg
+  ig-forge.ans:
+    mimetype: text/plain
+  ig-inv1.ans:
+    mimetype: text/plain
+  info.av:
+    mimetype: text/plain
+  je-flpwr.ans:
+    mimetype: text/plain
+  krl-bcd.rip:
+    mimetype: image/x-rip
+  krl-dead.rip:
+    mimetype: image/x-rip
+  krl-funk.rip:
+    mimetype: image/x-rip
+  krl-grav.rip:
+    mimetype: image/x-rip
+  krl-raw.rip:
+    mimetype: image/x-rip
+  krl-ref3.ans:
+    mimetype: text/plain
+  members.av:
+    mimetype: text/plain
+  nb-apoc.ans:
+    mimetype: text/plain
+  ne-sies2.ans:
+    mimetype: text/plain
+  ne-sta.asc:
+    mimetype: text/plain
+  neo-slin.zip:
+    mimetype: application/zip
+  ror-av.ans:
+    mimetype: text/plain
+  us-av1.ans:
+    mimetype: text/plain
+  vj-chrch.jpg:
+    mimetype: image/jpeg
+  vj-peace.jpg:
+    mimetype: image/jpeg
+  vj-psych.ans:
+    mimetype: text/plain
+  vj-r.jpg:
+    mimetype: image/jpeg

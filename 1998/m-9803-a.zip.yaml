@@ -1,0 +1,116 @@
+name: m-9803-a.zip
+hash: 82316552187fbeca0f3cac90e75eb35a
+year: 1998
+file:
+  -STUFF.-:
+    mimetype: text/plain
+  ANSI/(3)-1.ANS:
+    mimetype: text/plain
+  ANSI/-ANSI.-:
+    mimetype: text/plain
+  ANSI/BIZ-NERP.ANS:
+    mimetype: text/plain
+  ANSI/DD-SV1.ANS:
+    mimetype: text/plain
+  ANSI/FFH_MIST.ANS:
+    mimetype: text/plain
+  ANSI/GSO-DRN1.ANS:
+    mimetype: text/plain
+  ANSI/GSO-HU.ANS:
+    mimetype: text/plain
+  ANSI/GSO-MIST.ANS:
+    mimetype: text/plain
+  ANSI/HQ-C0398.ANS:
+    mimetype: text/plain
+  ANSI/HQ-PORCU.ANS:
+    mimetype: text/plain
+  ANSI/MR-LOGO1.ANS:
+    mimetype: text/plain
+  ANSI/OF-LOGO3.ANS:
+    mimetype: text/plain
+  ANSI/QP-LOGO1.ANS:
+    mimetype: text/plain
+  ANSI/QP-ZERO1.ANS:
+    mimetype: text/plain
+  ANSI/RH-GEEK2.ANS:
+    mimetype: text/plain
+  ANSI/RH-NASM1.ANS:
+    mimetype: text/plain
+  ANSI/RH-TLED1.ANS:
+    mimetype: text/plain
+  ANSI/SM-BELIZ.ANS:
+    mimetype: text/plain
+  ANSI/TE-NASL1.ANS:
+    mimetype: text/plain
+  ANSI/US-BTJM.ANS:
+    mimetype: text/plain
+  ANSI/US-TLE1.ANS:
+    mimetype: text/plain
+  ASCII/-ASCII.-:
+    mimetype: text/plain
+  ASCII/BIF-SL.ASC:
+    mimetype: text/plain
+  ASCII/CM-COLLY.ASC:
+    mimetype: text/plain
+  ASCII/DS-0ML.ASC:
+    mimetype: text/plain
+  ASCII/DS-AWE0M.ASC:
+    mimetype: text/plain
+  ASCII/DS-FUNC0.ASC:
+    mimetype: text/plain
+  ASCII/DS-MIST0.ASC:
+    mimetype: text/plain
+  ASCII/DS-RE00.ASC:
+    mimetype: text/plain
+  ASCII/DS-RMRS0.ASC:
+    mimetype: text/plain
+  ASCII/DS-TJAD3.ASC:
+    mimetype: text/plain
+  ASCII/DS-ZER0.ASC:
+    mimetype: text/plain
+  ASCII/EX-TJM.ASC:
+    mimetype: text/plain
+  ASCII/M-JMONKY.ASC:
+    mimetype: text/plain
+  ASCII/WB-COL1.ASC:
+    mimetype: text/plain
+  ASCII/WE-GMM1.ASC:
+    mimetype: text/plain
+  CCI-025.ARJ:
+    mimetype: application/x-arj
+  END_LOWR.EZ-:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GOLDVIEW.ZIP:
+    mimetype: application/zip
+  KITSCH30.ZIP:
+    mimetype: application/zip
+  LIT/-LIT.-:
+    mimetype: text/plain
+  LIT/CYR-KITC.LIT:
+    mimetype: text/plain
+  LIT/ONX-MELI.LIT:
+    mimetype: text/plain
+  LIT/SKR-FEB.LIT:
+    mimetype: text/plain
+  MIST0398.MEM:
+    mimetype: text/plain
+  MIST0398.NFO:
+    mimetype: text/plain
+  MSTAPP20.ZIP:
+    mimetype: application/zip
+  RIP/-RIP.-:
+    mimetype: text/plain
+  RIP/DS-JADE0.RIP:
+    mimetype: image/x-rip
+  RIP/DS-MSTP.RIP:
+    mimetype: image/x-rip
+  RIP/DS-OMLET.RIP:
+    mimetype: image/x-rip
+  RIP/LB-ID1.RIP:
+    mimetype: image/x-rip
+  RIP/TT-ISUK@.RIP:
+    mimetype: image/x-rip
+  RIP/TT-MFUNK.RIP:
+    mimetype: image/x-rip

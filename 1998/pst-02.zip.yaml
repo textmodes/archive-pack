@@ -1,0 +1,64 @@
+name: pst-02.zip
+hash: e913b79b6d7c36afd665249892e6ae1d
+year: 1998
+file:
+  -(ANSI)-:
+    mimetype: text/plain
+  -(ASCI)-:
+    mimetype: text/plain
+  -(INFO)-:
+    mimetype: text/plain
+  -(MISC)-:
+    mimetype: text/plain
+  -(RIP)-:
+    mimetype: text/plain
+  -(VGA)-:
+    mimetype: text/plain
+  CK-COLLY.ANS:
+    mimetype: text/plain
+  DS-COLL1.ANS:
+    mimetype: text/plain
+  DS-PSYCH.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  MEMBERS.PST:
+    mimetype: text/plain
+  NEWS.PST:
+    mimetype: text/plain
+  PST-APP.EXE:
+    mimetype: application/x-msdos-program
+  PST-APP.NFO:
+    mimetype: text/plain
+  REVOLUTE.PSY:
+    mimetype: text/plain
+  RP-ANSI.ANS:
+    mimetype: text/plain
+  RP-DCAY.ASC:
+    mimetype: text/plain
+  RP-DECAY.ANS:
+    mimetype: text/plain
+  RP-FORGE.ANS:
+    mimetype: text/plain
+  RP-ORG.ANS:
+    mimetype: text/plain
+  RP-RIFT.ASC:
+    mimetype: text/plain
+  RP-SW.ASC:
+    mimetype: text/plain
+  TAX-CGUN.JPG:
+    mimetype: image/jpeg
+  TAX-DBLZ.RIP:
+    mimetype: image/x-rip
+  TR-PST2.ANS:
+    mimetype: text/plain
+  VJ-COLLY.ANS:
+    mimetype: text/plain
+  VJ-CR.ANS:
+    mimetype: text/plain
+  VJ-POLYT.JPG:
+    mimetype: image/jpeg
+  VJ-SESTA.ANS:
+    mimetype: text/plain
+  VJ-WRHSE.JPG:
+    mimetype: image/jpeg

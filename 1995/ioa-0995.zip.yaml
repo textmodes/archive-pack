@@ -1,0 +1,142 @@
+name: ioa-0995.zip
+hash: 09f741e01d83928af9bd4e31f3b3fa1e
+year: 1995
+file:
+  '---ANSI.---':
+    mimetype: text/plain
+  '---ASCII.---':
+    mimetype: text/plain
+  '---MUSIC.---':
+    mimetype: text/plain
+  '---VGA.---':
+    mimetype: text/plain
+  --LOADER.S--:
+    mimetype: text/plain
+  BM-BEAT.MOD:
+    mimetype: audio/x-mod
+  BM-HARD.MOD:
+    mimetype: audio/x-mod
+  BM-IOA.MOD:
+    mimetype: audio/x-mod
+  BM-LIST.TXT:
+    mimetype: text/plain
+  BM-PBEXP.MOD:
+    mimetype: audio/x-mod
+  BM-PBJAZ.MOD:
+    mimetype: audio/x-mod
+  BM-RAGIN.S3M:
+    mimetype: audio/x-mod
+  BM-TOAST.S3M:
+    mimetype: audio/x-mod
+  CH-GOD.IOA:
+    mimetype: text/plain
+  CH-IOA.IOA:
+    mimetype: text/plain
+  CH-SIT.IOA:
+    mimetype: text/plain
+  CH-TOL.IOA:
+    mimetype: text/plain
+  CH-TOL2.IOA:
+    mimetype: text/plain
+  CZ-GOD.EXE:
+    mimetype: application/x-msdos-program
+  DISREAL.EXE:
+    mimetype: application/x-msdos-program
+  DP-DWR.IOA:
+    mimetype: text/plain
+  DP-GOD.IOA:
+    mimetype: text/plain
+  DP-TU.IOA:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  HM-DIM7!.IOA:
+    mimetype: text/plain
+  HM-GODFT.IOA:
+    mimetype: text/plain
+  HM-RAGE!.IOA:
+    mimetype: text/plain
+  HMSS-PRM.IOA:
+    mimetype: text/plain
+  IOA-APP.ZIP:
+    mimetype: application/zip
+  IOA-VIEW.ZIP:
+    mimetype: application/zip
+  LC-KT.JPG:
+    mimetype: image/jpeg
+  MEM0995.LST:
+    mimetype: text/plain
+  MI-IOA.IOA:
+    mimetype: text/plain
+  MI-NN.IOA:
+    mimetype: text/plain
+  MS-IOA.PCX:
+    mimetype: image/pcx
+  MS-RF.PCX:
+    mimetype: image/pcx
+  MS-TKT.PCX:
+    mimetype: image/pcx
+  MS-TKT2.PCX:
+    mimetype: image/pcx
+  NEWS0995.ANS:
+    mimetype: text/plain
+  REALITY.ANS:
+    mimetype: text/plain
+  SA-DWR.GIF:
+    mimetype: image/gif
+  SA-GOD.GIF:
+    mimetype: image/gif
+  SA-IOA2.GIF:
+    mimetype: image/gif
+  SA-RAGE.GIF:
+    mimetype: image/gif
+  SA-RF-5.GIF:
+    mimetype: image/gif
+  SC-IOA.ASC:
+    mimetype: text/plain
+  SH-KT.LIT:
+    mimetype: text/plain
+  SP-BOR.GIF:
+    mimetype: image/gif
+  SP-CONGO.PCX:
+    mimetype: image/pcx
+  SP-GOD.IOA:
+    mimetype: text/plain
+  SP-KT.IOA:
+    mimetype: text/plain
+  SP-RF.PCX:
+    mimetype: image/pcx
+  SP-UNDWL.PCX:
+    mimetype: image/pcx
+  SS-BOR.ASC:
+    mimetype: text/plain
+  SS-BOR.IOA:
+    mimetype: text/plain
+  SS-DT.IOA:
+    mimetype: text/plain
+  SS-DWR.ASC:
+    mimetype: text/plain
+  SS-DWR.EXE:
+    mimetype: application/x-msdos-program
+  SS-DWR.IOA:
+    mimetype: text/plain
+  SS-IOA1.IOA:
+    mimetype: text/plain
+  SS-IOA2.IOA:
+    mimetype: text/plain
+  SS-KT.IOA:
+    mimetype: text/plain
+  SS-MENAC.IOA:
+    mimetype: text/plain
+  SS-SIT.IOA:
+    mimetype: text/plain
+  SS-TSL.IOA:
+    mimetype: text/plain
+  TK-IOA.GIF:
+    mimetype: image/gif
+  TK-IOA2.GIF:
+    mimetype: image/gif
+  TM-DISR.IOA:
+    mimetype: text/plain
+  TM-TPA.IOA:
+    mimetype: text/plain

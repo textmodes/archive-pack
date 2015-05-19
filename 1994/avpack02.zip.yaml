@@ -1,0 +1,68 @@
+name: avpack02.zip
+hash: b2cf757652e5c5c54a12d8cc80bad6ba
+year: 1994
+file:
+  !!binary xMTExPlMSVQuxMTE:
+    mimetype: text/plain
+  !!binary xMTExPlWR0EuxMTE:
+    mimetype: text/plain
+  !!binary xMTE+UFOU0kuxMTE:
+    mimetype: text/plain
+  APV-COL.AV:
+    mimetype: text/plain
+  BA-ANTE.LIT:
+    mimetype: text/plain
+  BA-CYC.LIT:
+    mimetype: text/plain
+  BA-PRIDE.LIT:
+    mimetype: text/plain
+  BA-PSY.LIT:
+    mimetype: text/plain
+  BA-REAL.LIT:
+    mimetype: text/plain
+  BA-SANE.LIT:
+    mimetype: text/plain
+  BA-TRIAD.LIT:
+    mimetype: text/plain
+  CONTENTS.AVI:
+    mimetype: video/x-msvideo
+  DRMSTATE.EXE:
+    mimetype: application/x-msdos-program
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  HO-HO.AV:
+    mimetype: text/plain
+  HQ-AFTER.LIT:
+    mimetype: text/plain
+  HQ-ALIEN.LIT:
+    mimetype: text/plain
+  HQ-LUNA.LIT:
+    mimetype: text/plain
+  HS-AV2.GIF:
+    mimetype: image/gif
+  HS-AV3.AV:
+    mimetype: text/plain
+  HS-GNS.AV:
+    mimetype: text/plain
+  HS-JTR.LIT:
+    mimetype: text/plain
+  HS-SHC.LIT:
+    mimetype: text/plain
+  HS-SNP.LIT:
+    mimetype: text/plain
+  ICE-K.AV:
+    mimetype: text/plain
+  INFO.AVI:
+    mimetype: video/x-msvideo
+  JE-AV#5.GIF:
+    mimetype: image/gif
+  JE-DRM#1.AV:
+    mimetype: text/plain
+  JE-IKBMM.AV:
+    mimetype: text/plain
+  MEMBERS.AVI:
+    mimetype: video/x-msvideo
+  SITES.AVI:
+    mimetype: video/x-msvideo
+  SMILEY-1.GIF:
+    mimetype: image/gif

@@ -1,0 +1,112 @@
+name: ice9607a.zip
+hash: 52e66c1a3cadfa1023aeb895ec5a1826
+year: 1996
+file:
+  -ANSI---.---:
+    mimetype: text/plain
+  -LOGO---.---:
+    mimetype: text/plain
+  AX-ILC03.ICE:
+    mimetype: text/plain
+  CC-RUST1.ICE:
+    mimetype: text/plain
+  CONT'D:
+    mimetype: text/plain
+  CU-ANKH.ICE:
+    mimetype: text/plain
+  CU-DOOD.ICE:
+    mimetype: text/plain
+  CU-HAV.ICE:
+    mimetype: text/plain
+  CU-HAV2.ICE:
+    mimetype: text/plain
+  CU-LV2.ICE:
+    mimetype: text/plain
+  CU-MAGBA.ICE:
+    mimetype: text/plain
+  CU-OS.ICE:
+    mimetype: text/plain
+  DD-SBACK.ICE:
+    mimetype: text/plain
+  EQ-FFG02.ICE:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GM-PHU.ICE:
+    mimetype: text/plain
+  GN-TF.ICE:
+    mimetype: text/plain
+  ICE-9607.DSC:
+    mimetype: text/plain
+  ICE-9607.MEM:
+    mimetype: text/plain
+  ICE-9607.NFO:
+    mimetype: text/plain
+  ICE-9607.SIT:
+    mimetype: text/plain
+  ICE-9607.STS:
+    mimetype: text/plain
+  ICEVIEW.CNF:
+    mimetype: text/plain
+  ICEVIEW.DOC:
+    mimetype: text/plain
+  ICEVIEW.EXE:
+    mimetype: application/x-msdos-program
+  IV-APT5.ICE:
+    mimetype: text/plain
+  IV-PIF.DVP:
+    mimetype: application/octet-stream
+  JU-TWS1.ICE:
+    mimetype: text/plain
+  KA-COL2.ICE:
+    mimetype: text/plain
+  KA-WHY.ICE:
+    mimetype: text/plain
+  KZ-SD2.ICE:
+    mimetype: text/plain
+  LM-LV1.ICE:
+    mimetype: text/plain
+  LM-LV2.ICE:
+    mimetype: text/plain
+  LM-SD1.ICE:
+    mimetype: text/plain
+  PA-EVIL1.ICE:
+    mimetype: text/plain
+  PA-LOGO2.ICE:
+    mimetype: text/plain
+  PA-PROP1.ICE:
+    mimetype: text/plain
+  PA-RUST2.ICE:
+    mimetype: text/plain
+  PV.EXE:
+    mimetype: application/x-msdos-program
+  SG-DV2.ICE:
+    mimetype: text/plain
+  SG-LV1.ICE:
+    mimetype: text/plain
+  SG-MB1.ICE:
+    mimetype: text/plain
+  TE-CHAO1.ICE:
+    mimetype: text/plain
+  TE-ROSW.ICE:
+    mimetype: text/plain
+  TG-DG1.ICE:
+    mimetype: text/plain
+  TG-SANC2.ICE:
+    mimetype: text/plain
+  TH-CODEX.ICE:
+    mimetype: text/plain
+  TH-RUST.ICE:
+    mimetype: text/plain
+  US-HACK3.ICE:
+    mimetype: text/plain
+  US-HELLT.ICE:
+    mimetype: text/plain
+  US-LL1.ICE:
+    mimetype: text/plain
+  US-PB1.ICE:
+    mimetype: text/plain
+  US-RSOMA.ICE:
+    mimetype: text/plain
+  US-RUST.ICE:
+    mimetype: text/plain

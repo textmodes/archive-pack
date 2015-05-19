@@ -1,0 +1,40 @@
+name: acidvga.zip
+hash: 3f23d5069ac1f3b66a4be96d77200c3a
+year: 1992
+file:
+  ACIDMEMS.EXE:
+    mimetype: application/x-msdos-program
+  ACIDT.EXE:
+    mimetype: application/x-msdos-program
+  ACIDVGA.EXE:
+    mimetype: application/x-msdos-program
+  ACIDVGA.NFO:
+    mimetype: text/plain
+  CREWELYE.EXE:
+    mimetype: application/x-msdos-program
+  CRWLACD2.EXE:
+    mimetype: application/x-msdos-program
+  FUCKFED.EXE:
+    mimetype: application/x-msdos-program
+  JED.EXE:
+    mimetype: application/x-msdos-program
+  MWI.COM:
+    mimetype: application/x-msdos-program
+  POOL.EXE:
+    mimetype: application/x-msdos-program
+  REBEL.EXE:
+    mimetype: application/x-msdos-program
+  SC1ACID.EXE:
+    mimetype: application/x-msdos-program
+  SCD#12.GIF:
+    mimetype: image/gif
+  SCD#13.EXE:
+    mimetype: application/x-msdos-program
+  SCD#14.EXE:
+    mimetype: application/x-msdos-program
+  SH-ACID1.EXE:
+    mimetype: application/x-msdos-program
+  TSRACID.EXE:
+    mimetype: application/x-msdos-program
+  USA.EXE:
+    mimetype: application/x-msdos-program

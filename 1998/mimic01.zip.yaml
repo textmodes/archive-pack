@@ -1,0 +1,46 @@
+name: mimic01.zip
+hash: 8cf8d7142a891bb7a20b1a3dc2135199
+year: 1998
+file:
+  ./2N-MIMIC.ASC:
+    mimetype: text/plain
+  ./2N-PAR.ASC:
+    mimetype: text/plain
+  ./2n-#asci.ans:
+    mimetype: text/plain
+  ./2n-ccrim.asc:
+    mimetype: text/plain
+  ./2n-one.asc:
+    mimetype: text/plain
+  ./TRASH.N3T:
+    mimetype: text/plain
+  ./ac-mimic.asc:
+    mimetype: text/plain
+  ./ack-mim1.asc:
+    mimetype: text/plain
+  ./bjasc101.ans:
+    mimetype: text/plain
+  ./euro.asc:
+    mimetype: text/plain
+  ./ezpass.txt:
+    mimetype: text/plain
+  ./file_id.diz:
+    mimetype: text/plain
+  ./ko-salt.asc:
+    mimetype: text/plain
+  ./m-dez^01.txt:
+    mimetype: text/plain
+  ./members.ans:
+    mimetype: text/plain
+  ./mer-ani.asc:
+    mimetype: text/plain
+  ./mer-flas.asc:
+    mimetype: text/plain
+  ./mer-heyh.asc:
+    mimetype: text/plain
+  ./mer-just.asc:
+    mimetype: text/plain
+  ./mer-whod.asc:
+    mimetype: text/plain
+  ./nl-fface.asc:
+    mimetype: text/plain

@@ -1,0 +1,34 @@
+name: cdr-idle.zip
+hash: 775f45b522c677b02721523b5ff143fc
+year: 2000
+file:
+  File_id.diz:
+    mimetype: text/plain
+  cDr-idle.txt:
+    mimetype: text/plain
+  kyhygwos.nfo:
+    mimetype: text/plain
+  nfos/Afterglow.nfo:
+    mimetype: text/plain
+  nfos/PH.nfo:
+    mimetype: text/plain
+  nfos/RAMPAGE.nfo:
+    mimetype: text/plain
+  nfos/SKIDROW.NFO:
+    mimetype: text/plain
+  nfos/TFT.nfo:
+    mimetype: text/plain
+  nfos/WACKY.nfo:
+    mimetype: text/plain
+  nfos/egs.nfo:
+    mimetype: text/plain
+  nfos/hellhammer.nfo:
+    mimetype: text/plain
+  nfos/hs.nfo:
+    mimetype: text/plain
+  nfos/menace.nfo:
+    mimetype: text/plain
+  nfos/mindscape.nfo:
+    mimetype: text/plain
+  nfos/valhalla.nfo:
+    mimetype: text/plain

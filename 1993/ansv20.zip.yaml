@@ -1,0 +1,42 @@
+name: ansv20.zip
+hash: de8d19bb7128028db86b4880d975609b
+year: 1993
+file:
+  12R.EXE:
+    mimetype: application/x-msdos-program
+  14R.EXE:
+    mimetype: application/x-msdos-program
+  21R.EXE:
+    mimetype: application/x-msdos-program
+  25R.EXE:
+    mimetype: application/x-msdos-program
+  28R.EXE:
+    mimetype: application/x-msdos-program
+  43R.EXE:
+    mimetype: application/x-msdos-program
+  50R.EXE:
+    mimetype: application/x-msdos-program
+  AV.DOC:
+    mimetype: text/plain
+  AV.EXE:
+    mimetype: application/x-msdos-program
+  COWBOY.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FIREWORK.ANS:
+    mimetype: text/plain
+  FRUIT.ANS:
+    mimetype: text/plain
+  README.1ST:
+    mimetype: text/plain
+  REGISTER.DOC:
+    mimetype: text/plain
+  SHUTTLE2.ANS:
+    mimetype: text/plain
+  TESTMENU.ANS:
+    mimetype: text/plain
+  TESTMENU.BAT:
+    mimetype: application/x-msdos-program
+  WHATSNEW.DOC:
+    mimetype: text/plain

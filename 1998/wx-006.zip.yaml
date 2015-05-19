@@ -1,0 +1,36 @@
+name: wx-006.zip
+hash: 150b9826098ba587efc09ab8d0a7568a
+year: 1998
+file:
+  DIPSCHAL.TER:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  WX-006.NFO:
+    mimetype: text/plain
+  WX.APP:
+    mimetype: application/octet-stream
+  WX006-01.JPG:
+    mimetype: image/jpeg
+  WX006-02.JPG:
+    mimetype: image/jpeg
+  WX006-03.JPG:
+    mimetype: image/jpeg
+  WX006-04.JPG:
+    mimetype: image/jpeg
+  WX006-05.JPG:
+    mimetype: image/jpeg
+  WX006-06.JPG:
+    mimetype: image/jpeg
+  WX006-07.JPG:
+    mimetype: image/jpeg
+  WX006-08.JPG:
+    mimetype: image/jpeg
+  WX006-09.JPG:
+    mimetype: image/jpeg
+  WX006-10.JPG:
+    mimetype: image/jpeg
+  WX006-11.JPG:
+    mimetype: image/jpeg
+  bURNERS.e2e:
+    mimetype: text/plain

@@ -1,0 +1,52 @@
+name: gf-05.zip
+hash: a08997833f8a4d24ffdaa441b7d42ec5
+year: 2005
+file:
+  Ascii/gf-NH.asc:
+    mimetype: text/plain
+  Ascii/gf-eng.nfo:
+    mimetype: text/plain
+  Ascii/gf-games.asc:
+    mimetype: text/plain
+  Ascii/gf-loonc.nfo:
+    mimetype: text/plain
+  Ascii/gf-mkn.nfo:
+    mimetype: text/plain
+  Ascii/gf-pain.asc:
+    mimetype: text/plain
+  Ascii/gf-s3t.nfo:
+    mimetype: text/plain
+  Ascii/gf-spk.nfo:
+    mimetype: text/plain
+  Ascii/gf-sslk.asc:
+    mimetype: text/plain
+  Ascii/gf-trnk.nfo:
+    mimetype: text/plain
+  File_id.diz:
+    mimetype: text/plain
+  GF.nfo:
+    mimetype: text/plain
+  Hirez/gf-.plastek.prs.t53.logo.jpg:
+    mimetype: image/jpeg
+  Hirez/gf-2.GODiNY.jpg:
+    mimetype: image/jpeg
+  Hirez/gf-fanaion.trainer.gui.jpg:
+    mimetype: image/jpeg
+  Hirez/gf-fujitzu.logo.blue.jpg:
+    mimetype: image/jpeg
+  Hirez/gf-fujitzu.logo.green.jpg:
+    mimetype: image/jpeg
+  Hirez/gf-mp2k5.logo.blue.jpg:
+    mimetype: image/jpeg
+  Hirez/gf-mp2k5.logo.green.jpg:
+    mimetype: image/jpeg
+  Hirez/gf-otioseness.jpg:
+    mimetype: image/jpeg
+  Hirez/gf-radio.che.AUZLi.ON-LiNE.jpg:
+    mimetype: image/jpeg
+  Hirez/gf-season.rain.jpg:
+    mimetype: image/jpeg
+  Hirez/gf-toliu.rolex.logo.jpg:
+    mimetype: image/jpeg
+  Soundtrack.mp3:
+    mimetype: audio/mpeg

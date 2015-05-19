@@ -1,0 +1,74 @@
+name: surge13.zip
+hash: 36b0588a09071b895f84a6f943d83eff
+year: 1997
+file:
+  ANSI/FZ-SRG1.ANS:
+    mimetype: text/plain
+  ANSI/I!-0497.ANS:
+    mimetype: text/plain
+  ANSI/PX_WEST.ANS:
+    mimetype: text/plain
+  ANSI/SN-ABS.ANS:
+    mimetype: text/plain
+  ANSI/SN-COE.ANS:
+    mimetype: text/plain
+  ANSI/SN-ELAS.ANS:
+    mimetype: text/plain
+  ANSI/SN-HEMPG.ANS:
+    mimetype: text/plain
+  ANSI/SN-LET.ANS:
+    mimetype: text/plain
+  ANSI/SN-NUMB.ANS:
+    mimetype: text/plain
+  ANSI/SN-NUMBM.ANS:
+    mimetype: text/plain
+  ANSI/SQ-LIC0R.ANS:
+    mimetype: text/plain
+  ANSI/US-ELUS.ANS:
+    mimetype: text/plain
+  ANSI/US-PSYC.ANS:
+    mimetype: text/plain
+  ASCII/ATT-CLY1.ASC:
+    mimetype: text/plain
+  ASCII/BD-AE.ASC:
+    mimetype: text/plain
+  ASCII/BD-BLACK.ASC:
+    mimetype: text/plain
+  ASCII/BD-ELUS.ASC:
+    mimetype: text/plain
+  ASCII/BD-PA2.ASC:
+    mimetype: text/plain
+  ASCII/BD-TK.ASC:
+    mimetype: text/plain
+  ASCII/PM-DIG.ASC:
+    mimetype: text/plain
+  ASCII/RA-COLLY.ASC:
+    mimetype: text/plain
+  ASCII/SN-SYD.ASC:
+    mimetype: text/plain
+  ASCII/UO-COLLY.ASC:
+    mimetype: text/plain
+  CODE/GZ-BUMP.ZIP:
+    mimetype: application/zip
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  HI-REZ/O2-EYE.GIF:
+    mimetype: image/gif
+  HI-REZ/O2-SRG1.JPG:
+    mimetype: image/jpeg
+  HI-REZ/RA-TOON.GIF:
+    mimetype: image/gif
+  HI-REZ/TR-LTHVN.JPG:
+    mimetype: image/jpeg
+  HI-REZ/TR-NUKD.JPG:
+    mimetype: image/jpeg
+  MISC/SURGE13.MEM:
+    mimetype: text/plain
+  MISC/SURGE13.NFO:
+    mimetype: text/plain
+  RIP/RA-POOH.RIP:
+    mimetype: image/x-rip
+  RIP/RA-SRG1.RIP:
+    mimetype: image/x-rip
+  RIP/SN-DVADE.RIP:
+    mimetype: image/x-rip

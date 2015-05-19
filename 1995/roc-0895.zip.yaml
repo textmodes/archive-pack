@@ -1,0 +1,114 @@
+name: roc-0895.zip
+hash: 24bd8bfdaeaa3c57c1eee10f06328648
+year: 1995
+file:
+  --ANSI--.---:
+    mimetype: application/octet-stream
+  --LITS--.---:
+    mimetype: application/octet-stream
+  --MISC--.---:
+    mimetype: application/octet-stream
+  --MUSIC-.---:
+    mimetype: application/octet-stream
+  --RIPS--.---:
+    mimetype: application/octet-stream
+  --VGAS--.---:
+    mimetype: application/octet-stream
+  7A-CRISI.RIP:
+    mimetype: image/x-rip
+  7A-CYOTE.ANS:
+    mimetype: text/plain
+  7A-SPAM.ANS:
+    mimetype: text/plain
+  7A-WONDE.ANS:
+    mimetype: text/plain
+  BP-2FH.ANS:
+    mimetype: text/plain
+  BP-BV.ANS:
+    mimetype: text/plain
+  BP-MAGNM.ANS:
+    mimetype: text/plain
+  BP-SS.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  LLAMAS.EXE:
+    mimetype: application/x-msdos-program
+  MD-3SSPB.LIT:
+    mimetype: text/plain
+  MG-MANTI.RIP:
+    mimetype: image/x-rip
+  NMB-BM1.ANS:
+    mimetype: text/plain
+  PS-BULET.GIF:
+    mimetype: image/gif
+  PS-DEATH.GIF:
+    mimetype: image/gif
+  PS-DOG2.GIF:
+    mimetype: image/gif
+  PS-GAUNT.GIF:
+    mimetype: image/gif
+  PS-GOO.GIF:
+    mimetype: image/gif
+  PS-GUARD.GIF:
+    mimetype: image/gif
+  PS-INSAN.GIF:
+    mimetype: image/gif
+  PS-KID.GIF:
+    mimetype: image/gif
+  PS-LANCE.GIF:
+    mimetype: image/gif
+  PS-MADMN.GIF:
+    mimetype: image/gif
+  PS-QBALL.GIF:
+    mimetype: image/gif
+  PS-SPAWN.GIF:
+    mimetype: image/gif
+  ROC-0895.LST:
+    mimetype: text/plain
+  ROCAPP.EXE:
+    mimetype: application/x-msdos-program
+  RZA-BPP.ANS:
+    mimetype: text/plain
+  RZA-WU.ANS:
+    mimetype: text/plain
+  US-GRZ.ANS:
+    mimetype: text/plain
+  US-PR.ANS:
+    mimetype: text/plain
+  US-WILEY.ANS:
+    mimetype: text/plain
+  VG-AH.ANS:
+    mimetype: text/plain
+  VG-AW.ANS:
+    mimetype: text/plain
+  VG-DX.ANS:
+    mimetype: text/plain
+  VG-GNASH.ANS:
+    mimetype: text/plain
+  VG-PHEW!.ANS:
+    mimetype: text/plain
+  VG-ROC.ANS:
+    mimetype: text/plain
+  VG-TOFH.ANS:
+    mimetype: text/plain
+  WL-ICE3.ANS:
+    mimetype: text/plain
+  XC-BEATS.S3M:
+    mimetype: audio/x-mod
+  XC-FRONT.S3M:
+    mimetype: audio/x-mod
+  XC-HOME.S3M:
+    mimetype: audio/x-mod
+  XC-ISOLT.S3M:
+    mimetype: audio/x-mod
+  XC-JOMPI.S3M:
+    mimetype: audio/x-mod
+  XC-KICKN.S3M:
+    mimetype: audio/x-mod
+  XC-PULSE.S3M:
+    mimetype: audio/x-mod
+  XC-SILEN.S3M:
+    mimetype: audio/x-mod
+  ZL-PLANB.RIP:
+    mimetype: image/x-rip

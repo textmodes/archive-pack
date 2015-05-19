@@ -1,0 +1,94 @@
+name: acdu0694.zip
+hash: f7d030c8f3297bc5d38185bf44c852df
+year: 1994
+file:
+  ACDU0694.NFO:
+    mimetype: text/plain
+  ACID0594.ANS:
+    mimetype: text/plain
+  ACIDAPP.EXE:
+    mimetype: application/x-msdos-program
+  ACIDVIEW.EXE:
+    mimetype: application/x-msdos-program
+  ACIDVIEW.NFO:
+    mimetype: text/plain
+  AK-CULT.EXE:
+    mimetype: application/x-msdos-program
+  AN-ACID1.RIP:
+    mimetype: image/x-rip
+  AN-CAES2.RIP:
+    mimetype: image/x-rip
+  AN-HV1.ANS:
+    mimetype: text/plain
+  AN-LD1.RIP:
+    mimetype: image/x-rip
+  AZ-AMBER.RIP:
+    mimetype: image/x-rip
+  AZ-STGHD.RIP:
+    mimetype: image/x-rip
+  BE-FRNGS.ANS:
+    mimetype: text/plain
+  BE-PR1.ANS:
+    mimetype: text/plain
+  BK-TD.ANS:
+    mimetype: text/plain
+  DH-CS.ANS:
+    mimetype: text/plain
+  DR-NEO1.ANS:
+    mimetype: text/plain
+  DV-ARDEV.EXE:
+    mimetype: application/x-msdos-program
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GN-TASB.RIP:
+    mimetype: image/x-rip
+  GN-THA.RIP:
+    mimetype: image/x-rip
+  GU-ACD1.ANS:
+    mimetype: text/plain
+  KM-69.ANS:
+    mimetype: text/plain
+  KM-ACID1.ANS:
+    mimetype: text/plain
+  KM-SANC1.ANS:
+    mimetype: text/plain
+  LD-BL.ANS:
+    mimetype: text/plain
+  LD-CH02.RIP:
+    mimetype: image/x-rip
+  LD-COD1.RIP:
+    mimetype: image/x-rip
+  LD-ER.RIP:
+    mimetype: image/x-rip
+  LD-TF1.ANS:
+    mimetype: text/plain
+  LD-TF2.RIP:
+    mimetype: image/x-rip
+  LOGO0694.ZIP:
+    mimetype: application/zip
+  NEWS0694.ANS:
+    mimetype: text/plain
+  SAUCE.PAS:
+    mimetype: text/x-pascal
+  SM-ACID3.RIP:
+    mimetype: image/x-rip
+  SM-NEO1.RIP:
+    mimetype: image/x-rip
+  SM-PRMSP.RIP:
+    mimetype: image/x-rip
+  SM-TF1.RIP:
+    mimetype: image/x-rip
+  SO-BNW1.ANS:
+    mimetype: text/plain
+  SO-FR1.ANS:
+    mimetype: text/plain
+  SW-ALTER.EXE:
+    mimetype: application/x-msdos-program
+  SW-HOTEL.EXE:
+    mimetype: application/x-msdos-program
+  T2-TF1.ANS:
+    mimetype: text/plain
+  US-TSBD.RIP:
+    mimetype: image/x-rip
+  WM-CCHOP.EXE:
+    mimetype: application/x-msdos-program

@@ -1,0 +1,32 @@
+name: int-0494.zip
+hash: 9954060d8dcb996776aecf893539bd20
+year: 1994
+file:
+  '!README!.TXT':
+    mimetype: text/plain
+  ANSI.ZIP:
+    mimetype: application/zip
+  COMMENTS.ZIP:
+    mimetype: application/zip
+  FILE.NFO:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FUTURE.TXT:
+    mimetype: text/plain
+  INT-APP.EXE:
+    mimetype: application/x-msdos-program
+  INT-APP.NFO:
+    mimetype: text/plain
+  INT-NEWS.TXT:
+    mimetype: text/plain
+  INTDEMO.ZIP:
+    mimetype: application/zip
+  INTEGVGA.EXE:
+    mimetype: application/x-msdos-program
+  LIT.ZIP:
+    mimetype: application/zip
+  MEMBER.LST:
+    mimetype: text/plain
+  SPOTLITE.TXT:
+    mimetype: text/plain

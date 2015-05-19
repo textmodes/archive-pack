@@ -1,0 +1,58 @@
+name: gvt-0296.zip
+hash: 2b27217663a0cc055ed5fc89cac8057d
+year: 1996
+file:
+  '%-ANSI-%':
+    mimetype: text/plain
+  '%-APP-%':
+    mimetype: text/plain
+  '%-ASC-%':
+    mimetype: text/plain
+  '%-MISC-%':
+    mimetype: text/plain
+  '%-RIP-%':
+    mimetype: text/plain
+  CC-0HR1.ANS:
+    mimetype: text/plain
+  CC-GLB7.ANS:
+    mimetype: text/plain
+  CC-MT1.ANS:
+    mimetype: text/plain
+  DZ-COA.ASC:
+    mimetype: text/plain
+  DZ-EVILA.ASC:
+    mimetype: text/plain
+  DZ-FBI.ASC:
+    mimetype: text/plain
+  DZ-GRVT.ASC:
+    mimetype: text/plain
+  DZ-LGO1.ANS:
+    mimetype: text/plain
+  DZ-MORBD.ASC:
+    mimetype: text/plain
+  EE-COLLY.ASC:
+    mimetype: text/plain
+  EE-GE1.ASC:
+    mimetype: text/plain
+  EE-INHOS.ASC:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GVT-0296.MEM:
+    mimetype: text/plain
+  GVT-0296.NFO:
+    mimetype: text/plain
+  GVT-APP.EXE:
+    mimetype: application/x-msdos-program
+  HOUR.EXE:
+    mimetype: application/x-msdos-program
+  PT-AST.RIP:
+    mimetype: image/x-rip
+  PT-LGO2.ANS:
+    mimetype: text/plain
+  SH-GLOBE.ANS:
+    mimetype: text/plain
+  SH-LOGO2.ANS:
+    mimetype: text/plain
+  SI-EKAHS.ANS:
+    mimetype: text/plain

@@ -1,0 +1,34 @@
+name: ansis-m.zip
+hash: 852a618df9bde5f142c194a210f781b4
+year: 1993
+file:
+  -RUNME.COM:
+    mimetype: application/x-msdos-program
+  MADONNA.ANS:
+    mimetype: text/plain
+  MARAUDER.ANS:
+    mimetype: text/plain
+  MARIO.ANS:
+    mimetype: text/plain
+  MCACD2MS.ANS:
+    mimetype: text/plain
+  MELON.ANS:
+    mimetype: text/plain
+  MERC2ACD.ANS:
+    mimetype: text/plain
+  MF-GH.ANS:
+    mimetype: text/plain
+  MIAMI-DP.ANS:
+    mimetype: text/plain
+  ML-CRWL.ANS:
+    mimetype: text/plain
+  MODEMNWS.ANS:
+    mimetype: text/plain
+  MOTLEY.ANS:
+    mimetype: text/plain
+  MR-TUGOS.ANS:
+    mimetype: text/plain
+  MY-BCNT1.ANS:
+    mimetype: text/plain
+  MYCAR.ANS:
+    mimetype: text/plain

@@ -1,0 +1,326 @@
+name: mylife.zip
+hash: ab9aaf168f1bbd56f78d2f77cd454d29
+year: 1997
+file:
+  CIA-0001.TXT:
+    mimetype: text/plain
+  CIA-0002.TXT:
+    mimetype: text/plain
+  CN-342.ASC:
+    mimetype: text/plain
+  CN-34C.ASC:
+    mimetype: text/plain
+  CN-ABE.ASC:
+    mimetype: text/plain
+  CN-ACID1.ASC:
+    mimetype: text/plain
+  CN-AFTRM.ASC:
+    mimetype: text/plain
+  CN-ALIEN.ASC:
+    mimetype: text/plain
+  CN-ALT2.ASC:
+    mimetype: text/plain
+  CN-ALT3.ASC:
+    mimetype: text/plain
+  CN-ALTER.ASC:
+    mimetype: text/plain
+  CN-ANIMA.ASC:
+    mimetype: text/plain
+  CN-ASC00.ASC:
+    mimetype: text/plain
+  CN-ASC1.ASC:
+    mimetype: text/plain
+  CN-ASHES.ASC:
+    mimetype: text/plain
+  CN-ASIA.ASC:
+    mimetype: text/plain
+  CN-AT001.ASC:
+    mimetype: text/plain
+  CN-ATHAN.ASC:
+    mimetype: text/plain
+  CN-AWE.ASC:
+    mimetype: text/plain
+  CN-BADKM.ASC:
+    mimetype: text/plain
+  CN-BAS1C.ASC:
+    mimetype: text/plain
+  CN-BASI2.ASC:
+    mimetype: text/plain
+  CN-BASIC.ASC:
+    mimetype: text/plain
+  CN-BIO!.ASC:
+    mimetype: text/plain
+  CN-BIO!H.ASC:
+    mimetype: text/plain
+  CN-BITD.ASC:
+    mimetype: text/plain
+  CN-BLACK.ASC:
+    mimetype: text/plain
+  CN-BLUE.ASC:
+    mimetype: text/plain
+  CN-BYU.ASC:
+    mimetype: text/plain
+  CN-CH03.ASC:
+    mimetype: text/plain
+  CN-CIA.ASC:
+    mimetype: text/plain
+  CN-CIA1.ASC:
+    mimetype: text/plain
+  CN-CIA2.ASC:
+    mimetype: text/plain
+  CN-CIA3.ASC:
+    mimetype: text/plain
+  CN-CLUB.ASC:
+    mimetype: text/plain
+  CN-CN-CN.ASC:
+    mimetype: text/plain
+  CN-COW.ASC:
+    mimetype: text/plain
+  CN-D0H1.ASC:
+    mimetype: text/plain
+  CN-D0H2.ASC:
+    mimetype: text/plain
+  CN-DCT.ASC:
+    mimetype: text/plain
+  CN-DIST.ASC:
+    mimetype: text/plain
+  CN-DISTO.ASC:
+    mimetype: text/plain
+  CN-DRDX.ASC:
+    mimetype: text/plain
+  CN-DY.ASC:
+    mimetype: text/plain
+  CN-E2-1.ASC:
+    mimetype: text/plain
+  CN-E3KS.ASC:
+    mimetype: text/plain
+  CN-EAC.ASC:
+    mimetype: text/plain
+  CN-EASE.ASC:
+    mimetype: text/plain
+  CN-ECHS.ASC:
+    mimetype: text/plain
+  CN-ECS.ASC:
+    mimetype: text/plain
+  CN-ELD00.ASC:
+    mimetype: text/plain
+  CN-ERTH2.ASC:
+    mimetype: text/plain
+  CN-ETD1.ASC:
+    mimetype: text/plain
+  CN-ETD2.ASC:
+    mimetype: text/plain
+  CN-ETD3.ASC:
+    mimetype: text/plain
+  CN-FACES.ASC:
+    mimetype: text/plain
+  CN-FCN.ASC:
+    mimetype: text/plain
+  CN-FLOOD.ASC:
+    mimetype: text/plain
+  CN-FOR.ASC:
+    mimetype: text/plain
+  CN-FRUIT.ASC:
+    mimetype: text/plain
+  CN-FUDGE.ASC:
+    mimetype: text/plain
+  CN-GAS.ASC:
+    mimetype: text/plain
+  CN-GEN.ASC:
+    mimetype: text/plain
+  CN-HAZRD.ASC:
+    mimetype: text/plain
+  CN-HOE.ASC:
+    mimetype: text/plain
+  CN-ILL-B.ASC:
+    mimetype: text/plain
+  CN-IOM.ASC:
+    mimetype: text/plain
+  CN-IOM2.ASC:
+    mimetype: text/plain
+  CN-K!A.ASC:
+    mimetype: text/plain
+  CN-K!A2.ASC:
+    mimetype: text/plain
+  CN-KSIDE.ASC:
+    mimetype: text/plain
+  CN-KWASC.ASC:
+    mimetype: text/plain
+  CN-KWEST.ASC:
+    mimetype: text/plain
+  CN-KWST2.ASC:
+    mimetype: text/plain
+  CN-KWST3.ASC:
+    mimetype: text/plain
+  CN-LSD-%.ASC:
+    mimetype: text/plain
+  CN-M0B.ASC:
+    mimetype: text/plain
+  CN-M4SDT.ASC:
+    mimetype: text/plain
+  CN-MASS1.ASC:
+    mimetype: text/plain
+  CN-MOSLM.ASC:
+    mimetype: text/plain
+  CN-NEXUS.ASC:
+    mimetype: text/plain
+  CN-NOMA1.ASC:
+    mimetype: text/plain
+  CN-NOMA2.ASC:
+    mimetype: text/plain
+  CN-NON!.ASC:
+    mimetype: text/plain
+  CN-NON1.ASC:
+    mimetype: text/plain
+  CN-NON2.ASC:
+    mimetype: text/plain
+  CN-NONAM.ASC:
+    mimetype: text/plain
+  CN-NTC.ASC:
+    mimetype: text/plain
+  CN-NVFGT.TXT:
+    mimetype: text/plain
+  CN-ODELY.ASC:
+    mimetype: text/plain
+  CN-OIL00.ASC:
+    mimetype: text/plain
+  CN-OOPS.ASC:
+    mimetype: text/plain
+  CN-ORIG.ASC:
+    mimetype: text/plain
+  CN-ORTED.ASC:
+    mimetype: text/plain
+  CN-P42.ASC:
+    mimetype: text/plain
+  CN-PASTE.ASC:
+    mimetype: text/plain
+  CN-PENIX.ASC:
+    mimetype: text/plain
+  CN-PIC.ASC:
+    mimetype: text/plain
+  CN-PIMP.ASC:
+    mimetype: text/plain
+  CN-PROC.ASC:
+    mimetype: text/plain
+  CN-QU0LI.ASC:
+    mimetype: text/plain
+  CN-REMRS.ASC:
+    mimetype: text/plain
+  CN-RILE.ASC:
+    mimetype: text/plain
+  CN-RIP@%.ASC:
+    mimetype: text/plain
+  CN-RMRS.ASC:
+    mimetype: text/plain
+  CN-RMRS2.ASC:
+    mimetype: text/plain
+  CN-RMRS3.ASC:
+    mimetype: text/plain
+  CN-RMRS4.ASC:
+    mimetype: text/plain
+  CN-RUSTY.ASC:
+    mimetype: text/plain
+  CN-S0APC.TXT:
+    mimetype: text/plain
+  CN-SAGA.ASC:
+    mimetype: text/plain
+  CN-SCOTT.ASC:
+    mimetype: text/plain
+  CN-SCUM.ASC:
+    mimetype: text/plain
+  CN-SCUM1.ASC:
+    mimetype: text/plain
+  CN-SCUM2.ASC:
+    mimetype: text/plain
+  CN-SCUM3.ASC:
+    mimetype: text/plain
+  CN-SEIKN.ASC:
+    mimetype: text/plain
+  CN-SFII2.ASC:
+    mimetype: text/plain
+  CN-SLOP.ASC:
+    mimetype: text/plain
+  CN-SOAPT.ASC:
+    mimetype: text/plain
+  CN-SOCOL.ASC:
+    mimetype: text/plain
+  CN-SOFAR.ASC:
+    mimetype: text/plain
+  CN-ST4R.ASC:
+    mimetype: text/plain
+  CN-STCK.ASC:
+    mimetype: text/plain
+  CN-TDEEP.ASC:
+    mimetype: text/plain
+  CN-TEACH.ASC:
+    mimetype: text/plain
+  CN-TEV1.ASC:
+    mimetype: text/plain
+  CN-THS.ASC:
+    mimetype: text/plain
+  CN-THURS.ASC:
+    mimetype: text/plain
+  CN-TOFU.ASC:
+    mimetype: text/plain
+  CN-TOIL.ASC:
+    mimetype: text/plain
+  CN-TOMB.ASC:
+    mimetype: text/plain
+  CN-TRE.ASC:
+    mimetype: text/plain
+  CN-TRI00.ASC:
+    mimetype: text/plain
+  CN-TRM.ASC:
+    mimetype: text/plain
+  CN-TTH2.ASC:
+    mimetype: text/plain
+  CN-TTH3.ASC:
+    mimetype: text/plain
+  CN-TTH4.ASC:
+    mimetype: text/plain
+  CN-TTH5.ASC:
+    mimetype: text/plain
+  CN-TTH6.ASC:
+    mimetype: text/plain
+  CN-UIJAS.ASC:
+    mimetype: text/plain
+  CN-UN-2.ASC:
+    mimetype: text/plain
+  CN-UNS.ASC:
+    mimetype: text/plain
+  CN-WOOP.ASC:
+    mimetype: text/plain
+  CN-WOOP2.ASC:
+    mimetype: text/plain
+  CN-WSCG.ASC:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  MYLIFE.TXT:
+    mimetype: text/plain
+  NFORGET.TXT:
+    mimetype: text/plain
+  OPS!JNOT.TXT:
+    mimetype: text/plain
+  SOULFOOD.TXT:
+    mimetype: text/plain
+  US-ABRAX.ASC:
+    mimetype: text/plain
+  US-ABST2.ASC:
+    mimetype: text/plain
+  US-BAZAR.ASC:
+    mimetype: text/plain
+  US-DEEP.ASC:
+    mimetype: text/plain
+  US-NECRO.ASC:
+    mimetype: text/plain
+  US-NEGRO.ASC:
+    mimetype: text/plain
+  US-RIDD.ASC:
+    mimetype: text/plain
+  US-TOFUU.ASC:
+    mimetype: text/plain
+  US-TTH00.ASC:
+    mimetype: text/plain
+  WE-ST4R.YAY:
+    mimetype: text/plain

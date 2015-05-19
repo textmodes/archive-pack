@@ -1,0 +1,14 @@
+name: cia.zip
+hash: b75cba03b72f718dbadb705c4afc1cbf
+year: 1998
+file:
+  HELLHOLE.CIA:
+    mimetype: text/plain
+  REAPER.CIA:
+    mimetype: text/plain
+  SATANIC.CIA:
+    mimetype: text/plain
+  UNSEEN.CIA:
+    mimetype: text/plain
+  cavalier.txt:
+    mimetype: text/plain

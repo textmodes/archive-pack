@@ -1,0 +1,94 @@
+name: force-20.zip
+hash: 36e43f2219313d8e8ff688fbbdfd7f3b
+year: 1998
+file:
+  15-HAZE.ANS:
+    mimetype: text/plain
+  15-INFU.ANS:
+    mimetype: text/plain
+  CG-CIZB.ANS:
+    mimetype: text/plain
+  CG-DS14.ANS:
+    mimetype: text/plain
+  CG-FIRE.ANS:
+    mimetype: text/plain
+  CG-FP2.ANS:
+    mimetype: text/plain
+  CG-FP3.ANS:
+    mimetype: text/plain
+  CG-FRC7.ANS:
+    mimetype: text/plain
+  CG-TSL2.ANS:
+    mimetype: text/plain
+  CRX-AMN.ANS:
+    mimetype: text/plain
+  CRX-FP.ANS:
+    mimetype: text/plain
+  CRX-FRC.ANS:
+    mimetype: text/plain
+  DH!DEEP.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FORCE-20.MEM:
+    mimetype: text/plain
+  FORCE-20.NFO:
+    mimetype: text/plain
+  FORCEAPP.EXE:
+    mimetype: application/x-msdos-program
+  FV2.EXE:
+    mimetype: application/x-msdos-program
+  IY-AIS.ANS:
+    mimetype: text/plain
+  IY-AMN.ANS:
+    mimetype: text/plain
+  IY-DS1.ANS:
+    mimetype: text/plain
+  IY-FCONF.ANS:
+    mimetype: text/plain
+  IY-FS.ANS:
+    mimetype: text/plain
+  IY-HOOK.ANS:
+    mimetype: text/plain
+  IY-MTX.ANS:
+    mimetype: text/plain
+  IY-SUMA.ANS:
+    mimetype: text/plain
+  RZ-AMN.TXT:
+    mimetype: text/plain
+  RZ-EMAG!.TXT:
+    mimetype: text/plain
+  RZ-FED!.TXT:
+    mimetype: text/plain
+  RZ-INNER.TXT:
+    mimetype: text/plain
+  RZ-JULIE.TXT:
+    mimetype: text/plain
+  RZ-REALM.TXT:
+    mimetype: text/plain
+  RZ-TNP.TXT:
+    mimetype: text/plain
+  SH-FORCE.TXT:
+    mimetype: text/plain
+  ST-DS1.ANS:
+    mimetype: text/plain
+  ST-FP1.ANS:
+    mimetype: text/plain
+  ST-FRC1.ANS:
+    mimetype: text/plain
+  ST-TRP.ANS:
+    mimetype: text/plain
+  US-AVNG.ANS:
+    mimetype: text/plain
+  US-COMET.ANS:
+    mimetype: text/plain
+  US-DEEP.ANS:
+    mimetype: text/plain
+  US-ENDOR.ANS:
+    mimetype: text/plain
+  US-FORCE.TXT:
+    mimetype: text/plain
+  US-MTX.ANS:
+    mimetype: text/plain
+  US-WFC.ANS:
+    mimetype: text/plain

@@ -1,0 +1,10 @@
+name: tdrw7key.zip
+hash: f05e606f80f5dc543b3170829fce6edf
+year: 1995
+file:
+  F!TDREG7.EXE:
+    mimetype: application/x-msdos-program
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  REGUTILS.ZIP:
+    mimetype: application/zip

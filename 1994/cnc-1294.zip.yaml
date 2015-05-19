@@ -1,0 +1,16 @@
+name: cnc-1294.zip
+hash: e209e1d54950e6fc1fb90a89fc43804b
+year: 1994
+file:
+  CANCER.NFO:
+    mimetype: text/plain
+  CH-CNC.ASC:
+    mimetype: text/plain
+  CNC-1294.ANS:
+    mimetype: text/plain
+  CNCAPP.ZIP:
+    mimetype: application/zip
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  LD-CNC.ANS:
+    mimetype: text/plain

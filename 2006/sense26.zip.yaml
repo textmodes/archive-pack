@@ -1,0 +1,44 @@
+name: sense26.zip
+hash: 9b416e56282b9331017aa9056386737f
+year: 2006
+file:
+  43-entr2.ans:
+    mimetype: text/plain
+  avg-dist.ans:
+    mimetype: text/plain
+  avg-iq3.tnd:
+    mimetype: application/octet-stream
+  file_id.diz:
+    mimetype: text/plain
+  m0_evoke.ans:
+    mimetype: text/plain
+  sd-wc01.ans:
+    mimetype: text/plain
+  sense26.ans:
+    mimetype: text/plain
+  us-bm00.ans:
+    mimetype: text/plain
+  us-bmsen.ans:
+    mimetype: text/plain
+  us-dark1.ans:
+    mimetype: text/plain
+  us-iq.tnd:
+    mimetype: application/octet-stream
+  us-k143.ans:
+    mimetype: text/plain
+  us-ridge.ans:
+    mimetype: text/plain
+  us-supa.ans:
+    mimetype: text/plain
+  zv_entr0.ans:
+    mimetype: text/plain
+  zv_iniq.tnd:
+    mimetype: application/octet-stream
+  zv_nazgul.ans:
+    mimetype: text/plain
+  zv_sns.ans:
+    mimetype: text/plain
+  zv_steve.tnd:
+    mimetype: application/octet-stream
+  zv_xtc.ans:
+    mimetype: text/plain

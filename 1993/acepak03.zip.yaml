@@ -1,0 +1,80 @@
+name: acepak03.zip
+hash: e5695858b07e91d7da9445fbe81b1900
+year: 1993
+file:
+  ACE.LST:
+    mimetype: text/plain
+  ACE.MEM:
+    mimetype: text/plain
+  DD-ACE2.ANS:
+    mimetype: text/plain
+  DD-BLDM.ANS:
+    mimetype: text/plain
+  DD-GRDM.ANS:
+    mimetype: text/plain
+  DD-LUV.ANS:
+    mimetype: text/plain
+  DD-RIP1.ANS:
+    mimetype: text/plain
+  DD-TGG1.ANS:
+    mimetype: text/plain
+  EB-DEM.ANS:
+    mimetype: text/plain
+  EB-TAZ.ANS:
+    mimetype: text/plain
+  EB-YS.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  !!binary Se4uVFhU:
+    mimetype: text/plain
+  SD-2TONE.GIF:
+    mimetype: image/gif
+  SD-ICE.ANS:
+    mimetype: text/plain
+  SD-MENU.ANS:
+    mimetype: text/plain
+  SD-MENU2.ANS:
+    mimetype: text/plain
+  SD-RIP.ANS:
+    mimetype: text/plain
+  SD-RIP2.ANS:
+    mimetype: text/plain
+  SD-STAT.ANS:
+    mimetype: text/plain
+  SD-STAT2.ANS:
+    mimetype: text/plain
+  SD-TGG.GIF:
+    mimetype: image/gif
+  TR-DLNET.ANS:
+    mimetype: text/plain
+  TR-GRID.ANS:
+    mimetype: text/plain
+  TR-GRID1.ANS:
+    mimetype: text/plain
+  TR-GRID2.ANS:
+    mimetype: text/plain
+  TR-GRID3.ANS:
+    mimetype: text/plain
+  TR-GRID4.ANS:
+    mimetype: text/plain
+  TR-PAW.ANS:
+    mimetype: text/plain
+  TR-RIP.ANS:
+    mimetype: text/plain
+  TR-STAT1.ANS:
+    mimetype: text/plain
+  TR-STAT2.ANS:
+    mimetype: text/plain
+  TR-STAT3.ANS:
+    mimetype: text/plain
+  TR-STAT4.ANS:
+    mimetype: text/plain
+  TR-STAT5.ANS:
+    mimetype: text/plain
+  TR-STAT6.ANS:
+    mimetype: text/plain
+  UNDER.ANS:
+    mimetype: text/plain
+  VIEWANSI.EXE:
+    mimetype: application/x-msdos-program

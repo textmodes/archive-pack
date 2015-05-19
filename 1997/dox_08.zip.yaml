@@ -1,0 +1,72 @@
+name: dox_08.zip
+hash: d670a175d32e277949252cb900266d6c
+year: 1997
+file:
+  (ANSI):
+    mimetype: text/plain
+  (ASCI):
+    mimetype: text/plain
+  (CODE):
+    mimetype: text/plain
+  (LIT!):
+    mimetype: text/plain
+  (MISC):
+    mimetype: text/plain
+  (NEWS):
+    mimetype: text/plain
+  APP1.DAT:
+    mimetype: text/plain
+  APP2.DAT:
+    mimetype: text/plain
+  APP3.DAT:
+    mimetype: text/plain
+  DOX-0597.NFO:
+    mimetype: text/plain
+  DOX-NEWS.NFO:
+    mimetype: text/plain
+  DOX.EXE:
+    mimetype: application/x-msdos-program
+  DOXAPP41.EXE:
+    mimetype: application/x-msdos-program
+  DOXVIEW.DOC:
+    mimetype: text/plain
+  DOXVIEW.EXE:
+    mimetype: application/x-msdos-program
+  EN-DOWN.LIT:
+    mimetype: text/plain
+  EN-MAYBE.LIT:
+    mimetype: text/plain
+  EN-TIRED.LIT:
+    mimetype: text/plain
+  EN-UC.ANS:
+    mimetype: text/plain
+  FD-KARMY.ANS:
+    mimetype: text/plain
+  FD-KILL.ANS:
+    mimetype: text/plain
+  FD-KNEW.ANS:
+    mimetype: text/plain
+  FD-RZRS.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  LST-DOX1.ANS:
+    mimetype: text/plain
+  LST-HG1.ANS:
+    mimetype: text/plain
+  LST-LOD1.ANS:
+    mimetype: text/plain
+  LST-MGC.EXE:
+    mimetype: application/x-msdos-program
+  LST-PC1.ANS:
+    mimetype: text/plain
+  LST-SES1.ANS:
+    mimetype: text/plain
+  LST-UC1.ANS:
+    mimetype: text/plain
+  LST-WT1.ANS:
+    mimetype: text/plain
+  ZXP-DOX1.ASC:
+    mimetype: text/plain
+  ZXP-SKEL.ANS:
+    mimetype: text/plain

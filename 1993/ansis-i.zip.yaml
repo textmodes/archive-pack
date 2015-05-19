@@ -1,0 +1,30 @@
+name: ansis-i.zip
+hash: 95e9136574116269db2df87ef629a01a
+year: 1993
+file:
+  -RUNME.COM:
+    mimetype: application/x-msdos-program
+  ICE10-92.ANS:
+    mimetype: text/plain
+  ICEBRG06.ANS:
+    mimetype: text/plain
+  IIRG1ACD.ANS:
+    mimetype: text/plain
+  ILANS18.ANS:
+    mimetype: text/plain
+  ILANS19.ANS:
+    mimetype: text/plain
+  ILOVEYOU.ANS:
+    mimetype: text/plain
+  INC_S-D2.ANS:
+    mimetype: text/plain
+  INGRID.ANS:
+    mimetype: text/plain
+  INHAND.ANS:
+    mimetype: text/plain
+  INSANACD.ANS:
+    mimetype: text/plain
+  IOC.ANS:
+    mimetype: text/plain
+  IOC2.ANS:
+    mimetype: text/plain

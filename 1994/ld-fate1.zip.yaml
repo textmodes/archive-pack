@@ -1,0 +1,12 @@
+name: ld-fate1.zip
+hash: 32caa70788e18266d9999514cfa57fe0
+year: 1994
+file:
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  LD-FATE1.EXE:
+    mimetype: application/x-msdos-program
+  LD-FATE1.FNT:
+    mimetype: application/octet-stream
+  NEOTOKYO.ANS:
+    mimetype: text/plain

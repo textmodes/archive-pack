@@ -1,0 +1,316 @@
+name: cro-21_mag.zip
+hash: 23bc338d01066d6dca9cb7abdeb70937
+year: 2006
+file:
+  cro-21/Cro Viewer.exe:
+    mimetype: application/x-msdos-program
+  cro-21/MAG/ASCII/aylien/ayl-ABS.png:
+    mimetype: image/png
+  cro-21/MAG/ASCII/aylien/ayl-AMP.png:
+    mimetype: image/png
+  cro-21/MAG/ASCII/aylien/ayl-BOLOX.png:
+    mimetype: image/png
+  cro-21/MAG/ASCII/aylien/ayl-CF46.png:
+    mimetype: image/png
+  cro-21/MAG/ASCII/aylien/ayl-DIG.png:
+    mimetype: image/png
+  cro-21/MAG/ASCII/aylien/ayl-ILS.png:
+    mimetype: image/png
+  cro-21/MAG/ASCII/aylien/ayl-MANH.png:
+    mimetype: image/png
+  cro-21/MAG/ASCII/aylien/ayl-PRTR.png:
+    mimetype: image/png
+  cro-21/MAG/ASCII/aylien/ayl-PT.png:
+    mimetype: image/png
+  cro-21/MAG/ASCII/aylien/ayl-R66.png:
+    mimetype: image/png
+  cro-21/MAG/ASCII/aylien/ayl-RR.png:
+    mimetype: image/png
+  cro-21/MAG/ASCII/aylien/ayl-SHDW.png:
+    mimetype: image/png
+  cro-21/MAG/ASCII/aylien/ayl-SNUGZ.png:
+    mimetype: image/png
+  cro-21/MAG/ASCII/aylien/ayl-TOO.png:
+    mimetype: image/png
+  cro-21/MAG/ASCII/aylien/ayl-WEM.png:
+    mimetype: image/png
+  cro-21/MAG/ASCII/cpn/cpn-abs.png:
+    mimetype: image/png
+  cro-21/MAG/ASCII/cpn/cpn-af.png:
+    mimetype: image/png
+  cro-21/MAG/ASCII/cpn/cpn-apc.png:
+    mimetype: image/png
+  cro-21/MAG/ASCII/cpn/cpn-bob.png:
+    mimetype: image/png
+  cro-21/MAG/ASCII/cpn/cpn-cn.png:
+    mimetype: image/png
+  cro-21/MAG/ASCII/cpn/cpn-des.png:
+    mimetype: image/png
+  cro-21/MAG/ASCII/cpn/cpn-dm.png:
+    mimetype: image/png
+  cro-21/MAG/ASCII/cpn/cpn-gnt.png:
+    mimetype: image/png
+  cro-21/MAG/ASCII/cpn/cpn-imc.png:
+    mimetype: image/png
+  cro-21/MAG/ASCII/cpn/cpn-lz0-diz.png:
+    mimetype: image/png
+  cro-21/MAG/ASCII/cpn/cpn-lz0.png:
+    mimetype: image/png
+  cro-21/MAG/ASCII/cpn/cpn-mtx.png:
+    mimetype: image/png
+  cro-21/MAG/ASCII/cpn/cpn-ouz.png:
+    mimetype: image/png
+  cro-21/MAG/ASCII/cpn/cpn-rds.png:
+    mimetype: image/png
+  cro-21/MAG/ASCII/cpn/cpn-tfs.png:
+    mimetype: image/png
+  cro-21/MAG/ASCII/cpn/cpn-v.png:
+    mimetype: image/png
+  cro-21/MAG/ASCII/cubon/cbn-4diz.png:
+    mimetype: image/png
+  cro-21/MAG/ASCII/cubon/cbn-bln.png:
+    mimetype: image/png
+  cro-21/MAG/ASCII/cubon/cbn-cli.png:
+    mimetype: image/png
+  cro-21/MAG/ASCII/cubon/cbn-evk01.png:
+    mimetype: image/png
+  cro-21/MAG/ASCII/cubon/cbn-evkd.png:
+    mimetype: image/png
+  cro-21/MAG/ASCII/cubon/cbn-fruit.png:
+    mimetype: image/png
+  cro-21/MAG/ASCII/cubon/cbn-funk.png:
+    mimetype: image/png
+  cro-21/MAG/ASCII/cubon/cbn-isb2.png:
+    mimetype: image/png
+  cro-21/MAG/ASCII/cubon/cbn-isb3.png:
+    mimetype: image/png
+  cro-21/MAG/ASCII/cubon/cbn-isb4.png:
+    mimetype: image/png
+  cro-21/MAG/ASCII/cubon/cbn-isb5.png:
+    mimetype: image/png
+  cro-21/MAG/ASCII/cubon/cbn-isbn.png:
+    mimetype: image/png
+  cro-21/MAG/ASCII/cubon/cbn-loop.png:
+    mimetype: image/png
+  cro-21/MAG/ASCII/cubon/cbn-trsi.png:
+    mimetype: image/png
+  cro-21/MAG/ASCII/cubon/cbn-urb.png:
+    mimetype: image/png
+  cro-21/MAG/ASCII/cubon/cbn-vrtx.png:
+    mimetype: image/png
+  cro-21/MAG/ASCII/guest/cb-death.png:
+    mimetype: image/png
+  cro-21/MAG/ASCII/molo/m0-df.png:
+    mimetype: image/png
+  cro-21/MAG/ASCII/molo/m0-ear.png:
+    mimetype: image/png
+  cro-21/MAG/ASCII/molo/m0-ev.png:
+    mimetype: image/png
+  cro-21/MAG/ASCII/molo/m0-h2o.png:
+    mimetype: image/png
+  cro-21/MAG/ASCII/molo/m0-koh.png:
+    mimetype: image/png
+  cro-21/MAG/ASCII/molo/m0-mw.png:
+    mimetype: image/png
+  cro-21/MAG/ASCII/molo/m0-sf.png:
+    mimetype: image/png
+  cro-21/MAG/ASCII/molo/m0-whoa.png:
+    mimetype: image/png
+  cro-21/MAG/ASCII/olli/0-ACM3K.png:
+    mimetype: image/png
+  cro-21/MAG/ASCII/olli/0-ACM10.png:
+    mimetype: image/png
+  cro-21/MAG/ASCII/olli/0-ACME9.png:
+    mimetype: image/png
+  cro-21/MAG/ASCII/olli/0-DLGHT.png:
+    mimetype: image/png
+  cro-21/MAG/ASCII/olli/0-JIT.png:
+    mimetype: image/png
+  cro-21/MAG/ASCII/olli/0-PR0NA.png:
+    mimetype: image/png
+  cro-21/MAG/ASCII/olli/0-TJ25.png:
+    mimetype: image/png
+  cro-21/MAG/ASCII/orzech/rzh-bg.png:
+    mimetype: image/png
+  cro-21/MAG/ASCII/spinsane/US-VIH.png:
+    mimetype: image/png
+  cro-21/MAG/ASCII/spinsane/sp-01.png:
+    mimetype: image/png
+  cro-21/MAG/ASCII/spinsane/sp-ae.png:
+    mimetype: image/png
+  cro-21/MAG/ASCII/spinsane/sp-boon.png:
+    mimetype: image/png
+  cro-21/MAG/ASCII/spinsane/sp-cdcsc.png:
+    mimetype: image/png
+  cro-21/MAG/ASCII/spinsane/sp-duso.png:
+    mimetype: image/png
+  cro-21/MAG/ASCII/spinsane/sp-gf.png:
+    mimetype: image/png
+  cro-21/MAG/ASCII/spinsane/sp-havoc.png:
+    mimetype: image/png
+  cro-21/MAG/ASCII/spinsane/sp-scid.png:
+    mimetype: image/png
+  cro-21/MAG/ASCII/zorro/2o-ATOM.png:
+    mimetype: image/png
+  cro-21/MAG/ASCII/zorro/2o-FDL.png:
+    mimetype: image/png
+  cro-21/MAG/ASCII/zorro/2o-RL.png:
+    mimetype: image/png
+  cro-21/MAG/ASCII/zorro/2o-SXS.png:
+    mimetype: image/png
+  cro-21/MAG/ASCII/zorro/2o-TJLI.png:
+    mimetype: image/png
+  cro-21/MAG/ASCII/zorro/2o-UME.png:
+    mimetype: image/png
+  cro-21/MAG/ASCII/zorro/2o-awd.png:
+    mimetype: image/png
+  cro-21/MAG/ASCII/zorro/2o-cff.png:
+    mimetype: image/png
+  cro-21/MAG/ASCII/zorro/2o-ciccl.png:
+    mimetype: image/png
+  cro-21/MAG/ASCII/zorro/2o-duso.png:
+    mimetype: image/png
+  cro-21/MAG/ASCII/zorro/2o-fixx.png:
+    mimetype: image/png
+  cro-21/MAG/ASCII/zorro/2o-fk.png:
+    mimetype: image/png
+  cro-21/MAG/ASCII/zorro/2o-hhhh.png:
+    mimetype: image/png
+  cro-21/MAG/ASCII/zorro/2o-lqd.png:
+    mimetype: image/png
+  cro-21/MAG/ASCII/zorro/2o-rcm.png:
+    mimetype: image/png
+  cro-21/MAG/ASCII/zorro/2o-rlbl.png:
+    mimetype: image/png
+  cro-21/MAG/ASCII/zorro/2o-sg.png:
+    mimetype: image/png
+  cro-21/MAG/ASCII/zorro/2o-tj.png:
+    mimetype: image/png
+  cro-21/MAG/ASCII/zorro/2o-tjlo.png:
+    mimetype: image/png
+  cro-21/MAG/ASCII/zorro/2o-tjsec.png:
+    mimetype: image/png
+  cro-21/MAG/ASCII/zorro/2o-tt.png:
+    mimetype: image/png
+  cro-21/MAG/ASCII/zorro/tR&2o_gl.png:
+    mimetype: image/png
+  cro-21/MAG/HIRES/aylien/ayl-01-Vtx.jpg:
+    mimetype: image/jpeg
+  cro-21/MAG/HIRES/aylien/ayl-02-Inter.jpg:
+    mimetype: image/jpeg
+  cro-21/MAG/HIRES/aylien/ayl-03-CRO.jpg:
+    mimetype: image/jpeg
+  cro-21/MAG/HIRES/aylien/ayl-04-SP1.jpg:
+    mimetype: image/jpeg
+  cro-21/MAG/HIRES/aylien/ayl-05-SP2.jpg:
+    mimetype: image/jpeg
+  cro-21/MAG/HIRES/aylien/ayl-06-SP3.jpg:
+    mimetype: image/jpeg
+  cro-21/MAG/HIRES/aylien/ayl-07-SP4.jpg:
+    mimetype: image/jpeg
+  cro-21/MAG/HIRES/aylien/ayl-08-SP5.jpg:
+    mimetype: image/jpeg
+  cro-21/MAG/HIRES/aylien/ayl-09-SP6.jpg:
+    mimetype: image/jpeg
+  cro-21/MAG/HIRES/aylien/ayl-10-SP7.jpg:
+    mimetype: image/jpeg
+  cro-21/MAG/HIRES/aylien/ayl-11-SP8.jpg:
+    mimetype: image/jpeg
+  cro-21/MAG/HIRES/aylien/ayl-12-SP9.jpg:
+    mimetype: image/jpeg
+  cro-21/MAG/HIRES/aylien/ayl-13-SPA.jpg:
+    mimetype: image/jpeg
+  cro-21/MAG/HIRES/aylien/ayl-14-SPB.jpg:
+    mimetype: image/jpeg
+  cro-21/MAG/HIRES/aylien/ayl-15-SPD.jpg:
+    mimetype: image/jpeg
+  cro-21/MAG/HIRES/aylien/ayl-16-SPC.jpg:
+    mimetype: image/jpeg
+  cro-21/MAG/HIRES/aylien/ayl-17-PS.jpg:
+    mimetype: image/jpeg
+  cro-21/MAG/HIRES/aylien/ayl-18-PD.jpg:
+    mimetype: image/jpeg
+  cro-21/MAG/HIRES/aylien/ayl-19-PN.jpg:
+    mimetype: image/jpeg
+  cro-21/MAG/HIRES/aylien/ayl-20-KK.jpg:
+    mimetype: image/jpeg
+  cro-21/MAG/HIRES/aylien/ayl-21-NS.jpg:
+    mimetype: image/jpeg
+  cro-21/MAG/HIRES/aylien/ayl-22-Wire.jpg:
+    mimetype: image/jpeg
+  cro-21/MAG/HIRES/aylien/ayl-23-RCl.jpg:
+    mimetype: image/jpeg
+  cro-21/MAG/HIRES/aylien/ayl-24-Fish.jpg:
+    mimetype: image/jpeg
+  cro-21/MAG/HIRES/aylien/ayl-25-Silly.jpg:
+    mimetype: image/jpeg
+  cro-21/MAG/HIRES/aylien/ayl-26-WR.jpg:
+    mimetype: image/jpeg
+  cro-21/MAG/HIRES/aylien/ayl-27-Sign.jpg:
+    mimetype: image/jpeg
+  cro-21/MAG/HIRES/aylien/ayl-28-Vtx2.jpg:
+    mimetype: image/jpeg
+  cro-21/MAG/HIRES/cubon/cbn-funk.png:
+    mimetype: image/png
+  cro-21/MAG/HIRES/targon/t!-duso.png:
+    mimetype: image/png
+  cro-21/MAG/HIRES/zorro/2o-aln.png:
+    mimetype: image/png
+  cro-21/MAG/HIRES/zorro/2o-arn.png:
+    mimetype: image/png
+  cro-21/MAG/HIRES/zorro/2o-awd.png:
+    mimetype: image/png
+  cro-21/MAG/HIRES/zorro/2o-co.png:
+    mimetype: image/png
+  cro-21/MAG/HIRES/zorro/2o-ice.png:
+    mimetype: image/png
+  cro-21/MAG/HIRES/zorro/2o-ppx.png:
+    mimetype: image/png
+  cro-21/MAG/HIRES/zorro/2o-sd.png:
+    mimetype: image/png
+  cro-21/MAG/MUSIC/bzl/bzl-hscr.xm:
+    mimetype: audio/x-mod
+  cro-21/MAG/MUSIC/dualtrax/dt_Chess.mp3:
+    mimetype: audio/mpeg
+  cro-21/MAG/MUSIC/dualtrax/dt_think1.xm:
+    mimetype: audio/x-mod
+  cro-21/MAG/MUSIC/dualtrax/dt_vertex1.xm:
+    mimetype: audio/x-mod
+  cro-21/MAG/MUSIC/dualtrax/various_artists_-_the_megatune.xm:
+    mimetype: audio/x-mod
+  cro-21/MAG/MUSIC/guest/sch-flfy.mp3:
+    mimetype: audio/mpeg
+  cro-21/MAG/MUSIC/guest/sch-lths.mp3:
+    mimetype: audio/mpeg
+  cro-21/MAG/MUSIC/ogge/og-NAESA.xm:
+    mimetype: audio/x-mod
+  cro-21/MAG/MUSIC/ogge/og-e330.xm:
+    mimetype: audio/x-mod
+  cro-21/MAG/MUSIC/ogge/og-hetero.xm:
+    mimetype: audio/x-mod
+  cro-21/MAG/MUSIC/ogge/og-keff.xm:
+    mimetype: audio/x-mod
+  cro-21/MAG/MUSIC/ogge/og-kopfbajs.xm:
+    mimetype: audio/x-mod
+  cro-21/MAG/MUSIC/ogge/og-lost.xm:
+    mimetype: audio/x-mod
+  cro-21/MAG/MUSIC/ogge/og-lstop.xm:
+    mimetype: audio/x-mod
+  cro-21/MAG/MUSIC/ogge/og-ohnoes.xm:
+    mimetype: audio/x-mod
+  cro-21/MAG/MUSIC/ogge/og-reflex.xm:
+    mimetype: audio/x-mod
+  cro-21/MAG/MUSIC/ogge/og-solnedgaang.xm:
+    mimetype: audio/x-mod
+  cro-21/MAG/MUSIC/ogge/og-wed.xm:
+    mimetype: audio/x-mod
+  cro-21/MAG/MUSIC/ogge/og-wonderm0.xm:
+    mimetype: audio/x-mod
+  cro-21/bass.dll:
+    mimetype: application/x-dosexec
+  cro-21/creaction.png:
+    mimetype: image/png
+  cro.nfo:
+    mimetype: text/plain
+  file_id.diz:
+    mimetype: text/plain

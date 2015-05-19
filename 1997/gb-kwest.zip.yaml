@@ -1,0 +1,44 @@
+name: gb-kwest.zip
+hash: a791331f1c154cb6780c9e657a7630eb
+year: 1997
+file:
+  C4-DIST.ASC:
+    mimetype: text/plain
+  CN-BIO!.ASC:
+    mimetype: text/plain
+  CN-KSIDE.ASC:
+    mimetype: text/plain
+  CN-SAGA.ASC:
+    mimetype: text/plain
+  CN-SCOTT.ASC:
+    mimetype: text/plain
+  CN-SFII2.ASC:
+    mimetype: text/plain
+  DS-KWST1.ASC:
+    mimetype: text/plain
+  EN-SAGA.ASC:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GB-KWEST.TXT:
+    mimetype: text/plain
+  KW-BG&KR.ASC:
+    mimetype: text/plain
+  KW-CN&MA.ASC:
+    mimetype: text/plain
+  KW-CUSS!.TXT:
+    mimetype: text/plain
+  KW-FIMT.TXT:
+    mimetype: text/plain
+  KW-LGC.TXT:
+    mimetype: text/plain
+  KW-WORMS.TXT:
+    mimetype: text/plain
+  M7M-KWST.ASC:
+    mimetype: text/plain
+  MA-BSC5.ASC:
+    mimetype: text/plain
+  PM-HCAT.ASC:
+    mimetype: text/plain
+  PM-KWEST.ASC:
+    mimetype: text/plain

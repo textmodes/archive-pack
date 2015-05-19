@@ -1,0 +1,124 @@
+name: rel-1294.zip
+hash: 9e436335aa65dcd0182b448d98bc471a
+year: 1994
+file:
+  !!binary xMTEQU5TScQuxMTE:
+    mimetype: text/plain
+  !!binary xMTEVkdBxMQuxMTE:
+    mimetype: text/plain
+  !!binary xMRNVVNJQ8QuxMTE:
+    mimetype: text/plain
+  !!binary xMRPVEhFUsQuxMTE:
+    mimetype: text/plain
+  !!binary xMRWSUVXRVIuxMTE:
+    mimetype: text/plain
+  33-ACE15.REL:
+    mimetype: text/plain
+  33-AD2.REL:
+    mimetype: text/plain
+  33-AD3.REL:
+    mimetype: text/plain
+  33-CAT.REL:
+    mimetype: text/plain
+  33-GREET.REL:
+    mimetype: text/plain
+  33-HAVM1.REL:
+    mimetype: text/plain
+  33-LOGO1.REL:
+    mimetype: text/plain
+  33-MODEM.REL:
+    mimetype: text/plain
+  33-NH.REL:
+    mimetype: text/plain
+  33-O691.REL:
+    mimetype: text/plain
+  33-REV.REL:
+    mimetype: text/plain
+  33-STB09.REL:
+    mimetype: text/plain
+  33-TCL2.REL:
+    mimetype: text/plain
+  33-THA5.REL:
+    mimetype: text/plain
+  33-UE.BIN:
+    mimetype: text/x-binary
+  33-Z.REL:
+    mimetype: text/plain
+  33PE-LD.REL:
+    mimetype: text/plain
+  33ZR-TST.REL:
+    mimetype: text/plain
+  BM-AVGA.REL:
+    mimetype: text/plain
+  BM-BASSK.REL:
+    mimetype: text/plain
+  BM-CHRIS.REL:
+    mimetype: text/plain
+  BM-KLF.REL:
+    mimetype: text/plain
+  BM-KOS2.REL:
+    mimetype: text/plain
+  BM-QUAG.REL:
+    mimetype: text/plain
+  BM-RELIK.REL:
+    mimetype: text/plain
+  BM-SHLUV.S3M:
+    mimetype: audio/x-mod
+  BM-TERM.REL:
+    mimetype: text/plain
+  BM-THA.REL:
+    mimetype: text/plain
+  BM-UN.REL:
+    mimetype: text/plain
+  BM-WASTE.S3M:
+    mimetype: audio/x-mod
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  INFO.REL:
+    mimetype: text/plain
+  KT-REG.REL:
+    mimetype: text/plain
+  KT-TMMH.REL:
+    mimetype: text/plain
+  KT-WS.REL:
+    mimetype: text/plain
+  LQ-GUMIN.REL:
+    mimetype: text/plain
+  MEMBERS.REL:
+    mimetype: text/plain
+  MO-DF.PCX:
+    mimetype: image/pcx
+  RELICVU.CFG:
+    mimetype: text/plain
+  RELICVU.DOC:
+    mimetype: text/plain
+  RELICVU.EXE:
+    mimetype: application/x-msdos-program
+  SH-PONR.REL:
+    mimetype: text/plain
+  SH-SARC.BIN:
+    mimetype: text/x-binary
+  SH-UNSF.REL:
+    mimetype: text/plain
+  US-RFC1.REL:
+    mimetype: text/plain
+  YO-REL1.REL:
+    mimetype: text/plain
+  ZH-8BMTX.REL:
+    mimetype: text/plain
+  ZH-BKMTX.REL:
+    mimetype: text/plain
+  ZH-FCONF.REL:
+    mimetype: text/plain
+  ZH-NWARZ.REL:
+    mimetype: text/plain
+  ZH-PR2.REL:
+    mimetype: text/plain
+  ZH-ST1.REL:
+    mimetype: text/plain
+  ZH-THA2.REL:
+    mimetype: text/plain
+  ZH-TV1.REL:
+    mimetype: text/plain
+  ZH-UF1.REL:
+    mimetype: text/plain

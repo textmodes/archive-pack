@@ -1,0 +1,14 @@
+name: dkb_nesh.zip
+hash: d05522f27303579f04a2c6c0cadf6a35
+year: 1997
+file:
+  DKB.NFO:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  STEELTRA.INS:
+    mimetype: application/octet-stream
+  nesh1.jpg:
+    mimetype: image/jpeg
+  nesh2.jpg:
+    mimetype: image/jpeg

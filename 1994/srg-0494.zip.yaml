@@ -1,0 +1,62 @@
+name: srg-0494.zip
+hash: 092b0ca1e77efdc630210c09d5627e3c
+year: 1994
+file:
+  ATLANTIS.TDF:
+    mimetype: application/octet-stream
+  ELITE.TDF:
+    mimetype: application/octet-stream
+  FADE-1.TDF:
+    mimetype: application/octet-stream
+  FADE-2.TDF:
+    mimetype: application/octet-stream
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  HY-19.ANS:
+    mimetype: text/plain
+  HY-ABYSS.ANS:
+    mimetype: text/plain
+  HY-HF.ANS:
+    mimetype: text/plain
+  HY-ICE.GIF:
+    mimetype: image/gif
+  HY-ROH.ANS:
+    mimetype: text/plain
+  HY-SRG.GIF:
+    mimetype: image/gif
+  HY-SUND.ANS:
+    mimetype: text/plain
+  HY-SUR1.ANS:
+    mimetype: text/plain
+  METAL.TDF:
+    mimetype: application/octet-stream
+  MK2CHT.BAT:
+    mimetype: application/x-msdos-program
+  MK2FAQ16.TXT:
+    mimetype: text/plain
+  NBACOD.V02:
+    mimetype: text/plain
+  NBAJAM1.17:
+    mimetype: text/plain
+  NV-ROH.EXE:
+    mimetype: application/x-msdos-program
+  NV-ROH2.EXE:
+    mimetype: application/x-msdos-program
+  SK-HELL.LIT:
+    mimetype: text/plain
+  SK-STALK.LIT:
+    mimetype: text/plain
+  SMATLANT.TDF:
+    mimetype: application/octet-stream
+  SRG-0494.NFO:
+    mimetype: text/plain
+  SRGINFO.EXE:
+    mimetype: application/x-msdos-program
+  STEEL.TDF:
+    mimetype: application/octet-stream
+  SURGE.APP:
+    mimetype: text/plain
+  VF_FAQ12.TXT:
+    mimetype: text/plain
+  WEIRD.TDF:
+    mimetype: application/octet-stream

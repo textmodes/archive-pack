@@ -1,0 +1,30 @@
+name: gel-006.zip
+hash: 9005094cb03593e5e9bfcaac702127fa
+year: 1997
+file:
+  CH-CD1.ASC:
+    mimetype: text/plain
+  CH-CD2.ASC:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GEL.MEM:
+    mimetype: text/plain
+  GEL.NFO:
+    mimetype: text/plain
+  GEL.SIT:
+    mimetype: text/plain
+  GELAPP.EXE:
+    mimetype: application/x-msdos-program
+  GELVIEW.EXE:
+    mimetype: application/x-msdos-program
+  IC-CDAD.ASC:
+    mimetype: text/plain
+  IC-CDGUY.ASC:
+    mimetype: text/plain
+  IC-TTP.ASC:
+    mimetype: text/plain
+  TX-GEL.ANS:
+    mimetype: text/plain
+  TX-GEL2.ANS:
+    mimetype: text/plain

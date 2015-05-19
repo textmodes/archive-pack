@@ -1,0 +1,30 @@
+name: out-0696.zip
+hash: e065882bd34bae259e9d2ef688d59256
+year: 1996
+file:
+  DARK.RIP:
+    mimetype: image/x-rip
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GHOST.RIP:
+    mimetype: image/x-rip
+  OUT-DIST.ANS:
+    mimetype: text/plain
+  OUT-DIST.RIP:
+    mimetype: image/x-rip
+  OUT-DIST.TXT:
+    mimetype: text/plain
+  OUT-DOOM.ANS:
+    mimetype: text/plain
+  OUT-FACE.ANS:
+    mimetype: text/plain
+  OUT-NITE.ANS:
+    mimetype: text/plain
+  OUT-WOLV.ANS:
+    mimetype: text/plain
+  OUT.AD:
+    mimetype: text/plain
+  STARDUST.RIP:
+    mimetype: image/x-rip
+  WATCHER.RIP:
+    mimetype: image/x-rip

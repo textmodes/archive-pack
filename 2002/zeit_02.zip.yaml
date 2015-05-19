@@ -1,0 +1,90 @@
+name: zeit_02.zip
+hash: 62658b1f814ca1fb0e45f0d3744752d3
+year: 2002
+file:
+  ALL2BIT.DLL:
+    mimetype: application/x-dosexec
+  Art/________:
+    mimetype: text/plain
+  Art/KP-FBSD.ASC:
+    mimetype: text/plain
+  Art/Kp-deep.ans:
+    mimetype: text/plain
+  Art/Ks-dead.lit:
+    mimetype: text/plain
+  Art/Ks-horor.asc:
+    mimetype: text/plain
+  Art/Ks-zeit.asc:
+    mimetype: text/plain
+  Art/S-demon.asc:
+    mimetype: text/plain
+  Art/S-graff.jpg:
+    mimetype: image/jpeg
+  Art/S-hand.asc:
+    mimetype: text/plain
+  Art/S-kill.lit:
+    mimetype: text/plain
+  Art/S-planet.lit:
+    mimetype: text/plain
+  Art/S-shade.asc:
+    mimetype: text/plain
+  Art/VIBE-DS.IT:
+    mimetype: audio/x-mod
+  Art/VIBE-WND.IT:
+    mimetype: audio/x-mod
+  Art/file_id.diz:
+    mimetype: text/plain
+  Art/files.txt:
+    mimetype: text/plain
+  Art/gr-zeit.ans:
+    mimetype: text/plain
+  Art/kp-rgrc.asc:
+    mimetype: text/plain
+  Art/ox-cmpre.ans:
+    mimetype: text/plain
+  Art/ox-cybrg.asc:
+    mimetype: text/plain
+  Art/ox-dkdrw.asc:
+    mimetype: text/plain
+  Art/ox-idraw.ans:
+    mimetype: text/plain
+  Art/ox-s&.ans:
+    mimetype: text/plain
+  Art/ox-way.ans:
+    mimetype: text/plain
+  Art/shd-brke.ans:
+    mimetype: text/plain
+  Art/shd-city.jpg:
+    mimetype: image/jpeg
+  Art/shd-cw.ans:
+    mimetype: text/plain
+  Art/shd-eye.ans:
+    mimetype: text/plain
+  Art/shd-non.asc:
+    mimetype: text/plain
+  Art/srb-geo.asc:
+    mimetype: text/plain
+  Art/xk!-370h.jpg:
+    mimetype: image/jpeg
+  Art/xk!-ts3b.jpg:
+    mimetype: image/jpeg
+  Art/xk!af_sx.ans:
+    mimetype: text/plain
+  Art/xk!n-m-s.jpg:
+    mimetype: image/jpeg
+  Art/z-dark.jpg:
+    mimetype: image/jpeg
+  Art/z-nfo.ans:
+    mimetype: text/plain
+  Art/z-shaded.jpg:
+    mimetype: image/jpeg
+  Art/z-title.ans:
+    mimetype: text/plain
+  EDMUNDIS.TTF:
+    mimetype: application/x-font-ttf
+  ZeitNot.exe:
+    mimetype: application/x-msdos-program
+  bass.dll:
+    mimetype: application/x-dosexec
+  files.bbs:
+    mimetype: text/plain

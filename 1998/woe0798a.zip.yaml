@@ -1,0 +1,96 @@
+name: woe0798a.zip
+hash: acbe6b9e868c6fb4204b47c1e9644ca9
+year: 1998
+file:
+  ((ANSI))/((ANSI)):
+    mimetype: text/plain
+  ((ANSI))/ANM-ANS.ANS:
+    mimetype: text/plain
+  ((ANSI))/DRM-DA.ANS:
+    mimetype: text/plain
+  ((ANSI))/DRM-DIYH.ANS:
+    mimetype: text/plain
+  ((ANSI))/DRM-INSO.ANS:
+    mimetype: text/plain
+  ((ANSI))/KS-BLOOD.ANS:
+    mimetype: text/plain
+  ((ANSI))/KS-COWOE.ANS:
+    mimetype: text/plain
+  ((ANSI))/KS-GENCO.ANS:
+    mimetype: text/plain
+  ((ANSI))/LS-ABLGO.ANS:
+    mimetype: text/plain
+  ((ANSI))/LS-ECHOL.ANS:
+    mimetype: text/plain
+  ((ANSI))/LS-LAMAT.ANS:
+    mimetype: text/plain
+  ((ANSI))/LS-RAIDL.ANS:
+    mimetype: text/plain
+  ((ANSI))/LS-TODL2.ANS:
+    mimetype: text/plain
+  ((ANSI))/SPF-IMP.ANS:
+    mimetype: text/plain
+  ((ANSI))/SPF-WOE2.ANS:
+    mimetype: text/plain
+  ((ANSI))/SPF-WOZN.ANS:
+    mimetype: text/plain
+  ((ANSI))/VA-FRMS.ANS:
+    mimetype: text/plain
+  ((ANSI))/VA-POC.ANS:
+    mimetype: text/plain
+  ((ANSI))/VA-SCRM.ANS:
+    mimetype: text/plain
+  ((HOE)):
+    mimetype: text/plain
+  ((MODS))/((MODS)):
+    mimetype: text/plain
+  ((MODS))/SRF-FARS.MOD:
+    mimetype: audio/x-mod
+  ((MODS))/SRF-ICAR.MOD:
+    mimetype: audio/x-mod
+  ((MODS))/SRF-NUKE.XM:
+    mimetype: audio/x-mod
+  ((MODS))/SRF-WIZ.XM:
+    mimetype: audio/x-mod
+  ((MODS))/TD-SDNT.S3M:
+    mimetype: audio/x-mod
+  ((VGA))/((VGA)):
+    mimetype: text/plain
+  ((VGA))/DE-CRAP.JPG:
+    mimetype: image/jpeg
+  ((VGA))/DE-WARP.JPG:
+    mimetype: image/jpeg
+  ((VGA))/DRS-AM~1.JPG:
+    mimetype: image/jpeg
+  ((VGA))/DRS-DIY.JPG:
+    mimetype: image/jpeg
+  ((VGA))/DRS-EV~1.JPG:
+    mimetype: image/jpeg
+  ((VGA))/DRS-TS.JPG:
+    mimetype: image/jpeg
+  ((VGA))/DRS-WAR.JPG:
+    mimetype: image/jpeg
+  ((VGA))/DRS-WZ.JPG:
+    mimetype: image/jpeg
+  ((VGA))/GF-CMHS.JPG:
+    mimetype: image/jpeg
+  ((VGA))/TD-BOI~1.JPG:
+    mimetype: image/jpeg
+  ((VGA))/TD-IMPLS.JPG:
+    mimetype: image/jpeg
+  ((VGA))/TD-ORB1.JPG:
+    mimetype: image/jpeg
+  ((VGA))/TD-WOE1.JPG:
+    mimetype: image/jpeg
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  LINKWOE.ZIP:
+    mimetype: application/zip
+  WOE0798.INQ:
+    mimetype: text/plain
+  WOE0798.MEM:
+    mimetype: text/plain
+  WOEAPP.EXE:
+    mimetype: application/x-msdos-program
+  WOEVIEW.EXE:
+    mimetype: application/x-msdos-program

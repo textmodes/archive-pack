@@ -1,0 +1,42 @@
+name: purg-25a.zip
+hash: 20ed6e8049747b69f610eab8337438f5
+year: 1999
+file:
+  APP-DOS.EXE:
+    mimetype: application/x-msdos-program
+  APP-WIN.ZIP:
+    mimetype: application/zip
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  MR-COLY1.ANS:
+    mimetype: text/plain
+  MR-COLY2.ANS:
+    mimetype: text/plain
+  OI-PRG1.ANS:
+    mimetype: text/plain
+  OI-PRG2.ANS:
+    mimetype: text/plain
+  PLGO-ACT.025:
+    mimetype: application/octet-stream
+  PLGO-MEM.025:
+    mimetype: text/plain
+  PLGO-NFO.025:
+    mimetype: application/octet-stream
+  PT-PURG.ANS:
+    mimetype: text/plain
+  PT-ZAND.ANS:
+    mimetype: text/plain
+  SZ-AEON.ANS:
+    mimetype: text/plain
+  SZ-GUTRH.ANS:
+    mimetype: text/plain
+  SZ-PURG1.ANS:
+    mimetype: text/plain
+  US-ABSTR.ANS:
+    mimetype: text/plain
+  US-BABY.ANS:
+    mimetype: text/plain
+  US-SILK.ANS:
+    mimetype: text/plain
+  US_KS.ANS:
+    mimetype: text/plain

@@ -1,0 +1,56 @@
+name: abi-0695.zip
+hash: b00b0cbd64fae8132c4404b0dabe5ebb
+year: 1995
+file:
+  ABI-APP.EXE:
+    mimetype: application/x-msdos-program
+  ABI-DRAW.EXE:
+    mimetype: application/x-msdos-program
+  ABI-VIEW.EXE:
+    mimetype: application/x-msdos-program
+  ABI.EXE:
+    mimetype: application/x-msdos-program
+  ABI.NFO:
+    mimetype: text/plain
+  ABI_1.JPG:
+    mimetype: image/jpeg
+  ABI2B.JPG:
+    mimetype: image/jpeg
+  ABI4.ANS:
+    mimetype: text/plain
+  ABOYZ1.ASC:
+    mimetype: text/plain
+  DEFIANCE.NFO:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  JWC.ANS:
+    mimetype: text/plain
+  KUL.COM:
+    mimetype: application/x-msdos-program
+  LOGOFF.ANS:
+    mimetype: text/plain
+  LOGON.AN2:
+    mimetype: text/plain
+  LOGON.ANS:
+    mimetype: text/plain
+  MENTAL.COM:
+    mimetype: application/x-msdos-program
+  MENTAL.NFO:
+    mimetype: text/plain
+  RIDE2HEL.L:
+    mimetype: text/plain
+  TOJ-ABI.GIF:
+    mimetype: image/gif
+  TX-ABI.ANS:
+    mimetype: text/plain
+  TX-ABI.ASC:
+    mimetype: text/plain
+  VHELL.TXT:
+    mimetype: text/plain
+  WELCOME.AN1:
+    mimetype: text/plain
+  WELCOME1.ANS:
+    mimetype: text/plain
+  WELCOME2.ANS:
+    mimetype: text/plain

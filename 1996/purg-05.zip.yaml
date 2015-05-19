@@ -1,0 +1,88 @@
+name: purg-05.zip
+hash: cf3444a1c70465d9ea68ec4d57a76d48
+year: 1996
+file:
+  BZ-ADREN.ASC:
+    mimetype: text/plain
+  BZ-DR_EC.ASC:
+    mimetype: text/plain
+  BZ-INVIS.ASC:
+    mimetype: text/plain
+  BZ-INVRL.ASC:
+    mimetype: text/plain
+  BZ-SOLA1.ASC:
+    mimetype: text/plain
+  DRC#A.ANS:
+    mimetype: text/plain
+  DRC#ELEC.ANS:
+    mimetype: text/plain
+  DRC#PUR2.ANS:
+    mimetype: text/plain
+  DRC#PUR3.ANS:
+    mimetype: text/plain
+  DRC#PURG.ANS:
+    mimetype: text/plain
+  INF-CD.prg:
+    mimetype: text/plain
+  INF-SAL1.prg:
+    mimetype: text/plain
+  INF-SAL2.prg:
+    mimetype: text/plain
+  INF-SIN.prg:
+    mimetype: text/plain
+  INF-TOON.prg:
+    mimetype: text/plain
+  PURG-05.NFO:
+    mimetype: text/plain
+  SE-PURG.prg:
+    mimetype: text/plain
+  TR!COL-C.ASC:
+    mimetype: text/plain
+  US!HZRD.ASC:
+    mimetype: text/plain
+  US!TRR2.PRG:
+    mimetype: text/plain
+  bm-purg.jpg:
+    mimetype: image/jpeg
+  ct-prfle.prg:
+    mimetype: text/plain
+  ds-gatp1.jpg:
+    mimetype: image/jpeg
+  kit-purg.rip:
+    mimetype: image/x-rip
+  ko-purg.prg:
+    mimetype: text/plain
+  kt-earth.rip:
+    mimetype: image/x-rip
+  ri-chaos.asc:
+    mimetype: text/plain
+  ri-dunes.asc:
+    mimetype: text/plain
+  ri-nm.asc:
+    mimetype: text/plain
+  ri-testa.asc:
+    mimetype: text/plain
+  riblack2.asc:
+    mimetype: text/plain
+  sl-purg.rip:
+    mimetype: image/x-rip
+  ss-masq!.rip:
+    mimetype: image/x-rip
+  tr!col-A.asc:
+    mimetype: text/plain
+  tr!col-b.asc:
+    mimetype: text/plain
+  tr!purg.JPG:
+    mimetype: image/jpeg
+  tr-trnd1.asc:
+    mimetype: text/plain
+  tr-trnds.asc:
+    mimetype: text/plain
+  us!etrnl.asc:
+    mimetype: text/plain
+  us!trr.asc:
+    mimetype: text/plain
+  us-etrnl.asc:
+    mimetype: text/plain
+  us-hzrd.asc:
+    mimetype: text/plain

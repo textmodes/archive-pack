@@ -1,0 +1,46 @@
+name: moon-04.zip
+hash: fb89b00ca8c13bcac1e8865f53fc7446
+year: 2000
+file:
+  -DIZ-:
+    mimetype: text/plain
+  -INFO-:
+    mimetype: text/plain
+  -VGA-:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FLD-INFO.TXT:
+    mimetype: text/plain
+  FLD-NCTL.JPG:
+    mimetype: image/jpeg
+  FLD-WANT.JPG:
+    mimetype: image/jpeg
+  MOON-04.NFO:
+    mimetype: text/plain
+  MS-95C.JPG:
+    mimetype: image/jpeg
+  MS-AGS.JPG:
+    mimetype: image/jpeg
+  MS-ALB.JPG:
+    mimetype: image/jpeg
+  MS-EVL.JPG:
+    mimetype: image/jpeg
+  MS-GODR.JPG:
+    mimetype: image/jpeg
+  MS-MMELL.JPG:
+    mimetype: image/jpeg
+  MS-PDX.JPG:
+    mimetype: image/jpeg
+  MS-TMHY.JPG:
+    mimetype: image/jpeg
+  NY-INSAN.JPG:
+    mimetype: image/jpeg
+  X_DJEUNZ.GIF:
+    mimetype: image/gif
+  X_EYES.GIF:
+    mimetype: image/gif
+  X_MRBEAN.GIF:
+    mimetype: image/gif
+  ZA-ORME.TGA:
+    mimetype: application/octet-stream

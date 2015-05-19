@@ -1,0 +1,78 @@
+name: 301-1296.zip
+hash: 1a78cd54f9fc1841f1c326f23978f3c5
+year: 1996
+file:
+  301-APP.EXE:
+    mimetype: application/x-msdos-program
+  1296INFO.ANS:
+    mimetype: text/plain
+  1296MEM.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  ILL-3OI1.ANS:
+    mimetype: text/plain
+  ILL-LSLD.ANS:
+    mimetype: text/plain
+  ILL-NOC1.ANS:
+    mimetype: text/plain
+  ILL-NX2.ANS:
+    mimetype: text/plain
+  ILL-PL1.ANS:
+    mimetype: text/plain
+  ILL-PL2.ANS:
+    mimetype: text/plain
+  ILL-PL3.ANS:
+    mimetype: text/plain
+  ILL-PV1.ANS:
+    mimetype: text/plain
+  ILL-SLC1.ANS:
+    mimetype: text/plain
+  ILL-SLC2.ANS:
+    mimetype: text/plain
+  ILL-ZDV1.ANS:
+    mimetype: text/plain
+  ILL-ZDV2.ANS:
+    mimetype: text/plain
+  MFS-LGO1.ANS:
+    mimetype: text/plain
+  PAR-BT.ANS:
+    mimetype: text/plain
+  RD-AE.ANS:
+    mimetype: text/plain
+  RT-HEAD.ANS:
+    mimetype: text/plain
+  RT-LIME.ANS:
+    mimetype: text/plain
+  RT-OS.ANS:
+    mimetype: text/plain
+  RT-PANGE.ANS:
+    mimetype: text/plain
+  RT-THIN.ANS:
+    mimetype: text/plain
+  RVL-LGO1.ANS:
+    mimetype: text/plain
+  RVL-XMAS.ANS:
+    mimetype: text/plain
+  SH-LGO1.ANS:
+    mimetype: text/plain
+  SMI-HVN.ANS:
+    mimetype: text/plain
+  SMI-SS1.ANS:
+    mimetype: text/plain
+  SMI-SS2.ANS:
+    mimetype: text/plain
+  ST-SG.ANS:
+    mimetype: text/plain
+  US-301.ANS:
+    mimetype: text/plain
+  US-DEAD.ANS:
+    mimetype: text/plain
+  US-ORGK.ANS:
+    mimetype: text/plain
+  US-SKULL.ANS:
+    mimetype: text/plain
+  XE-BOFH.ASC:
+    mimetype: text/plain
+  XE-GOAT.ASC:
+    mimetype: text/plain

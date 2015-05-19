@@ -1,0 +1,44 @@
+name: cia68-a.zip
+hash: 3848ef85922c6ad8e8a075b689fa83ea
+year: 1999
+file:
+  '---CIA--.---':
+    mimetype: text/plain
+  '---ETC--.---':
+    mimetype: text/plain
+  --CNTD--.---:
+    mimetype: text/plain
+  --INFO--.---:
+    mimetype: text/plain
+  -HIRES--.---:
+    mimetype: text/plain
+  68_id.jpg:
+    mimetype: image/jpeg
+  1099INFO.TXT:
+    mimetype: text/plain
+  1099memb.txt:
+    mimetype: text/plain
+  ak_fool.jpg:
+    mimetype: image/jpeg
+  ak_frfy2.jpg:
+    mimetype: image/jpeg
+  cia68-a.htm:
+    mimetype: text/html
+  cs_time.jpg:
+    mimetype: image/jpeg
+  cs_tub.jpg:
+    mimetype: image/jpeg
+  file_id.diz:
+    mimetype: text/plain
+  ik_sapi.jpg:
+    mimetype: image/jpeg
+  index.htm:
+    mimetype: text/html
+  lz_imag.jpg:
+    mimetype: image/jpeg
+  mj_bin.jpg:
+    mimetype: image/jpeg
+  mj_cock1.jpg:
+    mimetype: image/jpeg
+  wiretap.zip:
+    mimetype: application/zip

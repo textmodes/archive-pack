@@ -1,0 +1,36 @@
+name: k-jaded.zip
+hash: 7898cd9aaf2047a68992c09405283373
+year: 1999
+file:
+  '%COVER.ANS':
+    mimetype: text/plain
+  '%INFO.ans':
+    mimetype: text/plain
+  01-FIRE.ANS:
+    mimetype: text/plain
+  02-LOVE.ANS:
+    mimetype: text/plain
+  03-NAILD.ANS:
+    mimetype: text/plain
+  04-LOST.ANS:
+    mimetype: text/plain
+  05-TELL.ANS:
+    mimetype: text/plain
+  06-VTAG.ANS:
+    mimetype: text/plain
+  07-MIND.ANS:
+    mimetype: text/plain
+  08-TECH.ANS:
+    mimetype: text/plain
+  09-RIOT.ANS:
+    mimetype: text/plain
+  10-WHAT.ANS:
+    mimetype: text/plain
+  11-STARV.ANS:
+    mimetype: text/plain
+  12-MORON.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  XX-BACK.ANS:
+    mimetype: text/plain

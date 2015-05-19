@@ -1,0 +1,80 @@
+name: ansis-n.zip
+hash: 8bcd5eba74134fdf5fff5bcd7b0a395e
+year: 1993
+file:
+  -RUNME.COM:
+    mimetype: application/x-msdos-program
+  NANCI2.ANS:
+    mimetype: text/plain
+  NE-ASYL.ANS:
+    mimetype: text/plain
+  NE-AT.ANS:
+    mimetype: text/plain
+  NE-CRYP.ANS:
+    mimetype: text/plain
+  NE-DPG.ANS:
+    mimetype: text/plain
+  NE-EITW.ANS:
+    mimetype: text/plain
+  NE-H2O.ANS:
+    mimetype: text/plain
+  NE-IOP.ANS:
+    mimetype: text/plain
+  NE-MP.ANS:
+    mimetype: text/plain
+  NE-NONA.ANS:
+    mimetype: text/plain
+  NE-NTG.ANS:
+    mimetype: text/plain
+  NE-PGI.ANS:
+    mimetype: text/plain
+  NE-RCS.ANS:
+    mimetype: text/plain
+  NE-SANC.ANS:
+    mimetype: text/plain
+  NE-TDS.ANS:
+    mimetype: text/plain
+  NE-THAN.ANS:
+    mimetype: text/plain
+  NE-TOV.ANS:
+    mimetype: text/plain
+  NE-TPU.ANS:
+    mimetype: text/plain
+  NE-UNKN.ANS:
+    mimetype: text/plain
+  NE-VX.ANS:
+    mimetype: text/plain
+  NEPATR.ANS:
+    mimetype: text/plain
+  NEPTUNE.ANS:
+    mimetype: text/plain
+  NET.ANS:
+    mimetype: text/plain
+  NEWYRDRM.ANS:
+    mimetype: text/plain
+  NFL1991A.ANS:
+    mimetype: text/plain
+  NFL1991N.ANS:
+    mimetype: text/plain
+  NICETRY.ANS:
+    mimetype: text/plain
+  NIGHT.ANS:
+    mimetype: text/plain
+  NM-BD.ANS:
+    mimetype: text/plain
+  NM-DNB.ANS:
+    mimetype: text/plain
+  NM-ICE.ANS:
+    mimetype: text/plain
+  NM-MAST.ANS:
+    mimetype: text/plain
+  NOTREDAM.ANS:
+    mimetype: text/plain
+  NOTREDM.ANS:
+    mimetype: text/plain
+  NTG2.ANS:
+    mimetype: text/plain
+  NTGACID.ANS:
+    mimetype: text/plain
+  NWLACID1.ANS:
+    mimetype: text/plain

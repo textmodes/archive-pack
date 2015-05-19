@@ -1,0 +1,36 @@
+name: fog03.zip
+hash: b65b016c604abc6bd8577d60c7810f5a
+year: 1995
+file:
+  CR-COTM2.ANS:
+    mimetype: text/plain
+  CR-GRAVE.ANS:
+    mimetype: text/plain
+  CR-NGHTD.ANS:
+    mimetype: text/plain
+  CR-NIS.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FOG-1295.NFO:
+    mimetype: text/plain
+  FW-FOG.ANS:
+    mimetype: text/plain
+  FW-GTS.ANS:
+    mimetype: text/plain
+  IF-AH.ANS:
+    mimetype: text/plain
+  IF-AH.GIF:
+    mimetype: image/gif
+  IF-AH2.GIF:
+    mimetype: image/gif
+  IF-DD.ANS:
+    mimetype: text/plain
+  IF-DDN2.GIF:
+    mimetype: image/gif
+  IF-EXTAS.GIF:
+    mimetype: image/gif
+  IF-RAI.GIF:
+    mimetype: image/gif
+  LGO-1295.ANS:
+    mimetype: text/plain

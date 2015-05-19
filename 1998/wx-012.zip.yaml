@@ -1,0 +1,20 @@
+name: wx-012.zip
+hash: 6e6d5313a7065f41ab5776bb8126b773
+year: 1998
+file:
+  CSA.JPG:
+    mimetype: image/jpeg
+  DIPSCHAL.TER:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  IBM.JPG:
+    mimetype: image/jpeg
+  IBMCSA~1.JPG:
+    mimetype: image/jpeg
+  IDC.JPG:
+    mimetype: image/jpeg
+  WX.APP:
+    mimetype: application/octet-stream
+  WX.NFO:
+    mimetype: text/plain

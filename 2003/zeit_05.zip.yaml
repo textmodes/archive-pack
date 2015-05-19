@@ -1,0 +1,80 @@
+name: zeit_05.zip
+hash: 964b9294982b8d57ff932eb6ebb8045b
+year: 2003
+file:
+  FILES.ZN5:
+    mimetype: text/plain
+  MMDRV.CFG:
+    mimetype: application/octet-stream
+  NOSND.DRV:
+    mimetype: application/octet-stream
+  PASMOD.DRV:
+    mimetype: application/octet-stream
+  SB16MOD.DRV:
+    mimetype: application/octet-stream
+  SBMOD.DRV:
+    mimetype: application/octet-stream
+  SETSOUND.EXE:
+    mimetype: application/x-msdos-program
+  USMOD.DRV:
+    mimetype: application/octet-stream
+  art/Confiden.mod:
+    mimetype: audio/x-mod
+  art/Ks&sch-1.asc:
+    mimetype: text/plain
+  art/Ks-death.asc:
+    mimetype: text/plain
+  art/Ks-obscr.asc:
+    mimetype: text/plain
+  art/Sch-face.asc:
+    mimetype: text/plain
+  art/Sch-mirr.asc:
+    mimetype: text/plain
+  art/Sch-sman.asc:
+    mimetype: text/plain
+  art/Sch-true.jpg:
+    mimetype: image/jpeg
+  art/Sch-wear.jpg:
+    mimetype: image/jpeg
+  art/Sch-wsee.asc:
+    mimetype: text/plain
+  art/file_id.diz:
+    mimetype: text/plain
+  art/odd_we.jpg:
+    mimetype: image/jpeg
+  art/ox-ahx.asc:
+    mimetype: text/plain
+  art/ox-dfndr.asc:
+    mimetype: text/plain
+  art/ox-dontt.asc:
+    mimetype: text/plain
+  art/ox-hope.asc:
+    mimetype: text/plain
+  art/ox-prsdt.asc:
+    mimetype: text/plain
+  art/ox-star.asc:
+    mimetype: text/plain
+  art/s&-draw.asc:
+    mimetype: text/plain
+  art/shd-vsch.ans:
+    mimetype: text/plain
+  art/z-action.ans:
+    mimetype: text/plain
+  art/z-bitch.asc:
+    mimetype: text/plain
+  art/z-gansta.asc:
+    mimetype: text/plain
+  art/z-ira.asc:
+    mimetype: text/plain
+  art/z-ordnry.asc:
+    mimetype: text/plain
+  art/z-pain.asc:
+    mimetype: text/plain
+  art/z-secta.asc:
+    mimetype: text/plain
+  art/zn5.nfo:
+    mimetype: text/plain
+  readme.!!!:
+    mimetype: text/plain
+  zeitnot5.exe:
+    mimetype: application/x-msdos-program

@@ -1,0 +1,34 @@
+name: fonted20.zip
+hash: ca4a14cb363c64b05084e1f11191c16d
+year: 1994
+file:
+  CCS-DIST.V15:
+    mimetype: text/plain
+  CCS1.EXE:
+    mimetype: application/x-msdos-program
+  CCS1.FED:
+    mimetype: application/octet-stream
+  CCS2.EXE:
+    mimetype: application/x-msdos-program
+  CCS2.FED:
+    mimetype: application/octet-stream
+  DBP.EXE:
+    mimetype: application/x-msdos-program
+  DBP.FED:
+    mimetype: application/octet-stream
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FONTCOMP.EXE:
+    mimetype: application/x-msdos-program
+  FONTED.DAT:
+    mimetype: application/octet-stream
+  FONTED.EXE:
+    mimetype: application/x-msdos-program
+  FONTED20.DOC:
+    mimetype: text/plain
+  FONTLOAD.EXE:
+    mimetype: application/x-msdos-program
+  STANDARD.EXE:
+    mimetype: application/x-msdos-program
+  STANDARD.FED:
+    mimetype: application/octet-stream

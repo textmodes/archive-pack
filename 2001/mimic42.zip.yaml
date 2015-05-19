@@ -1,0 +1,54 @@
+name: mimic42.zip
+hash: 06ba3a66f4b88c915ff24a1e63e8bdd6
+year: 2001
+file:
+  aetdl.asc:
+    mimetype: text/plain
+  aetgoode.asc:
+    mimetype: text/plain
+  ave-ab.asc:
+    mimetype: text/plain
+  ave-confn.ans:
+    mimetype: text/plain
+  bjasc231.ans:
+    mimetype: text/plain
+  bjasc232.ans:
+    mimetype: text/plain
+  bjasc233.ans:
+    mimetype: text/plain
+  file_id.diz:
+    mimetype: text/plain
+  h7-hmenu.asc:
+    mimetype: text/plain
+  h7-mario.ans:
+    mimetype: text/plain
+  k!blackt.asc:
+    mimetype: text/plain
+  k!zinie.asc:
+    mimetype: text/plain
+  ko-etell.asc:
+    mimetype: text/plain
+  ko-hazar.ans:
+    mimetype: text/plain
+  ko-linc.asc:
+    mimetype: text/plain
+  ko-thurs.ans:
+    mimetype: text/plain
+  kpn-om.asc:
+    mimetype: text/plain
+  lmeredo.asc:
+    mimetype: text/plain
+  m-ldyklr.asc:
+    mimetype: text/plain
+  members.ans:
+    mimetype: text/plain
+  ntv-m42a.txt:
+    mimetype: text/plain
+  quotes42.txt:
+    mimetype: text/plain
+  santa.txt:
+    mimetype: text/plain
+  toby.wav:
+    mimetype: audio/x-wav
+  wk-tus!.txt:
+    mimetype: text/plain

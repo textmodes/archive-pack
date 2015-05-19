@@ -1,0 +1,68 @@
+name: rmrs-57.zip
+hash: 28a3b778c37999478fbd57972ddf40b1
+year: 2005
+file:
+  cbn-dn.asc:
+    mimetype: text/plain
+  cbn-edge.asc:
+    mimetype: text/plain
+  cbn-fasciist.xb:
+    mimetype: text/x-xbin
+  cbn-funkp.asc:
+    mimetype: text/plain
+  cbn-gbcds.asc:
+    mimetype: text/plain
+  cbn-pkv.asc:
+    mimetype: text/plain
+  cbn-psykle.asc:
+    mimetype: text/plain
+  cbn-riot.asc:
+    mimetype: text/plain
+  cbn-rmrs.asc:
+    mimetype: text/plain
+  cm-sac.ans:
+    mimetype: text/plain
+  file_id.diz:
+    mimetype: text/plain
+  hx-aon2.asc:
+    mimetype: text/plain
+  hx-face.asc:
+    mimetype: text/plain
+  hx-punc.asc:
+    mimetype: text/plain
+  hx-r81.asc:
+    mimetype: text/plain
+  jx!grow.ans:
+    mimetype: text/plain
+  jx!peak.ans:
+    mimetype: text/plain
+  jx!remorse bendings.jpg:
+    mimetype: image/jpeg
+  ns-conf.asc:
+    mimetype: text/plain
+  ns-peep.asc:
+    mimetype: text/plain
+  nt-atv.asc:
+    mimetype: text/plain
+  nt-fed.asc:
+    mimetype: text/plain
+  nt-hl.asc:
+    mimetype: text/plain
+  nt-rca.ans:
+    mimetype: text/plain
+  quotes.txt:
+    mimetype: text/plain
+  rb-ache.txt:
+    mimetype: text/plain
+  rb-gyges.txt:
+    mimetype: text/plain
+  rb-pertn.txt:
+    mimetype: text/plain
+  remorse.nfo:
+    mimetype: text/plain
+  sp-gms.txt:
+    mimetype: text/plain
+  sp-lts.txt:
+    mimetype: text/plain
+  us-xenon.asc:
+    mimetype: text/plain

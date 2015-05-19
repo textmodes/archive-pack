@@ -1,0 +1,54 @@
+name: gvt-0396.zip
+hash: bead5064c10654b5b2dccba8e4147309
+year: 1996
+file:
+  '%ANSI%':
+    mimetype: text/plain
+  '%APP%':
+    mimetype: text/plain
+  '%ASCII%':
+    mimetype: text/plain
+  '%OTHER%':
+    mimetype: text/plain
+  '%RIP%':
+    mimetype: text/plain
+  CC-EVIL.ANS:
+    mimetype: text/plain
+  CC-FFG.ANS:
+    mimetype: text/plain
+  DL-7GATE.ANS:
+    mimetype: text/plain
+  DL-GRAV.ANS:
+    mimetype: text/plain
+  DL-TAINT.ASC:
+    mimetype: text/plain
+  DL-TVP.ASC:
+    mimetype: text/plain
+  DL-VOID.ASC:
+    mimetype: text/plain
+  DZ-COLLY.ASC:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  G40-COL2.ANS:
+    mimetype: text/plain
+  GVT-0396.MEM:
+    mimetype: text/plain
+  GVT-0396.NFO:
+    mimetype: text/plain
+  GVT-APP.EXE:
+    mimetype: application/x-msdos-program
+  HOUR.EXE:
+    mimetype: application/x-msdos-program
+  PT-TU1.RIP:
+    mimetype: image/x-rip
+  SH-BFLGO.ANS:
+    mimetype: text/plain
+  SH-ENDLS.ANS:
+    mimetype: text/plain
+  SH-GLSS2.ANS:
+    mimetype: text/plain
+  SH-GSMTX.ANS:
+    mimetype: text/plain
+  STONECHA.PEL:
+    mimetype: text/plain

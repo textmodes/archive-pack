@@ -1,0 +1,34 @@
+name: out-1198.zip
+hash: 743197090fe85ce15e35971aa491eac2
+year: 1998
+file:
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FILELIST.TXT:
+    mimetype: text/plain
+  OUT-AD.ANS:
+    mimetype: text/plain
+  OUT-AD.RIP:
+    mimetype: image/x-rip
+  OUT-BOW.ANS:
+    mimetype: text/plain
+  OUT-CH1.RIP:
+    mimetype: image/x-rip
+  OUT-CH2.RIP:
+    mimetype: image/x-rip
+  OUT-CH3.RIP:
+    mimetype: image/x-rip
+  OUT-CH4.RIP:
+    mimetype: image/x-rip
+  OUT-HANN.ANS:
+    mimetype: text/plain
+  OUT-NY.RIP:
+    mimetype: image/x-rip
+  OUT-POIN.ANS:
+    mimetype: text/plain
+  OUT-WRTH.ANS:
+    mimetype: text/plain
+  OUT.AD:
+    mimetype: text/plain
+  OUTWORLD.TXT:
+    mimetype: text/plain

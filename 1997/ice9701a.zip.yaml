@@ -1,0 +1,76 @@
+name: ice9701a.zip
+hash: 12a35857f001fedcac347005840df793
+year: 1997
+file:
+  !!binary xEFOU0nExMQuxMTE:
+    mimetype: text/plain
+  !!binary xENPTlQnRMQuxMTE:
+    mimetype: text/plain
+  !!binary xExPR0/ExMQuxMTE:
+    mimetype: text/plain
+  !!binary xFJJUMTExMQuxMTE:
+    mimetype: text/plain
+  ASS-GS2.RIP:
+    mimetype: image/x-rip
+  ASS-GVUP.RIP:
+    mimetype: image/x-rip
+  AX-ILCWK.ICE:
+    mimetype: text/plain
+  BH-ICE2.RIP:
+    mimetype: image/x-rip
+  BV-PURG1.ICE:
+    mimetype: text/plain
+  CC-RUST.ICE:
+    mimetype: text/plain
+  DG-CRYPT.RIP:
+    mimetype: image/x-rip
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  ICE-9701.DSC:
+    mimetype: text/plain
+  ICE-9701.MEM:
+    mimetype: text/plain
+  ICE-9701.NFO:
+    mimetype: text/plain
+  ICE-9701.SIT:
+    mimetype: text/plain
+  ICEVIEW.CNF:
+    mimetype: text/plain
+  ICEVIEW.DOC:
+    mimetype: text/plain
+  ICEVIEW.EXE:
+    mimetype: application/x-msdos-program
+  IV-PIF.DVP:
+    mimetype: application/octet-stream
+  JK-ABX.ICE:
+    mimetype: text/plain
+  LS-FLUPH.ICE:
+    mimetype: text/plain
+  MA-LGO04.ICE:
+    mimetype: text/plain
+  PRM-UNI1.ICE:
+    mimetype: text/plain
+  PV.EXE:
+    mimetype: application/x-msdos-program
+  SD-ICEP1.ICE:
+    mimetype: text/plain
+  TE-BB1.ICE:
+    mimetype: text/plain
+  TG-23L4.ICE:
+    mimetype: text/plain
+  TG-POO2.ICE:
+    mimetype: text/plain
+  TI-ISTR1.ICE:
+    mimetype: text/plain
+  TI-QUID1.ICE:
+    mimetype: text/plain
+  TI-TRA1.ICE:
+    mimetype: text/plain
+  TI-TTER1.ICE:
+    mimetype: text/plain
+  TI-TTWN1.ICE:
+    mimetype: text/plain
+  US-FREAK.BIN:
+    mimetype: text/x-binary
+  WY-ICE2.ICE:
+    mimetype: text/plain

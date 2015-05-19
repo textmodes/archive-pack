@@ -1,0 +1,102 @@
+name: dope0894.zip
+hash: 6a97998be614ab23b30db19d2718fa41
+year: 1994
+file:
+  --ANSIS-.---:
+    mimetype: text/plain
+  --CIPNET.---:
+    mimetype: text/plain
+  --EXES--.---:
+    mimetype: text/plain
+  --LIT---.---:
+    mimetype: text/plain
+  --MENUS-.---:
+    mimetype: text/plain
+  --MISC--.---:
+    mimetype: text/plain
+  --MODS--.---:
+    mimetype: text/plain
+  --VGA---.---:
+    mimetype: text/plain
+  AR-DOPE.ANS:
+    mimetype: text/plain
+  CIP-007.ZIP:
+    mimetype: application/zip
+  CM-CB4.ANS:
+    mimetype: text/plain
+  CM-DD.ANS:
+    mimetype: text/plain
+  CM-DPE94.ANS:
+    mimetype: text/plain
+  CM-FEOS.ANS:
+    mimetype: text/plain
+  CM-INGV.ANS:
+    mimetype: text/plain
+  CM-PONR.ANS:
+    mimetype: text/plain
+  CM-TMD.ANS:
+    mimetype: text/plain
+  CYBERCON.DIZ:
+    mimetype: text/plain
+  DOPE-APP.EXE:
+    mimetype: application/x-msdos-program
+  DOPE-REQ.EXE:
+    mimetype: application/x-msdos-program
+  DOPENEWS.DAT:
+    mimetype: application/octet-stream
+  DOPENEWS.EXE:
+    mimetype: application/x-msdos-program
+  DOPEVIEW.EXE:
+    mimetype: application/x-msdos-program
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  MI-OLNET.ANS:
+    mimetype: text/plain
+  MI-PNM.ANS:
+    mimetype: text/plain
+  PY-DTD.MOD:
+    mimetype: audio/x-mod
+  PY-TECH1.MOD:
+    mimetype: audio/x-mod
+  SF-CB4#2.ANS:
+    mimetype: text/plain
+  SF-CB4.ANS:
+    mimetype: text/plain
+  SF-CB4.GIF:
+    mimetype: image/gif
+  SF-CC.ANS:
+    mimetype: text/plain
+  SF-DOPE.ANS:
+    mimetype: text/plain
+  SF-DPE94.ANS:
+    mimetype: text/plain
+  SF-DRUID.ANS:
+    mimetype: text/plain
+  SF-GENO.ANS:
+    mimetype: text/plain
+  SF-MAFIA.ANS:
+    mimetype: text/plain
+  SF-MC.ANS:
+    mimetype: text/plain
+  SF-MENU.ZIP:
+    mimetype: application/zip
+  SF-NR.LIT:
+    mimetype: text/plain
+  SF-SHOTS.LIT:
+    mimetype: text/plain
+  SF-SYSOP.ANS:
+    mimetype: text/plain
+  TM-DNET.ANS:
+    mimetype: text/plain
+  TM-MAIN.ANS:
+    mimetype: text/plain
+  TM-MENU.ZIP:
+    mimetype: application/zip
+  TR-DNET.ANS:
+    mimetype: text/plain
+  TR-GANJA.ANS:
+    mimetype: text/plain
+  TR-MAFIA.ANS:
+    mimetype: text/plain
+  WELCOME.1:
+    mimetype: text/plain

@@ -1,0 +1,34 @@
+name: impure41.zip
+hash: cdf1919d90475ad76d344b20adf9897f
+year: 2003
+file:
+  CDN-BI.ASC:
+    mimetype: text/plain
+  DA-ASC.ASC:
+    mimetype: text/plain
+  DA-IMPA.ASC:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  IMP-XXX.TXT:
+    mimetype: text/plain
+  IMPURE41.INF:
+    mimetype: text/plain
+  IMPURE41.REL:
+    mimetype: text/plain
+  PDZ-INF.ASC:
+    mimetype: text/plain
+  PDZ-RP.ASC:
+    mimetype: text/plain
+  PO-SCOTT.ASC:
+    mimetype: text/plain
+  PO-SD.ASC:
+    mimetype: text/plain
+  PO-SPINS.ASC:
+    mimetype: text/plain
+  SCR-IGN.ASC:
+    mimetype: text/plain
+  XZ-BLOOD.ASC:
+    mimetype: text/plain
+  XZ-SPEED.ASC:
+    mimetype: text/plain

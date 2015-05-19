@@ -1,0 +1,36 @@
+name: ruah01f.zip
+hash: 8257c0e464c7404a27b85a94d2d5c15e
+year: 1999
+file:
+  ruah/FILE_ID.DIZ:
+    mimetype: text/plain
+  ruah/finals/K!WLAND.ASC:
+    mimetype: text/plain
+  ruah/finals/dz-bhcee.asc:
+    mimetype: text/plain
+  ruah/finals/results.txt:
+    mimetype: text/plain
+  ruah/ns/YB-NWL.ASC:
+    mimetype: text/plain
+  ruah/ns/arl-bhc2.asc:
+    mimetype: text/plain
+  ruah/ns/cl!-way.ans:
+    mimetype: text/plain
+  ruah/ns/is-way.asc:
+    mimetype: text/plain
+  ruah/ns/jzm-way.asc:
+    mimetype: text/plain
+  ruah/os/K!BHC.TXT:
+    mimetype: text/plain
+  ruah/os/K88-way.asc:
+    mimetype: text/plain
+  ruah/os/arl-bhc.asc:
+    mimetype: text/plain
+  ruah/os/cd!wayl.asc:
+    mimetype: text/plain
+  ruah/os/is-wayla.txt:
+    mimetype: text/plain
+  ruah/os/ozz-land.txt:
+    mimetype: text/plain
+  ruah/os/vol-way.txt:
+    mimetype: text/plain

@@ -1,0 +1,88 @@
+name: punc0995.zip
+hash: 3deec4fe1971581e36ec50b453b9e300
+year: 1995
+file:
+  BROADWAY.FNT:
+    mimetype: application/octet-stream
+  CI-LOCK.LIT:
+    mimetype: text/plain
+  CI-LOGO1.ANS:
+    mimetype: text/plain
+  CI-LOGO2.ANS:
+    mimetype: text/plain
+  DK-BLKVD.ANS:
+    mimetype: text/plain
+  DK-DDN.GIF:
+    mimetype: image/gif
+  DK-DDN3.ANS:
+    mimetype: text/plain
+  DK-F409.GIF:
+    mimetype: image/gif
+  DK-IMPLS.ANS:
+    mimetype: text/plain
+  DK-OBV2.ANS:
+    mimetype: text/plain
+  DK-PUNC.GIF:
+    mimetype: image/gif
+  DK-TBF1.GIF:
+    mimetype: image/gif
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GR-ZODIC.GIF:
+    mimetype: image/gif
+  IC-FTA.ANS:
+    mimetype: text/plain
+  IC-NIC.ANS:
+    mimetype: text/plain
+  IM-CIRR.ASC:
+    mimetype: text/plain
+  IM-DDN2.ASC:
+    mimetype: text/plain
+  IM-MKYF.ASC:
+    mimetype: text/plain
+  IM-NEVER.ASC:
+    mimetype: text/plain
+  IM-PARA.ASC:
+    mimetype: text/plain
+  KA-MGLND.ANS:
+    mimetype: text/plain
+  KA-SNOVA.ANS:
+    mimetype: text/plain
+  KA-YANG.ANS:
+    mimetype: text/plain
+  LU-DDN3.ASC:
+    mimetype: text/plain
+  LU-FALL1.ASC:
+    mimetype: text/plain
+  LU-LOGO2.ASC:
+    mimetype: text/plain
+  PUNC0995.FTP:
+    mimetype: text/plain
+  PUNC0995.GRT:
+    mimetype: text/plain
+  PUNC0995.MEM:
+    mimetype: text/plain
+  PUNC0995.NFO:
+    mimetype: text/plain
+  PUNC0995.SIT:
+    mimetype: text/plain
+  PUNCAPP1.ZIP:
+    mimetype: application/zip
+  PUNCREQ.EXE:
+    mimetype: application/x-msdos-program
+  PUNCREQ.ZIP:
+    mimetype: application/zip
+  PUNCSITE.ZIP:
+    mimetype: application/zip
+  SGT-PT.LIT:
+    mimetype: text/plain
+  SGT-TDC2.LIT:
+    mimetype: text/plain
+  SGT-TDOC.LIT:
+    mimetype: text/plain
+  SGT-TSF.LIT:
+    mimetype: text/plain
+  SP-DEEP.LIT:
+    mimetype: text/plain
+  SP-SICK.LIT:
+    mimetype: text/plain

@@ -1,0 +1,100 @@
+name: ecl-05.zip
+hash: 9bf5ee612dc496b1da262044bb8049ae
+year: 1996
+file:
+  -ANSI-:
+    mimetype: text/plain
+  -DIZ-:
+    mimetype: text/plain
+  -INFO-:
+    mimetype: text/plain
+  01-CNTST.NFO:
+    mimetype: text/plain
+  04-TALES.NFO:
+    mimetype: text/plain
+  05-INFO.NFO:
+    mimetype: text/plain
+  05-KON.NFO:
+    mimetype: text/plain
+  05-MEM.NFO:
+    mimetype: text/plain
+  CY-COL66.ANS:
+    mimetype: text/plain
+  CY-COL77.ANS:
+    mimetype: text/plain
+  CZ-CLSC1.ANS:
+    mimetype: text/plain
+  CZ-FC1.ANS:
+    mimetype: text/plain
+  CZ-KC1.ANS:
+    mimetype: text/plain
+  CZ-NAUS2.ANS:
+    mimetype: text/plain
+  DIE-KANG.ANS:
+    mimetype: text/plain
+  DIE-SHAO.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FU-ELD4.ANS:
+    mimetype: text/plain
+  FU-NEWUS.ANS:
+    mimetype: text/plain
+  GN-FORCE.ANS:
+    mimetype: text/plain
+  GN-LORD.ANS:
+    mimetype: text/plain
+  GN-PNA2.ANS:
+    mimetype: text/plain
+  GN-POO.ANS:
+    mimetype: text/plain
+  LM-HARRI.ANS:
+    mimetype: text/plain
+  LM-NTRIP.ANS:
+    mimetype: text/plain
+  M7-DWAR1.ANS:
+    mimetype: text/plain
+  M7-NEON.ANS:
+    mimetype: text/plain
+  M7-OD.ANS:
+    mimetype: text/plain
+  M7-SEX.ANS:
+    mimetype: text/plain
+  RI-ECL.BIN:
+    mimetype: application/octet-stream
+  RI-MALF.ANS:
+    mimetype: text/plain
+  RI-NEO.ANS:
+    mimetype: text/plain
+  RI-UA1.ANS:
+    mimetype: text/plain
+  RI-UA2.ANS:
+    mimetype: text/plain
+  SD-ECL1.ANS:
+    mimetype: text/plain
+  SD-NEO1.ANS:
+    mimetype: text/plain
+  SD-UA1.ANS:
+    mimetype: text/plain
+  SM-E2.ANS:
+    mimetype: text/plain
+  SM-OD.ANS:
+    mimetype: text/plain
+  ST-DOINK.ANS:
+    mimetype: text/plain
+  ST-EASE.ANS:
+    mimetype: text/plain
+  ST-ECL9.ANS:
+    mimetype: text/plain
+  ST-GF.ANS:
+    mimetype: text/plain
+  ST-HDR4.ANS:
+    mimetype: text/plain
+  ST-NSP2.ANS:
+    mimetype: text/plain
+  ST-OD.ANS:
+    mimetype: text/plain
+  ST-SP.ANS:
+    mimetype: text/plain
+  US-ACID.ANS:
+    mimetype: text/plain

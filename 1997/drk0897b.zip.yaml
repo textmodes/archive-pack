@@ -1,0 +1,30 @@
+name: drk0897b.zip
+hash: 869c6f5dba14e72b1a6f04e6f374e17f
+year: 1997
+file:
+  (ADS)---.---:
+    mimetype: text/plain
+  (PROGS)-.---:
+    mimetype: text/plain
+  DARKGEN2.EXE:
+    mimetype: application/x-msdos-program
+  DARKVIEW.DAT:
+    mimetype: audio/x-mod
+  DARKVIEW.DOC:
+    mimetype: text/plain
+  DARKVIEW.EXE:
+    mimetype: application/x-msdos-program
+  DARKVIEW.VOC:
+    mimetype: audio/x-unknown
+  EPITH-05.DAT:
+    mimetype: audio/x-mod
+  EPITH-05.EXE:
+    mimetype: application/x-msdos-program
+  EPITH-05.NFO:
+    mimetype: text/plain
+  EPITH-06.IT:
+    mimetype: audio/x-mod
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  MOBY-07.S3M:
+    mimetype: audio/x-mod

@@ -1,0 +1,102 @@
+name: atm-0294.zip
+hash: b845e8cdd9c6f51b9223a6e9ca2e245d
+year: 1994
+file:
+  ATM-LIST.ANS:
+    mimetype: text/plain
+  ATOMIC2.FIN:
+    mimetype: application/octet-stream
+  ATOMVIEW.EXE:
+    mimetype: application/x-msdos-program
+  BR-BRVIS.ANS:
+    mimetype: text/plain
+  BR-DEVC3.ANS:
+    mimetype: text/plain
+  CN-ATOM2.MOD:
+    mimetype: audio/x-mod
+  CN-ATOM4.MOD:
+    mimetype: audio/x-mod
+  CN-ATOM5.MOD:
+    mimetype: audio/x-mod
+  CN-VIS2.ANS:
+    mimetype: text/plain
+  EX-CHKR2.EXE:
+    mimetype: application/x-msdos-program
+  EX-PLAS7.EXE:
+    mimetype: application/x-msdos-program
+  FB-4RCH1.ANS:
+    mimetype: text/plain
+  FB-ATOM1.EXE:
+    mimetype: application/x-msdos-program
+  FB-CSNP2.ANS:
+    mimetype: text/plain
+  FB-CULT.ANS:
+    mimetype: text/plain
+  FB-DRAG1.ANS:
+    mimetype: text/plain
+  FB-GHEL1.ANS:
+    mimetype: text/plain
+  FB-HORZ2.ANS:
+    mimetype: text/plain
+  FB-HORZ3.ANS:
+    mimetype: text/plain
+  FB-INFD1.ANS:
+    mimetype: text/plain
+  FB-L&O.ANS:
+    mimetype: text/plain
+  FB-QUAN1.ANS:
+    mimetype: text/plain
+  FB-QUAN2.ANS:
+    mimetype: text/plain
+  FB-RIOT1.ANS:
+    mimetype: text/plain
+  FB-SHAZ2.ANS:
+    mimetype: text/plain
+  FB-SOD1.ANS:
+    mimetype: text/plain
+  FB-UKF1.ANS:
+    mimetype: text/plain
+  FB-VIRG1.ANS:
+    mimetype: text/plain
+  FB-WYLD1.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FUN!.COM:
+    mimetype: application/x-msdos-program
+  IP-CSNAP.ANS:
+    mimetype: text/plain
+  JH-SHADE.EXE:
+    mimetype: application/x-msdos-program
+  JH-STARS.EXE:
+    mimetype: application/x-msdos-program
+  KJ-DUNG1.ANS:
+    mimetype: text/plain
+  KJ-NEMX.ANS:
+    mimetype: text/plain
+  KJ-WZ.EXE:
+    mimetype: application/x-msdos-program
+  LAND3.MAP:
+    mimetype: application/octet-stream
+  MAP:
+    mimetype: application/octet-stream
+  OZ-CATTL.ANS:
+    mimetype: text/plain
+  OZ-HLGT2.ANS:
+    mimetype: text/plain
+  OZ-MNXPS.ANS:
+    mimetype: text/plain
+  PALETTE.REC:
+    mimetype: application/octet-stream
+  TW-MT7.ANS:
+    mimetype: text/plain
+  TW-MT8.ANS:
+    mimetype: text/plain
+  TW-THAB.ANS:
+    mimetype: text/plain
+  VT-DSS2.ANS:
+    mimetype: text/plain
+  W-QFWELC.ANS:
+    mimetype: text/plain
+  ZR-DPEND.ANS:
+    mimetype: text/plain

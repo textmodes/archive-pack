@@ -1,0 +1,24 @@
+name: ice-200104a.zip
+hash: 04a58125785a7f0cd55595d73bdc2953
+year: 2001
+file:
+  _ansi___.___:
+    mimetype: text/plain
+  _cont'd_.___:
+    mimetype: text/plain
+  _stat___.___:
+    mimetype: text/plain
+  ice-0104.nfo:
+    mimetype: text/plain
+  ice-200104.dsc:
+    mimetype: text/plain
+  iceview.cnf:
+    mimetype: text/plain
+  iceview.doc:
+    mimetype: text/plain
+  iceview.exe:
+    mimetype: application/x-msdos-program
+  ti-nosfer.ice:
+    mimetype: text/plain
+  ti-nyc26.ice:
+    mimetype: text/plain

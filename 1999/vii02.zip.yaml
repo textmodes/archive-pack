@@ -1,0 +1,46 @@
+name: vii02.zip
+hash: df2b4d15e56c472f5852576eda54c0bf
+year: 1999
+file:
+  7CONTEST.VII:
+    mimetype: text/plain
+  7VIEW.EXE:
+    mimetype: application/x-msdos-program
+  DR-RCAT.VII:
+    mimetype: text/plain
+  DR-SALT.VII:
+    mimetype: text/plain
+  ET-FLASH.RIP:
+    mimetype: image/x-rip
+  FEV-DII.VII:
+    mimetype: text/plain
+  FEV-GTO.VII:
+    mimetype: text/plain
+  FEV-PAE.VII:
+    mimetype: text/plain
+  FIL-GUDR.VII:
+    mimetype: text/plain
+  FIL-HOME.RIP:
+    mimetype: image/x-rip
+  FIL-POLY.VII:
+    mimetype: text/plain
+  FIL-RIPZ.VII:
+    mimetype: text/plain
+  FIL-SEVN.RIP:
+    mimetype: image/x-rip
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  JOINT02.VII:
+    mimetype: text/plain
+  SEVEN02.VII:
+    mimetype: text/plain
+  SVX-GAME.VII:
+    mimetype: text/plain
+  SVX-ID02.VII:
+    mimetype: text/plain
+  SVX-ROX1.VII:
+    mimetype: text/plain
+  VII-SV1.GIF:
+    mimetype: image/gif
+  VII-SV2.GIF:
+    mimetype: image/gif

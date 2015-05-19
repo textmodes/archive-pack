@@ -1,0 +1,34 @@
+name: ansis-v.zip
+hash: e70aab7a76085e503f0ff5e521a3e72b
+year: 1993
+file:
+  -RUNME.COM:
+    mimetype: application/x-msdos-program
+  VALDAY91.ANS:
+    mimetype: text/plain
+  VAMPIRE.ANS:
+    mimetype: text/plain
+  VANHALEN.ANS:
+    mimetype: text/plain
+  VE-INC.ANS:
+    mimetype: text/plain
+  VE-MP.ANS:
+    mimetype: text/plain
+  VE-MP2.ANS:
+    mimetype: text/plain
+  VIPERS.ANS:
+    mimetype: text/plain
+  VISREG.ANS:
+    mimetype: text/plain
+  VOID-BS.ANS:
+    mimetype: text/plain
+  VOID-ML.ANS:
+    mimetype: text/plain
+  VOIDACD3.ANS:
+    mimetype: text/plain
+  VOIDSDA1.ANS:
+    mimetype: text/plain
+  VOTE!.ANS:
+    mimetype: text/plain
+  VXPRESTO.ANS:
+    mimetype: text/plain

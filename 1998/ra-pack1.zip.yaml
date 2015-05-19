@@ -1,0 +1,44 @@
+name: ra-pack1.zip
+hash: 5744ba7cc4744faccbb99f03afa4c317
+year: 1998
+file:
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  RAGE1.GIF:
+    mimetype: image/gif
+  REBEL.APP:
+    mimetype: text/plain
+  REBELNFO.ANS:
+    mimetype: text/plain
+  RG-RA1.ANS:
+    mimetype: text/plain
+  RG-RA2.ANS:
+    mimetype: text/plain
+  RG-RA3.ANS:
+    mimetype: text/plain
+  RG-RA4.ANS:
+    mimetype: text/plain
+  RG-SCP1.ANS:
+    mimetype: text/plain
+  RG-THOM1.ANS:
+    mimetype: text/plain
+  RG-THOM2.ANS:
+    mimetype: text/plain
+  RG-THOM3.ANS:
+    mimetype: text/plain
+  SS-ANAR1.ANS:
+    mimetype: text/plain
+  SS-BR.ANS:
+    mimetype: text/plain
+  SS-FKJV1.ANS:
+    mimetype: text/plain
+  SS-REBEL.ANS:
+    mimetype: text/plain
+  SS-USANA.ANS:
+    mimetype: text/plain
+  SUICIDE.LIT:
+    mimetype: text/plain
+  THOM.EXE:
+    mimetype: application/x-msdos-program
+  THOM.NFO:
+    mimetype: text/plain

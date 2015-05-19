@@ -1,0 +1,156 @@
+name: cia54.zip
+hash: e96e8dddd3b478a3dec97920ca349305
+year: 1998
+file:
+  -ANSI---.---:
+    mimetype: text/plain
+  -ASCII--.---:
+    mimetype: text/plain
+  -HI-REZ-.---:
+    mimetype: text/plain
+  -OTHER--.---:
+    mimetype: text/plain
+  -RIPGFX-.---:
+    mimetype: text/plain
+  15-HAZE.ANS:
+    mimetype: text/plain
+  0798INFO.CIA:
+    mimetype: text/plain
+  0798MEMB.CIA:
+    mimetype: text/plain
+  BC-DIST.ANS:
+    mimetype: text/plain
+  BON_AMPU.JPG:
+    mimetype: image/jpeg
+  BON_WORM.JPG:
+    mimetype: image/jpeg
+  BWRGB2.JPG:
+    mimetype: image/jpeg
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FLEU2.JPG:
+    mimetype: image/jpeg
+  I0_CIA.JPG:
+    mimetype: image/jpeg
+  I0_DCSR.JPG:
+    mimetype: image/jpeg
+  I0_IS.JPG:
+    mimetype: image/jpeg
+  I0_RUN.JPG:
+    mimetype: image/jpeg
+  IG-CR.ANS:
+    mimetype: text/plain
+  IG-DRONE.ANS:
+    mimetype: text/plain
+  JP-CIA1.RIP:
+    mimetype: image/x-rip
+  JP-D3M1.RIP:
+    mimetype: image/x-rip
+  JP-DEM1.ASC:
+    mimetype: text/plain
+  JP-FUCK1.RIP:
+    mimetype: image/x-rip
+  JP-MC2.ASC:
+    mimetype: text/plain
+  JP-SOUL2.RIP:
+    mimetype: image/x-rip
+  JZ-CROP1.CIA:
+    mimetype: text/plain
+  KLU-C1A.ANS:
+    mimetype: text/plain
+  KLU-CIA.ANS:
+    mimetype: text/plain
+  KLU-SCN.ANS:
+    mimetype: text/plain
+  KLU-TSL.ANS:
+    mimetype: text/plain
+  M_PSAND.ASC:
+    mimetype: text/plain
+  MG-CDHEL.ASC:
+    mimetype: text/plain
+  MG-ER.ASC:
+    mimetype: text/plain
+  MG-MLR2.ASC:
+    mimetype: text/plain
+  MG-RELS.ASC:
+    mimetype: text/plain
+  MG-STMRK.ASC:
+    mimetype: text/plain
+  MG-TDLZ.ASC:
+    mimetype: text/plain
+  MID-CIA.ASC:
+    mimetype: text/plain
+  MID-CIA2.ASC:
+    mimetype: text/plain
+  MID-DE.ASC:
+    mimetype: text/plain
+  MID-RMRS.ASC:
+    mimetype: text/plain
+  MID-SSHI.ASC:
+    mimetype: text/plain
+  MID-SZ.ASC:
+    mimetype: text/plain
+  PE!DET.ANS:
+    mimetype: text/plain
+  PE!HARD.ASC:
+    mimetype: text/plain
+  PE!WAREZ.ANS:
+    mimetype: text/plain
+  RP-DEEP.ASC:
+    mimetype: text/plain
+  RP-PSYCH.ADF:
+    mimetype: text/plain
+  RP-SVOTE.ASC:
+    mimetype: text/plain
+  SCROLLZ.ZIP:
+    mimetype: application/zip
+  SUB-AIS.ANS:
+    mimetype: text/plain
+  SUB-GUTT.ANS:
+    mimetype: text/plain
+  SUB-PND.ANS:
+    mimetype: text/plain
+  SUB-SR.ANS:
+    mimetype: text/plain
+  SUB-SUM.ANS:
+    mimetype: text/plain
+  SUB-VSN1.ANS:
+    mimetype: text/plain
+  SUNTAN.JPG:
+    mimetype: image/jpeg
+  TNALITE.EXE:
+    mimetype: application/x-msdos-program
+  U4-DC.ASC:
+    mimetype: text/plain
+  U4-DEEP.ANS:
+    mimetype: text/plain
+  U4-MIRC2.ANS:
+    mimetype: text/plain
+  U4-SHARP.ANS:
+    mimetype: text/plain
+  UNS-AWE2.ANS:
+    mimetype: text/plain
+  UNS-AWE3.ANS:
+    mimetype: text/plain
+  UNS-DRN1.ANS:
+    mimetype: text/plain
+  UNS-IZS1.ANS:
+    mimetype: text/plain
+  UNS-UNS1.ANS:
+    mimetype: text/plain
+  US-DRN.ANS:
+    mimetype: text/plain
+  US-DROP.ASC:
+    mimetype: text/plain
+  US-MORPH.ANS:
+    mimetype: text/plain
+  US-ORBIT.ANS:
+    mimetype: text/plain
+  US-SCENT.ANS:
+    mimetype: text/plain
+  US-UNIT.BIN:
+    mimetype: application/octet-stream
+  WIRETAP.DOC:
+    mimetype: text/plain
+  WIRETAP.EXE:
+    mimetype: application/x-msdos-program

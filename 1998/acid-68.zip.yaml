@@ -1,0 +1,60 @@
+name: acid-68.zip
+hash: b8b75e229192c1a526b8225689b6b21c
+year: 1998
+file:
+  AcidView/AVDialog.class:
+    mimetype: application/x-java-applet
+  AcidView/AcidAnsi.class:
+    mimetype: application/x-java-applet
+  AcidView/AcidText.class:
+    mimetype: application/x-java-applet
+  AcidView/AcidView:
+    mimetype: text/x-shellscript
+  AcidView/AcidView.bat:
+    mimetype: application/x-msdos-program
+  AcidView/AcidView.class:
+    mimetype: application/x-java-applet
+  AcidView/AcidView.faq:
+    mimetype: text/plain
+  AcidView/AcidView.files:
+    mimetype: text/plain
+  AcidView/AcidView.fnt:
+    mimetype: application/octet-stream
+  AcidView/AcidView.jpg:
+    mimetype: image/jpeg
+  AcidView/AcidView.nfo:
+    mimetype: text/plain
+  AcidView/AcidXBin.class:
+    mimetype: application/x-java-applet
+  AcidView/AnsiImage.class:
+    mimetype: application/x-java-applet
+  acid-68.xb:
+    mimetype: text/x-xbin
+  acidapp.exe:
+    mimetype: application/x-msdos-program
+  as-tags.jpg:
+    mimetype: image/jpeg
+  file_id.diz:
+    mimetype: text/plain
+  gr-antiherocover.jpg:
+    mimetype: image/jpeg
+  gr-womb.jpg:
+    mimetype: image/jpeg
+  gv-decibel.jpg:
+    mimetype: image/jpeg
+  if-class.jpg:
+    mimetype: image/jpeg
+  if-inf.jpg:
+    mimetype: image/jpeg
+  j1-dogintheflow.jpg:
+    mimetype: image/jpeg
+  ky-neko.jpg:
+    mimetype: image/jpeg
+  release.nfo:
+    mimetype: text/plain
+  tk-dragonflygrid.jpg:
+    mimetype: image/jpeg
+  tk-plugin.jpg:
+    mimetype: image/jpeg
+  we-will.sue:
+    mimetype: text/plain

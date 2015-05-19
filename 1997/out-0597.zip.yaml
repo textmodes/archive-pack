@@ -1,0 +1,40 @@
+name: out-0597.zip
+hash: 255d53b4f8869633dd650962e700d76a
+year: 1997
+file:
+  DISTLIST.TXT:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FILEDESC.TXT:
+    mimetype: text/plain
+  FILELIST.TXT:
+    mimetype: text/plain
+  JET_THF1.ZIP:
+    mimetype: application/zip
+  JET_THF2.ZIP:
+    mimetype: application/zip
+  OUT-AD.RIP:
+    mimetype: image/x-rip
+  OUT-ANSI.ANS:
+    mimetype: text/plain
+  OUT-BATM.ANS:
+    mimetype: text/plain
+  OUT-DMAC.RIP:
+    mimetype: image/x-rip
+  OUT-DVAD.RIP:
+    mimetype: image/x-rip
+  OUT-KMS.ANS:
+    mimetype: text/plain
+  OUT-MEMO.ANS:
+    mimetype: text/plain
+  OUT-MEMO.RIP:
+    mimetype: image/x-rip
+  OUT-MERM.ANS:
+    mimetype: text/plain
+  OUT-ROCK.RIP:
+    mimetype: image/x-rip
+  OUT.AD:
+    mimetype: text/plain
+  OUTWORLD.TXT:
+    mimetype: text/plain

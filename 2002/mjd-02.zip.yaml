@@ -1,0 +1,128 @@
+name: mjd-02.zip
+hash: 78ffc76ed39a6b29b7171f4bd81d6c48
+year: 2002
+file:
+  A71-CBC.JPG:
+    mimetype: image/jpeg
+  A71-EPS.JPG:
+    mimetype: image/jpeg
+  A71-MJD.JPG:
+    mimetype: image/jpeg
+  AB-ASC.ASC:
+    mimetype: text/plain
+  AB-XOR.ASC:
+    mimetype: text/plain
+  CL!-CRAD.ASC:
+    mimetype: text/plain
+  CL!-EPS2.ASC:
+    mimetype: text/plain
+  CL!-FR.ASC:
+    mimetype: text/plain
+  CL!-NF.ASC:
+    mimetype: text/plain
+  CL!-P.ASC:
+    mimetype: text/plain
+  CL!-PDX.ASC:
+    mimetype: text/plain
+  CL!-SHVA.ASC:
+    mimetype: text/plain
+  E0-DEEP.ASC:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  H7-HSTUF.ASC:
+    mimetype: text/plain
+  INF-93.ASC:
+    mimetype: text/plain
+  INF-DO.ASC:
+    mimetype: text/plain
+  INF-FS.ASC:
+    mimetype: text/plain
+  INF-FS2.ASC:
+    mimetype: text/plain
+  INF-FS3.ASC:
+    mimetype: text/plain
+  INF-FS4.ASC:
+    mimetype: text/plain
+  INF-MW.ASC:
+    mimetype: text/plain
+  INF-NMS.ASC:
+    mimetype: text/plain
+  INF-OLDS.ASC:
+    mimetype: text/plain
+  INF-POT.ASC:
+    mimetype: text/plain
+  INF-RISE.ASC:
+    mimetype: text/plain
+  INF-SD.ASC:
+    mimetype: text/plain
+  INF-SDK.ASC:
+    mimetype: text/plain
+  INF-SS.ASC:
+    mimetype: text/plain
+  INF-STH.ASC:
+    mimetype: text/plain
+  INF-TV2.ASC:
+    mimetype: text/plain
+  MJD-02.NFO:
+    mimetype: text/plain
+  SK!MJD01.ASC:
+    mimetype: text/plain
+  SK!MJD02.ASC:
+    mimetype: text/plain
+  SK!REACT.ASC:
+    mimetype: text/plain
+  SLY-CBC.JPG:
+    mimetype: image/jpeg
+  SLY-EPS.JPG:
+    mimetype: image/jpeg
+  SLY-OMI.JPG:
+    mimetype: image/jpeg
+  SLY-REN1.JPG:
+    mimetype: image/jpeg
+  SLY-SMTH.JPG:
+    mimetype: image/jpeg
+  SLY-SNFR.JPG:
+    mimetype: image/jpeg
+  THR-CBC.DIZ:
+    mimetype: text/plain
+  THR-CE.ASC:
+    mimetype: text/plain
+  THR-EPS2.DIZ:
+    mimetype: text/plain
+  THR-ETP.DIZ:
+    mimetype: text/plain
+  THR-P.ASC:
+    mimetype: text/plain
+  TO-MNSTR.ASC:
+    mimetype: text/plain
+  U3-BLWFS.ASC:
+    mimetype: text/plain
+  U3-PWP.ASC:
+    mimetype: text/plain
+  U3-SPR.ASC:
+    mimetype: text/plain
+  US-AMN3.ASC:
+    mimetype: text/plain
+  US-EPS3.ASC:
+    mimetype: text/plain
+  VLR-AMN.ASC:
+    mimetype: text/plain
+  VLR-CBC.ASC:
+    mimetype: text/plain
+  VLR-DOGM.ASC:
+    mimetype: text/plain
+  VLR-DUD.ASC:
+    mimetype: text/plain
+  VLR-ETP.ASC:
+    mimetype: text/plain
+  VLR-EUCS.ASC:
+    mimetype: text/plain
+  VLR-HSG.ASC:
+    mimetype: text/plain
+  VLR-LBP.ASC:
+    mimetype: text/plain
+  VLR-MGL.ASC:
+    mimetype: text/plain
+  VLR-SRP.ASC:
+    mimetype: text/plain

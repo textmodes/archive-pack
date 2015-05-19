@@ -1,0 +1,26 @@
+name: tpy0995a.zip
+hash: 835e523a6f7bf08a8542ec983996b54b
+year: 1995
+file:
+  AYRCFG.EXE:
+    mimetype: application/x-msdos-program
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  LOGOFF.PCB:
+    mimetype: application/octet-stream
+  MENT#L.NFO:
+    mimetype: text/plain
+  MUSIC.PCB:
+    mimetype: application/octet-stream
+  NYC.PCB:
+    mimetype: application/octet-stream
+  TPY.APP:
+    mimetype: application/octet-stream
+  TPY.NFO:
+    mimetype: text/plain
+  TPY.RQT:
+    mimetype: application/octet-stream
+  TPY0995A.ASC:
+    mimetype: text/plain
+  WAREZ.PCB:
+    mimetype: application/octet-stream

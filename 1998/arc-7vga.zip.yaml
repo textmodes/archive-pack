@@ -1,0 +1,38 @@
+name: arc-7vga.zip
+hash: b0a136abf645efb471adc660f83865f8
+year: 1998
+file:
+  ARC7.NFO:
+    mimetype: text/plain
+  DIJ-FUN.ASC:
+    mimetype: text/plain
+  DIJ-RET.ASC:
+    mimetype: text/plain
+  LEK-ARC.JPG:
+    mimetype: image/jpeg
+  SYN-___.JPG:
+    mimetype: image/jpeg
+  SYN-ARK.JPG:
+    mimetype: image/jpeg
+  SYN-BLOB.JPG:
+    mimetype: image/jpeg
+  SYN-DARK.JPG:
+    mimetype: image/jpeg
+  SYN-EVIL.JPG:
+    mimetype: image/jpeg
+  SYN-FB.JPG:
+    mimetype: image/jpeg
+  SYN-FUCT.JPG:
+    mimetype: image/jpeg
+  SYN-NEB2.JPG:
+    mimetype: image/jpeg
+  SYN-NUK.JPG:
+    mimetype: image/jpeg
+  SYN-SPRL.JPG:
+    mimetype: image/jpeg
+  WAK-ARC.JPG:
+    mimetype: image/jpeg
+  WAK-ARC2.JPG:
+    mimetype: image/jpeg
+  WAK-FLIP.JPG:
+    mimetype: image/jpeg

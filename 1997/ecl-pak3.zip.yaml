@@ -1,0 +1,88 @@
+name: ecl-pak3.zip
+hash: 78afa20740a5199ea24a77a1226c5c80
+year: 1997
+file:
+  -165LIFE.COM:
+    mimetype: application/x-msdos-program
+  CKO-ECOL.ANS:
+    mimetype: text/plain
+  DARKNESS.ANS:
+    mimetype: text/plain
+  DLS-1998.ANS:
+    mimetype: text/plain
+  DLS-BANN.ANS:
+    mimetype: text/plain
+  DLS-HELI.ANS:
+    mimetype: text/plain
+  DLS-NONS.ANS:
+    mimetype: text/plain
+  DLS-STAT.ANS:
+    mimetype: text/plain
+  ECL_CLW.EXE:
+    mimetype: application/x-msdos-program
+  ECL_LOGO.BMP:
+    mimetype: image/x-ms-bmp
+  ECL_NFO3.ANS:
+    mimetype: text/plain
+  ECL640.EXE:
+    mimetype: application/x-msdos-program
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  KN!BASS.ANS:
+    mimetype: text/plain
+  KN!EVID.ANS:
+    mimetype: text/plain
+  KN!PURE.ANS:
+    mimetype: text/plain
+  KN!RZAP.ANS:
+    mimetype: text/plain
+  PR_PNM.ANS:
+    mimetype: text/plain
+  PR_QUEST.ANS:
+    mimetype: text/plain
+  PR_WINDM.ANS:
+    mimetype: text/plain
+  PRDLSCIX.ANS:
+    mimetype: text/plain
+  PRSNALMA.ANS:
+    mimetype: text/plain
+  PRSNLOST.ANS:
+    mimetype: text/plain
+  SLC_ECO.ANS:
+    mimetype: text/plain
+  SN!BOE.ANS:
+    mimetype: text/plain
+  SN!CHAT.ANS:
+    mimetype: text/plain
+  SN!EX.ANS:
+    mimetype: text/plain
+  SN!IMG.ANS:
+    mimetype: text/plain
+  SN!LOG.ANS:
+    mimetype: text/plain
+  SN!MAIN.ANS:
+    mimetype: text/plain
+  SN!THN.ANS:
+    mimetype: text/plain
+  SN!WIND.ANS:
+    mimetype: text/plain
+  SN!ZTUPH.ANS:
+    mimetype: text/plain
+  TA-ECO.ANS:
+    mimetype: text/plain
+  TA-ONLIN.ANS:
+    mimetype: text/plain
+  TA-TECH.ANS:
+    mimetype: text/plain
+  TA-VIEW.ANS:
+    mimetype: text/plain
+  TL@ECL2.ANS:
+    mimetype: text/plain
+  TL@ECL3.ANS:
+    mimetype: text/plain
+  TL@ECL97.ANS:
+    mimetype: text/plain
+  TL@LOGIE.ANS:
+    mimetype: text/plain
+  TL@WNDL2.ANS:
+    mimetype: text/plain

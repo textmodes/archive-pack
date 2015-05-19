@@ -1,0 +1,100 @@
+name: wkd-1194.zip
+hash: 65cb8e388606c756930be6641c3c4130
+year: 1994
+file:
+  BIT-MNU1.WKD:
+    mimetype: text/plain
+  BIT-TND.WKD:
+    mimetype: text/plain
+  BIT-TPU.WKD:
+    mimetype: application/octet-stream
+  BIT-WKD.WKD:
+    mimetype: text/plain
+  BIT-WKD7.WKD:
+    mimetype: text/plain
+  BLOWN.EXE:
+    mimetype: application/x-msdos-program
+  FB-CT1.WKD:
+    mimetype: application/octet-stream
+  FB-CT2.WKD:
+    mimetype: application/octet-stream
+  FB-FOE.WKD:
+    mimetype: application/octet-stream
+  FB-HOF.WKD:
+    mimetype: application/octet-stream
+  FB-MATRX.WKD:
+    mimetype: application/octet-stream
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FILE_ID.WKD:
+    mimetype: application/octet-stream
+  LHS-ACID.WKD:
+    mimetype: text/plain
+  LHS-MID1.WKD:
+    mimetype: text/plain
+  LHS-MID4.WKD:
+    mimetype: text/plain
+  LHS-TWH.WKD:
+    mimetype: text/plain
+  NH-BLOWN.EXE:
+    mimetype: application/x-msdos-program
+  PB-BA9.WKD:
+    mimetype: text/plain
+  PB-CARTL.WKD:
+    mimetype: text/plain
+  PB-CONS.WKD:
+    mimetype: text/plain
+  PB-COUNT.WKD:
+    mimetype: text/plain
+  PB-FCC.WKD:
+    mimetype: text/plain
+  PB-LINER.WKD:
+    mimetype: text/plain
+  PB-LIT1.WKD:
+    mimetype: text/plain
+  PB-NEXUS.WKD:
+    mimetype: text/plain
+  PB-SS.WKD:
+    mimetype: text/plain
+  PB-VU.WKD:
+    mimetype: image/gif
+  PB-WKD1.GIF:
+    mimetype: image/gif
+  PB-WKD3.GIF:
+    mimetype: image/gif
+  RM-MIDNT.WKD:
+    mimetype: text/plain
+  SS-MIST.WKD:
+    mimetype: text/plain
+  TT!-BULL.WKD:
+    mimetype: text/plain
+  TT!-CYCM.WKD:
+    mimetype: text/plain
+  TT!-FXEX.WKD:
+    mimetype: text/plain
+  TT!-GC.WKD:
+    mimetype: text/plain
+  TT!-GOTH.WKD:
+    mimetype: text/plain
+  TT!-NVLW.WKD:
+    mimetype: text/plain
+  VD-GZERO.WKD:
+    mimetype: text/plain
+  VD-IDG1.WKD:
+    mimetype: text/plain
+  VD-MONOL.WKD:
+    mimetype: text/plain
+  VD-NLA.WKD:
+    mimetype: text/plain
+  VD-SYSEX.WKD:
+    mimetype: text/plain
+  VOICES.TXT:
+    mimetype: text/plain
+  WKD-1194.NFO:
+    mimetype: text/plain
+  WKD-1194.WKD:
+    mimetype: text/plain
+  WKDAPP.EXE:
+    mimetype: application/x-msdos-program
+  WKDVIEW.EXE:
+    mimetype: application/x-msdos-program

@@ -1,0 +1,8 @@
+name: t-mind.zip
+hash: 97c6b94414d6a2302e60421d781e7689
+year: 1998
+file:
+  -T-mind.txt:
+    mimetype: text/plain
+  file_id.diz:
+    mimetype: text/plain

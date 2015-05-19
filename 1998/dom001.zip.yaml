@@ -1,0 +1,54 @@
+name: dom001.zip
+hash: 8c6ee4ab717291793dc9248803e0983c
+year: 1998
+file:
+  01#DOM.NFO:
+    mimetype: text/plain
+  01NEWS.ANS:
+    mimetype: text/plain
+  ANM-CLY2.ANS:
+    mimetype: text/plain
+  ANM-DOM1.BIN:
+    mimetype: text/x-binary
+  ANM-PH.ANS:
+    mimetype: text/plain
+  ANM-RTIO.ANS:
+    mimetype: text/plain
+  ANM-SGA1.GIF:
+    mimetype: image/gif
+  ANM-TUT1.ANS:
+    mimetype: text/plain
+  ANM_CAND.ANS:
+    mimetype: text/plain
+  ANM_DOM2.JPG:
+    mimetype: image/jpeg
+  BZ_AH2.ANS:
+    mimetype: text/plain
+  BZ_HS1.ANS:
+    mimetype: text/plain
+  BZ_MNIA1.ANS:
+    mimetype: text/plain
+  BZ_Z.ANS:
+    mimetype: text/plain
+  DOMINIO1.GIF:
+    mimetype: image/gif
+  ESD-BSS.ASC:
+    mimetype: text/plain
+  ESD-FSOL.ASC:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  PAN-DOM.ASC:
+    mimetype: text/plain
+  PAN-DOM1.JPG:
+    mimetype: image/jpeg
+  PAN-HH.ASC:
+    mimetype: text/plain
+  PAN-LEAF.JPG:
+    mimetype: image/jpeg
+  PAN-LPA.ASC:
+    mimetype: text/plain
+  ROMVESEN.!!!:
+    mimetype: text/plain
+  VRM-DRAP.JPG:
+    mimetype: image/jpeg

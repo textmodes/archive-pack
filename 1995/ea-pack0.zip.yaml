@@ -1,0 +1,12 @@
+name: ea-pack0.zip
+hash: ed909efd29e866cd3f532844e40e9970
+year: 1995
+file:
+  AMIGA.EXE:
+    mimetype: application/x-msdos-program
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FK-DIZ.EA:
+    mimetype: text/plain
+  FK-PACK.EA:
+    mimetype: text/plain

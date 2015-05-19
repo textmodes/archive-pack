@@ -1,0 +1,32 @@
+name: bamboo02.zip
+hash: 7f5954d4adef76ed702b264300db1966
+year: 1999
+file:
+  BAMBOO.NFO:
+    mimetype: text/plain
+  BAMBOO02.NFO:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GAS-APP.APP:
+    mimetype: application/octet-stream
+  GAS-APP.EXE:
+    mimetype: application/x-msdos-program
+  GAS.NFO:
+    mimetype: text/plain
+  ZL-CLDWR.ASC:
+    mimetype: text/plain
+  ZL-FORCE.ASC:
+    mimetype: text/plain
+  ZL-FORES.ASC:
+    mimetype: text/plain
+  ZL-G07DZ.ASC:
+    mimetype: text/plain
+  ZL-GAS.ASC:
+    mimetype: text/plain
+  ZL-GAS.XB:
+    mimetype: text/x-xbin
+  ZL-ICE.ASC:
+    mimetype: text/plain
+  ZL-VOD.ASC:
+    mimetype: text/plain

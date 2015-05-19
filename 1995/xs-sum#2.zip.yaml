@@ -1,0 +1,134 @@
+name: xs-sum#2.zip
+hash: 74a5f0f0ce39410384246c50b8fb9af3
+year: 1995
+file:
+  (_DFUSE).EXE:
+    mimetype: application/x-msdos-program
+  !!binary +S3ExMTExC0uLS35:
+    mimetype: text/plain
+  !!binary +S3ExMTExMQuLS35:
+    mimetype: text/plain
+  !!binary +S3EQU5TSSEuLS35:
+    mimetype: text/plain
+  !!binary +S3EQVNDSSEuLS35:
+    mimetype: text/plain
+  !!binary +S3ERVhFQyEuLS35:
+    mimetype: text/plain
+  !!binary +S3ER0lGUyEuLS35:
+    mimetype: text/plain
+  !!binary +S3ESU5GTyEuLS35:
+    mimetype: text/plain
+  !!binary +S3EUklQUyEuLS35:
+    mimetype: text/plain
+  !!binary +S3EWklQUyEuLS35:
+    mimetype: text/plain
+  BOARDS.XSS:
+    mimetype: text/plain
+  CAP-AKIR.XSS:
+    mimetype: text/plain
+  CAP-DBZ1.XSS:
+    mimetype: text/plain
+  CAP-DBZ2.XSS:
+    mimetype: text/plain
+  CAP-GIRL.XSS:
+    mimetype: text/plain
+  DV-ANAIA.XSS:
+    mimetype: text/plain
+  DV-DF1.XSS:
+    mimetype: text/plain
+  DV-DFUS1.RIP:
+    mimetype: image/x-rip
+  DV-DFUS2.RIP:
+    mimetype: image/x-rip
+  DV-DOPEB.XSS:
+    mimetype: text/plain
+  DV-HIDE#.XSS:
+    mimetype: text/plain
+  DV-IMP01.XSS:
+    mimetype: text/plain
+  DV-IMP02.XSS:
+    mimetype: text/plain
+  DV-IMP03.XSS:
+    mimetype: text/plain
+  DV-KORT!.XSS:
+    mimetype: text/plain
+  DV-LOGDI.XSS:
+    mimetype: text/plain
+  DV-NEWAR.XSS:
+    mimetype: text/plain
+  DV-RESIS.XSS:
+    mimetype: text/plain
+  DV-SUBST.XSS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FILES.XSS:
+    mimetype: text/plain
+  INC-DF1.EXE:
+    mimetype: application/x-msdos-program
+  MEMBERS.XSS:
+    mimetype: text/plain
+  NEO.COM:
+    mimetype: application/x-msdos-program
+  R!-DENT1.XSS:
+    mimetype: text/plain
+  R!-DENT2.XSS:
+    mimetype: text/plain
+  R!-GEMIN.XSS:
+    mimetype: text/plain
+  R!-RGE1.XSS:
+    mimetype: text/plain
+  SG-X!ESS.GIF:
+    mimetype: image/gif
+  SY-DIGIT.XSS:
+    mimetype: text/plain
+  SY-TOTAL.XSS:
+    mimetype: text/plain
+  SY-X!ESS.XSS:
+    mimetype: text/plain
+  THEFUSE.EXE:
+    mimetype: application/x-msdos-program
+  WS-ALTAR.XSS:
+    mimetype: text/plain
+  WS-ANAI.XSS:
+    mimetype: text/plain
+  WS-AOSM1.XSS:
+    mimetype: text/plain
+  WS-BPC01.XSS:
+    mimetype: text/plain
+  WS-BPCID.XSS:
+    mimetype: text/plain
+  WS-BPCNF.XSS:
+    mimetype: text/plain
+  WS-IDWIR.XSS:
+    mimetype: text/plain
+  WS-MENU.XSS:
+    mimetype: text/plain
+  WS-ND2.XSS:
+    mimetype: text/plain
+  WS-TETS1.XSS:
+    mimetype: text/plain
+  WS-TETS2.XSS:
+    mimetype: text/plain
+  WS-TTMEN.XSS:
+    mimetype: text/plain
+  WS-WIR95.XSS:
+    mimetype: text/plain
+  WS-WSLOG.XSS:
+    mimetype: text/plain
+  WS-XENOP.XSS:
+    mimetype: text/plain
+  WS-XSWHQ.XSS:
+    mimetype: text/plain
+  XESSINFO.XSS:
+    mimetype: text/plain
+  XS_APPLY.EXE:
+    mimetype: application/x-msdos-program
+  XSS-LOG1.XSS:
+    mimetype: text/plain
+  XSS-LOG2.XSS:
+    mimetype: text/plain
+  XSS-LOG3.XSS:
+    mimetype: text/plain
+  XSSREQ.ZIP:
+    mimetype: application/zip

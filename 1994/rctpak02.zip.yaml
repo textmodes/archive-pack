@@ -1,0 +1,76 @@
+name: rctpak02.zip
+hash: ae1b14c2ae4e801c15b71237b71eb3f1
+year: 1994
+file:
+  BESTSGEN.CD:
+    mimetype: application/octet-stream
+  BL-SLAUG.LIT:
+    mimetype: text/plain
+  DONT4GET.IOC:
+    mimetype: application/octet-stream
+  DR-DECH.LIT:
+    mimetype: text/plain
+  DR-PREHL.LIT:
+    mimetype: text/plain
+  DR-REALM.LIT:
+    mimetype: text/plain
+  DR-SUIC.LIT:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  LOADER.EXE:
+    mimetype: application/x-msdos-program
+  MR-DEATH.ANS:
+    mimetype: text/plain
+  MR-KOD.LIT:
+    mimetype: text/plain
+  MR-KOD3.ANS:
+    mimetype: text/plain
+  MR-LOG2.ANS:
+    mimetype: text/plain
+  MR-LOGO.ANS:
+    mimetype: text/plain
+  MR-LOGON.ANS:
+    mimetype: text/plain
+  MR-LSTWR.LIT:
+    mimetype: text/plain
+  MR-MOON.LIT:
+    mimetype: text/plain
+  MR-PHREA.LIT:
+    mimetype: text/plain
+  MR-TE.ANS:
+    mimetype: text/plain
+  PCBMNU01.ANS:
+    mimetype: text/plain
+  PCBMNU02.ANS:
+    mimetype: text/plain
+  PCBSYS01.ANS:
+    mimetype: text/plain
+  PCBSYS02.ANS:
+    mimetype: text/plain
+  RCTLOGO.ANS:
+    mimetype: text/plain
+  RCTVIEW.EXE:
+    mimetype: application/x-msdos-program
+  REACTOR.MEM:
+    mimetype: text/plain
+  REACTOR.NFO:
+    mimetype: text/plain
+  TF-DSTC1.ANS:
+    mimetype: text/plain
+  TF-JST01.ANS:
+    mimetype: text/plain
+  TF-LOGOF.ANS:
+    mimetype: text/plain
+  TF-PD02.ANS:
+    mimetype: text/plain
+  TF-RCT01.ANS:
+    mimetype: text/plain
+  TF-SOT02.ANS:
+    mimetype: text/plain
+  TF-TUE01.ANS:
+    mimetype: text/plain
+  TF-TUE02.ANS:
+    mimetype: text/plain
+  ZIPCOMNT.TXT:
+    mimetype: text/plain
